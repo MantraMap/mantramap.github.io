@@ -63,7 +63,7 @@ paginate_path: "/page/:num/"
 paginate: 24
 show_get_theme_btn: true
 use_logo: false
-exclude: [vendor]
+
 
 # Content paginator
 paginate_content:
@@ -103,7 +103,8 @@ exclude: [
   'Gemfile',
   'Gemfile.lock',
   'gulpfile.js',
-  'README.md'
+  'README.md',
+  'vendor'
 ]
 
 # Theme
