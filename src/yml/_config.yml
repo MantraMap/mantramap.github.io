@@ -10,6 +10,7 @@
 
 # Advanced Settings
 #=include advanced.yml
+exclude: [vendor]
 
 # Build settings
 markdown: kramdown
