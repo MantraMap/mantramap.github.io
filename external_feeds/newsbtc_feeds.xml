@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>NewsBTC</title>
+	<atom:link href="https://newsbtc.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://newsbtc.com/</link>
+	<description>Bitcoin &#38; cryptocurrency news today, price &#38; technical analysis</description>
+	<lastBuildDate>Wed, 07 Dec 2022 14:07:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://newsbtc.com/wp-content/uploads/2020/06/cropped-cropped-cropped-favicon-32x32.png</url>
+	<title>NewsBTC</title>
+	<link>https://newsbtc.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bullish News For Polygon! zkEVM Mainnet Is Coming Soon, Says Co-Founder</title>
+		<link>https://newsbtc.com/matic/bullish-news-for-polygon-zkevm-mainnet-is-almost-here/</link>
+		
+		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 14:07:35 +0000</pubDate>
+				<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<category><![CDATA[zkEVM]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511489</guid>
+
+					<description><![CDATA[Polygon, an Ethereum layer-2 solution, has recently seen massive hype due to notable partnerships with major brands such as Starbucks, Mercedes, Meta, Reddit, eBay, Disney, and Adobe, among others. And the team led by Sandeep Nailwal, co-founder of Polygon, continues to work hard to keep that hype going. Via Twitter, Nailwal shared a massively bullish news today. He wrote: zkEVM passing 99.5% of Ethereum test vectors putting Polygon zkEVM at extremely high EVM-equivalence. This is also reflected in the dev experience where 1000s of solidity smart contracts have been deployed on zkEVM without any changes whatsoever. Running towards mainnet soon! Narwal referred to David Schwartz, who is the project lead of the Polygon Hermez team. Schwartz announced in this thread that Polygon&#8217;s zkEVM is making tremendous progress. &#8220;Currently, we are passing 99.5% of Ethereum test vectors that apply to our type-3 implementation (9,650+ tests passed),&#8221; wrote the project lead of team Hermez. Related Reading: This Report Suggests Crypto Sector Bearing A Final Flush-Out Polygon zkEVM is a complete EVM-equivalent L2 zk-rollup Ethereum scaling solution. On it, users have deployed more than 3000 smart contracts without friction or transformation. &#8220;Their dApps work seamlessly, with over 20K transactions,&#8221; Schwartz added, further explaining that the test network zkProver has provided more than 12,000 complete proofs of validity for these arbitrary user transactions. This Is Why The zkEVM Is Such A Big Deal For Polygon Layer-2 scaling solutions for the Ethereum blockchain have seen a gigantic growth in transactions in 2022. And the trend is projected to continue. Layer 2 growth this year has been monumental. I expect this trend to continue in 2023 and beyond. pic.twitter.com/wamQOPicuD &#8212; Miles Deutscher (@milesdeutscher) December 7, 2022 Meanwhile, Polygon has established itself as one of the leading scaling solutions. Of all the solutions, Polygon has forged the most notable and largest partnerships to grow the Ethereum ecosystem. And the zkEVM. a zero-knowledge Ethereum Virtual Machine (zkEVM), could further cement this position for Polygon. The zkEVM is operating zk rollups. This smart-contract technology bundles transactions from the Ethereum ecosystem and sends them to the Ethereum mainnet as a single transaction. Related Reading: Continued Upswing Of VIX Signals Doom For Bitcoin; But Friday Will Be Crucial In this context, the zero-knowledge cryptography is both a privacy measure and a data minimization measure. A zero-knowledge proof makes it possible to retain full security without revealing the data necessary to do so. Remarkably, the Polygon zkEVM maintains full Ethereum compatibility. Until now, zk rollups with full Ethereum compatibility were deemed difficult to program. In this respect, the development of Polygon is a major milestone. Once the zkEVM mainnet comes online, there could be an explosion of dApps on Polygon. And the price of MATIC could profit big time from it. However, at press time, MATIC was trading at $0.88, following the broader market sentiment.]]></description>
+										<content:encoded><![CDATA[<p>Polygon, an Ethereum layer-2 solution, has recently seen massive hype due to notable <a href="https://newsbtc.com/analysis/polygon-shows-strength-as-bulls-eye-1-but-there-is-a-key-issue-pending/" target="_blank" rel="noopener">partnerships</a> with major brands such as <a href="https://newsbtc.com/news/polygon-surges-12-edging-bitcoin-and-ethereum-in-last-24-hours/" target="_blank" rel="noopener">Starbucks</a>, Mercedes, Meta, Reddit, eBay, Disney, and Adobe, among others.</p>
+<p>And the team led by Sandeep Nailwal, co-founder of Polygon, continues to work hard to keep that hype going. Via Twitter, Nailwal shared a massively bullish news today. He <a href="https://twitter.com/sandeepnailwal/status/1600459182087340032" target="_blank" rel="noopener">wrote</a>:</p>
+<blockquote><p>zkEVM passing 99.5% of Ethereum test vectors putting Polygon zkEVM at extremely high EVM-equivalence.</p>
+<p>This is also reflected in the dev experience where 1000s of solidity smart contracts have been deployed on zkEVM without any changes whatsoever. Running towards mainnet soon!</p></blockquote>
+<p>Narwal referred to David Schwartz, who is the project lead of the Polygon Hermez team. Schwartz <a href="https://twitter.com/davidsrz/status/1600456397593858050" target="_blank" rel="noopener">announced</a> in this thread that Polygon&#8217;s zkEVM is making tremendous progress.</p>
+<p>&#8220;Currently, we are passing 99.5% of Ethereum test vectors that apply to our type-3 implementation (9,650+ tests passed),&#8221; wrote the project lead of team Hermez.</p>
+
+<p>Polygon zkEVM is a complete EVM-equivalent L2 zk-rollup Ethereum scaling solution. On it, users have deployed more than 3000 smart contracts without friction or transformation.</p>
+<p>&#8220;Their dApps work seamlessly, with over 20K transactions,&#8221; Schwartz added, further explaining that the test network zkProver has provided more than 12,000 complete proofs of validity for these arbitrary user transactions.</p>
+<h2>This Is Why The zkEVM Is Such A Big Deal For Polygon</h2>
+<p>Layer-2 scaling solutions for the Ethereum blockchain have seen a gigantic growth in transactions in 2022. And the trend is projected to continue.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Layer 2 growth this year has been monumental. </p>
+<p>I expect this trend to continue in 2023 and beyond. <a href="https://t.co/wamQOPicuD">pic.twitter.com/wamQOPicuD</a></p>
+<p>&mdash; Miles Deutscher (@milesdeutscher) <a href="https://twitter.com/milesdeutscher/status/1600322319062167552?ref_src=twsrc%5Etfw">December 7, 2022</a></p></blockquote>
+<p></p>
+<p>Meanwhile, Polygon has established itself as one of the leading scaling solutions. Of all the solutions, Polygon has forged the most notable and largest partnerships to grow the Ethereum ecosystem.</p>
+<p>And the zkEVM. a zero-knowledge Ethereum Virtual Machine (zkEVM), could further cement this position for Polygon.</p>
+<p>The zkEVM is operating zk rollups. This smart-contract technology bundles transactions from the Ethereum ecosystem and sends them to the Ethereum mainnet as a single transaction.</p>
+
+<p>In this context, the zero-knowledge cryptography is both a privacy measure and a data minimization measure. A zero-knowledge proof makes it possible to retain full security without revealing the data necessary to do so.</p>
+<p>Remarkably, the Polygon zkEVM maintains full Ethereum compatibility. Until now, zk rollups with full Ethereum compatibility were deemed difficult to program. In this respect, the development of Polygon is a major milestone.</p>
+<p>Once the zkEVM mainnet comes online, there could be an explosion of dApps on Polygon. And the price of MATIC could profit big time from it.</p>
+<p>However, at press time, MATIC was trading at $0.88, following the broader market sentiment.</p>
+<img class="wp-image-511503 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36.png" alt="PolygonMATIC USD 2022-12-07" width="2963" height="1672" srcset="https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36.png 2963w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-460x260.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-860x485.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-768x433.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-1536x867.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-2048x1156.png 2048w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-750x423.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/MATICUSD_2022-12-07_14-06-36-1140x643.png 1140w" sizes="(max-width: 2963px) 100vw, 2963px" /><figcaption id="caption-attachment-511503" class="wp-caption-text">MATIC price, 1-day chart. Source: <a href="https://www.tradingview.com/chart/uD28avrX/" target="_blank" rel="noopener">TradingView</a></figcaption>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/09/matic-price-460x270.jpeg" width="460" height="270" />	</item>
+		<item>
+		<title>Continued Upswing Of VIX Signals Doom For Bitcoin; But Friday Will Be Crucial</title>
+		<link>https://newsbtc.com/news/bitcoin/upswing-of-vix-signals-doom-for-bitcoin-but-friday-is-crucial/</link>
+		
+		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 11:47:54 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[CPI]]></category>
+		<category><![CDATA[fed]]></category>
+		<category><![CDATA[FOMC]]></category>
+		<category><![CDATA[PPI]]></category>
+		<category><![CDATA[vix]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511449</guid>
+
+					<description><![CDATA[As NewsBTC reported, the VIX experienced a trend reversal last Friday which could be significant for Bitcoin as well. The VIX volatility index shows traders the expected range of fluctuation of the S&#38;P 500. Remarkably, there is an inverse correlation between the VIX index and the S&#38;P 500. A rising VIX index usually means falling prices for the S&#38;P 500, and vice versa. Rising VIX Threatens Bitcoin Bulls The VIX dropped below the level of 19 on Friday, a mark that has been highly significant over the last year. In August, the last time the VIX was this low, it subsequently rose above 34, dragging the S&#38;P 500 down 15%. Bitcoin also experienced a significant downtrend, driven by its correlation with the S&#38;P 500. On Monday, BTC bounced off horizontal resistance at $17,400 and fell below $17,000 as VIX initiated its trend reversal with a stellar market open. Yesterday, however, Bitcoin bulls initially appeared to have the upper hand. While the S&#38;P saw another 1.4% plunge, the BTC price remained relatively stable at $17,000. Related Reading: Price Slump For Bitcoin Looming As VIX Rises Back Above 20 However, in the last few hours, BTC registered a retracement of around 2% and $350. At one point, BTC fell to $16,691 after the VIX continued its uptrend and rose to a level of 22.46. At press time, the Bitcoin price stood at $16,828. Investors should pay attention to the VIX. If the VIX sees another rise today, the BTC bulls could lose steam. Then, the support zones at $16,600 and $16,300 are going to be key. Will Friday Provide A Foreshadowing For Bitcoin? So, given Bitcoin&#8217;s high correlation with the S&#38;P 500, another drawdown could be imminent. However, the VIX should not be used as the only indicator. The VIX relies on expectations based on past events. In addition, the VIX cannot account for sudden, unexpected events that may cause strong market reactions. Historically, it has always been the case that the VIX could not predict a bottom. Key events are determinants of when a bottom is reached. However, since the VIX is calculated based on expectations, it cannot be a key to detecting a change in trend due to sudden events in the market. And the all overshadowing event will be the next FOMC meeting of the US central bank on December 14, when the FED will decide on its further interest rate policy. Remarkably, the meeting will include a &#8220;summary of economic projections&#8221;. But even before that, there are two extremely important data that make predictions about how the FED will act. Related Reading: This Analyst Thinks Bitcoin Will Hit $5,000 in 2023, Any Possibility? While the new inflation data in the form of the consumer price index (CPI) will be published on December 13, the producer price index (PPI) will already be published on Friday, December 9. This will already provide an insight into how the CPI data might turn out. This is because the PPI serves as a leading indicator for the consumer price index. When manufacturers face input inflation, increases in their production costs are passed on to retailers and consumers. Thus, the PPI could be trend-setting. If the PPI and CPI continue to fall, at best more than expected, the chances of a Santa rally for Bitcoin are pretty high.]]></description>
+										<content:encoded><![CDATA[<p>As NewsBTC reported, the VIX experienced a trend reversal last Friday which could be significant for Bitcoin as well.</p>
+<p>The VIX volatility index shows traders the expected range of fluctuation of the S&amp;P 500. Remarkably, there is an inverse correlation between the VIX index and the S&amp;P 500. A rising VIX index usually means falling prices for the S&amp;P 500, and vice versa.</p>
+<h2>Rising VIX Threatens Bitcoin Bulls</h2>
+<p>The VIX dropped below the level of 19 on Friday, a mark that has been highly significant over the last year.</p>
+<p>In August, the last time the VIX was this low, it subsequently rose above 34, dragging the S&amp;P 500 down 15%. Bitcoin also experienced a significant downtrend, driven by its correlation with the S&amp;P 500.</p>
+<p>On Monday, BTC bounced off horizontal resistance at $17,400 and fell below $17,000 as VIX initiated its trend reversal with a stellar market open.</p>
+<img loading="lazy" class="wp-image-511466 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670.png" alt="VIX 2022-12-07" width="2963" height="1621" srcset="https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670.png 2963w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-460x252.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-860x470.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-768x420.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-1536x840.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-2048x1120.png 2048w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-750x410.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/VIX_2022-12-07_10-58-26-e1670411739670-1140x624.png 1140w" sizes="(max-width: 2963px) 100vw, 2963px" /><figcaption id="caption-attachment-511466" class="wp-caption-text">VIX. Source: <a href="https://www.tradingview.com/chart/uD28avrX/" target="_blank" rel="noopener">TradingView</a></figcaption>
+<p>Yesterday, however, Bitcoin bulls initially appeared to have the upper hand. While the S&amp;P saw another 1.4% plunge, the BTC price remained relatively stable at $17,000.</p>
+
+<p>However, in the last few hours, BTC registered a retracement of around 2% and $350. At one point, BTC fell to $16,691 after the VIX continued its uptrend and rose to a level of 22.46. At press time, the Bitcoin price stood at $16,828.</p>
+<p>Investors should pay attention to the VIX. If the VIX sees another rise today, the BTC bulls could lose steam. Then, the support zones at $16,600 and $16,300 are going to be key.</p>
+<img loading="lazy" class="wp-image-511467 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15.png" alt="Bitcoin BTC USD 2022-12-07" width="2953" height="1607" srcset="https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15.png 2953w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-460x250.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-860x468.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-768x418.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-1536x836.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-2048x1115.png 2048w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-750x408.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/BTCUSD_2022-12-07_12-01-15-1140x620.png 1140w" sizes="(max-width: 2953px) 100vw, 2953px" /><figcaption id="caption-attachment-511467" class="wp-caption-text">BTC price, 4-hour chart. Source: <a href="https://www.tradingview.com/chart/uD28avrX/" target="_blank" rel="noopener">TradingView</a></figcaption>
+<h2>Will Friday Provide A Foreshadowing For Bitcoin?</h2>
+<p>So, given Bitcoin&#8217;s high <a href="https://newsbtc.com/news/bitcoin/crypto-market-high-correlation-all-indexes-follow-bitcoin/" target="_blank" rel="noopener">correlation</a> with the S&amp;P 500, another drawdown could be imminent. However, the VIX should not be used as the only indicator. The VIX relies on expectations based on past events.</p>
+<p>In addition, the VIX cannot account for sudden, unexpected events that may cause strong market reactions. Historically, it has always been the case that the VIX could not predict a bottom.</p>
+<p>Key events are determinants of when a bottom is reached. However, since the VIX is calculated based on expectations, it cannot be a key to detecting a change in trend due to sudden events in the market.</p>
+<p>And the all overshadowing event will be the next <a href="https://newsbtc.com/news/bitcoin/why-bitcoin-price-could-bounce-after-todays-fomc-meeting/" target="_blank" rel="noopener">FOMC</a> meeting of the US central bank on December 14, when the FED will decide on its further interest rate policy. Remarkably, the meeting will include a &#8220;summary of economic projections&#8221;.</p>
+<p>But even before that, there are two extremely important data that make predictions about how the FED will act.</p>
+
+<p>While the new inflation data in the form of the consumer price index (CPI) will be published on December 13, the producer price index (PPI) will already be published on Friday, December 9.</p>
+<p>This will already provide an insight into how the CPI data might turn out. This is because the PPI serves as a leading indicator for the consumer price index.</p>
+<p>When manufacturers face input inflation, increases in their production costs are passed on to retailers and consumers. Thus, the PPI could be trend-setting.</p>
+<p>If the PPI and CPI continue to fall, at best more than expected, the chances of a <a href="https://newsbtc.com/news/bitcoin/santa-came-early-in-crypto-bitcoin-rally-may-have-passed/" target="_blank" rel="noopener">Santa rally </a>for Bitcoin are pretty high.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/12/iStock-1356849427-460x307.jpg" width="460" height="307" />	</item>
+		<item>
+		<title>Up Or Down? What To Expect From Solana (SOL) In The Homestretch Of 2022</title>
+		<link>https://newsbtc.com/news/up-or-down-what-to-expect-from-solana-sol-in-the-homestretch-of-2022/</link>
+		
+		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 09:00:10 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency news]]></category>
+		<category><![CDATA[altcoin]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Sol]]></category>
+		<category><![CDATA[Solana Ecosystem]]></category>
+		<category><![CDATA[technical analysis]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511484</guid>
+
+					<description><![CDATA[Solana is among the hardest hit by the demise of FTX, as the two companies have collaborated to establish Serum, a decentralized derivatives market. This led to Solana being closely associated with the Sam Bankman-Fried crypto exchange, with more than $900 million worth of SOL being held by FTX. Let&#8217;s have a quick overview: The company&#8217;s fundamentals are strong, therefore it should be able to start making money again soon. Constant pressure from technicals and bearish market circumstances keeps the price low. Metrics, though, suggest SOL is making progress in its recovery from the catastrophe. Founder and CEO of the IBC Group Mario Nawfal has stated that the token&#8217;s fundamentals are &#8220;strong,&#8221; noting the token&#8217;s development growth, a healthy NFT marketspace, and a relatively high daily transaction volume compared to other L1 chains as evidence. With SOL registering an increase in the weekly and bi-weekly timescales, is the token really recovering? Related Reading: Quant Shows Potential For Surge Beyond $150 – Can QNT Hit Its Target? SOL&#8217;s Fortunes Have Yet To Improve Despite Nawfal&#8217;s assertions, the data shows that token and ecosystem indicators are not looking well. Messari data indicates that the asset&#8217;s volatility is at an all-time high of 2.00, suggesting that the asset is more likely to move during this period, whether bullish or bearish. Sharpe&#8217;s ratio, which currently stands at -3.73, indicates a pessimistic near-term outlook. This indicates that SOL&#8217;s returns in relation to its volatility are close to or equal to zero. With a rising triangle, SOL technicals continue to support the bearish trend. The RSI is overbought on the 4-hour time frame, which drives the signal towards a bearish crossover. The MFI confirms the bearishness of SOL as it declines in tandem with the price. At the time of writing, SOL is trading at $13.836 with a red candle. At of time of publication, the top and lower halves of the Bollinger band was $14.3602 and $13.3052. It also places SOL in a risky position, as a crunch zone appears to be building. Too much FUD around Solana. The fundamentals look solid: Dev growth second to ETH NFT volume surprisingly healthy FTX collapse makes SOL MORE decentralized Nakamoto Coefficient👌 SOL daily transactions higher than all other L1s Am I missing something? — Mario Nawfal (@MarioNawfal) November 27, 2022 SOL And FUD Even with excellent fundamentals, the EMA ribbon is in the midst of a bearish crossover, making recovery tough for SOL bulls. Solana struggles to deal with the fear, uncertainty, and doubt around its ecosystem and SOL coin. For a recovery to even be a chance, maintaining support at $13,0769 is beneficial. With a CMF of -0.07 and a bearish cross on the MACD, the price of SOL should decline to $13.0769 or below. Related Reading: LINK Price Keeps Steady With 7% Surge In Last 7 Days, But Things Might Change Crypto total market cap at $796 billion on the daily chart &#124; Featured image: TheNewsCrypto, Chart: TradingView.com]]></description>
+										<content:encoded><![CDATA[<p>Solana is among the hardest hit by the demise of<a href="https://sporttechie.com/ftx-timeline-collapse-sam-bankman-fried-cryptocurrency-sports-sponsorships" target="_blank" rel="noopener"> FTX</a>, as the two companies have collaborated to establish Serum, a decentralized derivatives market.</p>
+<p>This led to Solana being closely <a href="https://www.fxstreet.com/cryptocurrencies/news/solana-partnership-with-ftx-pushes-sol-price-higher-despite-crypto-market-weakness-202104071526#:~:text=FTX%20exchange%20chose%20Solana%20to%20build%20its%20new,past%2024%20hours%20outperforming%20the%20entire%20crypto%20market." target="_blank" rel="noopener">associated</a> with the Sam Bankman-Fried crypto exchange, with more than $900 million worth of SOL being held by FTX.</p>
+<p>Let&#8217;s have a quick overview:</p>
+<ul>
+<li>The company&#8217;s fundamentals are strong, therefore it should be able to start making money again soon.</li>
+<li>Constant pressure from technicals and bearish market circumstances keeps the price low.</li>
+</ul>
+<p>Metrics, though, suggest SOL is making progress in its recovery from the catastrophe. Founder and CEO of the IBC Group Mario Nawfal has stated that the token&#8217;s fundamentals are &#8220;strong,&#8221; noting the token&#8217;s development growth, a healthy NFT marketspace, and a relatively high daily transaction volume compared to other L1 chains as evidence.</p>
+<p>With SOL registering an <a href="https://www.coingecko.com/en/coins/solana" target="_blank" rel="noopener">increase</a> in the weekly and bi-weekly timescales, is the token really recovering?</p>
+
+<h2>SOL&#8217;s Fortunes Have Yet To Improve</h2>
+<p>Despite Nawfal&#8217;s assertions, the data shows that token and ecosystem indicators are not looking well.</p>
+<p>Messari <a href="https://messari.io/asset/solana/metrics/all" target="_blank" rel="noopener">data</a> indicates that the asset&#8217;s volatility is at an all-time high of 2.00, suggesting that the asset is more likely to move during this period, whether bullish or bearish.</p>
+<p>Sharpe&#8217;s ratio, which currently stands at -3.73, indicates a pessimistic near-term outlook. This indicates that SOL&#8217;s returns in relation to its volatility are close to or equal to zero.</p>
+<p>With a rising triangle, SOL technicals continue to support the bearish trend.</p>
+<p>The RSI is overbought on the 4-hour time frame, which drives the signal towards a bearish crossover. The MFI confirms the bearishness of SOL as it declines in tandem with the price. At the time of writing, SOL is trading at $13.836 with a red candle.</p>
+<p>At of time of publication, the top and lower halves of the Bollinger band was $14.3602 and $13.3052. It also places SOL in a risky position, as a crunch zone appears to be building.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Too much FUD around Solana. The fundamentals look solid:</p>
+<p>Dev growth second to ETH
+NFT volume surprisingly healthy
+FTX collapse makes SOL MORE decentralized
+Nakamoto Coefficient<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44c.png" alt="👌" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+SOL daily transactions higher than all other L1s</p>
+<p>Am I missing something?</p>
+<p>— Mario Nawfal (@MarioNawfal) <a href="https://twitter.com/MarioNawfal/status/1596760986681163777?ref_src=twsrc%5Etfw">November 27, 2022</a></p></blockquote>
+<h2>SOL And FUD</h2>
+<p>Even with excellent fundamentals, the EMA ribbon is in the midst of a bearish crossover, making recovery tough for SOL bulls.</p>
+<p>Solana struggles to deal with the fear, uncertainty, and doubt around its ecosystem and SOL coin. For a recovery to even be a chance, maintaining support at $13,0769 is beneficial.</p>
+<p>With a CMF of -0.07 and a bearish cross on the MACD, the price of SOL should decline to $13.0769 or below.</p>
+
+<p><img loading="lazy" class="aligncenter size-medium" src="https://www.tradingview.com/x/OHmOqpaW/" width="2047" height="979" /></p>
+Crypto total market cap at $796 billion on the daily chart | Featured image: TheNewsCrypto, Chart: <a href="https://www.tradingview.com/chart/ajrdy9Lf/" target="_blank" rel="noopener">TradingView.com</a>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/08/Solana-460x259.png" width="460" height="259" />	</item>
+		<item>
+		<title>Hedera (HBAR) Continues To Consolidate Near Its Lowest Level This 2022</title>
+		<link>https://newsbtc.com/news/hedera-continues-to-consolidate-near-its-lowest-level/</link>
+		
+		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 07:00:53 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency news]]></category>
+		<category><![CDATA[altcoin]]></category>
+		<category><![CDATA[btcusd]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[digital coin]]></category>
+		<category><![CDATA[HBAR]]></category>
+		<category><![CDATA[Hedera]]></category>
+		<category><![CDATA[price analysis]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511434</guid>
+
+					<description><![CDATA[Hedera (HBAR), the native and energy-efficient cryptocurrency of an open source public distributed ledger bearing the same name, started the year on a high note, peaking at $0.3282 on January 5. But the crypto asset failed to keep up its momentum and gradually declined over time until it fell below the $0.10 marker on May 13 when it bottomed at $0.0870. HBAR continues to struggle in reclaiming the $0.10 territory Hedera technical indicators currently show no signs of an immediate reversal The crypto asset increased its market cap by $400 million in just 24 hours Since then, the altcoin struggled to climb back up and its woes were compounded by the negative effects of the collapse of the FTX cryptocurrency exchange platform. On November 10, Hedera recorded its 2022 low when it changed hands at $0.0439 and is not showing any signs of initiating a bullish run anytime soon. Its relevant technical indicators are also nothing to be excited about as they are not indicating an upward push that may happen over the next few days or weeks. Not Much To Look Forward To For Hedera? According to latest tracking from Coingecko, at the time of this writing, HBAR is trading at $0.0482 and is dangerously close to the lowest level it has been this year. The crypto has lost 2.7% of its value during the previous seven days and its bi-weekly gains only stand at 3.3%, although it managed to increase its market capitalization by $40 million over the last 24 hours and now has $1.20 billion in overall valuation. Sadly, the altcoin’s Relative Strength Index (RSI) is no better than its 12-month low despite some episodes of minor upticks in this particular department. Related Reading: TRON Ecosystem To Undergo Changes – A Bane Or Boon To TRX Price? Source: TradingView Hedera’s Money Flow Index (MFI) is also leaning towards the bearish side as it signals a noteworthy accumulation rate over the previous two weeks. Finally, the weighted sentiment metric for the cryptocurrency has been on a status quo during the last few days, hinting that there is no significant level of demand for the asset to help trigger a surge in its price. Preparing Amid The Bear Market  While Hedera failed to emulate the likes of Litecoin (LTC), ApeCoin (APE) and Axie Infinity (AXS) that recorded price jumps during this crypto winter, its network took advantage of the time to prepare for the long game. Using Twitter, HBAR Foundation shared a clip from the recent interview of the network’s VP for Ecosystem Acceleration, Rob Allen. The @Hedera network is providing utility throughout every sector, across every use case. Bear markets are for #BUIDLing 🐻 pic.twitter.com/LsiN7BSiSD — HBAR Foundation (@HBAR_foundation) December 4, 2022 While Allen certainly admitted they were affected by the bear market, he claimed that they continued to work in improving their system with the primary goal of increasing the utility of their native token, HBAR, across various sectors. With this, he has expressed his excitement about what awaits their crypto asset when the next bull market comes, saying he has high hopes and expectations for its long-term recovery. Related Reading: LINK Price Keeps Steady With 7% Surge In Last 7 Days, But Things Might Change HBAR total market cap at $1.09 billion on the daily chart &#124; Featured image: The Daily Hodl, Chart: TradingView.com]]></description>
+										<content:encoded><![CDATA[<p>Hedera (HBAR), the native and <a href="https://hedera.com/" target="_blank" rel="noopener">energy-efficient cryptocurrency</a> of an open source public distributed ledger bearing the same name, started the year on a high note, peaking at $0.3282 on January 5.</p>
+<p>But the crypto asset failed to keep up its momentum and gradually declined over time until it fell below the $0.10 marker on May 13 when it bottomed at $0.0870.</p>
+<ul>
+<li style="font-weight: 400">HBAR continues to struggle in reclaiming the $0.10 territory</li>
+<li style="font-weight: 400">Hedera technical indicators currently show no signs of an immediate reversal</li>
+<li style="font-weight: 400">The crypto asset increased its market cap by $400 million in just 24 hours</li>
+</ul>
+<p>Since then, the altcoin struggled to climb back up and its woes were compounded by the negative effects of the collapse of the FTX cryptocurrency exchange platform.</p>
+<p>On November 10, Hedera <a href="https://www.coingecko.com/en/coins/hedera" target="_blank" rel="noopener">recorded its 2022 low</a> when it changed hands at $0.0439 and is not showing any signs of initiating a bullish run anytime soon.</p>
+<p>Its relevant technical indicators are also nothing to be excited about as they are not indicating an upward push that may happen over the next few days or weeks.</p>
+<h2><b>Not Much To Look Forward To For Hedera?</b></h2>
+<p>According to latest tracking from <a href="https://www.coingecko.com/" target="_blank" rel="noopener">Coingecko</a>, at the time of this writing, HBAR is trading at $0.0482 and is dangerously close to the lowest level it has been this year.</p>
+<p>The crypto has lost 2.7% of its value during the previous seven days and its bi-weekly gains only stand at 3.3%, although it managed to increase its market capitalization by $40 million over the last 24 hours and now has $1.20 billion in overall valuation.</p>
+<p>Sadly, the altcoin’s Relative Strength Index (RSI) is <a href="https://ambcrypto.com/why-hedera-hbar-remains-a-long-term-bet-as-per-this-executive-and-these-metrics/" target="_blank" rel="noopener">no better than its 12-month low</a> despite some episodes of minor upticks in this particular department.</p>
+
+<img loading="lazy" class="wp-image-511435 size-jnews-750x536 aligncenter" src="https://newsbtc.com/wp-content/uploads/2022/12/C1-12-750x280.png" alt="" width="750" height="280" />Source: TradingView
+<p>Hedera’s Money Flow Index (MFI) is also leaning towards the bearish side as it signals a noteworthy accumulation rate over the previous two weeks.</p>
+<p>Finally, the weighted sentiment metric for the cryptocurrency has been on a status quo during the last few days, hinting that there is no significant level of demand for the asset to help trigger a surge in its price.</p>
+<h2><b>Preparing Amid The Bear Market</b></h2>
+<p> While Hedera failed to emulate the likes of Litecoin (LTC), ApeCoin (APE) and Axie Infinity (AXS) that recorded price jumps during this crypto winter, its network took advantage of the time to prepare for the long game.</p>
+<p>Using Twitter, HBAR Foundation <a href="https://twitter.com/HBAR_foundation/status/1599458312969330688?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1599458312969330688%7Ctwgr%5E477c28c25aab4e811f4c525ff8870a3839935108%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fambcrypto.com%2Fwhy-hedera-hbar-re" target="_blank" rel="noopener">shared a clip</a> from the recent interview of the network’s VP for Ecosystem Acceleration, Rob Allen.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The <a href="https://twitter.com/hedera?ref_src=twsrc%5Etfw">@Hedera</a> network is providing utility throughout every sector, across every use case. Bear markets are for <a href="https://twitter.com/hashtag/BUIDLing?src=hash&amp;ref_src=twsrc%5Etfw">#BUIDLing</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f43b.png" alt="🐻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/LsiN7BSiSD">pic.twitter.com/LsiN7BSiSD</a></p>
+<p>— HBAR Foundation (@HBAR_foundation) <a href="https://twitter.com/HBAR_foundation/status/1599458312969330688?ref_src=twsrc%5Etfw">December 4, 2022</a></p></blockquote>
+<p>While Allen certainly admitted they were affected by the bear market, he claimed that they continued to work in improving their system with the primary goal of increasing the utility of their native token, HBAR, across various sectors.</p>
+<p>With this, he has expressed his excitement about what awaits their crypto asset when the next bull market comes, saying he has high hopes and expectations for its long-term recovery.</p>
+
+<p><img loading="lazy" class="aligncenter size-medium" src="https://www.tradingview.com/x/33H3EjAE/" width="2047" height="979" /></p>
+HBAR total market cap at $1.09 billion on the daily chart | Featured image: The Daily Hodl, Chart: <a href="https://www.tradingview.com/chart/ajrdy9Lf/" target="_blank" rel="noopener">TradingView.com</a>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/10/Hedera-1-460x230.png" width="460" height="230" />	</item>
+		<item>
+		<title>XRP Price Prediction: Bears Struggle, Time To Buy The Dip?</title>
+		<link>https://newsbtc.com/analysis/xrp/xrp-price-prediction-time-buy-040/</link>
+		
+		<dc:creator><![CDATA[Aayush Jindal]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 06:03:09 +0000</pubDate>
+				<category><![CDATA[XRP]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[xrp]]></category>
+		<category><![CDATA[XRPBTC]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[xrpusdc]]></category>
+		<category><![CDATA[xrpusdt]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511440</guid>
+
+					<description><![CDATA[Ripple is consolidating above the $0.375 support zone against the US Dollar. XRP price could gain pace if it clears the $0.40 and $0.415 resistance levels. Ripple is currently consolidating above the $0.375 and $0.380 levels against the US dollar. The price is now trading near $0.388 and the 100 simple moving average (4-hours). There is a key contracting triangle forming with support near $0.382 on the 4-hours chart of the XRP/USD pair (data source from Kraken). The pair could start a strong increase if it clears the $0.400 resistance zone. Ripple Price Remains Supported After forming a base above the $0.345 level, ripple’s XRP started a decent increase against the US Dollar. The price was able to surpass the $0.375 and $0.380 resistance levels. The price even spiked above the $0.40 level and settled above the 100 simple moving average (4-hours). However, the bears were active near the $0.423 zone. A high was formed near $0.423 before there was a downside correction, just like bitcoin. Xrp price declined below the $0.40 support and the 100 simple moving average (4-hours). There was a clear move below the 50% Fib retracement level of the upward move from the $0.3458 swing low to $0.423 high. The bulls are now active near the $0.375 level. There is also a key contracting triangle forming with support near $0.382 on the 4-hours chart of the XRP/USD pair. The price is currently consolidating above the $0.375 and $0.380 levels. Source: XRPUSD on TradingView.com An immediate resistance is near the $0.400 zone. A successful break above the $0.400 resistance might send the price towards the $0.425 resistance. The next key resistance is near the $0.450 level. Any more gains might send the price towards the $0.50 level in the coming days. Downside Break in XRP? If ripple fails to clear the $0.400 resistance zone, it could start a downside correction. An initial support on the downside is near the $0.382 level and the contracting trend line. The next major support is near $0.375. If there is a downside break and close below the $0.375 level, xrp price could extend losses. In the stated case, the price could even decline below the $0.345 support. Technical Indicators 4-Hours MACD – The MACD for XRP/USD is now losing pace in the bearish zone. 4-Hours RSI (Relative Strength Index) – The RSI for XRP/USD is now near the 50 level. Major Support Levels – $0.382, $0.375 and $0.345. Major Resistance Levels – $0.400, $0.425 and $0.450.]]></description>
+										<content:encoded><![CDATA[<p><em>Ripple is consolidating above the $0.375 support zone against the US Dollar. XRP price could gain pace if it clears the $0.40 and $0.415 resistance levels.</em></p>
+<ul>
+<li>Ripple is currently consolidating above the $0.375 and $0.380 levels against the US dollar.</li>
+<li>The price is now trading near $0.388 and the 100 simple moving average (4-hours).</li>
+<li>There is a key contracting triangle forming with support near $0.382 on the 4-hours chart of the XRP/USD pair (data source from Kraken).</li>
+<li>The pair could start a strong increase if it clears the $0.400 resistance zone.</li>
+</ul>
+<h2>Ripple Price Remains Supported</h2>
+<p>After forming a base above the $0.345 level, ripple’s <a href="https://newsbtc.com/analysis/xrp/xrp-price-prediction-rally-0-415/" target="_blank" rel="noopener">XRP started a decent increase</a> against the US Dollar. The price was able to surpass the $0.375 and $0.380 resistance levels.</p>
+<p>The price even spiked above the $0.40 level and settled above the 100 simple moving average (4-hours). However, the bears were active near the $0.423 zone. A high was formed near $0.423 before there was a downside correction, just like <a href="https://newsbtc.com/analysis/btc/bitcoin-price-consolidates-17k/" target="_blank" rel="noopener">bitcoin</a>.</p>
+<p>Xrp price declined below the $0.40 support and the 100 simple moving average (4-hours). There was a clear move below the 50% Fib retracement level of the upward move from the $0.3458 swing low to $0.423 high.</p>
+<p>The bulls are now active near the $0.375 level. There is also a key contracting triangle forming with support near $0.382 on the 4-hours chart of the XRP/USD pair. The price is currently consolidating above the $0.375 and $0.380 levels.</p>
+<p><a href="https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price.png"><img loading="lazy" class="alignnone size-full wp-image-511441" src="https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price.png" alt="Ripple Price XRP" width="1834" height="845" srcset="https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price.png 1834w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-460x212.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-860x396.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-768x354.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-1536x708.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-750x346.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/XRP_Price-1140x525.png 1140w" sizes="(max-width: 1834px) 100vw, 1834px" /></a></p>
+<p>Source: <a href="https://www.tradingview.com/symbols/XRPUSD/" target="_blank" rel="noopener">XRPUSD on TradingView.com</a></p>
+<p>An immediate resistance is near the $0.400 zone. A successful break above the $0.400 resistance might send the price towards the $0.425 resistance. The next key resistance is near the $0.450 level. Any more gains might send the price towards the $0.50 level in the coming days.</p>
+<h2>Downside Break in XRP?</h2>
+<p>If ripple fails to clear the $0.400 resistance zone, it could start a downside correction. An initial support on the downside is near the $0.382 level and the contracting trend line.</p>
+<p>The next major support is near $0.375. If there is a downside break and close below the $0.375 level, xrp price could extend losses. In the stated case, the price could even decline below the $0.345 support.</p>
+<p>Technical Indicators</p>
+<p>4-Hours MACD – The MACD for XRP/USD is now losing pace in the bearish zone.</p>
+<p>4-Hours RSI (Relative Strength Index) – The RSI for XRP/USD is now near the 50 level.</p>
+<p>Major Support Levels – $0.382, $0.375 and $0.345.</p>
+<p>Major Resistance Levels – $0.400, $0.425 and $0.450.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/12/shutterstock_729876625-460x307.jpg" width="460" height="307" />	</item>
+		<item>
+		<title>LINK Price Keeps Steady With 7% Surge In Last 7 Days, But Things Might Change</title>
+		<link>https://newsbtc.com/news/link-price-keeps-steady-with-7-surge-in-last-7-days-but-things-might-change/</link>
+		
+		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 05:19:03 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency news]]></category>
+		<category><![CDATA[altcoin]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[chainlink]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Link]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511426</guid>
+
+					<description><![CDATA[LINK, within the last 30 days, has already visited the $5 region twice, changing hands at $5.96 at one point in November 10 and going to as low as $5.69 on November 21. Since then, the Chainlink network crypto asset has managed to recapture the $6 and $7 territories and is doing a great job at sustaining the latter. Chainlink experienced a price correction that dissolved its 7% weekly gains LINK is still in the midst of a price pump of more than 20% during the past two weeks Chainlink network now has 20 successful integrations In fact, according to tracking from Coingecko, at the time of this writing, the digital asset trades at $7.29 – a value that is 30% more than its currently monthly low. Earlier Tuesday, the altcoin was sporting a weekly gain of 7%. However, as it entered a minor correction phase, the increase was trimmed to just almost 1%. Related Reading: Axie Infinity Price On A Tear With 22% Spike In Last 24 Hours – How Long Can This Last? The crypto declined by 2.8% during the last 24 hours but is still sitting on a 24% price pump over the last two weeks. Although things might be looking a little bit good for Chainlink, investors and holders need to keep an eye on its whales as their market participation could easily pull the asset down once again. A Quick Glance At Chainlink Metrics It appears now that LINK holders have nothing to worry about especially that the asset’s Relative Strength Index (RSI) is still hovering above the 50-neutral zone. However, the crypto’s Money Flow Index (MFI) has now settled in an overbought region after tremendous selling pressure was observed in the market. Meanwhile, over the last two days, the observed market outflows among exchanges were higher than the inflows, giving the cryptocurrency the ability to sustain its upward momentum during the same period. Source: TradingView The demand for Chainlink token seemed to have outweighed the on-going selling pressure as evidenced by the higher number of addresses receiving it as compared to the addresses sending it, 2,207 and 893, respectively. Although these point towards a bullish momentum, holders and investors need to be wary about LINK whales as those holding at least a million units are contributing to the selling pressure. If these large investors continue to reduce their balances by selling their holdings, there’s a big chance that the asset’s price will plummet once again. ⬡ Chainlink Adoption Update ⬡ This week, there were 20 integrations of 5 #Chainlink services across 7 different chains: #Arbitrum, #Avalanche, #BNB Chain, #Ethereum, #Fantom, #Optimism, and #Polygon. Check your Staking v0.1 eligibility now: https://t.co/Gdt5Fj7XGp pic.twitter.com/DUjh6RGmeM — Chainlink (@chainlink) December 4, 2022 Some Positive Developments For Chainlink Ecosystem To provide more security for the LINK network’s oracle infrastructure, the Chainlink Staking v0.1 is expected to go live next week. This new feature is also deemed crucial in increasing demand for the cryptocurrency by convincing traders to hold rather than sell their coins. The DeFi project also attained another milestone in its interoperability drive after achieving a total of 20 blockchain integrations including some with the biggest names in the industry such as Binance Smart Chain (BNB), Polygon (MATIC), Ethereum (ETH), Fantom (FTM), Optimism (OP) and Avalanche (AVAX). Related Reading: TRON Ecosystem To Undergo Changes – A Bane Or Boon To TRX Price? LINK total market cap at $3.5 billion on the daily chart &#124; Featured image: HBB Solutions, Chart: TradingView.com]]></description>
+										<content:encoded><![CDATA[<p>LINK, within the last 30 days, has already visited the $5 region twice, changing hands at $5.96 at one point in November 10 and going to as low as $5.69 on November 21.</p>
+<p>Since then, the Chainlink network crypto asset has managed to recapture the $6 and $7 territories and is doing a great job at sustaining the latter.</p>
+<ul>
+<li style="font-weight: 400">Chainlink experienced a price correction that dissolved its 7% weekly gains</li>
+<li style="font-weight: 400">LINK is still in the midst of a price pump of more than 20% during the past two weeks</li>
+<li style="font-weight: 400">Chainlink network now has 20 successful integrations</li>
+</ul>
+<p>In fact, according to tracking from <a href="https://www.coingecko.com/en/coins/chainlink" target="_blank" rel="noopener">Coingecko</a>, at the time of this writing, the digital asset trades at $7.29 – a value that is 30% more than its currently monthly low.</p>
+<p>Earlier Tuesday, the altcoin was sporting a weekly gain of 7%. However, as it entered a minor correction phase, the increase was trimmed to just almost 1%.</p>
+
+<p>The crypto declined by 2.8% during the last 24 hours but is still sitting on a 24% price pump over the last two weeks.</p>
+<p>Although things might be looking a little bit good for Chainlink, investors and holders need to keep an eye on its whales as their market participation could easily pull the asset down once again.</p>
+<h2><b>A Quick Glance At Chainlink Metrics</b></h2>
+<p>It appears now that LINK holders have nothing to worry about especially that the asset’s Relative Strength Index (RSI) is still hovering above the 50-neutral zone.</p>
+<p>However, the crypto’s Money Flow Index (MFI) has now settled in an overbought region after <a href="https://ambcrypto.com/chainlink-link-could-see-some-bearish-pressure-if-these-signs-come-into-play/" target="_blank" rel="noopener">tremendous selling pressure</a> was observed in the market.</p>
+<p>Meanwhile, over the last two days, the observed market outflows among exchanges were higher than the inflows, giving the cryptocurrency the ability to sustain its upward momentum during the same period.</p>
+<img loading="lazy" class="wp-image-511428 size-jnews-750x375 aligncenter" src="https://newsbtc.com/wp-content/uploads/2022/12/C1-11-750x294.png" alt="" width="750" height="294" />Source: TradingView
+<p>The demand for Chainlink token seemed to have outweighed the on-going selling pressure as evidenced by the higher number of addresses receiving it as compared to the addresses sending it, 2,207 and 893, respectively.</p>
+<p>Although these point towards a bullish momentum, holders and investors need to be wary about LINK whales as those holding at least a million units are contributing to the selling pressure.</p>
+<p>If these large investors continue to reduce their balances by selling their holdings, there’s a big chance that the asset’s price will <a href="https://coincodex.com/crypto/chainlink/price-prediction/" target="_blank" rel="noopener">plummet once again</a>.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">⬡ Chainlink Adoption Update ⬡</p>
+<p>This week, there were 20 integrations of 5 <a href="https://twitter.com/hashtag/Chainlink?src=hash&amp;ref_src=twsrc%5Etfw">#Chainlink</a> services across 7 different chains: <a href="https://twitter.com/hashtag/Arbitrum?src=hash&amp;ref_src=twsrc%5Etfw">#Arbitrum</a>, <a href="https://twitter.com/hashtag/Avalanche?src=hash&amp;ref_src=twsrc%5Etfw">#Avalanche</a>, <a href="https://twitter.com/hashtag/BNB?src=hash&amp;ref_src=twsrc%5Etfw">#BNB</a> Chain, <a href="https://twitter.com/hashtag/Ethereum?src=hash&amp;ref_src=twsrc%5Etfw">#Ethereum</a>, <a href="https://twitter.com/hashtag/Fantom?src=hash&amp;ref_src=twsrc%5Etfw">#Fantom</a>, <a href="https://twitter.com/hashtag/Optimism?src=hash&amp;ref_src=twsrc%5Etfw">#Optimism</a>, and <a href="https://twitter.com/hashtag/Polygon?src=hash&amp;ref_src=twsrc%5Etfw">#Polygon</a>.</p>
+<p>Check your Staking v0.1 eligibility now: <a href="https://t.co/Gdt5Fj7XGp">https://t.co/Gdt5Fj7XGp</a> <a href="https://t.co/DUjh6RGmeM">pic.twitter.com/DUjh6RGmeM</a></p>
+<p>— Chainlink (@chainlink) <a href="https://twitter.com/chainlink/status/1599510604523241474?ref_src=twsrc%5Etfw">December 4, 2022</a></p></blockquote>
+<h2><b>Some Positive Developments For Chainlink Ecosystem</b></h2>
+<p>To provide more security for the LINK network’s oracle infrastructure, the Chainlink Staking v0.1 is expected to go live next week.</p>
+<p>This new feature is also deemed crucial in increasing demand for the cryptocurrency by convincing traders to hold rather than sell their coins.</p>
+<p>The DeFi project also attained another <a href="https://twitter.com/chainlink/status/1599510604523241474?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1599510604523241474%7Ctwgr%5Ea389eedb941ad22cfbcc1afe0332c824d4f6dcf2%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fambcrypto.com%2Fchainlink-link-could-see" target="_blank" rel="noopener">milestone</a> in its interoperability drive after achieving a total of 20 blockchain integrations including some with the biggest names in the industry such as Binance Smart Chain (BNB), Polygon (MATIC), Ethereum (ETH), Fantom (FTM), Optimism (OP) and Avalanche (AVAX).</p>
+
+<p><img loading="lazy" class="aligncenter size-medium" src="https://www.tradingview.com/x/0IODp3iC/" width="2047" height="979" /></p>
+LINK total market cap at $3.5 billion on the daily chart | Featured image: HBB Solutions, Chart: <a href="https://www.tradingview.com/chart/ajrdy9Lf/" target="_blank" rel="noopener">TradingView.com</a>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/12/LINK-460x308.png" width="460" height="308" />	</item>
+		<item>
+		<title>Ethereum Price Won&#8217;t Go Down Quietly: Risk of Bounce Grows</title>
+		<link>https://newsbtc.com/analysis/eth/ethereum-price-risk-bounce-1300/</link>
+		
+		<dc:creator><![CDATA[Aayush Jindal]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 05:14:47 +0000</pubDate>
+				<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[ethusd]]></category>
+		<category><![CDATA[ETHUSDT]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511429</guid>
+
+					<description><![CDATA[Ethereum started a downside correction from the $1,300 resistance against the US Dollar. ETH must clear the $1,275 level to start a fresh increase. Ethereum is holding the $1,240 support and is currently consolidating near $1,260. The price is now trading below $1,275 and the 100 hourly simple moving average. There was a break above a short-term contracting triangle with resistance near $1,255 on the hourly chart of ETH/USD (data feed via Kraken). The pair could correct start a fresh increase if there is a clear move above the $1,275 level. Ethereum Price Holds Support Ethereum price started a downside correction from the $1,300 resistance zone. ETH traded as high as $1,304 before there was a move below the $1,275 level, similar to bitcoin. The price declined below the $1,255 support zone and the 100 hourly simple moving average. However, the bulls were active above the $1,240 level. A low was formed near $1,241 and the price is now correcting losses. There was a move above the 23.6% Fib retracement level of the recent drop from the $1,304 swing high to $1,241 low. Besides, there was a break above a short-term contracting triangle with resistance near $1,255 on the hourly chart of ETH/USD. Ether price is now trading below $1,275 and the 100 hourly simple moving average. An immediate resistance on the upside is near the $1,275 level and the 100 hourly simple moving average. It is near the 50% Fib retracement level of the recent drop from the $1,304 swing high to $1,241 low. Source: ETHUSD on TradingView.com A close above the $1,275 resistance might start a fresh increase. The next major resistance is near the $1,300 level, above which ether price could gain bullish momentum for a move to $1,350. Any more gains might send the price towards the $1,400 resistance zone. More Losses in ETH? If ethereum fails to start another increase above the $1,275 resistance, it could continue to move down. An initial support on the downside is near the $1,240 level. The next major support is near the $1,220 level. If there is a break and close below $1,220, the price could even drop towards the $1,165 support. Any more losses could lead the price towards the $1,100 support. Technical Indicators Hourly MACD – The MACD for ETH/USD is now losing momentum in the bearish zone. Hourly RSI &#8211; The RSI for ETH/USD is now above the 50 level. Major Support Level – $1,240 Major Resistance Level – $1,275]]></description>
+										<content:encoded><![CDATA[<p><em>Ethereum started a downside correction from the $1,300 resistance against the US Dollar. ETH must clear the $1,275 level to start a fresh increase.</em></p>
+<ul>
+<li>Ethereum is holding the $1,240 support and is currently consolidating near $1,260.</li>
+<li>The price is now trading below $1,275 and the 100 hourly simple moving average.</li>
+<li>There was a break above a short-term contracting triangle with resistance near $1,255 on the hourly chart of ETH/USD (data feed via Kraken).</li>
+<li>The pair could correct start a fresh increase if there is a clear move above the $1,275 level.</li>
+</ul>
+<h2>Ethereum Price Holds Support</h2>
+<p>Ethereum price started a <a href="https://newsbtc.com/analysis/eth/ethereum-price-correction-1220/" target="_blank" rel="noopener">downside correction</a> from the $1,300 resistance zone. ETH traded as high as $1,304 before there was a move below the $1,275 level, similar to <a href="https://newsbtc.com/analysis/btc/bitcoin-price-consolidates-17k/" target="_blank" rel="noopener">bitcoin</a>.</p>
+<p>The price declined below the $1,255 support zone and the 100 hourly simple moving average. However, the bulls were active above the $1,240 level. A low was formed near $1,241 and the price is now correcting losses. There was a move above the 23.6% Fib retracement level of the recent drop from the $1,304 swing high to $1,241 low.</p>
+<p>Besides, there was a break above a short-term contracting triangle with resistance near $1,255 on the hourly chart of ETH/USD. Ether price is now trading below $1,275 and the 100 hourly simple moving average.</p>
+<p>An immediate resistance on the upside is near the $1,275 level and the 100 hourly simple moving average. It is near the 50% Fib retracement level of the recent drop from the $1,304 swing high to $1,241 low.</p>
+<p><a href="https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3.png"><img loading="lazy" class="alignnone size-full wp-image-511430" src="https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3.png" alt="Ethereum Price" width="1834" height="845" srcset="https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3.png 1834w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-460x212.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-860x396.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-768x354.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-1536x708.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-750x346.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/Ethereum-3-1140x525.png 1140w" sizes="(max-width: 1834px) 100vw, 1834px" /></a></p>
+<p>Source: <a href="https://www.tradingview.com/symbols/ETHUSD/" target="_blank" rel="noopener">ETHUSD on TradingView.com</a></p>
+<p>A close above the $1,275 resistance might start a fresh increase. The next major resistance is near the $1,300 level, above which ether price could gain bullish momentum for a move to $1,350. Any more gains might send the price towards the $1,400 resistance zone.</p>
+<h2>More Losses in ETH?</h2>
+<p>If ethereum fails to start another increase above the $1,275 resistance, it could continue to move down. An initial support on the downside is near the $1,240 level.</p>
+<p>The next major support is near the $1,220 level. If there is a break and close below $1,220, the price could even drop towards the $1,165 support. Any more losses could lead the price towards the $1,100 support.</p>
+<p>Technical Indicators</p>
+<p>Hourly MACD<strong> – </strong>The MACD for ETH/USD is now losing momentum in the bearish zone.</p>
+<p>Hourly RSI<strong> &#8211; </strong>The RSI for ETH/USD is now above the 50 level.</p>
+<p>Major Support Level – $1,240</p>
+<p>Major Resistance Level – $1,275</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2021/05/shutterstock_520106728-460x307.jpg" width="460" height="307" />	</item>
+		<item>
+		<title>Bitcoin Price Consolidates Near $17K: What Could Trigger A Fresh Increase</title>
+		<link>https://newsbtc.com/analysis/btc/bitcoin-price-consolidates-17k/</link>
+		
+		<dc:creator><![CDATA[Aayush Jindal]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 03:46:40 +0000</pubDate>
+				<category><![CDATA[BTC]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin price]]></category>
+		<category><![CDATA[btcusd]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[xbtusd]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511422</guid>
+
+					<description><![CDATA[Bitcoin price started a downside correction from the $17,500 resistance. BTC is trading above the $16,800 support and might start a fresh increase. Bitcoin tested the $16,800 support zone and traded as low as $16,888. The price is trading near $17,000 and the 100 hourly simple moving average. There was a break above a key contracting triangle with resistance near $17,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair must stay above the $16,800 support to start a fresh increase. Bitcoin Price Holds Key Support Bitcoin price attempted another increase above the $17,500 resistance zone. However, BTC failed to gain strength above the $17,400 level. A high was formed near $17,440 before there was a downside correction. There was a move below the $17,200 support zone and the 100 hourly simple moving average. However, the bulls were active above the $16,800 support zone. A low was formed near $16,888 and the price is now consolidating losses. There was a minor increase above the $17,000 level. Bitcoin price is now trading near $17,000 and the 100 hourly simple moving average. Besides, there was a break above the 23.6% Fib retracement level of the recent drop from the $17,440 swing high to $16,888 low. There was also a break above a key contracting triangle with resistance near $17,000 on the hourly chart of the BTC/USD pair. On the upside, an immediate resistance is near the $17,170 level. It is near the 50% Fib retracement level of the recent drop from the $17,440 swing high to $16,888 low. Source: BTCUSD on TradingView.com The first major resistance is near the $17,200 zone, above which the price may perhaps start another steady increase. In the stated case, the price could rise towards the $17,450 resistance. The next major resistance is near $17,500, above which the price rise towards the $18,000 zone in the near term. More Losses in BTC? If bitcoin fails to start a fresh increase above the $17,170 resistance, there could be more downsides. An immediate support on the downside is near the $16,880 level. The next major support is near the $16,800 zone. A downside break below the $16,800 support might call a drop towards $16,500. Any more losses might call for a test of the key $16,000 support zone in the near term. Technical indicators: Hourly MACD – The MACD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $16,800, followed by $16,500. Major Resistance Levels – $17,170, $17,200 and $17,500.]]></description>
+										<content:encoded><![CDATA[<p><em>Bitcoin price started a downside correction from the $17,500 resistance. BTC is trading above the $16,800 support and might start a fresh increase.</em></p>
+<ul>
+<li>Bitcoin tested the $16,800 support zone and traded as low as $16,888.</li>
+<li>The price is trading near $17,000 and the 100 hourly simple moving average.</li>
+<li>There was a break above a key contracting triangle with resistance near $17,000 on the hourly chart of the BTC/USD pair (data feed from Kraken).</li>
+<li>The pair must stay above the $16,800 support to start a fresh increase.</li>
+</ul>
+<h2>Bitcoin Price Holds Key Support</h2>
+<p>Bitcoin price attempted another increase above the <a href="https://newsbtc.com/analysis/btc/bitcoin-price-lacking-momentum-17k/" target="_blank" rel="noopener">$17,500 resistance zone</a>. However, BTC failed to gain strength above the $17,400 level. A high was formed near $17,440 before there was a downside correction.</p>
+<p>There was a move below the $17,200 support zone and the 100 hourly simple moving average. However, the bulls were active above the $16,800 support zone. A low was formed near $16,888 and the price is now consolidating losses.</p>
+<p>There was a minor increase above the $17,000 level. Bitcoin price is now trading near $17,000 and the <a href="https://newsbtc.com/analysis/btc/bitcoin-price-key-trend-18k/" target="_blank" rel="noopener">100 hourly simple moving average</a>. Besides, there was a break above the 23.6% Fib retracement level of the recent drop from the $17,440 swing high to $16,888 low.</p>
+<p>There was also a break above a key contracting triangle with resistance near $17,000 on the hourly chart of the BTC/USD pair. On the upside, an immediate resistance is near the $17,170 level. It is near the 50% Fib retracement level of the recent drop from the $17,440 swing high to $16,888 low.</p>
+<p><a href="https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4.png"><img loading="lazy" class="alignnone size-full wp-image-511423" src="https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4.png" alt="Bitcoin Price" width="1834" height="845" srcset="https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4.png 1834w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-460x212.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-860x396.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-768x354.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-1536x708.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-750x346.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/Bitcoin-4-1140x525.png 1140w" sizes="(max-width: 1834px) 100vw, 1834px" /></a></p>
+<p>Source: <a href="https://www.tradingview.com/symbols/BTCUSD/" target="_blank" rel="noopener">BTCUSD on TradingView.com</a></p>
+<p>The first major resistance is near the $17,200 zone, above which the price may perhaps start another steady increase. In the stated case, the price could rise towards the $17,450 resistance. The next major resistance is near $17,500, above which the price rise towards the $18,000 zone in the near term.</p>
+<h2>More Losses in BTC?</h2>
+<p>If bitcoin fails to start a fresh increase above the $17,170 resistance, there could be more downsides. An immediate support on the downside is near the $16,880 level.</p>
+<p>The next major support is near the $16,800 zone. A downside break below the $16,800 support might call a drop towards $16,500. Any more losses might call for a test of the key $16,000 support zone in the near term.</p>
+<p>Technical indicators:</p>
+<p>Hourly MACD – The MACD is now losing pace in the bullish zone.</p>
+<p>Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level.</p>
+<p>Major Support Levels – $16,800, followed by $16,500.</p>
+<p>Major Resistance Levels – $17,170, $17,200 and $17,500.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2021/03/shutterstock_749757757-460x322.jpg" width="460" height="322" />	</item>
+		<item>
+		<title>Bitcoin Investor Cohorts Now Have Close Cost-Basis, What Does It Say About Market?</title>
+		<link>https://newsbtc.com/news/bitcoin/bitcoin-investor-cohorts-close-cost-basis-market/</link>
+		
+		<dc:creator><![CDATA[Hououin Kyouma]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 00:00:04 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Bitcoin Cost-Basis]]></category>
+		<category><![CDATA[Bitcoin long-term holders]]></category>
+		<category><![CDATA[Bitcoin short-term holders]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btcusd]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511308</guid>
+
+					<description><![CDATA[Data shows the different Bitcoin investor cohorts now have their cost-basis packed together in a tight range. Here&#8217;s what this may tell us about the current market. All Bitcoin Investor Groups Have Cost-Basis Between $18.7k And $22.9k According to the latest weekly report from Glassnode, the cost-basis of the wider BTC market is currently around $20.2k. Here, the &#8220;cost-basis&#8221; refers to the price at which the average investor in the Bitcoin market acquired their coins. The entire market can be split into two main investor cohorts, the &#8220;short-term holders&#8221; (STHs) and the &#8220;long-term holders&#8221; (LTHs). The STH group includes all investors that acquired their coins within the last 155 days. The LTHs, on the other hand, are made up by holders that have been holding their coins since more than 155 days ago. Statistically, the LTH group is the cohort that&#8217;s least likely to sell their coins at any point, since the longer investors keep their coins the less probable they become to break their dormancy. Related Reading: Bitcoin Now Undervalued For 170 Days, How Does This Compare With Previous Bears? The cost-basis of either of these two groups is the price at which the average investor belonging to said cohort bought their coins. Now, here is a chart that shows the trend in the cost-basis of both LTHs and STHs, as well as that of the wider Bitcoin market: Looks like the price was rejected by the STH cost-basis not too long ago &#124; Source: Glassnode's The Week Onchain - Week 49, 2022 As you can see in the above graph, the cost-basis of the Bitcoin STHs has declined as the bear market has gone on, something that makes sense as this cohort only includes investors who bought recently. Naturally, the &#8220;recent&#8221; prices during the bear have been lower and lower. The LTH cost-basis has slightly trended up as investors who bought during the higher prices are now a part of this group. Currently, this metric has a value of $22.9k. Related Reading: For First Time Ever, Bitcoin Hash Ribbon Golden Cross Has Failed This isn&#8217;t too far from the $18.7k cost-basis of the STHs and the $20.2k cost-basis of the wider market. This means that the different investor groups in the current market have acquired their coins at similar prices. The implication of this is that the perceived risk and opportunity among all the holders, whether short-term or long-term, is the same. &#8220;As such, it is more likely that the aggregate market will start to behave in a more cohesive manner in response to volatility,&#8221; notes the report. BTC Price At the time of writing, Bitcoin&#8217;s price floats around $17k, up 3% in the last week. BTC continues to hold still around the $17k mark &#124; Source: BTCUSD on TradingView Featured image from iStock.com, charts from TradingView.com, Glassnode.com]]></description>
+										<content:encoded><![CDATA[<p>Data shows the different Bitcoin investor cohorts now have their cost-basis packed together in a tight range. Here&#8217;s what this may tell us about the current market.</p>
+<h2>All Bitcoin Investor Groups Have Cost-Basis Between $18.7k And $22.9k</h2>
+<p>According to the latest weekly report from <a href="https://insights.glassnode.com/">Glassnode</a>, the cost-basis of the wider BTC market is currently around $20.2k.</p>
+<p>Here, the &#8220;cost-basis&#8221; refers to the price at which the average investor in the Bitcoin market acquired their coins.</p>
+<p>The entire market can be split into two main investor cohorts, the &#8220;<a href="https://newsbtc.com/news/bitcoin/bitcoin-declines-short-term-holders-take-profits/">short-term holders</a>&#8221; (STHs) and the &#8220;<a href="https://newsbtc.com/news/bitcoin/bitcoin-plunge-long-term-holders-up-selling/">long-term holders</a>&#8221; (LTHs).</p>
+<p>The STH group includes all investors that acquired their coins within the last 155 days. The LTHs, on the other hand, are made up by holders that have been holding their coins since more than 155 days ago.</p>
+<p>Statistically, the LTH group is the cohort that&#8217;s least likely to sell their coins at any point, since the longer investors keep their coins the less probable they become to break their dormancy.</p>
+
+<p>The cost-basis of either of these two groups is the price at which the average investor belonging to said cohort bought their coins.</p>
+<p>Now, here is a chart that shows the trend in the cost-basis of both LTHs and STHs, as well as that of the wider Bitcoin market:</p>
+<p><img loading="lazy" class="alignnone aligncenter" src="https://insights.glassnode.com/content/images/2022/12/Group-2905--1-.png" alt="Bitcoin Cost Basis" width="2000" height="1152" /></p>
+Looks like the price was rejected by the STH cost-basis not too long ago | Source: <a href="https://insights.glassnode.com/the-week-onchain-week-49-2022/">Glassnode's The Week Onchain - Week 49, 2022</a>
+<p>As you can see in the above graph, the cost-basis of the Bitcoin STHs has declined as the bear market has gone on, something that makes sense as this cohort only includes investors who bought recently. Naturally, the &#8220;recent&#8221; prices during the bear have been lower and lower.</p>
+<p>The LTH cost-basis has slightly trended up as investors who bought during the higher prices are now a part of this group. Currently, this metric has a value of $22.9k.</p>
+
+<p>This isn&#8217;t too far from the $18.7k cost-basis of the STHs and the $20.2k cost-basis of the wider market. This means that the different investor groups in the current market have acquired their coins at similar prices.</p>
+<p>The implication of this is that the perceived risk and opportunity among all the holders, whether short-term or long-term, is the same. &#8220;As such, it is more likely that the aggregate market will start to behave in a more cohesive manner in response to volatility,&#8221; notes the report.</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, <a href="https://newsbtc.com/analysis/btc/bitcoin-price-lacking-momentum-17k/">Bitcoin&#8217;s price</a> floats around $17k, up 3% in the last week.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-511331 aligncenter" src="https://newsbtc.com/wp-content/uploads/2022/12/chart-5-460x253.png" alt="Bitcoin Price Chart" width="460" height="253" srcset="https://newsbtc.com/wp-content/uploads/2022/12/chart-5-460x253.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/chart-5-860x473.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/chart-5-768x422.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/chart-5-750x413.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/chart-5.png 978w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+BTC continues to hold still around the $17k mark | Source: <a href="https://www.tradingview.com/symbols/BTCUSD/">BTCUSD on TradingView</a>
+Featured image from iStock.com, charts from TradingView.com, Glassnode.com
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/12/iStock-1255216496-1-460x307.jpg" width="460" height="307" />	</item>
+		<item>
+		<title>Bullish Sentiment Spikes As Axie Infinity Price Propels 9%, What&#8217;s Next For AXS?</title>
+		<link>https://newsbtc.com/news/bullish-sentiment-spikes-as-axie-infinity-price-propels-9/</link>
+		
+		<dc:creator><![CDATA[anushsamal]]></dc:creator>
+		<pubDate>Tue, 06 Dec 2022 23:00:00 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency news]]></category>
+		<category><![CDATA[Axie Infinity Price]]></category>
+		<category><![CDATA[AXS]]></category>
+		<category><![CDATA[AXSUSD]]></category>
+		<category><![CDATA[AXSUSDT]]></category>
+		<guid isPermaLink="false">https://newsbtc.com/?p=511354</guid>
+
+					<description><![CDATA[The Axie Infinity price has skyrocketed in the past week; the altcoin has secured close to 40% appreciation. On the daily chart, AXS registered a 4.8% spike. This positive price sentiment can be tied to the recent developments within the AXS ecosystem. Axie Infinity&#8217;s community made its first move into developing the project into a decentralized future just a day ago. According to the technical outlook, buyers have made a strong comeback in the market. This has caused major accumulation over the past trading sessions. AXS formed a tall green wick tied to increased trading activity to corroborate the same. The chance of a price pullback cannot be ruled out, considering that the coin surged substantially overnight. Buyers might have difficulty sustaining the price breakout, so that AXS will travel close to its immediate support level. Only if this rally pushes the coin above the $10 level can AXS continue its bullish price action. Related Reading: Buyers Rule Over Algorand’s (ALGO) Price Action, Enough To Break Above $0.26? Axie Infinity Price Analysis: One-Day Chart AXS was priced at $8.96 after the recent surge in price. Overhead resistance for the coin was $9 and then at $9.72. Moving above the $9.72 level will help AXS to breach the $10 resistance mark. The aforementioned price ceiling has proved difficult for the bulls as the altcoin has been rejected at that level over the past few months. Clearance of the $10 mark will pave the way for AXS to reach $12. On the other hand, a price pullback will bring AXS to $7.20. The amount of AXS traded in the last session increased, which portrayed the bulls taking charge of the price action. Technical Analysis In correspondence to the tall green wick Axie Infinity Price formed in the recent trading session, the coin was nearing the overvalued zone. The Relative Strength Index shot past the half-line and stood below the 80-mark. With a slight push from buyers, AXS will enter the overbought zone. AXS was also above the 20-Simple Moving Average line, which meant that the altcoin registered substantial demand. It denotes that the buyers were driving the price momentum in the market. AXS was also above the 50-Simple Moving Average line, which shows strong bullish price momentum. AXS depicted a buy signal on the daily chart in conformity with increased accumulation. The Moving Average Convergence Divergence identifies the price trend and reversals in the same. MACD assembled green signal bars over the half-line, which was the buy signal for the altcoin. Bollinger Bands forecast price volatility and the chance of fluctuations. The bands widened, indicating that the coin would continue to rise in value on its chart. Moving above $9.20 should not be difficult if the broader market is strong. Related Reading: Solana Price Could Target $15 If It Breaches These Levels Featured image from PiunikaWeb, Chart: TradingView.com]]></description>
+										<content:encoded><![CDATA[<p>The Axie Infinity price has skyrocketed in the past week; the altcoin has secured close to 40% appreciation. On the daily chart, AXS registered a 4.8% spike. This positive price sentiment can be tied to the recent developments within the AXS ecosystem.</p>
+<p>Axie Infinity&#8217;s community made its first move into developing the project into a decentralized future just a day ago. According to the technical outlook, buyers have made a strong comeback in the market. This has caused major accumulation over the past trading sessions.</p>
+<p>AXS formed a tall green wick tied to increased trading activity to corroborate the same. The chance of a price pullback cannot be ruled out, considering that the coin surged substantially overnight.</p>
+<p>Buyers might have difficulty sustaining the price breakout, so that AXS will travel close to its immediate support level. Only if this rally pushes the coin above the $10 level can AXS continue its bullish price action.</p>
+
+<h2>Axie Infinity Price Analysis: One-Day Chart</h2>
+<img loading="lazy" class="wp-image-511374 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06.png" alt="Axie Infinity Price" width="1816" height="782" srcset="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06.png 1816w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-460x198.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-860x370.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-768x331.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-1536x661.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-750x323.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-06-1140x491.png 1140w" sizes="(max-width: 1816px) 100vw, 1816px" /><figcaption id="caption-attachment-511374" class="wp-caption-text">Axie Infinity was priced at $8.96 on the one-day chart | Source: <a href="https://www.tradingview.com/symbols/AXSUSD/?exchange=BINANCE" target="_blank" rel="noopener">AXSUSD on TradingView</a></figcaption>
+<p>AXS was priced at $8.96 after the recent surge in price. Overhead resistance for the coin was $9 and then at $9.72. Moving above the $9.72 level will help AXS to breach the $10 resistance mark. The aforementioned price ceiling has proved difficult for the bulls as the altcoin has been rejected at that level over the past few months.</p>
+<p>Clearance of the $10 mark will pave the way for AXS to reach $12. On the other hand, a price pullback will bring AXS to $7.20. The amount of AXS traded in the last session increased, which portrayed the bulls taking charge of the price action.</p>
+<h2>Technical Analysis</h2>
+<img loading="lazy" class="wp-image-511375 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34.png" alt="Axie Infinity Price" width="1816" height="695" srcset="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34.png 1816w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-460x176.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-860x329.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-768x294.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-1536x588.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-750x287.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-57-34-1140x436.png 1140w" sizes="(max-width: 1816px) 100vw, 1816px" /><figcaption id="caption-attachment-511375" class="wp-caption-text">Axie Infinity was nearing the overbought zone on the one-day chart | Source: <a href="https://www.tradingview.com/symbols/AXSUSD/?exchange=BINANCE" target="_blank" rel="noopener">AXSUSD on TradingView</a></figcaption>
+<p>In correspondence to the tall green wick Axie Infinity Price formed in the recent trading session, the coin was nearing the overvalued zone. The Relative Strength Index shot past the half-line and stood below the 80-mark.</p>
+<p>With a slight push from buyers, AXS will enter the overbought zone. AXS was also above the 20-Simple Moving Average line, which meant that the altcoin registered substantial demand. It denotes that the buyers were driving the price momentum in the market. AXS was also above the 50-Simple Moving Average line, which shows strong bullish price momentum.</p>
+<img loading="lazy" class="wp-image-511376 size-full" src="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02.png" alt="Axie Infinity Price" width="1816" height="695" srcset="https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02.png 1816w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-460x176.png 460w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-860x329.png 860w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-768x294.png 768w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-1536x588.png 1536w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-750x287.png 750w, https://newsbtc.com/wp-content/uploads/2022/12/AXSUSD_2022-12-06_22-58-02-1140x436.png 1140w" sizes="(max-width: 1816px) 100vw, 1816px" /><figcaption id="caption-attachment-511376" class="wp-caption-text">Axie Infinity registered buy signal on the one-day chart | Source: <a href="https://www.tradingview.com/symbols/AXSUSD/?exchange=BINANCE" target="_blank" rel="noopener">AXSUSD on TradingView</a></figcaption>
+<p>AXS depicted a buy signal on the daily chart in conformity with increased accumulation. The Moving Average Convergence Divergence identifies the price trend and reversals in the same. MACD assembled green signal bars over the half-line, which was the buy signal for the altcoin.</p>
+<p>Bollinger Bands forecast price volatility and the chance of fluctuations. The bands widened, indicating that the coin would continue to rise in value on its chart. Moving above $9.20 should not be difficult if the broader market is strong.</p>
+
+
+Featured image from PiunikaWeb, Chart: <a href="https://www.tradingview.com/symbols/AXSUSD/?exchange=BINANCE" target="_blank" rel="noopener">TradingView.com</a>
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://newsbtc.com/wp-content/uploads/2022/12/axie-infinity-logo-featured-460x217.jpg" width="460" height="217" />	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 192/196 objects using apc
+Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
+Database Caching 39/45 queries in 0.199 seconds using memcached
+
+Served from: newsbtc.com @ 2022-12-07 10:40:04 by W3 Total Cache
+-->

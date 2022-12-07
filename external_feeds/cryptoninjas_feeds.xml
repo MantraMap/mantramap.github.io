@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CryptoNinjas</title>
+	<atom:link href="https://www.cryptoninjas.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cryptoninjas.net/</link>
+	<description>Bitcoin, Cryptocurrency and Blockchain Asset Source</description>
+	<lastBuildDate>Mon, 05 Dec 2022 21:48:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://www.cryptoninjas.net/wp-content/uploads/cropped-512cnlogo-2-32x32.png</url>
+	<title>CryptoNinjas</title>
+	<link>https://www.cryptoninjas.net/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DFINITY brings new smart contract functionality to Bitcoin with Internet Computer integration</title>
+		<link>https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/</link>
+					<comments>https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 18:17:36 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Strategic Integration]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<category><![CDATA[DFINITY]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=123032</guid>
+
+					<description><![CDATA[<p>DFINITY Foundation, the not-for-profit organization contributing to the development of the Internet Computer (IC) — a high-speed, internet-scale public blockchain — has announced today the Internet Computer&#8217;s mainnet integration with Bitcoin, bringing smart contract functionality to the cryptocurrency. Now, the Internet Computer can serve as a layer-2 for Bitcoin where smart contracts on the Internet [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/">DFINITY brings new smart contract functionality to Bitcoin with Internet Computer integration</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>DFINITY Foundation, the not-for-profit organization contributing to the development of the <a href="https://www.cryptoninjas.net/2021/05/07/dfinity-foundation-launches-its-blockchain-powered-internet-computer/" target="_blank" rel="noopener">Internet Computer (IC)</a> — a high-speed, internet-scale public blockchain — has announced today the Internet Computer&#8217;s mainnet integration with Bitcoin, bringing smart contract functionality to the cryptocurrency.</p>
+<p>Now, the Internet Computer can serve as a layer-2 for Bitcoin where smart contracts on the Internet Computer can hold, send and receive bitcoin natively, without the need for bridges or other 3rd-parties. This provides a trustless foundation for varied DeFi and web3 applications seeking to code Bitcoin.</p>
+<blockquote><p><strong>&#8220;Blockchains are like walled gardens, incapable of interaction between one another. When this comes to Bitcoin, applications, such as DeFi applications, that could benefit most from interacting with the world&#8217;s largest cryptocurrency do not have the ability to do so. The Internet Computer&#8217;s integration with Bitcoin is a true game-changer for the industry, finally bringing smart contract functionality to Bitcoin and enabling a whole new landscape of DeFi and dapp development never before possible using BTC.&#8221;</strong><br />
+<a href="https://internetcomputer.org/" target="_blank" rel="noopener"><strong>&#8211; Manu Drijvers, Director of Engineering at the DFINITY Foundation</strong></a></p></blockquote>
+<h4><strong>With IC integration, bitcoin can be used for DeFi activities like yield farming, lending, payments, and more&#8230;</strong></h4>
+<p>This is achieved through the Internet Computer&#8217;s enhanced Chain-key cryptography. The direct integration with Bitcoin averts the need for bridged and wrapped Bitcoin, a technique used to facilitate interaction between different blockchains, but one that is error-prone and often hacked.</p>
+<p>To enable fast bitcoin transactions between smart contracts on the Internet Computer, the DFINITY Foundation is now working on Chain-Key Bitcoin (ckBTC). Here, ckBTC will act as a local ledger facilitating fast transactions with low fees and only settle transactions on the Bitcoin network when necessary.</p>
+<h3><strong>Benefits / Developers</strong></h3>
+<p>The Internet Computer&#8217;s integration with Bitcoin also provides a more secure alternative to centralized bridges in the form of threshold ECDSA (Elliptic Curve Digital Signature Algorithm). The implementation of ECDSA empowers the Internet Computer&#8217;s canister smart contracts, to directly conduct bitcoin transactions without an intermediary or bridge.</p>
+<p><strong><a href="https://www.cryptoninjas.net/2021/05/25/dfinity-launches-200m-developer-grant-program-for-the-internet-computer-ecosystem/" target="_blank" rel="noopener">ICP&#8217;s developer community</a> has long expressed a strong demand for this feature&#8230;</strong></p>
+<p>DEX projects such as Helix or IC Lighthouse are already building on the Bitcoin and Chain-Key signing features to offer bridgeless inter-chain token swaps. Moreover, a few ecosystem dApps are also ready to launch some creative use cases beyond DeFi.</p>
+<p>Among them is the crowdfunding platform, CrowdfunNFT – which will accept funding for projects in BTC. The aim is to expand the crowdfunding market overall and bring in a fresh set of project backers to crypto. Other examples of use cases in development are transactions in BTC on NFT marketplaces and peer-to-peer transfer of BTC directly on social media and messaging dApps.</p>
+<p>Bringing new programmability to Bitcoin will open more unique and imaginative use cases in the future.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/">DFINITY brings new smart contract functionality to Bitcoin with Internet Computer integration</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto exchange Coinbase to support Easy Bank Transfers for UK users</title>
+		<link>https://www.cryptoninjas.net/2022/11/17/crypto-exchange-coinbase-to-support-easy-bank-transfers-for-uk-users/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/17/crypto-exchange-coinbase-to-support-easy-bank-transfers-for-uk-users/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 17:18:37 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122867</guid>
+
+					<description><![CDATA[<p>Coinbase, the popular bitcoin &#38; crypto exchange company, announced today it will be rolling out &#8216;Easy Bank Transfers&#8217; for UK users. The new feature delivers an easy way to add funds to Coinbase accounts. Through a partnership with TrueLayer, one of Europe’s leading open banking platforms, Coinbase is able to support Easy Bank Transfers, which [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/17/crypto-exchange-coinbase-to-support-easy-bank-transfers-for-uk-users/">Crypto exchange Coinbase to support Easy Bank Transfers for UK users</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Coinbase, the <a href="https://www.cryptoninjas.net/2021/05/25/coinbase-launches-new-fully-integrated-crypto-prime-brokerage-solution/" target="_blank" rel="noopener">popular bitcoin &amp; crypto exchange company</a>, announced today it will be rolling out &#8216;Easy Bank Transfers&#8217; for UK users. The new feature delivers an easy way to add funds to Coinbase accounts.</p>
+<p>Through a partnership with TrueLayer, one of Europe’s leading open banking platforms, Coinbase is able to support Easy Bank Transfers, which relies on <a href="https://www.openbanking.org.uk/what-is-open-banking/" target="_blank" rel="noopener">open banking technology</a>.</p>
+<p>In the weeks ahead, users will be able to link their bank account directly with their Coinbase account, without needing to enter their bank details, for a more convenient and user-friendly experience.</p>
+<blockquote><p><strong>&#8220;Coinbase is one of the first major crypto platforms to offer users rapid, secure deposits into their Coinbase account via open banking. Easy Bank Transfers solve these issues for Coinbase users: users no longer have to manually type out payee details, rely on copy/paste, be sent through long verification steps, or anxiously wait for confirmation that a payment was successful.&#8221;</strong><br />
+<a href="https://www.coinbase.com/" target="_blank" rel="noopener"><strong>&#8211; The Coinbase Team</strong></a></p></blockquote>
+<h4><strong>Open banking delivers several other key benefits for Coinbase users, including:</strong></h4>
+<ul>
+<li><strong>Security</strong> &#8211; No one can access users’ login details or banking passwords through open banking.</li>
+<li><strong>Ease of Use</strong> &#8211; Transferring funds via open banking is often faster than making a conventional online transfer, especially on mobile, because of how your bank account is linked to Coinbase.</li>
+<li><strong>Control </strong>&#8211; The user has full control over who sees their banking information, and is able to specify exactly what level of access is permitted.</li>
+<li><strong>Safety</strong> &#8211; Companies can only take payments with the user&#8217;s authorization as the account owner.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/17/crypto-exchange-coinbase-to-support-easy-bank-transfers-for-uk-users/">Crypto exchange Coinbase to support Easy Bank Transfers for UK users</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/17/crypto-exchange-coinbase-to-support-easy-bank-transfers-for-uk-users/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Biconomy releases new SDK for better crypto and blockchain development</title>
+		<link>https://www.cryptoninjas.net/2022/11/15/biconomy-releases-new-sdk-for-better-crypto-and-blockchain-development/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/15/biconomy-releases-new-sdk-for-better-crypto-and-blockchain-development/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 17:18:46 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<category><![CDATA[biconomy]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122802</guid>
+
+					<description><![CDATA[<p>Biconomy, a web3 development platform &#38; toolkit that superpowers blockchain technology stacks, today announced it has launched a software development kit (SDK) to transform the way developers build easy-to-use decentralized applications (dApps). Since 2019, Biconomy has been engaged with the web3 infrastructure space by building easy-to-integrate, plug-and-play APIs for developers to scale their projects. The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/15/biconomy-releases-new-sdk-for-better-crypto-and-blockchain-development/">Biconomy releases new SDK for better crypto and blockchain development</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Biconomy, a web3 development platform &amp; toolkit that superpowers <a href="https://www.cryptoninjas.net/2021/01/11/biconomy-raises-seed-round-of-1-5m-to-enable-developers-to-simplify-web3-experience/" target="_blank" rel="noopener">blockchain technology stacks</a>, today announced it has launched a software development kit (SDK) to transform the way developers build easy-to-use decentralized applications (dApps).</p>
+<p>Since 2019, Biconomy has been engaged with the<a href="https://www.cryptoninjas.net/2020/03/06/biconomy-selected-as-the-first-blockchain-project-from-india-for-outlier-ventures-accelerator/" target="_blank" rel="noopener"> web3 infrastructure space</a> by building easy-to-integrate, plug-and-play APIs for developers to scale their projects. The <a href="https://www.biconomy.io/sdk" target="_blank" rel="noopener">Biconomy SDK</a> introduces time-saving steps for developers such as reducing multi-step transactions into one-click interactions, simple-to-use smart contract wallets, and a conveniently gasless and chainless experience for users.</p>
+<h3><strong>Easier Development</strong></h3>
+<p>As institutional and retail adoption of cryptocurrencies and dApps grow, dApp developers can onboard more web2 users by hiding the nuts and bolts behind complex on-chain transactions. This way, the majority of web2 users can onboard and interact with dApps easily — playing games, buying and trading NFTs and other digital assets — without deep knowledge of blockchain technology. dApps can save their users a ton of time and costs.</p>
+<blockquote><p><strong>“There is no point building in web3 if no one can use your products. User onboarding and retention are key for the growth of individual dApps and the crypto environment as a whole. Biconomy was built with the next billion web3 users in mind and we are fulfilling this goal by meeting developer and user needs. From gasless to one-click transactions, we are making sure engaging with web3 feels second nature and as easy as signing your name.&#8221;</strong><br />
+<a href="https://www.biconomy.io/" target="_blank" rel="noopener"><strong>&#8211; Ahmed Al-Balaghi, Co-Founder of Biconomy</strong></a></p></blockquote>
+<p>The introduction of the Biconomy SDK opens up further opportunities. Developers can offer users practical UX benefits such as secure web2-like social logins and recovery for accounts.</p>
+<p>One-click interactions for multistep transactions. Transaction batching removes the need for repeated authorization. Gasless and chainless experiences. Convenient fee payments in ERC20 tokens and fiat on-ramps and credit card purchases of crypto or NFTs.</p>
+<h3><strong>Features</strong></h3>
+<p>Biconomy SDK brings blockchain-agnostic, web2-like experiences to your dApp in a non-custodial manner.</p>
+<p>Here&#8217;s what is possible with the SDK today:</p>
+<ul>
+<li><strong>Easy User Onboarding &#8211;</strong> Social login, account creation &amp; recovery to seamlessly onboard web2 users.</li>
+<li><strong>Fiat On Ramp &#8211; </strong>Let end-users easily &amp; reliably buy/sell crypto within a dApp.</li>
+<li><strong>Gasless Transactions &#8211;</strong> dApps can sponsor gas fees to make user interactions as simple as web2 transactions.</li>
+<li><strong>Paying Gas Fees In ERC20 Tokens &#8211; </strong> Users can utilize any ERC20 asset in their wallet to pay gas fees.</li>
+<li><strong>Custom Transaction Bundling &#8211;</strong> Allow developers to build methods to do transaction batching which enables users to execute multiple actions, even across multiple chains, in a single transaction (e.g. approve &amp; deposit can be done in one transaction without changing anything in dApp smart contracts).</li>
+<li><strong>Cross-Chain Contract Calls &amp; Asset Transfer &#8211;</strong> Coming soon, the Biconomy SDK will provide in-dApp cross-chain asset bridging and contract calls to enable a chainless experience for end-users.</li>
+</ul>
+<p>With its current API suite, Biconomy enables more than 50,000 transactions daily, with users&#8217; gas fees sponsored by the dApps. It also allows users to pay fees in a token other than that of the blockchain.</p>
+<p>This has already resulted in onboarding more than 2.8 million web3 users, more than 25 million transactions across <a href="https://www.cryptoninjas.net/2021/09/20/cross-chain-platform-biconomy-live-on-moonriver-to-offer-gasless-transactions-to-dapp-devs/" target="_blank" rel="noopener">8 EVM chains</a>, and integration with 200+ dApps including dYdX, Perpetual Finance, Aavegotchi, Decentraland, Sandbox, Animoca Brands, and Zedrun.</p>
+<p>For more information on the Biconomy SDK check out the <a href="https://biconomy.gitbook.io/sdk/introduction/overview" target="_blank" rel="noopener">documents page</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/15/biconomy-releases-new-sdk-for-better-crypto-and-blockchain-development/">Biconomy releases new SDK for better crypto and blockchain development</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/15/biconomy-releases-new-sdk-for-better-crypto-and-blockchain-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trust Wallet launches anticipated browser extension of its crypto management app</title>
+		<link>https://www.cryptoninjas.net/2022/11/14/trust-wallet-launches-anticipated-browser-extension-of-its-crypto-management-app/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/14/trust-wallet-launches-anticipated-browser-extension-of-its-crypto-management-app/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2022 18:17:31 +0000</pubDate>
+				<category><![CDATA[Wallets]]></category>
+		<category><![CDATA[Trust Wallet]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122816</guid>
+
+					<description><![CDATA[<p>Trust Wallet, a self-custodial and multi-chain cryptocurrency wallet application, has announced the launch of its brand-new browser extension wallet. Supporting all EVM chains, as well as Solana, it is available now on browsers including Chrome, Brave, and Opera. The browser extension complements Trust Wallet&#8217;s mobile wallet, which is the world&#8217;s leading mobile crypto wallet with [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/14/trust-wallet-launches-anticipated-browser-extension-of-its-crypto-management-app/">Trust Wallet launches anticipated browser extension of its crypto management app</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Trust Wallet, a self-custodial and <a href="https://www.cryptoninjas.net/2019/02/04/binance-backed-trust-wallet-joins-foundation-for-interwallet-operability/" target="_blank" rel="noopener">multi-chain cryptocurrency wallet</a> application, has announced the launch of its brand-new browser extension wallet. Supporting all EVM chains, as well as Solana, it is available now on browsers including <a href="https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph" target="_blank" rel="noopener">Chrome</a>, Brave, and Opera.</p>
+<p>The browser extension complements Trust Wallet&#8217;s mobile wallet, which is the world&#8217;s leading mobile crypto wallet with 60 million downloads and over 10 million monthly active users globally. Both versions of Trust Wallet deliver enhanced web3 accessibility and offer a more seamless wallet experience for both desktop and mobile environments.</p>
+<p>With Trust Wallet&#8217;s browser extension, users can manage, store, send, and receive over 8 million tokens across all EVM chains and Solana. This includes Ethereum, BNB Chain, Polygon, and Avalanche with e ability to custom-add other EVM chains. More non-EVMs will be added in the upcoming months and will be announced in due course.</p>
+<p>Ultimately, the Trust Wallet browser extension improves the multi-chain experience for users on desktops. Network auto-detect allows for a seamless dApp experience without needing to manually add networks. Also, the browser extension enables users to effectively discover things beyond centralized exchanges (CEXs) such as web3 gaming, metaverse, DeFi, tokens not found on CEXs, and more.</p>
+<blockquote><p><strong>&#8220;Our users&#8217; number one request is the Browser extension and they want one with the same good user experience as the Trust Wallet mobile app and the multi-chain coverage. We build for users to empower them whichever device they prefer, to continue to access the exciting dApps on different chains. This is our initial step, and we will listen to users&#8217; and developers&#8217; feedback to improve.&#8221;</strong><br />
+<a href="https://trustwallet.com/" target="_blank" rel="noopener"><strong>&#8211; Eowyn Chen, </strong></a><strong><a href="https://trustwallet.com/" target="_blank" rel="noopener">CEO of Trust Wallet</a></strong></p></blockquote>
+<p>Features that already exist on Trust Wallet&#8217;s mobile app like multi-wallet support, NFT support, fiat on-ramp providers, and non-EVM blockchain integrations will be added to the browser extension to bring more parity between the desktop and the mobile version. However, there are unique features that will be launched on extension first like hardware wallet support.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/14/trust-wallet-launches-anticipated-browser-extension-of-its-crypto-management-app/">Trust Wallet launches anticipated browser extension of its crypto management app</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/14/trust-wallet-launches-anticipated-browser-extension-of-its-crypto-management-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BlockFills launches end-to-end enterprise crypto trading technology stack</title>
+		<link>https://www.cryptoninjas.net/2022/11/10/blockfills-launches-end-to-end-enterprise-crypto-trading-technology-stack/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/10/blockfills-launches-end-to-end-enterprise-crypto-trading-technology-stack/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2022 16:19:23 +0000</pubDate>
+				<category><![CDATA[Vendor Technology]]></category>
+		<category><![CDATA[blockfills]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122789</guid>
+
+					<description><![CDATA[<p>BlockFills, a company specializing in building trading and management solutions for cryptocurrency market participants, today announced the launch of Vision Crypto Cloud, a secure, full-service, end-to-end digital asset trading, order management, and risk management platform. The software-as-a-service (SaaS) platform enables institutions to quickly access the crypto ecosystem out of the box, without the multi-year timeline [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/10/blockfills-launches-end-to-end-enterprise-crypto-trading-technology-stack/">BlockFills launches end-to-end enterprise crypto trading technology stack</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="bw-release-story">
+<p>BlockFills, a company specializing in building trading and management <a href="https://www.cryptoninjas.net/2021/10/04/phoenix-blockfills-unveils-new-professional-grade-crypto-trading-platform/" target="_blank" rel="noopener">solutions for cryptocurrency market participants</a>, today announced the launch of Vision Crypto Cloud, a secure, full-service, end-to-end digital asset trading, order management, and risk management platform.</p>
+<p>The software-as-a-service (SaaS) platform enables institutions to quickly access the crypto ecosystem out of the box, without the multi-year timeline and expense associated with building an in-house solution.</p>
+<p>Noteworthy, BlockFills deploys an integrated <a href="https://www.cryptoninjas.net/2020/09/08/crypto-trading-platform-algotrader-deepens-liquidity-with-blockfills/" target="_blank" rel="noopener">liquidity solution</a> that licensees of Vision Crypto Cloud can utilize as part of the service. Vision Crypto Cloud is a technology stack that BlockFills has operated for its own use for several years.</p>
+<blockquote><p><strong>“Our software division is very proud to launch Vision Crypto Cloud as a new and innovative SaaS product for the sector. Vision Crypto Cloud represents a simple and flexible path for entities to enter into the digital asset space which is wrought with challenges for top-tier institutions. BlockFills can provide a turn-key, yet scalable software solution with integrated liquidity in the spot, derivatives, and lending markets to institutions seeking to enter the market or better manage their current digital trading business.”</strong><br />
+<a href="https://www.blockfills.com/" target="_blank" rel="noopener"><strong>&#8211; Nick Hammer, Co-Founder &amp; CEO of BlockFills</strong></a></p></blockquote>
+</div>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/10/blockfills-launches-end-to-end-enterprise-crypto-trading-technology-stack/">BlockFills launches end-to-end enterprise crypto trading technology stack</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/10/blockfills-launches-end-to-end-enterprise-crypto-trading-technology-stack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HashKey Group receives approval to operate crypto exchange from Hong Kong SFC</title>
+		<link>https://www.cryptoninjas.net/2022/11/10/hashkey-group-receives-approval-to-operate-crypto-exchange-from-hong-kong-sfc/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/10/hashkey-group-receives-approval-to-operate-crypto-exchange-from-hong-kong-sfc/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2022 09:10:20 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hashkey]]></category>
+		<category><![CDATA[hashkey capital]]></category>
+		<category><![CDATA[hashkey group]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122778</guid>
+
+					<description><![CDATA[<p>Hash Blockchain Limited (HBL), a member of the HashKey Group (HashKey), a blockchain asset financial services group in Asia, announced today it has received approval from the Securities and Futures Commission of Hong Kong (SFC) to operate a virtual asset trading platform, under a Type 1 (dealing in securities) license and a Type 7 (automated [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/10/hashkey-group-receives-approval-to-operate-crypto-exchange-from-hong-kong-sfc/">HashKey Group receives approval to operate crypto exchange from Hong Kong SFC</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Hash Blockchain Limited (HBL), a member of the HashKey Group (HashKey), a <a href="https://www.cryptoninjas.net/2019/08/23/blockchain-payments-network-terra-gets-investment-from-hashkey-capital/" target="_blank" rel="noopener">blockchain asset financial services group</a> in Asia, announced today it has received approval from the Securities and Futures Commission of Hong Kong (SFC) to operate a virtual asset trading platform, under a Type 1 (dealing in securities) license and a Type 7 (automated trading services ATS license) for professional investors.</p>
+<p><strong>With the SFC licenses, HashKey Group has now become the world’s first digital asset group with virtual asset licenses from the Hong Kong SFC, the Financial Services Agency of Japan, and an exemption to operate under the Payment Services Act from the Monetary Authority of Singapore.</strong></p>
+<h3><strong>Trading with HashKey</strong></h3>
+<p>HashKey PRO is the name of HBL’s institutional-grade crypto asset trading platform. HashKey PRO will provide professional investors with automated trading services for cryptocurrencies such as bitcoin and ether, as well as stablecoins, security tokens, and more.</p>
+<p>Unlike other unregulated crypto trading platforms, HashKey PRO is designed to ensure there is a high level of client asset protection. Client assets are segregated and held in custody by HashKey Custody Services Limited, which holds a Trust or Company Service Provider license in Hong Kong.</p>
+<p>HBL’s license issuances come after a statement on October 31, 2022, by the city’s Financial Services and the Treasury Bureau, which outlined its vision and approach to develop Hong Kong into an international virtual assets hub.</p>
+<figure id="attachment_122781" aria-describedby="caption-attachment-122781" style="width: 189px" class="wp-caption alignright"><img decoding="async" class=" wp-image-122781" src="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg" alt="" width="189" height="189" srcset="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg 474w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-330x330.jpg 330w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-250x250.jpg 250w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-80x80.jpg 80w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-75x75.jpg 75w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-350x350.jpg 350w" sizes="(max-width: 189px) 100vw, 189px" /><figcaption id="caption-attachment-122781" class="wp-caption-text">Michel Lee, HashKey Group</figcaption></figure>
+<blockquote><p><strong>&#8220;The recent policy statement is a testament to the Hong Kong government’s dedication and commitment to fortify the city’s status as a frontrunner and leader in blockchain and virtual asset innovation and regulation. We are delighted to have received the licenses given the backdrop of this positive announcement. This enables us to provide regulated and compliant virtual asset trading services as we continue to help build the financial, technological, and service infrastructure to facilitate and contribute to the rapid growth and the long-term development of the ecosystem.”</strong><br />
+<a href="https://www.hashkey.com/" target="_blank" rel="noopener"><strong>&#8211; Michel Lee, Executive President of HashKey Group</strong></a></p></blockquote>
+<h3><strong>Regulation Background</strong></h3>
+<p>In 2022, the Hong Kong government and regulators have been setting out new guidelines and a licensing framework to regulate virtual asset trading activities in the interest of consumer and investor protection.</p>
+<p>A joint circular announcement was issued by the SFC and the Hong Kong Monetary Authority on January 28 2022 stating that registered institutions and licensed corporations are required to partner only with SFC-licensed VATPs in order to provide virtual asset dealing services to their clients.</p>
+<p>At Hong Kong FinTech Week 2022, the SFC also released a Circular on Virtual Asset Futures Exchange Traded Funds, stating that the SFC will start accepting applications for the authorization of such funds. The SFC has started reviewing the “professional investor only” requirement applicable to the investment of virtual asset products and is preparing a circular to set a modified security token regime to treat tokenized assets in line with traditional assets on a “same business, same risk and same rules” approach.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/10/hashkey-group-receives-approval-to-operate-crypto-exchange-from-hong-kong-sfc/">HashKey Group receives approval to operate crypto exchange from Hong Kong SFC</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/10/hashkey-group-receives-approval-to-operate-crypto-exchange-from-hong-kong-sfc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pundi X&#8217;s on-chain payment app for merchants now called Cashier Pro, adds Tron</title>
+		<link>https://www.cryptoninjas.net/2022/11/09/pundi-xs-on-chain-payment-app-for-merchants-now-called-cashier-pro-adds-tron/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/09/pundi-xs-on-chain-payment-app-for-merchants-now-called-cashier-pro-adds-tron/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 18:17:27 +0000</pubDate>
+				<category><![CDATA[Crypto Payments]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Pundi X]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122750</guid>
+
+					<description><![CDATA[<p>Pundi X, a blockchain payments startup, recently announced that its &#8220;On-chain payment&#8221; function within its XPOS crypto point-of-sale platform is now known as “Cashier Pro&#8221; and available for all merchants. Cashier Pro enables merchants to accept crypto payments from 3rd party blockchain wallet users across multiple blockchain networks, including Bitcoin Lightning Network, BNB Chain, Ethereum, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/09/pundi-xs-on-chain-payment-app-for-merchants-now-called-cashier-pro-adds-tron/">Pundi X&#8217;s on-chain payment app for merchants now called Cashier Pro, adds Tron</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Pundi X, a <a href="https://www.cryptoninjas.net/2021/02/24/zelaapayae-deploys-pundi-xs-merchant-crypto-payment-solutions-for-uae/" target="_blank" rel="noopener">blockchain payments startup</a>, recently announced that its &#8220;On-chain payment&#8221; function within its XPOS crypto point-of-sale platform is now known as “Cashier Pro&#8221; and available for all merchants.</p>
+<p>Cashier Pro enables merchants to accept crypto payments from 3rd party blockchain wallet users across multiple blockchain networks, including Bitcoin Lightning Network, BNB Chain, Ethereum, and Tron. Among them, Bitcoin Lightning Network and Tron blockchain are two new networks that were requested by XPOS distributors and merchants.</p>
+<blockquote><p><strong> “We’re constantly looking for ways to improve our XPOS machines and there was no better way to do that than having Cashier Pro support Lightning Network and Tron Network. I have no doubt that XPOS users will be happy to see they can accept payment from not only Pundi X product users but also from many other 3rd party blockchain wallet users.”</strong><br />
+<strong><a href="https://pundix.com/" target="_blank" rel="noopener">&#8211; Pundi X CEO &amp; Co-Founder Zac Cheah</a></strong></p></blockquote>
+<p><strong><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-122752" src="https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro.png" alt="" width="811" height="705" srcset="https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro.png 811w, https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro-380x330.png 380w, https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro-288x250.png 288w, https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro-768x668.png 768w, https://www.cryptoninjas.net/wp-content/uploads/xpos-cashioer-pro-750x652.png 750w" sizes="(max-width: 811px) 100vw, 811px" /></strong></p>
+<p id="0de8">This change was initiated with Pundi X&#8217;s launch of XPOS Web 3.0 with NFC payment capabilities &amp; more. XPOS Web 3.0 includes Cashier Pro and builds off versions of XPOS, which is a point-of-sale machine enabling brick-and-mortar retailers to accept crypto payments and transact on the blockchain.</p>
+<p>With XPOS Web 3.0, merchants are also able to use Pundi X&#8217;s p(x)Change dApp powered by <a href="https://functionx.io/home" target="_blank" rel="noopener">Function X technology</a> to connect their blockchain wallets to accept and sell crypto via multiple blockchain networks.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/09/pundi-xs-on-chain-payment-app-for-merchants-now-called-cashier-pro-adds-tron/">Pundi X&#8217;s on-chain payment app for merchants now called Cashier Pro, adds Tron</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/09/pundi-xs-on-chain-payment-app-for-merchants-now-called-cashier-pro-adds-tron/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Solana-powered sports wagering platform BetDEX to launch ahead of World Cup</title>
+		<link>https://www.cryptoninjas.net/2022/11/07/solana-powered-sports-wagering-platform-betdex-to-launch-ahead-of-world-cup/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/07/solana-powered-sports-wagering-platform-betdex-to-launch-ahead-of-world-cup/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 18:17:24 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122724</guid>
+
+					<description><![CDATA[<p>BetDEX Labs, the company behind BetDEX, a new sports betting exchange for peer-to-peer wagering, this week announced that the BetDEX Exchange will officially launch on the Solana mainnet on Thursday, November 17th, which coincides with the beginning of the 2022 World Cup. Just recently, BetDEX became one of the first licensed sports betting exchanges built [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/07/solana-powered-sports-wagering-platform-betdex-to-launch-ahead-of-world-cup/">Solana-powered sports wagering platform BetDEX to launch ahead of World Cup</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>BetDEX Labs, the company behind BetDEX, a new sports betting exchange for peer-to-peer wagering, this week announced that the BetDEX Exchange will officially launch on the Solana mainnet on Thursday, November 17th, which coincides with the beginning of the 2022 World Cup.</p>
+<p>Just recently, BetDEX became one of the first licensed sports betting exchanges built on the blockchain. Under the Online Gambling Regulation Act (OGRA), the BetDEX Exchange received licensed approval from the Isle of Man for all forms of online gambling and gaming, including online sports betting.</p>
+<p>Upon launch, BetDEX will accept users from countries across Europe, Asia, South America, and Africa. The fully non-custodial exchange is powered by the Monaco Protocol.</p>
+<blockquote><p><strong>&#8220;After a successful open beta we are excited to officially launch the BetDEX Exchange in select countries and territories around the world. As the world&#8217;s first fully licensed web3 sports betting exchange, we&#8217;re looking forward to onboarding members into a booming space. Launching just ahead of the world&#8217;s premier sporting event is an exciting moment as our community can wager on matches throughout the duration of the World Cup and beyond.&#8221;</strong><br />
+<a href="https://www.betdex.com/" target="_blank" rel="noopener"><strong>&#8211; Varun Sudhakar, CEO &amp; Co-Founder of BetDEX</strong></a></p></blockquote>
+<p>In the near future, BetDEX is expected to accept wagers on tennis, cricket, and more.</p>
+<p>Since introducing its open beta in early October, the BetDEX Exchange has accepted wagers from over 12,000 early access members. A &#8220;beta&#8221; tag will remain on the exchange until 2023, but customers will be able to wager real money immediately upon launch.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/07/solana-powered-sports-wagering-platform-betdex-to-launch-ahead-of-world-cup/">Solana-powered sports wagering platform BetDEX to launch ahead of World Cup</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/07/solana-powered-sports-wagering-platform-betdex-to-launch-ahead-of-world-cup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto exchange company OKX secures registration in Bahamas, opens office in Nassau</title>
+		<link>https://www.cryptoninjas.net/2022/11/03/crypto-exchange-company-okx-secures-registration-in-bahamas-opens-office-in-nassau/</link>
+					<comments>https://www.cryptoninjas.net/2022/11/03/crypto-exchange-company-okx-secures-registration-in-bahamas-opens-office-in-nassau/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 18:17:28 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122682</guid>
+
+					<description><![CDATA[<p>OKX, one of the largest crypto exchanges by volume and a leading web3 platform, today announced its registration as a Digital Asset Business in The Bahamas under the newly adopted Digital Assets and Registered Exchanges (DARE) Act. The company has also formed a new subsidiary, OKX Bahamas, for which it appointed Dr. Jillian Bethel, a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/03/crypto-exchange-company-okx-secures-registration-in-bahamas-opens-office-in-nassau/">Crypto exchange company OKX secures registration in Bahamas, opens office in Nassau</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>OKX, one of the largest crypto exchanges by volume and a leading web3 platform, today announced its registration as a Digital Asset Business in The Bahamas under the newly adopted Digital Assets and Registered Exchanges (DARE) Act.</p>
+<p>The company has also formed a new subsidiary, OKX Bahamas, for which it appointed Dr. Jillian Bethel, a Bahamian native and blockchain industry luminary, as CEO. With plans to serve as a regional hub, OKX Bahamas has opened a Nassau-based office and plans to fill 100 job openings locally.</p>
+<p>OKX Bahamas will cater to Latin America and the Caribbean&#8217;s growing population of cryptocurrency investors and traders.</p>
+<blockquote><p><strong>“OKX is thrilled about our expansion into The Bahamas under the innovative DARE Act. We are prioritizing growth in regulated markets because we want to enable responsible crypto activity globally. By working with forward-looking authorities like the Securities Commission of The Bahamas, we can create safe and sustainable environments for crypto to exist.”</strong><br />
+<a href="https://www.okx.com/" target="_blank" rel="noopener"><strong>&#8211; Tim Byun, Global Government Relations Officer, OKX</strong></a></p></blockquote>
+<p>OKX selected The Bahamas as a strategic growth location because of the effective regulatory framework created by the Securities Commission of The Bahamas. Already known as a prestigious international business and financial center, The Bahamas is emerging as a global leader in digital assets through its progressive legislation and regulatory structures.</p>
+<blockquote><p><strong>“The DARE Act has made The Bahamas a pioneer in digital asset adoption, and I’m proud to lead the OKX Bahamas team in championing crypto. As a gateway to the Caribbean and the broader Americas, The Bahamas is opening new doors for local talent and global businesses to thrive here with forward-looking policy.”</strong><br />
+<a href="https://www.okx.com/" target="_blank" rel="noopener"><strong>&#8211; Dr. Jillian Bethel, OKX Bahamas CEO</strong></a></p></blockquote>
+<p>This registration in The Bahamas comes on the heels of OKX receiving a provisional Virtual Assets Regulatory Authority (VARA) license in Dubai, where it has also opened a regional hub to serve qualified investors within the UAE and surrounding countries.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/11/03/crypto-exchange-company-okx-secures-registration-in-bahamas-opens-office-in-nassau/">Crypto exchange company OKX secures registration in Bahamas, opens office in Nassau</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/11/03/crypto-exchange-company-okx-secures-registration-in-bahamas-opens-office-in-nassau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto services company Blockchain.com opens waitlist for new Visa debit card</title>
+		<link>https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/</link>
+					<comments>https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 18:08:30 +0000</pubDate>
+				<category><![CDATA[Crypto Payments]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[blockchain.com]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122599</guid>
+
+					<description><![CDATA[<p>Today, crypto services company Blockchain.com, announced the launch of its new Visa debit card. With the Blockchain.com Visa card, users can spend any crypto in their Blockchain.com Wallet without fees while earning 1% back in crypto on all purchases. Key Features: Works like a debit card &#8211; Pay from crypto or cash balances anywhere Visa [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/">Crypto services company Blockchain.com opens waitlist for new Visa debit card</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today, <a href="https://www.cryptoninjas.net/2020/01/14/blockchain-com-exchange-api-comes-out-of-beta-and-is-now-live/" target="_blank" rel="noopener">crypto services company</a> Blockchain.com, announced the launch of its new Visa debit card.</p>
+<p>With the Blockchain.com Visa card, users can spend any crypto in their <a href="https://www.cryptoninjas.net/2020/03/10/blockchain-coms-new-wallet-service-enables-users-to-borrow-stablecoins-against-bitcoin/" target="_blank" rel="noopener">Blockchain.com Wallet</a> without fees while earning 1% back in crypto on all purchases.</p>
+<h3><strong>Key Features:</strong></h3>
+<ul>
+<li><strong>Works like a debit card</strong> &#8211; Pay from crypto or cash balances anywhere Visa debit cards are accepted.</li>
+<li><strong>Practical</strong> &#8211; There are no signup fees, card issuance fees, annual fees, or transaction fees.</li>
+<li><strong>Earn crypto back</strong> &#8211; Users receive 1% back in crypto whenever they make a purchase.</li>
+</ul>
+<blockquote><p><strong>&#8220;Starting today, US customers can join the waitlist for the Blockchain.com Visa Card. The first customers will be able to order your card soon and immediately use it for online purchases, with your physical card to be delivered in the mail shortly after.&#8221;</strong><br />
+<span style="color: #999999;"><strong>&#8211; The Blockchain.com Team</strong></span></p></blockquote>
+<p>Those interested in this card can join the waitlist <a href="https://www.blockchain.com/card/" target="_blank" rel="noopener">here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/">Crypto services company Blockchain.com opens waitlist for new Visa debit card</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</title>
+		<link>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2022 04:32:07 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Kraken]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122470</guid>
+
+					<description><![CDATA[<p>Kraken, the popular crypto exchange, has announced the results of its second 2022 Proof of Reserves audit, which has now been expanded beyond *BTC, and ETH* to include USDT, USDC, XRP, ADA*, and DOT.  *Indicates Proof of Reserves audit covered assets held both on Kraken’s spot exchange and Kraken&#8217;s staking platform. The addition of five [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/">Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Kraken, the <a href="https://www.cryptoninjas.net/2021/12/21/crypto-exchange-kraken-acquires-crypto-staking-platform-staked/" target="_blank" rel="noopener">popular crypto exchange</a>, has announced the results of its second 2022 Proof of Reserves audit, which has now been expanded beyond *BTC, and ETH* to include USDT, USDC, XRP, ADA*, and DOT.</p>
+<p><em> *Indicates Proof of Reserves audit covered assets held both on Kraken’s spot exchange and Kraken&#8217;s staking platform.</em></p>
+<p>The addition of five more cryptocurrencies expands the verification of Kraken client balance coverage to 63% of the total assets held on Kraken. The firm says it plans to continue including additional assets in future Proof of Reserves audits.</p>
+<p>A Proof of Reserve audit is an accounting procedure that cryptographically verifies cryptocurrency holdings and account balances. The results of the most recent audit were again verified by the top-25 global accounting firm, Armanino LLP.</p>
+<p>This latest audit determined Kraken securely held all of the above assets belonging to clients on its exchange, as well as held in its on-chain and off-chain staking services.</p>
+<blockquote><p><strong>&#8220;&#8230;don’t just take our word for it. We have always focused on security and our latest Proof of Reserves audit enables clients who held these assets on the exchange to independently verify their Kraken balances are indeed backed by real assets secured by our global exchange.&#8221;</strong><br />
+<a href="https://www.kraken.com/" target="_blank" rel="noopener"><strong>&#8211; The Kraken Team</strong></a></p></blockquote>
+<p>As quoted, Kraken now provides the tools needed for clients to independently affirm the results of audits. To learn more about this process and Proof of Reserves in general, see the details on Kraken&#8217;s <a href="https://www.kraken.com/proof-of-reserves?utm_source=content+announcement&amp;utm_medium=blog&amp;utm_campaign=por+announcement&amp;utm_content=content+link" target="_blank" rel="noopener" data-cke-saved-href="https://www.kraken.com/proof-of-reserves?utm_source=content+announcement&amp;utm_medium=blog&amp;utm_campaign=por+announcement&amp;utm_content=content+link">website</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/">Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blocknative releases new tool to enable high-speed propagation of ETH transactions</title>
+		<link>https://www.cryptoninjas.net/2022/08/11/blocknative-releases-new-tool-to-enable-high-speed-propagation-of-eth-transactions/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/11/blocknative-releases-new-tool-to-enable-high-speed-propagation-of-eth-transactions/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 16:18:26 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<category><![CDATA[Blocknative]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122445</guid>
+
+					<description><![CDATA[<p>Blocknative, a web3 infrastructure company, today launched the Transaction Distribution Network (TDN). This tool allows blockchain users to respond to pre-chain risks and opportunities faster than ever, ensuring each transaction has the best chance of getting into the next block. The result is better, more predictable outcomes when submitting or replacing transactions. TDN works by [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/11/blocknative-releases-new-tool-to-enable-high-speed-propagation-of-eth-transactions/">Blocknative releases new tool to enable high-speed propagation of ETH transactions</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blocknative, a <a href="https://www.cryptoninjas.net/2021/09/02/browser-extension-of-the-blocknative-ethereum-gas-estimator-now-available/" target="_blank" rel="noopener">web3 infrastructure company</a>, today launched the Transaction Distribution Network (TDN). This tool allows blockchain users to respond to pre-chain risks and opportunities faster than ever, ensuring each transaction has the best chance of getting into the next block.</p>
+<p><strong>The result is better, more predictable outcomes when submitting or replacing transactions.</strong></p>
+<p>TDN works by simultaneously injecting a transaction into multiple Ethereum nodes located worldwide. This accelerates Ethereum’s peer-to-peer propagation, reducing the time it takes for the transaction to reach every node in the network, including miners and validators post-merge.</p>
+<p><strong>To achieve this, TDN uses a low-latency, self-optimizing peer-to-peer overlay that automatically finds and exploits the fastest network routes.</strong></p>
+<p>This allows the Transaction Distribution Network to respond to changes in network conditions in real-time, for example routing around congestion caused by a bidding war. When combined with Blocknative&#8217;s optimized networking stack, Transaction Distribution Network provides propagation speeds close to the theoretical limit, even under adverse conditions, giving a notable advantage for inclusion in the next block.</p>
+<p><strong>With TDN, Blocknative users now have access to complete, real-time transaction control.</strong></p>
+<p>Users can respond faster than ever to every risk and opportunity in the mempool. TDN users receive real-time alerts as their transactions race across Blocknative&#8217;s global network, providing insight beyond the acknowledgment of single-point injection provided by standard RPCs.</p>
+<blockquote><p><strong>“Transaction Distribution Network gives users a competitive edge by rapidly propagating their transactions to Ethereum nodes so that they have a higher probability of inclusion. Transactions are simultaneously injected into multiple global nodes through our private, geographically optimized network, so there is no need to wait for peer-to-peer propagation.”</strong><br />
+<a href="https://www.blocknative.com/" target="_blank" rel="noopener" data-cke-saved-href="https://www.blocknative.com/"><strong>&#8211; Chris Meisl, CTO of Blocknative</strong></a></p></blockquote>
+<p>Those users without access to the pre-blockchain layer can be vulnerable to its innate uncertainty. Including volatile gas fees, inaccurate transaction previews, and adversarial actors. These can all result in less-than-favorable settlement outcomes, including failed transactions or increased MEV exposure.</p>
+<p>Blocknative&#8217;s TDN adds the ability to write to the pre-chain layer with confidence. Users can now respond to the pre-chain risks and opportunities they already monitor with Blocknative.</p>
+<p>To learn more about Blocknative&#8217;s Transaction Distribution Network (TDN) tool <a href="https://www.blocknative.com/transaction-distribution-network" target="_blank" rel="noopener" data-cke-saved-href="https://www.blocknative.com/transaction-distribution-network">click here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/11/blocknative-releases-new-tool-to-enable-high-speed-propagation-of-eth-transactions/">Blocknative releases new tool to enable high-speed propagation of ETH transactions</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/11/blocknative-releases-new-tool-to-enable-high-speed-propagation-of-eth-transactions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SynFutures plans to integrate with Router Protocol to improve multi-chain access</title>
+		<link>https://www.cryptoninjas.net/2022/08/11/synfutures-plans-to-integrate-with-router-protocol-to-improve-multi-chain-access/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/11/synfutures-plans-to-integrate-with-router-protocol-to-improve-multi-chain-access/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 02:37:14 +0000</pubDate>
+				<category><![CDATA[Strategic Integration]]></category>
+		<category><![CDATA[Router Protocol]]></category>
+		<category><![CDATA[SynFutures]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122460</guid>
+
+					<description><![CDATA[<p>SynFutures, a decentralized derivatives exchange, announced today a new partnership with Router, a cross-chain protocol that enables fund transfer, asset swaps, and cross-chain applications. The projects will work together to expand their respective ecosystems and explore integration, taking a crucial step in SynFutures’ mission to become a multi-chain trading platform. Cross-chain, or blockchain interoperability, refers [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/11/synfutures-plans-to-integrate-with-router-protocol-to-improve-multi-chain-access/">SynFutures plans to integrate with Router Protocol to improve multi-chain access</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>SynFutures, a <a href="https://www.cryptoninjas.net/2022/06/09/crypto-wallet-bitkeep-to-integrate-decentralized-derivatives-exchange-synfutures/" target="_blank" rel="noopener">decentralized derivatives exchange</a>, announced today a new partnership with Router, a <a href="https://www.cryptoninjas.net/2022/06/29/router-protocol-launches-its-modular-cross-chain-bridge-voyager/" target="_blank" rel="noopener">cross-chain protocol</a> that enables fund transfer, asset swaps, and cross-chain applications.</p>
+<p>The projects will work together to expand their respective ecosystems and explore integration, taking a crucial step in SynFutures’ mission to become a multi-chain trading platform.</p>
+<p>Cross-chain, or blockchain interoperability, refers to the ability to perform transactions, send assets, and other activities across two or multiple networks. Cross-chain plays a crucial role in improving the overall user experience for DeFi projects, such as SynFutures, where users and liquidity providers (LPs) must operate and complete transactions on one chain at a time.</p>
+<p>Through integration with Router, SynFutures could solve this pain point for users and LPs.</p>
+<blockquote><p><strong>“SynFutures was designed to be multi-chain, and we’ve been making strides to deploy on both EVM and non-EVM compatible chains. Through our partnership with Router, we can explore new opportunities that will speed up this process and make our platform truly chain-agnostic, opening our platform up to new audiences across the entire blockchain ecosystem.”</strong><br />
+<a href="https://www.synfutures.com/" target="_blank" rel="noopener"><strong>&#8211; Rachel Lin, Co-Founder &amp; CEO at SynFutures</strong></a></p></blockquote>
+<p>In addition to asset transfers, Router Protocol allows the flow of arbitrary messages across chains securely and seamlessly, thereby extending the composability of DeFi across various blockchains.</p>
+<blockquote><p><strong>“Router Protocol is excited to help SynFutures go multi-chain and leverage cross-chain primitives. In the era of fragmentation of users and liquidity — we are committed to help DApps expand to multiple chains,.&#8221;</strong><br />
+<a href="https://www.routerprotocol.com/" target="_blank" rel="noopener"><strong>&#8211; Ramanai Ramachandran, CEO of Router Protocol</strong></a></p></blockquote>
+<p>Today&#8217;s announcement comes following SynFutures&#8217; plans to deploy Optimism, a growing L2 network. Seeking to expand its multi-chain strategy, SynFutures is also preparing to release its V2 closed Alpha, which will introduce new features and updates to the trading platform.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/11/synfutures-plans-to-integrate-with-router-protocol-to-improve-multi-chain-access/">SynFutures plans to integrate with Router Protocol to improve multi-chain access</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/11/synfutures-plans-to-integrate-with-router-protocol-to-improve-multi-chain-access/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Serum powered DEX for Solana from Vybe Network launches</title>
+		<link>https://www.cryptoninjas.net/2022/08/10/new-serum-powered-dex-for-solana-from-vybe-network-launches/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/10/new-serum-powered-dex-for-solana-from-vybe-network-launches/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 20:14:31 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122431</guid>
+
+					<description><![CDATA[<p>Today it was announced from the Serum community the launch of Vybe DEX, a data-driven trading interface powered by Serum’s central limit order book &#38; matching engine, built by Vybe Network. Vybe Network is a data infrastructure solution that enables the Solana community to query, index, and share on-chain data to build web3 dApps and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/new-serum-powered-dex-for-solana-from-vybe-network-launches/">New Serum powered DEX for Solana from Vybe Network launches</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today it was announced from the Serum community the launch of Vybe DEX, a data-driven trading interface powered by Serum’s central limit order book &amp; matching engine, built by <a href="https://vybenetwork.com/" target="_blank" rel="noopener">Vybe Network</a>.</p>
+<p>Vybe Network is a data infrastructure solution that enables the Solana community to query, index, and share on-chain data to build web3 dApps and analytics.</p>
+<p><strong>For now, the <a href="https://dex.vybenetwork.xyz/" target="_blank" rel="noopener">DEX trading platform</a> is available on a desktop web interface, where users can buy, sell and trade various digital assets using Serum’s liquidity and matching engine.</strong></p>
+<h3><strong>Now Live: Vybe DEX</strong></h3>
+<p>Vybe DEX enables users to directly interact with Project Serum, in a fully decentralized manner. Users can place a trade on Vybe DEX in an easy-to-use interface, just as they would on centralized exchanges.</p>
+<p>The interface’s functionalities include placing limit and market orders for all Serum markets, viewing open orders and transaction history, live and historical chart data, statistics on order book liquidity, SPL tokens as well as market depth charts.</p>
+<p>Users can also access their profile page to view and manage their assets, open orders, unsettled balances, and open order accounts.</p>
+<figure id="attachment_122432" aria-describedby="caption-attachment-122432" style="width: 750px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="wp-image-122432 size-full" src="https://www.cryptoninjas.net/wp-content/uploads/securmvybe.jpg" alt="" width="750" height="368" srcset="https://www.cryptoninjas.net/wp-content/uploads/securmvybe.jpg 750w, https://www.cryptoninjas.net/wp-content/uploads/securmvybe-673x330.jpg 673w, https://www.cryptoninjas.net/wp-content/uploads/securmvybe-300x147.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /><figcaption id="caption-attachment-122432" class="wp-caption-text"><strong>The Vybe DEX is available as a web interface</strong></figcaption></figure>
+<h3><strong>Vybe Network</strong></h3>
+<p>Vybe Network is at the forefront of building on-chain analytics products for Solana.</p>
+<p>One of Vybe’s notable contributions to the Serum ecosystem is Serum Analytics (<a href="http://projectserum.vybenetwork.com" target="_blank" rel="noopener">projectserum.vybenetwork.com</a>), a dashboard with real-time data related to Serum including trading volume, total value locked, and top trading pairs.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/new-serum-powered-dex-for-solana-from-vybe-network-launches/">New Serum powered DEX for Solana from Vybe Network launches</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/10/new-serum-powered-dex-for-solana-from-vybe-network-launches/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Brazil payment app PicPay launches new crypto exchange service with Paxos technology</title>
+		<link>https://www.cryptoninjas.net/2022/08/10/brazil-payment-app-picpay-launches-new-crypto-exchange-service-with-paxos-technology/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/10/brazil-payment-app-picpay-launches-new-crypto-exchange-service-with-paxos-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 17:17:58 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Paxos]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122387</guid>
+
+					<description><![CDATA[<p>PicPay, a Brazil-based payment app, has announced will now allow its users to buy, sell and hold cryptocurrencies, in its first foray into the crypto market. Today, PicPay launches its cryptocurrency exchange service, which initially supports trading of Bitcoin and Ethereum, as well as USDP. The exchange is operated in partnership with Paxos, a blockchain [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/brazil-payment-app-picpay-launches-new-crypto-exchange-service-with-paxos-technology/">Brazil payment app PicPay launches new crypto exchange service with Paxos technology</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>PicPay, a Brazil-based payment app, has announced will now allow its users to buy, sell and hold cryptocurrencies, in its first foray into the crypto market. Today, PicPay launches its cryptocurrency exchange service, which initially supports trading of Bitcoin and Ethereum, as well as USDP.</p>
+<p>The exchange is operated in partnership with Paxos, a <a href="https://www.cryptoninjas.net/2021/12/02/latam-payment-app-mercadapago-to-offer-users-bitcoin-exchange-and-more-via-paxos/" target="_blank" rel="noopener">blockchain infrastructure company</a> regulated by the New York Department of Financial Services. Paxos will manage trading and custody of assets for PicPay. Paxos is also the issuer of USDP, a regulated US dollar stablecoin.</p>
+<p>Gradually, the exchange will be made available on the PicPay app, which has more than 30M active users. Trading will start from R$ 1 with PicPay also providing users with data and info on the crypto market within the exchange platform.</p>
+<blockquote><p><strong>“PicPay is one of the most disruptive players in payments in Brazil and our goal is to lead the growth of the crypto market, by eliminating the complexity that is still associated with it and expanding information on the technology, so that everyone can take advantage of this asset class, technology.&#8221;</strong><br />
+<strong><a href="https://picpay.com/" target="_blank" rel="noopener">&#8211; Bruno Gregory, Head of PicPay’s Crypto &amp; Web3 business unit</a></strong></p></blockquote>
+<h3><strong>Next Phases</strong></h3>
+<p>Later this year, users will be able to pay using cryptocurrencies in the PicPay app and will be able to complete crypto transfers. In addition to the crypto exchange, PicPay will soon launch its own stablecoin. It is to be backed by the Brazilian real, with one-to-one parity, and will allow the PicPay stablecoin to be available as a payment method, anywhere that accepts crypto.</p>
+<blockquote><p><strong>“We’re excited to partner with PicPay to offer millions of Brazilians access to crypto markets and the Paxos regulated digital dollar USDP. PicPay is renowned for its innovative payments solutions, ensuring this partnership will make it easier for Brazilians to use digital assets safely in their daily lives.&#8221;</strong><br />
+<strong><a href="https://paxos.com/" target="_blank" rel="noopener">&#8211; Mike Coscetta, Paxos Head of Revenue</a></strong></p></blockquote>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/brazil-payment-app-picpay-launches-new-crypto-exchange-service-with-paxos-technology/">Brazil payment app PicPay launches new crypto exchange service with Paxos technology</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/10/brazil-payment-app-picpay-launches-new-crypto-exchange-service-with-paxos-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BitPay teams with Dosh to enable cashback rewards on crypto debit card</title>
+		<link>https://www.cryptoninjas.net/2022/08/10/bitpay-teams-with-dosh-to-enable-cashback-rewards-on-crypto-debit-card/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/10/bitpay-teams-with-dosh-to-enable-cashback-rewards-on-crypto-debit-card/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 16:18:16 +0000</pubDate>
+				<category><![CDATA[Crypto Payments]]></category>
+		<category><![CDATA[BitPay]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122370</guid>
+
+					<description><![CDATA[<p>BitPay, the bitcoin and crypto payment processing platform, announced today that users of its BitPay Card will now be rewarded with automatic cashback rewards when swiping the card at thousands of retailers. Thanks to a new partnership with Dosh, when spending with the BitPay Card, users will see crypto cashback rewards add up directly in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/bitpay-teams-with-dosh-to-enable-cashback-rewards-on-crypto-debit-card/">BitPay teams with Dosh to enable cashback rewards on crypto debit card</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>BitPay, the <a href="https://www.cryptoninjas.net/2021/01/26/bitpay-adds-the-changelly-crypto-exchange-api-to-app/" target="_blank" rel="noopener">bitcoin and crypto payment processing platform</a>, announced today that users of its BitPay Card will now be rewarded with automatic cashback rewards when swiping the card at thousands of retailers.</p>
+<p>Thanks to a new partnership with Dosh, when spending with the BitPay Card, users will see crypto cashback rewards add up directly in the BitPay app,</p>
+<blockquote><p><strong>&#8220;We’ve partnered with <a href="https://www.dosh.com/" target="_blank" rel="noopener">Dosh</a> to bring you cashback offers from brands you love. When you make a transaction with your BitPay Card, Dosh checks to see if it is eligible for a cashback reward. If the transaction is eligible for cash back, Dosh will send us a message to credit your checking account after the transaction has been completed and posted.&#8221;</strong><br />
+<a href="https://bitpay.com/" target="_blank" rel="noopener"><strong>&#8211; The BitPay Team</strong></a></p></blockquote>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/10/bitpay-teams-with-dosh-to-enable-cashback-rewards-on-crypto-debit-card/">BitPay teams with Dosh to enable cashback rewards on crypto debit card</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/10/bitpay-teams-with-dosh-to-enable-cashback-rewards-on-crypto-debit-card/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Move-and-earn&#8221; app STEPN to utilize LINE Blockchain for the Japanese market</title>
+		<link>https://www.cryptoninjas.net/2022/08/09/move-and-earn-app-stepn-to-utilize-line-blockchain-for-the-japanese-market/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/09/move-and-earn-app-stepn-to-utilize-line-blockchain-for-the-japanese-market/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Tue, 09 Aug 2022 15:19:38 +0000</pubDate>
+				<category><![CDATA[Networks & Protocols]]></category>
+		<category><![CDATA[LINE]]></category>
+		<category><![CDATA[stepn]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122376</guid>
+
+					<description><![CDATA[<p>LINE, the Japanese corporation specializing in mobile technologies, announced today that LINE Xenesis and Find Satoshi recently concluded an MOU aiming to utilize LINE Blockchain in the localization of STEPN for the Japanese market. STEPN is a &#8220;move-and-earn&#8221; blockchain game that lets players earn crypto assets equivalent to the number of steps they&#8217;ve taken. Since [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/move-and-earn-app-stepn-to-utilize-line-blockchain-for-the-japanese-market/">&#8220;Move-and-earn&#8221; app STEPN to utilize LINE Blockchain for the Japanese market</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>LINE, the Japanese corporation specializing in mobile technologies, announced today that LINE Xenesis and Find Satoshi recently concluded an MOU aiming to utilize LINE Blockchain in the localization of STEPN for the Japanese market.</p>
+<p>STEPN is a <a href="https://www.cryptoninjas.net/2022/04/14/what-is-stepn-gmt/" target="_blank" rel="noopener">&#8220;move-and-earn&#8221; blockchain game</a> that lets players earn crypto assets equivalent to the number of steps they&#8217;ve taken. Since its beta release back in December 2021, its popularity as a fitness app has grown among people worried about their lack of exercise. As of July 15th, 2022, the app boasts 4.5 million global registered users, including 3 million MAU.</p>
+<p>In April 2018, LINE established the LINE Blockchain Lab and has since pursued the development of dApps with blockchain along with research into P2P-network distributed systems and encryption technology. LINE Blockchain (LINE&#8217;s <a href="https://www.cryptoninjas.net/2019/10/04/line-and-nomura-finalize-agreement-to-explore-blockchain-business-opportunities/" target="_blank" rel="noopener">proprietary blockchain</a>) was created and used to issue native <a href="https://www.cryptoninjas.net/2018/10/16/lines-cryptocurrency-link-now-available-exclusively-on-bitbox/" target="_blank" rel="noopener">crypto asset LINK</a>.</p>
+<p>The entire group is now developing and operating various blockchain-related businesses, including the crypto asset trading services <a href="https://www.cryptoninjas.net/2019/09/17/japan-based-line-opens-new-crypto-exchange-bitmax/" target="_blank" rel="noopener">LINE BITMAX (in Japan)</a> and BITFRONT (globally) as well as a comprehensive NFT marketplace called LINE NFT.</p>
+<blockquote><p><strong>&#8220;We&#8217;re very pleased to be able to cooperate with STEPN, which is very popular in Japan as well as a representative example of web3 in the world. As LINE&#8217;s proprietary blockchain, LINE Blockchain serves as the technological foundation for LINE&#8217;s various services. With this collaboration across international borders, we hope to create new synergy and continue to offer new blockchain value from a position that is closest to our users.&#8221;</strong><br />
+<a href="https://linecorp.com/en/" target="_blank" rel="noopener"><strong>&#8211;  Lim Inkyu, LINE Xenesis&#8217; Representative Director &amp; CEO</strong></a></p></blockquote>
+<p>Moving forward, both companies will collaborate on the technological and business aspects of localizing STEPN for the Japanese market while seeking to create a service that lets Japanese users simply and enjoyably experience web3 as part of their healthy lifestyles.</p>
+<blockquote><p><strong>&#8220;We at STEPN are excited about this opportunity to partner with LINE Blockchain. We believe this collaboration with LINE blockchain will help us better engage with the users of LINE in a web3 way, and in return help LINE promote a healthy lifestyle and carbon offsetting / environmental friendly initiatives to its users all over the world. We appreciate the progress of LINE blockchain as an avant garde in the enterprise blockchain space. Japan, one of the largest consumer markets of LINE, is also one of the most important markets of STEPN. We plan to continue to have more engagements in this market and hope to offer more exciting opportunities to our Japanese users.&#8221;</strong><br />
+<a href="https://stepn.com/" target="_blank" rel="noopener"><strong>&#8211; Yawn Rong, STEPN Co-Founder </strong></a></p></blockquote>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/move-and-earn-app-stepn-to-utilize-line-blockchain-for-the-japanese-market/">&#8220;Move-and-earn&#8221; app STEPN to utilize LINE Blockchain for the Japanese market</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/09/move-and-earn-app-stepn-to-utilize-line-blockchain-for-the-japanese-market/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto risk &#038; intel platform Merkle Science extends its Series A to over $24M</title>
+		<link>https://www.cryptoninjas.net/2022/08/09/crypto-risk-intel-platform-merkle-science-extends-its-series-a-to-over-24m/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/09/crypto-risk-intel-platform-merkle-science-extends-its-series-a-to-over-24m/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Tue, 09 Aug 2022 07:09:17 +0000</pubDate>
+				<category><![CDATA[Capital Raising]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122418</guid>
+
+					<description><![CDATA[<p>Merkle Science, a predictive crypto risk and intelligence platform, today announced an extension of more than $19 million to its Series A funding round, this now brings the total raised to over $24 million. New investments will help accelerate the company’s growth and be used for expansion across the U.S. and Europe, as well as [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/crypto-risk-intel-platform-merkle-science-extends-its-series-a-to-over-24m/">Crypto risk &#038; intel platform Merkle Science extends its Series A to over $24M</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Merkle Science, a predictive <a href="https://www.cryptoninjas.net/2022/05/20/crypto-transaction-monitoring-platform-merkle-science-adds-support-for-1200-erc-20-tokens/" target="_blank" rel="noopener">crypto risk and intelligence </a>platform, today announced an extension of more than $19 million to its Series A funding round, this now brings the total raised to over $24 million.</p>
+<p>New investments will help accelerate the company’s growth and be used for expansion across the U.S. and Europe, as well as for R&amp;D in emerging segments such as analytics and forensics across NFTs, DeFi, and cryptocurrency bridge protocols.</p>
+<p>Merkle Science’s solution suite screens over 3 million digital assets monthly and covers cryptocurrencies representing 96% of the current $1.13 trillion crypto market cap. It uses machine learning to drive transaction monitoring and risk mitigation for AML compliance, offers a crypto forensics tool that tracks stolen funds and enables investigations, enhanced due diligence and entity reporting, and crypto compliance and investigations training.</p>
+<p>BECO Capital, Susquehanna affiliate (Darrow Holdings), and K3 Ventures co-led the extension, with participation from new investors including Republic Crypto, Summer Capital, 500 StartUps APAC, and US, Aspen Digital, HashKey Capital, and Coinhako. They were joined by existing investors Kraken Ventures, Digital Currency Group (DCG), Kenetic, Uncorrelated Ventures, Fenbushi Capital, Lucy Gazmararian of Token Bay Capital, and Libertus Capital.</p>
+<p>Several market vectors have converged to drive exponential global demand for the company’s solutions. This includes the rapid adoption of blockchain technology across the financial services industry, including on the part of many large institutions; the escalating impact and cost of hacks and exploits, such as the Nomad and the Ronin Bridge exploits; and increased regulatory scrutiny, such as NYDFS’s Virtual Currency Guidance, FINCEN’s Advisory on Illicit Activity Involving Convertible Virtual Currency and the sanctioning of Tornado cash and Blender.io by the US treasury.</p>
+<p>Merkle Science meets this need by providing next-generation crypto threat detection, risk mitigation, investigations, and compliance solutions to financial institutions, crypto businesses, DeFi participants, NFT platforms, and government agencies.</p>
+<blockquote><p><strong>“We’ve seen over 300% growth over the past year, despite the onset of a severe bear market in crypto and throughout the broader global economy. Web3 companies, financial institutions, and regulators are continuing to invest heavily in crypto compliance and forensics. Recent high-profile events in the space, including the failure of large companies and massive hacks, are a clear indicator of the need for much more robust risk management, forensics, and compliance for digital assets.”</strong><br />
+<a href="https://www.merklescience.com/" target="_blank" rel="noopener"><strong>&#8211; Merkle Science CEO &amp; Co-Founder Mriganka Pattnaik</strong></a></p></blockquote>
+<p>To support its goals, Merkle Science recently added to its leadership team, which features talent from Paypal, Luno, Bank of America, the FBI, and the DOJ, with new Chief Revenue Officer Fernando Castellanos &#8211; a New York-based sales leader and former Forter VP experienced in scaling organizations.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/crypto-risk-intel-platform-merkle-science-extends-its-series-a-to-over-24m/">Crypto risk &#038; intel platform Merkle Science extends its Series A to over $24M</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/09/crypto-risk-intel-platform-merkle-science-extends-its-series-a-to-over-24m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tetrix and Pitaka crypto wallet launch ‘Tetrix Link’ to digitize contact exchange</title>
+		<link>https://www.cryptoninjas.net/2022/08/09/tetrix-and-pitaka-crypto-wallet-launch-tetrix-link-to-digitize-contact-exchange/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/09/tetrix-and-pitaka-crypto-wallet-launch-tetrix-link-to-digitize-contact-exchange/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Tue, 09 Aug 2022 03:45:18 +0000</pubDate>
+				<category><![CDATA[Vendor Technology]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122354</guid>
+
+					<description><![CDATA[<p>Today it was announced by Filipino-led blockchain Tetrix Network and Pitaka crypto wallet, the launch of Tetrix Link, an NFC card that enables users to select and store information, such as their personal contact details and relevant social media accounts, and share these data when they tap or hover over their card to an NFC-enabled [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/tetrix-and-pitaka-crypto-wallet-launch-tetrix-link-to-digitize-contact-exchange/">Tetrix and Pitaka crypto wallet launch ‘Tetrix Link’ to digitize contact exchange</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today it was announced by Filipino-led blockchain Tetrix Network and Pitaka crypto wallet, the launch of Tetrix Link, an NFC card that enables users to select and store information, such as their personal contact details and relevant social media accounts, and share these data when they tap or hover over their card to an NFC-enabled mobile device.</p>
+<p><strong>Offering an easy-to-navigate UI backed with blockchain, Tetrix Link can function as any ID or key card. Eventually, it will also store mission-critical data and other physical documents like vaccine certificates and data inside NFTs for specific use cases.</strong></p>
+<p>To use Terix Link, users must download the latest version of the <a href="https://www.pitaka.io/" target="_blank" rel="noopener">Pitaka</a> mobile app. Next, sign up at https://link.tetrix.xyz and fill out the personal details and contact information needed in the dashboard.</p>
+<p>Once the card is purchased, users receive an authentication code to connect the dashboard to the Tetrix Link card. Finally, share that data by tapping the card onto an NFC-enabled device, and do not remove it until the information pops up on the screen.</p>
+<blockquote><p><strong>“With Tetrix Link, you can share your data to your peers more easily and would eliminate the need for multiple business cards since the data of multiple assets are stored inside the network. You can control which information to share, and lastly, you would only require a link or QR code to share.”</strong><br />
+<a href="https://www.tetrix.xyz/" target="_blank" rel="noopener"><strong>&#8211; Felix Asuncion, Co-Founder &amp; Chief Revenue Officer of Tetrix Network</strong></a></p></blockquote>
+<p>Aiming to recreate the way we use our physical wallets, Tetrix Link allows users to secure other forms of self-custodial data. All the data that is needed to present is housed in a handy little card, and potential connections only need to tap the card onto their NFC-enabled phones.</p>
+<p>The card has a QR code in case one&#8217;s phone doesn&#8217;t support NFC. Plus, if no internet connection at the moment of transfer, the receiver can bookmark the link and access it later. In later versions, Tetrix Link will enable users to access data offline as well.</p>
+<p>Also in the works is a second version, wherein users can add their resumé and an intro about themselves, plus book their schedule or create a calendar when they tap the card onto an NFC-enabled phone.</p>
+<p>Future updates on the card seek to enable users to transfer and receive cryptocurrencies via the Pitaka wallet, receive perks as with loyalty or rewards cards, and pay for merchants and transportation.</p>
+<p>For more information about Tetrix Link <a href="https://link.tetrix.xyz/" target="_blank" rel="noopener">click here</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/09/tetrix-and-pitaka-crypto-wallet-launch-tetrix-link-to-digitize-contact-exchange/">Tetrix and Pitaka crypto wallet launch ‘Tetrix Link’ to digitize contact exchange</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/09/tetrix-and-pitaka-crypto-wallet-launch-tetrix-link-to-digitize-contact-exchange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>THORWallet expands DeFi swap functionality with Rango Exchange integration</title>
+		<link>https://www.cryptoninjas.net/2022/08/08/thorwallet-expands-defi-swap-functionality-with-rango-exchange-integration/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/08/thorwallet-expands-defi-swap-functionality-with-rango-exchange-integration/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 17:17:21 +0000</pubDate>
+				<category><![CDATA[Wallets]]></category>
+		<category><![CDATA[thorchain]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122319</guid>
+
+					<description><![CDATA[<p>THORWallet, a non-custodial wallet that allows users to swap native crypto-assets across chains and earn passive income on them, today announced a new partnership with multi-chain DEX, Rango Exchange. For the first time, THORWallet DEX users can now execute cross-chain swaps on assets beyond those available in THORChain pools, starting with cross-chain swaps compatible with [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/thorwallet-expands-defi-swap-functionality-with-rango-exchange-integration/">THORWallet expands DeFi swap functionality with Rango Exchange integration</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>THORWallet, a non-custodial wallet that allows users to swap native crypto-assets across chains and earn passive income on them, today announced a new partnership with multi-chain DEX, Rango Exchange.</p>
+<p>For the first time, THORWallet DEX users can now execute cross-chain swaps on assets beyond those available in <a href="https://www.cryptoninjas.net/2018/10/18/new-decentralized-exchange-protocol-thorchain-has-launched/" target="_blank" rel="noopener">THORChain pools</a>, starting with cross-chain swaps compatible with the Ethereum Virtual Machine (EVM), plus more than 40 chains.</p>
+<blockquote><p><strong>“The team at Rango Exchange are renowned specialists in DEX aggregation. Joining forces allows us to collaborate on our shared vision of building a fair and open financial system for the future. Bringing together a multitude of cross-chain swap services into a single wallet application grants immediate access to the entire DeFi universe, including swap pairs not supported by THORChain.”</strong><br />
+<a href="https://www.thorwallet.org/" target="_blank" rel="noopener"><strong>&#8211; Marcel Harmann, Founder &amp; CEO of THORWallet DEX</strong></a></p></blockquote>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-122326" src="https://www.cryptoninjas.net/wp-content/uploads/rango-thor.jpg" alt="" width="476" height="199" srcset="https://www.cryptoninjas.net/wp-content/uploads/rango-thor.jpg 476w, https://www.cryptoninjas.net/wp-content/uploads/rango-thor-300x125.jpg 300w" sizes="(max-width: 476px) 100vw, 476px" /></p>
+<p>As the gateway to <a href="https://www.cryptoninjas.net/2021/04/14/shapeshift-adds-decentralized-native-bitcoin-trading-through-integration-with-thorchain/" target="_blank" rel="noopener">THORChain</a>, THORWallet DEX enables users to access native and cross-chain liquidity plus the full DeFi landscape from a single entry point.</p>
+<blockquote><p><strong>“Collaborating with the team at THORWallet is as exciting as it is significant. Until now, accessing multichain DeFi through multiple applications has been an intimidating experience for the average user. Consolidating our service&#8217;s features into a single wallet solution allows anyone with a smart device to easily take advantage of all the top chains and DEXs, swapping BTC with ETH or any liquid EVM assets.”</strong><br />
+<a href="https://rango.exchange/" target="_blank" rel="noopener"><strong>&#8211; Martin, CMO at Rango Exchange</strong></a></p></blockquote>
+<p>For Rango Exchange, this integration follows a string of successful partnerships including 1inch, Paraswap, and more.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/thorwallet-expands-defi-swap-functionality-with-rango-exchange-integration/">THORWallet expands DeFi swap functionality with Rango Exchange integration</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/08/thorwallet-expands-defi-swap-functionality-with-rango-exchange-integration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>pSTAKE&#8217;s BNB liquid staking solution (stkBNB) is now live</title>
+		<link>https://www.cryptoninjas.net/2022/08/08/pstakes-bnb-liquid-staking-solution-stkbnb-is-now-live/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/08/pstakes-bnb-liquid-staking-solution-stkbnb-is-now-live/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 16:18:36 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Networks & Protocols]]></category>
+		<category><![CDATA[pstake]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122308</guid>
+
+					<description><![CDATA[<p>pSTAKE, a liquid staking protocol that unlocks liquidity for staked assets, announced its BNB liquid staking solution (stkBNB) is now live on mainnet. Users can leverage their stkBNB tokens to pursue DeFi opportunities across the BNB Chain ecosystem. Launched today, stkBNB is now live on PancakeSwap to provide liquidity pools, yield-farming, and yield optimization. More [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/pstakes-bnb-liquid-staking-solution-stkbnb-is-now-live/">pSTAKE&#8217;s BNB liquid staking solution (stkBNB) is now live</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>pSTAKE, a <a href="https://www.cryptoninjas.net/2022/01/20/crypto-staking-protocol-pstake-raises-10m-in-public-token-sale-on-coinlist/" target="_blank" rel="noopener">liquid staking protocol</a> that unlocks liquidity for staked assets, announced its BNB liquid staking solution (stkBNB) is now live on mainnet. Users can leverage their stkBNB tokens to pursue DeFi opportunities across the <a href="https://www.cryptoninjas.net/2022/07/21/27-new-projects-selected-in-5th-cohort-of-bnb-chain-incubation-program-mvb/" target="_blank" rel="noopener">BNB Chain ecosystem</a>.</p>
+<p>Launched today, stkBNB is now live on PancakeSwap to provide liquidity pools, yield-farming, and yield optimization. More integrations are expected with other BNB Chain protocols in the near future.</p>
+<blockquote><p><strong>&#8220;After months of rigorous development and careful testing, which included a partnership with Binance Labs and a series of audits by leading blockchain security firms, pSTAKE is now moving forward with its mainnet launch for BNB liquid staking.&#8221;</strong><br />
+<a href="https://pstake.finance/" target="_blank" rel="noopener"><strong>&#8211; The pSTAKE Team</strong></a></p></blockquote>
+<figure id="attachment_122311" aria-describedby="caption-attachment-122311" style="width: 1860px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-full wp-image-122311" src="https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb.png" alt="" width="1860" height="806" srcset="https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb.png 1860w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-762x330.png 762w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-1280x555.png 1280w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-300x130.png 300w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-768x333.png 768w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-1536x666.png 1536w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-750x325.png 750w, https://www.cryptoninjas.net/wp-content/uploads/pstakeappssbnb-1140x494.png 1140w" sizes="(max-width: 1860px) 100vw, 1860px" /><figcaption id="caption-attachment-122311" class="wp-caption-text"><strong>pStake app (bnb.pstake.finance)</strong></figcaption></figure>
+<p>Simply by staking their BNB on pSTAKE, users will earn around 5% auto-compounded staking rewards. stkBNB is a BEP20 token compatible with Metamask, Binance Web Wallet, Trust Wallet, and Math Wallet.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/pstakes-bnb-liquid-staking-solution-stkbnb-is-now-live/">pSTAKE&#8217;s BNB liquid staking solution (stkBNB) is now live</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/08/pstakes-bnb-liquid-staking-solution-stkbnb-is-now-live/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DeFi liquidity mining platform Grizzly.fi collects $26M in &#8216;Community Fair Launch&#8217;</title>
+		<link>https://www.cryptoninjas.net/2022/08/08/defi-liquidity-mining-platform-grizzly-fi-collects-26m-in-community-fair-launch/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/08/defi-liquidity-mining-platform-grizzly-fi-collects-26m-in-community-fair-launch/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 15:17:29 +0000</pubDate>
+				<category><![CDATA[Capital Raising]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122340</guid>
+
+					<description><![CDATA[<p>Grizzly.fi, a crypto yield farming platform, announced today it has collected $26 million in its so-called &#8216;Community Fair Launch.&#8217; The raise is the best performing in history on BNB Chain without a launchpad. The project collected four times more than the previous record holder on the Binance BNB Chain, making them the 10th biggest BNB [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/defi-liquidity-mining-platform-grizzly-fi-collects-26m-in-community-fair-launch/">DeFi liquidity mining platform Grizzly.fi collects $26M in &#8216;Community Fair Launch&#8217;</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Grizzly.fi, a crypto yield farming platform, announced today it has collected <span class="xn-money">$26 million</span> in its so-called &#8216;Community Fair Launch.&#8217; The raise is the best performing in history on BNB Chain without a launchpad.</p>
+<p>The project collected four times more than the previous record holder on the Binance BNB Chain, making them the 10th biggest BNB holder. Now, after 18 months of developing, the Grizzly.fi platform is going live.</p>
+<p>With the conclusion of five audits including with Hacken, Grizzly.fi has put great importance on security. The team also formed a partnership with the Swiss Crypto Valley Association back in September 2021.</p>
+<blockquote><p><strong>&#8220;In this process, our focus lies on utility, user experience, and security. People will be able to use our platform to earn stable yields with the greatest user experience possible&#8221;</strong><br />
+<a href="https://grizzly.fi/" target="_blank" rel="noopener"><strong><span class="xn-person">Andres Soltermann</span>, Co-Founder of Grizzly.fi</strong></a></p></blockquote>
+<figure id="attachment_122344" aria-describedby="caption-attachment-122344" style="width: 831px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-full wp-image-122344" src="https://www.cryptoninjas.net/wp-content/uploads/graizfiss.png" alt="" width="831" height="504" srcset="https://www.cryptoninjas.net/wp-content/uploads/graizfiss.png 831w, https://www.cryptoninjas.net/wp-content/uploads/graizfiss-544x330.png 544w, https://www.cryptoninjas.net/wp-content/uploads/graizfiss-300x182.png 300w, https://www.cryptoninjas.net/wp-content/uploads/graizfiss-768x466.png 768w, https://www.cryptoninjas.net/wp-content/uploads/graizfiss-750x455.png 750w" sizes="(max-width: 831px) 100vw, 831px" /><figcaption id="caption-attachment-122344" class="wp-caption-text"><strong>The aggregator platform first launches on BNB Chain and will soon expand to other chains.</strong></figcaption></figure>
+<div class="jeg_video_container jeg_video_content"><iframe loading="lazy" title="Grizzly.fi Explained (English)" width="500" height="281" src="https://www.youtube.com/embed/jPSxIImuBI4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/08/defi-liquidity-mining-platform-grizzly-fi-collects-26m-in-community-fair-launch/">DeFi liquidity mining platform Grizzly.fi collects $26M in &#8216;Community Fair Launch&#8217;</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/08/defi-liquidity-mining-platform-grizzly-fi-collects-26m-in-community-fair-launch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Overledger release now supports QRC-721 NFTs on Tokenise developer API</title>
+		<link>https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 02:26:51 +0000</pubDate>
+				<category><![CDATA[Networks & Protocols]]></category>
+		<category><![CDATA[Overledger]]></category>
+		<category><![CDATA[quant network]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122287</guid>
+
+					<description><![CDATA[<p>Quant Network, the provider of enterprise-grade blockchain solutions, announced today that its blockchain gateway Overledger now provides users the ability to create native QRC-721 non-fungible tokens (NFTs) and deploy them onto the Ethereum, Polygon, and XDC mainnets. Developers can work with QRC-721 through Overledger Tokenise, one of Quant&#8217;s premium APIs, which enables even those with [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/">New Overledger release now supports QRC-721 NFTs on Tokenise developer API</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Quant Network, the provider of <a href="https://www.cryptoninjas.net/2020/07/21/alpha-sigma-capital-backs-blockchain-financial-protocol-quant-network/" target="_blank" rel="noopener">enterprise-grade blockchain</a> solutions, announced today that its <a href="https://www.cryptoninjas.net/2021/06/03/quant-network-launches-overledger-2-0-with-interoperability-to-ethereum-xrp-and-bitcoin/" target="_blank" rel="noopener">blockchain gateway Overledger</a> now provides users the ability to create native QRC-721 non-fungible tokens (NFTs) and deploy them onto the Ethereum, Polygon, and <a href="https://www.cryptoninjas.net/2022/03/08/xdc-network-unveils-smart-contract-and-tokenization-platform-origin/" target="_blank" rel="noopener">XDC</a> mainnets.</p>
+<p>Developers can work with QRC-721 through Overledger Tokenise, one of <a href="https://quant.network/products/tokenise/" target="_blank" rel="noopener">Quant&#8217;s premium APIs</a>, which enables even those with little to no development experience to create, deploy, and manage the next generation of secure, interoperable tokens and digital assets on supported networks.</p>
+<p>Via the easy-to-use UI, <a href="https://connect.quant.network/" target="_blank" rel="noopener">Quant Connect</a>, users can interact with Tokenise to launch and view their tokens. Once deployed, mDApps can call various functions to read data and initiate transactions to interact with the tokens via the <a href="https://www.cryptoninjas.net/2022/02/07/new-release-of-quants-blockchain-gateway-introduces-smart-contract-creation/" target="_blank" rel="noopener">QRC smart contract</a>.</p>
+<p><strong>This newest  QRC token type (QRC-721) has been introduced along with the existing <a href="https://quant.network/perspectives/qrc20-secure-smart-contracts/" target="_blank" rel="noreferrer noopener" data-barba-prevent="self">QRC-20 fungible tokens</a>, which can be used for payments as well as function as stablecoins. </strong></p>
+<p>QRC-721 tokens function like their Ethereum standard counterpart (ERC-721), with the same definitions and structure as smart tokens. While ERC-721 tokens are only for managing on the Ethereum network, QRC-721 tokens are secure and agnostic to work across multiple distributed ledger technologies.</p>
+<p>The QRC-721 token type is designed for those who want to digitalize collectibles, artwork, and more.</p>
+<div class="style1 fw700 mb50 m-mb30">
+<blockquote><p><strong>“Overledger now provides users the ability to create QRC-721 non-fungible tokens and deploy them onto the Ethereum, Polygon and XDC mainnets.”</strong><br />
+<a href="https://quant.network/" target="_blank" rel="noopener"><strong>&#8211; <span class="fw700">Peter Marirosans, </span>Chief Technology Officer of Quant Network</strong></a></p></blockquote>
+</div>
+<p>For more information on the new Overledger update, see the <a href="https://developer.quant.network/docs/Release_Notes_OVL_V2.2.12.pdf" target="_blank" rel="noopener">V2.2.12 release notes</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/">New Overledger release now supports QRC-721 NFTs on Tokenise developer API</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</title>
+		<link>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2022 16:18:41 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[CME Group]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122248</guid>
+
+					<description><![CDATA[<p>CME Group, a leading derivatives marketplace, today announced its plans to expand further its cryptocurrency derivatives offering with the introduction of Bitcoin and Ether futures denominated in EUR on Monday, August 29th, pending regulatory review. Designed to match their U.S. dollar-denominated counterparts, Bitcoin Euro and Ether Euro futures contracts will be sized at five bitcoin [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/">CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>CME Group, a leading derivatives marketplace, today announced its plans to expand further its <a href="https://www.cryptoninjas.net/2017/12/01/cme-group-self-certifies-bitcoin-futures-launch-december-18/" target="_blank" rel="noopener">cryptocurrency derivatives offering</a> with the introduction of Bitcoin and Ether futures denominated in EUR on Monday, August 29th, pending regulatory review.</p>
+<p>Designed to match their <a href="https://www.cryptoninjas.net/2020/12/16/cme-group-launching-ether-eth-futures-on-feb-8th-2021/" target="_blank" rel="noopener">U.S. dollar-denominated counterparts</a>, Bitcoin Euro and Ether Euro futures contracts will be sized at five bitcoin and 50 ether per contract.</p>
+<p>The new contracts are cash-settled, based on the CME CF Bitcoin-Euro Reference Rate and CME CF Ether-Euro Reference Rate, which serve as once-a-day measures of the EUR-denominated price of BTC and ETH.</p>
+<blockquote><p><strong>&#8220;Euro-denominated cryptocurrencies are the second highest traded fiat behind the U.S. dollar. Year-to-date, the EMEA region represents 28% of total Bitcoin and Ether futures contracts traded, up more than 5% versus 2021.&#8221;</strong><br />
+<a href="https://www.cmegroup.com/markets/cryptocurrencies.html?" target="_blank" rel="noopener"><strong>&#8211; Tim McCourt, Global Head of Equity and FX Products, CME Group</strong></a></p></blockquote>
+<p>In Q2, CME Group&#8217;s cryptocurrency segment saw a record average daily open interest of 106.2K contracts. It was the second highest quarter ever in average daily volume (57.4K contracts) across crypto products. Likewise, Ether futures reached a record average daily volume (6.6K contracts) in Q2, up 27% versus Q1.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/">CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</title>
+		<link>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/</link>
+					<comments>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2022 15:19:42 +0000</pubDate>
+				<category><![CDATA[Networks & Protocols]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<category><![CDATA[alchemy]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122253</guid>
+
+					<description><![CDATA[<p>Alchemy, a blockchain development platform, announced it now supports Polkadot parachain Astar Network, delivering developers more tools and services to build on the multi-chain smart contract hub. “Supporting the developer ecosystem is Astar’s driving motivation. By partnering with Alchemy and making their blockchain engine available to Astar developers, we will bring even more innovation and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/">Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Alchemy, a <a href="https://www.cryptoninjas.net/2021/07/19/evm-liquidity-protocol-connext-to-build-multi-chain-ethereum-ecosystem-with-alchemy/" target="_blank" rel="noopener" data-cke-saved-href="https://www.cryptoninjas.net/2021/07/19/evm-liquidity-protocol-connext-to-build-multi-chain-ethereum-ecosystem-with-alchemy/">blockchain development platform</a>, announced it now supports Polkadot parachain <a href="https://docs.astar.network/" target="_blank" rel="noopener" data-cke-saved-href="https://docs.astar.network/">Astar Network</a>, delivering developers more tools and services to build on the multi-chain smart contract hub.</p>
+<blockquote><p><strong>“Supporting the developer ecosystem is Astar’s driving motivation. By partnering with Alchemy and making their blockchain engine available to Astar developers, we will bring even more innovation and growth to the builder community.”</strong><br />
+<a href="https://astar.network/" target="_blank" rel="noopener" data-cke-saved-href="https://astar.network/"><strong>&#8211; Sota Watanabe, Founder &amp; CEO, Astar Network</strong></a></p></blockquote>
+<h3><strong>EVM Compatibility + WASM Functionality</strong></h3>
+<p>Astar is built on Parity Substrate, a framework that facilitates <a href="https://www.cryptoninjas.net/2020/03/05/17-initial-participants-announced-for-substrate-builders-program/" target="_blank" rel="noopener" data-cke-saved-href="https://www.cryptoninjas.net/2020/03/05/17-initial-participants-announced-for-substrate-builders-program/">easy custom blockchain development</a>. Substrate offers Astar built-in security benefits while it enables the Polkadot ecosystem to connect to all major layer-1 blockchains, including Ethereum, Acala, and soon Cosmos.</p>
+<p>By bridging the Polkadot and EVM webs, Astar fosters shared security, interoperability, and cross-consensus messaging (XCM), expanding the benefits past cross-chain asset transfers.</p>
+<p>It is through these advantages, Astar aims to become a hub of inventive and interoperable dApp projects, written in various languages.</p>
+<p>Beyond EVM compatibility, Astar is looking to the future with WASM. Often dubbed Ethereum 2.0, WASM, (short for WebAssembly), is a binary instruction format for a stack-based virtual machine, that supports the benefits of EVM while providing enhanced speed and interoperability.</p>
+<p>Astar’s support for both EVM and WASM also means developers can build on either Solidity or Rust.</p>
+<h4><strong>dApp Staking Initiative</strong></h4>
+<p>Noteworthy, <a href="https://portal.astar.network/#/dapp-staking/discover" target="_blank" rel="noopener">Astar’s dApp staking initiative</a> allows developers to get paid for the code that they write. Astar token holders can stake their tokens to nominate dApps, as long as a developer’s dApp has been nominated, the developer can earn a basic income, boosting the incentive to keep building.</p>
+<div class="cryptoboxes" id="mcw-122275" data-realtime=""><div class="mcw-chart mcw-chart-light" data-font = "inherit" data-coin = "astar" data-symbol = "ASTR" data-currency = "USD" data-rate = "1.000268" data-type = "chart" data-view = "threemonths" data-theme = "light" data-smooth = "" data-areacolor = "black" data-bgcolor = "#2e5adb"></div></div>
+<h4><strong>Developers on Astar now have access to Alchemy products, which include:</strong></h4>
+<ul>
+<li><strong>Alchemy Supernode:</strong> a blockchain engine that ensures infinite scalability, the strongest web3 reliability, and 100% data accuracy. Alchemy Supernode means developers never have to spend time managing their blockchain connection.</li>
+<li><strong>Alchemy SDK:</strong> the easiest way to connect a dApp to the blockchain, with just two lines of code.</li>
+<li><strong>Alchemy Notify:</strong> provides webhook access to alert users about every type of event, including address activity, mined transactions, and dropped transactions.</li>
+<li><strong>Developer Tools:</strong> including WebSockets, usage analytics, composer, explorer, and mempool visualizer, which makes it simple to subscribe to events, monitor app health, explore new methods, optimize performance, and view the real-time state of transactions.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/">Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
