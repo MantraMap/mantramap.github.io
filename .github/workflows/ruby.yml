@@ -32,6 +32,7 @@ jobs:
     # # uses: ruby/setup-ruby@v1
       uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
       with:
+        github_token: ${{ secrets.GH_TOKEN }}
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     # - name: Install Jekyll Import gem
@@ -42,8 +43,6 @@ jobs:
     - uses: fregante/setup-git-user@v1
     - run: git add .
     - run: git commit -m "Importing feeds"
-      with:
-        github_token: ${{ secrets.GH_TOKEN }}
-        run: git push
+    - run: git push
     # - name: Run tests
     #   run: bundle exec rake
