@@ -36,6 +36,7 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     # - name: Install Jekyll Import gem
     - run: bundle install 
+    - run: gem install jekyll-import
     - name: Import feeds from multiple sources
       run: ruby -I ./vendor/bundle import_feed.rb
     # - name: Run tests
