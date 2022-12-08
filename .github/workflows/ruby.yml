@@ -26,6 +26,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - uses: fregante/setup-git-user@v1
     - name: Set up Ruby
     # # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # # change this to (see https://github.com/ruby/setup-ruby#versioning):
@@ -40,7 +41,7 @@ jobs:
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
     - name: Push to repo
-      uses: fregante/setup-git-user@v1
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GH_TOKEN }}
     - run: git add .
