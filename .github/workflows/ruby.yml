@@ -39,5 +39,9 @@ jobs:
     - run: gem install jekyll-import
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
+    - uses: fregante/setup-git-user@v1
+    - run: git add .
+    - run: git commit -m "Importing feeds"
+    - run: git push
     # - name: Run tests
     #   run: bundle exec rake
