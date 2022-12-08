@@ -43,7 +43,6 @@ jobs:
       uses: fregante/setup-git-user@v1
       with:
         github_token: ${{ secrets.GH_TOKEN }}
-    - run: git branch 
     - run: git add .
     - run: git commit -m "Importing feeds"
     - run: git push
