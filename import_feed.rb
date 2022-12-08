@@ -1,5 +1,5 @@
-require "jekyll-import"
-require 'open-uri'
+# require "jekyll-import"
+# require 'open-uri'
 
 
 
