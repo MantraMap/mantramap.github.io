@@ -11,7 +11,7 @@ on:
   push:
     branches: [ "gh-pages" ]
   schedule:
-    - cron:  '5 * * * *'
+    - cron:  '0 * * * *'
 
 permissions:
   contents: read
