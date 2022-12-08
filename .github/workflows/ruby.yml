@@ -41,7 +41,7 @@ jobs:
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
     - uses: fregante/setup-git-user@v1
-    - run: git branch gh-pages
+    - run: git branch 
     - run: git add .
     - run: git commit -m "Importing feeds"
     - run: git push
