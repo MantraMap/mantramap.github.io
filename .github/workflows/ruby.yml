@@ -32,7 +32,6 @@ jobs:
     # # uses: ruby/setup-ruby@v1
       uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
       with:
-        github_token: ${{ secrets.GH_TOKEN }}
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     # - name: Install Jekyll Import gem
@@ -40,7 +39,10 @@ jobs:
     - run: gem install jekyll-import
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
-    - uses: fregante/setup-git-user@v1
+    - name: Push to repo
+      uses: fregante/setup-git-user@v1
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
     - run: git branch 
     - run: git add .
     - run: git commit -m "Importing feeds"
