@@ -185,8 +185,7 @@ JekyllImport::Importers::RSS.run({
   "tag" => "CryptoNinjas"
 })
 
-puts("Cyrpto feeds created")
-puts(Dir.entries("."))
+puts(Dir.entries("./external_feeds"))
 puts(Dir.pwd)
 # Feeds below have quality content 
 # but need some sort of parsing to work well with MantraMap Blog
