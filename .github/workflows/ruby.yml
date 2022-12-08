@@ -35,7 +35,7 @@ jobs:
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     # - name: Install Jekyll Import gem
-    - run: bundle install jekyll-import
+    - run: bundle install 
     - name: Import feeds from multiple sources
       run: ruby -I /vendor/bundle import_feed.rb
     # - name: Run tests
