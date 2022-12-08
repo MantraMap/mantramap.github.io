@@ -69,6 +69,7 @@ JekyllImport::Importers::RSS.run({
   "canonical_link" => true,
   "tag" => "CryptoPotato"
 })
+puts("Cyrpto feeds created")
 
 JekyllImport::Importers::RSS.run({
   "source" => "./external_feeds/cointelegraph_feeds.xml",
