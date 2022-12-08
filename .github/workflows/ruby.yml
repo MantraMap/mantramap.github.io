@@ -38,6 +38,6 @@ jobs:
     - run: bundle install 
     - run: gem install jekyll-import
     - name: Import feeds from multiple sources
-      run: ruby -I ./vendor/bundle import_feed.rb
+      run: ruby import_feed.rb
     # - name: Run tests
     #   run: bundle exec rake
