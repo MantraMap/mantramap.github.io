@@ -69,7 +69,7 @@ JekyllImport::Importers::RSS.run({
   "canonical_link" => true,
   "tag" => "CryptoPotato"
 })
-puts("Cyrpto feeds created")
+
 
 JekyllImport::Importers::RSS.run({
   "source" => "./external_feeds/cointelegraph_feeds.xml",
@@ -185,6 +185,9 @@ JekyllImport::Importers::RSS.run({
   "tag" => "CryptoNinjas"
 })
 
+puts("Cyrpto feeds created")
+puts(Dir.entries("."))
+puts(Dir.pwd)
 # Feeds below have quality content 
 # but need some sort of parsing to work well with MantraMap Blog
 
