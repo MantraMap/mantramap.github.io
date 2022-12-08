@@ -1,4 +1,5 @@
 require 'open-uri'
+require './vendor/bundle/jekyll-import'
 require "jekyll-import"
 
 cryptopotato = URI.open('https://cryptopotato.com/feed/')
