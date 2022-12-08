@@ -1,5 +1,5 @@
-# require "jekyll-import"
 require 'open-uri'
+require "jekyll-import"
 
 cryptopotato = URI.open('https://cryptopotato.com/feed/')
 IO.copy_stream(cryptopotato, './external_feeds/cryptopotato_feeds.xml')
