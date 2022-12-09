@@ -26,6 +26,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 
     - uses: fregante/setup-git-user@v1
     - name: Set up Ruby
     # # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
