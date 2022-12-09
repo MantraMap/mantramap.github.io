@@ -17,7 +17,7 @@ permissions:
   contents: read
 
 jobs:
-  deploy_after_import:
+  import_and_redeploy:
 
     runs-on: ubuntu-latest
     permissions:
