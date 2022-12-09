@@ -17,9 +17,12 @@ permissions:
   contents: read
 
 jobs:
-  test:
+  deploy_after_import:
 
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
     strategy:
       matrix:
         ruby-version: ['2.7']
@@ -49,6 +52,6 @@ jobs:
         github-token: ${{ secrets.GH_PAT_TOKEN }}
         push-branch: 'gh-pages'
         commit-message: 'importing new feeds'
-    - run: git push
+    # - run: git push
     # - name: Run tests
     #   run: bundle exec rake
