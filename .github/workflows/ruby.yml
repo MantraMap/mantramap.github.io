@@ -40,12 +40,14 @@ jobs:
     - run: gem install jekyll-import
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
-    - name: Push to repo
-      uses: ad-m/github-push-action@master
+    - name: build
+      uses: github-actions-x/hugo@master
+    - name: push
+      uses: github-actions-x/commit@v2.9
       with:
-        github_token: ${{ secrets.GH_TOKEN }}
-    - run: git add .
-    - run: git commit -m "Importing feeds"
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'gh-pages'
+        commit-message: 'importing new feeds'
     - run: git push
     # - name: Run tests
     #   run: bundle exec rake
