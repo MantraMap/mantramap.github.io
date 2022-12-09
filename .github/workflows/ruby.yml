@@ -52,6 +52,7 @@ jobs:
         github-token: ${{ secrets.GH_PAT_TOKEN }}
         push-branch: 'gh-pages'
         commit-message: 'importing new feeds'
+        rebase: 'true'
         name: MantraMap
         email: info@mantramap.com
     # - run: git push
