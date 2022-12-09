@@ -12,7 +12,7 @@
 	<atom:link href="https://www.cryptoninjas.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.cryptoninjas.net/</link>
 	<description>Bitcoin, Cryptocurrency and Blockchain Asset Source</description>
-	<lastBuildDate>Mon, 05 Dec 2022 21:48:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Dec 2022 04:38:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tenderly introduces TXN simulations on its blockchain gateway for efficient dApp development</title>
+		<link>https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/</link>
+					<comments>https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 18:18:20 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Vendor Technology]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=123066</guid>
+
+					<description><![CDATA[<p>Tenderly, creators of a blockchain development platform, today announced that it is the first web3 development platform to offer simulations through RPC on its Tenderly Web3 Gateway, the company&#8217;s production node as a service. Note, Tenderly already processes more than 50 million simulations per month through its Transaction Simulator. Now, the company is introducing the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/">Tenderly introduces TXN simulations on its blockchain gateway for efficient dApp development</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Tenderly, creators of a blockchain development platform, today announced that it is the first web3 development platform to offer simulations through RPC on its Tenderly Web3 Gateway, the company&#8217;s production node as a service.</p>
+<p>Note, Tenderly already processes more than 50 million simulations per month through its Transaction Simulator. Now, the company is introducing the same capabilities to the world of JSON-RPC.</p>
+<p>Just recently, Tenderly entered the node infrastructure space with its Tenderly Web3 Gateway, which is built on top of more than four years of dev tools and observability experience, and Tenderly continues to deliver new products into the node space.</p>
+<p><strong>The Tenderly Web3 Gateway is a tightly integrated part of its development platform that helps engineers streamline the process of building and deploying smart contracts. The gateway has support for 20+ EVM-based (Ethereum Virtual Machine) networks, Tenderly provides developers with a variety of options to achieve greater speed, improve scalability, and reduce costs.</strong></p>
+<p>Now, with the addition of simulations to Tenderly Web3 Gateway, Tenderly enables developers to build smarter and more efficient decentralized applications (dApps) with more powerful and easy-to-use dApp building blocks. Setting up simulations and sending transactions on-chain is made possible through a single RPC URL and a custom-built RPC method.</p>
+<p>The importance of simulating transactions before sending them is reflected in that developers have greater insight into the execution of their transactions, including more visibility into failures and errors, as well as gas consumption issues.</p>
+<p>Armed with this essential information, developers can embed transparency and predictability directly into their dApp, increasing transaction visibility and reducing the chances of failures and/or costly mistakes for all of their users. Additionally, beginner developers who are exploring smart contract optimization options can also benefit from Tenderly Web3 Gateway due to its simple and easy-to-use design.</p>
+<blockquote><p><strong>&#8220;Our initial launch of Tenderly Web3 Gateway last month was just the tip of the iceberg for what we plan to do in the node provider space. By integrating simulations with Tenderly Web3 Gateway, we set the direction for the evolution of the node provider ecosystem. We already have the next big thing in our sights and under development that will even further simplify web3 developers&#8217; life.&#8221;</strong><br />
+<a href="https://tenderly.co/" target="_blank" rel="noopener"><strong>&#8211; Andrej Bencic, CEO &amp; Co-Founder of Tenderly</strong></a></p></blockquote>
+<h4><strong>Key features of the Tenderly Web3 Gateway include:</strong></h4>
+<ul>
+<li><strong>Custom-built RPC endpoint</strong> &#8211; To run simulations through the gateway, all developers have to do is add a single RPC URL to their code and call a custom-built RPC method. This eliminates the need to integrate separate APIs for simulations and deployment, ensuring a faster development process without configuration pain.</li>
+<li><strong>Fast response time</strong> &#8211; The multi-regional architecture of Tenderly Web3 Gateway automatically routes simulation requests to the location nearest to the user, which reduces latency and ensures the simulation results are returned almost instantaneously.</li>
+<li><strong>Simulate against real mainnet data</strong> &#8211; When running simulations through Tenderly Web3 Gateway, a transaction is executed against a copy of the most up-to-date Mainnet data, eliminating the guesswork and manual effort that goes into ensuring the success of transactions before they hit the blockchain. Web3 developers can integrate this functionality into their dapps to provide a more transparent and predictable experience for their users.</li>
+<li><strong>100% accurate simulation results</strong> &#8211; Since transactions are simulated against the latest state of the blockchain, developers get accurate insights into what would happen before sending the transaction. The simulation results received back from Tenderly help developers correct errors and understand the outcome of transactions being added to the blockchain.</li>
+</ul>
+<div class="jeg_video_container jeg_video_content"><iframe loading="lazy" title="Tenderly Web3 Gateway Demo" width="500" height="281" src="https://www.youtube.com/embed/cOdJ6RYb3Rs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/">Tenderly introduces TXN simulations on its blockchain gateway for efficient dApp development</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>DFINITY brings new smart contract functionality to Bitcoin with Internet Computer integration</title>
 		<link>https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/</link>
 					<comments>https://www.cryptoninjas.net/2022/12/05/dfinity-brings-new-smart-contract-functionality-to-bitcoin-with-internet-computer-integration/#respond</comments>
@@ -225,7 +264,7 @@
 <p>HashKey PRO is the name of HBL’s institutional-grade crypto asset trading platform. HashKey PRO will provide professional investors with automated trading services for cryptocurrencies such as bitcoin and ether, as well as stablecoins, security tokens, and more.</p>
 <p>Unlike other unregulated crypto trading platforms, HashKey PRO is designed to ensure there is a high level of client asset protection. Client assets are segregated and held in custody by HashKey Custody Services Limited, which holds a Trust or Company Service Provider license in Hong Kong.</p>
 <p>HBL’s license issuances come after a statement on October 31, 2022, by the city’s Financial Services and the Treasury Bureau, which outlined its vision and approach to develop Hong Kong into an international virtual assets hub.</p>
-<figure id="attachment_122781" aria-describedby="caption-attachment-122781" style="width: 189px" class="wp-caption alignright"><img decoding="async" class=" wp-image-122781" src="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg" alt="" width="189" height="189" srcset="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg 474w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-330x330.jpg 330w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-250x250.jpg 250w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-80x80.jpg 80w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-75x75.jpg 75w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-350x350.jpg 350w" sizes="(max-width: 189px) 100vw, 189px" /><figcaption id="caption-attachment-122781" class="wp-caption-text">Michel Lee, HashKey Group</figcaption></figure>
+<figure id="attachment_122781" aria-describedby="caption-attachment-122781" style="width: 189px" class="wp-caption alignright"><img decoding="async" loading="lazy" class=" wp-image-122781" src="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg" alt="" width="189" height="189" srcset="https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey.jpg 474w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-330x330.jpg 330w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-250x250.jpg 250w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-80x80.jpg 80w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-75x75.jpg 75w, https://www.cryptoninjas.net/wp-content/uploads/michaelleehaashkey-350x350.jpg 350w" sizes="(max-width: 189px) 100vw, 189px" /><figcaption id="caption-attachment-122781" class="wp-caption-text">Michel Lee, HashKey Group</figcaption></figure>
 <blockquote><p><strong>&#8220;The recent policy statement is a testament to the Hong Kong government’s dedication and commitment to fortify the city’s status as a frontrunner and leader in blockchain and virtual asset innovation and regulation. We are delighted to have received the licenses given the backdrop of this positive announcement. This enables us to provide regulated and compliant virtual asset trading services as we continue to help build the financial, technological, and service infrastructure to facilitate and contribute to the rapid growth and the long-term development of the ecosystem.”</strong><br />
 <a href="https://www.hashkey.com/" target="_blank" rel="noopener"><strong>&#8211; Michel Lee, Executive President of HashKey Group</strong></a></p></blockquote>
 <h3><strong>Regulation Background</strong></h3>
@@ -793,48 +832,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</title>
-		<link>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/</link>
-					<comments>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/#respond</comments>
-		
-		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
-		<pubDate>Thu, 04 Aug 2022 15:19:42 +0000</pubDate>
-				<category><![CDATA[Networks & Protocols]]></category>
-		<category><![CDATA[Vendor Technology]]></category>
-		<category><![CDATA[alchemy]]></category>
-		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122253</guid>
-
-					<description><![CDATA[<p>Alchemy, a blockchain development platform, announced it now supports Polkadot parachain Astar Network, delivering developers more tools and services to build on the multi-chain smart contract hub. “Supporting the developer ecosystem is Astar’s driving motivation. By partnering with Alchemy and making their blockchain engine available to Astar developers, we will bring even more innovation and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/">Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Alchemy, a <a href="https://www.cryptoninjas.net/2021/07/19/evm-liquidity-protocol-connext-to-build-multi-chain-ethereum-ecosystem-with-alchemy/" target="_blank" rel="noopener" data-cke-saved-href="https://www.cryptoninjas.net/2021/07/19/evm-liquidity-protocol-connext-to-build-multi-chain-ethereum-ecosystem-with-alchemy/">blockchain development platform</a>, announced it now supports Polkadot parachain <a href="https://docs.astar.network/" target="_blank" rel="noopener" data-cke-saved-href="https://docs.astar.network/">Astar Network</a>, delivering developers more tools and services to build on the multi-chain smart contract hub.</p>
-<blockquote><p><strong>“Supporting the developer ecosystem is Astar’s driving motivation. By partnering with Alchemy and making their blockchain engine available to Astar developers, we will bring even more innovation and growth to the builder community.”</strong><br />
-<a href="https://astar.network/" target="_blank" rel="noopener" data-cke-saved-href="https://astar.network/"><strong>&#8211; Sota Watanabe, Founder &amp; CEO, Astar Network</strong></a></p></blockquote>
-<h3><strong>EVM Compatibility + WASM Functionality</strong></h3>
-<p>Astar is built on Parity Substrate, a framework that facilitates <a href="https://www.cryptoninjas.net/2020/03/05/17-initial-participants-announced-for-substrate-builders-program/" target="_blank" rel="noopener" data-cke-saved-href="https://www.cryptoninjas.net/2020/03/05/17-initial-participants-announced-for-substrate-builders-program/">easy custom blockchain development</a>. Substrate offers Astar built-in security benefits while it enables the Polkadot ecosystem to connect to all major layer-1 blockchains, including Ethereum, Acala, and soon Cosmos.</p>
-<p>By bridging the Polkadot and EVM webs, Astar fosters shared security, interoperability, and cross-consensus messaging (XCM), expanding the benefits past cross-chain asset transfers.</p>
-<p>It is through these advantages, Astar aims to become a hub of inventive and interoperable dApp projects, written in various languages.</p>
-<p>Beyond EVM compatibility, Astar is looking to the future with WASM. Often dubbed Ethereum 2.0, WASM, (short for WebAssembly), is a binary instruction format for a stack-based virtual machine, that supports the benefits of EVM while providing enhanced speed and interoperability.</p>
-<p>Astar’s support for both EVM and WASM also means developers can build on either Solidity or Rust.</p>
-<h4><strong>dApp Staking Initiative</strong></h4>
-<p>Noteworthy, <a href="https://portal.astar.network/#/dapp-staking/discover" target="_blank" rel="noopener">Astar’s dApp staking initiative</a> allows developers to get paid for the code that they write. Astar token holders can stake their tokens to nominate dApps, as long as a developer’s dApp has been nominated, the developer can earn a basic income, boosting the incentive to keep building.</p>
-<div class="cryptoboxes" id="mcw-122275" data-realtime=""><div class="mcw-chart mcw-chart-light" data-font = "inherit" data-coin = "astar" data-symbol = "ASTR" data-currency = "USD" data-rate = "1.000268" data-type = "chart" data-view = "threemonths" data-theme = "light" data-smooth = "" data-areacolor = "black" data-bgcolor = "#2e5adb"></div></div>
-<h4><strong>Developers on Astar now have access to Alchemy products, which include:</strong></h4>
-<ul>
-<li><strong>Alchemy Supernode:</strong> a blockchain engine that ensures infinite scalability, the strongest web3 reliability, and 100% data accuracy. Alchemy Supernode means developers never have to spend time managing their blockchain connection.</li>
-<li><strong>Alchemy SDK:</strong> the easiest way to connect a dApp to the blockchain, with just two lines of code.</li>
-<li><strong>Alchemy Notify:</strong> provides webhook access to alert users about every type of event, including address activity, mined transactions, and dropped transactions.</li>
-<li><strong>Developer Tools:</strong> including WebSockets, usage analytics, composer, explorer, and mempool visualizer, which makes it simple to subscribe to events, monitor app health, explore new methods, optimize performance, and view the real-time state of transactions.</li>
-</ul>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/">Polkadot-based gateway Astar Network now supported on blockchain development platform Alchemy</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/04/polkadot-based-gateway-astar-network-now-supported-on-blockchain-development-platform-alchemy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
