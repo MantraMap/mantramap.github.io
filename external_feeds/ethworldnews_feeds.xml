@@ -718,4 +718,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7258 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1306492 metric#prefetches=142 metric#store-reads=33 metric#store-writes=3 metric#store-hits=176 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=330.54 metric#ms-cache=20.71 metric#ms-cache-median=0.29 metric#ms-cache-ratio=6.3 sample#redis-hits=2017862831 sample#redis-misses=88287640 sample#redis-hit-ratio=95.8 sample#redis-ops-per-sec=22 sample#redis-evicted-keys=0 sample#redis-used-memory=52866312 sample#redis-used-memory-rss=65372160 sample#redis-memory-fragmentation-ratio=1.2 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=55529 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7258 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1306492 metric#prefetches=142 metric#store-reads=33 metric#store-writes=3 metric#store-hits=176 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=262.80 metric#ms-cache=18.00 metric#ms-cache-median=0.21 metric#ms-cache-ratio=6.9 -->
