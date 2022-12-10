@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Fri, 02 Dec 2022 17:42:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Dec 2022 22:50:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sam Bankman-Fried Loaned $43 Million to The Block&#8217;s CEO</title>
+		<link>https://cryptobriefing.com/sam-bankman-fried-loaned-43-million-to-the-blocks-ceo/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2022 22:50:46 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Sam Bankman-Fried]]></category>
+		<category><![CDATA[The Block]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123229</guid>
+
+					<description><![CDATA[Sam Bankman-Fried provided The Block at least $27 million in funding in the last year and a half. It appears that no one at the company was aware of the...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/13110447/sam-fire-cover-1-838x440.jpg" width="838" height="440" />	</item>
+		<item>
 		<title>2022 in Review: the Top 10 Crypto Moments of the Year</title>
 		<link>https://cryptobriefing.com/top-10-crypto-moments-2022/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -505,19 +522,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/16143756/portraits-cover-7-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>South Korean Authorities Raid Terra Co-Founder’s Company Office </title>
-		<link>https://cryptobriefing.com/south-korean-authorities-raid-terra-co-founders-company-office/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Robert Knight]]></dc:creator>
-		<pubDate>Wed, 16 Nov 2022 16:59:41 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=122876</guid>
-
-					<description><![CDATA[South Korean authorities have raided Chai Corporation, a Seoul-based firm owned by Terra co-founder Daniel Shin. Chai Offices Raided South Korean law enforcers have raided the offices of Chai Corporation,...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/16114425/terra-do-cover-1-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
