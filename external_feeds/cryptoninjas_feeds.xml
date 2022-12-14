@@ -12,7 +12,7 @@
 	<atom:link href="https://www.cryptoninjas.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.cryptoninjas.net/</link>
 	<description>Bitcoin, Cryptocurrency and Blockchain Asset Source</description>
-	<lastBuildDate>Thu, 08 Dec 2022 04:38:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Dec 2022 00:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crypto derivatives exchange Deribit releases new client verification of assets function</title>
+		<link>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/</link>
+					<comments>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 17:18:53 +0000</pubDate>
+				<category><![CDATA[Crypto Exchanges]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Deribit]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=123081</guid>
+
+					<description><![CDATA[<p>Deribit, the popular cryptocurrency derivatives exchange, announced today it has launched a new &#8216;Proof of Reserves&#8216; tool for clients using the trading platform. Now, clients are provided with the functionality to verify their assets to be included in Deribit&#8217;s overall reserves. How it Works Deribit provides all addresses for all on-chain assets and it delivers [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets function</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Deribit, the <a href="https://www.cryptoninjas.net/2022/07/05/crypto-software-suite-1token-adds-support-deribit-derivatives-options-futures/" target="_blank" rel="noopener">popular cryptocurrency derivatives exchange</a>, announced today it has launched a new &#8216;<a href="https://insights.deribit.com/exchange-updates/proof-of-reserves-deribit/" target="_blank" rel="noopener">Proof of Reserves</a>&#8216; tool for clients using the trading platform. Now, clients are provided with the functionality to verify their assets to be included in Deribit&#8217;s overall reserves.</p>
+<h3><strong>How it Works</strong></h3>
+<ul>
+<li>Deribit provides all addresses for all on-chain assets and it delivers a daily file with all liabilities (all client balances) in a hashed way. Note, assets held by third-party custodians cannot be included in the report as they are not under Deribit’s direct control. Therefore, the data file that is fully accessible to all interested parties only contains the accounts that hold assets on Deribit.</li>
+<li>Clients get a key allowing them to find their balances in the overall file and can be certain their assets are covered with Deribit&#8217;s on-chain balance.</li>
+<li>All code used to create Deribit’s modified Merkle Tree is available so clients can verify the accuracy of the frontend data. To prevent the same nonces from being assigned to different users with comparable asset levels, reducing the size of liabilities, Deribit gives each account a unique Proof ID. A client can convert the Proof ID into the identifiers found in the daily snapshot file and shown in the verification section of the <a href="https://www.deribit.com/statistics/BTC/proof-of-reserves" target="_blank" rel="noopener">Proof of Reserves page</a>.</li>
+<li>The aggregate of the assets included in the asset file should always be less than the aggregate of assets available on-chain. The difference is the Deribit reserve ratio, which includes the <a href="https://www.cryptoninjas.net/2018/03/26/bitcoin-derivatives-exchange-deribit-completes-major-system-update/" target="_blank" rel="noopener">insurance funds</a> and Deribit revenues. If the total on-chain balance is higher than the asset file balance (visible in the front end and in the file itself), then Deribit has Proof of Reserves.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets function</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Tenderly introduces TXN simulations on its blockchain gateway for efficient dApp development</title>
 		<link>https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/</link>
 					<comments>https://www.cryptoninjas.net/2022/12/07/tenderly-introduces-txn-simulations-on-its-blockchain-gateway-for-efficient-dapp-development/#respond</comments>
@@ -803,35 +834,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/05/new-overledger-release-now-supports-qrc-721-nfts-on-tokenise-developer-api/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</title>
-		<link>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/</link>
-					<comments>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/#respond</comments>
-		
-		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
-		<pubDate>Thu, 04 Aug 2022 16:18:41 +0000</pubDate>
-				<category><![CDATA[Crypto Exchanges]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[CME Group]]></category>
-		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122248</guid>
-
-					<description><![CDATA[<p>CME Group, a leading derivatives marketplace, today announced its plans to expand further its cryptocurrency derivatives offering with the introduction of Bitcoin and Ether futures denominated in EUR on Monday, August 29th, pending regulatory review. Designed to match their U.S. dollar-denominated counterparts, Bitcoin Euro and Ether Euro futures contracts will be sized at five bitcoin [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/">CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>CME Group, a leading derivatives marketplace, today announced its plans to expand further its <a href="https://www.cryptoninjas.net/2017/12/01/cme-group-self-certifies-bitcoin-futures-launch-december-18/" target="_blank" rel="noopener">cryptocurrency derivatives offering</a> with the introduction of Bitcoin and Ether futures denominated in EUR on Monday, August 29th, pending regulatory review.</p>
-<p>Designed to match their <a href="https://www.cryptoninjas.net/2020/12/16/cme-group-launching-ether-eth-futures-on-feb-8th-2021/" target="_blank" rel="noopener">U.S. dollar-denominated counterparts</a>, Bitcoin Euro and Ether Euro futures contracts will be sized at five bitcoin and 50 ether per contract.</p>
-<p>The new contracts are cash-settled, based on the CME CF Bitcoin-Euro Reference Rate and CME CF Ether-Euro Reference Rate, which serve as once-a-day measures of the EUR-denominated price of BTC and ETH.</p>
-<blockquote><p><strong>&#8220;Euro-denominated cryptocurrencies are the second highest traded fiat behind the U.S. dollar. Year-to-date, the EMEA region represents 28% of total Bitcoin and Ether futures contracts traded, up more than 5% versus 2021.&#8221;</strong><br />
-<a href="https://www.cmegroup.com/markets/cryptocurrencies.html?" target="_blank" rel="noopener"><strong>&#8211; Tim McCourt, Global Head of Equity and FX Products, CME Group</strong></a></p></blockquote>
-<p>In Q2, CME Group&#8217;s cryptocurrency segment saw a record average daily open interest of 106.2K contracts. It was the second highest quarter ever in average daily volume (57.4K contracts) across crypto products. Likewise, Ether futures reached a record average daily volume (6.6K contracts) in Q2, up 27% versus Q1.</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/">CME Group set to list euro-denominated Bitcoin (BTC) and Ether (ETH) futures</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/04/cme-group-set-to-list-euro-denominated-bitcoin-btc-and-ether-eth-futures/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
