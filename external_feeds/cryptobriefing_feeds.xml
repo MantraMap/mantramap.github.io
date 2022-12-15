@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Tue, 13 Dec 2022 16:29:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Dec 2022 22:06:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fed Hikes Rates by Only 50 Basis Points, but Remains Hawkish</title>
+		<link>https://cryptobriefing.com/fed-pivot-powell-hikes-rates-by-only-50-basis-points/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2022 19:00:42 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[Jerome Powell]]></category>
+		<category><![CDATA[rates]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123270</guid>
+
+					<description><![CDATA[The Fed will only be raising interest rates by 50 basis points, instead of 75 basis points like in previous months. Fed Softens Its Approach to Monetary Policy The Federal...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/14135219/jerome-powell-cover-2-838x440.jpg" width="838" height="440" />	</item>
+		<item>
 		<title>Markets Climb As Inflation Keeps Cooling Off</title>
 		<link>https://cryptobriefing.com/markets-soar-as-inflation-keeps-cooling-off/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -505,23 +522,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/13110447/sam-fire-cover-1-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>FTX Contagion is Spreading. Here’s How to Keep Your Crypto Safe</title>
-		<link>https://cryptobriefing.com/ftx-contagion-spreading-heres-how-to-keep-your-crypto-safe/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 14:16:58 +0000</pubDate>
-				<category><![CDATA[Education]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Ledger]]></category>
-		<category><![CDATA[Self-custody]]></category>
-		<category><![CDATA[Trezor]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=122895</guid>
-
-					<description><![CDATA[Crypto investors have been reiterating the importance of storing coins in self-custodial wallets since the collapse of FTX. But self-custody can be intimidating, which is why weve put together a...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/17091540/coins-cover-1-1-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
