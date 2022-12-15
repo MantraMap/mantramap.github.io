@@ -811,4 +811,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=PhpRedis metric#hits=7408 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1309817 metric#prefetches=141 metric#store-reads=28 metric#store-writes=3 metric#store-hits=165 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=558.87 metric#ms-cache=32.12 metric#ms-cache-median=0.30 metric#ms-cache-ratio=5.8 -->
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=7408 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1309817 metric#prefetches=141 metric#store-reads=28 metric#store-writes=3 metric#store-hits=165 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=388.93 metric#ms-cache=23.02 metric#ms-cache-median=0.26 metric#ms-cache-ratio=5.9 -->
