@@ -12,7 +12,7 @@
 	<atom:link href="https://zycrypto.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zycrypto.com/category/news/</link>
 	<description>ZyCrypto Is A Cryptocurrency News Media, Focusing On Daily News, Expert Opinions, Analysis, Reviews, And So Much More.</description>
-	<lastBuildDate>Wed, 14 Dec 2022 20:47:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Dec 2022 19:14:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,541 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SOL Plummets 10% Following $2 Million Exploit on Solana-Based DEX</title>
+		<link>https://zycrypto.com/sol-plummets-10-following-2-million-exploit-on-solana-based-dex/</link>
+					<comments>https://zycrypto.com/sol-plummets-10-following-2-million-exploit-on-solana-based-dex/#respond</comments>
+		
+		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 19:14:11 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Solana]]></category>
+		<category><![CDATA[SOLUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76498</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Researcher Reveals The &#039;Dangers of Solana&#039; as Network Outages Persist" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>SOL token lost 9.5% Friday to trade at $12.82 - according to CoinMarketCap - after Solana-based decentralized exchange Raydium was compromised for $2.2 million.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Researcher Reveals The &#039;Dangers of Solana&#039; as Network Outages Persist" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Crypto-Researcher-Reveals-The-Dangers-of-Solana-as-Network-Outages-Persist-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>SOL token lost 9.5% Friday to trade at $12.82 &#8211; according to CoinMarketCap &#8211; after <a href="https://zycrypto.com/hopes-high-as-charles-hoskinson-speaks-on-solana-becoming-a-sidechain-to-cardano/">Solana</a>-based decentralized exchange Raydium was compromised for $2.2 million. In an afternoon <a href="https://twitter.com/RaydiumProtocol/status/1603762271028748289?s=20&amp;t=BRoVaUUWRSckHGIvoCAweg">tweet</a> on December 16, Raydium protocol wrote that the hacker overrode owners&#8217; authority in the liquidity pools.</p>
+
+
+
+<p>&#8220;<em>An exploit on Raydium is being investigated that affected liquidity pools</em>,&#8221; the tweet read. The post, which included the hacker&#8217;s account details, added that the &#8220;<em>initial understanding is the attacker overtook owner authority, but the authority has been halted on AMM &amp; farm programs for now</em>.&#8221;</p>
+
+
+
+<p>The exploit was discovered at around 2 PM UTC on Dec. 16, when Raydium admin posted 1,000 transactions to the Solana network – where each transaction moved liquidity without depositing an equivalent LP token. The vulnerability allowed the bad actor to access the LPs&#8217; funds – draining USDC, Wrapped SOL, and native Raydium token RAY.</p>
+
+
+
+<p>Per data from analytics firm Nansen, &#8220;<em>The wallet draining LP Pools from Raydium liquidity pools has received over $2.2 million now, including $1.6 million SOL</em>,&#8221; the company shared the information on its official Twitter account.</p>
+
+
+
+<h2 id="h-major-platforms-on-raydium-including-prism-and-compendium-withdraw-funds"><strong>Major platforms on Raydium, including Prism and Compendium, withdraw funds</strong></h2>
+
+
+
+<p>Responding to the security breach, notable platforms based on Raydium have withdrawn their assets &#8211; even as the online crypto community faults the DEX for not having a multisig cold storage.</p>
+
+
+
+<p>Compendium Foundation announced that it had temporarily withdrawn $CMFI, $USDC, and $SOL liquidity from Raydium following the incident. According to the firm,&#8221; <em>the attacker gained access to keys used (for collecting) fees from LP pools, and authority has since been halted</em>.&#8221;</p>
+
+
+
+<p>PRISM – a DEX aggregator aggregating liquidity sources across Raydium and Solana – has also pulled its fund from the exchange. The platform withdrew PRISM/USDC liquidity from Raydium, urging users to do the same. Per Prism&#8217;s account of the events, the malicious wallet was &#8220;<em>draining LP pools from Raydium liquidity pools using admin wallet as a signer without burning LP tokens</em>.&#8221;</p>
+
+
+
+<p>Raydium is a decentralized exchange on Solana that allows users to trade varying cryptocurrencies without intermediaries. According to data from DeFi aggregator DefiLlama, Raydium&#8217;s total value locked (TVL) is $36 million &#8211; down 98% from a high of $2.21 billion in November before the fall of FTX.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/sol-plummets-10-following-2-million-exploit-on-solana-based-dex/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin Whales Double Down On Gigantic BTC Buys Despite Macro Headwinds</title>
+		<link>https://zycrypto.com/bitcoin-whales-double-down-on-gigantic-btc-buys-despite-macro-headwinds/</link>
+					<comments>https://zycrypto.com/bitcoin-whales-double-down-on-gigantic-btc-buys-despite-macro-headwinds/#respond</comments>
+		
+		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 18:59:34 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76496</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Why Boomers and Gen Xers are Expected to Become the Biggest Bitcoin Whales" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales.jpg 1200w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>However, despite the continued drop in crypto prices, the number of Bitcoin investors stacking BTC recently has been rising, based on data by Glassnode.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Why Boomers and Gen Xers are Expected to Become the Biggest Bitcoin Whales" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales.jpg 1200w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2020/07/Why-Boomers-and-Gen-Xers-are-Expected-to-Become-the-Biggest-Bitcoin-Whales-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Bitcoin, the largest cryptocurrency by market value, plunged further Friday as <a href="https://zycrypto.com/bitcoin-and-ethereum-take-a-nosedive-as-fed-signal-more-interest-rates-hike/">hawkish comments</a> by Fed’s Chair Jeremy Powell on Wednesday continued to weigh down on investors.</p>
+
+
+
+<p>Since tapping an all-time high in November last year, Bitcoin has lost over 75% of its value thanks to a myriad of factors. Attempts by price to recover were thwarted earlier last month by the unexpected debacle of crypto exchange FTX, sending prices below the $18,300 psychological support, which has increasingly become harder for bulls to breach.</p>
+
+
+
+<p>According to data from IntoTheBlock, only 36% of BTC holders are making a profit at current prices, 14% are at breakeven, and 51% are in the red. Notably, a majority of those in profit are investors who have held coins for more than one year. Further, a majority of investors continue to hold a bearish outlook on Bitcoin, which is one of the most prevalent signals of an impending trend change.</p>
+
+
+
+<h2 id="h-investors-scoop-more-btc"><strong>Investors Scoop More BTC</strong></h2>
+
+
+
+<p>However, despite the continued drop in crypto prices, the number of Bitcoin investors stacking BTC recently has been rising, based on data by Glassnode.</p>
+
+
+
+<p><em>“Bitcoin&#8217;s addresses holding between 100 to 10,000 BTC have bought $726m in BTC the past 9 days,”</em> Glassnode wrote on Thursday, adding that 40,747 more Bitcoin (worth $726 million) had collectively entered those key whale wallets within that period. It is important to note that this category represents only 0.0364% of all BTC addresses. However, despite being small, this group typically makes decisions leading to future price movements.</p>
+
+
+
+<p>Stablecoins have also been painting an encouraging picture. <em>“Stablecoin assets like USDT, BUSD, &amp; DAI are also being bought quickly. This is a recipe for good things,”</em> the firm added.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh4.googleusercontent.com/hWazW20CMd3lmIU_5lzPxqeUbOBwFfgkIoEykxXU4Q4_lDXJQ279dQIyil1hLkhjauaoAyuodsaZAjiTXWG9ZrYv7D-Wx32LGtVUnzri_XKLTDl8XxdVroj2PGzy0TJz4Zg8o-uopdmSxMcttYGEgfmwm0uPVgf-6Ra2blaRtyVdWNXt5oQb_h6rP9lVGhNrWFiIXaqP_w" alt=""/></figure>
+
+
+
+<p>The chart above illustrates the percentage of supply held by key price-moving addresses for BTC, USDT, USDC, BUSD, and DAI and can be used to reveal the future of crypto prices.</p>
+
+
+
+<p>According to the firm, “<em>when these lines are mainly going down, it&#8217;s not a great sign”</em> because it suggests wealthy players and institutional investors are exiting the markets. The chart thus depicts increased interest by more prominent players to purchase the said assets after reducing their holdings for about 14 months straight. Although we are yet to see a turnaround in price, with whales finally accumulating rather than dumping, <a href="https://zycrypto.com/former-bitmex-ceo-arthur-hayes-on-why-bitcoin-price-has-likely-reached-bottom/">Bitcoin&#8217;s ebbing tide</a> may be in the offing.</p>
+
+
+
+<p>At press time, the largest cryptocurrency by market value was trading at $16,829 after a 3.84% decrease in the past 24 hours, according to data from CoinMarketCap. Earlier yesterday, the price attempted to recover, surging as much as $17,486 after bouncing off weekly support at $17,250 before deteriorating.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/bitcoin-whales-double-down-on-gigantic-btc-buys-despite-macro-headwinds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post FTX Saga: New York Banking Regulator Rolls Out New Crypto Guidelines</title>
+		<link>https://zycrypto.com/post-ftx-saga-new-york-banking-regulator-rolls-out-new-crypto-guidelines/</link>
+					<comments>https://zycrypto.com/post-ftx-saga-new-york-banking-regulator-rolls-out-new-crypto-guidelines/#respond</comments>
+		
+		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 13:21:58 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[FTX]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76493</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Post FTX Saga: New York Banking Regulator Rolls Out New Crypto Guidelines" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>A cross-section of players in the digital asset industry believes it needs strategic regulations across all sectors to bring up dwindling confidence among investors. The New York State Department of Financial Services (NYDFS) has released a new cryptocurrency regulation for banks and other financial institutions in its jurisdiction. The new guideline gives banks a 90-day [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Post FTX Saga: New York Banking Regulator Rolls Out New Crypto Guidelines" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Post-FTX-Saga-New-York-Banking-Regulator-Rolls-Out-New-Crypto-Guidelines-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>The New York State Department of Financial Services has issued a new guideline to protect customers against the dangers of another cryptocurrency crash.</li>
+
+
+
+<li>The new policy will make banks submit a detailed business plan to the body 90 days before they delve into cryptocurrencies.&nbsp;</li>
+
+
+
+<li>As New York takes the bull by the horn, other jurisdictions are expected to follow suit in the coming months.&nbsp;</li>
+</ul>
+
+
+
+<p>A cross-section of players in the digital asset industry believes it needs strategic regulations across all sectors to bring up dwindling confidence among investors.</p>
+
+
+
+<p>The New York State Department of Financial Services (NYDFS) has released a new cryptocurrency regulation for banks and other financial institutions in its jurisdiction. The new guideline gives banks a 90-day window to submit a business plan to the authorities before dealing with digital asset firms.</p>
+
+
+
+<p>As more banks and institutions delve into digital assets, the guideline will act as checks to monitor their investments and levels of exposure. The business plan submitted must be detailed, capturing key areas to enable the DFS to carry out consumer protection analysis, corporate governance, and oversight, as well as risk analysis.</p>
+
+
+
+<p>The hallmark of this new move, according to the NYDFS, is to protect consumers&#8217; “hard-earned money” in the wake of the FTX collapse. </p>
+
+
+
+<p>“<em>It is critical that regulators communicate in a timely, transparent manner about the evolution of our regulatory approach</em>,” NYDFS Superintendent Adrienne A. Harris highlighted in a statement issued by the department.</p>
+
+
+
+<p>The NYDFS, in a statement, said that the regulation is final as it deals with essential issues in protecting users but promised to continue engaging with stakeholders in the industry to make better laws.</p>
+
+
+
+<h2 id="h-more-regulations-to-follow"><strong>More regulations to follow</strong></h2>
+
+
+
+<p>As New York releases a new guideline for banks, several jurisdictions within and outside the United States are pushing for broader and more robust cryptocurrency regulations to prevent a repeat of FTX. At the FTX hearing yesterday, Kevin O’Leary, executive producer of Shark Tank, and Sen. Cynthia Lummis stressed the need for more <a href="https://zycrypto.com/a-deliberate-move-shark-tank-star-kevin-oleary-blames-binance-for-ftx-collapse/">regulation</a> to “<em>save the industry.”</em></p>
+
+
+
+<p>The Deputy Secretary US Treasury, Wally Adeyemo, has called for more international cooperation to regulate the industry, which will promote stability and prevent the illegal use of digital assets.</p>
+
+
+
+<p>Across industry spaces, users&#8217; and investors’ confidence went a step back following the FTX issue, leading to widespread fear, uncertainty, and doubt (FUD). As new and tighter regulations begin to take effect, it creates a ripple effect of increasing investor confidence and pushing back FUDs in users in the long run.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/post-ftx-saga-new-york-banking-regulator-rolls-out-new-crypto-guidelines/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Former US President Donald Trump Is Selling Superman-Themed NFT Trading Cards</title>
+		<link>https://zycrypto.com/former-us-president-donald-trump-is-selling-superman-themed-nft-trading-cards/</link>
+					<comments>https://zycrypto.com/former-us-president-donald-trump-is-selling-superman-themed-nft-trading-cards/#respond</comments>
+		
+		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 12:58:36 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76490</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Former US President Donald Trump Is Selling Superman-Themed NFT Trading Cards" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The NFT community, alongside the broader cryptocurrency market, has expressed shock over the recent announcement from former U.S. President Donald Trump.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Former US President Donald Trump Is Selling Superman-Themed NFT Trading Cards" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Former-US-President-Donald-Trump-Is-Selling-Superman-Themed-NFT-Trading-Cards-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The NFT community, alongside the broader cryptocurrency market, has expressed shock over the recent announcement from former U.S. President <a href="https://zycrypto.com/cryptocurrency-explosion-is-coming-former-u-s-president-donald-trump-warns/">Donald Trump</a>. In what most have termed one of the most unexpected “announcements”  in the NFT ecosystem this year, Trump has put up some Superman-based NFT trading cards for sale.</p>
+
+
+
+<h2 id="h-doland-trump-receives-feedback-from-concerned-supporters"><strong>Doland Trump receives feedback from concerned supporters</strong></h2>
+
+
+
+<p>The announcement was made on his own social media platform called “Truth Social.” It has since been received positively on the platform, with over 1,000 post shares and over 3,000 comments. The card shows Trump dressed in the famous Superman full-body suit, while a rage with the letter “T” is labelled on the suit.</p>
+
+
+
+<p><strong>“</strong>MAJOR ANNOUNCEMENT! My official Donald Trump Digital Trading Card collection is here,” he said on the platform. </p>
+
+
+
+<p>He then revealed some details about the cards, noting that they were limited while adding that they are significant for their connection to his personal life and career.</p>
+
+
+
+<p>As excerpts of the statement read;</p>
+
+
+
+<p><em>“These limited edition cards feature amazing ART of my Life &amp; Career! Collect all your favorite Trump Digital Trading Cards, very much like a baseball card, but hopefully much more exciting.”</em></p>
+
+
+
+<p>NFT collectors and onlookers alike have voiced concerns about the price, which they consider extremely low, especially coming from the former President. However, Trump assured that they would be acquired and sold out in no time.</p>
+
+
+
+<p><em>&#8220;GET YOUR CARDS NOW! Only $99 each! Would make a great Christmas gift. Don&#8217;t Wait. They will be gone, I believe, very quickly!” He urged.</em></p>
+
+
+
+<p>While the NFT community awaits the sale turnout, Twitter users in the NFT community have expressed dissatisfaction with the move. Their collective sentiments highlight shock, mirroring their disapproval of the cards,  which they believe isn’t worth it.</p>
+
+
+
+<p>One critique is quoted saying; “Trump is releasing NFT trading cards of himself… it really is the end of the road,&#8221;</p>
+
+
+
+<h2><strong>NFT market hurdles persist</strong></h2>
+
+
+
+<p>Meanwhile, the NFT market is still bearish, as the decline in NFT sales persists.</p>
+
+
+
+<p>The NFT market has gone from $1.02 trillion to $970.03 billion from January to September 2022. In November alone, NFT sales volume declined by 20%. </p>
+
+
+
+<p>Popular entrepreneur Gary Vee attempted to grace the root cause of the problem by citing greed, oversupply and mediocre project launch as some of the factors propelling the industry’s downfall.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/former-us-president-donald-trump-is-selling-superman-themed-nft-trading-cards/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dutch Central Bank Warns KuCoin Is Operating Without A License</title>
+		<link>https://zycrypto.com/dutch-central-bank-warns-kucoin-is-operating-without-a-license/</link>
+					<comments>https://zycrypto.com/dutch-central-bank-warns-kucoin-is-operating-without-a-license/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 12:29:33 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[kucoin]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76488</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kucoin On The Spot For Holding Nearly One-Fifth Of Its Reserves In Its KCS Token" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Crypto exchange KuCoin is operating in the Netherlands without the appropriate license, according to the De Nederlandsche Bank (DNB) — the Dutch central bank.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kucoin On The Spot For Holding Nearly One-Fifth Of Its Reserves In Its KCS Token" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Kucoin-On-The-Spot-For-Holding-Nearly-One-Fifth-Of-Its-Reserves-In-Its-KCS-Token-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Crypto exchange KuCoin is operating in the Netherlands without the appropriate license, according to the De Nederlandsche Bank (DNB) — the Dutch central bank.&nbsp;</p>
+
+
+
+<h2 id="h-kucoin-is-illegally-operating-in-the-netherlands-authorities">&#8216;<strong>KuCoin Is Illegally Operating In the Netherlands&#8217;: Authorities</strong></h2>
+
+
+
+<p>De Nederlandsche Bank has issued a warning to the KuCoin exchange for offering crypto services to local residents.</p>
+
+
+
+<p>In a December 15 statement, the central bank said that MEK Global Limited (MGL), registered in Seychelles and does business in the Netherlands as KuCoin, was not compliant with the country’s Anti-Money Laundering and Anti-Terrorist Financing Act. According to De Nederlandsche Bank, KuCoin is illegally offering crypto services as well as custodian wallets without the required legal registration.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">DNB warns against MEK Global Limited, doing business as KuCoin<a href="https://t.co/kgh6XVkYbI">https://t.co/kgh6XVkYbI</a></p>&mdash; De Nederlandsche Bank (@DNB_NL) <a href="https://twitter.com/DNB_NL/status/1603360786755325952?ref_src=twsrc%5Etfw">December 15, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>MGL Customers are not in breach of the legislation, the bank noted. “However, this may increase the risk of customers becoming involved in money laundering or terrorist financing.”</p>
+
+
+
+<p>As one of the largest cryptocurrency exchanges in the world by trading volume, KuCoin has often been the centre of several regulatory duals around the world amid the crypto market turmoil and the implosion of the FTX exchange.</p>
+
+
+
+<p>KuCoin chief executive officer, Johnny Lyu, <a href="https://twitter.com/lyu_johnny/status/1543062668051120128">dismissed </a>rumours of the exchange being insolvent in July. He added that the exchange had no plans to halt withdrawals and that KuCoin was operating well.</p>
+
+
+
+<p>Cryptocurrency exchange Binance was slapped with similar allegations in 2021, as Dutch regulators stated that the firm was operating illegally. Binance ultimately <a href="https://zycrypto.com/dutch-central-bank-nukes-crypto-exchange-binance-with-3-4-million-fine/">paid an administrative fine of $3.4 million</a> for offering services to Dutch citizens without being registered in the Netherlands.</p>
+
+
+
+<p>Like KuCoin and Binance, Coinbase grabbed headlines in the Netherlands in 2022. But unlike the other two exchanges, the American publicly-traded firm was in the limelight for becoming the first-ever major crypto exchange to win regulatory approval from the Dutch Central bank.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/dutch-central-bank-warns-kucoin-is-operating-without-a-license/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PayPal Teams Up With MetaMask To Enable Ethereum Purchases In The US</title>
+		<link>https://zycrypto.com/paypal-teams-up-with-metamask-to-enable-ethereum-purchases-in-the-us/</link>
+					<comments>https://zycrypto.com/paypal-teams-up-with-metamask-to-enable-ethereum-purchases-in-the-us/#respond</comments>
+		
+		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 12:16:39 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[MetaMask]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76486</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Russian Banking Giant Sber Adds Ethereum And MetaMask Support" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Leading Ethereum software company Consensys has partnered with PayPal to enable US customers to purchase Ethereum.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Russian Banking Giant Sber Adds Ethereum And MetaMask Support" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Russian-Banking-Giant-Sber-Adds-Ethereum-And-MetaMask-Support-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Leading Ethereum software company Consensys has partnered with PayPal to enable US customers to <a href="https://zycrypto.com/ethereum-whales-ignore-market-tsunami-splashing-nearly-a-billion-dollars-on-fresh-eth-buys/">purchase Ethereum</a>. According to a Wednesday announcement, <em>“PayPal will seamlessly integrate within the MetaMask wallet, providing customers with a simple and convenient way to buy Ethereum with PayPal.”</em></p>
+
+
+
+<p>However, the functionality will only be available to eligible PayPal application users in the U.S. Following the integration, Metamask becomes the first Web3 wallet to leverage PayPal to drive on-ramp transactions. Commenting on the newly achieved milestone, Lorenzo Santos, Product Manager for MetaMask, said, “<em>This integration with PayPal will allow our U.S. users to not just buy crypto seamlessly through MetaMask, but also to easily explore the Web3 ecosystem.”</em> </p>
+
+
+
+<p>The MetaMask and PayPal integration comes even as the two firms <a href="https://zycrypto.com/russian-banking-giant-sber-adds-ethereum-and-metamask-support/">double down</a> on their push for more diversified crypto payment options. Launched in 2016, MetaMask is the world’s leading non-custodial crypto wallet and boasts more than 30 million monthly active users, according to a recent report. Apart from being a mobile app, the wallet has a browser extension that acts as a cryptocurrency wallet for interacting with the Ethereum blockchain and any Ethereum-compatible networks.</p>
+
+
+
+<p>Metamask offers a bushel of functionalities, including enabling users to interact with NFT marketplaces, play and earn games, Decentralized Finance (DeFi), decentralized autonomous organizations (DAOs) and metaverse worlds.</p>
+
+
+
+<p>Notably, due to the spike in demand for digital assets by institutions, MetaMask has increasingly focused on meeting the needs of that particular group through its MetaMask Institutional (MMI) service. In the past year or so, MetaMask has onboarded more than five institutional custodians to enhance choice, security, and operational efficiency for crypto funds, market-makers, trading desks, DAOs and other organizations seeking exposure to the digital asset class.</p>
+
+
+
+<p>PayPal officially <a href="https://zycrypto.com/paypal-finally-enables-bitcoin-transfers-to-third-party-crypto-wallets-and-exchanges/">unveiled crypto services</a> in the US on June 7 2022, allowing customers the flexibility to move Bitcoin, Ethereum and Litecoin between Paypal and other wallets or exchanges. According to the most recent report by the company, there are about 429 million active PayPal users worldwide, with 75% of Americans using the service. Recently, the payments company expanded its crypto services to Luxembourg, signalling its intention to expand to the entire European union while complying with existing and pending regulations.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/paypal-teams-up-with-metamask-to-enable-ethereum-purchases-in-the-us/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin and Ethereum Take A Nosedive As Fed Signal More Interest Rates Hike</title>
+		<link>https://zycrypto.com/bitcoin-and-ethereum-take-a-nosedive-as-fed-signal-more-interest-rates-hike/</link>
+					<comments>https://zycrypto.com/bitcoin-and-ethereum-take-a-nosedive-as-fed-signal-more-interest-rates-hike/#respond</comments>
+		
+		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2022 18:51:04 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[ETHUSD]]></category>
+		<category><![CDATA[ETHUSDT]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76472</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin, Ethereum Primed For Bullish Boost As Brazil’s Largest Broker Opens Trading" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Market leader Bitcoin (BTC) traded above $18,000 for the first time since the FTX crash, to the delight of users but the joy was short-lived in...]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin, Ethereum Primed For Bullish Boost As Brazil’s Largest Broker Opens Trading" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>BTC, ETH, and SOL shed value on Wednesday following the central bank’s decision to increase interest rates again.&nbsp;</li>
+
+
+
+<li>Digital assets were not alone as the stock market also dipped following the news, further signifying trading correlation. </li>
+
+
+
+<li>A cross-section of digital asset enthusiasts expressed worry that their favourite assets may have blown their last opportunity for an uptick before the end of the year.</li>
+</ul>
+
+
+
+<p>Market leader Bitcoin (BTC) traded above $18,000 for the first time since the FTX crash, to the delight of users, but the joy was short-lived in the early hours of Wednesday.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="647" src="https://zycrypto.com/wp-content/uploads/2022/12/image-3-1024x647.png" alt="" class="wp-image-76473" srcset="https://zycrypto.com/wp-content/uploads/2022/12/image-3-1024x647.png 1024w, https://zycrypto.com/wp-content/uploads/2022/12/image-3-300x190.png 300w, https://zycrypto.com/wp-content/uploads/2022/12/image-3-768x485.png 768w, https://zycrypto.com/wp-content/uploads/2022/12/image-3-1536x971.png 1536w, https://zycrypto.com/wp-content/uploads/2022/12/image-3-2048x1294.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BTCUSD Chart by <a href="https://www.tradingview.com/symbols/BTCUSD/news/">TradingView</a></figcaption></figure>
+
+
+
+<p>Major digital currencies tumbled following the news of an increased interest rate approved by the Federal Reserve, wiping off little gains made in the past few days. BTC was already flying above $18k, trading at $18,310, lost 4.77% a few hours after the announcement and is currently exchanging hands at $17,404.</p>
+
+
+
+<p>Ethereum (ETH) and Dogecoin (DOGE) followed the trend losing about 5.5% and 6.38%, respectively. This year has not been great for ETH as it keeps struggling despite all the prospects it held at the start of the year. The altcoin giant is valued at $1,270 just a few weeks before the year&#8217;s end, which has seen it lose over 50% of its value.</p>
+
+
+
+<p>For the greater part of the year, the stock market and the cryptocurrency market have <a href="https://zycrypto.com/bitcoin-cuts-link-with-the-stock-market-thanks-to-a-spike-in-the-number-of-long-term-hodlers/">traded</a> similarly under the influence of wider macroeconomic trends. Yesterday was no different, with the Dow Jones Industrial Average losing 103 points following the news while the S&amp;P 500 fell by 0.5%.</p>
+
+
+
+<p>With these frequent rises in interest rates, investors keep moving away from high-risk assets making the market take a bearish trend.&nbsp;</p>
+
+
+
+<h2 id="h-users-cannot-see-the-light-at-the-end-of-the-tunnel"><strong>Users cannot see the light at the end of the tunnel</strong></h2>
+
+
+
+<p>The Federal Reserve has used hikes in interest rates to counter inflationary trends in the market in recent months across various regions. Though the recent increase was by 0.5 points, the bank has signalled more increases in the coming months to push back inflation.</p>
+
+
+
+<p>Most digital asset enthusiasts have described this year as unfortunate for the market due to major <a href="https://zycrypto.com/ftx-token-crashes-85-in-minutes-ftt-becoming-the-next-luna/">incidents</a> that have hit the industry, wiping billions from the market cap. The larger crypto market cap is now a shadow of its former self as it struggles below $1 trillion. Even with the present negative trends, some users have expressed hopes for a better 2023.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/bitcoin-and-ethereum-take-a-nosedive-as-fed-signal-more-interest-rates-hike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>“A Deliberate Move” — Shark Tank Star Kevin O’Leary Blames Binance For FTX Collapse</title>
+		<link>https://zycrypto.com/a-deliberate-move-shark-tank-star-kevin-oleary-blames-binance-for-ftx-collapse/</link>
+					<comments>https://zycrypto.com/a-deliberate-move-shark-tank-star-kevin-oleary-blames-binance-for-ftx-collapse/#respond</comments>
+		
+		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2022 18:41:00 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[FTX]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76469</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="“A Deliberate Move” — Shark Tank Star Kevin O’Leary Blames Binance For FTX Collapse" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Sam Bankman-Fried, Alameda Capital, and now Binance, the blame game, continue for FTX's woes which put the market multiple steps backwards.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="“A Deliberate Move” — Shark Tank Star Kevin O’Leary Blames Binance For FTX Collapse" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/A-Deliberate-Move-—-Shark-Tank-Star-Kevin-OLeary-Blames-Binance-For-FTX-Collapse-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>Kevin O’Leary has roped Binance into the infamous FTX scandal, claiming that the exchange deliberately caused the collapse. </li>
+
+
+
+<li>He also called for increased regulation in the industry, hinting that, at the end of the day, only proper laws will save the market. </li>
+
+
+
+<li>Fear and doubts from investors still loom over the market as the FTX hearing proceeds.</li>
+</ul>
+
+
+
+<p>Sam Bankman-Fried, Alameda Capital, and now Binance, the blame game, continue for FTX&#8217;s woes which put the market multiple steps backwards.</p>
+
+
+
+<p>Canadian businessman and co-executive producer of the reality show Shark Tank, Kevin O’Leary, has blamed Binance for the <a href="https://zycrypto.com/ftx-token-crashes-85-in-minutes-ftt-becoming-the-next-luna/">collapse</a> of fellow exchange FTX despite its effort to save FTX at the early stages of the saga.</p>
+
+
+
+<p>Speaking at the US Senate in the FTX hearing titled “Why the FTX Bubble Burst and the Harm to Consumers,” O’Leary used strong words to describe Binance&#8217;s involvement in the FTX debacle. He claimed that Binance caused it on purpose and is now a “<em>massive, unregulated monopoly now.</em>”</p>
+
+
+
+<p>Explaining his views, he stated that the CEO of Binance, Changpeng Zhao, <a href="https://zycrypto.com/binance-to-liquidate-ftxs-ftt-holdings-due-to-recent-revelations/">disclosed</a> that he would begin to sell FTX native tokens on Binance, a move that led to the bankruptcy filing a few days later.</p>
+
+
+
+<p>O’Leary called for more regulations around the industry to avoid a repeat of the ugly incident and to gain investor confidence. According to him, LedgerX, an FTX-owned derivatives trading platform, was the only “<em>entity that didn’t go to zero” </em>due to the Commodity Futures Trading Commission’s regulation.</p>
+
+
+
+<p>Senator Cynthia Lummis toed the path of O’Leary during the session pushing for more regulations in the market.</p>
+
+
+
+<p><em>“It is time to separate digital assets from corrupt organizations. FTX is good old-fashioned fraud. Mismanagement, failure of people, and inadequate controls are what’s on trial. We need to regulate this business and lay digital assets on top of our existing financial framework.”</em></p>
+
+
+
+<h2 id="h-binance-new-monopoly"><strong>Binance new monopoly </strong></h2>
+
+
+
+<p>Following the collapse of FTX, a major competition of Binance, it is now perceived as having an unhealthy monopoly in the market. However, Binance has been the leading crypto exchange for many years. O’Leary is not alone in this, as many users feel Binance is now heading to a point where it cannot be matched by its competition and can dictate what happens in the industry.</p>
+
+
+
+<p>A Binance monopoly is considered by analysts as unhealthy for the industry, just as O’Leary pointed out, as it could lead to centralization. Last week, users withdrew over $8 billion from Binance though the CEO described it as “business as usual.” Binance currently dominates the market with a 24-hour trading volume of over $12 billion.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/a-deliberate-move-shark-tank-star-kevin-oleary-blames-binance-for-ftx-collapse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ADA Consolidates As Hoskinson Envisions Multiple Major Blockchains Like Solana Becoming A Sidechain to Cardano</title>
 		<link>https://zycrypto.com/ada-consolidates-as-hoskinson-envisions-multiple-major-blockchains-like-solana-connected-to-cardano/</link>
 					<comments>https://zycrypto.com/ada-consolidates-as-hoskinson-envisions-multiple-major-blockchains-like-solana-connected-to-cardano/#respond</comments>
@@ -44,12 +579,8 @@
 		<category><![CDATA[SOLUSD]]></category>
 		<guid isPermaLink="false">https://zycrypto.com/?p=76447</guid>
 
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Major Bullish Milestone For ADA As First USD-Backed Stablecoin On Cardano Goes Live" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>As ADA trades sideways, its co-founder Charles Hoskinson suggests having Solana as a sidechain (a separate blockchain connected to the main blockchain) for Cardano.]]></description>
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Major Bullish Milestone For ADA As First USD-Backed Stablecoin On Cardano Goes Live" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>As ADA trades sideways, its co-founder Charles Hoskinson suggests having Solana as a sidechain (a separate blockchain connected to the main blockchain) for Cardano.]]></description>
 										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Major Bullish Milestone For ADA As First USD-Backed Stablecoin On Cardano Goes Live" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Major-Bullish-Milestone-For-ADA-As-First-USD-Backed-Stablecoin-On-Cardano-Goes-Live-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>ADA Consolidates As Hoskinson Envisions Multiple Major Blockchains Like Solana Connected to Cardano</p>
-
-
-
 <p>Cardano (ADA) is trading at $0.3122, representing a change of -0.47% in the past day and -0.57% in the past week, per the latest data from CoinMarketCap. The smart contract token has oscillated between $0.30 and $0.32 since November 20.</p>
 
 
@@ -406,535 +937,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://zycrypto.com/former-bitmex-ceo-arthur-hayes-on-why-bitcoin-price-has-likely-reached-bottom/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Arrest of Sam Bankman-Fried Only Marks The Start Of Expected Lengthy Legal Proceedings</title>
-		<link>https://zycrypto.com/the-arrest-of-sam-bankman-fried-only-marks-the-start-of-expected-lengthy-legal-proceedings/</link>
-					<comments>https://zycrypto.com/the-arrest-of-sam-bankman-fried-only-marks-the-start-of-expected-lengthy-legal-proceedings/#respond</comments>
-		
-		<dc:creator><![CDATA[Isa Nsereko]]></dc:creator>
-		<pubDate>Tue, 13 Dec 2022 19:08:37 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76387</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Arrest of Sam Bankman-Fried Only Marks The Start Of Expected Lengthy Legal Proceedings" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Media is awash with the news that Sam Bankman-Fried (SBF), the former CEO of the collapsed FTX cryptocurrency exchange, was arrested by Bahamas law enforcement on Monday, Dec 12, 2022. Authorities and crypto investors are keenly following the developments of SBF’s arrest, with the ensuing legal proceedings expected to throw more light on what led [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Arrest of Sam Bankman-Fried Only Marks The Start Of Expected Lengthy Legal Proceedings" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/The-Arrest-of-Sam-Bankman-Fried-Only-Marks-The-Start-Of-Expected-Lengthy-Legal-Proceedings-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Media is awash with the news that Sam Bankman-Fried (SBF), the former CEO of the collapsed FTX cryptocurrency exchange, <a href="https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/">was arrested</a> by Bahamas law enforcement on Monday, Dec 12, 2022.</p>
-
-
-
-<p>Authorities and crypto investors are keenly following the developments of SBF’s arrest, with the ensuing legal proceedings expected to throw more light on what led to the collapse of FTX. Investors who lost money in FTX are also seeking justice and would ultimately like to know the fate of their investment.</p>
-
-
-
-<p>SBF is reported to have hired attorney Mark Cohen.</p>
-
-
-
-<p>The arrest of SBF in the Bahamas is only the start of what is expected to be a lengthy legal proceeding that could involve extradition to the US. It is still unclear at this point as to which direction the legal proceeding shall take, as the Bahamas is also investigating the collapse of FTX.</p>
-
-
-
-<p>SBF had been scheduled to testify in Congress before the US House Committee on Financial Services on Dec 13, 2022. However, following news of SBF’s arrest in the Bahamas, the Chairwoman of the House Financial Services Committee released the following statement on Monday, December 12, 2022:</p>
-
-
-
-<p><em>“Although Mr. Bankman-Fried must be held accountable, the American public deserves to hear directly from Mr. Bankman-Fried about the actions that’ve harmed over one million people, and wiped out the hard-earned life savings of so many. The public has been waiting eagerly to get these answers under oath before Congress, and the timing of this arrest denies the public this opportunity. While I am disappointed that we will not be able to hear from Mr. Bankman-Fried tomorrow, we remain committed to getting to the bottom of what happened, and the Committee looks forward to beginning our investigation by hearing from Mr. John Ray III tomorrow.”</em></p>
-
-
-
-<p>Mr. John Ray III, the newly appointed CEO of FTX Debtors, is scheduled to testify before the US House Committee on Financial Services on December 13, 2022. Mr John Ray III possesses extensive legal and restructuring experience, including overseeing the unwinding of Enron following its accounting scandal in 2001.</p>
-
-
-
-<p>SBF is scheduled to appear on Tuesday, December 13, 2022, in the Magistrate Court, in Nassau, the Bahamas. SBF is facing charges and scrutiny from several authorities and other law enforcement agencies, including prosecutors for the Southern District of New York, the US Securities and Exchange Commission (SEC), the US Department of Justice (DOJ), Department, and the Commodity Futures Trading Commission (CFTC).</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/the-arrest-of-sam-bankman-fried-only-marks-the-start-of-expected-lengthy-legal-proceedings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>FTX&#8217;s Founder Sam Bankman Fried Arrested In The Bahamas</title>
-		<link>https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/</link>
-					<comments>https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Tue, 13 Dec 2022 10:32:30 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76372</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="FTX&#039;s Founder Sam Bankman Fried Arrested In The Bahamas" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Weeks after FTX and Alameda Research's collapse, Bahamian authorities have arrested the exchange’s ex-CEO Sam Bankman Fried (SBF).]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="FTX&#039;s Founder Sam Bankman Fried Arrested In The Bahamas" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/FTXs-Founder-Sam-Bankman-Fried-Arrested-In-The-Bahamas-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Weeks after FTX and Alameda Research&#8217;s collapse, Bahamian authorities have arrested the exchange’s ex-CEO Sam Bankman Fried (SBF).</p>
-
-
-
-<p>According to a statement from the attorney general of the Bahamas- Sen. Ryan Pinder, SBF was arrested on December 12 by the Royal Bahamas Police Force following receipt of a sealed indictment filed by the United States District Court for the Southern District of New York (SDNY) saying that criminal charges had been filed against SBF in the US.</p>
-
-
-
-<p>“<em>As a result of the notification received and the material provided therewith, it was deemed appropriate for the Attorney General to seek SBF’s arrest and hold him in custody pursuant to our nation’s Extradition Act,”</em> read the statement. The AG also noted that they would hand over SBF to the US should an extradition request be sent in.</p>
-
-
-
-<p>Commenting on the arrest, Bahamas prime minister Philip Davis said they would continue pursuing individuals associated with FTX based on the countries&#8217; shared interest in fighting crime.</p>
-
-
-
-<p><em>“While the United States is pursuing criminal charges against SBF individually, the Bahamas will continue its own regulatory and criminal investigations into the collapse of FTX,”</em> he wrote in a note.</p>
-
-
-
-<p>SBF&#8217;s arrest comes amid heightened calls for his apprehension by the crypto community after the disgraced businessman escaped to the Bahamas following the collapse of FTX. Today, Dec 13, SBF was <a href="https://zycrypto.com/us-rep-maxine-says-a-subpoena-on-ftxs-sam-bankman-fried-is-on-the-table-as-calls-for-his-probe-intensify/">scheduled to appear</a> before the House Financial Services Committee alongside FTX’s new CEO John J. Ray to shed more light on what led to the giant exchange’s collapse. </p>
-
-
-
-<p>Before his arrest, SBF confirmed on Monday on Twitter Spaces that he planned on testifying at the meeting via video from his location in the Bahamas. However, following the arrest, it was not clear whether SBF would still be able to attend the meeting at press time.</p>
-
-
-
-<p>Meanwhile, as the crypto community welcome the news of SBF’s arrest, attention now turns to Alameda ex-CEO Caroline Ellison. Alameda Research, the sister trading firm of FTX, has been accused of being used to siphon User funds from FTX, channelling them to various investments and other uses.</p>
-
-
-
-<p>According to Tuesday’s testimony of John Raym, which is now public, customer assets from FTX were commingled with assets from the Alameda trading platform. He also noted <em>that “the FTX Group went on a spending binge in late 2021 through 2022, during which approximately $5 billion was spent buying a myriad of businesses and investments, many of which may be worth only a fraction of what was paid for them.”</em> </p>
-
-
-
-<p>While Ellison remains at large, it is believed that she could be in the U.S. after an unverified <a href="https://twitter.com/AutismCapital/status/1599466158893432832">photo</a> of her making an order in a New York café surfaced earlier this month. Late last week, she hired a legal team which included a top SEC official and a lawyer who investigated the Bernie Madoff Ponzi Scheme raising speculations she could be looking to cut a deal with US authorities.&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>XRP Lawsuit: Attorney Reveals the Possible Effects of LBRY&#8217;s Loss in the SEC vs. Ripple Case</title>
-		<link>https://zycrypto.com/xrp-lawsuit-attorney-reveals-the-possible-effects-of-lbrys-loss-in-the-sec-vs-ripple-case/</link>
-					<comments>https://zycrypto.com/xrp-lawsuit-attorney-reveals-the-possible-effects-of-lbrys-loss-in-the-sec-vs-ripple-case/#respond</comments>
-		
-		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 20:10:00 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76364</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Speculations Mount On Coinbase&#039;s Move To Remove XRP From Its Wallet Amid Ripple vs SEC Lawsuit" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Attorney John Deaton, famous for giving the cryptocurrency community insights on the SEC vs Ripple lawsuit from a legal perspective, has again broken down the...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Speculations Mount On Coinbase&#039;s Move To Remove XRP From Its Wallet Amid Ripple vs SEC Lawsuit" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Speculations-Mount-On-Coinbases-Move-To-Remove-XRP-From-Its-Wallet-Amid-Ripple-vs-SEC-Lawsuit-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Attorney John Deaton, famous for giving the cryptocurrency community insights on the <a href="https://zycrypto.com/xrp-lawsuit-new-dates-in-the-sec-vs-ripple-case-point-towards-a-final-court-verdict-in-q1-2023/">SEC vs Ripple</a> lawsuit from a legal perspective, has again broken down the possible implications of the U.S. Securities and Exchange Commission (SEC) winning its case against the blockchain-based file-sharing and payment network LBRY.</p>
-
-
-
-<h2 id="h-is-ripple-on-the-same-path-as-lbry"><strong>Is Ripple on the same path as LBRY?</strong></h2>
-
-
-
-<p>As many predict the downfall of Ripple and XRP, alluding that its fate will be similar to LBRY, Deaton clarifies that the sentiments are not backed by fact in any way. He explains that both parties have made great arguments in court so far.&nbsp;</p>
-
-
-
-<p><em>“..But Ripple doesn’t have the BURDEN OF PROOF &#8211; the SEC does. The SEC did a decent job at replying to Ripple’s pre-1934 Blue Sky Laws argument.&nbsp;</em></p>
-
-
-
-<p><em>The SEC also did a decent job attacking Ripple’s argument that there MUST be an underlying contract for an investment contract to exist.”</em> he explains.</p>
-
-
-
-<p>He also notes the differences between LBRY and XRP’s case with the SEC, shedding more light on how the turnout might differ vastly from LBRY’s case.&nbsp;</p>
-
-
-
-<p>“<em>The Ripple/XRP case is in the 2nd Circuit. LBRY isn’t. Plus, LBRY didn’t contest the common enterprise factor &#8211; Ripple AND XRPHolders, who were granted Amicus by the Judge more than one year before any other Amici joined, VIGOROUSLY contest the common enterprise prong of Howey.”</em></p>
-
-
-
-<p>Although he proceeds to make clear that his predictions might not be entirely accurate, he remains mostly convinced that Ripple and XRP stand a chance of conquering the SEC.</p>
-
-
-
-<h2><strong>The future of LBRY and LBRY Inc</strong></h2>
-
-
-
-<p>While Hogan’s breakdown exposes a more positive turnout for Ripple, it seems unlikely that LBRY will make any major comeback after its defeat.</p>
-
-
-
-<p>The official LBRY Twitter handle recently made a series of significant tweets summarising the company&#8217;s next phase and what onlookers should expect.</p>
-
-
-
-<p>LBRY explains that it expects the SEC to leak any confidential document it has with any company, and as such, LBRY will likely “be dead in the future.”</p>
-
-
-
-<p>Additionally, LRBY made clear that although its mission will still be in motion, the company (LBRY Inc) itself will not be able to withstand the debts it has been slapped with from the SEC and the legal system.&nbsp;</p>
-
-
-
-<p><em>“It is specifically LBRY Inc that must die, the LBRY protocol and blockchain will continue.”</em></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/xrp-lawsuit-attorney-reveals-the-possible-effects-of-lbrys-loss-in-the-sec-vs-ripple-case/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SEC Filed its Redacted Reply to Ripple&#8217;s Opposition to the SEC&#8217;s Motion for Summary Judgment</title>
-		<link>https://zycrypto.com/sec-filed-its-redacted-reply-to-ripples-opposition-to-the-secs-motion-for-summary-judgment/</link>
-					<comments>https://zycrypto.com/sec-filed-its-redacted-reply-to-ripples-opposition-to-the-secs-motion-for-summary-judgment/#respond</comments>
-		
-		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 19:53:48 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76360</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Executive Departs To Join Crypto Platform With Former SEC Chairman Clayton As An Advisor" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The back and forth between the Securities and Exchange Commission (SEC) and Ripple has continued to play out as the SEC has filed its redacted reply to Ripple&#8217;s opposition to the SEC&#8217;s Motion for Summary Judgment. At the same time, Ripple expresses optimism that the case will soon end. According to Ripple CEO Brad Garlinghouse, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Executive Departs To Join Crypto Platform With Former SEC Chairman Clayton As An Advisor" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/10/Ripple-Executive-Departs-To-Join-Crypto-Platform-With-Former-SEC-Chairman-Clayton-As-An-Advisor-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>The back and forth between the Securities and Exchange Commission (SEC) and Ripple has continued to play out as the SEC has filed its redacted reply to Ripple&#8217;s opposition to the SEC&#8217;s Motion for Summary Judgment. At the same time, Ripple expresses optimism that the case will soon end.</p>
-
-
-
-<p>According to Ripple CEO Brad Garlinghouse, who is also a defendant in the case, the Ripple team can congratulate itself for having stood strong against the SEC&#8217;s onslaught till this point, where the case is entering its last lap.</p>
-
-
-
-<p>Garlinghouse stated that Ripple, from day one, has been fighting aggressively to get clear rules for the entire crypto industry in the U.S.&nbsp;</p>
-
-
-
-<p><em>&#8220;I said it on day 1, we will aggressively fight to get clear rules for the entire industry in the U.S. Congrats to all of Team Ripple for getting us to this point. Ripple stood strong and withstood the SEC’s onslaught. I look forward to being on the right side of justice,&#8221; he said. </em></p>
-
-
-
-<p>The SEC, in its redacted reply to Ripple&#8217;s opposition to the SEC&#8217;s motion for Summary Judgment, argued that the court should rule in favour of the commission&#8217;s arguments for several reasons.</p>
-
-
-
-<p>These include that Ripple defendants offered and sold XRP as a security; Ripple&#8217;s due process defences fail as a matter of law; Ripple engaged in domestic offers and sales; and that the SEC is entitled to summary judgment against the individual defendants as they violated security laws as issuers of XRP.  </p>
-
-
-
-<h2 id="h-ripple-quite-confident-of-a-favourable-outcome-in-the-case"><strong>Ripple quite confident of a favourable outcome in the case</strong></h2>
-
-
-
-<p>Ripple also filed its last submission on the same day as the SEC, arguing for the court to pass summary judgment in its favour as the SEC has failed to back its allegations with evidence but is only trying to bend the law in the case.</p>
-
-
-
-<p>In a comment on the filing, Ripple&#8217;s general counsel Stuart Alderoty stated that the company is proud of the defence it has mounted in the case on behalf of the entire crypto industry. He added that Ripple had followed legal best practices, while the same can likely not be said of the SEC.</p>
-
-
-
-<p>Garlinghouse had previously stated that the case, having gotten to the summary judgment stage, could be brought to an end in three to six months. The time frame is how long federal judges typically take to complete fact-finding and pass their verdict.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/sec-filed-its-redacted-reply-to-ripples-opposition-to-the-secs-motion-for-summary-judgment/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>XRP Fiat On-Ramp/Off-Ramp Services to Enter UK and France With Xumm Wallet</title>
-		<link>https://zycrypto.com/xrp-fiat-on-ramp-off-ramp-services-to-enter-uk-and-france-with-xumm-wallet/</link>
-					<comments>https://zycrypto.com/xrp-fiat-on-ramp-off-ramp-services-to-enter-uk-and-france-with-xumm-wallet/#respond</comments>
-		
-		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 18:33:46 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76356</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple’s ODL Service On The Verge Of Reaching Global Coverage — And That’s Fiercely Bullish For XRP" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>XRP Ledger non-custodial wallet Xumm has announced plans to launch in France and the UK.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple’s ODL Service On The Verge Of Reaching Global Coverage — And That’s Fiercely Bullish For XRP" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/03/Ripples-ODL-Service-On-The-Verge-Of-Reaching-Global-Coverage-—-And-Thats-Fiercely-Bullish-For-XRP-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>The service is currently available in the Netherlands.</li>
-
-
-
-<li>Xumm wallet has partnered with several platforms, including BTC Direct, Banxa Official, and GateHub, in the rollout.</li>
-</ul>
-
-
-
-<p><a href="https://zycrypto.com/colombian-government-launches-national-land-registry-on-xrp-ledger-for-over-50-million-people/">XRP Ledger</a> non-custodial wallet Xumm has announced plans to launch in France and the UK. In a Thursday tweet, the platform announced that it would roll out fiat on-ramp and off-ramp services in the two countries and beyond in partnership with BTC Direct and Banxa Official.</p>
-
-
-
-<p>Xumm on/off-ramp services let users convert fiat currencies into XRP and vice versa through the Xumm Pro account. The service accepts Euros, allowing transfers from bank accounts to the XRP Ledger accounts.</p>
-
-
-
-<p>In the Twitter thread, Xumm added that it&#8217;s planning to add more third-party providers, including stablecoin integration with GateHub. The wallet provider also plans to integrate the separate xApps into a single platform.</p>
-
-
-
-<p><em>&#8220;More third-party providers are coming, so you will have plenty to choose from,&#8221; the announcement said. &#8220;While they are now separate xApps, we will soon add them all to one, fiat –XRP xApp listing the available options. A tight integration with GateHub for their stablecoin is also coming soon,&#8221; it added.</em></p>
-
-
-
-<h2 id="h-xumm-is-currently-offering-xrp-on-ramp-off-ramp-in-the-dutch-market"><strong>Xumm is currently offering XRP on-ramp/off-ramp in the Dutch market</strong></h2>
-
-
-
-<p>Last month,  Xumm rolled out the services in the Netherlands – under the Dutch Central Bank &#8211; with the prospects of expanding to other jurisdictions, including Germany and Belgium. The company also noted that it is waiting for regulatory clarity in North America before introducing the service to the region.</p>
-
-
-
-<p>XRP on-ramp/off-ramp users must pay an annual subscription fee of 60 USD or 60 Euros and an additional 5 USD or 5 Euros per year as set-up fees. The company uses the top exchange rates from the liquidity service providers in the conversion &#8211; according to the information provided on its website.</p>
-
-
-
-<p>The required KYC and proof of address reportedly take half an hour to complete on xApp. Users need to send a deposit description by xApp from their International Bank Account Number (IBAN) to Xumm&#8217;s IBAN. The current amount that can be on-ramped is 15,000 EUR per rolling 365 days.</p>
-
-
-
-<p>Besides the fiat services, Xumm users can access XRP Ledger-based stablecoin USDS, launched on November 11 in partnership with Web3 payment platform Stably.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/xrp-fiat-on-ramp-off-ramp-services-to-enter-uk-and-france-with-xumm-wallet/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Amid Senate’s Inquisition, FTX&#8217;s Sam Bankman-Fried Wants To Float A New Business To Pay Back Customers</title>
-		<link>https://zycrypto.com/amid-senates-inquisition-ftxs-sam-bankman-fried-wants-to-float-a-new-business-to-pay-back-customers/</link>
-					<comments>https://zycrypto.com/amid-senates-inquisition-ftxs-sam-bankman-fried-wants-to-float-a-new-business-to-pay-back-customers/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 16:12:48 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76353</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Amid Senate’s Inquisition, FTX&#039;s Sam Bankman-Fried Wants To Float A New Business To Pay Back Customers" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Running low on options, FTX’s founder wants to make one last-ditch attempt to repay customers, but experts term it a long shot. Sam Bankman-Fried revealed in an interview with the BBC over the weekend that he is willing to go the extra mile to repay customers after the implosion of his exchange. Bankman-Fried stated that [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Amid Senate’s Inquisition, FTX&#039;s Sam Bankman-Fried Wants To Float A New Business To Pay Back Customers" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Amid-Senates-Inquisition-FTXs-Sam-Bankman-Fried-Wants-To-Float-A-New-Business-To-Pay-Back-Customers-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>FTX’s founder says he will be willing to float a new business to raise money for creditors.</li>
-
-
-
-<li>The embattled founder is expected to appear in two Senate committee hearings investigating FTX’s collapse.</li>
-
-
-
-<li>FTX’s creditors exceed one million, with debt surpassing the $10 billion mark.</li>
-</ul>
-
-
-
-<p>Running low on options, FTX’s founder wants to make one last-ditch attempt to repay customers, but experts term it a long shot.</p>
-
-
-
-<p>Sam Bankman-Fried revealed in an interview with the BBC over the weekend that he is willing to go the extra mile to repay <a href="https://zycrypto.com/ftx-comes-clean-and-admits-that-it-owes-over-3-billion-to-its-50-biggest-creditors/">customers</a> after the implosion of his exchange. Bankman-Fried stated that he is considering the possibility of starting a new business venture and using profits to make customers whole again.</p>
-
-
-
-<p><em>“I would give anything to be able to do that. And I’m going to try if I can,”</em> said Bankman-Fried.</p>
-
-
-
-<p><em>&#8220;I&#8217;m going to be thinking about how we can help the world and if users haven&#8217;t gotten much back, I&#8217;m going to be thinking about what I can do for them,</em>” he said. <em>“And I think at the very least I have a duty to FTX users to do right by them as best as I can.”</em></p>
-
-
-
-<p>It is unclear the nature of the business Sam Bankman-Fried will be embarking on, but his antecedents as an arbitrage trader could offer some hints. Binance founder Changpeng Zhao noted that given Bankman-Fried’s battered reputation, the best option would be for him to stay out of the industry.</p>
-
-
-
-<p>Bankman-Fried has been holed out in his luxury apartment in the Bahamas, giving a series of self-critical interviews while assuring users that it was not his intent to defraud them. “I didn’t knowingly commit fraud,” he told the BBC and blamed the implosion on a lack of competence on his part.</p>
-
-
-
-<p>The ambitious plan of launching a new company faces the grim possibility of Bankman-Fried’s possible arrest by law enforcement agents. FTX’s founder does not deny the chances of his arrest but says at the moment he is trying to “ignore” things that are out of his control.</p>
-
-
-
-<h2 id="h-the-looming-threat-of-a-subpoena"><strong>The looming threat of a subpoena</strong></h2>
-
-
-
-<p>Bankman-Fried has been named as a witness in the House Committee of Financial Services hearing on FTX’s implosion. After an earlier reluctance to appear, United States House Representative Maxine Waters confirmed that the Committee might be forced to issue a <a href="https://zycrypto.com/us-rep-maxine-says-a-subpoena-on-ftxs-sam-bankman-fried-is-on-the-table-as-calls-for-his-probe-intensify/">subpoena</a> to compel his appearance.</p>
-
-
-
-<p>Over the weekend, the embattled founder confirmed that he would testify on the pathways that could return value to international customers and the events that led to the collapse.</p>
-
-
-
-<p><em>“So there is a limit to what I will be able to say, and I won’t be as helpful as I’d like. But as the committee still thinks it would be useful, I am willing to testify on the 13th,”</em> he wrote on Twitter.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/amid-senates-inquisition-ftxs-sam-bankman-fried-wants-to-float-a-new-business-to-pay-back-customers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fallen Crypto Star Do Kwon May Be In Serbia After Fleeing Singapore: Report</title>
-		<link>https://zycrypto.com/fallen-crypto-star-do-kwon-may-be-in-serbia-after-fleeing-singapore-report/</link>
-					<comments>https://zycrypto.com/fallen-crypto-star-do-kwon-may-be-in-serbia-after-fleeing-singapore-report/#respond</comments>
-		
-		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 15:28:48 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Terra]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76350</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fallen Crypto Star Do Kwon May Be In Serbia After Fleeing Singapore: Report" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>South Korean authorities have partially discovered Do Kwon’s location as the global manhunt for the CEO of the failed stablecoin company Terraform Labs continues.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fallen Crypto Star Do Kwon May Be In Serbia After Fleeing Singapore: Report" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Fallen-Crypto-Star-Do-Kwon-May-Be-In-Serbia-After-Fleeing-Singapore-Report-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>South Korea’s largest news site <em>Chosun Media</em> has indicated that the fugitive co-founder of Terraform Labs, Do Kwon, has been partially located. Kwon is reportedly residing in the Balkan country of Serbia after leaving Singapore in September.</p>
-
-
-
-<h2 id="h-kwon-is-likely-in-serbia"><strong>Kwon Is Likely In Serbia</strong></h2>
-
-
-
-<p>South Korean authorities have partially discovered Do Kwon’s location as the global manhunt for the CEO of the failed stablecoin company Terraform Labs continues.</p>
-
-
-
-<p>Per a December 11 report from <em>Chosun Media</em>, South Korean authorities received a tip regarding Do Kwon’s whereabouts, saying he’s now in Serbia, and they were able to confirm it. “Recently, we obtained intelligence that CEO Kwon was in Serbia, and it was found to be true,&#8221; an official involved in the investigation of the disgraced Terra creator told the newspaper. </p>
-
-
-
-<p>The report adds that the South Korean Ministry of Finance is currently requesting Serbian authorities for their cooperation in the investigation.</p>
-
-
-
-<p>The Terra ecosystem imploded in May, eroding around $40 billion in value in weeks, after which Kwon faced charges of violating Korean capital markets laws. Terra&#8217;s meltdown was a seismic event in the crypto sector, with reports of some investors losing their entire life savings. Crypto analytics companies, including Nansen and Glassnode have also noted that Terra’s ignominious crash led to the downfall of the now-defunct crypto exchange FTX, as crypto contagion spread throughout the industry.</p>
-
-
-
-<p>Kwon left his native South Korea for Singapore in late April, right before the Terra-LUNA catastrophic fall. He repeatedly denied reports of being on the run, even <a href="https://twitter.com/stablekwon/status/1588298460595249153">claiming </a>he would throw a meetup to “get over this in hiding bs.&#8221;</p>
-
-
-
-<p>Sometime in September, it was <a href="https://zycrypto.com/terras-do-kwon-faces-57-million-lawsuit-in-singapore-for-financial-fraud/">reported </a>that Kwon had left Singapore for Dubai in transit to another destination, which turns out to have been Serbia.</p>
-
-
-
-<p>Though Kwon’s country of residence has seemingly been located, it’s not clear whether law enforcement knows Kwon’s exact location or is able to conduct an immediate arrest. He’s the subject of an<a href="https://zycrypto.com/lunas-do-kwon-bags-a-red-notice-from-interpol-in-bid-to-hasten-his-arrest/"> Interpol red notice</a> as of September, meaning that he is now wanted in most countries. In October, his passport was <a href="https://zycrypto.com/south-korean-authorities-seek-to-revoke-terra-co-creator-do-kwons-passport-to-expedite-deportation/">cancelled </a>by South Korean authorities.</p>
-
-
-
-<p>If Kwon is indeed in Serbia, it remains to be seen whether South Korea will succeed in extraditing the fallen 31-year-old crypto entrepreneur since the two countries don’t have a bilateral extradition treaty.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/fallen-crypto-star-do-kwon-may-be-in-serbia-after-fleeing-singapore-report/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>CNBC&#8217;s Jim Cramer Describes XRP, Solana, Dogecoin As &#8216;Giant Cons&#8217;</title>
-		<link>https://zycrypto.com/cnbcs-jim-cramer-describes-xrp-solana-dogecoin-as-giant-cons/</link>
-					<comments>https://zycrypto.com/cnbcs-jim-cramer-describes-xrp-solana-dogecoin-as-giant-cons/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Sun, 11 Dec 2022 19:13:51 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Dogecoin]]></category>
-		<category><![CDATA[DOGEUSD]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[SOLUSD]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76335</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="CNBC&#039;s Jim Cramer Describes XRP, Solana, Dogecoin As &#039;Giant Cons&#039;" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>CNBC’s mad money host Jim Cramer has slammed XRP, Solana and Dogecoin, describing the three cryptocurrencies as a “giant con” for failing to...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="CNBC&#039;s Jim Cramer Describes XRP, Solana, Dogecoin As &#039;Giant Cons&#039;" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/CNBCs-Jim-Cramer-Describes-XRP-Solana-Dogecoin-As-Giant-Cons-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>CNBC’s mad money host Jim Cramer has slammed XRP, Solana and Dogecoin, describing the three cryptocurrencies as a “giant con” for failing to demonstrate their value beyond being speculation assets.</p>
-
-
-
-<p>Cramer made the comments on Dec 8, shortly after CNBC hosted television personality, Kevin O’Leary, over his <a href="https://zycrypto.com/binance-ceo-cz-blasts-kevin-oleary-for-supposedly-defending-ftx/">alleged connections</a> and promotion of collapsed crypto exchange FTX.</p>
-
-
-
-<p><em>“XRP, Solana and Dogecoin, those I believe are all cons,” </em>said Cramer when asked about his general view on cryptocurrencies by Squawk Box’s Rebecca Quick. <em>“Why don’t we just put up like a bunch of stocks that are valued at the same size? so tired of these cons.”</em></p>
-
-
-
-<p>Cramer, 67, however, noted that it was important to differentiate between cryptocurrencies and blockchain technology, emphasizing that he was a big fan of the latter.</p>
-
-
-
-<p><em>“Remember the cons is not blockchain, blockchain is great, but we keep comparing blockchain with the con, and I don’t know how long that can continue,”</em> he added.</p>
-
-
-
-<p>Commenting on the FTX debacle, the presenter noted that “blockchain had nothing to do with what happened” adding that the whole thing seemed bottomless and that he did not know how to fathom it.</p>
-
-
-
-<h2 id="h-cramer-crypto-comments-draw-ire"><strong>Cramer Crypto Comments Draw Ire</strong></h2>
-
-
-
-<p>Following Cramer’s criticism of cryptocurrencies, a trail of comments by disgruntled crypto users has been an outpouring on Twitter.</p>
-
-
-
-<p>John Deaton, a pro-XRP lawyer and founder of Crypto-Law US, hit back at the presenter shortly after the interview accusing him of conflating XRP with FTX’s fraudulent dealings. The lawyer went on to <a href="https://zycrypto.com/ripple-counsel-gives-strong-argument-about-xrp-as-landmark-lawsuit-nears-end/">defend XRP</a> by reminding Cramer that a range of US government agencies, including FinCEN, DOJ and the CFTC, had described XRP as a virtual currency along with Bitcoin and Ethereum-and, not a con. He also reminded the presenter of a previous session where two CNBC fast money presenters had highlighted XRP and showed viewers how to acquire it live on TV.</p>
-
-
-
-<p><em>“I represent some of your viewers who purchased XRP after Brian Kelly and CNBC showed them. He didn’t say it was a con, did he?”</em> said Deaton.</p>
-
-
-
-<p>Dogecoin Core developer Michi Lumin also weighed in on the conversation, seeking to correct the <a href="https://zycrypto.com/cnbcs-jim-cramer-boldly-calls-dogecoin-a-security-urges-investors-to-treat-doge-with-extreme-caution/">misinformation about dogecoin</a>. According to the developer, for something to be a &#8220;scam&#8221; or a &#8220;con&#8221;, there has to be a mark and a beneficiary. She went on to note that, unlike other cryptos, which had a &#8216;developer premine&#8217; and a way for devs to have an inordinate amount, Dogecoin never did as its code rules did not allow for such activities.</p>
-
-
-
-<p><em>“The developers own far less than you may think, far less than other crypto devs do. That&#8217;s because we all had to get it the same way you all did. There&#8217;s no magic button and no special allocation,”</em> she wrote, adding that dogecoin was not &#8220;run&#8221; by a &#8220;company&#8221; or a body. </p>
-
-
-
-<p>Meanwhile, Cramer, who is no stranger to controversy in crypto-land, has continued to take heat from crypto adherents, with some jokingly taking his comments as a bullish signal.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/cnbcs-jim-cramer-describes-xrp-solana-dogecoin-as-giant-cons/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
