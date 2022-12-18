@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Sat, 17 Dec 2022 04:50:03 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 18 Dec 2022 03:11:53 +0000</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,262 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Solana Protocol Raydium Hacked for Over $2 Million]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/solana-protocol-raydium-hacked-for-over-2-million</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/raydium-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/raydium-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/raydium-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 16:00:17 +0000</pubDate>
+			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/solana-protocol-raydium-hacked-for-over-2-million</guid>
+			  <description><![CDATA[<p>Solana&rsquo;s woes continue as the Raydium protocol, an automated market maker (AMM) on the Solana (SOL) network was hacked on December 16. </p>
+<p>Raydium, a Solana DeFi protocol was hacked for over $2 million early on Friday. According to reports, the hacker extracted funds from multiple Raydium liquidity pools without owning or burning any liquidity provider (LP) tokens. It appears that the hacker used the protocol&rsquo;s own private keys to drain liquidity pools, but it remains unclear how they got them. The attacker managed to overtake the organization&rsquo;s &ldquo;owner authority&rdquo; and used that access to begin draining Raydium&rsquo;s liquidity pools. According to reports by Decrypt, DeFi tools allow users to borrow, lend and trade crypto assets with each other without the need for third-party intermediaries. AMMs such as Raydium achieve this by letting users contribute assets to a pool often in exchange for token rewards.</p>
+Over $2 Million was Drained
+<p>Raydium confirmed the hack via Twitter and added that investigations remain ongoing. The protocol added a link to the attacker&rsquo;s account which appears to hold $1.45 million worth of Solana-based tokens.</p>
+
+<p dir="ltr" lang="en">An exploit on Raydium is being investigated that affected liquidity pools. Details to follow as more is known⁰Initial understanding is owner authority was overtaken by attacker, but authority has been halted on AMM &amp; farm programs for nowAttacker accnthttps://t.co/ZnEgL1KSwz</p>
+&mdash; Raydium (@RaydiumProtocol) December 16, 2022
+<p>
+
+</p>
+<p>In a matter of hours, the attacker stole over $2.2 million worth of digital assets from a Raydium pool, including $1.6 million worth of SOL, per reports by blockchain analytics firm Nansen.</p>
+
+<p dir="ltr" lang="en">The wallet draining LP Pools from Raydium liquidity pools has received over $2.2M now, including $1.6M $SOLTrack here: https://t.co/IQedsOstPE pic.twitter.com/OAQJgaq5Mc</p>
+&mdash; Nansen Portfolio (@nansenportfolio) December 16, 2022
+<p>
+
+</p>
+<p>Raydium is one of the cornerstones of the Solana DeFi ecosystem and one of its largest DeFi protocols. A vulnerability such as this encouraged members of the Raydium community to withdraw from the protocol.</p>
+&lsquo;Tis Not the Season for Solana
+<p>The recent collapse of FTX has sent shockwaves through the entire crypto space and has had far-reaching consequences, particularly for Solana. Not long after the implosion of the exchange, it was revealed that the private keys to Solana decentralised exchange and liquidity provider Serum, coincidently co-founded by Sam Bankman-Fried himself, were housed on FTX. As Serum was integrated with practically every major Solana DeFi project, including Raydium, fear and panic spread across the entire network. A number of protocols, including Raydium, frantically severed ties with Serum which initiated a fork of the project removed from and untainted by the vast fallout from the FTX fiasco.</p>
+<p>While there has been no evidence to suggest that the attack on Raydium was linked to Serum or FTX, it does indicate that difficulties still lie ahead for Solana.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Solana&rsquo;s woes continue as the Raydium protocol, an automated market maker (AMM) on the Solana (SOL) network was hacked on December 16. </p>
+<p>Raydium, a Solana DeFi protocol was hacked for over $2 million early on Friday. According to reports, the hacker extracted funds from multiple Raydium liquidity pools without owning or burning any liquidity provider (LP) tokens. It appears that the hacker used the protocol&rsquo;s own private keys to drain liquidity pools, but it remains unclear how they got them. The attacker managed to overtake the organization&rsquo;s &ldquo;owner authority&rdquo; and used that access to begin draining Raydium&rsquo;s liquidity pools. According to reports by Decrypt, DeFi tools allow users to borrow, lend and trade crypto assets with each other without the need for third-party intermediaries. AMMs such as Raydium achieve this by letting users contribute assets to a pool often in exchange for token rewards.</p>
+Over $2 Million was Drained
+<p>Raydium confirmed the hack via Twitter and added that investigations remain ongoing. The protocol added a link to the attacker&rsquo;s account which appears to hold $1.45 million worth of Solana-based tokens.</p>
+
+<p dir="ltr" lang="en">An exploit on Raydium is being investigated that affected liquidity pools. Details to follow as more is known⁰Initial understanding is owner authority was overtaken by attacker, but authority has been halted on AMM &amp; farm programs for nowAttacker accnthttps://t.co/ZnEgL1KSwz</p>
+&mdash; Raydium (@RaydiumProtocol) December 16, 2022
+<p>
+
+</p>
+<p>In a matter of hours, the attacker stole over $2.2 million worth of digital assets from a Raydium pool, including $1.6 million worth of SOL, per reports by blockchain analytics firm Nansen.</p>
+
+<p dir="ltr" lang="en">The wallet draining LP Pools from Raydium liquidity pools has received over $2.2M now, including $1.6M $SOLTrack here: https://t.co/IQedsOstPE pic.twitter.com/OAQJgaq5Mc</p>
+&mdash; Nansen Portfolio (@nansenportfolio) December 16, 2022
+<p>
+
+</p>
+<p>Raydium is one of the cornerstones of the Solana DeFi ecosystem and one of its largest DeFi protocols. A vulnerability such as this encouraged members of the Raydium community to withdraw from the protocol.</p>
+&lsquo;Tis Not the Season for Solana
+<p>The recent collapse of FTX has sent shockwaves through the entire crypto space and has had far-reaching consequences, particularly for Solana. Not long after the implosion of the exchange, it was revealed that the private keys to Solana decentralised exchange and liquidity provider Serum, coincidently co-founded by Sam Bankman-Fried himself, were housed on FTX. As Serum was integrated with practically every major Solana DeFi project, including Raydium, fear and panic spread across the entire network. A number of protocols, including Raydium, frantically severed ties with Serum which initiated a fork of the project removed from and untainted by the vast fallout from the FTX fiasco.</p>
+<p>While there has been no evidence to suggest that the attack on Raydium was linked to Serum or FTX, it does indicate that difficulties still lie ahead for Solana.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
+			  <title><![CDATA[Bitcoin Price Analysis:  16530 Given - 18 December 2022]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/bitcoin-price-analysis-16530-given-18-december-2022</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-17-december-2022-240.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-17-december-2022-240.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-17-december-2022-240.jpg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 16:00:00 +0000</pubDate>
+			  <dc:creator><![CDATA[Sally Ho]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/bitcoin-price-analysis-16530-given-18-december-2022</guid>
+			  <description><![CDATA[<p>BTC/USD Bears Are Growling:&nbsp; Sally Ho&rsquo;s Technical Analysis &ndash; 18 December 2022</p>
+<p>Bitcoin (BTC/USD) continued to experience downward pressure early in the Asian session as the pair continue to cede most of its recent gains and traded as low as the 16529.53 area, representing a test of the 61.8% retracement of the appreciating range from 15460 to 18385.36.&nbsp;&nbsp; Stops were elected below the 16849.58 area during the ongoing depreciation, a downside price objective related to selling pressure that intensified below the 17525 area.&nbsp; Strong selling pressure around the 18385 and 17525 areas could result in tests of additional downside price objectives around the 16375, 15900, 15313, and 14364 levels.&nbsp; If BTC/USD is able to reclaim some upside momentum, additional technically significant upside retracement levels include the 18495, 19199, 20070, and 20201 levels.&nbsp;</p>
+<p>Below current price activity, BTC/USD bears are eyeing a possible test of recent two-year lows around the 15460 area, established after Stops were elected below the 15512 area.&nbsp; Notably, the 15512 level represented an exact bearish price objective based on selling pressure that strengthened around the 21478.80 and 18495.50 areas.&nbsp; Below these areas, technically significant levels include the 14613, 14500.15, 13369, 10432.73, 10727, 9682, 8837, and 7538 levels.&nbsp; Traders are&nbsp;observing&nbsp;that the&nbsp;50-bar MA (4-hourly)&nbsp;is&nbsp;bullishly indicating above the 200-bar MA (4-hourly)&nbsp;and&nbsp;above the&nbsp;200-bar MA (4-hourly).&nbsp; Also, the 50-bar MA (hourly) is bearishly indicating below the 100-bar MA (hourly) and below the 200-bar MA (hourly).</p>
+<p>Price activity is nearest the&nbsp;200-bar MA&nbsp;(4-hourly) at 16818.88 and the&nbsp;50-bar MA&nbsp;(Hourly) at 17121.93.</p>
+<p>&nbsp;</p>
+<p>Technical Support&nbsp;is expected around&nbsp;14500.15/ 13369.11/ 10727.75 with&nbsp;Stops&nbsp;expected below.</p>
+<p>Technical Resistance&nbsp;is expected around&nbsp;18495.40/ 19199.48/ 20070.64 with&nbsp;Stops&nbsp;expected above.&nbsp;&nbsp;</p>
+<p>On&nbsp;4-Hourly&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is Bearishly below MACDAverage.</p>
+<p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bullishly above MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>BTC/USD Bears Are Growling:&nbsp; Sally Ho&rsquo;s Technical Analysis &ndash; 18 December 2022</p>
+<p>Bitcoin (BTC/USD) continued to experience downward pressure early in the Asian session as the pair continue to cede most of its recent gains and traded as low as the 16529.53 area, representing a test of the 61.8% retracement of the appreciating range from 15460 to 18385.36.&nbsp;&nbsp; Stops were elected below the 16849.58 area during the ongoing depreciation, a downside price objective related to selling pressure that intensified below the 17525 area.&nbsp; Strong selling pressure around the 18385 and 17525 areas could result in tests of additional downside price objectives around the 16375, 15900, 15313, and 14364 levels.&nbsp; If BTC/USD is able to reclaim some upside momentum, additional technically significant upside retracement levels include the 18495, 19199, 20070, and 20201 levels.&nbsp;</p>
+<p>Below current price activity, BTC/USD bears are eyeing a possible test of recent two-year lows around the 15460 area, established after Stops were elected below the 15512 area.&nbsp; Notably, the 15512 level represented an exact bearish price objective based on selling pressure that strengthened around the 21478.80 and 18495.50 areas.&nbsp; Below these areas, technically significant levels include the 14613, 14500.15, 13369, 10432.73, 10727, 9682, 8837, and 7538 levels.&nbsp; Traders are&nbsp;observing&nbsp;that the&nbsp;50-bar MA (4-hourly)&nbsp;is&nbsp;bullishly indicating above the 200-bar MA (4-hourly)&nbsp;and&nbsp;above the&nbsp;200-bar MA (4-hourly).&nbsp; Also, the 50-bar MA (hourly) is bearishly indicating below the 100-bar MA (hourly) and below the 200-bar MA (hourly).</p>
+<p>Price activity is nearest the&nbsp;200-bar MA&nbsp;(4-hourly) at 16818.88 and the&nbsp;50-bar MA&nbsp;(Hourly) at 17121.93.</p>
+<p>&nbsp;</p>
+<p>Technical Support&nbsp;is expected around&nbsp;14500.15/ 13369.11/ 10727.75 with&nbsp;Stops&nbsp;expected below.</p>
+<p>Technical Resistance&nbsp;is expected around&nbsp;18495.40/ 19199.48/ 20070.64 with&nbsp;Stops&nbsp;expected above.&nbsp;&nbsp;</p>
+<p>On&nbsp;4-Hourly&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is Bearishly below MACDAverage.</p>
+<p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bullishly above MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
+			</item>
+														<item>
+			  <title><![CDATA[BIS Now Allows Banks to Hold 2% of Reserves in Crypto]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/bis-now-allows-banks-to-hold-2-of-reserves-in-crypto</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/bis-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/bis-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/bis-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 14:58:12 +0000</pubDate>
+			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/bis-now-allows-banks-to-hold-2-of-reserves-in-crypto</guid>
+			  <description><![CDATA[<p>A new policy by the Bank for International Settlements (BIS) will permit banks to hold 2% of their reserves in cryptocurrencies. </p>
+<p>The BIS recently issued its Prudential Treatment of Cryptoasset Exposure report for December 2022 in which it introduced a policy that now allows banks to hold 2% of their reserves in cryptocurrencies. The policy, the second consultation of one published earlier in the year, covers several aspects of how crypto assets are to be defined, processed, and is set to take effect on January 1, 2025. In the first iteration of this report, published in June, the BIS announced that banks would be limited to holding no more than 1% of their reserves in cryptocurrencies.</p>
+<p>The policy groups crypto assets into two cohorts. Group 1 is defined as tokenized traditional assets and crypto assets that have an &ldquo;effective stabilization mechanism.&rdquo; Group 2 are referred to as digital assets that &ldquo;fail to meet any of the classification conditions of Group 1 assets.&rdquo; Group 2 assets are where the BIS is applying its new rules. Per the BIS, Group 2 assets, which include Bitcoin, pose a greater risk to financial systems as they do not have an identifiable counterparty. The paper specifies that a bank&rsquo;s exposure to Group 2 crypto assets should not exceed 2% of the bank&rsquo;s Tier 1 capital, within their reserves. Group 2 financial instruments have not yet been accommodated under rules set out by the BIS and therefore necessitate new policy, the paper clarified:</p>
+
+<p>Certain cryptoassets have exhibited a high degree of volatility, and could present risks for banks as exposures increase, including liquidity risk; credit risk; market risk; operational risk (including fraud and cyber risks); money laundering/terrorist financing risk; and legal and reputation risks.</p>
+
+<p>The BIS report further adds that as the digital asset industry expands, inherent risks increase in tandem. Hence, a need to regulate the market despite its small size relative to the global market is required.</p>
+<p>In its detailing of the risks and supervision of Group 2 assets, the report states:</p>
+
+<p>The required process has been modified to remove the supervisory pre-approval element; instead, in the final standard banks are required to notify supervisors of classification decisions and supervisors will have the power to override these decisions if they disagree with a bank&rsquo;s assessment.</p>
+
+Is This Bullish for Crypto?
+<p>Regulators have largely maintained a rather cautious approach to regulating the sector so far and the rule proposed by the BIS remains in line with this. While this policy is somewhat conservative, it is bullish for the mainstream adoption of Bitcoin and the rest of the crypto asset industry. The introduction of this new policy means that banks are afforded some clarity on gaining crypto exposure when the rule takes effect in all BIS jurisdictions in 2025.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>A new policy by the Bank for International Settlements (BIS) will permit banks to hold 2% of their reserves in cryptocurrencies. </p>
+<p>The BIS recently issued its Prudential Treatment of Cryptoasset Exposure report for December 2022 in which it introduced a policy that now allows banks to hold 2% of their reserves in cryptocurrencies. The policy, the second consultation of one published earlier in the year, covers several aspects of how crypto assets are to be defined, processed, and is set to take effect on January 1, 2025. In the first iteration of this report, published in June, the BIS announced that banks would be limited to holding no more than 1% of their reserves in cryptocurrencies.</p>
+<p>The policy groups crypto assets into two cohorts. Group 1 is defined as tokenized traditional assets and crypto assets that have an &ldquo;effective stabilization mechanism.&rdquo; Group 2 are referred to as digital assets that &ldquo;fail to meet any of the classification conditions of Group 1 assets.&rdquo; Group 2 assets are where the BIS is applying its new rules. Per the BIS, Group 2 assets, which include Bitcoin, pose a greater risk to financial systems as they do not have an identifiable counterparty. The paper specifies that a bank&rsquo;s exposure to Group 2 crypto assets should not exceed 2% of the bank&rsquo;s Tier 1 capital, within their reserves. Group 2 financial instruments have not yet been accommodated under rules set out by the BIS and therefore necessitate new policy, the paper clarified:</p>
+
+<p>Certain cryptoassets have exhibited a high degree of volatility, and could present risks for banks as exposures increase, including liquidity risk; credit risk; market risk; operational risk (including fraud and cyber risks); money laundering/terrorist financing risk; and legal and reputation risks.</p>
+
+<p>The BIS report further adds that as the digital asset industry expands, inherent risks increase in tandem. Hence, a need to regulate the market despite its small size relative to the global market is required.</p>
+<p>In its detailing of the risks and supervision of Group 2 assets, the report states:</p>
+
+<p>The required process has been modified to remove the supervisory pre-approval element; instead, in the final standard banks are required to notify supervisors of classification decisions and supervisors will have the power to override these decisions if they disagree with a bank&rsquo;s assessment.</p>
+
+Is This Bullish for Crypto?
+<p>Regulators have largely maintained a rather cautious approach to regulating the sector so far and the rule proposed by the BIS remains in line with this. While this policy is somewhat conservative, it is bullish for the mainstream adoption of Bitcoin and the rest of the crypto asset industry. The introduction of this new policy means that banks are afforded some clarity on gaining crypto exposure when the rule takes effect in all BIS jurisdictions in 2025.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
+			  <title><![CDATA[Bank of Russia Acts to Protect Crypto Companies Against Sanctions]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/bank-of-russia-acts-to-protect-crypto-companies-against-sanctions</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/russian-central-bank-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/russian-central-bank-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/russian-central-bank-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 13:12:30 +0000</pubDate>
+			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/bank-of-russia-acts-to-protect-crypto-companies-against-sanctions</guid>
+			  <description><![CDATA[<p>The Central Bank of Russia has introduced a course of action aimed at protecting companies dealing with digital assets against the pressure of sanctions. </p>
+CBR Offers Relief to Crypto Companies, Albeit Temporary
+<p>The Central Bank of the Russian Federation (CBR) has introduced a set of measures to protect entities working with digital assets against pressures from sanctions. These measures allow the issuers of digital financial assets (DFAs) not to disclose sensitive information considering sanctions risks as reported by Bitcoin.com. Per these new measures, businesses will be exempted from certain reporting requirements, and they aim to provide some regulatory relief in an effort to minimize the burden on financial organizations. The exemption, which is valid until July 1, 2023, mainly concerns data revealing the beneficial owners of entities dealing with digital assets. &nbsp;</p>
+Crippling Sanctions Have Forced the CBR&rsquo;s Hand
+<p>The CBR issued a press release in which it explained that the temporary reporting exemption makes up part of a set of measures meant to provide assistance to organizations and persons operating within the Russian financial market infrastructure. Russia is yet to regulate cryptos such as Bitcoin, but the existing law &ldquo;On Digital Financial Assets&rdquo; allows firms to issue coins and tokens in controlled environments. As it stands, three &ldquo;operators of information systems in which DFAs can be issued&rdquo; have been licensed by the Central Bank &ndash; Russia&rsquo;s largest bank, Sber, the tokenization service Atomyze, and Lighthouse. Sber recently announced that it is integrating support for MetaMask and Ethereum on its proprietary blockchain.</p>
+<p>The CBR&rsquo;s press release mainly focused on explaining the regulatory and supervisory relief it is offering to financial market participants and DFA issuers since earlier in the year is aimed at minimizing the burden on these entities given the current economic and geopolitical situation Russia finds itself in. The Russian government and many businesses have been suffering from harsh sanctions from the West over Moscow&rsquo;s decision to invade neighboring Ukraine in February. The sanctions have been crippling and have severely restricted Russia&rsquo;s access to global markets and finances.</p>
+Russia to Legalise Crypto Cross-Border Payments
+<p>Despite the Federation&rsquo;s mostly anti-crypto stance, a proposal to legalise the use of cryptocurrencies for cross-border payments and international settlements in order to reduce the pressure of sanctions has been backed and advocated for by many Russian institutions, including the CBR &ndash; the institutional which has traditionally maintained a hardline stance on crypto regulations.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>The Central Bank of Russia has introduced a course of action aimed at protecting companies dealing with digital assets against the pressure of sanctions. </p>
+CBR Offers Relief to Crypto Companies, Albeit Temporary
+<p>The Central Bank of the Russian Federation (CBR) has introduced a set of measures to protect entities working with digital assets against pressures from sanctions. These measures allow the issuers of digital financial assets (DFAs) not to disclose sensitive information considering sanctions risks as reported by Bitcoin.com. Per these new measures, businesses will be exempted from certain reporting requirements, and they aim to provide some regulatory relief in an effort to minimize the burden on financial organizations. The exemption, which is valid until July 1, 2023, mainly concerns data revealing the beneficial owners of entities dealing with digital assets. &nbsp;</p>
+Crippling Sanctions Have Forced the CBR&rsquo;s Hand
+<p>The CBR issued a press release in which it explained that the temporary reporting exemption makes up part of a set of measures meant to provide assistance to organizations and persons operating within the Russian financial market infrastructure. Russia is yet to regulate cryptos such as Bitcoin, but the existing law &ldquo;On Digital Financial Assets&rdquo; allows firms to issue coins and tokens in controlled environments. As it stands, three &ldquo;operators of information systems in which DFAs can be issued&rdquo; have been licensed by the Central Bank &ndash; Russia&rsquo;s largest bank, Sber, the tokenization service Atomyze, and Lighthouse. Sber recently announced that it is integrating support for MetaMask and Ethereum on its proprietary blockchain.</p>
+<p>The CBR&rsquo;s press release mainly focused on explaining the regulatory and supervisory relief it is offering to financial market participants and DFA issuers since earlier in the year is aimed at minimizing the burden on these entities given the current economic and geopolitical situation Russia finds itself in. The Russian government and many businesses have been suffering from harsh sanctions from the West over Moscow&rsquo;s decision to invade neighboring Ukraine in February. The sanctions have been crippling and have severely restricted Russia&rsquo;s access to global markets and finances.</p>
+Russia to Legalise Crypto Cross-Border Payments
+<p>Despite the Federation&rsquo;s mostly anti-crypto stance, a proposal to legalise the use of cryptocurrencies for cross-border payments and international settlements in order to reduce the pressure of sanctions has been backed and advocated for by many Russian institutions, including the CBR &ndash; the institutional which has traditionally maintained a hardline stance on crypto regulations.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
+			  <title><![CDATA[Analysts Favor Orbeon Protocol (ORBN) As Monero (XMR) and Theta Network (THETA) Holders Get Impatient]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/analysts-favor-orbeon-protocol-orbn-as-monero-xmr-and-theta-network-theta-holders-get-impatient</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image1-495.png" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image1-495.png" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image1-495.png" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 12:30:00 +0000</pubDate>
+			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/analysts-favor-orbeon-protocol-orbn-as-monero-xmr-and-theta-network-theta-holders-get-impatient</guid>
+			  <description><![CDATA[<p>Both Monero (XMR) and Theta Network (THETA) have been around for a while now, and their respective communities are starting to ask when development will start picking up.&nbsp;</p>
+<p>Orbeon Protocol (ORBN) is a new project filled with potential, and it looks like it could overtake both XMR and THETA during phase 3 of its public presale. Orbeon Protocol has already seen its price increase 655% during phase 1 and 2 of its public presale, looks like the sky's the limit.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Orbeon Protocol (ORBN)</p>
+<p>Orbeon Protocol (ORBN) is a pioneering platform that is transforming the way startups raise money and connect with investors. By leveraging the power of blockchain technology and equity-based NFTs, Orbeon Protocol is creating a more accessible and efficient crowdfunding ecosystem.</p>
+<p>The use of NFTs enables the fractionalization of equity, which means that investors can own a much smaller portion of a company than they would with traditional investment vehicles. This makes it easier for more people to invest in startups, and it allows investors to diversify their portfolios more effectively.</p>
+<p>By automating many of the processes involved in raising money and managing investments, Orbeon Protocol's smart contract helps to create a more transparent and secure crowdfunding ecosystem. For example, if a project doesn't reach its goal, there is a failsafe that refunds investors.</p>
+<p>Orbeon Protocol&rsquo;s native ORBN token serves as the primary means of exchange on Orbeon Protocol&rsquo;s platform, and it grants a range of benefits to users who hold it in their wallets.</p>
+<p>One of the main advantages of holding ORBN is the ability to access the best investment opportunities on the platform before non-holders. This gives ORBN holders the first-mover advantage and allows them to potentially earn higher returns on their investments.</p>
+<p>Although it has yet to launch, Orbeon Protocol is quickly making a name for itself in the crowdfunding industry due to its pioneering use of blockchain and non-fungible tokens (NFTs). Phase 3 of the public presale has just started, with more than 10 million tokens sold in the first few days, some industry experts have predicted Orbeon Protocols price will be in the region of $0.24 by the end of the year, 60x the phase 1 price.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Monero (XMR)</p>
+<p>Monero (XMR) is a privacy-focused cryptocurrency that has been around for nearly a decade. Monero (XMR) offers users an enhanced level of privacy, as transactions can't be tracked and linked to a specific user as they can with Bitcoin (BTC).</p>
+<p>Monero&rsquo;s (XMR) network uses ring signatures, stealth addresses, and other security features to keep transactions private. As such, there is a clear demand for the coin and Monero&rsquo;s (XMR) network, especially by those who believe real money shouldn't be traced.</p>
+<p>However, crypto prices tend to correlate with activity and excitement, which can sometimes mean that older coins, like Monero (XMR), can be forgotten about. This was certainly the case during the 2021 bull run, where Monero (XMR) saw its price increase, but not to the same extent as other coins.</p>
+<p>More recently we have seen an anti privacy approach adopted by governments and exchanges, this recent attack on privacy saw Monero (XMR) delisted from some top exchanges.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Theta Network (THETA)</p>
+<p>Theta Network (THETA) is a blockchain-powered video streaming platform that rewards users for their contributions to the network. Now, anyone using Theta Network can enjoy content and share data across a peer-to-peer network.</p>
+<p>Theta Network promises to alleviate the financial burdens of content creators who are currently at the mercy of large, centralized corporations like YouTube and Twitch. Theta Network Users can earn further rewards by providing essential network resources, like bandwidth and storage, to other streamers.</p>
+<p>Theta Network has heavy hitters in the streaming and media industry as advisors, including Steven Chen, the co-founder of YouTube. However, recent developments have not lived up to expectations, with Theta Network&rsquo;s price down a huge 94.63% at the current time of writing. Theta Network is currently trading at $0.83.</p>
+<p>Find Out More About The Orbeon Protocol Presale</p>
+<p>Website: https://orbeonprotocol.com/</p>
+<p>Presale: https://presale.orbeonprotocol.com/register&nbsp;</p>
+<p>Telegram: https://t.me/OrbeonProtocol&nbsp;</p>
+<p>Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Both Monero (XMR) and Theta Network (THETA) have been around for a while now, and their respective communities are starting to ask when development will start picking up.&nbsp;</p>
+<p>Orbeon Protocol (ORBN) is a new project filled with potential, and it looks like it could overtake both XMR and THETA during phase 3 of its public presale. Orbeon Protocol has already seen its price increase 655% during phase 1 and 2 of its public presale, looks like the sky's the limit.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Orbeon Protocol (ORBN)</p>
+<p>Orbeon Protocol (ORBN) is a pioneering platform that is transforming the way startups raise money and connect with investors. By leveraging the power of blockchain technology and equity-based NFTs, Orbeon Protocol is creating a more accessible and efficient crowdfunding ecosystem.</p>
+<p>The use of NFTs enables the fractionalization of equity, which means that investors can own a much smaller portion of a company than they would with traditional investment vehicles. This makes it easier for more people to invest in startups, and it allows investors to diversify their portfolios more effectively.</p>
+<p>By automating many of the processes involved in raising money and managing investments, Orbeon Protocol's smart contract helps to create a more transparent and secure crowdfunding ecosystem. For example, if a project doesn't reach its goal, there is a failsafe that refunds investors.</p>
+<p>Orbeon Protocol&rsquo;s native ORBN token serves as the primary means of exchange on Orbeon Protocol&rsquo;s platform, and it grants a range of benefits to users who hold it in their wallets.</p>
+<p>One of the main advantages of holding ORBN is the ability to access the best investment opportunities on the platform before non-holders. This gives ORBN holders the first-mover advantage and allows them to potentially earn higher returns on their investments.</p>
+<p>Although it has yet to launch, Orbeon Protocol is quickly making a name for itself in the crowdfunding industry due to its pioneering use of blockchain and non-fungible tokens (NFTs). Phase 3 of the public presale has just started, with more than 10 million tokens sold in the first few days, some industry experts have predicted Orbeon Protocols price will be in the region of $0.24 by the end of the year, 60x the phase 1 price.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Monero (XMR)</p>
+<p>Monero (XMR) is a privacy-focused cryptocurrency that has been around for nearly a decade. Monero (XMR) offers users an enhanced level of privacy, as transactions can't be tracked and linked to a specific user as they can with Bitcoin (BTC).</p>
+<p>Monero&rsquo;s (XMR) network uses ring signatures, stealth addresses, and other security features to keep transactions private. As such, there is a clear demand for the coin and Monero&rsquo;s (XMR) network, especially by those who believe real money shouldn't be traced.</p>
+<p>However, crypto prices tend to correlate with activity and excitement, which can sometimes mean that older coins, like Monero (XMR), can be forgotten about. This was certainly the case during the 2021 bull run, where Monero (XMR) saw its price increase, but not to the same extent as other coins.</p>
+<p>More recently we have seen an anti privacy approach adopted by governments and exchanges, this recent attack on privacy saw Monero (XMR) delisted from some top exchanges.</p>
+<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
+<p>Theta Network (THETA)</p>
+<p>Theta Network (THETA) is a blockchain-powered video streaming platform that rewards users for their contributions to the network. Now, anyone using Theta Network can enjoy content and share data across a peer-to-peer network.</p>
+<p>Theta Network promises to alleviate the financial burdens of content creators who are currently at the mercy of large, centralized corporations like YouTube and Twitch. Theta Network Users can earn further rewards by providing essential network resources, like bandwidth and storage, to other streamers.</p>
+<p>Theta Network has heavy hitters in the streaming and media industry as advisors, including Steven Chen, the co-founder of YouTube. However, recent developments have not lived up to expectations, with Theta Network&rsquo;s price down a huge 94.63% at the current time of writing. Theta Network is currently trading at $0.83.</p>
+<p>Find Out More About The Orbeon Protocol Presale</p>
+<p>Website: https://orbeonprotocol.com/</p>
+<p>Presale: https://presale.orbeonprotocol.com/register&nbsp;</p>
+<p>Telegram: https://t.me/OrbeonProtocol&nbsp;</p>
+<p>Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
+			</item>
+														<item>
+			  <title><![CDATA[Proof-of-Reserve Auditor Mazars Pauses Work for Crypto Clients]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/proof-of-reserve-auditor-mazars-pauses-work-for-crypto-clients</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/mazars-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/mazars-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/mazars-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 17 Dec 2022 09:36:46 +0000</pubDate>
+			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/proof-of-reserve-auditor-mazars-pauses-work-for-crypto-clients</guid>
+			  <description><![CDATA[<p>Mazars the auditing firm that worked with Binance and various other crypto exchanges including KuCoin and Crypto.com has paused all its business with their crypto clients according to an emailed statement by Binance. </p>
+<p>Mazars recently performed a proof-of-reserves assessment of Binance finding its Bitcoin reserves to be overcollateralized. Mazars has since removed the link to the report from its website. A spokesperson from Binance said:</p>
+
+<p>Mazars has indicated that they will temporarily pause their work with all of their crypto clients globally, which include&nbsp;Crypto.com, KuCoin, and Binance. Unfortunately, this means that we will not be able to work with Mazars for the moment.</p>
+
+<p>According to reports from Bloomberg, Mazar&rsquo;s website shows that they fully discontinued Mazars Veritas &ndash; a section dedicated to crypto exchange audits. Mazars Veritas was developed by the firm to bring &ldquo;trust and transparency to the digital asset sector,&rdquo; and made use of the Silver Sixpence Merkle Tree Generating tool to complement proof-of-reserve reports. Bloomberg further reported that other auditing firms such as FTX&rsquo;s auditor Armanino also halted their work with crypto exchanges such as OKX and Gate.io.</p>
+<p>The auditor also found that KuCoin&rsquo;s BTC, USDT, ETH, and USDC reserves were all overcollateralized, but has also removed this report since. The auditing firm did however find that Crypto.com&rsquo;s reserves were fully backed at a ratio of 1:1.</p>
+<p>Binance&rsquo;s CEO Changpeng &ldquo;CZ&rdquo; Zhao quickly took to Twitter to react to the news by retweeting a random commenter's statement. He also went on Twitter to hint that blockchains are transparent by default stating:</p>
+
+<p dir="ltr" lang="en">Blockchains are public, permanent records. It's the most auditable ledger.</p>
+&mdash; CZ 🔶 Binance (@cz_binance) December 16, 2022
+<p>
+
+</p>
+<p>Mazars is also widely known as the accounting firm of former U.S. President Donal Trump&rsquo;s company.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Mazars the auditing firm that worked with Binance and various other crypto exchanges including KuCoin and Crypto.com has paused all its business with their crypto clients according to an emailed statement by Binance. </p>
+<p>Mazars recently performed a proof-of-reserves assessment of Binance finding its Bitcoin reserves to be overcollateralized. Mazars has since removed the link to the report from its website. A spokesperson from Binance said:</p>
+
+<p>Mazars has indicated that they will temporarily pause their work with all of their crypto clients globally, which include&nbsp;Crypto.com, KuCoin, and Binance. Unfortunately, this means that we will not be able to work with Mazars for the moment.</p>
+
+<p>According to reports from Bloomberg, Mazar&rsquo;s website shows that they fully discontinued Mazars Veritas &ndash; a section dedicated to crypto exchange audits. Mazars Veritas was developed by the firm to bring &ldquo;trust and transparency to the digital asset sector,&rdquo; and made use of the Silver Sixpence Merkle Tree Generating tool to complement proof-of-reserve reports. Bloomberg further reported that other auditing firms such as FTX&rsquo;s auditor Armanino also halted their work with crypto exchanges such as OKX and Gate.io.</p>
+<p>The auditor also found that KuCoin&rsquo;s BTC, USDT, ETH, and USDC reserves were all overcollateralized, but has also removed this report since. The auditing firm did however find that Crypto.com&rsquo;s reserves were fully backed at a ratio of 1:1.</p>
+<p>Binance&rsquo;s CEO Changpeng &ldquo;CZ&rdquo; Zhao quickly took to Twitter to react to the news by retweeting a random commenter's statement. He also went on Twitter to hint that blockchains are transparent by default stating:</p>
+
+<p dir="ltr" lang="en">Blockchains are public, permanent records. It's the most auditable ledger.</p>
+&mdash; CZ 🔶 Binance (@cz_binance) December 16, 2022
+<p>
+
+</p>
+<p>Mazars is also widely known as the accounting firm of former U.S. President Donal Trump&rsquo;s company.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Bitcoin Price Analysis:  Pressure Below 17525 - 17 December 2022]]></title>
 			  <link>https://cryptodaily.co.uk/2022/12/bitcoin-price-analysis-pressure-below-17525-17-december-2022</link>
 			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-16-december-2022-240.jpg" medium="image" />
@@ -220,6 +476,50 @@
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 														<item>
+			  <title><![CDATA[Hong Kong Launches Asia’s First Crypto Futures ETFs]]></title>
+			  <link>https://cryptodaily.co.uk/2022/12/hong-kong-launches-asias-first-crypto-futures-etfs</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Fri, 16 Dec 2022 13:00:00 +0000</pubDate>
+			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/hong-kong-launches-asias-first-crypto-futures-etfs</guid>
+			  <description><![CDATA[<p>Hong Kong Exchanges and Clearing (HKEX) expanded its ecosystem by adding two crypto exchange-traded funds (ETFs) &ndash; the first of its kind in Asia. </p>
+<p>Today, the HKEX listed two news ETFs: CSOP Bitcoin Futures and CSOP Ether Futures which are products that track cash-settled Bitcoin and Ether futures contracts traded on the Chicago Mercantile Exchange (CME). According to reports by Reuters, the ETFs, both managed by CSOP Asset Management, invest in Bitcoin and Ether futures listed on the CME exchange in the United States, - the only cryptocurrency assets currently permitted by Hong Kong&rsquo;s Securities and Futures Commission (SFC).</p>
+<p>Wilfred Yiu, HKEX&rsquo;s COO and co-head of markets said:</p>
+
+<p>These ETFs &ldquo;provide investors with exposure to the digital asset space for the first time in Asia and reflect both our ongoing commitment to, and the market&rsquo;s appetite for, the digital economy.</p>
+
+<p>HKEX indicated that ETFs are one of the fastest-growing segments in its products suite and the exchange has also announced plans to expand the diversity of its offerings. In 2022, the exchange supported the listings of the first metaverse ETF, carbon futures ETF, and blockchain ETF on the market according to reports by Tech In Asia.</p>
+<p>Not long before the collapse of FTX, the SFC said that it would start consultations to allow retail investors to trade cryptos and ETFs, and had initially proposed restricting participation to professional investors.</p>
+<p>Yi Wang, head of quantitative investment at CSOP said:</p>
+
+<p>Coming after the recent liquidity problems affecting some of the crypto platforms, our two crypto futures ETFs demonstrate that Hong Kong remains open-minded on the development of virtual assets.</p>
+
+<p>Wang further said:</p>
+
+<p>As the ETFs do not invest in physical bitcoin and are traded on regulated U.S. and Hong Kong exchanges, there are more regulatory safeguards for investors compared to tokens traded on unregulated platforms.</p>
+
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Hong Kong Exchanges and Clearing (HKEX) expanded its ecosystem by adding two crypto exchange-traded funds (ETFs) &ndash; the first of its kind in Asia. </p>
+<p>Today, the HKEX listed two news ETFs: CSOP Bitcoin Futures and CSOP Ether Futures which are products that track cash-settled Bitcoin and Ether futures contracts traded on the Chicago Mercantile Exchange (CME). According to reports by Reuters, the ETFs, both managed by CSOP Asset Management, invest in Bitcoin and Ether futures listed on the CME exchange in the United States, - the only cryptocurrency assets currently permitted by Hong Kong&rsquo;s Securities and Futures Commission (SFC).</p>
+<p>Wilfred Yiu, HKEX&rsquo;s COO and co-head of markets said:</p>
+
+<p>These ETFs &ldquo;provide investors with exposure to the digital asset space for the first time in Asia and reflect both our ongoing commitment to, and the market&rsquo;s appetite for, the digital economy.</p>
+
+<p>HKEX indicated that ETFs are one of the fastest-growing segments in its products suite and the exchange has also announced plans to expand the diversity of its offerings. In 2022, the exchange supported the listings of the first metaverse ETF, carbon futures ETF, and blockchain ETF on the market according to reports by Tech In Asia.</p>
+<p>Not long before the collapse of FTX, the SFC said that it would start consultations to allow retail investors to trade cryptos and ETFs, and had initially proposed restricting participation to professional investors.</p>
+<p>Yi Wang, head of quantitative investment at CSOP said:</p>
+
+<p>Coming after the recent liquidity problems affecting some of the crypto platforms, our two crypto futures ETFs demonstrate that Hong Kong remains open-minded on the development of virtual assets.</p>
+
+<p>Wang further said:</p>
+
+<p>As the ETFs do not invest in physical bitcoin and are traded on regulated U.S. and Hong Kong exchanges, there are more regulatory safeguards for investors compared to tokens traded on unregulated platforms.</p>
+
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Degen Lounge Casino Has The Fastest Growing Crypto Poker Website]]></title>
 			  <link>https://cryptodaily.co.uk/2022/12/degen-lounge-casino-has-the-fastest-growing-crypto-poker-website</link>
 			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/degen1450x700.png" medium="image" />
@@ -273,50 +573,6 @@ Benefits provided by the Degen Lounge website
 <p>There are specific regulations and laws in poker that differ for each country. According to some new rules, they don't even allow you to attend the game, so many players have decided to bypass the laws and switch to a safer, faster, and much better option, which is crypto poker.</p>
 <p>Contact for more</p>
 <p>For more information about Degen Lounge Casino, you can visit their official website, Twitter, or Telegram. &nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Hong Kong Launches Asia’s First Crypto Futures ETFs]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/hong-kong-launches-asias-first-crypto-futures-etfs</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/etf-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Fri, 16 Dec 2022 13:00:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/hong-kong-launches-asias-first-crypto-futures-etfs</guid>
-			  <description><![CDATA[<p>Hong Kong Exchanges and Clearing (HKEX) expanded its ecosystem by adding two crypto exchange-traded funds (ETFs) &ndash; the first of its kind in Asia. </p>
-<p>Today, the HKEX listed two news ETFs: CSOP Bitcoin Futures and CSOP Ether Futures which are products that track cash-settled Bitcoin and Ether futures contracts traded on the Chicago Mercantile Exchange (CME). According to reports by Reuters, the ETFs, both managed by CSOP Asset Management, invest in Bitcoin and Ether futures listed on the CME exchange in the United States, - the only cryptocurrency assets currently permitted by Hong Kong&rsquo;s Securities and Futures Commission (SFC).</p>
-<p>Wilfred Yiu, HKEX&rsquo;s COO and co-head of markets said:</p>
-
-<p>These ETFs &ldquo;provide investors with exposure to the digital asset space for the first time in Asia and reflect both our ongoing commitment to, and the market&rsquo;s appetite for, the digital economy.</p>
-
-<p>HKEX indicated that ETFs are one of the fastest-growing segments in its products suite and the exchange has also announced plans to expand the diversity of its offerings. In 2022, the exchange supported the listings of the first metaverse ETF, carbon futures ETF, and blockchain ETF on the market according to reports by Tech In Asia.</p>
-<p>Not long before the collapse of FTX, the SFC said that it would start consultations to allow retail investors to trade cryptos and ETFs, and had initially proposed restricting participation to professional investors.</p>
-<p>Yi Wang, head of quantitative investment at CSOP said:</p>
-
-<p>Coming after the recent liquidity problems affecting some of the crypto platforms, our two crypto futures ETFs demonstrate that Hong Kong remains open-minded on the development of virtual assets.</p>
-
-<p>Wang further said:</p>
-
-<p>As the ETFs do not invest in physical bitcoin and are traded on regulated U.S. and Hong Kong exchanges, there are more regulatory safeguards for investors compared to tokens traded on unregulated platforms.</p>
-
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>Hong Kong Exchanges and Clearing (HKEX) expanded its ecosystem by adding two crypto exchange-traded funds (ETFs) &ndash; the first of its kind in Asia. </p>
-<p>Today, the HKEX listed two news ETFs: CSOP Bitcoin Futures and CSOP Ether Futures which are products that track cash-settled Bitcoin and Ether futures contracts traded on the Chicago Mercantile Exchange (CME). According to reports by Reuters, the ETFs, both managed by CSOP Asset Management, invest in Bitcoin and Ether futures listed on the CME exchange in the United States, - the only cryptocurrency assets currently permitted by Hong Kong&rsquo;s Securities and Futures Commission (SFC).</p>
-<p>Wilfred Yiu, HKEX&rsquo;s COO and co-head of markets said:</p>
-
-<p>These ETFs &ldquo;provide investors with exposure to the digital asset space for the first time in Asia and reflect both our ongoing commitment to, and the market&rsquo;s appetite for, the digital economy.</p>
-
-<p>HKEX indicated that ETFs are one of the fastest-growing segments in its products suite and the exchange has also announced plans to expand the diversity of its offerings. In 2022, the exchange supported the listings of the first metaverse ETF, carbon futures ETF, and blockchain ETF on the market according to reports by Tech In Asia.</p>
-<p>Not long before the collapse of FTX, the SFC said that it would start consultations to allow retail investors to trade cryptos and ETFs, and had initially proposed restricting participation to professional investors.</p>
-<p>Yi Wang, head of quantitative investment at CSOP said:</p>
-
-<p>Coming after the recent liquidity problems affecting some of the crypto platforms, our two crypto futures ETFs demonstrate that Hong Kong remains open-minded on the development of virtual assets.</p>
-
-<p>Wang further said:</p>
-
-<p>As the ETFs do not invest in physical bitcoin and are traded on regulated U.S. and Hong Kong exchanges, there are more regulatory safeguards for investors compared to tokens traded on unregulated platforms.</p>
-
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 														<item>
@@ -986,276 +1242,6 @@ Previously Critical Of Crypto&nbsp;
 
 <p>Additionally, Melania Trump has also tried her hand at NFTs, although her NFT auction flopped in a big way, and had to deny claims that she had to purchase her own NFTs.&nbsp;</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Brazil to Launch Its Digital Currency in 2024]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/brazil-to-launch-its-digital-currency-in-2024</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/brazil-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/brazil-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/brazil-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 16:14:13 +0000</pubDate>
-			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/brazil-to-launch-its-digital-currency-in-2024</guid>
-			  <description><![CDATA[<p>The Brazilian central bank is looking to launch its digital currency in 2024 following a closed pilot program next year in collaboration with financial institutions. </p>
-<p>The Central Bank of Brazil will launch its digital currency in 2024 according to the bank&rsquo;s president Roberto Campos Neto. Compos Neto spoke at an event hosted by the news website Poder 360, in which he said the project has garnered a lot of international attention. He added that the design of the central bank&rsquo;s digital currency would encourage banks to tokenize their assets, with considerable efficiency gains according to reports by Reuters. He said:</p>
-
-<p>If the digital currency is actually a tokenized deposit, it inherits all the regulation that already applies to deposits.</p>
-
-<p>Campos Neto also added that the project should not disturb monetary policy or hurt banks&rsquo; balance sheets. According to the central bank&rsquo;s president, representative of the International Monetary Fund (IMF) have approached the bank and has provided feedback indicating that this model seems the simplest to implement and that other central banks should consider looking into implementing the same model. He added:</p>
-
-<p>In the end, we were even flattered to have thought of a system that other central banks are now thinking of.</p>
-
-<p>The benefits of a digital currency should be to improve the banks&rsquo; settlement, auditing, and funding costs according to Campos Neto. He further predicted a jump in the use of the bank&rsquo;s popular instant payment system, Pix, and this will be achieved when users can access cheaper credit through the system without a fee &ndash; a system known as the merchant discount rate (MDR) which merchants pay to companies that supply credit card machines. Pix was launched in November 2020 and is free for individuals, although the system lets banks and payment institutions freely define merchant&rsquo;s costs for receiving and transferring funds.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>The Brazilian central bank is looking to launch its digital currency in 2024 following a closed pilot program next year in collaboration with financial institutions. </p>
-<p>The Central Bank of Brazil will launch its digital currency in 2024 according to the bank&rsquo;s president Roberto Campos Neto. Compos Neto spoke at an event hosted by the news website Poder 360, in which he said the project has garnered a lot of international attention. He added that the design of the central bank&rsquo;s digital currency would encourage banks to tokenize their assets, with considerable efficiency gains according to reports by Reuters. He said:</p>
-
-<p>If the digital currency is actually a tokenized deposit, it inherits all the regulation that already applies to deposits.</p>
-
-<p>Campos Neto also added that the project should not disturb monetary policy or hurt banks&rsquo; balance sheets. According to the central bank&rsquo;s president, representative of the International Monetary Fund (IMF) have approached the bank and has provided feedback indicating that this model seems the simplest to implement and that other central banks should consider looking into implementing the same model. He added:</p>
-
-<p>In the end, we were even flattered to have thought of a system that other central banks are now thinking of.</p>
-
-<p>The benefits of a digital currency should be to improve the banks&rsquo; settlement, auditing, and funding costs according to Campos Neto. He further predicted a jump in the use of the bank&rsquo;s popular instant payment system, Pix, and this will be achieved when users can access cheaper credit through the system without a fee &ndash; a system known as the merchant discount rate (MDR) which merchants pay to companies that supply credit card machines. Pix was launched in November 2020 and is free for individuals, although the system lets banks and payment institutions freely define merchant&rsquo;s costs for receiving and transferring funds.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Bitcoin Price Analysis:  16922 Bids Emerge - 16 December 2022]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/bitcoin-price-analysis-16922-bids-emerge-16-december-2022</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-15-december-2022-240.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-15-december-2022-240.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/btcusd-15-december-2022-240.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 16:00:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Sally Ho]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/bitcoin-price-analysis-16922-bids-emerge-16-december-2022</guid>
-			  <description><![CDATA[<p>BTC/USD Upside Momentum Rallies:&nbsp; Sally Ho&rsquo;s Technical Analysis &ndash; 16 December 2022</p>
-<p>Bitcoin (BTC/USD) sought to reclaim recent upside progress early in the Asian session as the pair moderated after recently peaking around the 18385.36 level, its strongest print since early November.&nbsp; Stops were elected below the 17694.98 level during the pullback, representing the 23.6% retracement of the recent broader appreciating range from 15460 to 18385.36.&nbsp; &nbsp;Additional retracement levels in this appreciating range include the 17267.87, 16922.68, 16577.49, 16150.38, and 16086.03.&nbsp; &nbsp;Risk aversion has been reduced in recent days and traders have been able to propel BTC/USD to multi-week highs after Stops were elected above the 17779.81 and 17872.75 levels.&nbsp; Additional technically significant upside retracement levels include the 18495, 19199, 20070, and 20201 levels.&nbsp; Following recent gains from two-year lows around the 15460 area, areas of potential technical support and buying pressure include the 17400.55, 17029.71, 16730, 16430.28, 16059.44, and 16003.56 areas.&nbsp;</p>
-<p>Below current price activity, BTC/USD bears are eyeing a possible test of recent two-year lows around the 15460 area, established after Stops were elected below the 15512 area.&nbsp; Notably, the 15512 level represented an exact bearish price objective based on selling pressure that strengthened around the 21478.80 and 18495.50 areas.&nbsp; Below these areas, technically significant levels include the 14613, 14500.15, 13369, 10432.73, 10727, 9682, 8837, and 7538 levels.&nbsp; Traders are&nbsp;observing&nbsp;that the&nbsp;50-bar MA (4-hourly)&nbsp;is&nbsp;bullishly indicating above the 200-bar MA (4-hourly)&nbsp;and&nbsp;above the&nbsp;200-bar MA (4-hourly).&nbsp; Also, the 50-bar MA (hourly) is bullishly indicating above the 100-bar MA (hourly) and above the 200-bar MA (hourly).</p>
-<p>Price activity is nearest the&nbsp;50-bar MA&nbsp;(4-hourly) at 17220.71 and the&nbsp;50-bar MA&nbsp;(Hourly) at 17757.07.</p>
-<p>&nbsp;</p>
-<p>Technical Support&nbsp;is expected around&nbsp;14500.15/ 13369.11/ 10727.75 with&nbsp;Stops&nbsp;expected below.</p>
-<p>Technical Resistance&nbsp;is expected around&nbsp;18495.40/ 19199.48/ 20070.64 with&nbsp;Stops&nbsp;expected above.&nbsp;&nbsp;</p>
-<p>On&nbsp;4-Hourly&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is Bullishly above MACDAverage.</p>
-<p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bearishly below MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>BTC/USD Upside Momentum Rallies:&nbsp; Sally Ho&rsquo;s Technical Analysis &ndash; 16 December 2022</p>
-<p>Bitcoin (BTC/USD) sought to reclaim recent upside progress early in the Asian session as the pair moderated after recently peaking around the 18385.36 level, its strongest print since early November.&nbsp; Stops were elected below the 17694.98 level during the pullback, representing the 23.6% retracement of the recent broader appreciating range from 15460 to 18385.36.&nbsp; &nbsp;Additional retracement levels in this appreciating range include the 17267.87, 16922.68, 16577.49, 16150.38, and 16086.03.&nbsp; &nbsp;Risk aversion has been reduced in recent days and traders have been able to propel BTC/USD to multi-week highs after Stops were elected above the 17779.81 and 17872.75 levels.&nbsp; Additional technically significant upside retracement levels include the 18495, 19199, 20070, and 20201 levels.&nbsp; Following recent gains from two-year lows around the 15460 area, areas of potential technical support and buying pressure include the 17400.55, 17029.71, 16730, 16430.28, 16059.44, and 16003.56 areas.&nbsp;</p>
-<p>Below current price activity, BTC/USD bears are eyeing a possible test of recent two-year lows around the 15460 area, established after Stops were elected below the 15512 area.&nbsp; Notably, the 15512 level represented an exact bearish price objective based on selling pressure that strengthened around the 21478.80 and 18495.50 areas.&nbsp; Below these areas, technically significant levels include the 14613, 14500.15, 13369, 10432.73, 10727, 9682, 8837, and 7538 levels.&nbsp; Traders are&nbsp;observing&nbsp;that the&nbsp;50-bar MA (4-hourly)&nbsp;is&nbsp;bullishly indicating above the 200-bar MA (4-hourly)&nbsp;and&nbsp;above the&nbsp;200-bar MA (4-hourly).&nbsp; Also, the 50-bar MA (hourly) is bullishly indicating above the 100-bar MA (hourly) and above the 200-bar MA (hourly).</p>
-<p>Price activity is nearest the&nbsp;50-bar MA&nbsp;(4-hourly) at 17220.71 and the&nbsp;50-bar MA&nbsp;(Hourly) at 17757.07.</p>
-<p>&nbsp;</p>
-<p>Technical Support&nbsp;is expected around&nbsp;14500.15/ 13369.11/ 10727.75 with&nbsp;Stops&nbsp;expected below.</p>
-<p>Technical Resistance&nbsp;is expected around&nbsp;18495.40/ 19199.48/ 20070.64 with&nbsp;Stops&nbsp;expected above.&nbsp;&nbsp;</p>
-<p>On&nbsp;4-Hourly&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is Bullishly above MACDAverage.</p>
-<p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bearishly below MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Incoming FCA Chief Calls For Tougher Crypto Laws]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/incoming-fca-chief-calls-for-tougher-crypto-laws</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/fca-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/fca-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/fca-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 14:45:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/incoming-fca-chief-calls-for-tougher-crypto-laws</guid>
-			  <description><![CDATA[<p>The incoming chairperson of the UK&rsquo;s Financial Conduct Authority (FCA) stated that under his leadership, the crypto industry would have to face a lot more scrutiny and regulation.&nbsp;</p>
-&ldquo;Crypto Facilitates Money Laundering&rdquo;&nbsp;
-<p>Ashley Alder, who is set to lead the UK financial watchdog, has called for tighter crypto regulation in the country. He has claimed that crypto firms facilitate money laundering and therefore need increased oversight. Speaking to parliament membersat a cross-party Treasury select committee, Adler stated that crypto platforms are deliberately evasive about providing clarity and thus create risk for customer funds like conflicts of interest and unsegregated asset holdings.&nbsp;</p>
-<p>He said,&nbsp;</p>
-
-<p>&ldquo;Our experience to date of [crypto] platforms, whether FTX or others, is that they are deliberately evasive; they are a method by which money laundering happens in size. [Crypto firms] bundle a whole set of activities which are normally segregated&thinsp;.&thinsp;.&thinsp;. gives rise to massively untoward risk.&rdquo;&nbsp;</p>
-
-FCA And Government At Odds Over Crypto
-<p>Adler's comments and approach toward crypto are in stark contrast to the government&rsquo;s plans for the country&rsquo;s crypto industry. The U.K. government has in the past sought to establish a high-quality global crypto hub that fosters innovation and development in the industry. The goal has remained constant through the turbulent changing of the guards, where both former PM Liz Truss and current PM Rishi Sunak have maintained pro-crypto stances.&nbsp;</p>
-<p>However the FCA has been holding on to its rigid stance against the industry. The regulatory body had conducted anti-money laundering tests, which eliminated 85% of the firms that applied for the license.&nbsp;</p>
-FCA Previous Leadership
-<p>The previous chair of the FCA, Charles Randell had also worked on imposing tight regulations on the industry. In March, the agency wrote to UK-based crypto exchanges and put pressure on them to comply with regulations, especially sanction laws against Russian accounts. This was after both Binance and Kraken had initially refused to implement the sanctions and refused to block Russian accounts. Soon after, in May, Randell spoke at length on the speculative nature of cryptocurrencies and questioned their legitimacy.&nbsp;</p>
-<p>He said,&nbsp;</p>
-
-<p>&ldquo;When the price of Bitcoin can readily halve within six months, as it has done recently, and some other speculative crypto tokens have gone to zero&hellip; should people without any significant savings or financial experience be encouraged or permitted to buy speculative crypto at all?&rdquo;</p>
-
-<p>Both Randell and Adler&rsquo;s comments and the overall changing views of the financial watchdog spell trouble for the crypto firms hoping to establish themselves in the United Kingdom.&nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>The incoming chairperson of the UK&rsquo;s Financial Conduct Authority (FCA) stated that under his leadership, the crypto industry would have to face a lot more scrutiny and regulation.&nbsp;</p>
-&ldquo;Crypto Facilitates Money Laundering&rdquo;&nbsp;
-<p>Ashley Alder, who is set to lead the UK financial watchdog, has called for tighter crypto regulation in the country. He has claimed that crypto firms facilitate money laundering and therefore need increased oversight. Speaking to parliament membersat a cross-party Treasury select committee, Adler stated that crypto platforms are deliberately evasive about providing clarity and thus create risk for customer funds like conflicts of interest and unsegregated asset holdings.&nbsp;</p>
-<p>He said,&nbsp;</p>
-
-<p>&ldquo;Our experience to date of [crypto] platforms, whether FTX or others, is that they are deliberately evasive; they are a method by which money laundering happens in size. [Crypto firms] bundle a whole set of activities which are normally segregated&thinsp;.&thinsp;.&thinsp;. gives rise to massively untoward risk.&rdquo;&nbsp;</p>
-
-FCA And Government At Odds Over Crypto
-<p>Adler's comments and approach toward crypto are in stark contrast to the government&rsquo;s plans for the country&rsquo;s crypto industry. The U.K. government has in the past sought to establish a high-quality global crypto hub that fosters innovation and development in the industry. The goal has remained constant through the turbulent changing of the guards, where both former PM Liz Truss and current PM Rishi Sunak have maintained pro-crypto stances.&nbsp;</p>
-<p>However the FCA has been holding on to its rigid stance against the industry. The regulatory body had conducted anti-money laundering tests, which eliminated 85% of the firms that applied for the license.&nbsp;</p>
-FCA Previous Leadership
-<p>The previous chair of the FCA, Charles Randell had also worked on imposing tight regulations on the industry. In March, the agency wrote to UK-based crypto exchanges and put pressure on them to comply with regulations, especially sanction laws against Russian accounts. This was after both Binance and Kraken had initially refused to implement the sanctions and refused to block Russian accounts. Soon after, in May, Randell spoke at length on the speculative nature of cryptocurrencies and questioned their legitimacy.&nbsp;</p>
-<p>He said,&nbsp;</p>
-
-<p>&ldquo;When the price of Bitcoin can readily halve within six months, as it has done recently, and some other speculative crypto tokens have gone to zero&hellip; should people without any significant savings or financial experience be encouraged or permitted to buy speculative crypto at all?&rdquo;</p>
-
-<p>Both Randell and Adler&rsquo;s comments and the overall changing views of the financial watchdog spell trouble for the crypto firms hoping to establish themselves in the United Kingdom.&nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Once-Touted Polkadot (DOT) and Cardano (ADA) Stuck in a Holding Pattern, While Flasko (FLSK) Breaks Presale Records]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/once-touted-polkadot-dot-and-cardano-ada-stuck-in-a-holding-pattern-while-flasko-flsk-breaks-presale-records</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-153319.png" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-153319.png" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-153319.png" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 14:30:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/once-touted-polkadot-dot-and-cardano-ada-stuck-in-a-holding-pattern-while-flasko-flsk-breaks-presale-records</guid>
-			  <description><![CDATA[<p class="s3">There&rsquo;s no question that Cardano (ADA) and Polkadot (DOT) are among the most prominent tokens in the industry. Both tokens grew in stature after smart contract platforms were among the most popular investments in the last epic bull run of 2021. However, since then, the market downturn arising from the FTX fallout has seen their values hit yearly all-time lows.</p>
-<p class="s3">Not surprisingly, investors are queuing up for the Flasko presale, a revolutionary alternative investment platform that analysts believe can do a 5,000% increase from its current presale price of $0.111 in the coming year.</p>
-<p class="s3">Cardano (ADA) Continues on its Downward Trend</p>
-<p class="s3">Cardano (ADA) Active address usage on the Cardano (ADA) network has increased dramatically by 90% daily. It has been reported that there are now over 1.2 million allocated wallets on the blockchain.</p>
-<p class="s3">The price of ADA has decreased by 5% during the past week. The current price of Cardano is $0.304558. After Cardano (ADA) couldn't break its recent resistance at $0.44, analysts expected $0.32 to be the support. Still, the price of Cardano (ADA) fell further to its current $0.30 alongside the broad cryptocurrency market. Investors believe that if the price of Cardano (ADA) cannot hold the $0.30 price position, then a continuous fall would be expected. </p>
-<p class="s3">Polkadot (DOT) Struggling With Extremely Bearish Market Conditions</p>
-<p class="s3">Polkadot (DOT) is known for its growing development activity on its blockchain, but that hasn&rsquo;t exactly translated to Polkadot (DOT) token price increasing. It&rsquo;s a good thing to have social and dev activity as they are indicators of popularity, but Polkadot (DOT) has been slipping -2.0% over the past week. Currently, Polkadot (DOT) is trading at $5.29.</p>
-<p class="s3">Daily charts show a torrid time for Polkadot (DOT) investors, as indicators pointed to prolonged bearish conditions in succeeding days. Investors may find more value in buying into projects with greater potential to make serious gains.</p>
-<p class="s3">Experts Predict Flasko (FLSK) To Surge 4,000% In The Coming Months</p>
-<p class="s3">Flasko is creating the first alternative investment platform combining non-fungible technology with the rare wines, whiskeys, and champagnes asset class. This allows Flasko NFT holders to take advantage of the potential of alternative investments as a hedge against inflation due to their scarcity and increasing value. </p>
-<p class="s3">Flasko holders also stand to gain exclusive discounts and deals from Flasko-approved partners in the luxury beverages sector on its Flasko Launchpad. </p>
-<p class="s3">With Flasko token prices available at $0.111 and widely predicted by eagle-eyed experts to do a 50x to $5 by 2023, Flasko might very well be the presale event of the season.</p>
-<p class="s3">While Cardano (ADA) and Polkadot (DOT) may have some interesting action in the coming year, experts believe that Flasko will outperform both tokens in price action, considering Flasko is just about to list on Uniswap. Moreover, with its fully-audited smart contract by Solid Proof, locks on platform liquidity for 33 years, and on dev team token allocations (with another 3 years vesting), Flasko has done the necessary to secure its future success.</p>
-<p class="s3">Learn more about the presale event of the year through the following links.</p>
-<p class="s3">Website: https://flasko.io</p>
-<p class="s3">Presale: https://presale.flasko.io</p>
-<p class="s3">Telegram: https://t.me/flaskoio</p>
-<p class="s3">Twitter: https://twitter.com/flasko_io</p>
-<p class="s3">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p class="s3">There&rsquo;s no question that Cardano (ADA) and Polkadot (DOT) are among the most prominent tokens in the industry. Both tokens grew in stature after smart contract platforms were among the most popular investments in the last epic bull run of 2021. However, since then, the market downturn arising from the FTX fallout has seen their values hit yearly all-time lows.</p>
-<p class="s3">Not surprisingly, investors are queuing up for the Flasko presale, a revolutionary alternative investment platform that analysts believe can do a 5,000% increase from its current presale price of $0.111 in the coming year.</p>
-<p class="s3">Cardano (ADA) Continues on its Downward Trend</p>
-<p class="s3">Cardano (ADA) Active address usage on the Cardano (ADA) network has increased dramatically by 90% daily. It has been reported that there are now over 1.2 million allocated wallets on the blockchain.</p>
-<p class="s3">The price of ADA has decreased by 5% during the past week. The current price of Cardano is $0.304558. After Cardano (ADA) couldn't break its recent resistance at $0.44, analysts expected $0.32 to be the support. Still, the price of Cardano (ADA) fell further to its current $0.30 alongside the broad cryptocurrency market. Investors believe that if the price of Cardano (ADA) cannot hold the $0.30 price position, then a continuous fall would be expected. </p>
-<p class="s3">Polkadot (DOT) Struggling With Extremely Bearish Market Conditions</p>
-<p class="s3">Polkadot (DOT) is known for its growing development activity on its blockchain, but that hasn&rsquo;t exactly translated to Polkadot (DOT) token price increasing. It&rsquo;s a good thing to have social and dev activity as they are indicators of popularity, but Polkadot (DOT) has been slipping -2.0% over the past week. Currently, Polkadot (DOT) is trading at $5.29.</p>
-<p class="s3">Daily charts show a torrid time for Polkadot (DOT) investors, as indicators pointed to prolonged bearish conditions in succeeding days. Investors may find more value in buying into projects with greater potential to make serious gains.</p>
-<p class="s3">Experts Predict Flasko (FLSK) To Surge 4,000% In The Coming Months</p>
-<p class="s3">Flasko is creating the first alternative investment platform combining non-fungible technology with the rare wines, whiskeys, and champagnes asset class. This allows Flasko NFT holders to take advantage of the potential of alternative investments as a hedge against inflation due to their scarcity and increasing value. </p>
-<p class="s3">Flasko holders also stand to gain exclusive discounts and deals from Flasko-approved partners in the luxury beverages sector on its Flasko Launchpad. </p>
-<p class="s3">With Flasko token prices available at $0.111 and widely predicted by eagle-eyed experts to do a 50x to $5 by 2023, Flasko might very well be the presale event of the season.</p>
-<p class="s3">While Cardano (ADA) and Polkadot (DOT) may have some interesting action in the coming year, experts believe that Flasko will outperform both tokens in price action, considering Flasko is just about to list on Uniswap. Moreover, with its fully-audited smart contract by Solid Proof, locks on platform liquidity for 33 years, and on dev team token allocations (with another 3 years vesting), Flasko has done the necessary to secure its future success.</p>
-<p class="s3">Learn more about the presale event of the year through the following links.</p>
-<p class="s3">Website: https://flasko.io</p>
-<p class="s3">Presale: https://presale.flasko.io</p>
-<p class="s3">Telegram: https://t.me/flaskoio</p>
-<p class="s3">Twitter: https://twitter.com/flasko_io</p>
-<p class="s3">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Orbeon Protocol (ORBN) Explodes During Pre-Sale While FTX Token (FTT), Ripple (XRP) Become Sluggish]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/orbeon-protocol-orbn-explodes-during-pre-sale-while-ftx-token-ftt-ripple-xrp-become-sluggish</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-152439.png" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-152439.png" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/screenshot-2022-12-15-at-152439.png" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 14:15:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/orbeon-protocol-orbn-explodes-during-pre-sale-while-ftx-token-ftt-ripple-xrp-become-sluggish</guid>
-			  <description><![CDATA[<p class="s7">Seldom do we hear that a new crypto project has been able to make a big impact in the market. However, Orbeon Protocol (ORBN) is one of the rare projects that has stormed crypto enthusiasts and market analysts with its massive 655% growth rate thus far. Meanwhile, projects like FTX Token (FTT) and Ripple (XRP) have fallen to the ground due to current bearish market conditions.</p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s11">FTX Token&rsquo;s (FTT) Volatility Scares Investors</p>
-<p class="s7">FTX Token (FTT) has been experiencing extreme volatility in the last few weeks. While on some days, it has posted an intra-day gain of around 30%, on others, it dipped severely. Noticeably, the price of FTX Token (FTT) has declined by around 95% in just one month. This severe fall has made investors wary about FTX Token&rsquo;s (FTT) stability.</p>
-<p class="s7">FTX Token (FTT) is a centralized, blockchain-powered crypto derivatives exchange. FTX Token (FTT) was developed to offer futures, leveraged tokens, and over-the-counter trading. FTX Token (FTT), launched in 2019, has the main goal of solving the shortcomings of the futures exchanges. FTX Token (FTT) aims to establish itself as one of the best crypto derivatives exchanges. FTT is the native crypto of the FTX Token (FTT) ecosystem.</p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s11">Investors Pumped By Historic Success Of Orbeon Protocol&rsquo;s (ORBN) Pre-Sale</p>
-<p class="s7">Orbeon Protocol (ORBN) is a blockchain-based decentralized platform that caters to the needs of the venture capital and crowdfunding industry. Orbeon Protocol (ORBN) creates digital tokenized versions of shares issued by companies in the form of fractional NFTs, which can be purchased by individual investors for as low as $1. Orbeon Protocol (ORBN) enables businesses to raise funds by offering equity-based NFTs.</p>
-<p class="s7">Orbeon Protocol (ORBN) has disrupted the traditional fundraising process and helps both businesses and investors. For companies, Orbeon Protocol (ORBN) has come up with NFTs-as-service (NFTaas), making the fundraising process quicker and less expensive.</p>
-<p class="s7">Orbeon Protocol (ORBN) offers two major benefits to investors. First, the platform lists only promising real-world companies. Second, the platform eliminates the possibility of scams by integrating a &ldquo;Fill or Kill&rdquo; safety mechanism in its smart contract. The safety mechanism ensures that investors get their invested amount back if the fundraising process fails.</p>
-<p class="s7">ORBN is the native crypto that runs the Orbeon ecosystem, which has four elements: OrbeonExchange, Orbeon Swap, Orbeon Wallet, and Metaverse. ORBN tokens also offer many benefits to holders, including discounts on trading fees, cashback rewards, and the right to vote on key resolutions.</p>
-<p class="s7">The third phase of ORBN tokens&rsquo; pre-sale has begun after the first phase registered a massive success, posting gains of 260%. The trading price of ORBN tokens, which was $0.004 at the time of launch, has now reached $0.0302. It is also expected to reach $0.24 before the pre-sale ends. Market analysts have predicted that the value of ORBN tokens will increase by 6000% during the pre-sale phase.</p>
-<p class="s7"></p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s7"></p>
-<p class="s11">Ripple (XRP) Struggles To Cover Its Losses</p>
-<p class="s7">Ripple (XRP) is a blockchain platform built to facilitate cross-border and cross-platform fund transfers. Ripple&rsquo;s native crypto, XRP, was launched as a faster, cost-effective, and scalable digital asset that can simplify payments. Ripple (XRP) was developed to facilitate exchange between various cryptocurrencies and fiat currencies.</p>
-<p class="s7">Most cryptocurrencies have suffered a loss in value in the last month, and Ripple (XRP) is no exception to that. The price of Ripple (XRP) has fallen by 21% in the last 30 days. In the past week, Ripple&rsquo;s (XRP) price has plunged by 4%. Currently, Ripple (XRP) is being traded at $0.39, which is 90% below its all-time high of $3.84.</p>
-<p>Find Out More About The Orbeon Protocol Presale&nbsp;</p>
-<p class="s16">Website: https://orbeonprotocol.com/</p>
-<p class="s16">Presale: https://presale.orbeonprotocol.com/register</p>
-<p class="s16">Telegram: https://t.me/OrbeonProtocol</p>
-<p class="s17">&nbsp;</p>
-<p class="s7">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p class="s7">Seldom do we hear that a new crypto project has been able to make a big impact in the market. However, Orbeon Protocol (ORBN) is one of the rare projects that has stormed crypto enthusiasts and market analysts with its massive 655% growth rate thus far. Meanwhile, projects like FTX Token (FTT) and Ripple (XRP) have fallen to the ground due to current bearish market conditions.</p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s11">FTX Token&rsquo;s (FTT) Volatility Scares Investors</p>
-<p class="s7">FTX Token (FTT) has been experiencing extreme volatility in the last few weeks. While on some days, it has posted an intra-day gain of around 30%, on others, it dipped severely. Noticeably, the price of FTX Token (FTT) has declined by around 95% in just one month. This severe fall has made investors wary about FTX Token&rsquo;s (FTT) stability.</p>
-<p class="s7">FTX Token (FTT) is a centralized, blockchain-powered crypto derivatives exchange. FTX Token (FTT) was developed to offer futures, leveraged tokens, and over-the-counter trading. FTX Token (FTT), launched in 2019, has the main goal of solving the shortcomings of the futures exchanges. FTX Token (FTT) aims to establish itself as one of the best crypto derivatives exchanges. FTT is the native crypto of the FTX Token (FTT) ecosystem.</p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s11">Investors Pumped By Historic Success Of Orbeon Protocol&rsquo;s (ORBN) Pre-Sale</p>
-<p class="s7">Orbeon Protocol (ORBN) is a blockchain-based decentralized platform that caters to the needs of the venture capital and crowdfunding industry. Orbeon Protocol (ORBN) creates digital tokenized versions of shares issued by companies in the form of fractional NFTs, which can be purchased by individual investors for as low as $1. Orbeon Protocol (ORBN) enables businesses to raise funds by offering equity-based NFTs.</p>
-<p class="s7">Orbeon Protocol (ORBN) has disrupted the traditional fundraising process and helps both businesses and investors. For companies, Orbeon Protocol (ORBN) has come up with NFTs-as-service (NFTaas), making the fundraising process quicker and less expensive.</p>
-<p class="s7">Orbeon Protocol (ORBN) offers two major benefits to investors. First, the platform lists only promising real-world companies. Second, the platform eliminates the possibility of scams by integrating a &ldquo;Fill or Kill&rdquo; safety mechanism in its smart contract. The safety mechanism ensures that investors get their invested amount back if the fundraising process fails.</p>
-<p class="s7">ORBN is the native crypto that runs the Orbeon ecosystem, which has four elements: OrbeonExchange, Orbeon Swap, Orbeon Wallet, and Metaverse. ORBN tokens also offer many benefits to holders, including discounts on trading fees, cashback rewards, and the right to vote on key resolutions.</p>
-<p class="s7">The third phase of ORBN tokens&rsquo; pre-sale has begun after the first phase registered a massive success, posting gains of 260%. The trading price of ORBN tokens, which was $0.004 at the time of launch, has now reached $0.0302. It is also expected to reach $0.24 before the pre-sale ends. Market analysts have predicted that the value of ORBN tokens will increase by 6000% during the pre-sale phase.</p>
-<p class="s7"></p>
-<p>&gt;&gt;BUY ORBEON TOKENS HERE&lt;&lt;</p>
-<p class="s7"></p>
-<p class="s11">Ripple (XRP) Struggles To Cover Its Losses</p>
-<p class="s7">Ripple (XRP) is a blockchain platform built to facilitate cross-border and cross-platform fund transfers. Ripple&rsquo;s native crypto, XRP, was launched as a faster, cost-effective, and scalable digital asset that can simplify payments. Ripple (XRP) was developed to facilitate exchange between various cryptocurrencies and fiat currencies.</p>
-<p class="s7">Most cryptocurrencies have suffered a loss in value in the last month, and Ripple (XRP) is no exception to that. The price of Ripple (XRP) has fallen by 21% in the last 30 days. In the past week, Ripple&rsquo;s (XRP) price has plunged by 4%. Currently, Ripple (XRP) is being traded at $0.39, which is 90% below its all-time high of $3.84.</p>
-<p>Find Out More About The Orbeon Protocol Presale&nbsp;</p>
-<p class="s16">Website: https://orbeonprotocol.com/</p>
-<p class="s16">Presale: https://presale.orbeonprotocol.com/register</p>
-<p class="s16">Telegram: https://t.me/OrbeonProtocol</p>
-<p class="s17">&nbsp;</p>
-<p class="s7">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Avalanche (AVAX) And Shiba Inu (SHIB) Are Losing Momentum, While The Hideaways (HDWY) Is Catching Up]]></title>
-			  <link>https://cryptodaily.co.uk/2022/12/avalanche-avax-and-shiba-inu-shib-are-losing-momentum-while-the-hideaways-hdwy-is-catching-up</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image-2022-12-13-161922.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image-2022-12-13-161922.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/image-2022-12-13-161922.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 15 Dec 2022 14:15:00 +0000</pubDate>
-			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2022/12/avalanche-avax-and-shiba-inu-shib-are-losing-momentum-while-the-hideaways-hdwy-is-catching-up</guid>
-			  <description><![CDATA[<p>Finding a cryptocurrency that may bring you profit in 2023 is very difficult. The recent bankruptcies of prominent crypto entities like BlockFi and FTX caused a chain effect sending nearly all coin prices down. Even popular coins like Avalanche (AVAX) and Shiba Inu(SHIB) are far from their former glory. Still, some crypto experts believe they have found a suitable alternative - The Hideaways! </p>
-<p>Keep reading to see what makes The Hideaways one of the best investments in 2023! </p>
-<p class="s8">Avalanche (AVAX) Holders Become Disinterested</p>
-<p>One of the biggest cryptocurrency exchanges, Coinbase, recently revealed that it has begun offering USDC trading on Avalanche (AVAX). As a result, Avalanche (AVAX) will now support the USDC stablecoin on Coinbase.</p>
-<p>This news made the price of Avalanche (AVAX) see a slight 3% rise in the last week. It is currently trading at $13.88, a drastic 90% drop from its all-time high of $146.22. Given the volatility of the crypto market, Avalanche (AVAX) holders are on the hunt for new projects to recoup their losses. The Hideaways is a perfect choice! </p>
-<p class="s8">Shiba Inu (SHIB) In The Same Situation </p>
-<p>Shiba Inu (SHIB) was based on the Dogecoin (DOGE) meme token, even going as far as branding itself as the "Dogecoin Killer." Unfortunately, that connection is also one of the problems for Shiba Inu (SHIB). </p>
-<p>Shiba Inu (SHIB) has been criticized concerning its real-world applications. And the token's value reflects that, with the coin being worth only $0.00000936. Shiba Inu (SHIB) investors are switching to The Hideaways to yield more profit. </p>
-<p class="s8">The Hideaways (HDWY) Will Dominate The Crypto World In 2023</p>
-<p>As Shiba Inu (SHIB) and Avalanche (AVAX) are facing their troubles, The Hideawayspresale is gaining more attention. Let's see what it offers: </p>
-● The Hideaways will hand-pick properties for the most profit in the future.
-● Exposure to chances for investing in real estate globally.
-● Early investors might earn 40x their money in 2023, thanks to the small market cap.
-<p>The Hideaways will create the first alternative-investment platform where users may purchase fractionalized NFTs secured by lavish properties all over the globe. These properties will earn rental income, which The Hideaways will repay to investors in ETH or USDT. With this unique feature, you may spend as little as $100 to buy real estate and profit from it. </p>
-<p>For those who want a little more bang for their buck, The Hideaways also has a VIP Club! A worldwide concierge, first-class lounge access, exclusive club membership, and more perksare available to Club Hideaway VIP members.</p>
-<p>We must also talk about security. The Hideaways team has permanently sealed liquidity and has completed its audit via Solid Proof! These measures ought to put an end to any rug-pulling ideas.</p>
-<p>The presale is currently worth only $0.10, and experts believe it will reach $4 by June 2023. Invest now and be a part of the $100,000 giveaway that The Hideaways currently offers! </p>
-<p>Website: https://www.thehideaways.io </p>
-<p>Pre-Sale: https://ticket.thehideaways.io/register</p>
-<p>Telegram: https://t.me/thehideawayscrypto</p>
-<p>Twitter: https://twitter.com/hdwycrypto</p>
-<p>Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>Finding a cryptocurrency that may bring you profit in 2023 is very difficult. The recent bankruptcies of prominent crypto entities like BlockFi and FTX caused a chain effect sending nearly all coin prices down. Even popular coins like Avalanche (AVAX) and Shiba Inu(SHIB) are far from their former glory. Still, some crypto experts believe they have found a suitable alternative - The Hideaways! </p>
-<p>Keep reading to see what makes The Hideaways one of the best investments in 2023! </p>
-<p class="s8">Avalanche (AVAX) Holders Become Disinterested</p>
-<p>One of the biggest cryptocurrency exchanges, Coinbase, recently revealed that it has begun offering USDC trading on Avalanche (AVAX). As a result, Avalanche (AVAX) will now support the USDC stablecoin on Coinbase.</p>
-<p>This news made the price of Avalanche (AVAX) see a slight 3% rise in the last week. It is currently trading at $13.88, a drastic 90% drop from its all-time high of $146.22. Given the volatility of the crypto market, Avalanche (AVAX) holders are on the hunt for new projects to recoup their losses. The Hideaways is a perfect choice! </p>
-<p class="s8">Shiba Inu (SHIB) In The Same Situation </p>
-<p>Shiba Inu (SHIB) was based on the Dogecoin (DOGE) meme token, even going as far as branding itself as the "Dogecoin Killer." Unfortunately, that connection is also one of the problems for Shiba Inu (SHIB). </p>
-<p>Shiba Inu (SHIB) has been criticized concerning its real-world applications. And the token's value reflects that, with the coin being worth only $0.00000936. Shiba Inu (SHIB) investors are switching to The Hideaways to yield more profit. </p>
-<p class="s8">The Hideaways (HDWY) Will Dominate The Crypto World In 2023</p>
-<p>As Shiba Inu (SHIB) and Avalanche (AVAX) are facing their troubles, The Hideawayspresale is gaining more attention. Let's see what it offers: </p>
-● The Hideaways will hand-pick properties for the most profit in the future.
-● Exposure to chances for investing in real estate globally.
-● Early investors might earn 40x their money in 2023, thanks to the small market cap.
-<p>The Hideaways will create the first alternative-investment platform where users may purchase fractionalized NFTs secured by lavish properties all over the globe. These properties will earn rental income, which The Hideaways will repay to investors in ETH or USDT. With this unique feature, you may spend as little as $100 to buy real estate and profit from it. </p>
-<p>For those who want a little more bang for their buck, The Hideaways also has a VIP Club! A worldwide concierge, first-class lounge access, exclusive club membership, and more perksare available to Club Hideaway VIP members.</p>
-<p>We must also talk about security. The Hideaways team has permanently sealed liquidity and has completed its audit via Solid Proof! These measures ought to put an end to any rug-pulling ideas.</p>
-<p>The presale is currently worth only $0.10, and experts believe it will reach $4 by June 2023. Invest now and be a part of the $100,000 giveaway that The Hideaways currently offers! </p>
-<p>Website: https://www.thehideaways.io </p>
-<p>Pre-Sale: https://ticket.thehideaways.io/register</p>
-<p>Telegram: https://t.me/thehideawayscrypto</p>
-<p>Twitter: https://twitter.com/hdwycrypto</p>
-<p>Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
 			</item>
 					
 	</channel>
