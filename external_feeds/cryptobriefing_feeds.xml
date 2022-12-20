@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Fri, 16 Dec 2022 19:27:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Dec 2022 22:55:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Auto-Payments on Ethereum? Visa Says it’s Possible</title>
+		<link>https://cryptobriefing.com/auto-payments-on-ethereum-visa-says-its-possible/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 19 Dec 2022 22:55:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Self-custody]]></category>
+		<category><![CDATA[Visa]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123309</guid>
+
+					<description><![CDATA[Visa is trying to get auto-payments on Ethereum by creating a new type of walleta process the company calls account abstraction. Mixing Wallets and Smart Contracts Visa is looking at...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/10/13144623/visa-838x440.png" width="838" height="440" />	</item>
+		<item>
 		<title>Raydium Exploiter Drains Millions from Liquidity Pools</title>
 		<link>https://cryptobriefing.com/raydium-exploiter-drains-millions-from-liquidity-pools/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -506,21 +523,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/18081054/sam-scb-cover-2-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Genesis Sought $1B Loan Before Halting Redemptions</title>
-		<link>https://cryptobriefing.com/genesis-sought-1b-loan-before-halting-redemptions/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 23:24:14 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Genesis]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=122958</guid>
-
-					<description><![CDATA[Early this week, crypto lending firm Genesis sought a $1 billion emergency loan from investors without success before halting withdrawals Wednesday. Genesis Sought Emergency Loan Genesis Global Trading sought an...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/17181942/money-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
