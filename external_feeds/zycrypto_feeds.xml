@@ -12,7 +12,7 @@
 	<atom:link href="https://zycrypto.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zycrypto.com/category/news/</link>
 	<description>ZyCrypto Is A Cryptocurrency News Media, Focusing On Daily News, Expert Opinions, Analysis, Reviews, And So Much More.</description>
-	<lastBuildDate>Wed, 21 Dec 2022 09:39:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Dec 2022 21:40:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,583 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Polygon Scalability Upgrade zkEVM Announces Final Testnet: Here Is What You Need to Know</title>
+		<link>https://zycrypto.com/polygon-scalability-upgrade-zkevm-announces-final-testnet-here-is-what-you-need-to-know/</link>
+					<comments>https://zycrypto.com/polygon-scalability-upgrade-zkevm-announces-final-testnet-here-is-what-you-need-to-know/#respond</comments>
+		
+		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 21:40:38 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[MATICUSD]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76700</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon NFTs Finally Coming To Over 1.4 Billion Instagram Users — MATIC Primed For Huge Boost" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Polygon launched the last testnet before the rollout of the zkEVM scalability solution, which bundles transactions to increase speed and reduce gas fees.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon NFTs Finally Coming To Over 1.4 Billion Instagram Users — MATIC Primed For Huge Boost" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>The testnet is currently undergoing an audit to remove bugs and possible vulnerabilities.</li>
+
+
+
+<li>Polygon zkEVM is touted as the highest level of scalability for Ethereum.</li>
+</ul>
+
+
+
+<p>Polygon launched the last testnet before the rollout of the zkEVM scalability solution, which bundles transactions to increase speed and reduce gas fees. The layer-2 network has also announced an audit of the platform.</p>
+
+
+
+<p>&#8220;<em>Researchers at Polygon are introducing the pioneering use of recursion in a zkEVM, resulting in batch aggregation. In addition, an optimized prover now generates proofs for a batch in under 4 minutes (down from 10,)</em>&#8221; the company wrote on its official website.</p>
+
+
+
+<p>The testnet has incorporated all the required features of zkEVM for the final deployment. It enables Polygon zkEVM to confirm a batch of ZK proofs – where each will track multiple transactions. According to the announcement, bundling many transactions into a single proof is the top level of scalability with equivalence to the EVM.</p>
+
+
+
+<h2 id="h-zkevm-public-testnet-milestone-and-its-relevance-in-defi"><strong>ZkEVM Public Testnet Milestone And Its Relevance In DeFi</strong></h2>
+
+
+
+<p>Termed the ‘holy grail’ of scalability, Polygon <a href="https://zycrypto.com/matic-primed-for-huge-shakeup-as-polygon-records-huge-milestone-for-ethereum-scaling-with-zkevm/">announced zkEVM</a> public testnet on October 10, 2022. The testnet, according to the developers, has attracted interest from notable EVM-based DeFi protocols like Aave.</p>
+
+
+
+<p>While launching the testnet, the layer 2 network said integrating Zero-Knowledge proofs with Ethereum Virtual Machine was the most challenging step. It noted that testnet could prove that zkEVM generates ZK proofs within its EVM-equivalent environment.</p>
+
+
+
+<p>During the launch, Polygon added that it needed to achieve the top level of EVM compatibility to reach type-2 EVM compatibility, where Polygon zkEVM would be like Ethereum from within. Currently, the scalability upgrade is limited in speed and capacity.</p>
+
+
+
+<p>Polygon says the public testnet would enable it to &#8220;<em>debug, stabilize, and get ready for audits before the mainnet launch.</em>&#8220;</p>
+
+
+
+<p>ZkEVM is a layer 2 construction on Ethereum that addresses scalability with mass transfers merged into a single transaction. The platform&#8221; <em>records the validity and correctness of bundled transactions on the Ethereum blockchain.</em>&#8221; In addition, the blockchain enhances the network&#8217;s speed by keeping only the transfer&#8217;s proofs and the bundled data.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/polygon-scalability-upgrade-zkevm-announces-final-testnet-here-is-what-you-need-to-know/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Not A Single Mention of Cardano, Pretty Low,&#8221; says Hoskinson on Coinbase&#8217;s 2023 Market Outlook Report</title>
+		<link>https://zycrypto.com/not-a-single-mention-of-cardano-pretty-low-says-hoskinson-on-coinbases-2023-market-outlook-report/</link>
+					<comments>https://zycrypto.com/not-a-single-mention-of-cardano-pretty-low-says-hoskinson-on-coinbases-2023-market-outlook-report/#respond</comments>
+		
+		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 21:28:46 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[ADAUSD]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76698</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Historically Accurate Cardano On-Chain Metrics Suggest ADA Price Could Triple In Near Term" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Charles Hoskinson, Cardano’s co-founder and CEO of IOHK, has taken a swipe at Coinbase for leaving Cardano out in its “2023 Crypto Market Outlook” report to institutional clients.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Historically Accurate Cardano On-Chain Metrics Suggest ADA Price Could Triple In Near Term" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Charles Hoskinson, Cardano’s co-founder and CEO of IOHK, has taken a swipe at <a href="https://zycrypto.com/coinbase-waives-usdt-to-usdc-conversion-fees-shortly-after-binance-ditched-usdc/">Coinbase</a> for leaving Cardano out in its “2023 Crypto Market Outlook” report to institutional clients.</p>
+
+
+
+<p>The report, which sought to expound how the dramatic events of 2022 will shape the crypto landscape for years to come, apparently left out Cardano, one of the largest crypto networks in the ecosystem, choosing to discuss only Bitcoin and Ethereum.</p>
+
+
+
+<p>Following the report, Hoskinson tweeted, <em>“Not a single mention of Cardano. Pretty low and pretty sad. I honestly expected better.”</em></p>
+
+
+
+<p>The tweet sparked mixed reactions, with a significant number of observers bashing Coinbase for willful neglect.</p>
+
+
+
+<p><em>“I was recently curious why NEWS and COMMUNITY UPDATES on Coinbase, under Cardano,</em> are out of date. Is that Coinbase&#8217;s job to keep it updated? How come Solana has recent news?” one follower replied, referring to the exchange’s community updates section, which has continued to post other coins, leaving out Cardano since October.</p>
+
+
+
+<p>Others chose to support Hoskinson by sharing <a href="https://zycrypto.com/cardano-reigns-as-the-most-developed-crypto-asset-as-ada-leaps-forward/">Cardano’s milestones</a>. Cardano Foundation, the Swiss non-profit promoting the Cardano protocol&#8217;s growth, outlined some Cardano highlights for 2022. In a thread of tweets, the foundation noted that the Cardano ecosystem had experienced explosive on-chain growth. As of Dec 21, there were 3.80M Cardano wallets, of which 1.2m are delegated, marking a 47% increase from last year. Transactions count on the network also shot by 139% to 56.9M in the same period.</p>
+
+
+
+<p>Notably, in September, the Cardano team executed the Vasil upgrade, which promised to improve the scalability and smart contract functionality of the Cardano network. Although we are yet to see an explosion in Cardano DeFi due to the upgrade, experts believe things could change in 2023.</p>
+
+
+
+<p>The Cardano team has been working on Cardano Improvement Proposal (CIP) 1694, an upgrade that will lay the foundation for community governance and self-sustainability for the Cardano ecosystem. Through the proposal, Cardano is set to become fully decentralized <em>“so much so that even IOHK, Emurgo and Cardano foundation cant be making all the decisions,”</em> according to crypto-focussed YouTuber Cryptorus.</p>
+
+
+
+<p>In the past year, the Cardano foundation also strengthened its mission and core values by partnering and collaborating with more than ten leading institutions worldwide, including the National Wine Agency of Georgia and the UNHCR.</p>
+
+
+
+<p>ADA whale, a Twitter service that specialises in providing community updates on the Cardano ecosystem, also announced that it would be starting a new series called “LatestOnCardano” to cover news on Cardano’s vibrant ecosystem, which often goes unreported.</p>
+
+
+
+<p><em>“In this series, I highlight base layer upgrades, statistics, dapps, SPOs, NFTs, governance and community. All things Cardano. Irregular but hopefully frequent,”</em> wrote ADAwhale.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/not-a-single-mention-of-cardano-pretty-low-says-hoskinson-on-coinbases-2023-market-outlook-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Still Bullish: Billionaire Money Manager Bill Miller Maintains View Bitcoin Will Rise Again Despite FTX Chaos</title>
+		<link>https://zycrypto.com/still-bullish-billionaire-money-manager-bill-miller-maintains-view-bitcoin-will-rise-again-despite-ftx-chaos/</link>
+					<comments>https://zycrypto.com/still-bullish-billionaire-money-manager-bill-miller-maintains-view-bitcoin-will-rise-again-despite-ftx-chaos/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 20:58:53 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76695</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Still Bullish: Billionaire Money Manager Bill Miller Maintains View Bitcoin Will Rise Again Despite FTX Chaos" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Veteran investor Bill Miller is talking bitcoin again. Miller, who has managed billions of dollars worth of funds and allocated 1% of his net worth to Bitcoin, told Barron recently bitcoin has performed incredibly well in recent weeks despite the fallout from the industry-shaking collapse of Sam Bankman-Fried’s FTX exchange.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Still Bullish: Billionaire Money Manager Bill Miller Maintains View Bitcoin Will Rise Again Despite FTX Chaos" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Still-Bullish-Billionaire-Money-Manager-Bill-Miller-Maintains-View-Bitcoin-Will-Rise-Again-Despite-FTX-Chaos-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Veteran investor Bill Miller is talking bitcoin again. Miller, who has managed billions of dollars worth of funds and <a href="https://zycrypto.com/bitcoin-is-insurance-against-financial-catastrophe-asserts-billionaire-investor-bill-miller/">allocated 1%</a> of his net worth to Bitcoin, told <em>Barron </em>recently bitcoin has performed incredibly well in recent weeks despite the fallout from the industry-shaking collapse of Sam Bankman-Fried’s FTX exchange. While some may expect the FTX downfall to prolong the crypto winter, the mutual fund titan remains optimistic about the performance of the benchmark cryptocurrency in the future.</p>
+
+
+
+<h2><strong>Bitcoin’s Resilience Is ‘Pretty Remarkable’</strong></h2>
+
+
+
+<p>What a year for the crypto market.</p>
+
+
+
+<p>Few could have foreshadowed that Bitcoin’s parabolic bull run — which began in late 2020 and pulled the entire market up by its bootstraps — would have run out of steam and obliterated practically all of its gains.</p>
+
+
+
+<p>Still, in a year that saw an industry-wide liquidity crisis sparked by the implosion of the Terra ecosystem, FTX’s insolvency, and the subsequent contagion, famed fund manager Bill Miller believes bitcoin is holding up well. Miller noted that though the scenario is far from exuberant, with many investors and traders leaving the market, he expected the top cryptocurrency to perform way worse.</p>
+
+
+
+<p><em>“I’m surprised Bitcoin isn’t at half of its current price, given the FTX implosion. People have fled the space, so the fact that it’s still hanging in there at $17,000 is pretty remarkable.</em>&#8220;</p>
+
+
+
+<p>While the present price levels are painfully low compared to the all-time highs about a year ago, it’s still too early to call a long-lasting bearish shift in sentiment, the billionaire investor insinuated. He explained that “inflation is being attacked, and real rates are rising rapidly. I would expect that if and when the Federal Reserve begins to pivot, Bitcoin would do quite well.”&nbsp;</p>
+
+
+
+<p>Of late, the Fed has hiked rates at an unprecedented pace to suppress inflation. With inflation slowing, Fed’s benchmark interest rates will continue to stay elevated for a while but perhaps with less aggressive hikes.</p>
+
+
+
+<h2 id="h-miller-endorses-bitcoin-as-digital-gold"><strong>Miller Endorses Bitcoin As Digital Gold</strong></h2>
+
+
+
+<p>Bill Miller subscribes to the well-documented paradigm that likens Bitcoin to “digital gold”. Notably, unlike many of his Wall Street contemporaries like <a href="https://zycrypto.com/warren-buffett-says-he-will-never-own-any-cryptocurrency-because-they-have-zero-value/">Warren Buffett</a>, Miller has been a keen investor in the crypto space.</p>
+
+
+
+<p>Bitcoin fans say it was created to serve as the ultimate store of value that is not reliant on any centralized power and is efficient thanks to blockchain technology.</p>
+
+
+
+<p>Miller also shared his perspective on altcoins, noting that they can be “lumped together in the category of venture speculation”. The billionaire added that most of them will eventually fail before advising investors to allocate at least 1% of their portfolio to bitcoin.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/still-bullish-billionaire-money-manager-bill-miller-maintains-view-bitcoin-will-rise-again-despite-ftx-chaos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Twitter Shows Support For Bitcoin and Ether, Adds Price Indexes To Search</title>
+		<link>https://zycrypto.com/twitter-shows-support-for-bitcoin-and-ether-adds-price-indexes-to-search/</link>
+					<comments>https://zycrypto.com/twitter-shows-support-for-bitcoin-and-ether-adds-price-indexes-to-search/#respond</comments>
+		
+		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 16:42:17 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[ETHUSD]]></category>
+		<category><![CDATA[ETHUSDT]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76688</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin, Ethereum Primed For Bullish Boost As Brazil’s Largest Broker Opens Trading" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Virtual assets have recorded gains this year in terms of recognition from top companies showing signs of more adoption from the centralized and the corporate world. Twitter has rolled out a new feature to enable users to view top financial assets&#8217; prices and related data compromising stocks and cryptocurrencies. The new $Cashtags improvement works with [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin, Ethereum Primed For Bullish Boost As Brazil’s Largest Broker Opens Trading" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Bitcoin-Ethereum-Primed-For-Bullish-Boost-As-Brazils-Largest-Broker-Opens-Trading-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>Social media giant Twitter adds price indexes to stocks and other top financial assets.</li>
+
+
+
+<li>BTC and ETH make the list of cryptocurrencies added to the search feature; however, DOGE was surprisingly left out.</li>
+
+
+
+<li>Crypto enthusiasts laud Elon Musk and his team for the new feature saying digital assets are now getting required recognition.</li>
+</ul>
+
+
+
+<p>Virtual assets have recorded gains this year in terms of recognition from top companies showing signs of more adoption from the centralized and the corporate world.</p>
+
+
+
+<p>Twitter has rolled out a new feature to enable users to view top financial assets&#8217; prices and related data compromising stocks and cryptocurrencies. The new $Cashtags improvement works with users imputing the full name of assets or tickers in the search icon.</p>
+
+
+
+<p>While the feature supports a wide range of stocks, it currently has room for only two digital assets, Bitcoin (BTC) and Ethereum (ETH). BTC and ETH are the largest cryptocurrencies by market cap and popularity and it is no surprise that they are the first digital assets to be incorporated in the $Cashtags feature.</p>
+
+
+
+<p>The feature left out Elon <a href="https://zycrypto.com/elon-musk-mulls-resigning-as-ceo-of-twitter-whats-next-for-dogecoin/">Musk’s backed Dogecoin</a> (DOGE), which was a huge disappointment to DOGE fans who believed their asset to take the center stage on Twitter activities.</p>
+
+
+
+<p>Twitter Business account, which announced the update, later added that the feature which lets users see real-time charts and data will be expanded to improve user experience “<em>in the coming weeks.”</em></p>
+
+
+
+<p>Twitter CEO Elon Musk has hailed the announcement, stating it is “<em>one of many product improvements coming to financial Twitter.&#8221;</em></p>
+
+
+
+<p>A closer review of the feature shows that variations of ETH and BTC like ‘BTC price’, ‘$Bitcoin price’ and &#8216;$Eth price’ will also pop up the price charts and data.</p>
+
+
+
+<p>The charts used in the feature are provided by TradingView and Robinhood in real-time.</p>
+
+
+
+<h2 id="h-crypto-has-a-friend-on-twitter"><strong>Crypto has a friend on Twitter</strong></h2>
+
+
+
+<p>Crypto users see Twitter as one of their biggest allies, and the reason for this is not far-fetched. Since the Musk acquisition in October, Twitter has become more Twitter-friendly, with users anticipating more crypto-enabled use cases.</p>
+
+
+
+<p>This month, Musk gave Twitter users a glimpse of the proposed Twitter 2.0, which among other things, will incorporate cryptocurrency payments to the delight of users. As Twitter continues to be crypto-friendly, rumours have clouded crypto spaces of a “Twitter Coin” to be launched by the platform.</p>
+
+
+
+<p>Musk continues to be invested in digital assets, particularly DOGE leading to the <a href="https://zycrypto.com/dogecoin-takes-biggest-hit-falls-18-following-elon-musks-twitter-poll/">nosedive</a> the asset faced following the poll results for Musk to step aside as CEO.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/twitter-shows-support-for-bitcoin-and-ether-adds-price-indexes-to-search/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto Miners Are Feeling The Pinch Of High Energy Prices And Slump In Crypto Prices</title>
+		<link>https://zycrypto.com/crypto-miners-are-feeling-the-pinch-of-high-energy-prices-and-slump-in-crypto-prices/</link>
+					<comments>https://zycrypto.com/crypto-miners-are-feeling-the-pinch-of-high-energy-prices-and-slump-in-crypto-prices/#respond</comments>
+		
+		<dc:creator><![CDATA[Isa Nsereko]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 16:33:53 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76686</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kazakhstan Could Be Turning Its Back On Bitcoin Miners But Hashrates Are At An All-Time High" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The crypto mining profitability has been adversely impacted by the challenges facing the crypto industry in 2022. Crypto mining generally refers to the process by which cryptocurrencies generate new coins and verify new transactions onto the blockchain. The blockchain in turn, rewards the miners with new coins for maintaining and securing the blockchain. The reward [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kazakhstan Could Be Turning Its Back On Bitcoin Miners But Hashrates Are At An All-Time High" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/03/Kazakhstan-Could-Be-Turning-Its-Back-On-Bitcoin-Miners-But-Hashrates-Are-At-An-All-Time-High-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The <a href="https://zycrypto.com/governor-hochul-signs-law-banning-new-proof-of-work-crypto-mining-in-new-york/">crypto mining</a> profitability has been adversely impacted by the challenges facing the crypto industry in 2022. Crypto mining generally refers to the process by which cryptocurrencies generate new coins and verify new transactions onto the blockchain. The blockchain in turn, rewards the miners with new coins for maintaining and securing the blockchain. The reward of new coins incentives miners to dedicate more computing power to secure the blockchain.</p>
+
+
+
+<p>Among the factors that impact the profitability of crypto mining is the capital expenditure mainly for the mining equipment, operating expenditure to cover energy and maintenance costs, and the cryptocurrency price. 2022 has by far witnessed declining crypto prices and soaring energy prices, which have adversely affected crypto miners&#8217; profitability.</p>
+
+
+
+<p>In September 2022, Compute North, a crypto miner, filed for Chapter 11 bankruptcy because of slumping bitcoin crypto prices, rising power costs and the record difficulty in mining bitcoin. Difficulty refers to a measure of how hard it is to mine a block on the network. An algorithm on the Bitcoin network automatically sets the target for the difficulty of mining a new block. A higher difficulty target results in lower profitability of the mining rig.</p>
+
+
+
+<p>In a December 12, 2022 press release to the London Stock Exchange, the Bitcoin mining firm Argo Blockchain announced that it was in advanced negotiations with a third party to sell some of its assets and had engaged in an equipment financing transaction to strengthen its balance sheet and improve its liquidity. The company, however, gave no assurance that it could avoid a Chapter 11 bankruptcy filing. Soaring energy prices and the slump in bitcoin prices impacted the company’s operations.</p>
+
+
+
+<p>On December 21, 2022, Core Scientific, another large <a href="https://zycrypto.com/are-fears-of-bitcoin-miners-selling-pressure-overblown-this-expert-thinks-so/">Bitcoin miner</a>, filed for bankruptcy in Texas on account of rising energy costs and low bitcoin prices. Core Scientific is also said to have suffered from the bankruptcy of some of its key clients, like the Celsius Network, which filed for bankruptcy in July 2022. The company plans to keep operations ongoing as it attempts to reach a deal with its lenders and creditors.</p>
+
+
+
+<p>Crypto miners have had to search for inexpensive energy sources to maintain the profitability of their mining operations. The high energy prices and low crypto prices seen in 2022 have driven some crypto miners out of business.</p>
+
+
+
+<p>Crypto miners need to determine the threshold cryptocurrency price and processing power (hash rate) at which they can profitably mine. In a bear market, crypto miners will seek newer and more energy-efficient models or join mining pools to improve profitability.</p>
+
+
+
+<p>Bitcoin continues to trade under $17,000 as of press time, down from around $46,000 at the start of 2022.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/crypto-miners-are-feeling-the-pinch-of-high-energy-prices-and-slump-in-crypto-prices/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto Will Trigger Next Financial Crisis If It’s Not Totally Banned, Warns Indian Central Bank Chief</title>
+		<link>https://zycrypto.com/crypto-will-trigger-next-financial-crisis-if-its-not-totally-banned-warns-indian-central-bank-chief/</link>
+					<comments>https://zycrypto.com/crypto-will-trigger-next-financial-crisis-if-its-not-totally-banned-warns-indian-central-bank-chief/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 16:21:12 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[India]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76684</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="India Will Start Testing ‘E-Rupee’ Digital Currency On November 1" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Shaktikanta Das, the governor of the Reserve Bank of India, has made fresh comments against cryptocurrencies.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="India Will Start Testing ‘E-Rupee’ Digital Currency On November 1" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/India-Will-Start-Testing-‘E-Rupee-Digital-Currency-On-November-1-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Shaktikanta Das, the governor of the Reserve Bank of India, has made fresh comments against cryptocurrencies. The governor forecasted on Wednesday that the next financial crisis will come from crypto assets if they grow instead of enacting an all-encompassing ban.</p>
+
+
+
+<h2 id="h-rbi-governor-on-crypto-causing-next-financial-crisis"><strong>RBI Governor On Crypto Causing Next Financial Crisis</strong></h2>
+
+
+
+<p>India’s central bank appears set on its anti-crypto stance.</p>
+
+
+
+<p>The Reserve Bank of India’s governor Shaktikanta Das made fresh scathing comments against crypto on December 21 while <a href="https://www.youtube.com/watch?v=rO8VEN76L1o&amp;ab_channel=CNBC-TV18">speaking </a>at the Business Standard BFSI Insight Summit. Das opined that private cryptocurrencies such as bitcoin and ethereum are a financial threat, citing the recent collapse of crypto exchange FTX as an example. He thus suggests they shouldn’t be allowed to grow.</p>
+
+
+
+<p><em>“Our view is that it should be prohibited because if you try to regulate it and allow it to grow, please mark my words the next financial crisis will come from private cryptocurrencies,&#8221; Das stated. &#8220;They have no underlying value. They have huge inherent risks for our macroeconomic and financial stability. I am yet to hear any credible argument about what public good or what public purpose it serves.&#8221;</em></p>
+
+
+
+<p>The comments from the RBI governor have made it crystal clear that the Indian central bank will maintain its long-standing disapproval of the budding asset class. Since 2013, the apex bank has warned investors against investing in cryptocurrencies through public notices. In 2018, the bank forbade commercial banks from servicing crypto firms, but India’s Supreme Court overturned the ban in March 2020.</p>
+
+
+
+<h2><strong>India Pushes Ahead With CBDC</strong></h2>
+
+
+
+<p>Das’s remarks come as the Indian Central bank strives to release its central bank digital currency, the digital rupee. Having<a href="https://zycrypto.com/india-will-start-testing-e-rupee-digital-currency-on-november-1/"> tested the wholesale usage of the e-rupee</a> on November 1, the RBI launched a pilot program for the retail CBDC on December 1 with the initial participation of four banks, including the State Bank of India, ICICI Bank, Yes Bank, and IDFC First Bank.</p>
+
+
+
+<p>India is likely feeling the pressure of China’s CBDC rollout, which is gradually extending and has spurred a heated debate among legislators in the United States about whether the sovereignty of the dollar as the world’s reserve currency is at risk.</p>
+
+
+
+<p>That said, India’s hostile crypto stance and <a href="https://zycrypto.com/heavy-taxation-could-kill-indias-cryptocurrency-market-binance-ceo-warns/">hefty taxes</a> make it difficult for businesses to operate within the world’s second most populous nation. It’s no wonder the country has experienced a crazy brain drain situation in recent years.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/crypto-will-trigger-next-financial-crisis-if-its-not-totally-banned-warns-indian-central-bank-chief/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cardano&#8217;s Hoskinson Says, “XRP Provides No Partnership or Technical Value&#8221;</title>
+		<link>https://zycrypto.com/cardanos-hoskinson-says-xrp-provides-no-partnership-or-technical-value/</link>
+					<comments>https://zycrypto.com/cardanos-hoskinson-says-xrp-provides-no-partnership-or-technical-value/#respond</comments>
+		
+		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 19:30:08 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[XRP News]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[XRPUSDT]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76650</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Lawsuit: Attorney Reveals Ripple&#039;s Biggest Danger In SEC Case As It Edges Towards Gigantic Win" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The founder of Cardano has made some notable comments, denoting his thoughts on the Ripple network and its native token, XRP.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Lawsuit: Attorney Reveals Ripple&#039;s Biggest Danger In SEC Case As It Edges Towards Gigantic Win" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/XRP-Lawsuit-Attorney-Reveals-Ripples-Biggest-Danger-In-SEC-Case-As-It-Edges-Towards-Gigantic-Win-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The founder of <a href="https://zycrypto.com/cardano-centered-stablecoin-djed-set-to-debut-in-january-ada-poised-for-rapid-adoption/">Cardano</a> has made some notable comments, denoting his thoughts on the Ripple network and its native token, XRP. In a response tweet to being called out for distancing himself from the Ripple community, he set the record straight on his views about Ripple. </p>
+
+
+
+<h2 id="h-charles-hoskinson-permanently-cut-ties-with-the-ripple-community"><strong>Charles Hoskinson permanently cut ties with the Ripple community&nbsp;</strong></h2>
+
+
+
+<p><em>“There is no point inviting toxicity into your life. It&#8217;s abusive and pointless. Even in saying it now there are mocking baby memes. Life is too short. Move on and cut it out. XRP provides no partnership or technical value. The community is toxic and petty. I can live without it,”</em> he explained. </p>
+
+
+
+<p>Prior to this, Hoskinson had been receiving backlash from the XRP community after what he clarifies was a &#8220;misunderstanding&#8221; began to spread around.</p>
+
+
+
+<p>In a recent Twitter live, he addressed the misinformation, clarifying that he only mentioned that the SEC vs Ripple <a href="https://zycrypto.com/xrp-army-gleeful-as-rumors-of-secs-lawsuit-against-ripple-wrapping-up-next-week-swirl/">lawsuit might end</a> on the 15th of December because a trustworthy insider source made it known. He added that Cardano and Ripple had built partnerships in the past and that he was always positive to the Ripple community.</p>
+
+
+
+<p>He went over the ongoing Ripple case, explaining how he believes that Ethereum might have been given fair treatment from the SEC, but that could also give Ripple the upper hand.</p>
+
+
+
+<p>His comment reads ;&nbsp;</p>
+
+
+
+<p><em>“There is no evidence that the SEC was bribed to go after Ripple, the conspiracy there is just senseless, and also if you believe Ethereum got a free pass why is that not good for ripple? because it gives you ammunition in the case to argue that XRP is not a security,&nbsp; based upon the decisions made about Ethereum. It makes no sense to me.”&nbsp;</em></p>
+
+
+
+<p>He maintained that he’d make no comments on Ripple moving forward. He also added that if he were invited to any panel that included a member of the Ripple community, he’d sit it out. He explains that he’s making a choice to steer clear of Ripple in hopes that it resolves the online harassment and misunderstanding from community members.</p>
+
+
+
+<p><em>&#8220;It makes no sense to me commenting on that should not make me public enemy number one commenting on things I’ve heard is rumors that I prefaced as rumors and then calling me a liar afterwards is again beyond the pale so no comment moving forward no engagement moving forward.&#8221;</em> He added.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/cardanos-hoskinson-says-xrp-provides-no-partnership-or-technical-value/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sam Bankman-Fried Set To Return To The U.S. Wednesday After Signing Extradition Papers</title>
+		<link>https://zycrypto.com/sam-bankman-fried-set-to-return-to-the-u-s-wednesday-after-signing-extradition-papers/</link>
+					<comments>https://zycrypto.com/sam-bankman-fried-set-to-return-to-the-u-s-wednesday-after-signing-extradition-papers/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 19:22:57 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[FTX]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76647</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sam Bankman-Fried Set To Return To The U.S. Wednesday After Signing Extradition Papers" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The next chapter in the stunning fall of disgraced FTX ex-CEO Sam Bankman-Fried is about to commence as...]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sam Bankman-Fried Set To Return To The U.S. Wednesday After Signing Extradition Papers" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-Set-To-Return-To-The-U.S.-Wednesday-After-Signing-Extradition-Papers-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The next chapter in the stunning fall of disgraced FTX ex-CEO Sam Bankman-Fried is about to commence as reports indicate that he is a step closer to returning to American soil to answer to criminal charges after signing the necessary paperwork.</p>
+
+
+
+<h2 id="h-update-the-bahamas-to-send-bankman-fried-to-the-u-s-wednesday"><strong>Update: The Bahamas To Send Bankman-Fried To The U.S. Wednesday</strong></h2>
+
+
+
+<p>Former CEO of now-defunct cryptocurrency exchange FTX, Sam Bankman-Fried, will be extradited to the United States today.</p>
+
+
+
+<p>According to <a href="https://www.nbcnews.com/business/business-news/ftx-founder-sam-bankman-fried-agrees-extradition-crypto-fraud-case-rcna62513"><em>NBC News</em></a>, Bankman-Fried signed papers on December 20 that began his extradition process. The move was anticipated as he was said to have agreed in principle on Monday to being extradited to the U.S., despite earlier reports claiming he was planning to challenge extradition.</p>
+
+
+
+<p>He is set to appear in court on Wednesday morning to continue the extradition process. The Bahamas Department of Correctional Services confirmed the coming departure.</p>
+
+
+
+<p><em>“He left from here in good spirits. He was a happy, jolly person,” Doan Cleare, the acting commissioner of corrections at Fox Hill Prison in The Bahamas told The Tribune.</em></p>
+
+
+
+<p>Bankman-Fried will be flown to the U.S. the same day on federal aircraft. He is facing a host of charges, including wire fraud, securities fraud and money laundering, in an indictment by the U.S. Attorney for the Southern District of New York. Prosecutors also allege that the crypto mogul misused customer funds and misled investors. If found guilty on all counts, the former FTX executive could spend the rest of his life behind bars.</p>
+
+
+
+<p>Bankman-Fried was <a href="https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/">apprehended </a>by Bahamian police a month after FTX’s bankruptcy filing. His request for bail was denied by Bahamas Chief Magistrate JoyAnn Ferguson-Pratt, who believed the former crypto poster child was a flight risk. The New York Post <a href="https://www.nytimes.com/2022/12/20/technology/sam-bankman-fried-bail.html">reported </a>that his legal team is in talks with prosecutors to allow him to be released on bail after he is extradited to the U.S.</p>
+
+
+
+<p>Bankman-Fried recently <a href="https://www.youtube.com/watch?t=774&amp;v=6DezodR9hNI&amp;feature=youtu.be&amp;ab_channel=TiffanyFong">admitted </a>that he donated to both Democrat and Republican candidates. Notably, the pro-Democratic Senate Majority PAC <a href="https://www.cnbc.com/2022/12/20/ftx-democrats-senate-majority-pac-to-return-bankman-fried-donations.html">announced </a>yesterday that it&#8217;s looking to return $3 million in donations from the FTX founder. Former Texas Democratic candidate for governor Beto O’Rourke last month returned the $1 million contribution he received from Bankman-Fried.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/sam-bankman-fried-set-to-return-to-the-u-s-wednesday-after-signing-extradition-papers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 Reasons P2P Crypto Exchange Paxful Just Removed Ethereum From Its Platform</title>
+		<link>https://zycrypto.com/3-reasons-p2p-crypto-exchange-paxful-just-removed-ethereum-from-its-platform/</link>
+					<comments>https://zycrypto.com/3-reasons-p2p-crypto-exchange-paxful-just-removed-ethereum-from-its-platform/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 19:14:47 +0000</pubDate>
+				<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=76644</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="3 Reasons P2P Crypto Exchange Paxful Just Removed Ethereum From Its Platform" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Peer-to-peer bitcoin marketplace Paxful has removed Ethereum (ETH) from its platform. "Revenue is nice, but integrity trumps all," founder and CEO Ray Youssef said while announcing the shocking delisting.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="3 Reasons P2P Crypto Exchange Paxful Just Removed Ethereum From Its Platform" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/3-Reasons-P2P-Crypto-Exchange-Paxful-Just-Removed-Ethereum-From-Its-Platform-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Peer-to-peer bitcoin marketplace Paxful has removed <a href="https://zycrypto.com/ethereums-co-founder-vitalik-buterin-discloses-three-landmark-opportunities-for-crypto-in-2023/">Ethereum (ETH)</a> from its platform. &#8220;Revenue is nice, but integrity trumps all,&#8221; founder and CEO Ray Youssef said while announcing the shocking delisting. Youssef outlined three main concerns around the world’s second most valuable cryptocurrency that led to the decision.</p>
+
+
+
+<h2 id="h-bitcoin-as-the-only-honest-money"><strong>Bitcoin As The ‘Only Honest Money’</strong></h2>
+
+
+
+<p>On Wednesday, Paxful CEO Ray Youssef shared an <a href="https://twitter.com/raypaxful/status/1605529289054527488">update </a>that the crypto platform would be suspending trading on ether. ETH trades will be halted on Thursday, which, as noted by Youssef, gives people enough time to end trades and potential disputes.</p>
+
+
+
+<p>Youssef highlighted three reasons for the move in a newsletter sent to Paxful customers, noting Paxful’s goal to maintain its integrity and eliminate “economic apartheid”.</p>
+
+
+
+<p>Ethereum network’s transition from a proof-of-work (PoW) to a proof-of-stake (PoS) security model was cited as the first reason for the delisting. Youssef indicated that PoW is arguably the “innovation that makes bitcoin the only honest money there is”. As such, Ethereum’s switch to PoS basically turned it into a “digital form of fiat”.</p>
+
+
+
+<p>The Paxful founder further claimed Ethereum is not decentralized as a small bunch of people supposedly controls it “and one day you will need permission to use it”.</p>
+
+
+
+<p>Youssef also criticized the blockchain’s ability to allow the tokenization of assets, with the majority ending up being scams and rug pulls. These tokens, Youssef added, “have stolen valuable momentum away from Bitcoin and cost us years on our mission.”</p>
+
+
+
+<p>When asked whether Paxful will similarly boot stablecoins from the platform, Youssef <a href="https://twitter.com/raypaxful/status/1605538950826758146">confirmed</a>, though unenthusiastically, the exchange will not discontinue trades in Tether (USDT) and USD Coin (USDC).</p>
+
+
+
+<p>Youssef’s ultimate goal is to see “a world where Bitcoin frees billions of people held back by this evil system, especially those unnecessarily harmed living in the Global South.”</p>
+
+
+
+<p>The Paxful boss has been an outspoken champion of bitcoin and self-custody following FTX’s implosion last month. He <a href="https://twitter.com/raypaxful/status/1601934200893997057">advised </a>users never to store their BTC savings on any exchange, Paxful included.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/3-reasons-p2p-crypto-exchange-paxful-just-removed-ethereum-from-its-platform/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Could The U.S. Ban Crypto? Ohio Senator Says It&#8217;s An Option</title>
 		<link>https://zycrypto.com/could-the-u-s-ban-crypto-ohio-senator-says-its-an-option/</link>
 					<comments>https://zycrypto.com/could-the-u-s-ban-crypto-ohio-senator-says-its-an-option/#respond</comments>
@@ -39,7 +616,7 @@
 		<category><![CDATA[Cryptocurrency News]]></category>
 		<guid isPermaLink="false">https://zycrypto.com/?p=76641</guid>
 
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Could The U.S. Ban Crypto? Ohio Senator Says It&#039;s An Option" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Ohio Senator and Chairman of the Senate Banking Committee, Sherrod Brown, has expressed concerns about the dangers of cryptocurrencies, saying the asset class ‘ought to be banned.’ The politician made the comments Sunday while speaking on Meet the Press with NBC’s Chuck Todd. According to Sen. Brown, D-Ohio, the recent collapse of Sam Bankman-Fried’s crypto [&#8230;]]]></description>
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Could The U.S. Ban Crypto? Ohio Senator Says It&#039;s An Option" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Ohio Senator and Chairman of the Senate Banking Committee, Sherrod Brown, has expressed concerns about the dangers of cryptocurrencies, saying the asset class ‘ought to be banned.’ The politician made the comments Sunday while speaking on Meet the Press with NBC’s Chuck Todd. According to Sen. Brown, D-Ohio, the recent collapse of Sam Bankman-Fried’s crypto [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Could The U.S. Ban Crypto? Ohio Senator Says It&#039;s An Option" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Could-The-U.S.-Ban-Crypto-Ohio-Senator-Says-Its-An-Option-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
 <ul>
 <li>Sen. Sherrod Brown wants cryptocurrencies to be banned over illegal activities in the sector.</li>
@@ -309,650 +886,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://zycrypto.com/ftxs-sam-bankman-fried-accepts-extradition-to-the-us-after-deadlock/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ethereum’s Co-founder Vitalik Buterin Discloses Three Landmark Opportunities For Crypto In 2023</title>
-		<link>https://zycrypto.com/ethereums-co-founder-vitalik-buterin-discloses-three-landmark-opportunities-for-crypto-in-2023/</link>
-					<comments>https://zycrypto.com/ethereums-co-founder-vitalik-buterin-discloses-three-landmark-opportunities-for-crypto-in-2023/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Tue, 20 Dec 2022 19:37:24 +0000</pubDate>
-				<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ethereum News]]></category>
-		<category><![CDATA[ETHUSD]]></category>
-		<category><![CDATA[ETHUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76614</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ethereum’s Vitalik Buterin Claps Back At PoS Skeptics Ahead Of The Merge" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>It is that time of the year when crypto executives and industry players map out clear-cut plans for the new year, and Vitalik Buterin has hinted at three favourable areas.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ethereum’s Vitalik Buterin Claps Back At PoS Skeptics Ahead Of The Merge" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/07/Ethereums-Vitalik-Buterin-Claps-Back-At-PoS-Skeptics-Ahead-Of-The-Merge-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Vitalik Buterin shares “huge opportunities” for developers in digital asset spaces in 2023.</li>
-
-
-
-<li>The Ethereum co-founder pointed to crypto wallets, revolutionary stablecoins, and using crypto to take down big tech.</li>
-
-
-
-<li>Is the mass adoption wave over? Vitalik Buterin and David Hofman share opposing views.&nbsp;</li>
-</ul>
-
-
-
-<p>It is that time of the year when crypto executives and industry players map out clear-cut plans for the new year, and Vitalik Buterin has hinted at three favourable areas.</p>
-
-
-
-<p>During an interview with Bankless&#8217;s David Hoffman, he shared what he believes are the three biggest opportunities. Responding to an issue raised by Hoffman on his concerns that the digital asset mass adoption wave is over, Buterin answered in the negative and went on the list of three areas of growth in 2023.</p>
-
-
-
-<p>First is digital asset wallets highlighting the need for special attention to wallet infrastructure to enable billions of users seamlessly. </p>
-
-
-
-<p><em>“If you can make a wallet that a billion people will use, that&#8217;s a huge opportunity,” </em>said Buterin.</p>
-
-
-
-<p>Next is stablecoins, which has been a touchy subject this year following the collapse of Terra in May. For Buterin, there are still “more opportunities for developers to build in web3.”</p>
-
-
-
-<p>The aim for developers in 2023 is to build a hyper-inflation-resistant stable that will be revolutionary in the industry.</p>
-
-
-
-<p><em>“If you can make a stablecoin that can actually survive anything up to, and including, a U.S. dollar hyperinflation, that’s a huge opportunity as well if you can create something that will feel like a lifeline for everyone going through that situation,” </em>Buterin said.</p>
-
-
-
-<p>Finally, he suggested technical developments in blockchains to compete with big tech using Ethereum as a reference point. If developers can use blockchains to “fight” centralized entities like Google and Facebook, they will lead to more market dominance for developers in the industry.</p>
-
-
-
-<p><em>“If you can get signed in with Ethereum to work and if you can unseat Facebook and Google and Twitter as the login overlords of the internet, that itself is a huge opportunity, right?”&nbsp;</em></p>
-
-
-
-<h2 id="h-2023-can-be-a-turning-point"><strong>2023 can be a turning point</strong></h2>
-
-
-
-<p>After a bad year for digital assets, industry participants have their eyes glued to a better year ahead. The events that gave this year a negative outlook ranged from scams to the <a href="https://zycrypto.com/crypto-exchange-binance-temporarily-halts-withdrawal-of-luna-and-ust-on-the-terra-network/">collapse</a> of popular entities like Terra and FTX.</p>
-
-
-
-<p>In the wake of all these, users are still keen on a bull run with some floating popular statements across social media like “all the bad eggs have left crypto in 2022.” Suppose 2023 is going to take a new look. In that case, things need to be in place from early January, including clear-cut regulations and more use cases like Buterin suggested driving increased adoption. </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/ethereums-co-founder-vitalik-buterin-discloses-three-landmark-opportunities-for-crypto-in-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Dogecoin Takes Biggest Hit, Falls 18% Following Elon Musk’s Twitter Poll</title>
-		<link>https://zycrypto.com/dogecoin-takes-biggest-hit-falls-18-following-elon-musks-twitter-poll/</link>
-					<comments>https://zycrypto.com/dogecoin-takes-biggest-hit-falls-18-following-elon-musks-twitter-poll/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Tue, 20 Dec 2022 19:31:36 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Doge]]></category>
-		<category><![CDATA[Dogecoin]]></category>
-		<category><![CDATA[DOGEUSD]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76612</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dogecoin&#039;s Future Could Follow This Bullish Trajectory To $1 DOGE Price Thanks To Elon Musk" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>After the digital asset market took a bearish look as a result of the recent hike in interest rates, Dogecoin (DOGE), has taken further steps back following a controversial Twitter poll. ]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dogecoin&#039;s Future Could Follow This Bullish Trajectory To $1 DOGE Price Thanks To Elon Musk" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Dogecoin takes a nosedive after Twitter users vote for Elon Musk to leave the CEO role.</li>
-
-
-
-<li>The meme coin has fallen over 18% a few hours after the poll, signalling the strong ties Musk has with the coin. </li>
-
-
-
-<li>Experts&#8217; analysis points to the high possibility of Twitter still incorporating Dogecoin with Musk’s imminent departure.</li>
-</ul>
-
-
-
-<p>After the digital asset market took a bearish look as a result of the recent hike in interest rates, Dogecoin (DOGE) took further steps back following a controversial Twitter poll.</p>
-
-
-
-<p>Elon Musk took over the management of Twitter in October after a $44 billion buyout, but things have looked shaky since he took over the helm of affairs. In his bid to make the platform more decentralized, Musk deployed Twitter polls to encourage user participation in high-profile decision-making.</p>
-
-
-
-<p>In his recent poll on Monday, he asked if he should step down as the head of Twitter, and 57.5% voted in favour. The result of the poll has affected Musk’s backed Dogecoin leading to double figure losses.</p>
-
-
-
-<p>DOGE dipped 11% in a few hours to trade at $0.07, coupled with panic from users that with Musk gone, the Dogecoin partnership with the social media gains <a href="https://zycrypto.com/elon-musk-mulls-resigning-as-ceo-of-twitter-whats-next-for-dogecoin/">may become strained</a>. The recent slide of the biggest meme coin has been the sequence of events as the asset has risen and fallen in the past due to Musk’s involvement.</p>
-
-
-
-<p>Dogecoin has shown little signs of recovery since it fell by 11% and now trades at $0.074, with bulls trying to push their favourite asset back to its highs in early November.</p>
-
-
-
-<p>Altcoins, including Ethereum (ETH) and Solana (SOL), alongside the S&amp;P 500, NASDAQ, and Dow Jones Industrial Average lost points in the past 48 hours as the market still flashed red.</p>
-
-
-
-<h2 id="h-twitter-is-still-with-dogecoin"><strong>Twitter is still with Dogecoin</strong></h2>
-
-
-
-<p>DOGE has recorded successes since its creation as a meme coin, but most of its triumphs have been linked with Musk. From his Saturday Night Live (SNL) appearance, which pushed the asset to its all-time high of $0.73, to his recent Twitter <a href="https://zycrypto.com/dogecoin-sprints-north-as-musk-pledges-to-close-twitter-acquisition-deal-by-friday-1-doge-coming/">acquisition</a>, which saw the coin trade at a year high of $0.14.</p>
-
-
-
-<p>Despite the decision of the new Twitter chief executive, Musk still remains in the management of the company, and so far, there have been no signs of the company cutting ties with cryptocurrencies. Last month Musk revealed plans to integrate new payment systems into Twitter, sparking DOGE to a 19.4% uphill run.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/dogecoin-takes-biggest-hit-falls-18-following-elon-musks-twitter-poll/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Nigeria Set To Consider Bitcoin As A Legal Tender: Here’s All You Need To Know</title>
-		<link>https://zycrypto.com/nigeria-set-to-consider-bitcoin-as-a-legal-tender-heres-all-you-need-to-know/</link>
-					<comments>https://zycrypto.com/nigeria-set-to-consider-bitcoin-as-a-legal-tender-heres-all-you-need-to-know/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 21:13:55 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Nigeria]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76555</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Central African Republic Looks To Strengthen Economic Trajectory With Bitcoin As Legal Tender" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Africa’s most populous country, Nigeria, may be next in line to consider bitcoin and other cryptocurrencies as legal tender in 2023 as it prepares a law to recognize digital assets.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Central African Republic Looks To Strengthen Economic Trajectory With Bitcoin As Legal Tender" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/04/Central-African-Republic-Looks-To-Strengthen-Economic-Trajectory-With-Bitcoin-As-Legal-Tender-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Reports have made rounds concerning Nigeria’s decision to allow Bitcoin as a payment solution.&nbsp;</li>
-
-
-
-<li>Hopes for the change in government policy hinged on the proposed amendment to the Investment and Securities Act 2007.&nbsp;</li>
-
-
-
-<li>Nigerian crypto enthusiasts say they need their government to back digital assets for good as it will, in turn, push up the eNaira. </li>
-</ul>
-
-
-
-<p>Africa’s most populous country, Nigeria, may be next in line to consider bitcoin and other cryptocurrencies as legal tender in 2023 as it prepares a law to recognize digital assets.</p>
-
-
-
-<p>Babangida Ibrahim, the House of Representatives Committee Chairman on Capital Markets, said in an interview that the law which will recognize digital assets is being pushed to keep up with “<em>recent global practices.”</em></p>
-
-
-
-<p><em>“Like I said earlier during the second reading, we need an efficient and vibrant capital market in Nigeria. For us to do that, we have to be up to date with global practices.”</em></p>
-
-
-
-<p>The hopes of recognizing Bitcoin rests on the proposed Investment and Securities Act which will empower the Securities and Exchange Commission (SEC) to “<em>recognize digital assets and funds as capital for investments.” </em>The landmark legislation would also set clear-cut roles of administrative bodies in the country regarding digital assets.</p>
-
-
-
-<p>The roles of the Central Bank and the SEC have clashed in several jurisdictions regarding the control of virtual currencies. In Nigeria, users called out the Central Bank after it placed a ban on cryptocurrencies and exchanges last year, saying it has encroached into the territory of the SEC.</p>
-
-
-
-<p>The proposed law comes as the new <a href="https://zycrypto.com/nigerias-cbdc-launch-all-the-sides-of-the-coin/">e-naira&#8217;s</a> poor adoption makes rounds. The country’s Central Bank digital currency (CBDC) has only recorded a meagre 0.5% a year after its launch, with many blaming the government’s indecisive policies regarding the state of blockchain and virtual currencies.</p>
-
-
-
-<h2 id="h-nigeria-s-policy-holding-a-potential-mass-adoption"><strong>Nigeria’s policy holding a potential mass adoption</strong></h2>
-
-
-
-<p>With a population of over 200 million people, Nigeria has an edge in terms of potential blockchain and web3 projects as investors can leverage the growing population. Despite this advantage, most projects cited in Africa have gone to neighbouring countries due to the government’s mixed blockchain policies. </p>
-
-
-
-<p>In 2021, the Central Bank of Nigeria issued a statement prohibiting the activities of digital asset exchanges in the country as well as other cryptocurrency activities. The <a href="https://zycrypto.com/nigerias-minister-urges-the-government-to-embrace-cryptocurrencies-after-stringent-bans/">ban</a> was far-reaching as it compelled banks to close accounts related to cryptocurrencies. Despite all this, Nigeria’s potential for digital asset adoption remains intact as the 11th-highest crypto market in 2022.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/nigeria-set-to-consider-bitcoin-as-a-legal-tender-heres-all-you-need-to-know/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>XRP Army Eager To Receive Verdict On Ripple vs. SEC Lawsuit As Attorney Sets Tentative Settlement Date</title>
-		<link>https://zycrypto.com/xrp-army-eager-to-receive-verdict-on-ripple-vs-sec-lawsuit-as-attorney-sets-tentative-settlement-date/</link>
-					<comments>https://zycrypto.com/xrp-army-eager-to-receive-verdict-on-ripple-vs-sec-lawsuit-as-attorney-sets-tentative-settlement-date/#respond</comments>
-		
-		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 20:38:42 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76550</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Lawsuit: SEC&#039;s Win Against This Blockchain Firm in A High-Profile Securities Case Unnerves XRP Army" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Ripple's XRP price has been consolidating as investors await a court decision in the case with the SEC.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Lawsuit: SEC&#039;s Win Against This Blockchain Firm in A High-Profile Securities Case Unnerves XRP Army" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Ripple&#8217;s XRP price has been consolidating as investors await a court decision in the case with the SEC.</li>
-
-
-
-<li>Lawyer John Deaton expects the lawsuit&#8217;s outcome to delay until April or May.</li>
-</ul>
-
-
-
-<p>Ripple&#8217;s XRP traded at $0.33 Monday, below a crucial resistance of $0.4, according to data provided by CoinMarketCap. Bears have been rejecting a break above $0.4, but bulls are struggling to avoid a possible drop. As Ripple&#8217;s case with the US Securities and Exchange Commission drags, the tug of war is because of an uncertain landscape.</p>
-
-
-
-<p>Investors were increasingly growing, hoping December could become a monumental moment for Ripple. The filing of the summary judgment briefs on November 30 <a href="https://zycrypto.com/crypto-whales-are-super-bullish-on-xrp-as-the-ripple-vs-sec-case-nears-long-awaited-end/">heightened the expectations</a>. On December 2, the parties in the lawsuit met to discuss redactions of the court filings. Subsequently, the summary judgments became public on December 5, raising speculations that the case was ending. Since Ripple had previously made milestone wins, investors expected the case could end &#8220;anytime&#8221; from December 5.</p>
-
-
-
-<p>Most recently, Cardano&#8217;s co-founder Charles Hoskinson <a href="https://zycrypto.com/xrp-army-gleeful-as-rumors-of-secs-lawsuit-against-ripple-wrapping-up-next-week-swirl/">hinted</a> at December 15 as the day the decision could arrive. In an AMA session, the blockchain entrepreneur said, &#8220;<em>(he had) heard rumors that the Ripple case will be settled December 15<sup>th</sup>. Let’s just see. That could have catastrophic implications for the industry, one way or the other.</em>&#8220;</p>
-
-
-
-<h2 id="h-ripple-s-case-with-sec-to-be-settled-in-april-or-may-pro-xrp-lawyer-says"><strong>Ripple’s case with SEC to be settled in April or May, pro-XRP lawyer says</strong></h2>
-
-
-
-<p>As it stands, Ripple enthusiasts remain in the dark as the date for settlement is contested. XRP supporter and lawyer John Deaton says the outcome could wait until April or early May. Deaton was responding to a question at the RealVision Crypto briefing about whether a March 31<sup>st</sup> settlement date was possible.</p>
-
-
-
-<p>According to Deaton, March 31 would be the earliest date based on the fact that there are numerous pages of documents for the court to scrutinize before the final judgment. The lawyer said that there are 17 amicus briefs filed, making a too-early settlement difficult.</p>
-
-
-
-<h2 id="h-what-s-the-case-outcome-mean-for-xrp"><strong>What&#8217;s the case outcome mean for XRP</strong></h2>
-
-
-
-<p>XRP&#8217;s recent price actions show investors are eager to receive the verdict. The recent consolidation implies that traders are cautious, as any negative outcome could cause a price decline.</p>
-
-
-
-<p>Nonetheless, XRP bulls remain on standby should the case go in their favour. If Ripple wins, that would mean that XRP would not be classified as a security as SEC has for a long time alleged. In the meantime, a breakout at $0.4 remains doubtful unless some positives involving the case come up.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/xrp-army-eager-to-receive-verdict-on-ripple-vs-sec-lawsuit-as-attorney-sets-tentative-settlement-date/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk Mulls Resigning As CEO Of Twitter — What&#8217;s Next For Dogecoin?</title>
-		<link>https://zycrypto.com/elon-musk-mulls-resigning-as-ceo-of-twitter-whats-next-for-dogecoin/</link>
-					<comments>https://zycrypto.com/elon-musk-mulls-resigning-as-ceo-of-twitter-whats-next-for-dogecoin/#respond</comments>
-		
-		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 17:58:55 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Doge]]></category>
-		<category><![CDATA[Dogecoin]]></category>
-		<category><![CDATA[DOGEUSD]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76542</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dogecoin&#039;s Future Could Follow This Bullish Trajectory To $1 DOGE Price Thanks To Elon Musk" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>With Musk now seriously considering stepping down as Twitter CEO, is the price of his favourite meme coin headed south?]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dogecoin&#039;s Future Could Follow This Bullish Trajectory To $1 DOGE Price Thanks To Elon Musk" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Dogecoin has enjoyed several mini rallies in recent months amid speculation that it could play a part in Elon Musk’s Twitter plans. In fact, DOGE became one of the best performers in the crypto markets as the capricious billionaire, who has long had a penchant for the doggy-themed crypto, took the helm at Twitter.</p>
-
-
-
-<p>With Musk now seriously considering stepping down as Twitter CEO, is the price of his favourite meme coin headed south?</p>
-
-
-
-<h2 id="h-twitter-s-elon-musk-might-soon-relinquish-ceo-role"><strong>Twitter’s Elon Musk Might Soon Relinquish CEO Role</strong></h2>
-
-
-
-<p>A new drama is emerging around Twitter as Elon Musk released a poll asking his followers whether or not he should step down from the microblogging site. At press time, the verdict was split, with 57.5% of the roughly 17.5 million responses supporting his resignation.</p>
-
-
-
-<p>Musk indicated that he would accept the results of the Twitter survey, meaning he is ready to give that important role to another person.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Should I step down as head of Twitter? I will abide by the results of this poll.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1604617643973124097?ref_src=twsrc%5Etfw">December 18, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Notably, Musk will not be looking for just anybody but for a CEO who can actually “keep Twitter alive”. Interestingly, former NSA contractor turned whistleblower Edward Snowden declared he’s ready to be head of the social media company, and he would prefer bitcoin as payment for his new potential job.</p>
-
-
-
-<h2><strong>Why It Matters For DOGE</strong></h2>
-
-
-
-<p>Musk has been a major supporter of Dogecoin. His plan has always been to send DOGE skywards. The Tesla CEO’s statements about the currency have also consistently impacted its price. In October, for instance, DOGE rocketed to 12 cents on news of Musk’s completion of his <a href="https://zycrypto.com/dogecoin-bulls-go-all-in-as-billionaire-dogefather-elon-musk-finally-closes-on-44b-twitter-deal/">$44 billion takeover</a> of Twitter and the leak of documents that hinted that the electric car mogul was working on a wallet prototype that would support deposits and withdrawals of crypto.</p>
-
-
-
-<p>There was unconfirmed speculation that the aspiring Martian may use Dogecoin in his plans for Twitter 2.0 until he suggested that his time as the “Chief Twit” could be coming to a close.</p>
-
-
-
-<p>Notably, the crypto industry is still reeling after a brutal month: investor confidence has been ruined following news that <a href="https://zycrypto.com/ftx-comes-clean-and-admits-that-it-owes-over-3-billion-to-its-50-biggest-creditors/">FTX</a>, once one of the largest and most prominent cryptocurrency exchanges, went bankrupt.</p>
-
-
-
-<p>Who knows what’s coming? But if Musk is really resigning as CEO of the bird app, plans of <a href="https://zycrypto.com/doge-rallies-30-on-twitter-payments-anticipation-as-elon-musk-props-up-dogecoin/">integrating Dogecoin payments</a> — and subsequently adding utility to the Shiba Inu-themed meme coin — might be put on hold. This means investors pining for a DOGE moonshot in the near term could be in for a rude awakening.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/elon-musk-mulls-resigning-as-ceo-of-twitter-whats-next-for-dogecoin/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Binance.US To Pay $1.02 Billion To Get Insolvent Voyager Digital’s Assets</title>
-		<link>https://zycrypto.com/binance-us-to-pay-1-02-billion-to-get-insolvent-voyager-digitals-assets/</link>
-					<comments>https://zycrypto.com/binance-us-to-pay-1-02-billion-to-get-insolvent-voyager-digitals-assets/#respond</comments>
-		
-		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 17:18:39 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76539</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance.US To Pay $1.02 Billion To Get Insolvent Voyager Digital’s Assets" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Binance.US, the American entity of the eponymous global exchange, has agreed to buy the assets of the now-bankrupt crypto brokerage firm Voyager Digital for a whopping $1.022 billion.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance.US To Pay $1.02 Billion To Get Insolvent Voyager Digital’s Assets" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/Binance.US-To-Pay-1.02-Billion-To-Get-Insolvent-Voyager-Digitals-Assets-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Binance.US, the American entity of the eponymous global exchange, has agreed to buy the assets of the now-bankrupt crypto brokerage firm Voyager Digital for a whopping $1.022 billion.</p>
-
-
-
-<p>A Monday announcement notes that Binance.US emerged as the “highest and best bid” for its assets.</p>
-
-
-
-<h2 id="h-binance-us-wins-bid-to-acquire-voyager"><strong>Binance.US Wins Bid To Acquire Voyager&nbsp;</strong></h2>
-
-
-
-<p>Voyager seems to have finally found a buyer for its assets.</p>
-
-
-
-<p>The U.S. unit of Binance will pay Voyager $1.022 billion, representing the lender’s crypto portfolio (valued at around $1.002 billion), and an additional consideration equal to $20 million of incremental value.</p>
-
-
-
-<p>The deal is expected to be closed by April 2023. However, it won’t go through until the bankruptcy court approves the purchase agreement on January 5. Meanwhile, Binance has agreed to make a $10 million deposit in good faith and will refund Voyager for some expenses up to a maximum of $15 million.</p>
-
-
-
-<p>After crypto prices plunged, Voyager on 1st July blocked customers from withdrawing their money. Its clients thereon became company creditors in bankruptcy court, forced to get in line with restructuring lawyers and financiers as rookie participants in a potentially gruelling process to get their crypto back.</p>
-
-
-
-<h2><strong>Finally, A Way Out For Users?</strong></h2>
-
-
-
-<p>Binance.US is effectively bailing out Voyager Digital users as it “aims to return crypto to customers in kind, in accordance with court-approved disbursements and platform capabilities.&#8221;</p>
-
-
-
-<p>&#8220;We hope our selection brings to an end a painful bankruptcy process which saw customers unfairly dragged into it at no fault of their own,&#8221; Binance.US president and CEO Brian Schroder <a href="https://twitter.com/BrianShroder/status/1604825059813920770">tweeted</a>.</p>
-
-
-
-<p>He added that once the deal is completed, Voyager users will finally be able to access their crypto funds via new accounts at Binance.US by as early as March 2023.</p>
-
-
-
-<p>Prior to its downfall, Sam Bankman-Fried’s FTX had <a href="https://zycrypto.com/ftx-bags-voyager-digital-assets-after-highly-competitive-bidding-process/">won</a> a $1.4 billion auction to acquire Voyager’s assets, beating out competitors Binance and Wave Financial. But with the exchange itself filing for bankruptcy in November, those plans changed.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/binance-us-to-pay-1-02-billion-to-get-insolvent-voyager-digitals-assets/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cardano&#8217;s Hoskinson Lambasts XRP Army for Being Unreasonably Vicious</title>
-		<link>https://zycrypto.com/cardanos-hoskinson-says-hell-never-comment-on-xrp-lambasts-community-for-being-unreasonably-vicious/</link>
-					<comments>https://zycrypto.com/cardanos-hoskinson-says-hell-never-comment-on-xrp-lambasts-community-for-being-unreasonably-vicious/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Sun, 18 Dec 2022 22:47:49 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[ADA]]></category>
-		<category><![CDATA[ADAUSD]]></category>
-		<category><![CDATA[Cardano]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76535</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ethereum&#039;s Buterin Throws Jab At XRP As He Propels Fight Against Canada’s New Crypto Regulation" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Charles Hoskinson, the co-founder of Cardano, has hit back at XRP supporters over claims that he was trying to damage Ripple’s reputation and create FUD against the embattled network.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ethereum&#039;s Buterin Throws Jab At XRP As He Propels Fight Against Canada’s New Crypto Regulation" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Ethereums-Buterin-Throws-Jab-At-XRP-As-He-Propels-Fight-Against-Canadas-New-Crypto-Regulation-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p><a href="https://zycrypto.com/charles-hoskinson-says-indias-anti-crypto-regulatory-environment-is-preventing-cardanos-entry/">Charles Hoskinson</a>, the co-founder of Cardano, has hit back at XRP supporters over claims that he was trying to damage Ripple’s reputation and create FUD against the embattled network.</p>
-
-
-
-<p>In a six-minute video Friday, Hoskinson expressed frustrations over how some <a href="https://zycrypto.com/xrp-whales-are-moving-millions-from-binance-as-looming-litigation-causes-record-outflows/">XRP community</a> members had responded to comments he made concerning the projected time the SEC vs Ripple case would likely end.</p>
-
-
-
-<p>“<em>I talked a bit about a rumour that I had heard from a pretty reliable source who was close to the case about a potential resolution of the case by December 15<sup>th</sup>. So, I just threw it out there and said, well, that’s something I’ve heard,</em>” he said referring to comments he made in a surprise Ask Me Anything (AMA) session on Monday, Dec 12.</p>
-
-
-
-<p>According to Hoskinson, it was perfectly normal to reference the XRP case when asked whether Cardano was a security because the Ripple case is one of the corollaries to any cryptocurrencies being securities.</p>
-
-
-
-<p>However, despite clarifying that he had made the comments out of a “rumour”, many people in both the XRP community and the media started spreading the word that Charles Hoskinson believed the case was going to get settled on December 15<sup>th</sup>.</p>
-
-
-
-<p><em>“After it didn’t get resolved, I was accused of lying and I was accused of yet again creating a FUD and trolling,”</em> he said.&nbsp;</p>
-
-
-
-<h2 id="h-xrp-adherents"><strong>XRP Adherents</strong></h2>
-
-
-
-<p>Hoskinson, who claimed to have been supportive of Ripple’s initiatives and efforts to popularize cryptocurrency, blamed a section of Ripple supporters for allegedly being close-minded.</p>
-
-
-
-<p>Apart from not believing that XRP <a href="https://zycrypto.com/microstrategys-saylor-says-xrp-is-a-security-touts-bitcoin-as-the-only-crypto-commodity/">is a security</a>, he noted that he did not think that the SEC was bribed to go after Ripple, saying that those claims were “a conspiracy”. Further, he noted that although Ethereum did get gentler treatment for some reason than others, that did not necessarily mean that there was bribery and corruption.</p>
-
-
-
-<p><em>“For saying that,</em> I was mocked, harassed and brutalized by the XRP community, and yet again,<em> now I’m being brutalized.”</em></p>
-
-
-
-<p><em>“So, it has left me asking, ‘is there any value at all in mentioning, engaging with or discussing anything about XRP?’ and at this juncture, given what’s happened,</em> I don’t think there is…If asked in the future about XRP,<em> I’m just going to say “NO COMMENT”,</em> he concluded, noting that never in his career in the crypto space had he encountered a community so willing to attack a person who frankly has not attacked them viciously.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/cardanos-hoskinson-says-hell-never-comment-on-xrp-lambasts-community-for-being-unreasonably-vicious/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Inside Kevin O&#8217;Leary and Binance&#8217;s CZ Hot Exchange Over FTX’s Collapse</title>
-		<link>https://zycrypto.com/inside-kevin-oleary-and-binances-cz-hot-exchange-over-ftxs-collapse/</link>
-					<comments>https://zycrypto.com/inside-kevin-oleary-and-binances-cz-hot-exchange-over-ftxs-collapse/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Sun, 18 Dec 2022 22:40:10 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76533</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bahamas’ Attorney General Defends The Country&#039;s Action After FTX&#039;s Collapse" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Following the collapse of FTX, questions about what could have happened have been raging.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bahamas’ Attorney General Defends The Country&#039;s Action After FTX&#039;s Collapse" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Bahamas-Attorney-General-Defends-The-Countrys-Action-After-FTXs-Collapse-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Following the collapse of FTX, questions about what could have happened have been raging. In the past week, Binance CEO Changpeng Zhao” CZ” and Canadian investor Kevin O’Leary have also been engaging in a fiery battle of words for their alleged involvement with FTX.</p>
-
-
-
-<p>Despite the <a href="https://zycrypto.com/ftxs-founder-sam-bankman-fried-arrested-in-the-bahamas/">arrest of Sam Bankman-fried</a> “SBF”, the ex-CEO of FTX in the Bahamas on Dec 12, Congressional hearings on the FTX debacle kicked off as planned mid-week. Kevin O’Leary, accused of receiving $15 million to promote FTX despite allegedly knowing the exchange’s fraudulent activities testified on Dec 14. When asked by Senator Pat Toomey why he thought FTX failed, he noted that FTX and Binance were at war with each other, putting the other out of business intentionally. “<em>Binance is a massive unregulated global monopoly now. They put FTX out of business,” </em>he said.</p>
-
-
-
-<p>In an interview with CNBC’s Squawk Box afterwards, O’Leary stated that he had contacted SBF before his arrest, seeking answers on the circumstances leading to the collapse. According to him, SBF allegedly stated that they had spent $2 to $3 billion in “off-balance sheet funds” buying back FTX stock from Binance to try and prevent FTX’s collapse.</p>
-
-
-
-<p>As it may be recalled, before the collapse of FTX in early November, CZ tweeted that they would <a href="https://zycrypto.com/binance-to-liquidate-ftxs-ftt-holdings-due-to-recent-revelations/">liquidate the entirety</a> of its position in FTX Token (totalling $2.1 billion) after a leaked balance sheet disclosed most FTX holdings were tied up in FTT. Less than three days after the tweet, FTT plunged roughly 94%, rendering the exchange bankrupt.</p>
-
-
-
-<p>According to O’Leary, <a href="https://zycrypto.com/binance-ceo-cz-blasts-kevin-oleary-for-supposedly-defending-ftx/">CZ orchestrated FTX’s collapse</a> due to irresponsible communication. “<em>Why in the world would a block trade, like the one by CZ, be tweeted out saying- I have $550 million worth of FTT tokens. I&#8217;m going to put to the market?- You don’t trade like that. You go find buyers, you form a syndicate and you clear market with a trade,”</em> O’Leary charged.</p>
-
-
-
-<p>On Thursday, CZ fired back, calling O’Leary a liar and accusing him of making a “bunch of nonsense claims.” According to the Binance CEO, it was suspicious that O’Leary had chosen only to take up what SBF had told him as the truth without digging deeper. He further accused the 68-year-old investor of ignoring all the “small spendings” by FTX and instead focusing on Binance’s sale of FTT.</p>
-
-
-
-<p><em>“He (O’Leary) says he did not know that Binance was a shareholder of FTX, so he invested in FTX without looking at the cap table, but he was very specific in the way he accounts for a transaction two years ago, so that’s kind of contradictory,” </em>said CZ<em>. “So, I think Kevin is a liar, I think he is lying about a bunch of stuff”</em>. On Friday, O’Leary <a href="https://www.youtube.com/watch?v=2feTmaguqhU&amp;ab_channel=CNBCTelevision">responded,</a> arguing that CZ’s accusations against him were a lie.</p>
-
-
-
-<p>That said, as the war between the two businessmen rages on, the possibility of arrests or a Madoff Clawback for funds received from FTX being imposed on the two businessmen has become a concern for the crypto community.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/inside-kevin-oleary-and-binances-cz-hot-exchange-over-ftxs-collapse/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>What to Expect from Bitcoin in 2023 — the Bullish and the Bearish</title>
-		<link>https://zycrypto.com/what-to-expect-from-bitcoin-in-2023-the-bullish-and-the-bearish/</link>
-					<comments>https://zycrypto.com/what-to-expect-from-bitcoin-in-2023-the-bullish-and-the-bearish/#respond</comments>
-		
-		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
-		<pubDate>Sun, 18 Dec 2022 22:32:26 +0000</pubDate>
-				<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[BTCUSD]]></category>
-		<category><![CDATA[BTCUSDC]]></category>
-		<category><![CDATA[BTCUSDT]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[XBTUSD]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=76529</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="What to Expect from Bitcoin in 2023 — the Bullish and the Bearish" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Just a year ago, the cryptocurrency market recorded one of the best yearly runs Bitcoin has ever had. While bearish calls were made early into 2021, Bitcoin bulls...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="What to Expect from Bitcoin in 2023 — the Bullish and the Bearish" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/12/What-to-Expect-from-Bitcoin-in-2023-—-the-Bullish-and-the-Bearish-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Just a year ago, the cryptocurrency market recorded one of the best yearly runs <a href="https://zycrypto.com/bitcoin-whales-double-down-on-gigantic-btc-buys-despite-macro-headwinds/">Bitcoin</a> has ever had. While bearish calls were made early into 2021, Bitcoin bulls pushed prices to a staggering $68,000 in November of the same year.</p>
-
-
-
-<h2 id="h-where-is-bitcoin-headed-in-2023-the-bearish"><strong>Where is Bitcoin headed in 2023?; The bearish</strong></h2>
-
-
-
-<p>Positive sentiments began to flood the Bitcoin community, and major price predictions were made ahead of 2022. But Bitcoin would underperform, starting the new year with a massive price decline. </p>
-
-
-
-<p>January saw Bitcoin at $35,000; Prices fluctuated between $30,000 &#8211; $45,000 between January and June.</p>
-
-
-
-<p>The months leading up to December would see Bitcoin slowly lose momentum and go downhill. Although key players were still bullish, the recent events plaguing the market have swayed prominent voices.</p>
-
-
-
-<p>From VanEck, a leading global investment manager offering U.S. investors exposure to gold and ETF investment, Bitcoin is expected to decline by 29.4% from its press time price of $16,789. This, however, is only going to persist from January till March.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="647" src="https://zycrypto.com/wp-content/uploads/2022/12/image-4-1024x647.png" alt="" class="wp-image-76530" srcset="https://zycrypto.com/wp-content/uploads/2022/12/image-4-1024x647.png 1024w, https://zycrypto.com/wp-content/uploads/2022/12/image-4-300x190.png 300w, https://zycrypto.com/wp-content/uploads/2022/12/image-4-768x485.png 768w, https://zycrypto.com/wp-content/uploads/2022/12/image-4-1536x971.png 1536w, https://zycrypto.com/wp-content/uploads/2022/12/image-4-2048x1294.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BTCUSD Chart by <a href="https://www.tradingview.com/symbols/BTCUSD/">TradingView</a></figcaption></figure>
-
-
-
-<p>“<em>Bitcoin will test $10-12K in Q1 amid a wave of miner bankruptcies, which will mark the low point of the crypto winter.” </em>&#8211; VanEck.</p>
-
-
-
-<p>From April till June, Bitcoin is expected to take a leap upward, as inflation and other surrounding activities are cited as factors that could spur the next bull run for the leading cryptocurrency.</p>
-
-
-
-<p>VanEck explains in a recent tweet below, saying; </p>
-
-
-
-<p><em>“In the second half of 2023, Bitcoin will rise to $30K. Lower inflation, easing energy concerns, a possible truce in Ukraine, and a turnaround in M2 supply will power the start of a new bull market.”  </em></p>
-
-
-
-<h2><strong>Bitcoin 2023; The bullish </strong></h2>
-
-
-
-<p>Taking a more bullish approach is Arthur Hayes, the former CEO of BitMEX.</p>
-
-
-
-<p>He recently expressed certainty that Bitcoin miners and centralized exchanges that swayed market movement by selling Bitcoin in large quantities will no longer drive lower prices.</p>
-
-
-
-<p>Maintaining that <a href="https://zycrypto.com/former-bitmex-ceo-arthur-hayes-on-why-bitcoin-price-has-likely-reached-bottom/">Bitcoin has bottomed</a>, he reckons that liquidations will be halted as sellers are already done selling. More importantly, he looks to the federal reserve to revive risk assets like Bitcoin by implementing new monetary policies. An even more bullish Tim Draper forecasted $250,000 for Bitcoin by late 2022 or early 2023.</p>
-
-
-
-<p>While Bitcoin is attempting to clutch $20,000 before the year&#8217;s close, it isn&#8217;t very likely, considering existing market conditions, that $250,000 will be attained this year.</p>
-
-
-
-<p>Most analysts and investors remain fixed on the possible outcome for Bitcoin next year. Key figures have also expressed bullish sentiments for altcoins like Dogecoin (DOGE) and Cardano (ADA).</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/what-to-expect-from-bitcoin-in-2023-the-bullish-and-the-bearish/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
