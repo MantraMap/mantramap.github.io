@@ -44,6 +44,7 @@ jobs:
     # - name: Install Jekyll Import gem
     - run: bundle install 
     - run: gem install jekyll-import
+    - run: gem install jekyll-auto-image
     - name: Import feeds from multiple sources
       run: ruby import_feed.rb
     - name: push
