@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Wed, 28 Dec 2022 01:38:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Dec 2022 00:10:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,322 +29,353 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>North Korean Hacking Group Steals Millions Posing as Japanese VCs And Banks</title>
-		<link>https://cryptopotato.com/north-korean-hacking-group-steals-millions-posing-as-japanese-vcs-and-banks/</link>
+		<title>The FTX Contagion Goes on: Midas Investments Closes Down</title>
+		<link>https://cryptopotato.com/the-ftx-contagion-goes-on-midas-investments-closes-down/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 00:35:54 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Celsius]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[FTX Exchange]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230615</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/RedLightHalted-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/RedLightHalted-min.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Midas Investments suspended services on its platform following the Celsius and FTX crashes.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The cryptocurrency platform Midas Investments disabled deposits and swaps due to severe financial losses caused by Celsius&#8217; bankruptcy and FTX&#8217;s fiasco.</span></p>
+<p><span data-preserver-spaces="true">CEO Iakov Levin said the organization will aim to focus on a new project next year that will be &#8220;fully transparent&#8221; and will offer an &#8220;improved investment experience.&#8221;</span></p>
+<h2><span data-preserver-spaces="true">Another Victim</span></h2>
+<p><span data-preserver-spaces="true">In a recent <a href="https://blog.midas.investments/midas-closure-reasons-and-pivot-to-cedefi/" data-wpel-link="external" target="_blank">blog post</a>, Midas Investments&#8217; Founder and CEO said the company shut down services on its platform yesterday (December 27). It disabled customer withdrawals for a few hours to conduct necessary calculations and later allowed users to withdraw their remaining funds with adjusted deductions.</span></p>
+<p><span data-preserver-spaces="true">Levin revealed that the entity&#8217;s initial goal was to deduct 48% from clients&#8217; balances but later changed the figure to 55%:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;We will adjust user balances by balancing remaining liabilities in BTC, ETH, and stablecoins with remaining assets, deducting 55% and rewards earned.&#8221;</span></p></blockquote>
+<p><span data-preserver-spaces="true">Balances in other digital currencies, including BNB, AVAX, and FTM, will not be impacted. The company will also distribute MIDAS tokens as compensation to affected customers based on their deducted amount.</span></p>
+<p><span data-preserver-spaces="true">Levin believes retail and institutional clients will significantly increase their interest in Decentralized Finance (DeFi) in the next five years. As such, Midas Investments intends to roll out &#8220;scalable, on-chain, verifiable, tokenized CeDeFi strategies&#8221; for both CeFi and DeFi users. </span></p>
+<p><span data-preserver-spaces="true">The company also aims to introduce a new project &#8220;built on principles of full transparency&#8221; that will have its own native token. The firm will eventually stop providing liquidity for the MIDAS token and swap it for the new asset.</span></p>
+<p><span data-preserver-spaces="true">The CEO apologized to all customers harmed by the platform&#8217;s closure. He raised hopes that the planned amendments will be the best solution to the current problems:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;This is not the end, but rather the beginning of something new. I understand the difficult decision to close Midas and apologize to anyone who lost money. I will do my best to make sure you can recoup your losses in the new project.&#8221;</span></p></blockquote>
+<h2><span data-preserver-spaces="true">What Caused the Issue?</span></h2>
+<p><span data-preserver-spaces="true">Levin said the company lost around $50 million (20% of $250 million AUM) this spring, and users withdrew a large chunk of their holdings after the collapse of the former crypto giants </span><a class="editor-rtfLink" href="https://cryptopotato.com/cel-dumped-50-after-celsius-filed-for-chapter-11-bankruptcy-protection/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Celsius</span></a><span data-preserver-spaces="true"> and </span><a class="editor-rtfLink" href="https://cryptopotato.com/the-fall-of-sam-bankman-frieds-crypto-empire-a-timeline-of-ftxs-collapse/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">FTX</span></a><span data-preserver-spaces="true">. Midas Investments sought fundraising and other options to cope with the crisis but none of those managed to cease the downturn:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Despite these efforts, the extensive withdrawals due to the insolvency of Celcius and FTX, coupled with reduced yield opportunities on the market, made it impossible for us to cover daily payouts to users due to the assets deficit.&#8221;</span></p></blockquote>
+<p><span data-preserver-spaces="true">The FTX fiasco created a massive domino effect, negatively affecting the operations of numerous companies. The Japanese crypto platform Liquid Global and the cryptocurrency lender </span><a class="editor-rtfLink" href="https://cryptopotato.com/genesis-halts-withdrawals-for-its-lending-arm-following-ftxs-collapse/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Genesis Global Capital</span></a><span data-preserver-spaces="true"> suspended withdrawals, while </span><a class="editor-rtfLink" href="https://cryptopotato.com/blockfi-files-for-bankruptcy-following-ftx-crash/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">BlockFi</span></a><span data-preserver-spaces="true"> went further, filing for bankruptcy protection.</span></p>
+<p><span data-preserver-spaces="true">Big players in the financial world, such as </span><a class="editor-rtfLink" href="https://cryptopotato.com/the-worlds-largest-asset-manager-was-also-exposed-to-ftx/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">BlackRock</span></a><span data-preserver-spaces="true">, Temasek, <a href="https://www.forbes.com/sites/brandonkochkodin/2022/11/08/more-losses-for-tiger-global-from-its-ftx-investment/?sh=1b2ec83afd43" data-wpel-link="external" target="_blank">Tiger Global Management</a>, Galois Capital, and others, lost millions due to investing in FTX. </span></p>
+<p>The post <a href="https://cryptopotato.com/the-ftx-contagion-goes-on-midas-investments-closes-down/" rel="nofollow">The FTX Contagion Goes on: Midas Investments Closes Down</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Manchester United Accused of Copying NFT Artist For Its Own Collection</title>
+		<link>https://cryptopotato.com/manchester-united-accused-of-copying-nft-artist-for-its-own-collection/</link>
 		
 		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Wed, 28 Dec 2022 01:38:54 +0000</pubDate>
+		<pubDate>Thu, 29 Dec 2022 00:10:29 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Hacking]]></category>
-		<category><![CDATA[Malware]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230571</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230758</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/FkqXPIgXEAQLRmY-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/FkqXPIgXEAQLRmY-1.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[North Korean group BlueNoroff has find a new way to hack into your crypto wallets. Now it resembles banks and Japanese VC firms.]]></description>
-            																<content:encoded><![CDATA[<p>This December 27, Kaspersky Lab announced that the North Korean hacking group &#8216;BlueNoroff&#8217; stole millions of dollars in cryptocurrencies after creating more than 70 fake domains and impersonating banks and venture capital firms.</p>
-<p>According to the <a href="https://securelist.com/bluenoroff-methods-bypass-motw/108383/" data-wpel-link="external" target="_blank">investigation</a>, most of the domains mimicked Japanese venture capital firms, denoting a strong interest in user and company data within that country.</p>
-<blockquote><p>&#8220;After researching the infrastructure that was used, we discovered more than 70 domains used by this group, meaning they were very active until recently. Also, they created numerous fake domains that look like venture capital and bank domains.&#8221;</p></blockquote>
-<h2>The Bluenoroff Group Perfected Its Infection Techniques</h2>
-<p>Until a few months ago, the BlueNoroff group used Word documents to inject malware. However, they recently improved their techniques, creating a new Windows Batch file that allows them to extend the scope and execution mode of their malware.</p>
-<p>These new .bat files circumvent Windows Mark-of-the-Web (MOTW) security measures, a hidden mark attached to files downloaded from the Internet to protect users against files from untrusted sources.</p>
-<p>After a thorough investigation in late September, Kaspersky confirmed that in addition to using new scripts, the BlueNoroff group began using .iso and .vhd disk image files to distribute viruses.</p>
-<p>Kaspersky also found that a user in the United Arab Emirates fell victim to the BlueNoroff group after downloading a Word document called &#8220;Shamjit Client Details Form.doc,&#8221; which allowed the hackers to connect to his computer and extract information as they attempted to execute even more potent malware.</p>
-<p>Once the hackers were logged into the computer, &#8220;they attempted to fingerprint the victim and install additional malware with high privileges,&#8221; however, the victim executed several commands to gather basic system information, preventing the malware from spreading out even more.</p>
-<h2>Hacking Techniques Become More Dangerous</h2>
-<p>Believe or not, <a href="https://cryptopotato.com/north-korea-leads-the-world-in-crypto-crime-report/" data-wpel-link="internal">reports say</a> that North Korea leads the world in terms of crypto crime. <a href="https://blog.chainalysis.com/reports/chainalysis-web3-report-preview-safety-compliance-defi" data-wpel-link="external" target="_blank">Reports</a> say that north Korean hackers have been able to steal over $1 billion worth of crypto until may of 2022. Its largest group, Lazarus, has been pointed as responsible for major phishing attacks and malware-spreading techniques</p>
-<p>After the theft of <a href="https://cryptopotato.com/largest-crypto-hack-ever-ronin-bridge-exploited-for-600m-in-eth-and-usdc/" data-wpel-link="internal">more than 620 million dollars</a> from Axie Infinity, the North Korean hacker group Lazarus, one of the largest hacker groups in the world, raised enough money to improve their software to such an extent that they created an advanced cryptocurrency scheme through a domain called bloxholder.com which they used as a front to steal the private keys of many of their &#8220;customers.&#8221;</p>
-<p>As <a href="https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/" data-wpel-link="external" target="_blank">reported </a>by Microsoft, attacks targeting cryptocurrency organizations for higher rewards have increased over the past few years, so attacks have become more complex than before.</p>
-<p>One of the newest techniques used by hackers through Telegram groups is sending infected files disguised as Excel tables containing exchange company fee structures as a hook.</p>
-<p>Once the victims open the files, they download a series of programs allowing the hacker to remotely access the infected device, whether it is a mobile device or a PC.</p>
+			            <description><![CDATA[Manchester United launched an NFT collection in Tezos that sold out faster than expected. But the style is much like that of another major Tezos NFT artist.]]></description>
+            																<content:encoded><![CDATA[<p>On December 28, NFT artist Lucréce reported via Twitter that he is in talks with Arthur Breitman, co-founder of Tezos, to get an explanation from Manchester United soccer about why its new NFT collection uses designs and styles similar to his own.</p>
+<p>Lucréce&#8217;s collection is much older than United&#8217;s and has higher prices, reaching approximately 21 ETH ($24,919) per NFT. In contrast, each of the Red Devils&#8217; 7,777 NFTs sold for about $40, running out of stock immediately after release.</p>
+<figure id="attachment_230759" aria-describedby="caption-attachment-230759" style="width: 1024px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44.png" data-wpel-link="internal"><img class="size-large wp-image-230759" src="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44-1024x591.png" alt="Lucréce's NFT collection, Source: OpenSea" width="1024" height="591" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44-1024x591.png 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44-300x173.png 300w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44-768x443.png 768w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44-50x29.png 50w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-44.png 1321w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-230759" class="wp-caption-text">Lucréce&#8217;s NFT collection, Source: OpenSea</figcaption></figure>
+<p>Lucréce hopes to strike a deal with the Red Devils. that will benefit both parties, as the resemblance of their artwork is so uncanny that some community users wondered if the artist worked on creating the Manchester United project.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">I’m not saying <a href="https://twitter.com/ManUtd?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@ManUtd</a> was inspired by my work, but I’m not saying Manchester United wasn’t inspired by my work. <a href="https://t.co/q09Y6uouxF" data-wpel-link="external" target="_blank">pic.twitter.com/q09Y6uouxF</a></p>
+<p>— Lucréce (@DesLucrece) <a href="https://twitter.com/DesLucrece/status/1606262513275875328?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 23, 2022</a></p></blockquote>
+<p>Although the artist was careful not to directly accuse Manchester United of plagiarizing his works, he showed an image on Twitter comparing the two artworks so readers could draw their own conclusions.</p>
+<h2>Is Manchester United Copying Lucréce&#8217;s NFT Artwork?</h2>
+<p>User <a href="https://twitter.com/ClownVamp/status/1607885042696740864" data-wpel-link="external" target="_blank">ClownVamp</a>, posted a series of Tweets comparing both NFTs, noting that Lucréce&#8217;s was &#8220;one of Tezos&#8217; most popular and oldest collections.&#8221;</p>
+<figure id="attachment_230760" aria-describedby="caption-attachment-230760" style="width: 1024px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45.png" data-wpel-link="internal"><img class="size-large wp-image-230760" src="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45-1024x415.png" alt="The Manchester United NFT Collection" width="1024" height="415" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45-1024x415.png 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45-300x122.png 300w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45-768x311.png 768w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45-50x20.png 50w, https://cryptopotato.com/wp-content/uploads/2022/12/Screenshot-45.png 1537w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-230760" class="wp-caption-text">The Manchester United NFT Collection</figcaption></figure>
+<p>The terms and conditions of the United collection state that the NFTs were created by TRILITECH PLATFORM OÜ, &#8220;the for-profit arm of the Tezos foundation.&#8221; They are therefore authorized by the Tezos Foundation to mint and sell the digital collection of the English football team.</p>
+<p>The Devils collection <a href="https://www.manutd.com/en/news/detail/man-utd-launches-second-digital-collectible-drop-the-devils" target="_blank" rel="noopener" data-wpel-link="external">launched</a> by Manchester United is the team&#8217;s second digital collectible drop. Each token has a unique set of features and gives its owner rights to exclusive airdrops, special AMAs, private competitions, and other &#8220;surprises.&#8221; This would be the next step in a broader <a href="https://cryptopotato.com/manchester-united-unveils-a-training-kit-sponsorship-with-tezos/" data-wpel-link="internal">partnership</a> between the team and Tezos.</p>
+<h2>Lucréce Gets Answers from Manchester United</h2>
+<p>Later today, Lucréce reported through his networks that thanks to the support of the community and Tezos, he got a response from Manchester United with a view to reaching an agreement, stating that the club had not contacted him due to the holidays.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Update: correspondence between me and ManU has started. Had a productive call with them just now. Probably the last update on this for a while since everyone is still on holiday.</p>
+<p>In times of adversity, you’ll know who your friends are. Thank you, tezos community. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f91d.png" alt="🤝" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>— Lucréce (@DesLucrece) <a href="https://twitter.com/DesLucrece/status/1608222668234395648?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 28, 2022</a></p></blockquote>
+<p>Many of his followers expressed their joy for the club&#8217;s response, applauding how the artist politely handled the case — which is not the usual way people deal with controversies on Twitter.</p>
+<p>As part of his demands, Lucréce asked for dinner with Cristiano Ronaldo. This was a joke, of course, but the artist later wrote that the topic &#8220;was not brought up. Almost as if it was avoided.&#8221; How will the matter turn out? Will he receive monetary compensation, or will he have his dream dinner with the world-famous CR7?</p>
 <p>&nbsp;</p>
-<p>The post <a href="https://cryptopotato.com/north-korean-hacking-group-steals-millions-posing-as-japanese-vcs-and-banks/" rel="nofollow">North Korean Hacking Group Steals Millions Posing as Japanese VCs And Banks</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://cryptopotato.com/manchester-united-accused-of-copying-nft-artist-for-its-own-collection/" rel="nofollow">Manchester United Accused of Copying NFT Artist For Its Own Collection</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Russia&#8217;s Former President Predicts a Monetary Crash and a Global Shift to Crypto</title>
-		<link>https://cryptopotato.com/russias-former-president-predicts-a-monetary-crash-and-a-global-shift-to-crypto/</link>
+		<title>Binance Updates LUNC Burning Model Following Controversial Community Proposals</title>
+		<link>https://cryptopotato.com/binance-updates-lunc-burning-model-following-controversial-community-proposals/</link>
 		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 23:48:30 +0000</pubDate>
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 22:03:01 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Terra (LUNA)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230624</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/05/Terra_Burn.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/05/Terra_Burn.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Binance plans to reduce LUNC trading fees from 100% to 50%. LUNC reacted negatively, shredding 12% on the day. ]]></description>
+            																<content:encoded><![CDATA[<p class="p2">Leading cryptocurrency exchange Binance has <span class="s1">announced</span> that it is changing the burning mechanism for <span class="s1">Terra Classic (LUNC) trading fees</span>.</p>
+<p class="p2">According to the exchange, the <a href="https://www.binance.com/en/support/announcement/binance-to-make-changes-to-the-burning-of-terra-classic-lunc-trading-fees-4769eab576c4479eaa14adc1eb587226" data-wpel-link="external" target="_blank">changes</a> are in response to two controversial proposals &#8211; Proposal 10983 and 11111 &#8211; where <a href="https://cryptopotato.com/lunc-spikes-36-following-binances-burning-announcement/" data-wpel-link="internal">LUNC burn</a> is being re-minted as a development fund.</p>
+<h2 class="p3"><b>Binance Makes Changes to LUNC Burn Mechanism</b></h2>
+<p class="p2">As part of the changes, Binance said it would reduce its <a href="https://cryptopotato.com/terra-2-0-is-live-here-are-the-exchanges-to-support-the-luna-airdrop/" data-wpel-link="internal"><span class="s1">LUNC</span></a> spot and margin trading fees from 100% to 50% starting December 28, 2022.</p>
+<p class="p2">The exchange added that it would delay sending LUNC trading fee burn contributions to burn addresses until March 1, 2023. This will ensure that the trading fees are not re-minted until the LUNC community meets certain requests from Binance.</p>
+<h2 class="p3"><b>What are Binance Requests?</b></h2>
+<p class="p2">The crypto exchange said it had been in discussions with the leadership team from the Terra Grants Foundation concerning the requests.</p>
+<p class="p2">Binance has asked the foundation to create a new burn wallet, saying it would send LUNC spot and margin trading fees to the new one, which does not allow re-minting of the burn amount.</p>
+<p class="p2">The trading platform also asked the foundation to whitelist its wallets &#8220;so that the transaction tax is not applied when transferring between these wallets.&#8221;</p>
+<p class="p2">Binance said if the community fails to meet these requests, it will end the <a href="https://cryptopotato.com/binance-signals-support-for-new-0-2-lunc-tax-burn/" data-wpel-link="internal">LUNC Burn mechanism</a> on its platform.</p>
+<blockquote>
+<p class="p2">&#8220;Binance will continue to work with the community to support the implementation of this new plan, and if for any reason this can&#8217;t be done, Binance will consider withdrawing the burn contribution going forward,&#8221; the exchange added.</p>
+</blockquote>
+<h2>LUNC Drops 12%</h2>
+<p class="p2">Following the announcement, the price of LUNC <a href="https://cryptopotato.com/altcoins-bleeding-out-solana-and-lunc-crash-by-double-digits-market-watch/" data-wpel-link="internal">dropped</a> sharply by more than 12% on the day, despite being one of the best performers over the past few days. At the time of writing, the coin was trading at $0.0001599.</p>
+<p class="p2">It is worth noting that the overall crypto market is bleeding out, with many altcoins down double digits after bitcoin failed to reclaim $17,000.</p>
+<p>The post <a href="https://cryptopotato.com/binance-updates-lunc-burning-model-following-controversial-community-proposals/" rel="nofollow">Binance Updates LUNC Burning Model Following Controversial Community Proposals</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>SBF Took $546M Loan From Alameda to Buy Robinhood Shares</title>
+		<link>https://cryptopotato.com/sbf-took-546m-loan-from-alameda-to-buy-robinhood-shares/</link>
+		
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 20:20:20 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[social]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[European Union]]></category>
-		<category><![CDATA[Justin Sun]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230490</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/1.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/1.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[FTX Exchange]]></category>
+		<category><![CDATA[Robinhood]]></category>
+		<category><![CDATA[Sam Bankman-Fried (SBF)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230700</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/FTX_Robinhood.png" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/FTX_Robinhood.png" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Dmitry Medvedev believes that the US dollar and the euro will lose their strength, while crypto will come to prominence. ]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Dmitry Medvedev &#8211; a Russian politician who served as President of the country between 2008 and 2012 &#8211; thinks 2023 could see the crash of the International Monetary Fund (IMF) and the World Bank. He suggested that such an event could reduce the power of the euro and the dollar and boost the usage of cryptocurrencies.</span></p>
-<p><span data-preserver-spaces="true">Tron&#8217;s Founder &#8211; Justin Sun &#8211; agreed with Medvedev&#8217;s &#8220;insightful comment.&#8221; He also maintained that crypto adoption is gradually rising in China and that &#8220;the best is yet to come.&#8221;</span></p>
-<h2><span data-preserver-spaces="true">Medvedev&#8217;s Crypto Forecast</span></h2>
-<p><span data-preserver-spaces="true">Numerous prominent individuals and political figures used the approaching end of 2022 as an opportunity to share their predictions on what to expect in the following year. The latest was Dmitry Medvedev &#8211; former President of Russia and ex-PM of the world&#8217;s largest nation by landmass.</span></p>
-<p><span data-preserver-spaces="true">He believes the Bretton Woods system (an international monetary agreement that standardized currency exchange rates) could fall apart and prompt the collapse of leading financial institutions, such as the IMF and the World Bank. As a result, two of the world&#8217;s leading fiat currencies &#8211; the euro and dollar &#8211; could lose their dominance as global reserve currencies, triggering a broad cryptocurrency adoption.</span></p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">10. The Bretton Woods system of monetary management will collapse, leading to the IMF and World Bank crash. Euro and Dollar will stop circulating as the global reserve currencies. Digital fiat currencies will be actively used instead</p>
-<p>— Dmitry Medvedev (@MedvedevRussiaE) <a href="https://twitter.com/MedvedevRussiaE/status/1607487794133471232?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 26, 2022</a></p></blockquote>
-<p><span data-preserver-spaces="true">Tron&#8217;s Justin Sun </span><a class="editor-rtfLink" href="https://twitter.com/justinsuntron/status/1607675031747956737" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">highlighted</span></a><span data-preserver-spaces="true"> the politician&#8217;s thesis, adding that crypto has the potential to &#8220;revolutionize the global reserve currency.&#8221;</span></p>
-<p><span data-preserver-spaces="true">In a following </span><a class="editor-rtfLink" href="https://twitter.com/justinsuntron/status/1607689370408222722" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">tweet</span></a><span data-preserver-spaces="true">, the Chinese opined that crypto adoption is on the rise in his homeland, while the reopening of the borders after the COVID-19 wave and the strength of the economy are positive signs for the future of the country&#8217;s monetary system.</span></p>
-<h2><span data-preserver-spaces="true">The List Goes on</span></h2>
-<p><span data-preserver-spaces="true">Medvedev&#8217;s list of predictions consisted of some bizarre possible scenarios like the United Kingdom joining back the European Union (EU), the formation of the &#8220;Fourth Reich,&#8221; and a consecutive war between France and the &#8220;Fourth Reich.&#8221;</span></p>
-<p><span data-preserver-spaces="true">The 57-year-old politician also said all the largest stock markets and main economic activity could shift from the United States of America and Europe to Asia.</span></p>
-<p><span data-preserver-spaces="true">In addition, he believes a civil war could break out in the US, following which Texas and Mexico could unite in an allied state. After the end of the military conflict, Elon Musk could win the presidential election in numerous states, he concluded.</span></p>
-<p><span data-preserver-spaces="true">Tesla&#8217;s CEO was quick to reply to the assumptions, </span><a class="editor-rtfLink" href="https://twitter.com/elonmusk/status/1607565268150091778?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1607565268150091778%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">saying</span></a><span data-preserver-spaces="true"> these are &#8220;definitely the most absurd predictions&#8221; he has ever heard. He also argued that Medvedev was completely unaware of the advancement of artificial intelligence and sustainable energy.</span></p>
-<p>The post <a href="https://cryptopotato.com/russias-former-president-predicts-a-monetary-crash-and-a-global-shift-to-crypto/" rel="nofollow">Russia&#8217;s Former President Predicts a Monetary Crash and a Global Shift to Crypto</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[New evidence shows that SBF borrowed over half a billion dollars from Alameda to purchase 56 million Robinhood shares. ]]></description>
+            																<content:encoded><![CDATA[<p class="p2">FXT founder and former CEO Sam Bankman-Fried (SBF) borrowed over $546 million from his trading house, Alameda Research, to purchase a 7.6% stake in Robinhood earlier this year.</p>
+<p class="p2">According to an affidavit<a href="https://storage.courtlistener.com/recap/gov.uscourts.njb.1094107/gov.uscourts.njb.1094107.19.7.pdf" data-wpel-link="external" target="_blank"><span class="s1"> filed </span></a>in the High Court of Justice Antigua and Barbuda on December 12 before the arrest of SBF, the former billionaire teamed up with FTX co-founder <a href="https://cryptopotato.com/ftx-alameda-crisis-caroline-ellison-gary-wang-plead-guilty-to-fraud/" data-wpel-link="internal">Zixiao (Gary) Wang</a> to borrow the funds. They were used to support Emergent Fidelity Technologies, another FTX affiliate, to purchase the 56 million <i>HOODs</i> in May.</p>
+<h2 class="p3"><b>SBF Legally Owns 90% of the Robinhood Shares </b></h2>
+<p class="p2">The loan was evidenced in four promissory notes, which revealed that SBF and Wang each borrowed approximately $317 million and $176 million from Alameda on April 30, 2022, and May 15, 2022, respectively.</p>
+<p class="p2">Bankman-Fried received an additional $19 million from the firm on the same day Wang took the loan, representing a total of $554 million.</p>
+<blockquote>
+<p class="p2">&#8220;In order to capitalize Emergent Fidelity Technologies so it could make the investments into Robinhood, Gary and I agreed to borrow funds from Alameda Research LTD,&#8221; reads the court document.</p>
+</blockquote>
+<p class="p2">The funds were then given to Alameda to aid its purchase of the shares. However, the trading firm spent around $650 million to purchase the stakes, and SBF claimed that the additional funding came from Wang.</p>
+<p class="p2">According to the former FTX CEO, Emergent does not own any other assets besides the Robinhood shares at the time of purchase.</p>
+<p class="p2">The court document also revealed that Bankman-Fried owned 90% of the shares, while Wang had only 10% of the assets due to the varied contributions.</p>
+<h2 class="p3"><b>SBF, BlockFi, and Shimon Contest for Ownership</b></h2>
+<p class="p2">The shares were later used by SBF and Caroline Ellison, the former CEO of Alameda Research, as a pledge to obtain a loan from the crypto lending company BlockFi.</p>
+<p class="p2">Interestingly, three parties are now fighting for ownership of the shares after FTX and BlockFi filed for bankruptcy last month.</p>
+<p class="p2">SBF, BlockFi, and Yonathan Ben Shimon, one of FTX&#8217;s creditors, have filed separate legal actions in various jurisdictions to claim the Robinhood stake.</p>
+<p class="p2">Earlier this month, Bankman-Fried, currently under house <a href="https://cryptopotato.com/sam-bankman-fried-released-on-a-250m-bail-can-stay-at-parents-house/" data-wpel-link="internal">arrest</a>, <span class="s1">filed </span>a <a href="https://cryptopotato.com/ftx-battles-for-control-of-450m-robinhood-shares-in-us-bankruptcy-court/" data-wpel-link="internal">motion</a> at a United States bankruptcy court seeking assistance to procure the assets now held by the brokerage company ED&amp;F Man Capital Markets (EDFM).</p>
+<p class="p2">BlockFi, on the other hand, claims that the assets belonged to it, noting that the stake was pledged to the company as collateral on November 9. On that note, the crypto lender <a href="https://cryptopotato.com/blockfi-sues-sbf-over-robinhood-shares-after-filing-for-bankruptcy-report/" data-wpel-link="internal"><span class="s1">sued </span></a>Bankman-Fried, requesting that he honor the deal.</p>
+<p class="p2">The last claimant, Yonathan Ben Shimon, an FTX creditor, alleged that the common stakes were purchased using customers&#8217; assets, which were part of the bitcoins he deposited on the exchange years before the company&#8217;s unfortunate end.</p>
+<p>The post <a href="https://cryptopotato.com/sbf-took-546m-loan-from-alameda-to-buy-robinhood-shares/" rel="nofollow">SBF Took $546M Loan From Alameda to Buy Robinhood Shares</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Santa Launches its Browser this Christmas to Bring in the Next 200M Users onto Web3</title>
-		<link>https://cryptopotato.com/santa-launches-its-browser-this-christmas-to-bring-in-the-next-200m-users-onto-web3/</link>
+		<title>Solana Suffers Major Setback as Development Activity Plunges, SOL Dumps Hard</title>
+		<link>https://cryptopotato.com/solana-suffers-major-setback-as-development-activity-plunges-sol-dumps-hard/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 18:42:44 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[SOLBTC]]></category>
+		<category><![CDATA[SOLUSD]]></category>
+		<category><![CDATA[FTX Exchange]]></category>
+		<category><![CDATA[Sam Bankman-Fried (SBF)]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230658</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/Solana_Crash.png" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/Solana_Crash.png" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[SBF and FTX "had a heavy hand in Solana thriving the way it did" throughout last year's market-wide bull run, according to Santiment.]]></description>
+            																<content:encoded><![CDATA[<p>Wading through the wreckage of FTX and Alameda, it is clear that some communities were hit a lot harder than others. Several DeFi protocols sporting close ties with the two entities have suffered. Solana, for one, has been hit the hardest since the collapse.</p>
+<p>The once top 10 market cap asset, SOL has slid to the 17th position, and the struggle may continue in 2023 as well.</p>
+<h2>Solana FUD</h2>
+<p>Solana (SOL) had an impressive run-up last year and was one of the best-performing tokens of the 2021 bull market. But since the unraveling of Sam Bankman-Fried&#8217;s crypto empire, it has lost over 70% of its value.</p>
+<p>The disgraced founder of FTX hyped Solana and its ecosystem frequently for years. The bankrupt exchange held $982 million in SOL, according to its <a href="https://www.bloomberg.com/news/articles/2022-11-13/ftx-s-balance-sheet-hack-paint-dim-picture-for-user-recovery" target="_blank" rel="noopener" data-wpel-link="external">balance sheet.</a> Additionally, SOL is the second largest holding of its sister trading firm Alameda Research.</p>
+<p>Zooming out, Solana lost over 95% of its value since its all-time high last November. A crash of this magnitude has shaken even the most resilient investors to the core.</p>
+<p>The Solana ecosystem was expected to mount a serious challenge to Ethereum. Once heralded as an &#8220;Ethereum Killer,&#8221; the development activity on the network has taken a toll as well.</p>
+<p>According to <a href="https://twitter.com/santimentfeed/status/1607998705130692611" target="_blank" rel="noopener" data-wpel-link="external">data</a> from the crypto analytic platform Santiment, Solana&#8217;s development activity has been on a massive decline. Developers are no longer seeing any advantages to using the network and are currently in a near-death state.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/Solana?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Solana</a> is now down 73% in the past 8 weeks. The <a href="https://twitter.com/hashtag/FUD?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#FUD</a> is strong toward the once thriving asset, but there appears to be some pretty good justification with development activity coming to a halt. Read our take on what metrics are pointing to for <a href="https://twitter.com/search?q=%24SOL&amp;src=ctag&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">$SOL</a>. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/P7AnKYfKYN" data-wpel-link="external" target="_blank">https://t.co/P7AnKYfKYN</a></p>
+<p>— Santiment (@santimentfeed) <a href="https://twitter.com/santimentfeed/status/1607998705130692611?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 28, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Furthermore, Token Terminal&#8217;s <a href="https://twitter.com/maik2hello/status/1605800868699246592" target="_blank" rel="noopener" data-wpel-link="external">data</a> suggest that the number of active blockchain developers has dropped from 3.7k recorded at the beginning of the year to about 1.6k in December. The developer count stood somewhere around 2,553, but the network is now left with only 76.</p>
+<p>Top Solana projects such as DeGods and y00ts also <a href="https://cryptopotato.com/nft-projects-degods-y00ts-to-leave-solana-for-ethereum-and-polygon/" target="_blank" rel="noopener" data-wpel-link="internal">announced</a> their departure from the network to Ethereum and Polygon, which has further added to the layer 1 blockchain&#8217;s woes.</p>
+<h2>Gloomy Picture</h2>
+<p>SOL-denominated total value locked (TVL) also tells a similar story, having <a href="https://defillama.com/chain/Solana?currency=SOL" target="_blank" rel="noopener" data-wpel-link="external">fallen</a> 28% from 27.2 million to 18.93 million since November 6. This could potentially imply that the fall of USD-denominated TVL may not be entirely the result of declining prices but rather from users pulling their assets out of DeFi.</p>
+<p>Meanwhile, the supply of stablecoins on the Solana has <a href="https://www.gokustats.xyz/dashboard/solana" target="_blank" rel="noopener" data-wpel-link="external">taken</a> a hit significantly over the past several weeks. Its stablecoin market cap has decreased by around 50% since November 6th from a whopping $3.9 billion to $1.8 billion.</p>
+<p>But Solana co-founders Anatoly Yakovenko and Raj Gokal view the setbacks as temporary. The two execs recently <a href="https://fortune.com/crypto/2022/12/06/ripping-the-bandaid-solana-cofounders-talk-sbf-ftx-and-what-comes-next/" target="_blank" rel="noopener" data-wpel-link="external">told</a> Fortune that the events will be crucial for the network in moving forward.</p>
+<blockquote><p>&#8220;I think in the long term, it’s really good. We’ve always heard really negative criticism about FTX’s involvement in the ecosystem and that concentration of ownership stake. So it feels like ripping the Band-Aid.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptopotato.com/solana-suffers-major-setback-as-development-activity-plunges-sol-dumps-hard/" rel="nofollow">Solana Suffers Major Setback as Development Activity Plunges, SOL Dumps Hard</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>YES WORLD Reached 100k Holders Mark, Doubled in Under 2 Months</title>
+		<link>https://cryptopotato.com/yes-world-reached-100k-holders-mark-doubled-in-under-2-months/</link>
 		
 		<dc:creator><![CDATA[Press Release]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 22:21:21 +0000</pubDate>
+		<pubDate>Wed, 28 Dec 2022 16:15:38 +0000</pubDate>
 				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230556</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/Santa_Browser.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/Santa_Browser.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230723</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/Yes_World.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/Yes_World.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[[PRESS RELEASE &#8211; Road Town, BVI, 27th December 2022] Santa Browser has announced the Version 1 launch of its web3 browser today. Built for an emerging crypto world, the browser claims to bring in the next generation of web3 users by developing tools that allow anyone to leverage the power of blockchain technologies. Due to [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; Road Town, BVI, 27th December 2022]</strong></p>
-<p><a href="http://www.santabrowser.com/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Santa Browser</a> has announced the Version 1 launch of its web3 browser today. Built for an emerging crypto world, the browser claims to bring in the next generation of web3 users by developing tools that allow anyone to leverage the power of blockchain technologies. Due to the extreme volatility of the market, Santa is dedicated to building a “Trustable Technology Stack” that users can firmly rely upon while browsing the web. With the Christmas release of Santa Browser, users can now earn crypto rewards simply by browsing.</p>
-<blockquote><p>&#8220;We believe that browsers need to evolve a lot more to keep up with the pace at which the internet is evolving.&#8221; said Alekh B, CEO of Santa Browser. &#8220;Our approach to Santa Browser is deeply influenced by the principles of web3 — Anti Monopoly, Transparency, Democracy, Data Privacy, Security &amp; Fair Distribution Of Wealth.&#8221;</p></blockquote>
-<h2>Why Santa Browser?</h2>
-<p><strong>Browse-2-Earn</strong></p>
-<p>On a mission to reimagine the web, the browser starts with the relationship between users &amp; advertising. With Santa’s Browse2Earn, users can earn crypto rewards for their regular activities online (rewards include but are not limited to ad monetization, search monetization, discounted shopping, etc.) while maintaining control over their privacy.</p>
-<h2>Geared For Privacy</h2>
-<p><a href="http://www.santabrowser.com/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Santa Browser</a> hosts many features to protect user privacy.</p>
-<ul>
-<li>Integrated ad blocker — to stop all invasive ads.</li>
-<li>Tracker blocker — to stop all online trackers &amp; browser fingerprinting practices.</li>
-<li>Ungoogling — while forked from chromium, the browser has been cleansed of all Google trackers, host detectors (tools that identify your IP address) &amp; other privacy-harming features.</li>
-<li>Santa also disables other features inherent in the base Chromium build that inhibit control and transparency, while adding/modifying features that promote them. This is an ongoing process.</li>
-<li>Santa’s partnership with Eyeo ensures that only Acceptable Ads that abide by the criteria specially developed for and by ad-filtering users, and are non-intrusive are allowed to interact with you.</li>
-</ul>
-<h2>Military Grade Security</h2>
-<p>Santa Browser&#8217;s code has been reviewed and tested for vulnerabilities by Veracode, a programme that validates a company&#8217;s secure software development processes. Veracode Secure code review certification echoes Santa Browser&#8217;s mature practices for creating secure software.</p>
-<h2>Planned Features</h2>
-<p>Updates in the next few weeks will see the phased release of interesting features such as free single-tab VPN, an immersive dApp store and the browser’s very own decentralized “Santa Wallet” where users can easily collect their rewards.</p>
-<h2>About Santa Browser</h2>
-<p>A unique Web3 browser exclusively catering to the emerging crypto world &#8211; Santa will give users everything they need to kickstart their crypto journey with safety, ease &amp; convenience. Santa browser does not just resolutely protect the data &amp; privacy of its users, it also generously rewards them. Through Santa’s Rewarded Browsing, users have the option to earn rewards through Ad Monetization, Search Monetization, Discounted Shopping, etc.</p>
-<p>The post <a href="https://cryptopotato.com/santa-launches-its-browser-this-christmas-to-bring-in-the-next-200m-users-onto-web3/" rel="nofollow">Santa Launches its Browser this Christmas to Bring in the Next 200M Users onto Web3</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[[PRESS RELEASE &#8211; Please Read Disclaimer] Leading blockchain-based climate tech startup YES WORLD Token, operated by YES WORLD Climate Tech Pte Ltd based out of Singapore, reaches a significant milestone of 100k holders. YES WORLD Token is getting a lot of interest from crypto enthusiasts worldwide and the number of holders for the cryptocurrency has [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; Please Read Disclaimer]</strong></p>
+<p>Leading blockchain-based climate tech startup YES WORLD Token, operated by YES WORLD Climate Tech Pte Ltd based out of Singapore, reaches a significant milestone of 100k holders. YES WORLD Token is getting a lot of interest from crypto enthusiasts worldwide and the number of holders for the cryptocurrency has doubled within the last two months.</p>
+<p>The leading utility token is also experiencing a rise in token price as well as volume, and making new highs in the last few trading sessions. As per the data from CoinMarketCap, YES WORLD Token price has shot up by over 35% in the last three months, and chart analysis indicates that this uptrend may continue in coming months also.</p>
+<p>YES WORLD also reported reaching 1.5million transaction count last week, so clearly there are several thousand new people buying the leading utility token every month.</p>
+<p>YES WORLD launched utility services in over 80 countries a few days back and reaching the 100k holder market shows that people like the cryptocurrency with utilities. YES World’s Utility portal is a platform where users will be able to utilize YES WORLD Token for their regular purchases for products and services at merchant locations.</p>
+<p>There are several merchants that are accepting YES WORLD Token directly over POS Terminal installed at the physical stores. Users will have to scan the bar code presented at the checkout on the POS Terminal to make the payment using the token. Several vending machines installed worldwide also support YES WORLD Token as payment method.</p>
+<p>Launched in the spring of 2022, YES WORLD Token is getting good traction in crypto utility space and  is already trading on several leading centralized exchanges including XT.com and Coinsbit.io, as well as on decentralized exchange &#8211; PancakeSwap.</p>
+<p>YES WORLD Token is operated by YES WORLD Climate Tech Pte Ltd, based out of Singapore. It is a climate tech blockchain-based startup working on green technology to reduce carbon footprint.  YES is the native token for YES WORLD&#8217;s Save Earth mission. It is conceptualized to generate awareness around the global warming challenges to bring critical mass to join the mission and take steps in the direction of reducing carbon footprint from the atmosphere.</p>
+<p>YES WORLD is inceptualized and promoted by Save Earth activist Dr Sandeep Choudhary, who has constantly been working to generate awareness of global warming and climate change impacts. Under Dr. Choudhary&#8217;s vision and leadership, YES WORLD has championed a noble cause of reducing carbon footprint and bringing forth the issue of global warming and climate change.</p>
+<p>Important links &#8211;   Website &#8211; <a href="http://www.yesworld.io" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">www.yesworld.io</a></p>
+<p>CMC Page &#8211; <a href="https://coinmarketcap.com/currencies/yes-world-token/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">https://coinmarketcap.com/currencies/yes-world-token/</a></p>
+<p>The post <a href="https://cryptopotato.com/yes-world-reached-100k-holders-mark-doubled-in-under-2-months/" rel="nofollow">YES WORLD Reached 100k Holders Mark, Doubled in Under 2 Months</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Litecoin Achieved Many Milestones in 2022 But Development Activity Took a Back Seat</title>
-		<link>https://cryptopotato.com/litecoin-achieved-many-milestones-in-2022-but-development-activity-took-a-back-seat/</link>
+		<title>Mango Markets $110M Exploiter Arrested, Faces Charges in New York</title>
+		<link>https://cryptopotato.com/mango-markets-110m-exploiter-arrested-faces-charges-in-new-york/</link>
 		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 21:35:08 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Litecoin]]></category>
-		<category><![CDATA[Mimblewimble]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230492</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/02/Litecoin.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/02/Litecoin.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Litecoin has kept a low profile in 2022 but managed to unlock several milestones. ]]></description>
-            																<content:encoded><![CDATA[<p>While most crypto-assets struggled to keep their price upwards due to the crypto winter, Litecoin appeared to have been decoupling from its peers, which aided its trajectory.</p>
-<p>In fact, it has been posting gains over the past month. Despite a promising attempt at a comeback, the developer activity on the network was lagging.</p>
-<ul>
-<li>Data from Santiment <a href="https://twitter.com/ali_charts/status/1607494462174814208" target="_blank" rel="noopener" data-wpel-link="external">shows</a> that the development activity first gained traction in early September before skyrocketing in October.</li>
-<li>The figures went downhill shortly thereafter &#8211; from 2.26 to 0.12 in a span of two months.</li>
-<li>In contrast, Messari <a href="https://twitter.com/litecoin/status/1607541907550265345" target="_blank" rel="noopener" data-wpel-link="external">ranked</a> Litecoin as the second most active chain in estimated on-chain transaction volume over the past 24 hours.</li>
-<li>With $2.88 billion in transaction volume, Litecoin is trailing just behind Bitcoin. The volume for the latter stood at a whopping $3.98 billion.</li>
-<li>The two crypto-assets were <a href="https://messari.io/screener/chains-activity-E3EE9AE5" target="_blank" rel="noopener" data-wpel-link="external">followed</a> by other prominent networks, such as Cardano, Ethereum, and XRP, with $1.96 billion, $1.04 billion, and $440 million, respectively.</li>
-<li>Another bullish note is the average Litecoin balance currently held on Mimblewimble Extension Blocks (MWEB), which has <a href="https://twitter.com/LTCFoundation/status/1607424318866337792?" target="_blank" rel="noopener" data-wpel-link="external">increased</a> to 58,000 LTC, or the equivalent of over $4 million.</li>
-<li>Moreover, Litecoin has <a href="https://coinatmradar.com/charts/cryptocurrency-share/" target="_blank" rel="noopener" data-wpel-link="external">captured</a> the second spot on the list of the most supported ATM cryptocurrency leaving behind altcoin leader Ethereum.</li>
-<li>BitPay&#8217;s recent report further <a href="https://bitpay.com/blog/litecoin-payments-on-the-rise/" target="_blank" rel="noopener" data-wpel-link="external">highlighted</a> the emergence of Litecoin as a preferred payment method across the globe. In just one year since the crypto payment provider added support for it, monthly LTC payments increased by 109%.</li>
-<li>Meanwhile, Litecoin payments account for roughly 27% of all the payments that are processed by Bitpay, only behind Bitcoin, which grabbed the first spot with more than 40% dominance.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/litecoin-achieved-many-milestones-in-2022-but-development-activity-took-a-back-seat/" rel="nofollow">Litecoin Achieved Many Milestones in 2022 But Development Activity Took a Back Seat</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Argo Blockchain Requests Temporary Suspension of Trading on NASDAQ</title>
-		<link>https://cryptopotato.com/argo-blockchain-requests-temporary-suspension-of-trading-on-nasdaq/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 20:03:21 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin Mining]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230508</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/07/Argo_Bitcoin.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/07/Argo_Bitcoin.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Argo had "inadvertently published material" that "incorrectly" implied the company was filing for bankruptcy amidst market turmoil.]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin mining giant Argo Blockchain has requested trading of its shares and unsecured notes on the NASDAQ stock exchange be suspended until December 28th.</p>
-<p>The company, which trades on both the NASDAQ and the London Stock Exchange (LSE), <a href="https://www.businesswire.com/news/home/20221227005129/en/Suspension-of-Trading-on-Nasdaq-for-Argo-Blockchain-plc" target="_blank" rel="noopener" data-wpel-link="external">said</a> that it wants to make an announcement before resuming its trade on Wednesday.</p>
-<ul>
-<li>The latest development comes just two weeks after Argo <a href="https://news.bloombergtax.com/crypto/argo-blockchain-says-company-at-risk-of-having-insufficient-cash" target="_blank" rel="noopener" data-wpel-link="external">warned</a> that it is at risk of holding &#8220;insufficient cash&#8221; to keep up with its operations in the next month.</li>
-<li>Its plan to <a href="https://cryptopotato.com/argo-blockchain-facing-negative-cash-flow-stocks-plummet-50/" target="_blank" rel="noopener" data-wpel-link="internal">secure</a> $27 million in partnership with an investor through a shares subscription also fell through in October.</li>
-<li>The Bitcoin miner was then reported to be in advanced <a href="https://www.londonstockexchange.com/news-article/ARB/restoration-of-trading-on-the-lse/15754846" target="_blank" rel="noopener" data-wpel-link="external">negotiations</a> with a third party to sell some of its assets and conduct an equipment financing transaction to boost its balance sheet and enhance liquidity, as per a filing with the London Stock Exchange.</li>
-<li>However, Argo had expressed hopes to execute a deal without filing for Chapter 11 bankruptcy while adding that &#8220;there is no assurance that the company can avoid such a filing.&#8221;</li>
-<li>McDermott Will &amp; Emery LLP are acting as legal advisers, while Berkeley Research Group was appointed as the embattled company&#8217;s financial adviser.</li>
-<li>Argo revealed mining 198 bitcoins in November, a drop from 204 in the month prior, due to an increase in the Bitcoin network difficulty.</li>
-<li>As a result of the market-wide slump, the London-based crypto miner&#8217;s stock is <a href="https://www.marketwatch.com/investing/stock/arbk" target="_blank" rel="noopener" data-wpel-link="external">down</a> more than 95% this year from $12.7 to $0.53 at press time.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/argo-blockchain-requests-temporary-suspension-of-trading-on-nasdaq/" rel="nofollow">Argo Blockchain Requests Temporary Suspension of Trading on NASDAQ</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>US DOJ Probes the $400M FTX Hack (Report)</title>
-		<link>https://cryptopotato.com/us-doj-probes-the-400m-ftx-hack-report/</link>
-		
-		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 18:37:22 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[FTX Exchange]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230532</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/09/us-doj-wire-act-online-gaming-900x540-min.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/09/us-doj-wire-act-online-gaming-900x540-min.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The US DOJ has reportedly launched a criminal investigation into the $400M FTX hack. ]]></description>
-            																<content:encoded><![CDATA[<p>The United States Department of Justice has reportedly launched a criminal probe into the hack that saw almost $400 million drained from FTX.</p>
-<ul>
-<li>According to a <a href="https://www.bloomberg.com/news/articles/2022-12-27/us-probes-how-372-million-vanished-in-hack-after-ftx-bankruptcy?leadSource=uverify%20wall" data-wpel-link="external" target="_blank">report</a> by Bloomberg, which cites people familiar with the matter, the United States Department of Justice is launching a criminal probe into the $400M FTX <a href="https://cryptopotato.com/500-million-hack-against-ftx-turns-out-to-be-bahamas-regulator-seizing-assets/" data-wpel-link="internal">hack</a>.</li>
-<li>The report outlines that it&#8217;s unclear whether the exploit was carried out by an inside man or the work of a hacker.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/us-doj-probes-the-400m-ftx-hack-report/" rel="nofollow">US DOJ Probes the $400M FTX Hack (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Another Crypto Company Dismisses 40% of its Employees to Survive the Bear Market</title>
-		<link>https://cryptopotato.com/another-crypto-company-dismisses-40-of-its-employees-to-survive-the-bear-market/</link>
-		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 18:32:22 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Bitcoin Bear Market]]></category>
-		<category><![CDATA[Near Protocol (NEAR)]]></category>
-		<category><![CDATA[Web 3]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230463</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/bear_cover-1.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/bear_cover-1.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The Octopus Network will trim the size of its team by 40% and reduce the salaries of its remaining employees.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Octopus Network &#8211; a multichain crypto network supporting Web3 applications &#8211; will lay off 40% of its staff members to ensure its survival amidst the ongoing crypto winter.</span></p>
-<p><span data-preserver-spaces="true">The adverse macroeconomic factors have taken their toll on numerous other industry leaders who took similar action over the past several months. Some examples are Coinbase, CryptoCom, Huobi, Bybit, BitMEX, and others.</span></p>
-<h2><span data-preserver-spaces="true">This Winter is Different Than the Others</span></h2>
-<p><span data-preserver-spaces="true">In a recent letter, Louis Liu &#8211; Founder of Octopus Network &#8211; </span><a class="editor-rtfLink" href="https://medium.com/@louisliubj" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">announced</span></a><span data-preserver-spaces="true"> that they will refactor the team </span><span data-preserver-spaces="true">to cope with the unfavorable market conditions. He also argued that the present bear market is somewhat different than the previous ones:</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The current winter is the third winter I&#8217;ve experienced, the first two being 2014–2015 and 2018–2019 — and I see that this winter is very different from the others.&#8221;</span></p></blockquote>
-<p><span data-preserver-spaces="true">Liu believes that crypto will be among the most affected industries, where high risks and enhanced volatility will continue to reign. He also thinks that the majority of Web3 startups will not endure the challenging times, predicting the negative trend will last for at least another year.</span></p>
-<p><span data-preserver-spaces="true">As such, Octopus Network (which supports the development of Web3 blockchain applications) enforced its &#8220;Voluntary Separation Program&#8221; and will dismiss 40% of its total workforce. In addition, the 18 people left will have to agree on a salary-cut deal:</span></p>
-<blockquote><p>&#8220;So, we&#8217;re moving forward with the Voluntary Separation Program. To date, roughly 40% of the members (12 of 30) will leave the core team through the program. The remaining team members will accept a 20% salary cut, and the team token incentive will be suspended indefinitely.&#8221;</p></blockquote>
-<p>Near Foundation is the &#8220;exclusive strategic investor&#8221; and &#8220;mother-chain&#8221; of Octopus Network. Liu said the partnership between the two entities remains strong, adding that NEAR and IBC will become the &#8220;two cornerstones&#8221; of Octopus&#8217; new strategy.</p>
-<h2><span data-preserver-spaces="true">2022: a Year of Dismissals and Bankruptcies</span></h2>
-<p><span data-preserver-spaces="true">Multiple cryptocurrency companies trimmed the size of their divisions, prompted by the market downturn and the decreased interest in digital assets. </span></p>
-<p><span data-preserver-spaces="true">The leading US-based exchange </span><a class="editor-rtfLink" href="https://cryptopotato.com/coinbase-ceo-announces-18-layoff-amid-impending-recession/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Coinbase</span></a><span data-preserver-spaces="true"> laid off 18% of its employees in June, BlockchainCom dismissed 25%, while the NFT marketplace </span><a class="editor-rtfLink" href="https://cryptopotato.com/opensea-lays-off-20-of-staff-due-to-bear-market/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">OpenSea</span></a><span data-preserver-spaces="true"> parted with 20% of its employees.</span></p>
-<p><span data-preserver-spaces="true">Companies, including the Argentinian cryptocurrency platform </span><a class="editor-rtfLink" href="https://cryptopotato.com/crypto-exchange-lemon-cash-reduces-its-team-by-38/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Lemon Cash</span></a><span data-preserver-spaces="true"> and the Aussie trading venue </span><a class="editor-rtfLink" href="https://cryptopotato.com/aussie-crypto-exchange-dismisses-almost-half-of-its-staff/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Swyftx</span></a><span data-preserver-spaces="true">, went even further, dismissing respectively 38% and 40% of their staff members.</span></p>
-<p><span data-preserver-spaces="true">The past several months also saw many firms unable to cope with the turbulence and eventually halting operations or filing for bankruptcy protection. Such examples are the former giants Celsius Network, </span><a class="editor-rtfLink" href="https://cryptopotato.com/3ac-files-for-bankruptcy-as-voyager-digital-suspends-withdrawals/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Three Arrows Capital (3AC)</span></a><span data-preserver-spaces="true">, Vauld, </span><a class="editor-rtfLink" href="https://cryptopotato.com/bitcoin-miner-core-scientific-files-for-bankruptcy-report/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">Core Scientific</span></a><span data-preserver-spaces="true">, and others.</span></p>
-<p>The post <a href="https://cryptopotato.com/another-crypto-company-dismisses-40-of-its-employees-to-survive-the-bear-market/" rel="nofollow">Another Crypto Company Dismisses 40% of its Employees to Survive the Bear Market</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Arbitrum, Optimism Battle for Ethereum L2 Supremacy in 2022</title>
-		<link>https://cryptopotato.com/arbitrum-optimism-battle-for-ethereum-l2-supremacy-in-2022/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 16:54:47 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[featured1]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230459</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/11/LAYER2_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/11/LAYER2_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum's layer 2 scaling platforms took center stage in the network's 2022 chapter.]]></description>
-            																<content:encoded><![CDATA[<p>New data suggest that the ecosystem is seeing record network activity. In the last two months, both layers &#8211; 1 and 2 &#8211; have collectively processed 152 million transactions. However, it is the layer two solutions such as Arbitrum, Optimism, and others that accounted for 58%.</p>
-<p>On the other hand, Ethereum mainnet transactions were <a href="https://twitter.com/Dynamo_Patrick/status/1607409934467207168" target="_blank" rel="noopener" data-wpel-link="external">observed</a> to be hovering at their lowest point in over two years, which isn&#8217;t the case for layer two rollups. The latter is responsible for processing as many transactions as the mainnet.</p>
-<h2>Arbitrum: Undisputed Layer 2 Leader</h2>
-<p>Arbitrum, Optimism, zkSync, and StarkNet are four popular Layer 2s. The increased adoption of the first two rollups, however, can also be attributed to the fact that t has become easier for projects to port over. Even well-known centralized crypto exchanges have integrated these two prominent layer-two solutions.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">As developer tooling has matured, it’s become easier for projects to port over to rollups like <a href="https://twitter.com/arbitrum?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@arbitrum</a> and <a href="https://twitter.com/optimismFND?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@optimismFND</a> and for CEXs to integrate as fiat on and off-ramps.</p>
-<p>As the hype of alternative L1s wore off, commitment to scaling the Ethereum ecosystem paid dividends. <a href="https://t.co/xMTo0DfaOm" data-wpel-link="external" target="_blank">pic.twitter.com/xMTo0DfaOm</a></p>
-<p>— Messari (@MessariCrypto) <a href="https://twitter.com/MessariCrypto/status/1604144491908038657?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 17, 2022</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Looking at the total value bridged by these protocols, Arbitrum has established a clear dominance with $1.06 billion. Despite the bear market, its growth has been steady and can be partly credited to the Nitro upgrade, which introduced lower fees, increased capacity, and smoother development.</p>
-<p>Furthermore, its developer &#8211; Offchain Labs &#8211; raised around $147 million in funding from the likes of Lightspeed Ventures, Coinbase Ventures, Pantera Capital, as well as billionaire Mark Cuban, among others. According to Pitchbook, the firm&#8217;s post-money <a href="https://my.pitchbook.com/profile/266539-15/company/profile#deal-history/205501-33T" target="_blank" rel="noopener" data-wpel-link="external">valuation</a> is over $1.2 billion.</p>
-<p>In a bid to expand the footprint of Arbitrum, Offchain Labs <a href="https://cryptopotato.com/arbitrum-developer-acquires-ethereum-consensus-client-prysmatic-labs/" target="_blank" rel="noopener" data-wpel-link="internal">announced</a> the acquisition of Prysmatic Labs, which happens to be one of the core engineering teams behind Ethereum&#8217;s transition to proof-of-stake.</p>
-<h2>Optimism Trailing Closely</h2>
-<p>The latest <a href="https://defillama.com/chains" target="_blank" rel="noopener" data-wpel-link="external">stats</a> from DeFiLlama also showed that Optimism has grown significantly in terms of TVL share, which currently stood at $526.15 million. Outside of DeFi, the layer 2 solution has <a href="https://dune.com/quixotic_io/Quixotic-Optimism-NFT-Marketpalce" target="_blank" rel="noopener" data-wpel-link="external">witnessed</a> positive growth in the NFT space. The number of buyers of Optimism NFTs has been on a consistent upward trajectory over the last few months. Several initiatives, such as <a href="https://twitter.com/optimismFND/status/1603437456547790848" target="_blank" rel="noopener" data-wpel-link="external">introducing</a> Optimism quests, among others, have managed to attract more users.</p>
-<p>The scaling solution <a href="https://cryptopotato.com/ethereum-layer-2-optimism-raises-150-million-in-series-b-funding/" target="_blank" rel="noopener" data-wpel-link="internal">secured</a> $150 million in Series B funding, co-led by Andreessen Horowitz and Paradigm, in March this year.</p>
-<p>Layer 2 solutions&#8217; main appeal is declining transaction fees. In that regard, Arbitrum and Optimism have performed fairly well. Dune Analytics data <a href="https://dune.com/queries/1617367/2689499" target="_blank" rel="noopener" data-wpel-link="external">suggested</a> that the fees on both the layer 2 solutions have plunged substantially.</p>
-<p>The post <a href="https://cryptopotato.com/arbitrum-optimism-battle-for-ethereum-l2-supremacy-in-2022/" rel="nofollow">Arbitrum, Optimism Battle for Ethereum L2 Supremacy in 2022</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Defrost Finance Recovers Stolen Funds, Will Repay Customers</title>
-		<link>https://cryptopotato.com/defrost-finance-recovers-stolen-funds-will-repay-customers/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 15:15:03 +0000</pubDate>
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 15:53:23 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[social]]></category>
 		<category><![CDATA[DeFi]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230482</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/05/DeFi_Hacks.png" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/05/DeFi_Hacks.png" length="840" type="image/jpg"/>
+		<category><![CDATA[Hacking]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230611</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/12/arrest_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/12/arrest_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[The team announced that its users are getting refunded.]]></description>
-            																<content:encoded><![CDATA[<p>Decentralized finance protocol Defrost Finance has recovered funds from the hacker involved in the V1 flash loan exploit.</p>
-<p>In the latest blog <a href="https://medium.com/@Defrost_Finance/hacked-funds-returned-to-defrost-71b9d2d1b458" target="_blank" rel="noopener" data-wpel-link="external">post</a>, Defrost said that it will soon start scanning the on-chain data to return the funds to their rightful owners. However, the platform said that it could take some time to distribute since different users had variable proportions of assets and debt, but assured that the process would be &#8220;concluded fairly swiftly.&#8221;</p>
-<blockquote><p>&#8220;Please be aware that the entire operation will be managed transparently using a new contract and that will allow the addresses of affected users to claim their fair share.&#8221;</p></blockquote>
-<ul>
-<li>The process involves converting all Ether into stablecoins, like Dai, at the on-chain market rate which will then be transferred from the Ethereum blockchain to Avalanche.</li>
-<li>The team will then scan the on-chain data &#8220;to find out who owned what before the hack&#8221; following which details will be released.</li>
-<li>Defrost also plans to deploy a smart contract to let users claim their assets back in stablecoins to the same addresses.</li>
-<li>The platform said that it <a href="https://cryptopotato.com/defrost-finance-drained-for-12m-flash-loan-attack-or-rug-pull/" target="_blank" rel="noopener" data-wpel-link="internal">suffered</a> its first attack using a flash loan wherein the perpetrator(s) drained funds out of its V2 product. A second larger attack used the owner key to exploit V1.</li>
-<li>Initial loss was estimated to be around $12 million.</li>
-<li>Blockchain investigator Peckshield speculated that it could be a potential case of rug pull.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/defrost-finance-recovers-stolen-funds-will-repay-customers/" rel="nofollow">Defrost Finance Recovers Stolen Funds, Will Repay Customers</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Avraham Eisenberg has become the first U.S. resident to face charges for manipulating and draining $110 million from a DeFi protocol. 
+]]></description>
+            																<content:encoded><![CDATA[<p class="p2">Cryptocurrency investor Avraham Eisenberg has been arrested in Puerto Rico on charges of commodities fraud and manipulation for allegedly stealing more than $100 million from decentralized finance (DeFi) protocol Mango Markets.</p>
+<p class="p2">This marks the first time a U.S. resident has faced charges for manipulating a DeFi platform.</p>
+<h2 class="p3"><b>Eisenberg Drains $110M from Mango Markets</b></h2>
+<p class="p2">Recall that Eisenberg admitted that his team used a &#8220;highly profitable trading strategy&#8221; to drain Mango Markets of digital assets worth $110 million by <a href="https://cryptopotato.com/defi-exploit-season-templedao-and-mangomarkets-lose-millions-in-attacks/" data-wpel-link="internal">manipulating</a> the price of the platform&#8217;s native token, MNGO, and withdrawing almost all of the crypto deposits from the protocol.</p>
+<p class="p2">Due to his actions, investors lost almost all of their deposits on the DeFi platform, although Eisenberg later returned about $67 million to Mango Markets.</p>
+<h2 class="p3"><b>Fraud and Manipulation Charges</b></h2>
+<p class="p2">Despite the refunds, the DeFi protocol eventually became insolvent, and Eisenberg now <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.591629/gov.uscourts.nysd.591629.1.0.pdf" data-wpel-link="external" target="_blank">faces</a> charges of commodities fraud and manipulation, which could result in fines or prison time.</p>
+<p class="p2">Eisenberg was arrested on Monday, December 26. According to a criminal complaint unsealed on Tuesday, the defendant allegedly increased the price of the swaps by 1,300% before using the inflated swaps to borrow and withdraw the assets within 20 minutes.</p>
+<p class="p2">The complaint alleges that the defendant &#8220;willfully and knowingly&#8221; manipulated the sale of a commodity – specifically, futures contracts on the DeFi protocol.</p>
+<p class="p2">A deposition signed by FBI Special Agent Brandon Racz states that Eisenberg &#8220;engaged in a scheme involving the intentional and artificial manipulation of the price of perpetual futures contracts on a cryptocurrency exchange called Mango Markets, and other manipulative and deceptive devices and contrivances.&#8221;</p>
+<h2 class="p3"><b>Racz: Eisenberg May Have Known His Actions Were Illegal</b></h2>
+<p class="p2">Shortly after his attack on Mango Markets, Eisenberg said in an <a href="https://cryptopotato.com/mango-markets-exploiter-says-profitable-traders-like-him-attract-jealousy-and-hate/" data-wpel-link="internal">interview</a> that his team&#8217;s actions were legal, and affected projects could not press charges since the exploit could not be categorized as a hack.</p>
+<p class="p2">However, Racz noted that Eisenberg may have been aware that his actions were illegal as he left the U.S. for Israel within 24 hours after he exploited the exchange. According to the FBI agent, the Mango Markets exploiter quickly left the U.S. to avoid apprehension.</p>
+<p class="p2">Interestingly, Mango Markets is not the only DeFi protocol Eisenberg and his team <a href="https://cryptopotato.com/mango-markets-exploiter-launches-shitcoin-to-abuse-bots-warns-twitter-community/" data-wpel-link="internal">have tried</a> to exploit. In November, the trader went after a sophisticated loophole on the DeFi platform Aave using a series of short attacks. However, the attempt failed, leading to a significant loss for the exploiter.</p>
+<p>The post <a href="https://cryptopotato.com/mango-markets-110m-exploiter-arrested-faces-charges-in-new-york/" rel="nofollow">Mango Markets $110M Exploiter Arrested, Faces Charges in New York</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Fidelity to Enter The Metaverse With Latest Trademark Applications</title>
-		<link>https://cryptopotato.com/fidelity-to-enter-the-metaverse-with-latest-trademark-applications/</link>
+		<title>Bitcoin Bottom Signals Start Flashing But is Another Leg Down Coming Before That? (BTC Price Analysis)</title>
+		<link>https://cryptopotato.com/bitcoin-bottom-signals-start-flashing-but-is-another-leg-down-coming-before-that-btc-price-analysis/</link>
 		
-		<dc:creator><![CDATA[Martin Young]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 13:25:44 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
+		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 14:28:57 +0000</pubDate>
+				<category><![CDATA[BTC Analysis]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Fidelity]]></category>
-		<category><![CDATA[Metaverse]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=230454</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/01/fidelity_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/01/fidelity_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Bitcoin (BTC) Price]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230667</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-scaled.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-scaled.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Investment giant Fidelity is showing little fear of the bears with its latest trademark applications. The firm is keen to tap into the Metaverse and NFTs.]]></description>
-            																<content:encoded><![CDATA[<p>On Dec. 27, licensed trademark attorney Mike Kondoudis revealed the latest crypto trademark applications from Fidelity Investments.</p>
-<p>There were three applications filed broadly covering Metaverse technologies and services, NFTs and marketplaces, virtual land, and cryptocurrency trading.</p>
-<p>The first relates to digital media and NFTs, and the second is the provision for an online marketplace for the sale of NFTs.</p>
+			            <description><![CDATA[Bitcoin&#8217;s price has been oscillating in a very tight range heading into the new year&#8217;s holidays, offering little clue on the direction of the next significant move. Nevertheless, the market remains in a very decisive area, and its fate could be revealed in the next few days. Technical Analysis By: Edris The Daily Chart On [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin&#8217;s price has been oscillating in a very tight range heading into the new year&#8217;s holidays, offering little clue on the direction of the next significant move. Nevertheless, the market remains in a very decisive area, and its fate could be revealed in the next few days.</p>
+<h2>Technical Analysis</h2>
+<p>By: Edris</p>
+<h3>The Daily Chart</h3>
+<p>On the daily chart, the price has been grappling with the 50-day moving average around the $16,700 mark for a while now but is yet to break it in any direction. In case of a bullish breakout, a rally towards the $18K level and even the higher boundary of the large falling wedge pattern could be expected.</p>
+<p>The mentioned wedge is considered a bullish reversal pattern in the current market condition and could initiate a mid-term bullish phase if broken to the upside. On the other hand, if the 50-day moving average holds and rejects the price lower, a drop toward the $15K area and the lower trendline of the falling wedge would be imminent.</p>
+<figure id="attachment_230671" aria-describedby="caption-attachment-230671" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-scaled.jpg" data-wpel-link="internal"><img class="wp-image-230671 size-full" src="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-scaled.jpg" alt="btc_price_chart_281201" width="2560" height="1465" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-768x440.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-2048x1172.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-DAILY-Dec-28-2022-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-230671" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<h3>The 4-Hour Chart</h3>
+<p>Looking at the 4-hour timeframe, it is evident that the price has finally dropped from the $16,900 level after testing it multiple times over the last week.</p>
+<p>However, the recent candles demonstrate the price&#8217;s reluctance to drop rapidly, pointing to another possible retest of the mentioned resistance level.</p>
+<p>All things considered, as far as the price resides below the $17K mark, a decline toward the $15K range would be the most likely outcome. The RSI indicator also shows values below 50, which signals that the momentum is in favor of the bears, further adding to the probability of a plunge in the short term.</p>
+<figure id="attachment_230670" aria-describedby="caption-attachment-230670" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-scaled.jpg" data-wpel-link="internal"><img class="wp-image-230670 size-full" src="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-scaled.jpg" alt="btc_price_chart_281202" width="2560" height="1465" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-768x440.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-2048x1172.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2022/12/BTCUSDT-4H-Dec-28-2022-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-230670" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<h2>On-chain Analysis</h2>
+<p>By: Edris</p>
+<h3>Bitcoin Long-term Holder SOPR</h3>
+<p>Bitcoin&#8217;s long-term holders are an essential cohort, as their behavior offers valuable insights into future market trends. The long-term holders&#8217; SOPR is a powerful metric that measures the ratio of profits and losses realized by these market participants and is one of the go-to metrics for on-chain analysis. Values above 1 indicate realized profits, and values below 1 indicate losses.</p>
+<p>This chart demonstrates the 100-day standard moving average of the LTH SOPR. The metric has been declining for over a year now, pointing to the fact that the long-term holders&#8217; profit margin was constantly decreasing and has dropped below 1 in the last few months, as these investors have been realizing losses for a while now.</p>
+<p>However, the metric has recently reached an exciting level, which marked the previous cycle&#8217;s bear market bottoms. Therefore, from a macro and multi-cyclical standpoint, the bear market bottom range does not seem far and may even be forming at the moment.</p>
+<figure id="attachment_230669" aria-describedby="caption-attachment-230669" style="width: 2380px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022.jpg" data-wpel-link="internal"><img class="wp-image-230669 size-full" src="https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022.jpg" alt="btc_sopr_ratio_281201" width="2380" height="1494" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022.jpg 2380w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-300x188.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-1024x643.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-768x482.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-1536x964.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-2048x1286.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2022/12/Bitcoin-LTH-SOPR-Dec-28-2022-50x31.jpg 50w" sizes="(max-width: 2380px) 100vw, 2380px" /></a><figcaption id="caption-attachment-230669" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
+<p>The post <a href="https://cryptopotato.com/bitcoin-bottom-signals-start-flashing-but-is-another-leg-down-coming-before-that-btc-price-analysis/" rel="nofollow">Bitcoin Bottom Signals Start Flashing But is Another Leg Down Coming Before That? (BTC Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>MicroStrategy Adds 2500 BTC: Total Stack Now 132,251 Bitcoin</title>
+		<link>https://cryptopotato.com/microstrategy-adds-2500-btc-total-stack-now-132251-bitcoin/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 14:11:57 +0000</pubDate>
+				<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[featured1]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Michael Saylor]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230681</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/05/MicroStrategyBitcoin.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/05/MicroStrategyBitcoin.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[MicroStrategy has spent around $4.03 billion to accumulate its entire bitcoin stash over the years.]]></description>
+            																<content:encoded><![CDATA[<p>The American business intelligence corporation – MicroStrategy &#8211; bought 3,205 BTC between November 1 and December 24.</p>
+<p>The company sold 704 BTC on December 22, meaning its total holdings currently stand at 132,251 BTC.</p>
+<ul>
+<li>The largest BTC corporate holder – MicroStrategy &#8211; continues following its bitcoin agenda purchasing more amounts of the primary cryptocurrency.</li>
+<li>It <a href="https://www.sec.gov/Archives/edgar/data/1050446/000119312522313098/d398241d8k.htm" data-wpel-link="external" target="_blank">acquired</a> 2,395 BTC for approximately $42.8 million, at an average price of around $17,871 per coin between the beginning of November and December 21.</li>
+<li>The firm sold 704 BTC on December 22 for nearly $12 million to cover previous capital losses.</li>
+<li>On Christmas Eve, MicroStrategy bought an additional 810 BTC for $13.6 million, bringing its total owning to 132,251 BTC (equaling about $2.2 billion at current prices).</li>
+<li>Michael Saylor &#8211; Executive Chairman &#8211; announced the news on his personal Twitter account, saying the organization spent a little over $4 billion in total.</li>
+</ul>
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/Fidelity?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Fidelity</a> has plans for the metaverse!</p>
-<p>The company has filed 3 trademark applications covering<br />
-<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/25b6.png" alt="▶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> NFTs + NFT Marketplaces<br />
-<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/25b6.png" alt="▶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Metaverse Investment Services<br />
-<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/25b6.png" alt="▶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Virtual Real Estate Investing<br />
-<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/25b6.png" alt="▶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cryptocurrency Trading<br />
-&#8230; and more!<a href="https://twitter.com/hashtag/NFTs?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#NFTs</a> <a href="https://twitter.com/hashtag/Metaverse?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Metaverse</a> <a href="https://twitter.com/hashtag/Crypto?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Crypto</a> <a href="https://twitter.com/hashtag/Web3?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Web3</a> <a href="https://twitter.com/hashtag/Defi?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Defi</a> <a href="https://twitter.com/hashtag/Finance?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Finance</a> <a href="https://t.co/op9fg80e7z" data-wpel-link="external" target="_blank">pic.twitter.com/op9fg80e7z</a></p>
-<p>— Mike Kondoudis (@KondoudisLaw) <a href="https://twitter.com/KondoudisLaw/status/1607455956765659136?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 26, 2022</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<h2>Crypto Trademarks Sought by Fidelity</h2>
-<p>It appears that Fidelity wants to offer its services in the Metaverse rather than build its own Metaverse. The third trademark application included mutual fund investment services, retirement fund investment services, investment management, financial planning, and electronic bill payment in the Metaverse and other virtual worlds.</p>
-<p>It also mentions digital currency services, crypto trading, wallets, storage, and custody. Pretty much anything related to crypto was mentioned in the application filing.</p>
-<p>Fidelity is one of America’s largest pension providers, and it allowed investors to <a href="https://cryptopotato.com/fidelity-to-allow-investors-to-add-bitcoin-to-retirement-401k-accounts/" data-wpel-link="internal">include Bitcoin</a> in their pension plans earlier this year. The move <a href="https://cryptopotato.com/us-lawmakers-strongly-urge-fidelity-to-reconsider-its-bitcoin-401k-initiative/" data-wpel-link="internal">riled anti-crypto policymakers</a> such as Elizabeth Warren, who urged the firm to reconsider, citing the same tired warnings over risks and money laundering.</p>
-<p>In November, the asset manager’s crypto unit Fidelity Digital Assets, allowed its <a href="https://cryptopotato.com/fidelity-to-offer-bitcoin-and-ethereum-trading-to-retail-investors/" data-wpel-link="internal">retail clients to invest</a> in Bitcoin and Ethereum. The firm is clearly still keen on the asset class and related web3 technologies despite this year’s bear market.</p>
-<p>On Dec. 23, international banking giant HSBC filed trademark applications for its name and logo. They include provisions for NFTs, crypto exchange and transfer, and Metaverse credit card processing.</p>
-<h2>Metaverse Tokens in Trouble</h2>
-<p>The bear market has hit Metaverse-related tokens harder than the dominant assets such as BTC and ETH.</p>
-<p>Top Metaverse tokens such as Axie Infinity (AXS), The Sandbox (SAND), and Decentraland (MANA) have all been battered by the bears.</p>
-<p>AXS is currently trading at $6.84, having lost 96% from its November 2021 all-time high of $165. Furthermore, SAND is down to $0.442 after getting hit 94.7% from its peak of $8.40 in the same month. Decentraland’s MANA is priced at $0.326, having lost 94.4% over the past year.</p>
-<p>Other gaming and Metaverse tokens, such as Enjin Coin (ENJ), Render (RNDR), and Magic (MAGIC), are also down over 90% from their peaks.</p>
-<p>The post <a href="https://cryptopotato.com/fidelity-to-enter-the-metaverse-with-latest-trademark-applications/" rel="nofollow">Fidelity to Enter The Metaverse With Latest Trademark Applications</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p dir="ltr" lang="en">MicroStrategy has increased its <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Bitcoin</a> Holdings by ~2,500 <a href="https://twitter.com/hashtag/BTC?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#BTC</a>. As of 12/27/22 <a href="https://twitter.com/MicroStrategy?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@MicroStrategy</a> holds ~132,500 bitcoin acquired for ~$4.03 billion at an average price of ~$30,397 per bitcoin. <a href="https://twitter.com/search?q=%24MSTR&amp;src=ctag&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">$MSTR</a><a href="https://t.co/lcMeULcGQk" data-wpel-link="external" target="_blank">https://t.co/lcMeULcGQk</a></p>
+<p>— Michael Saylor<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@saylor) <a href="https://twitter.com/saylor/status/1608086703843180544?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">December 28, 2022</a></p></blockquote>
+<p>The post <a href="https://cryptopotato.com/microstrategy-adds-2500-btc-total-stack-now-132251-bitcoin/" rel="nofollow">MicroStrategy Adds 2500 BTC: Total Stack Now 132,251 Bitcoin</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>XRP Bulls Fail to Reappear, is $0.30 Incoming? (Ripple Price Analysis)</title>
+		<link>https://cryptopotato.com/xrp-bulls-fail-to-reappear-is-0-30-incoming-ripple-price-analysis/</link>
+		
+		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2022 12:41:59 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[XRP Analysis]]></category>
+		<category><![CDATA[XRPBTC]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[Ripple (XRP) Price]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=230649</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-scaled.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-scaled.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Things are not looking good for XRP as its price has failed to reclaim a significant resistance level and seems likely to drop lower. The market is currently struggling to remain in a range, and it could initiate the next bearish leg down. Technical Analysis By: Edris The Daily Chart: On the daily timeframe, the [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Things are not looking good for XRP as its price has failed to reclaim a significant resistance level and seems likely to drop lower. The market is currently struggling to remain in a range, and it could initiate the next bearish leg down.</p>
+<h2><strong>Technical Analysis</strong></h2>
+<p>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></p>
+<h3><strong>The Daily Chart:</strong></h3>
+<p>On the daily timeframe, the price has failed to reach the $0.43 area again, as the bullish rebound is seemingly coming to an end.</p>
+<p>The 50-day moving average is currently acting as a critical resistance level around the $0.37 mark, preventing the price from rising further.</p>
+<p>The mentioned moving average has also recently crossed the 200-day one to the downside, often interpreted as a bearish signal. The market structure is hinting at a drop to the $0.3 level in the short term, which could be the bulls&#8217; last resort to stop the cryptocurrency from dropping to a new lower low.</p>
+<figure id="attachment_230654" aria-describedby="caption-attachment-230654" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-scaled.jpg" data-wpel-link="internal"><img class="wp-image-230654 size-full" src="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-scaled.jpg" alt="xrp_price_chart_281201" width="2560" height="1465" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-768x440.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-2048x1172.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-Daily-Dec-28-2022-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-230654" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<h3><strong>The 4-Hour Chart:</strong></h3>
+<p>Looking at the 4-hour chart, a classic break and retest are forming, as the price has broken the $0.37 level to the downside and has retested it.</p>
+<p>The mentioned level is rejecting the price to the downside convincingly. The RSI indicator, which suggested a likely rejection with an overbought and bearish divergence signal while the price was testing $0.37, is currently trending around the 50 mark.</p>
+<p>A break below it would likely signal the beginning of another decline which could lead to a drop toward the $0.3 support level in the short term.</p>
+<figure id="attachment_230653" aria-describedby="caption-attachment-230653" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-scaled.jpg" data-wpel-link="internal"><img class="wp-image-230653 size-full" src="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-scaled.jpg" alt="xrp_price_chart_281202" width="2560" height="1465" srcset="https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-768x440.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-2048x1172.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2022/12/XRPUSDT-4H-Dec-28-2022-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-230653" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<p>The post <a href="https://cryptopotato.com/xrp-bulls-fail-to-reappear-is-0-30-incoming-ripple-price-analysis/" rel="nofollow">XRP Bulls Fail to Reappear, is $0.30 Incoming? (Ripple Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
