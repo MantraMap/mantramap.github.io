@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Thu, 29 Dec 2022 16:58:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Dec 2022 17:10:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Did Sam Bankman-Fried Secretly Cash Out $1.5M?</title>
+		<link>https://cryptobriefing.com/did-sam-bankman-fried-secretly-cash-out-1-5m/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 30 Dec 2022 17:10:57 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Alameda]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Sam Bankman-Fried]]></category>
+		<category><![CDATA[SBF]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123381</guid>
+
+					<description><![CDATA[Sam Bankman-Fried insisted he only had $100,000 left in his bank account, but he never mentioned his wallets! The crypto villain may have cashed out as much as $1.48 million....]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/14164814/sam-cover-5-838x440.jpg" width="838" height="440" />	</item>
+		<item>
 		<title>Chinese Government to Launch an NFT Marketplace</title>
 		<link>https://cryptobriefing.com/chinese-government-to-launch-an-nft-marketplace/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -507,22 +525,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/11/01062204/dcg-700m-raise-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Curve Whipsaws 75% as DeFi Degens Squeeze Avraham Eisenberg </title>
-		<link>https://cryptobriefing.com/curve-whipsaws-75-as-defi-degens-squeeze-avraham-eisenberg/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Timothy Craig]]></dc:creator>
-		<pubDate>Tue, 22 Nov 2022 17:47:52 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Aave]]></category>
-		<category><![CDATA[Avraham Eisenberg]]></category>
-		<category><![CDATA[Curve]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123047</guid>
-
-					<description><![CDATA[CRV has experienced a 75% swing after self-described applied game theorist Avraham Eisenberg launched a plan to short the token that appears to have backfired. Curve Whale Games One of...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/16040153/curve-finance-cover-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
