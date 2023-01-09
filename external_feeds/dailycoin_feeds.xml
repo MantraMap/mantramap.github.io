@@ -12,7 +12,7 @@
 	<atom:link href="https://dailycoin.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dailycoin.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 06 Jan 2023 18:57:46 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Jan 2023 21:09:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,231 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Auditors Detect a DeFi Rug Pull Scam: Can You Do It Yourself?</title>
+		<link>https://dailycoin.com/how-auditors-detect-defi-rug-pull-scam/</link>
+		
+		<dc:creator><![CDATA[Simona Ram]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2023 04:00:43 +0000</pubDate>
+				<category><![CDATA[Hacks and Scams]]></category>
+		<category><![CDATA[zz_index]]></category>
+		<category><![CDATA[zz_popular]]></category>
+		<category><![CDATA[zz_top]]></category>
+		<category><![CDATA[ZZZ Editors' Picks]]></category>
+		<category><![CDATA[Rug Pull Scam]]></category>
+		<category><![CDATA[Security Audit]]></category>
+		<category><![CDATA[Smart Contracts]]></category>
+		<guid isPermaLink="false">https://dailycoin.com/?p=85810</guid>
+
+					<description><![CDATA[<a href="https://dailycoin.com/how-auditors-detect-defi-rug-pull-scam/" data-wpel-link="internal" rel="noopener noreferrer"><img width="530" height="353" src="https://dailycoin.com/wp-content/uploads/2023/01/Rug-Pulls_money_taking_web-530x353.jpg" alt="How Auditors Detect a DeFi Rug Pull Scam: Can You Do It Yourself?" align="left" style="margin: 0 20px 20px 0;max-width:100%" /></a><p>Hacks on DeFi protocols happen through security breaches and code exploits. DeFi security audits are critical to prevent them.</p>
+<p><a href="https://dailycoin.com/how-auditors-detect-defi-rug-pull-scam/" rel="nofollow noopener noreferrer" data-wpel-link="internal">Continue reading How Auditors Detect a DeFi Rug Pull Scam: Can You Do It Yourself? at DailyCoin.com.</a></p>
+]]></description>
+										<content:encoded><![CDATA[<a href="https://dailycoin.com/how-auditors-detect-defi-rug-pull-scam/" data-wpel-link="internal" rel="noopener noreferrer"><img width="1024" height="683" src="https://dailycoin.com/wp-content/uploads/2023/01/Rug-Pulls_money_taking_web-1024x683.jpg" alt="How Auditors Detect a DeFi Rug Pull Scam: Can You Do It Yourself?" align="left" style="margin: 0 20px 20px 0;max-width:100%;" /></a><section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid mkd-section mkd-content-aligment-left" style=""><div class="clearfix mkd-full-section-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Hackers stole more cryptocurrency from decentralized finance (DeFi) platforms than ever before in 2022. Nearly 98% of all tokens launched on DeFi’s flagman DEX Uniswap were identified as rug pulls.</span></p>
+<p><span style="font-weight: 400;">The latest one, Defrost Finance, </span><a href="https://medium.com/@DeFiYieldSec/the-most-evil-crypto-scam-defrost-finance-was-funded-with-criminal-money-cb08c99fb6d9" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">came</span></a><span style="font-weight: 400;"> as a Christmas nightmare for crypto investors, wiping out $12 million of their money. </span></p>
+<p><span style="font-weight: 400;">Most hacks on DeFi platforms happen through security breaches and code exploits. </span><span style="font-weight: 400;">Projects that end up being rug pull scams have serious security issues that have been allowed to slide, or maybe, undetected on purpose. To prevent similar risks, DeFi security audits are critical.</span></p>
+<p><span style="font-weight: 400;">Here we&#8217;ll find out more about these audits, how they are conducted, and whether it is possible to run a DeFi audit by yourself. </span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>What Is a DeFi Security Audit?</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">DeFi projects are implemented as complex, self-executing smart contracts, often transparent and open-source. They act as legal agreements between two parties. And since no centralized entity is behind them, even a small bug in smart contracts might lead to irreversible consequences.</span></p>
+<p><span style="font-weight: 400;">This means that there should be no room for errors in smart contracts. DeFi smart contract security audits are meant to ensure that.</span></p>
+<p><span style="font-weight: 400;">Security audits examine the code of smart contracts and how it grounds contracts’ terms and conditions. The detailed analysis searches for potential security flaws, violations, and system bugs in the code, so it cannot be exploited. </span></p>
+<p><span style="font-weight: 400;">Security audits, usually conducted by third parties, are vital to ensuring the security and credibility of projects and maintaining a healthy DeFi ecosystem.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>How Do Scammers Exploit Smart Contracts for a Rug Pull?</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">A rug pull is a type of exit scam that operates in a simple model: developers create a legit-looking DeFi protocol, run and promote it until the project attracts enough liquidity, then pull out the funds and disappear. </span></p>
+<p><span style="font-weight: 400;">Well, not always. Occasionally, rug-pull scammers blame hackers for stealing liquidity and stay in business until the next time.</span></p>
+<p><span style="font-weight: 400;">To implement an attack, scammers embed malicious code into the smart contracts. They modify them to prevent investors from selling: set the max (100%) selling fee, blacklist token owners, and lock users&#8217; money into a contract.</span></p>
+<p><span style="font-weight: 400;">Some smart contracts involve coding a malicious &#8220;back door&#8221; into them, which allows developers to withdraw the liquidity.  </span></p>
+<p><span style="font-weight: 400;">Most of the time, modified smart contracts are not verified by security auditors and are hidden from the public eye. Since most on-chain contracts are publicly available, a lack of transparency on </span><i><span style="font-weight: 400;">GitHub</span></i><span style="font-weight: 400;"> might be a red flag. </span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>How to Check Whether a DeFi Smart Contract Is Safe</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">The blockchain and smart contract industry is still relatively young, and so is the smart contracts audit sector. Numerous firms specialize in smart contract security audits, develop their tools and shape their know-how. </span></p>
+<p><span style="font-weight: 400;">Smart contract security industry standards and best practices are evolving. Despite that, some pretty standard audit methods are used by DeFi audit industry players.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Step 1: Evaluation</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Typically their investigations begin with the smart contract evaluation. The auditor analyzes the whitepaper, business logic, and technical specification of DeFi protocol to estimate potential risks and security features.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Step 2: Code Analysis</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Then they shift their attention to the code of the smart contract. This is when code review and analysis start. </span></p>
+<p><span style="font-weight: 400;">Auditors inspect code line by line, looking for vulnerabilities of different levels: critical ones that can result in a liquidity leak; medium-level, which could partially damage the smart contract; and low-level issues, which affect the contract’s security the least.</span></p>
+<p><span style="font-weight: 400;">They deploy a number of audit techniques, including automated and manual analysis. Both have their pros and cons.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Automated Code Analysis</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">An automated security audit means scanning the code with automated analysis software, which searches for bugs against the database of known vulnerabilities and identifies their precise location in the code.</span></p>
+<p><span style="font-weight: 400;">The software-based audit is typically conducted before the manual analysis to detect errors that humans might overlook. It is faster and less time-consuming, but at the same time, it may not always be aware of the context and thus miss certain vulnerabilities. </span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Manual Code Analysis</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Manual code analysis is king in smart contract auditing and is the most critical part of a comprehensive and accurate smart code security audit. It is conducted by at least two separate experts that inspect the code line by line.</span></p>
+<p><span style="font-weight: 400;">The goal is to verify that every detail in the project&#8217;s specification is implemented into the smart contract and that nothing violates its originally intended behavior. </span></p>
+<p><span style="font-weight: 400;">The auditors scrutinize the code for unintended, unexpected behavior, crucial security issues, and vulnerabilities like re-entrance, data manipulations, flash loans, and other manipulations that might be implemented while the smart contract interacts with others.</span></p>
+<p><span style="font-weight: 400;">In addition to that, manual audits run simulations to evaluate how well the DeFi project’s smart contract responds to unidentified threats and how capable it is of defending itself against them. </span></p>
+<p><span style="font-weight: 400;">Within the final part of manual code analysis, the auditor compares the smart contract’s logic with its description in the project’s whitepaper. </span></p>
+<p><span style="font-weight: 400;">Once all vulnerabilities have been identified and fixed, the auditors run a double-check process to ensure the smart code runs as expected.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3>Step 3: Report</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Finally, after the security audit is completed, the auditors prepare a comprehensive report. This is where they provide detailed feedback on what they discovered. Typically their report comes with recommendations on how detected code weaknesses can be fixed to mitigate the project’s security. </span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>What Ensures that a Smart Contract Audit Is Professional?</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Smart contracts are a relatively new innovation. Their security standards are evolving accordingly. This means no golden rule guarantees total smart contract safety.</p>
+<p>Moreover, not all smart contract auditing firms are the same, and not all audits guarantee safety. Auditors may have different skill levels, different goals, and different costs.</p>
+<p>Not to mention the fact that the market is full of sketchy developers that forge audits and still benefit from the name of a respectable company. This is what happened to Peckshield, a blockchain security and data analytics company, more than a year ago.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<link rel="prefetch" href="//platform.twitter.com/widgets.js"><link href="https://syndication.twitter.com" rel="preconnect" crossorigin><style>.tweet-container,.twitter-tweet.twitter-tweet-rendered,blockquote.twitter-tweet{min-height:261px}.tweet-container{position:relative}blockquote.twitter-tweet{display:flex;max-width:550px;margin-top:10px;margin-bottom:10px}blockquote.twitter-tweet p{font:20px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.tweet-container div:first-child{
+        position:absolute!Important
+    }.tweet-container div:last-child{
+        position:relative!Important
+    }</style><div class="tweet-container"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">We found another forged audit report. This report is not from PeckShield, and we didn&#39;t audit this <a href="https://twitter.com/DAOFINANCEio?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">@DAOFINANCEio</a> project: <a href="https://t.co/cScBi9WGyY" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">https://t.co/cScBi9WGyY</a></p>&mdash; PeckShield Inc. (@peckshield) <a href="https://twitter.com/peckshield/status/1409092279864676360?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">June 27, 2021</a></blockquote></div><script>function lazyTwitter(){var i=function(t){if(!t)return;var n=t.getBoundingClientRect();return 2500>n.top||-2500>n.top};if(!i(document.querySelector(".twitter-tweet")))return;var s=document.createElement("script");s.onload=function(){};s.src="//platform.twitter.com/widgets.js";document.head.appendChild(s);document.removeEventListener("scroll",lazyTwitter);document.removeEventListener("touchstart",lazyTwitter);console.log("load twitter widget")}document.addEventListener("scroll",lazyTwitter);document.addEventListener("touchstart",lazyTwitter);lazyTwitter()</script>
+
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">Situations like this are quite common in the cryptocurrency space. They take the name of a legit and respectable auditor and put it into their whitepaper, saying that their protocol was audited.</span></p>
+<p><span style="font-weight: 400;">The only way to avoid cases like this is to check for confirmation on the auditor’s original channels. If there aren&#8217;t any, chances are that the auditor’s name has been stolen. </span></p>
+<p><span style="font-weight: 400;">Always check its client portfolio to evaluate whether the auditor is solid and reputable. Google the cases to verify their experience records, and check if any of the audited projects have suffered a rug pull or other attacks.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2>Can You Conduct Code Audit Yourself?</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="font-weight: 400;">With so many hacks and rug pulls in the crypto space, it’s naive to imagine that DeFi projects are safe without looking into them in more detail. Smart contract audits provide a critical layer of safety. </span></p>
+<p><span style="font-weight: 400;">However, even the most professional ones do not guarantee that a DeFi project is absolutely bug-free. Smart contracts are complex. They require detailed and comprehensive analysis, expertise, tools, and, most importantly, more than one pair of eyes.</span></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><strong>Learn more about how to recognize rug pull scams:</strong></p>
+<p><strong><a href="https://dailycoin.com/rug-pull-crypto/" data-wpel-link="internal" rel="noopener noreferrer">How to Spot a Crypto Rug Pull Scam</a></strong></p>
+<p><strong>Find out which crypto sector was most targeted in 2022:</strong></p>
+<p><strong><a href="https://dailycoin.com/web3-crime-trends-the-hottest-targets/" data-wpel-link="internal" rel="noopener noreferrer">Web3 Crime Trends: What Is the Hottest Target?</a></strong></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 41px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div>
+</section>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Bonk (BONK): Project Review, Recent Developments, Future Events, Community</title>
 		<link>https://dailycoin.com/bonk-bonk-project-review-recent-developments-future-events-community/</link>
 		
@@ -1124,351 +1349,6 @@
 <p><strong>You may also like:</strong></p>
 <p><a href="https://dailycoin.com/gemini-users-file-lawsuit-against-genesis-global-capital/" data-wpel-link="internal" rel="noopener noreferrer"><i>Gemini Users File a Class Action Arbitration Against Genesis Global Capital</i></a></p>
 <p><a href="https://dailycoin.com/geminis-c-winklevoss-issues-ultimatum-to-dcg-ceo/" data-wpel-link="internal" rel="noopener noreferrer"><i>Gemini’s C. Winklevoss Issues Ultimatum to DCG CEO B. Silbert, Says DCG and Genesis Are ‘Beyond Commingled’</i></a></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 41px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div>
-</section>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Crypto Flipsider News – Huobi Layoffs; French Crypto Rule; NFT Volume Surge; 3AC Served Subpoena; DCG Shutdown</title>
-		<link>https://dailycoin.com/crypto-flipsider-news-huobi-layoffs-french-crypto-rule-nft-volume-surge-3ac-served-subpoena-dcg-shutdown/</link>
-		
-		<dc:creator><![CDATA[DailyCoin Team]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 15:00:57 +0000</pubDate>
-				<category><![CDATA[Flipsider News]]></category>
-		<category><![CDATA[zz_index]]></category>
-		<category><![CDATA[zz_popular]]></category>
-		<category><![CDATA[zz_top]]></category>
-		<category><![CDATA[ZZZ Editors' Picks]]></category>
-		<category><![CDATA[ZZZ Native]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Digital Currency Group (DCG)]]></category>
-		<category><![CDATA[Huobi]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Three Arrow Capital (3AC)]]></category>
-		<guid isPermaLink="false">https://dailycoin.com/?p=85713</guid>
-
-					<description><![CDATA[<a href="https://dailycoin.com/crypto-flipsider-news-huobi-layoffs-french-crypto-rule-nft-volume-surge-3ac-served-subpoena-dcg-shutdown/" data-wpel-link="internal" rel="noopener noreferrer"><img width="530" height="353" src="https://dailycoin.com/wp-content/uploads/2023/01/digest-10-530x353.jpg" alt="Crypto Flipsider News – Huobi Layoffs; French Crypto Rule; NFT Volume Surge; 3AC Served Subpoena; DCG Shutdown" align="left" style="margin: 0 20px 20px 0;max-width:100%" /></a><p>Read our crypto digest here.</p>
-<p><a href="https://dailycoin.com/crypto-flipsider-news-huobi-layoffs-french-crypto-rule-nft-volume-surge-3ac-served-subpoena-dcg-shutdown/" rel="nofollow noopener noreferrer" data-wpel-link="internal">Continue reading Crypto Flipsider News – Huobi Layoffs; French Crypto Rule; NFT Volume Surge; 3AC Served Subpoena; DCG Shutdown at DailyCoin.com.</a></p>
-]]></description>
-										<content:encoded><![CDATA[<a href="https://dailycoin.com/crypto-flipsider-news-huobi-layoffs-french-crypto-rule-nft-volume-surge-3ac-served-subpoena-dcg-shutdown/" data-wpel-link="internal" rel="noopener noreferrer"><img width="1024" height="683" src="https://dailycoin.com/wp-content/uploads/2023/01/digest-10-1024x683.jpg" alt="Crypto Flipsider News – Huobi Layoffs; French Crypto Rule; NFT Volume Surge; 3AC Served Subpoena; DCG Shutdown" align="left" style="margin: 0 20px 20px 0;max-width:100%;" /></a><section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid mkd-section mkd-content-aligment-left" style=""><div class="clearfix mkd-full-section-inner"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Read in the Digest:</span></p>
-<ul>
-<li aria-level="1"><b>Turbulence in Huobi Amidst 20% Job Cutoff and Insolvency, Justin Sun Denies Rumors</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>French Central Banker Proposes Mandatory Crypto Firm Licensing in 2023</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>Daily Trading Volume of NFTs On January 5th Surges to Three-Month High</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>Three Arrows Capital Founders Served Subpoenaed Via Twitter</b></li>
-</ul>
-<ul>
-<li aria-level="1"><b>Crypto Conglomerate DCG Shuts Down its Wealth Management Subsidiary</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2><strong>Turbulence in Huobi Amidst 20% Job Cuts and Insolvency, Justin Sun Denies Rumors</strong></h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Crypto exchange Huobi plans to lay off about 20% of its staff amidst the growing crypto winter and the FUD in the crypto industry. The report comes after the company’s rumor of being insolvent. </span></p>
-<p><span style="font-weight: 400;">In addition to the massive layoffs, staff members have reported canceled bonuses, payment disputes, and a </span><a href="https://twitter.com/GarlamWON/status/1611043605350866944" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">communication blackout</span></a><span style="font-weight: 400;">. Colin Wu has also reported that Huobi is attempting to convert payroll from fiat to USDT/USDC.</span></p>
-<p><span style="font-weight: 400;">On-chain data magnifies the uncertainty surrounding Huobi. On December 15th, Huobi saw an inflow of $87.9 million. However, it has </span><a href="https://twitter.com/DefiLlama/status/1611184581452996610" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">experienced</span></a><span style="font-weight: 400;"> $204.65 million in outflows, with $75.1 million occurring in the last 24 hours alone.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_center">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="680" height="383" src="https://dailycoin.com/wp-content/uploads/2023/01/FlwCVQtXwAEc5QU.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" title="FlwCVQtXwAEc5QU" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Meanwhile, Justin Sun, an &#8220;advisor&#8221; to Huobi (although many see him as the man in charge of the exchange), has reportedly cashed out over $1.5 billion in fiat since October, according to his tagged wallets.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Flipsider:</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li aria-level="1"><b>Justin Sun has said that the “structural adjustment” in Huobi has not started yet but is presumed to be completed by the end of the first quarter.</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Why You Should Care</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Justin Sun has addressed rumors of the insolvency, saying the business development of the exchange was “good” and the assets will always be fully protected.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1920" height="270" src="https://dailycoin.com/wp-content/uploads/2021/09/Digest-breakers-Coins.png" class="vc_single_image-img attachment-full" alt="Digest breakers Coins" decoding="async" title="" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2><strong>French Central Banker Proposes Mandatory Crypto Firm Licensing in 2023</strong></h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">François Villeroy de Galhau, the Bank of France Governor, has proposed that the country tighten its grip on companies providing crypto services this year — ahead of 2024 EU-wide regulation.</span></p>
-<p><span style="font-weight: 400;">Villeroy has </span><a href="https://www.banque-france.fr/en/intervention/new-year-wishes-2023" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">proposed</span></a><span style="font-weight: 400;"> that it becomes obligatory for Digital Asset Service Providers, or DASPs, to obtain licensing from authorities because of the recent volatility in the sector.</span></p>
-<p><span style="font-weight: 400;">The DASP offered by the French financial regulator, Autorité des marchés financiers (AMF), is optional, with the leading crypto exchange, Binance, being one of the firms to receive the license.</span></p>
-<p><span style="font-weight: 400;">Hervé Maurey, a France senator, also put forth a change in December that would eliminate the “registration” option. Maurey cited the collapse of FTX as one reason for stricter regulations.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Flipsider:</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li aria-level="1"><b>France has strict crypto guidelines, including limitations on cryptocurrency advertising and a flat tax of 30% on all revenue from crypto investments.</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Why You Should Care</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">The French regulators see the FTC collapse as a moment of “reckoning and awareness,” justifying the need for stronger rules.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1920" height="270" src="https://dailycoin.com/wp-content/uploads/2021/09/Digest-breakers-NFT.png" class="vc_single_image-img attachment-full" alt="Digest breakers NFT" decoding="async" title="" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2><strong>Daily Trading Volume of NFTs On January 5th Surges to Three-Month High</strong></h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">After non-fungible token (NFT) trading volume collapsed by 97% from January 2022 to September 2022, there seems to be a resurgence, with the daily trade volume on Thursday, January 5th. </span></p>
-<p><span style="font-weight: 400;">Data from </span><a href="https://nftgo.io/analytics/market-overview" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">NFTGO</span></a><span style="font-weight: 400;"> shows that the single-day trading volume of the NFT market on January 5th exceeded 32,000 ETH — the highest daily volume recorded in the last three months.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1775" height="618" src="https://dailycoin.com/wp-content/uploads/2023/01/Screenshot-189.png" class="vc_single_image-img attachment-full" alt="The 7 Days Market Cap and Volume of NFTs" decoding="async" title="The 7 Days Market Cap and Volume of NFTs" /></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p style="text-align: center;"><i><span style="font-weight: 400;">The Seven-Day Market Cap and Volume of NFTs. Source: </span></i><a href="https://nftgo.io/analytics/market-overview" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><i><span style="font-weight: 400;">NFTGO</span></i></a></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Over the last 24 hours, in excess of 30,00 ETH has been traded. There are over 37,00 traders, with OpenSea’s ETH-denominated trading volume also spiking to a two-month peak.  </span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Flipsider:</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li aria-level="1"><b>Wash Trading of NFT — when a trader buys and sells the same asset — has recorded a 59% decline in the last six months.</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Why You Should Care</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">The spike in the daily trading volume of NFTs shows that there is still interest in digital assets despite their plunge in value.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1920" height="270" src="https://dailycoin.com/wp-content/uploads/2021/09/Digest-breakers-Chart.png" class="vc_single_image-img attachment-full" alt="Digest breakers Chart" decoding="async" title="" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2><strong>Three Arrows Capital Founders Served Subpoenaed Via Twitter</strong></h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Teneo liquidators representing the collapsed Singapore-based hedge fund Three Arrows Capital (3AC) on Jan. 5 served co-founders Kyle Davies and Su Zhu with a subpoena on </span><a href="https://twitter.com/3ACLiq/status/1611018579532742657?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1611018579532742657%7Ctwgr%5Ec40c0fc7e690de557b5691c894c74ba57ae346e2%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fthree-arrows-capital-founders-subpoenaed-on-twitter" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">Twitter</span></a><span style="font-weight: 400;"> following complaints of their non-compliance and unknown location.</span></p>
-<p><span style="font-weight: 400;">The unconventional subpoena permitted by the Singaporean authorities and followed by the United States bankruptcy court order seeks to access all information about the defunct firm, its seed phrases, and private keys for 3AC’s digital and fiat assets from the co-founders who somehow manage to maintain an online presence. </span></p>
-<p><span style="font-weight: 400;">The subpoena orders require Davies and Zhu Su to produce the required document, regardless of whether it&#8217;s in their custody or with a third party, before a deadline of January 26th. They are also to allow an inspection of 3AC&#8217;s premises at a designated date and time.</span></p>
-<p><span style="font-weight: 400;">The subpoena requires Davies and Zhu Su to state the date and nature of the document handled by third parties and explain why the paper is unavailable.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Flipsider:</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li aria-level="1"><b>So far, Teneo has seized $35.6 million and $2.751 million worth of investments out of the $3 billion 3AC owes.</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Why You Should Care</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Teneo reassured creditors of asset recovery as it is focused on advancing the liquidation process.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div  class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1920" height="270" src="https://dailycoin.com/wp-content/uploads/2021/09/Digest-breakers-Blocks.png" class="vc_single_image-img attachment-full" alt="Digest breakers Blocks" decoding="async" title="" /></div>
-		</figure>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2><strong>Crypto Conglomerate DCG Shuts Down Its Wealth Management Subsidiary</strong></h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">Digital Currency Group (DCG), a crypto conglomerate and parent company of bankrupt crypto broker Genesis and digital asset manager Grayscale, announced the shutting down of its wealth management subsidiary HQ Digital on January 5th.</span></p>
-<p><span style="font-weight: 400;">According to the </span><a href="https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><span style="font-weight: 400;">report</span></a><span style="font-weight: 400;">, the company which had over $3.5 billion of assets under management as of December, cited the downturn of economic events and prolonged crypto winter as reasons for HQ&#8217;s wind down starting on Jan. 31. </span></p>
-<p><span style="font-weight: 400;">The company might, however, revisit the branch sometime in the future. The move came the same day that Genesis laid off 30% of its workforce as pressure from creditors and the looming threat of bankruptcy intensified. </span></p>
-<p><span style="font-weight: 400;">The implosion of FTX in November has brought knock-on implications for DCG and its subsidiaries, like the public dispute between DCG head Barry Silbert and Gemini co-founder Cameron Winklevoss over a whopping $1.675 billion debt.</span></p>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Flipsider:</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<ul>
-<li aria-level="1"><b>One Redditor </b><a href="https://www.bloomberg.com/opinion/articles/2023-01-03/crypto-manipulation-has-consequences" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><b>claims</b></a><b> that Silbert had mixed company money while working at DCG and will be arrested if FTX is found to have an $8 billion hole in its books.</b></li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space"   style="height: 21px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h2>Why You Should Care</h2>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p><span style="font-weight: 400;">The bear market has walloped Genesis as it made a 50% (currently 145 employees) cut in its workforce in less than a year.</span></p>
 
 		</div>
 	</div>
