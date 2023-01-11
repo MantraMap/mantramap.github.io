@@ -670,4 +670,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=PhpRedis metric#hits=6823 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1292658 metric#prefetches=10 metric#store-reads=104 metric#store-writes=3 metric#store-hits=151 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=273.49 metric#ms-cache=26.96 metric#ms-cache-median=0.09 metric#ms-cache-ratio=9.9 -->
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=6954 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1292658 metric#prefetches=135 metric#store-reads=27 metric#store-writes=3 metric#store-hits=157 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=326.66 metric#ms-cache=21.41 metric#ms-cache-median=0.28 metric#ms-cache-ratio=6.6 -->
