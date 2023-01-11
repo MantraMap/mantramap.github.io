@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Tue, 10 Jan 2023 00:36:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jan 2023 18:24:32 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,311 +28,193 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Flare Launches Layer 1 Oracle Network</title>
-		<link>https://coinjournal.net/news/flare-launches-layer-1-oracle-network/</link>
-					<comments>https://coinjournal.net/news/flare-launches-layer-1-oracle-network/#respond</comments>
-		
-		<dc:creator><![CDATA[Chainwire  ]]></dc:creator>
-		<pubDate>Tue, 10 Jan 2023 00:36:53 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/?p=99294</guid>
-
-					<description><![CDATA[<p>Dubai, UAE, 10th January, 2023, Chainwire Flare, the blockchain for building applications that use data from other chains and the internet, has successfully completed its long-awaited token airdrop at 11:59 pm UTC on January 9th. The airdrop saw 4.279B Flare (FLR) tokens distributed to millions of recipients, including users on Binance, OKX, Kraken, Bithumb, UpBit, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/flare-launches-layer-1-oracle-network/">Flare Launches Layer 1 Oracle Network</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><strong>Dubai, UAE, 10th January, 2023, Chainwire</strong></p>
-<p>Flare, the blockchain for building applications that use data from other chains and the internet, has successfully completed its long-awaited token airdrop at 11:59 pm UTC on January 9th. The airdrop saw 4.279B Flare (FLR) tokens distributed to millions of recipients, including users on Binance, OKX, Kraken, Bithumb, UpBit, Kucoin, BitBank, &amp; more, in one of the largest scale distributions in crypto history.</p>
-<p>The airdrop is a significant milestone for Flare as developers can now start to take advantage of Flare&rsquo;s EVM and native data acquisition protocols, the State Connector and Flare Time Series Oracle. These native protocols, secured by the network, provide decentralized access to high-integrity data from other blockchains and the internet, enabling the creation of new use cases and monetization models.</p>
-<p><i>Hugo Philion, CEO &amp; Co-founder of Flare said,&nbsp;</i></p>
-<p><i>&ldquo;For the blockchain industry to flourish, we need more useful decentralized applications. Flare is tackling this through data, not just prices but transaction details, Web2 events etc, so that developers can build applications that provide more utility to a larger group of users.&rdquo;</i></p>
-<p><i>Hugo continues, &ldquo;Flare&rsquo;s objective is to enable developers to build applications that securely access more data. This could enable new use cases to be built, such as triggering a Flare smart contract action with a payment made on another chain, or with input from an internet/web2 API. It also facilitates a new way of bridging, specifically to bring non-smart contract tokens to Flare for use in applications like DeFi protocols.&rdquo;</i></p>
-<p>Flare&rsquo;s <a href="https://flare.network/stateconnector/" target="_blank" rel="nofollow noopener"><u>State Connector</u></a> protocols enable information to be used securely, scalably and trustlessly with smart contracts on Flare. This offers the most powerful class of data on the network and enables more cross-chain solutions to be built. The State Connector derives its safety from combining a decentralized set of attestors with a binary forking protocol, which allows for a malicious majority of data providers to be challenged. In contrast to a proof of stake based system where data providers are obliged to stake value, the security of the State Connector is not limited by the amount staked in the system. This means that the State Connector is invariant in its safety relative to the size of a transaction, this offers a secure system capable of handling large amounts of value.<br>
-The <a href="https://flare.network/ftso/" target="_blank" rel="nofollow noopener"><u>Flare Time Series Oracle</u></a> (FTSO) utilizes the network structure to deliver highly decentralized prices and data series to dapps on Flare without relying on centralized data providers. The FTSO is a highly decentralized data feed oracle, with almost 100 independent data providers incentivized to provide reliable data every 3 minutes.</p>
-<p>The Flare token distribution represents the first 15% of the full public token distribution, with the remainder to be distributed on a monthly basis over 36 months. The method of allocation of the remaining 85% of token supply depends on the outcome of a community vote on <a href="https://flare.network/fip01/" target="_blank" rel="nofollow noopener"><u>Flare Improvement Proposal 01 (FIP.01)</u></a>.</p>
-<p><b>About Flare</b><br>
-<a href="https://flare.network/" target="_blank" rel="nofollow noopener"><u>Flare</u></a> is the Layer 1 oracle network that allows developers to build applications that are interoperable with blockchains and the internet. By providing decentralized access to high-integrity data, Flare enables new use cases and monetisation models.</p>
-<p>Flare&rsquo;s <a href="https://flare.network/stateconnector/" target="_blank" rel="nofollow noopener"><u>State Connector</u></a> protocols enable information, both from other blockchains and the internet to be used securely, scalably and trustlessly with smart contracts on Flare.</p>
-<p>The <a href="https://flare.network/ftso/" target="_blank" rel="nofollow noopener"><u>Flare Time Series Oracle</u></a> delivers highly-decentralized price and data feeds to dapps on Flare, without relying on centralized providers.</p>
-<p>Build on Flare with more data than ever before or build with Flare to serve multiple ecosystems.</p>
-<ul>
-<li><a href="https://flare.network/" target="_blank" rel="nofollow noopener"><u>Website</u></a></li>
-<li><a href="https://twitter.com/FlareNetworks" target="_blank" rel="nofollow noopener"><u>Twitter</u></a></li>
-<li><a href="https://t.me/FlareNetwork" target="_blank" rel="nofollow noopener"><u>Telegram</u></a></li>
-<li><a href="https://discord.com/invite/flarenetwork" target="_blank" rel="nofollow noopener"><u>Discord</u></a></li>
-</ul>
-<p><strong>Contact</strong></p>
-<p>Nadav Dakner, nadav@marketacross.com</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/flare-launches-layer-1-oracle-network/">Flare Launches Layer 1 Oracle Network</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/flare-launches-layer-1-oracle-network/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Litecoin to $100 looks probable as breakout at resistance gets underway</title>
-		<link>https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/</link>
-					<comments>https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/#respond</comments>
-		
-		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 20:31:23 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Altcoin]]></category>
-		<category><![CDATA[altcoins]]></category>
-		<category><![CDATA[LTC]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/</guid>
-
-					<description><![CDATA[<p>Litecoin is attempting to break above $80 The upcoming halving event is seen to boost the price A successful breakout will see buyers eye the next resistance at $100 If you have been eyeing&#160;Litecoin (LTC/USD), it is time to get even more curious, as the latest price action looks exciting. The area around $80 was [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/">Litecoin to $100 looks probable as breakout at resistance gets underway</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">
-<p dir="ltr">Litecoin is attempting to break above $80</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">The upcoming halving event is seen to boost the price</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A successful breakout will see buyers eye the next resistance at $100</p>
-</li>
-</ul>
-<p dir="ltr">If you have been eyeing&nbsp;<a href="https://coinjournal.net/litecoin/what-is-litecoin/" rel="noopener noreferrer" target="_blank"><u>Litecoin</u></a> (LTC/USD), it is time to get even more curious, as the latest price action looks exciting. The area around $80 was a stumbling block to Litecoin during its bullish rally in November. Bears took the chance to push the price lower, retesting the $64 support but bulls resuscitated thereafter.</p>
-<p dir="ltr">In a tug-of-war between bulls and bears, the former is seemingly winning as Litecoin attempts to clear the $80 barrier. The cryptocurrency surged to $82, although it is not clear if the daily candlestick will close above to consider a breakout. Should a bullish market be confirmed, a journey to $100 looks very likely. Investors would better watch how the price action plays out next.</p>
-<p dir="ltr">If you might have missed it, you could refer to the&nbsp;<a href="https://coinjournal.net/news/litecoin-shoots-high-after-a-breakout-why-you-should-buy-ltc-in-a-bear-market/" rel="noopener noreferrer" target="_blank"><u>CoinJournal analysis</u></a> on how Litecoin&rsquo;s halving event is influencing price. But aside from this critical event, Litecoin could draw from the slightly improved crypto sentiment to force a breakout. Most cryptocurrencies have staged recoveries as of press time. So how will you tell if a breakout has occurred in LTC price?</p>
-<h2 dir="ltr"><strong>LTC surges with higher momentums at $80</strong></h2>
-<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/09/1673296203519-88eca86c-9e72-4c8f-8e3c-fc656b3edc71.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="269"></p>
-<p dir="ltr"><a href="https://www.tradingview.com/symbols/LTCUSD/" rel="noopener noreferrer" target="_blank"><u>LTC/USD Chart by TradingView</u></a></p>
-<p dir="ltr">On the daily chart technical outlook, momentum is very strong for LTC. The daily candlestick is piercing through the $80 resistance zone. There is a surge in the buy-side volumes, indicating buyers are very active on LTC. The price also stays clear of the moving averages and ascending trendline.</p>
-<h2 dir="ltr"><strong>When to consider a breakout?</strong></h2>
-<p dir="ltr">LTC must clear $80, with the daily candlestick closing above, to consider a successful breakout. If the price closes above this crucial level, buyers may get attracted. LTC could surge to nearly $100, the potential resistance zone.&nbsp;</p>
-<p dir="ltr">On the contrary, if the&nbsp;<a href="https://coinjournal.net/litecoin/#:~:text=The%20price%20of%20LTC%20today,trading%20volume%20of%20%24347.83M." rel="noopener noreferrer" target="_blank"><u>LTC price</u></a> closes below $80, the token could be due for a correction. We consider the former a more likely scenario but investors should be open to both.</p>
-<h2 dir="ltr"><strong>Where to buy LTC</strong></h2>
-<p dir="ltr"></p><h3>
-    eToro</h3>
-
-    <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
-
-<p>
-    <a href="/visit/etoro-crypto?guid=OTkyOTI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy LTC with eToro today            </a>
-            <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
-            <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
-            <span class="ml-1">
-                <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="w-3 h-3">
-                    <path fill="currentColor" d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"></path>
-                </svg>
-            </span>
-        </button>
-    </p><h3>
-    Binance</h3>
-
-    <p>Binance is one of the largest cryptocurrency exchanges in the world. It is better suited to more experienced investors and it offers a large number of cryptocurrencies to choose from, at over 600.
-
-Binance is also known for having low trading fees and a multiple of trading options that its users can benefit from, such as; peer-to-peer trading, margin trading and spot trading.
-</p>
-
-<p>
-    <a href="/visit/binance-crypto?guid=OTkyOTI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy LTC with Binance today            </a>
-    </p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/">Litecoin to $100 looks probable as breakout at resistance gets underway</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/litecoin-to-100-looks-probable-as-breakout-at-resistance-gets-underway/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ethereum price heading to $16,000? What could happen next</title>
-		<link>https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/</link>
-					<comments>https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/#respond</comments>
-		
-		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 20:17:39 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Altcoin]]></category>
-		<category><![CDATA[altcoins]]></category>
-		<category><![CDATA[ETH]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/</guid>
-
-					<description><![CDATA[<p>Ethereum recovered by more than 4% on Monday The cryptocurrency has maintained an uptrend A break above $1,250 sets ETH to $16,000 with short-term corrections at $1,350 and $1,450 Relief rallies are here, and even before we go further,&#160;Ethereum (ETH/USD) is back above $1,300. To a crypto native, this price level should inform you that [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/">Ethereum price heading to $16,000? What could happen next</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">
-<p dir="ltr">Ethereum recovered by more than 4% on Monday</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">The cryptocurrency has maintained an uptrend</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A break above $1,250 sets ETH to $16,000 with short-term corrections at $1,350 and $1,450</p>
-</li>
-</ul>
-<p dir="ltr">Relief rallies are here, and even before we go further,&nbsp;<a href="https://coinjournal.net/ethereum/what-is-ethereum/" rel="noopener noreferrer" target="_blank"><u>Ethereum</u></a> (ETH/USD) is back above $1,300. To a crypto native, this price level should inform you that Ethereum has overcome a resistance hurdle at $1,250. We have seen it happen before, cryptocurrencies breaking key levels and crashing below them afterward. That&rsquo;s when you recognise how volatile digital assets are. But of course, you do not want to miss on slight opportunities as they emerge, and Ethereum could be one of them.</p>
-<p dir="ltr">Trading up 4.66% as of press time, Ethereum was again showing why investors should never lose hope. Ethereum has been regarded as the home of decentralised finance and non-fungible tokens. Analysts expect these two nascent sectors to continue growing despite getting it rough in 2022. So, timing your investment in Ethereum is all you need, both short and long-term. But is the recent rally an indication of the start of a bullish market?</p>
-<p dir="ltr">We would be too cautious about calling a bullish market for Ethereum and any other crypto now. However, as ETH price action shows, $16,000 could be the inevitable target only if&hellip;</p>
-<h2 dir="ltr"><strong>Ethereum price outlook and analysis</strong></h2>
-<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/09/1673295402095-b4cb4d06-baf1-44ee-be0c-1f1ec1ff559a.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="270"></p>
-<p dir="ltr"><a href="https://www.tradingview.com/symbols/ETHUSD/" rel="noopener noreferrer" target="_blank"><u>ETH/USD Chart by TradingView</u></a></p>
-<p dir="ltr">Ethereum&rsquo;s price outlook shows it has overcome resistance at $1,250. The momentum has increased significantly since the breakout. The moving averages now support the price, with the 20-day MA attempting to close above the 50-day MA. Ethereum has maintained movement above the short-term ascending trendline and trades with higher highs and higher lows.</p>
-<h2 dir="ltr"><strong>What next for ETH?</strong></h2>
-<p dir="ltr"><a href="https://coinjournal.net/ethereum/#:~:text=The%20price%20of%20ETH%20today,in%20the%20last%2024%20hours." rel="noopener noreferrer" target="_blank"><u>Ethereum price</u></a> is set for the $1,350 level in the current bullish run. A break above this zone will see buyers target $1,450 next. Still, we set a price target at or above $1,600, the established resistance. For ETH to hit the price level, bulls must keep price above the ascending trendline and moving averages. However, short-term corrections are expected at the near-term resistances of $1,350 and $1,450.</p>
-<h2 dir="ltr"><strong>Where to buy ETH</strong></h2>
-<p dir="ltr"></p><h3>
-    eToro</h3>
-
-    <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
-
-<p>
-    <a href="/visit/etoro-crypto?guid=OTkyOTA&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy ETH with eToro today            </a>
-            <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
-            <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
-            <span class="ml-1">
-                <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="w-3 h-3">
-                    <path fill="currentColor" d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"></path>
-                </svg>
-            </span>
-        </button>
-    </p><h3>
-    Binance</h3>
-
-    <p>Binance is one of the largest cryptocurrency exchanges in the world. It is better suited to more experienced investors and it offers a large number of cryptocurrencies to choose from, at over 600.
-
-Binance is also known for having low trading fees and a multiple of trading options that its users can benefit from, such as; peer-to-peer trading, margin trading and spot trading.
-</p>
-
-<p>
-    <a href="/visit/binance-crypto?guid=OTkyOTA&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy ETH with Binance today            </a>
-    </p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/">Ethereum price heading to $16,000? What could happen next</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/ethereum-price-heading-to-16000-what-could-happen-next/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>73% less Bitcoin millionaires than a year ago, as crypto losses top $2 trillion in torrid 2022</title>
-		<link>https://coinjournal.net/news/73-less-bitcoin-millionaires-than-a-year-ago-as-crypto-losses-top-2-trillion-in-torrid-2022/</link>
+		<title>Grayscale Bitcoin Fund up 25% this year, but discount still killing investors</title>
+		<link>https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/</link>
+					<comments>https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/#respond</comments>
 		
 		<dc:creator><![CDATA[Dan Ashmore]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 18:34:02 +0000</pubDate>
+		<pubDate>Tue, 10 Jan 2023 18:24:32 +0000</pubDate>
 				<category><![CDATA[Analysis]]></category>
 		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[Blockchain News]]></category>
-		<category><![CDATA[On-Chain data]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/73-less-bitcoin-millionaires-than-a-year-ago-as-crypto-losses-top-2-trillion-in-torrid-2022/</guid>
+		<category><![CDATA[Grayscale]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/</guid>
 
-					<description><![CDATA[<p>Key Takeaways Cryptocurrency industry was valued close to $3 trillion entering 2022, now it is $800 billion&#160; There are 73% less Bitcoin millionaires after 2022 Bitcoin has pulled back 75% from its all-time high of close to $69,000 25% of the bitcoin supply was in a loss entering the year, now it is over 50% [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/73-less-bitcoin-millionaires-than-a-year-ago-as-crypto-losses-top-2-trillion-in-torrid-2022/">73% less Bitcoin millionaires than a year ago, as crypto losses top $2 trillion in torrid 2022</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>Key Takeaways GBTC Fund is up 25% since the start of the year, compared to a 4% rise in the underlying asset, Bitcoin The discount is now back to where it was prior to the FTX collapse, at 37% The discount had hit an all-time high of 50% only four weeks ago &#160; The largest [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/">Grayscale Bitcoin Fund up 25% this year, but discount still killing investors</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<h2 dir="ltr">Key Takeaways</h2>
+										<content:encoded><![CDATA[<h2><strong>Key Takeaways</strong></h2>
 <ul>
-<li dir="ltr">Cryptocurrency industry was valued close to $3 trillion entering 2022, now it is $800 billion&nbsp;</li>
-<li dir="ltr">There are 73% less Bitcoin millionaires after 2022</li>
-<li dir="ltr">Bitcoin has pulled back 75% from its all-time high of close to $69,000</li>
-<li dir="ltr">25% of the bitcoin supply was in a loss entering the year, now it is over 50%</li>
-<li dir="ltr">Number of investors holding greater than 1 BTC jumped 20% as the hurdle became much more attainable</li>
+<li>GBTC Fund is up 25% since the start of the year, compared to a 4% rise in the underlying asset, Bitcoin</li>
+<li>The discount is now back to where it was prior to the FTX collapse, at 37%</li>
+<li>The discount had hit an all-time high of 50% only four weeks ago</li>
 </ul>
-<p dir="ltr">&nbsp; &nbsp;&nbsp;</p>
-<p dir="ltr">Once upon a time, the cryptocurrency market was valued at $3 trillion. To be precise, this was in November 2021, when <a href="https://coinjournal.net/bitcoin/"><u>Bitcoin</u></a> traded at its all-time high of close to $69,000.</p>
-<p dir="ltr">But then along came 2022. Inflation sparked as a result of the COVID money printing, war in Ukraine and supply chain issues, meaning central banks worldwide were forced to hike rates to curtail a spiralling cost-of-living crisis.</p>
-<p dir="ltr">With the cheap liquidity pulled out from under markets, Bitcoin &ndash; and crypto as a whole &ndash; felt the pinch. We have seen top 10 cryptocurrencies collapse, one of the <a href="https://coinjournal.net/compare/best-cryptocurrency-exchanges/"><u>top exchanges</u></a> revealed to be a house of cards and numerous other bankruptcies and scandals.&nbsp;</p>
-<p dir="ltr">The loss has been greater than $2 trillion, with Bitcoin shedding three-quarters of its value as at the time of writing, trading at $16,800.</p>
-<p dir="ltr">        </p><div class="flourish-embed flourish-map" data-src="visualisation/12355643">
+<p>&nbsp;</p>
+<p>The largest <a href="https://coinjournal.net/news/tag/bitcoin/">Bitcoin</a> fund in the world, the Grayscale Bitcoin Trust, has seen its value jump by 25% since the start of the year. Bitcoin, on the other hand, is only up about 4% on the year.</p>
+<p>This means that the discount to the underlying asset, Bitcoin, is at its smallest level in months. I had analysed the divergence in December, only four weeks ago, when the discount hit an <a href="https://coinjournal.net/news/why-has-the-grayscale-bitcoin-trust-discount-hit-an-all-time-high/">all-time high of 50%</a>.</p>
+<p>Today, the discount sits at 37%, back to where it was before the ignominious <a href="https://coinjournal.net/news/ftx-insolvent-what-next-for-crypto/">collapse of FTX</a>.</p>
+        <div class="flourish-embed flourish-map" data-src="visualisation/12400257">
             <script src="https://public.flourish.studio/resources/embed.js"></script>
         </div>
     
-<h2 dir="ltr">Bitcoin millionaires</h2>
-<p dir="ltr">Looking at on-chain data from bitinfocharts.com, Bitcoin millionaires have dropped like flies. Entering 2022, there were 90,000 addresses containing over a million dollars worth of Bitcoin. Today, it is 24,000 &ndash; that amounts to a fall of 73%.</p>
-<p dir="ltr"><em>&ldquo;The on-chain data sums up what is glaringly obvious from looking at a Bitcoin price chart &ndash; that the party is over and investors are no longer dreaming of retirement off their Bitcoin holdings, in the near future at least! Nearly three-quarters of Bitcoin millionaires losing that status is perhaps the best piece of data of all to summarise how ugly 2022 was for investors&rdquo;&nbsp;</em>said Max Coupland, Director at CoinJournal.&nbsp;</p>
-<h2 dir="ltr">Percent in supply in loss doubles in 2022</h2>
-<p dir="ltr">Bitcoin&rsquo;s returns before 2022 were astonishing. As a result, the bulk of the supply was in profit, with only 25% of the supply loss-making entering the year. By year-end, this had doubled to over 50% &ndash; another stunning statistic when considering that Bitcoin was the best-performing asset class in the world over the prior decade.&nbsp;</p>
-<p dir="ltr">        </p><div class="flourish-embed flourish-map" data-src="visualisation/12356431">
-            <script src="https://public.flourish.studio/resources/embed.js"></script>
-        </div>
-    
-<h2 dir="ltr">Addresses holding greater than 1 BTC</h2>
-<p dir="ltr">On the flipside, with Bitcoin being so cheap compared to last year, the number of addresses containing one Bitcoin or greater &ndash; &ldquo;whole coiners&rdquo;, as they are known &ndash; is at all-time high, even if the dollar value contained in those addresses is way down.&nbsp;</p>
-<p dir="ltr">        </p><div class="flourish-embed flourish-map" data-src="visualisation/12355736">
-            <script src="https://public.flourish.studio/resources/embed.js"></script>
-        </div>
-    
-<p dir="ltr">Entering 2022, there were over 814,000 addresses holding more than 1 BTC. By the end of the year, this number was over 978,000 &ndash; that is a rise of 20%.</p>
-<p dir="ltr">As can be seen when zooming in on 2022 on the below chart, there were significant jumps when Bitcoin plunged off the back of the three major scandals of 2022 &ndash; Luna&rsquo;s death spiral, Celsius&rsquo; insolvency and the revelations of fraud at FTX.&nbsp;</p>
-<p dir="ltr">        </p><div class="flourish-embed flourish-map" data-src="visualisation/12355775">
-            <script src="https://public.flourish.studio/resources/embed.js"></script>
-        </div>
-    
-<h2 dir="ltr">Dropping sentiment matching falling prices</h2>
-<p dir="ltr">Perhaps the biggest problem emerging from 2022 is related to these scandals. The reputation of crypto has taken a hammer blow, most notably with the shocking downfall of FTX and disgraced former CEO Sam Bankman-Fried.&nbsp;</p>
-<p dir="ltr">According to a CNBC survey as of November 2022, only 8% of Americans now have a positive view of cryptocurrency.&nbsp;</p>
-<p dir="ltr">Crypto investors have seen similar percentage declines before, of course, only for the market to bounce back. But this time, crypto is fighting against a pullback in the wider economy for the first time in its history.&nbsp;</p>
-<p dir="ltr">Until now, it had been zero (or negative) interest rates and a warm money printer. Now, we have transitioned to a new environment, and crypto investors are feeling the pain. They will hope that 2023 can bring a return to prominence and start mending the reputation of the wounded asset class.&nbsp;</p>
-<p dir="ltr"><em>If you use our data, then we would appreciate a link back to&nbsp;</em><a href="https://coinjournal.net"><em><u>https://coinjournal.net</u></em></a><em>. Crediting our work with a link helps us to keep providing you with data analysis research.&nbsp;</em></p>
-<h4 dir="ltr">Research Methodology</h4>
-<p dir="ltr">Address data taken from on-chain. Price data from Yahoo Finance.&nbsp;</p>
+<h2><strong>What is the Grayscale discount?</strong></h2>
+<p>Grayscale is a trust which provides an avenue for investors to gain exposure to Bitcoin without physically buying Bitcoin. This can be convenient for institutions or other entities who may not be able to participate I the Bitcoin market directly for regulatory or legal reasons.</p>
+<p>But Grayscale has rarely traded at the same price as its net asset value. Previously, it had traded at a premium to the underlying Bitcoin as shares surged with investors desperate to get exposure to the high-flying cryptocurrency.</p>
+<p>Today, however, it is the opposite &ndash; a steep discount. While there is a chunky fee of 2% that explains some of the discount, this does not come close enough to bridging a discount of 30%+ that we have seen consistently in this crypto winter.</p>
+<p>The SEC recently denied Grayscale&rsquo;s application to convert the trust into an exchange-traded fund, spelling bearish action around the fund. There has also been the rise of more competition, with similar funds being launched, especially in Europe, and filings for Bitcoin ETFs.</p>
+<p>But the most significant worry was surrounding the safety of reserves. This issue grew legs after the FTX collapse, as speculation mounted that Grayscale&rsquo;s parent company, Digital Currency Group (DCG), may file for bankruptcy.</p>
+<p>DCG is also the parent company to Genesis, which recently laid off 30% of its staff and is reportedly considering bankruptcy. Concern grew when Grayscale refused to publish a proof of reserves report, suddenly in vogue following the nefarious actions behind the scenes at FTX.</p>
+<p>It cited &ldquo;security concerns&rdquo; as the reason that this would not be possible, but analysts decried this, with it very unclear what security concerns could be ignited by the publishing of public records on the blockchain.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">6) Coinbase frequently performs on-chain validation. Due to security concerns, we do not make such on-chain wallet information and confirmation information publicly available through a cryptographic Proof-of-Reserve, or other advanced cryptographic accounting procedure.</p>
+<p>&mdash; Grayscale (@Grayscale) <a href="https://twitter.com/Grayscale/status/1593737746413244417?ref_src=twsrc%5Etfw">November 18, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2> <strong>Why has the discount closed?</strong></h2>
+<p>While the discount is still enormous at 37%, this has narrowed from the staggering 50% it reached in the aftermath of the FTX implosion.</p>
+<p>There has been increasing pressure on DCG to address this discount, with calls from within the industry that the trust should allow investors to redeem their holdings, which would allow them to realise the full value of the Bitcoin they hold. This clamour may have helped narrow the gap somewhat.</p>
+<p>One hedge fund, Fir Tree, even launched a lawsuit against Grayscale, demanding that the company either lower its fees or allow redemptions such that the discount can be closed.</p>
+<p>But like everything in crypto right now, macro also has a part to play. The year has begun with <a href="https://coinjournal.net/news/why-are-crypto-prices-rising-2023-off-to-hot-start/">crypto prices rising</a> off increased optimism that inflation may have peaked. This follows a relatively serene month or so in crypto markets.</p>
+<p>The discount widened to a large degree in the aftermath of the FTX crash because people feared contagion and the chips were still falling. Similar to the <a href="https://coinjournal.net/news/im-sick-of-talking-about-tether-but-heres-an-article-about-tether/">peg on Tether slipping</a> when the UST crisis occurred.</p>
+<p>Now that normal service <a href="https://coinjournal.net/news/normalcy-returning-to-crypto-markets-on-chain-data-shows/">has somewhat resumed</a>, the discount has narrowed. Unfortunately for investors, it is still a staggering 37% off the net asset value. In a year where Bitcoin itself has plummeted, layering in a discount on top of that torrid price action is the last thing investors needed&hellip;</p>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/73-less-bitcoin-millionaires-than-a-year-ago-as-crypto-losses-top-2-trillion-in-torrid-2022/">73% less Bitcoin millionaires than a year ago, as crypto losses top $2 trillion in torrid 2022</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/">Grayscale Bitcoin Fund up 25% this year, but discount still killing investors</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>https://coinjournal.net/news/grayscale-bitcoin-fund-up-25-this-year-but-discount-still-killing-investors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Solana could maintain bullishness if this happens</title>
-		<link>https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/</link>
-					<comments>https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/#respond</comments>
+		<title>Coinbase lays off 950 employees, CEO says the exchange is well capitalized</title>
+		<link>https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/</link>
+					<comments>https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 17:48:15 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Huobi]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/</guid>
+
+					<description><![CDATA[<p>The exchange wants to reduce operating costs by 25%. It is the second crypto exchange after Huobi to confirm layoffs in 2023. Coinbase CEO has however confirmed that the exchange is well capitalized. The American-based cryptocurrency exchange, Coinbase has announced through its website that it is cutting down on its operating expenses by 25%. The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/">Coinbase lays off 950 employees, CEO says the exchange is well capitalized</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>The exchange wants to reduce operating costs by 25%.</li>
+<li>It is the second crypto exchange after Huobi to confirm layoffs in 2023.</li>
+<li>Coinbase CEO has however confirmed that the exchange is well capitalized.</li>
+</ul>
+<p>The American-based cryptocurrency exchange, <a href="https://coinjournal.net/exchanges/coinbase/">Coinbase</a> has announced through its website that it is cutting down on its operating expenses by 25%. The move includes laying off 950 employees, which accounts for about 20% of the company&rsquo;s workforce.</p>
+<p>The exchange&rsquo;s CEO, Brian Armstrong, has listed the <a href="https://coinjournal.net/news/crypto-winter-may-not-end-anytime-soon/">ongoing bear crypto market</a> and the broader macroeconomy as the main reasons to reduce the company&rsquo;s expenses.</p>
+<h2>Hard times for the exchange</h2>
+<p>While announcing the laying off, the CEO also assured the public that the crypto exchange is well capitalized and added that crypto is not going anywhere.</p>
+<p>Nevertheless, the CEO noted that while the exchange has gone through multiple crypto bear markets, the current bear market is proving to be a real struggle for Coinbase. He said that it is the first time a global economic meltdown has aligned with a bear crypto market. He said:</p>
+<p><em>&ldquo;As we examined our 2023 scenarios, it became clear that we would need to reduce expenses to increase our chances of doing well in every scenario. While it is always painful to part ways with our colleagues, there was no way to reduce our expenses significantly enough without considering changes to headcount.&rdquo;</em></p>
+<h2>2023 has already seen several layoffs</h2>
+<p>Coinbase joins several other companies that started the year 2023 by announcing layoffs. Huobi exchange also <a href="https://coinjournal.net/news/is-huobi-safe-why-customers-should-be-withdrawing-funds/">recently confirmed 20% layoffs</a>.</p>
+<p>For example, Salesforce announced it is planning to reduce its workforce by 10%, which would translate to laying off about 8,000 people. Amazon also confirmed that it is carrying out its second round of layoffs that will see it lay off about 18,000 people from its workforce.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/">Coinbase lays off 950 employees, CEO says the exchange is well capitalized</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/coinbase-lays-off-950-employees-ceo-says-the-exchange-is-well-capitalized/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BONK price action spells trouble after becoming an overnight crypto sensation</title>
+		<link>https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/</link>
+					<comments>https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/#respond</comments>
 		
 		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 17:27:45 +0000</pubDate>
+		<pubDate>Tue, 10 Jan 2023 16:34:31 +0000</pubDate>
 				<category><![CDATA[Analysis]]></category>
 		<category><![CDATA[Altcoin]]></category>
 		<category><![CDATA[altcoins]]></category>
 		<category><![CDATA[Cryptocurrency News]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/</guid>
+		<guid isPermaLink="false">https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/</guid>
 
-					<description><![CDATA[<p>Solana token has added nearly 50% of value in a week The gains come amid the BONK token launch SOL has overcome a resistance and eyes higher level if it closes above key zone For the first time since the crash orchestrated by the FTX, Solana (SOL/USD) has recovered above the 50-day moving average. That [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/">Solana could maintain bullishness if this happens</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>Bonk token launched on December 25, 2022 The cryptocurrency rose by four-digit percentages after the launch BONK price has cooled and trades on a descent and could claim lower levels Crypto has always treated its fans with twists, turns, and surprises. The crypto community loves it this way, for it becomes a time to make [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/">BONK price action spells trouble after becoming an overnight crypto sensation</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<ul>
 <li dir="ltr">
-<p dir="ltr">Solana token has added nearly 50% of value in a week</p>
+<p dir="ltr">Bonk token launched on December 25, 2022</p>
 </li>
 <li dir="ltr">
-<p dir="ltr">The gains come amid the BONK token launch</p>
+<p dir="ltr">The cryptocurrency rose by four-digit percentages after the launch</p>
 </li>
 <li dir="ltr">
-<p dir="ltr">SOL has overcome a resistance and eyes higher level if it closes above key zone</p>
+<p dir="ltr">BONK price has cooled and trades on a descent and could claim lower levels</p>
 </li>
 </ul>
-<p dir="ltr">For the first time since the crash orchestrated by the FTX, Solana (SOL/USD) has recovered above the 50-day moving average. That comes as the&nbsp;<a href="https://coinjournal.net/solana/#:~:text=The%20price%20of%20SOL%20today,in%20the%20last%2024%20hours." rel="noopener noreferrer" target="_blank"><u>SOL price</u></a> has risen by nearly 50% in the past week, outperforming other major cryptocurrencies at the top. SOL has also recovered above the $15 resistance, giving buyers hopes of a further upside. The fundamentals are good too.</p>
-<p dir="ltr">Crypto analytics Token Termina shows that the daily active users on Solana continued to rise in January. Since the start of 2023, the number of active users has increased by 55.9% or 56,000 to 160,000. That suggests that users have not given up on the proclaimed Ethereum killer, which had a set of challenges last year. There are reasons for this rise in active users.</p>
-<p dir="ltr">Bonk Inu, or simply BONK, continues to attract fans. Launched just a week and a half ago,&nbsp;<a href="https://coinjournal.net/news/bonk-price-has-soared-prepare-for-a-major-dive/" rel="noopener noreferrer" target="_blank"><u>BONK</u></a> has been a crypto sensation, with the dog-themed cryptocurrency rising by four digits in value. The token is based on the Solana network. On its Twitter page, Bonk regards itself as the &ldquo;first Solana Dog Coin for the people and by the people.&rdquo; The hype around this token&rsquo;s launch has given Solana network airtime and attracted users.</p>
-<h2 dir="ltr"><strong>Moving averages joint support for SOL&nbsp;</strong></h2>
-<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/09/1673285215340-207bcb6a-4c8a-4e0a-8739-e4ec628c179b.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="272"></p>
-<p dir="ltr"><a href="https://www.tradingview.com/symbols/SOLUSD/" rel="noopener noreferrer" target="_blank"><u>SOL/USD Chart by TradingView</u></a></p>
-<p dir="ltr">Technically, Solana has crossed above a crucial resistance at $15. Bulls have failed to break above this key level since early November 2022. Also, the price has moved above the 20-day and 50-day moving averages for the first time since November. A RSI reading of 72 shows an intensified buying of SOL.</p>
-<h2 dir="ltr"><strong>Likely price action for SOL</strong></h2>
-<p dir="ltr">SOL is clearly overbought, as shown by the RSI reading of 72, and could correct downwards. However, we remain optimistic the upside will be maintained to the $18 level as momentum is strong. For the bullish surge to be maintained, SOL must overcome $18. That could set the cryptocurrency for longer-lasting rallies to the $28 zone.</p>
-<h2 dir="ltr"><strong>Where to buy SOL</strong></h2>
+<p dir="ltr">Crypto has always treated its fans with twists, turns, and surprises. The crypto community loves it this way, for it becomes a time to make quick bucks as the rest of the market sleeps. In 2022, we were treated to a wild launch of the ApeCoin. Before the dust settled, Optimism airdrop came with a thud! The year couldn&rsquo;t end in a better way for crypto fans than it did with the&nbsp;<a href="https://coinjournal.net/news/bonk-price-has-soared-prepare-for-a-major-dive/#:~:text=Bonk%20is%20a%20new%20meme,exposure%20to%20FTX%20and%20Alameda." rel="noopener noreferrer" target="_blank"><u>Bonk token</u></a> (BONK/USD).</p>
+<p dir="ltr">If you are a fan of&nbsp;<a href="https://coinjournal.net/news/a-brief-history-of-dogecoin-and-other-meme-coins/" rel="noopener noreferrer" target="_blank"><u>meme tokens</u></a>, then BONK does not miss your watchlist after a heroic entry into the crypto space. Launched on December 25, 2022, BONK has been a sensation, jumping by four digits percentage in price. The token also dominated social trading platforms. Analysts credited the popularity of the newly dog-themed token to the Solana community. The former is based on the Solana network.</p>
+<p dir="ltr">Nonetheless, if history is indeed a good teacher, then we should learn that the gains may not last forever. We have seen highly hyped launches boosting token prices, only for them to crash thereafter. BONK may not be an exception. As of press time, the meme cryptocurrency had lost at least 50% of its value from its all-time high. Typical of the phrase, if you didn&rsquo;t board early, don&rsquo;t do it now. Technical pointers show BONK could fall further.</p>
+<h2 dir="ltr"><strong>BONK on a decline as price finds minor support</strong></h2>
+<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/10/1673368409614-a491c771-3e2a-4c0e-b442-8697a559f1f5.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="266"></p>
+<p dir="ltr"><a href="https://www.tradingview.com/symbols/BONKUSDT/" rel="noopener noreferrer" target="_blank"><u>BONK/USDT Chart by TradingView</u></a></p>
+<p dir="ltr">From the 4-hour chart outlook, BONK trades nervously at a support zone. The highs to the upside have been lower, coinciding with a declining price. Buy-side volumes have improved slightly at the support, but not sufficient to boost BONK&rsquo;s price.</p>
+<h2 dir="ltr"><strong>BONK price prediction</strong></h2>
+<p dir="ltr">As the hype around the BONK launch dies, the price could continue falling. Investors may look at BONK as an overvalued asset. Profit-taking and panic selling may also be at play and force a bearish breakout.&nbsp;</p>
+<h2 dir="ltr"><strong>Where to buy BONK</strong></h2>
+<p dir="ltr"></p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/">BONK price action spells trouble after becoming an overnight crypto sensation</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/bonk-price-action-spells-trouble-after-becoming-an-overnight-crypto-sensation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Polkadot prediction as price embarks on a relief rally from the $4.2 bottom</title>
+		<link>https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/</link>
+					<comments>https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/#respond</comments>
+		
+		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 16:27:43 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Altcoin]]></category>
+		<category><![CDATA[DOT]]></category>
+		<category><![CDATA[Polkadot News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/</guid>
+
+					<description><![CDATA[<p>Polkadot had the second-highest development activity in 2022 DOT price has heavily disappointed since the 2021 ATH but has recovered lately DOT faces resistance at $5 and may correct downwards Polkadot (DOT/USD) buyers are struggling to break above $5. A technical outlook shows the cryptocurrency has been rejected at the building resistance for the second [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/">Polkadot prediction as price embarks on a relief rally from the $4.2 bottom</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">
+<p dir="ltr">Polkadot had the second-highest development activity in 2022</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">DOT price has heavily disappointed since the 2021 ATH but has recovered lately</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">DOT faces resistance at $5 and may correct downwards</p>
+</li>
+</ul>
+<p dir="ltr">Polkadot (DOT/USD) buyers are struggling to break above $5. A technical outlook shows the cryptocurrency has been rejected at the building resistance for the second day. However, Polkadot fans should be at least excited by a relief rally that has seen the price recover from the $4.2 bottom.</p>
+<p dir="ltr">If time is a true judge, then the Polkadot price has disappointed heavily. The cryptocurrency touched a high of nearly $56 in November 2021 and has since come crumbling. With a single-digit price now, DOT is a shell of its former self.&nbsp;</p>
+<p dir="ltr">Although 2022 may have ended on a low note for DOT buyers, enthusiasts should be happy with the blockchain&rsquo;s activity. Santiment data indicates that the blockchain had the highest development activity in the year after Cardano. Polkadot was followed by Cosmos blockchain, Ethereum, and Internet Computer in the top 5. That shows that the decline in the price of the native token wasn&rsquo;t in any way signalling a falling popularity of the protocol. Rather, it was due to a sustained bearish market that has hit every cryptocurrency.&nbsp;</p>
+<p dir="ltr">If you are considering&nbsp;<a href="https://coinjournal.net/polkadot/buy/" rel="noopener noreferrer" target="_blank"><u>buying DOT</u></a>, you may have to wait until the throat clears. For short-term investors, a break above $5 is the needed confirmation.</p>
+<h2 dir="ltr"><strong>DOT price facing resistance at $5 and 50-day MA</strong></h2>
+<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/10/1673368020387-eeade7e4-076c-4c55-a1d3-915498d6a000.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="270"></p>
+<p dir="ltr"><a href="https://www.tradingview.com/symbols/DOTUSD/" rel="noopener noreferrer" target="_blank"><u>DOT/USD Chart by TradingView</u></a></p>
+<p dir="ltr">Based on the price action, DOT&rsquo;s long-term momentum is still bearish. The short-term is bullish, with the RSI now in the bullish zone. However, DOT is facing resistance at the 50-day MA. The moving average coincides with the $5 resistance level.</p>
+<h2 dir="ltr"><strong>What happens next for DOT?</strong></h2>
+<p dir="ltr">A potential correction is looming for the&nbsp;<a href="https://coinjournal.net/polkadot/#:~:text=The%20price%20of%20DOT%20today,trading%20volume%20of%20%2490.58M." rel="noopener noreferrer" target="_blank"><u>DOT price</u></a> at the current level if bulls do not recover above $5. If a breakout occurs, DOT could set the next target above $7, with minor corrections at $5.6 and $6.</p>
+<h2 dir="ltr"><strong>Where to buy DOT</strong></h2>
 <p dir="ltr"></p><h3>
     eToro</h3>
 
     <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
 
 <p>
-    <a href="/visit/etoro-crypto?guid=OTkyODc&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy SOL with eToro today            </a>
+    <a href="/visit/etoro-crypto?guid=OTkzMzM&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy DOT with eToro today            </a>
             <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
             <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
             <span class="ml-1">
@@ -350,171 +232,365 @@ Binance is also known for having low trading fees and a multiple of trading opti
 </p>
 
 <p>
-    <a href="/visit/binance-crypto?guid=OTkyODc&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=IA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
-                    Buy SOL with Binance today            </a>
+    <a href="/visit/binance-crypto?guid=OTkzMzM&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy DOT with Binance today            </a>
     </p>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/">Solana could maintain bullishness if this happens</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/">Polkadot prediction as price embarks on a relief rally from the $4.2 bottom</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://coinjournal.net/news/solana-could-maintain-bullishness-if-this-happens/feed/</wfw:commentRss>
+					<wfw:commentRss>https://coinjournal.net/news/polkadot-prediction-as-price-embarks-on-a-relief-rally-from-the-4-2-bottom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Web3 market expected to grow at a CAGR of about 45% by 2030</title>
-		<link>https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/</link>
-					<comments>https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/#respond</comments>
+		<title>Bitcoin could tank further but you might be excited by this Bloomberg prediction</title>
+		<link>https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/</link>
+					<comments>https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/#respond</comments>
 		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 16:26:23 +0000</pubDate>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Blockchain News]]></category>
-		<category><![CDATA[Crypto adoption]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/</guid>
-
-					<description><![CDATA[<p>Web3 market size will grow at a CAGR of nearly 45% between 2022 and 2030, according to research firm Straits Research. Web3 is the new iteration of the internet and will benefit from further developments in blockchain technology, artificial intelligence and machine learning. Growth opportunities are there in areas such as browsing, social media and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/">Web3 market expected to grow at a CAGR of about 45% by 2030</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr"><em><strong>Web3 market size will grow at a CAGR of nearly 45% between 2022 and 2030, according to research firm Straits Research.</strong></em></li>
-<li dir="ltr"><em><strong>Web3 is the new iteration of the internet and will benefit from further developments in blockchain technology, artificial intelligence and machine learning.</strong></em></li>
-<li dir="ltr"><strong><em>Growth opportunities are there in areas such as browsing, social media and data storage.</em></strong></li>
-</ul>
-<p dir="ltr">Despite the 2022 crypto winter&rsquo;s impact, the <a href="https://coinjournal.net/glossary/web-3-0/">Web3</a> market is forecast to grow at a CAGR of 44.8% over the next eight years. While North America remains the largest market for Web3, Asia Pacific is the fastest growing.</p>
-<h2 dir="ltr">Web 3 market growth forecast 2022-2030</h2>
-<p dir="ltr">The Web3 market saw significant growth in 2021, with the blockchain industry overall in bullish territory as cryptocurrency prices skyrocketed.</p>
-<p dir="ltr">According to Straits Research, the Web3 market size stood at $1.8 billion in 2021. However, with the 2022 bear market wreaking havoc on the entire industry, interest and activity slowed down considerably. The next few years will see the Web3 blockchain market grow at a compound annual growth rate (CAGR) of 44.8%&nbsp;</p>
-<p dir="ltr">Per the latest <a href="https://straitsresearch.com/report/web-3-0-blockchain-market" rel="noopener noreferrer" target="_blank">report</a> on Web3 growth, the period 2022-2030 will see the next evolution phase of the third-generation of the internet.</p>
-<p dir="ltr">Straits Research says the industry will get fresh impetus from developments across three key pillars: artificial intelligence (AI), machine learning (ML) and blockchain technology.</p>
-<p dir="ltr">As <em>CoinJournal</em> <a href="https://coinjournal.net/news/blockchain-technology-has-big-plans-despite-bloodbath-in-the-markets/">previously highlighted</a>, blockchain remains central to crypto growth, and as Straits Reseach notes, its a key pillar to Web3. In particular, adoption of decentralised protocols across Web3 businesses is going to be big as the technology comes out of the R&amp;D phase over the next year or so.</p>
-<p dir="ltr">Overall, the main growth opportunities are across sectors such as browsing, social media and data storage, according to Straits Research. Web3 has indeed already seen significant growth in NFT payments and digital collectibles and will continue to play a huge role in other sectors, including spatial web design and 3D graphics.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/">Web3 market expected to grow at a CAGR of about 45% by 2030</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/web3-market-expected-to-grow-at-a-cagr-of-about-45-by-2030/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Embattled AEX exchange provides new fund retrieval solution for customers</title>
-		<link>https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/</link>
-					<comments>https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/#respond</comments>
-		
-		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 16:06:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/</guid>
-
-					<description><![CDATA[<p>The fund retrieval solution will allow customers to retrieve funds trapped on the platform. The solution will be executed by a third-party law firm together with a third-party management company. Customers will have the liberty to choose between the existing solution and the new solution. AEX crypto exchange has unveiled a new fund retrieval solution [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/">Embattled AEX exchange provides new fund retrieval solution for customers</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li>The fund retrieval solution will allow customers to retrieve funds trapped on the platform.</li>
-<li>The solution will be executed by a third-party law firm together with a third-party management company.</li>
-<li>Customers will have the liberty to choose between the existing solution and the new solution.</li>
-</ul>
-<p>AEX crypto exchange has unveiled a new fund retrieval solution for customers. Customers will now be able to choose between the new solution and the previous &ldquo;soft payment&rdquo; strategy proposed in December 2022 in retrieving funds trapped on its platform.</p>
-<p>After launching the new solution the exchange claimed that the essence of the new solution is to increase the customers&rsquo; choices to speed up the fund retrieval process.</p>
-<p>AEX crypto exchange is suffering from the ripple effect of the collapsed Three Arrows Capital (3AC) in addition in addition to the complexities of being forced to relocate from China after the country clamped down on crypto activities.</p>
-<h2>What the new solution entails</h2>
-<p>The new solution will have three specific measures to simplify the fund retrieval process. The exchange believes that adopting these measures will better protect the rights and interests of its customers.</p>
-<p>Some of the other measures that have been taken by AEX include transferring part of the project&rsquo;s rights to the client at a lower discount through a third-party law firm with the help of a third-party management company.</p>
-<p>Customers using the new solution will be required to fill in their real names and sign the equity purchase contract provided by the exchange. They shall also be required to fill in a &ldquo;Qualified Investor Questionnaire&rdquo; and then send a certain amount of Acala Dollar (AUSD) to a black hole address for destruction based on newly designed rules.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/">Embattled AEX exchange provides new fund retrieval solution for customers</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/embattled-aex-exchange-provides-new-fund-retrieval-solution-for-customers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Astar Network’s XVM feature launches on public testnet</title>
-		<link>https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/</link>
-					<comments>https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/#respond</comments>
-		
-		<dc:creator><![CDATA[Hassan Maishera]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 15:00:20 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/</guid>
-
-					<description><![CDATA[<p>Astar Network&#8217;s Cross-Virtual Machine (XVM) feature is now live on the public testnet Shibuya. This feature enables multichain use cases within the ecosystem. XVM allows a smart contract in one virtual machine to communicate with another. XVM is now available on public testnet Astar Network, the smart contract platform for multichain, announced on Monday, January [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/">Astar Network’s XVM feature launches on public testnet</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">
-<p dir="ltr">Astar Network&rsquo;s Cross-Virtual Machine (XVM) feature is now live on the public testnet Shibuya.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">This feature enables multichain use cases within the ecosystem.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">XVM allows a smart contract in one virtual machine to communicate with another.</p>
-</li>
-</ul>
-<h2 dir="ltr"><strong>XVM is now available on public testnet</strong></h2>
-<p dir="ltr">Astar Network, the smart contract platform for multichain, announced on Monday, January 9th, that it has launched its Cross-Virtual Machine (XVM) functionality on the public testnet Shibuya.&nbsp;</p>
-<p dir="ltr">In a press release shared with Coinjournal, Astar Network said XVM gives projects building on its network seamless interoperability between different smart contract environments such as the Ethereum Virtual Machine (EVM) and WebAssembly (WASM).&nbsp;</p>
-<p dir="ltr">XVM is a custom pallet and a set of interfaces that allow a smart contract in one virtual machine to communicate with another as if they are in the same environment. The XVM testnet can make bi-directional calls between EVM and WASM smart contracts.&nbsp;</p>
-<p dir="ltr">This&nbsp;<a href="https://coinjournal.net/news/" rel="noopener noreferrer" target="_blank"><u>latest cryptocurrency news</u></a> is the first major product launch as part of Astar Network&rsquo;s 2023 starmap.</p>
-<p dir="ltr">While commenting on the public testnet launch of XVM, Hoon Kim, Chief Technology Officer at Astar Network, said;&nbsp;</p>
-<p dir="ltr"><em>&ldquo;We&rsquo;ve been working hard to create the foundation of the future, regardless of outside influences that are happening now. And today, I am proud to introduce one of our most important features to achieve the Astar Vision; the Cross-Virtual Machine (XVM). It will be the start of the next wave of innovation for dApps. Astar will not only have interoperability through XCM (Cross-chain Messaging) with other parachains but also have interoperability between different smart contract environments. &rdquo;</em></p>
-<h2 dir="ltr"><strong>Developers can experiment with the XVM developer kit</strong></h2>
-<p dir="ltr">Astar Network explained that with the XVM, smart contracts would work seamlessly regardless of which language they are written with or which smart contract environment they use.&nbsp;</p>
-<p dir="ltr">Furthermore, the feature would allow developers to build their cross-chain projects and experiment with the XVM developer toolkit, something they were never able to do. Developers can also tap into the user bases and assets across multiple smart contract environments rather than being stuck with just one.</p>
-<p dir="ltr">The XVM functionality allows developers to create numerous complex applications that have various use cases beyond merely bridging liquidity from EVM to WASM. The launch comes just three weeks after&nbsp;<a href="https://coinjournal.net/news/astar-network-named-product-of-the-year-at-the-jba-annual-blockchain-award/" rel="noopener noreferrer" target="_blank"><u>Astar Network was awarded</u></a> the Product of the Year at the 4th annual Blockchain Award by the Japan Blockchain Association.</p>
-<p dir="ltr">Astar Network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability, with cross-consensus messaging (XCM) and cross-virtual machine (XVM).&nbsp;</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/">Astar Network’s XVM feature launches on public testnet</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/astar-networks-xvm-feature-launches-on-public-testnet/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>GALA token soars 68% as Hollywood stars team up with Gala Games</title>
-		<link>https://coinjournal.net/news/gala-token-soars-68-as-hollywood-stars-team-up-with-gala-games/</link>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 14:33:08 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
+		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 16:20:01 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTC]]></category>
 		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Price]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/gala-token-soars-68-as-hollywood-stars-team-up-with-gala-games/</guid>
+		<guid isPermaLink="false">https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/</guid>
 
-					<description><![CDATA[<p>GALA token rose more than 68% to hit highs of $0.04022884. Gains for GALA, the utility token of Gala Games ecosystem, came after the platform announced partnerships with Hollywood stars Dwayne Johnson aka The Rock and Mark Wahlberg. GALA will be the gas token users will need to collect digital tokens. Gala (GALA), the blockchain [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/gala-token-soars-68-as-hollywood-stars-team-up-with-gala-games/">GALA token soars 68% as Hollywood stars team up with Gala Games</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>Bloomberg report projects bullish Bitcoin in 2023 Analysts bank on recession dynamics and central banks&#8217; actions as bull triggers BTC trades on a short-term recovery, with $19,000 in sight Investors may hold their breath, hoping that 2023 will turn out to be a good year for crypto and stocks alike. But even with these hoped-for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/">Bitcoin could tank further but you might be excited by this Bloomberg prediction</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<ul>
-<li dir="ltr"><em><strong>GALA token rose more than 68% to hit highs of $0.04022884.</strong></em></li>
-<li dir="ltr"><em><strong>Gains for GALA, the utility token of Gala Games ecosystem, came after the platform announced partnerships with Hollywood stars Dwayne Johnson aka The Rock and Mark Wahlberg.</strong></em></li>
-<li dir="ltr"><strong><em>GALA will be the gas token users will need to collect digital tokens.</em></strong></li>
+<li dir="ltr">
+<p dir="ltr">Bloomberg report projects bullish Bitcoin in 2023</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Analysts bank on recession dynamics and central banks&rsquo; actions as bull triggers</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">BTC trades on a short-term recovery, with $19,000 in sight</p>
+</li>
 </ul>
-<p dir="ltr">Gala (GALA), the blockchain gaming ecosystem, is seeing massive buying momentum amid broader interest in <a href="https://coinjournal.net/cryptocurrencies/">cryptocurrencies</a> on Monday.</p>
-<p dir="ltr">The GALA token, which is the utility token on the platform, has surged a staggering 68% in the past 24 hours. As of writing, GALA was trading around $0.04022884. GALA has seen $1,241,426,652 traded in the past 24 hours too, the massive gains pushing the cryptocurrency up market ranking &ndash; GALA currently has a market cap of $288 million.</p>
-<p dir="ltr">As well as major gains against the US dollar, the GALA price is up 58.4% against Bitcoin (BTC) to 0.00000222 BTC and 54.3% against Ether (ETH) to 0.00002904 (as at 9:00 am ET on 9 January).</p>
-<h2 dir="ltr">Gala gains amid major Hollywood announcement</h2>
-<p dir="ltr">Most cryptocurrencies, certainly all of those in top 10 by market cap are trading in the green at the time of writing. But two of the highest gainers are outside the top 50 &ndash; two great projects in Gala and <a href="https://coinjournal.net/zilliqa/">Ziliqa</a>.</p>
-<p dir="ltr">While Ziliqa has gained over 50% amid new blockchain developments, GALA is seeing significant buying pressure after Gala Games <a href="https://twitter.com/GoGalaGames/status/1612299581731086337" rel="noopener noreferrer" target="_blank">announced</a> its set to work with Hollywood stars Dwayne Johnson aka &lsquo;The Rock&rsquo; and Mark Wahlberg.</p>
-<p dir="ltr">
-</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">Just a little bit of information regarding our ongoing work with <a href="https://twitter.com/TheRock?ref_src=twsrc%5Etfw">@TheRock</a> and <a href="https://twitter.com/markwahlberg?ref_src=twsrc%5Etfw">@markwahlberg</a>.<a href="https://twitter.com/search?q=%24GALA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GALA</a> is the gas token in <a href="https://twitter.com/GoGalaFilms?ref_src=twsrc%5Etfw">@GoGalaFilms</a> and <a href="https://twitter.com/GoGalaMusic?ref_src=twsrc%5Etfw">@GoGalaMusic</a> as well! <a href="https://t.co/u9fdXoNte1">pic.twitter.com/u9fdXoNte1</a></p>
-<p>&mdash; Gala Games (@GoGalaGames) <a href="https://twitter.com/GoGalaGames/status/1612299581731086337?ref_src=twsrc%5Etfw">January 9, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p dir="ltr">Apart from revealing film projects with the Hollywood A-listers, Gala Games is also moving into mobile gaming.&nbsp;</p>
-<p dir="ltr">Notably, GALA is the gas token for both Gala Music and Gala Film. It means millions of fans looking to collect digital items will need gas &ndash; which in this case will be GALA.</p>
+<p dir="ltr">Investors may hold their breath, hoping that 2023 will turn out to be a good year for crypto and stocks alike. But even with these hoped-for expectations, market analysts have warned that 2023 could be the year of a global recession. With the economic depression, notable recoveries may be hard to come by. But Blomberg analysts think a recession would be a bullish trigger for <a href="https://coinjournal.net/bitcoin/#:~:text=The%20price%20of%20BTC%20today,trading%20volume%20of%20%2413.67B." rel="noopener noreferrer" target="_blank"><u>Bitcoin price</u></a> (BTC/USD). How?</p>
+<p dir="ltr">In its cryptocurrency outlook, analysts say Bitcoin will come out ahead in a potential economic shutdown in 2023. Even so, the prediction is not outright. According to the report, Bitcoin could slide to $12,000 or even $10,000. From there, it will stage a strong comeback.</p>
+<p dir="ltr">Additionally, the Bloomberg report highlights policy easing in 2023 as a key bullish trigger for Bitcoin and cryptocurrencies. The analysts say central banks could be forced to ease policy on the back of deflationary outcomes. If this happens, the use case of Bitcoin as a digital version of gold will strengthen. The analysts point out that Bitcoin will start performing like the US long-dated treasury bonds and metal. The scenario will be bullish for the digital asset.</p>
+<h2 dir="ltr"><strong>Bitcoin price movement as moving averages join the support</strong></h2>
+<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/10/1673367549133-a2c2b36d-aad8-408b-9311-04e04052f034.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="276"></p>
+<p dir="ltr"><a href="https://www.tradingview.com/symbols/BTCUSD/" rel="noopener noreferrer" target="_blank"><u>BTC/USD Chart by TradingView</u></a></p>
+<p dir="ltr">Technically, BTC is mildly bullish and trades along a short-term ascending trendline. The price has, for the first time since November, moved above the 50-day moving average. A potential 20-day MA crossover of the 50-day MA could heighten the recoveries. The RSI reading has safely surpassed the midpoint reading of 50, indicating that buyers are in control.</p>
+<h2 dir="ltr"><strong>What is the likely target for BTC?</strong></h2>
+<p dir="ltr">With the upside,&nbsp;<a href="https://coinjournal.net/bitcoin/" rel="noopener noreferrer" target="_blank"><u>Bitcoin</u></a> now trades below an overhead and crucial resistance at $19,000. Should the current upside continue, the level is the target zone for buyers. Accelerated recoveries will depend on the prevailing crypto sentiment.</p>
+<h2 dir="ltr"><strong>Where to buy BTC</strong></h2>
+<p dir="ltr"></p><h3>
+    eToro</h3>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/gala-token-soars-68-as-hollywood-stars-team-up-with-gala-games/">GALA token soars 68% as Hollywood stars team up with Gala Games</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+    <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
+
+<p>
+    <a href="/visit/etoro-crypto?guid=OTkzMzI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy BTC with eToro today            </a>
+            <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
+            <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
+            <span class="ml-1">
+                <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="w-3 h-3">
+                    <path fill="currentColor" d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"></path>
+                </svg>
+            </span>
+        </button>
+    </p><h3>
+    Binance</h3>
+
+    <p>Binance is one of the largest cryptocurrency exchanges in the world. It is better suited to more experienced investors and it offers a large number of cryptocurrencies to choose from, at over 600.
+
+Binance is also known for having low trading fees and a multiple of trading options that its users can benefit from, such as; peer-to-peer trading, margin trading and spot trading.
+</p>
+
+<p>
+    <a href="/visit/binance-crypto?guid=OTkzMzI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy BTC with Binance today            </a>
+    </p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/">Bitcoin could tank further but you might be excited by this Bloomberg prediction</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>https://coinjournal.net/news/bitcoin-could-tank-further-but-you-might-be-excited-by-this-bloomberg-prediction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NFT sales rose 26% in the first week of 2023</title>
+		<link>https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/</link>
+					<comments>https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 16:10:04 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/</guid>
+
+					<description><![CDATA[<p>NFT sales jumped 26% as trading volume rose across major blockchains. Ethereum accounted for the most NFT sales, while Bored Ape Yacht Club dominated among collections. The broader crypto industry has started 2023 slightly higher, with notable rallies for coins such as Cardano, Solana and Ziliqa. The NFT market size is expected to grow over [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/">NFT sales rose 26% in the first week of 2023</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr"><em><strong>NFT sales jumped 26% as trading volume rose across major blockchains.</strong></em></li>
+<li dir="ltr"><em><strong>Ethereum accounted for the most NFT sales, while Bored Ape Yacht Club dominated among collections.</strong></em></li>
+<li dir="ltr"><strong><em>The broader crypto industry has started 2023 slightly higher, with notable rallies for coins such as Cardano, Solana and Ziliqa.</em></strong></li>
+</ul>
+<p dir="ltr">The NFT market size is expected to grow over the next several years, and 2023 has begun with a significant jump in sales on <a href="https://coinjournal.net/compare/best-nft-marketplaces/">top NFT marketplaces</a>. It is one of the interesting <a href="https://coinjournal.net/research/nft-statistics/">NFT statistics</a> for the year.</p>
+<p dir="ltr">According to data from <a href="https://www.cryptoslam.io/" rel="noopener noreferrer" target="_blank">Cryptoslam.io</a>, NFT sales increased by 26% in the first week of the year. The platform showed the metric rose by the margin as 1.2 million NFT transactions registered across 400,740 NFT buyers.</p>
+<p dir="ltr">As for the NFT collection with the highest transaction volume, the honour fell to the Bored Ape Yacht Club (BAYC). The collection registered $19,052,102 in sales, with trading volume rising by 53% in the week.</p>
+<h2 dir="ltr">BNB Chain records 71% spike in NFT sales</h2>
+<p dir="ltr">Per the data, the most sales occurred on the Ethereum blockchain &ndash; where NFT sales accounted for $164 million of $209 million. Overall, the sales rose across all major blockchain networks. BNB Chain saw the largest jump in sales, with a 71% spike just higher than the 70% growth on Theta grew.</p>
+<p dir="ltr">Solana remains a top NFT ecosystem despite recent upheaval following the collapse of FTX and saw its NFT sales increase by 28.8% last week.</p>
+<h2 dir="ltr">Crypto prices up early in 2023</h2>
+<p dir="ltr"><a href="https://coinjournal.net/cryptocurrencies/">Cryptocurrencies</a> entered 2023 on the back of major losses in the previous year, with Bitcoin and the rest of the crypto market having recorded massive dips from their all-time highs.</p>
+<p dir="ltr">However, the first week of the year has seen crypto mirror broader market movements with gains pushing BTC above $17,000 and Ethereum to $1,340. While Bitcoin is up more than 4% in the past week, Ethereum has notched double figures with over 10%.</p>
+<p dir="ltr">Among the most impressive performers include Cardano that&rsquo;s up 28% and Solana that has rallied by more than 45% this past week. SOL&rsquo;s surge came after the BONK &nbsp;meme coin airdrop to the Solana NFT community. Ziliqa has soared over 50% amid major network upgrades and integrations &ndash; including with esports loyalty programs.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/">NFT sales rose 26% in the first week of 2023</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/nft-sales-rose-26-in-the-first-week-of-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Binance coin back to safety as buyers now aim for $295</title>
+		<link>https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/</link>
+					<comments>https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/#respond</comments>
+		
+		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 15:50:40 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Altcoin]]></category>
+		<category><![CDATA[Binance Coin News]]></category>
+		<category><![CDATA[BNB]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/</guid>
+
+					<description><![CDATA[<p>Binance coin has recaptured crucial support at $266 after the latest crash The cryptocurrency was previously weighed by adverse publicity A recovery above $266 sets BNB to the next resistance at $295 Binance (BNB/USD) traded at $274 on Tuesday, slowing from a monthly high of $282 the previous day. BNB buyers would be delighted about [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/">Binance coin back to safety as buyers now aim for $295</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">
+<p dir="ltr">Binance coin has recaptured crucial support at $266 after the latest crash</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">The cryptocurrency was previously weighed by adverse publicity</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A recovery above $266 sets BNB to the next resistance at $295</p>
+</li>
+</ul>
+<p dir="ltr">Binance (BNB/USD) traded at $274 on Tuesday, slowing from a monthly high of $282 the previous day. BNB buyers would be delighted about how far the cryptocurrency has come since Binance began to be adversely mentioned.</p>
+<p dir="ltr">Touching a low of $220 in mid-Dec, there were fears of further downside for BNB after the collapse of FTX. That&rsquo;s particularly because, at the price level, BNB had lost crucial support at $266, which kept it stable. However, relentless buying has seen BNB recover to the level which now supports the price.</p>
+<p dir="ltr">BNB price is at least now back to safety above $266. However, Binance&rsquo;s woes seem to be far from over. The latest&nbsp;<a href="https://coinjournal.net/news/" rel="noopener noreferrer" target="_blank"><u>cryptocurrency news</u></a> suggests that US federal prosecutors have started to investigate the crypto exchange. According to reports, several American firms have been issued subpoenas for their communications with Binance. The exchange is reportedly being probed for violations of the US Bank Secrecy Act. The regulations mandate financial entities to verify their clients in a bid to curb money laundering. BNB price is yet to react to the potential litigation.</p>
+<h2 dir="ltr"><strong>BNB recovers above $266 support as price turns mildly bullish</strong></h2>
+<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/10/1673365796836-1091b14b-0411-4564-8c6a-3b44220ec2aa.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="272"></p>
+<p dir="ltr"><a href="https://www.tradingview.com/symbols/BNBUSD/" rel="noopener noreferrer" target="_blank"><u>BNB/USD Chart by TradingView</u></a></p>
+<p dir="ltr">A technical outlook gives BNB $295 as the likely price target. This is the next resistance zone, and BNB has in the past hit the target each time price has recovered above $266. The MACD indicator is shifting above the neutral zone, underlining a bullish momentum. Similarly, BNB trades above the moving averages. The 50-day MA could hold as the dynamic support, coinciding with the $266 level.</p>
+<h2 dir="ltr"><strong>Is investing in BNB now a good idea?</strong></h2>
+<p dir="ltr">A retest of the $266 support would open buy trades on the cryptocurrency. Investors should watch for bullish price action signals at the support to&nbsp;<a href="https://coinjournal.net/binance-coin/buy/" rel="noopener noreferrer" target="_blank"><u>buy BNB</u></a> and ride to the $295 resistance.</p>
+<h2 dir="ltr"><strong>Where to buy BNB</strong></h2>
+<p dir="ltr"></p><h3>
+    eToro</h3>
+
+    <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
+
+<p>
+    <a href="/visit/etoro-crypto?guid=OTkzMjU&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy BNB with eToro today            </a>
+            <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
+            <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
+            <span class="ml-1">
+                <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="w-3 h-3">
+                    <path fill="currentColor" d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"></path>
+                </svg>
+            </span>
+        </button>
+    </p><h3>
+    Binance</h3>
+
+    <p>Binance is one of the largest cryptocurrency exchanges in the world. It is better suited to more experienced investors and it offers a large number of cryptocurrencies to choose from, at over 600.
+
+Binance is also known for having low trading fees and a multiple of trading options that its users can benefit from, such as; peer-to-peer trading, margin trading and spot trading.
+</p>
+
+<p>
+    <a href="/visit/binance-crypto?guid=OTkzMjU&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy BNB with Binance today            </a>
+    </p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/">Binance coin back to safety as buyers now aim for $295</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/binance-coin-back-to-safety-as-buyers-now-aim-for-295/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>XRP witnessing increased institutional inflows. Here is the most important level now</title>
+		<link>https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/</link>
+					<comments>https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/#respond</comments>
+		
+		<dc:creator><![CDATA[Motiur Rahman]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 15:23:50 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Altcoin]]></category>
+		<category><![CDATA[altcoins]]></category>
+		<category><![CDATA[XRP]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/</guid>
+
+					<description><![CDATA[<p>XRP accumulation intensified in the first week of the year Investors bank on Ripple&#8217;s win against the SEC XRP has gained stability above $0.31, and the price could surge from here If you have been following&#160;Ripple (XRP/USD), you already know its case with the SEC continues to be important. Investors have priced XRP depending on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/">XRP witnessing increased institutional inflows. Here is the most important level now</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">
+<p dir="ltr">XRP accumulation intensified in the first week of the year</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Investors bank on Ripple&rsquo;s win against the SEC</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">XRP has gained stability above $0.31, and the price could surge from here</p>
+</li>
+</ul>
+<p dir="ltr">If you have been following&nbsp;<a href="https://coinjournal.net/ripple/what-is-ripple/" rel="noopener noreferrer" target="_blank"><u>Ripple</u></a> (XRP/USD), you already know its case with the SEC continues to be important. Investors have priced XRP depending on the direction of the case. However, the latest CoinShares report shows that institutional investors are banking heavily on a Ripple win.</p>
+<p dir="ltr">According to CoinShares, the first week of 2023 saw $3 million in inflows into XRP. On the other hand, investors exited $6.5 million and $3 million from Bitcoin and Ethereum, respectively. This could be positive news as it shows how much trust the market has developed in XRP. According to CoinShares, the inflows reflected improved clarity on Ripple&rsquo;s case with the SEC. But despite this positive development, XRP-associated investment products recorded $9.7 million worth of outflows.</p>
+<p dir="ltr">From a fundamental perspective, we could argue that it is still a double-edged sword for XRP as the case drags on. There are positives to pick from the latest institutional inflow, with the settlement expected in the current first quarter. The technical outlook also supports a potential XRP accumulation of around $0.31.</p>
+<h2 dir="ltr"><strong>XRP gains stability above support at $0.31</strong></h2>
+<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/00/10/1673364130356-b8df0d67-e49b-4750-9a47-18cb0da6d02d.png" style="width: 600px" class="fr-fic fr-dib" width="600" height="269"></p>
+<p dir="ltr"><a href="https://www.tradingview.com/symbols/XRPUSD/" rel="noopener noreferrer" target="_blank"><u>XRP/USD Chart by TradingView</u></a></p>
+<p dir="ltr">A price outlook shows XRP is pushing higher after settling and consolidating above $0.31. The momentum has improved but remains weak. The MACD indicator is yet to cross above the neutral zone.</p>
+<p dir="ltr">However, the volume indicators would be a little bit exciting. A spike in buy-side volumes suggests that buying is ongoing for XRP above $0.31. The previous bullish pin bar acts as the buffer against the bear pressure for XRP.</p>
+<h2 dir="ltr"><strong>Will XRP become bullish?</strong></h2>
+<p dir="ltr">XRP has a chance to become bullish if the price holds steady at the current level. The upside is likely to continue in the short and medium term to the $0.4 resistance. The ongoing case with the SEC will determine if&nbsp;<a href="https://coinjournal.net/ripple/#:~:text=The%20price%20of%20XRP%20today,in%20the%20last%2024%20hours." rel="noopener noreferrer" target="_blank"><u>XRP price</u></a> sustains the recoveries.</p>
+<h2 dir="ltr"><strong>Where to buy XRP</strong></h2>
+<p dir="ltr"></p><h3>
+    eToro</h3>
+
+    <p>eToro offers a wide range of cryptos, such as Bitcoin, XRP and others, alongside crypto/fiat and crypto/crypto pairs. eToro users can connect with, learn from, and copy or get copied by other users.</p>
+
+<p>
+    <a href="/visit/etoro-crypto?guid=OTkzMjI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=1&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy XRP with eToro today            </a>
+            <button class="flex items-center mt-2 text-sm text-gray-600 focus:o-outline-none" data-tooltip="Cryptoasset investing is unregulated in some EU countries. No consumer protection. Your capital is at risk." aria-expanded="false">
+            <span class="border-b border-gray-600 border-dotted">Disclaimer</span>
+            <span class="ml-1">
+                <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="w-3 h-3">
+                    <path fill="currentColor" d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-36 344h12V232h-12c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h48c6.627 0 12 5.373 12 12v140h12c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12h-72c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12zm36-240c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"></path>
+                </svg>
+            </span>
+        </button>
+    </p><h3>
+    Binance</h3>
+
+    <p>Binance is one of the largest cryptocurrency exchanges in the world. It is better suited to more experienced investors and it offers a large number of cryptocurrencies to choose from, at over 600.
+
+Binance is also known for having low trading fees and a multiple of trading options that its users can benefit from, such as; peer-to-peer trading, margin trading and spot trading.
+</p>
+
+<p>
+    <a href="/visit/binance-crypto?guid=OTkzMjI&amp;component=simple-table&amp;language=en&amp;country=US&amp;state=CA&amp;position=2&amp;totalPositions=2" rel="noopener nofollow sponsored">
+                    Buy XRP with Binance today            </a>
+    </p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/">XRP witnessing increased institutional inflows. Here is the most important level now</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/xrp-witnessing-increased-institutional-inflows-here-is-the-most-important-level-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best ICOs to Invest in February 2023 According to Reddit</title>
+		<link>https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/</link>
+					<comments>https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/#respond</comments>
+		
+		<dc:creator><![CDATA[Alice Davies]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 13:53:21 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/</guid>
+
+					<description><![CDATA[<p>An initial coin offering (ICO) is a way for projects to generate funds to help get themselves up and running. These are regularly used in the crypto world, allowing companies to help generate publicity, which in turn attracts further investment and new users to their platforms. ICOs are usually released with a white paper outlining [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/">Best ICOs to Invest in February 2023 According to Reddit</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">An initial coin offering (ICO) is a way for projects to generate funds to help get themselves up and running. These are regularly used in the crypto world, allowing companies to help generate publicity, which in turn attracts further investment and new users to their platforms. ICOs are usually released with a white paper outlining the platform&rsquo;s future, and early investors can often look forward to realizing profits on their initial investment as the project progresses.</p>
+<p dir="ltr">These are the best ICOs to add to your crypto portfolio in February 2023:</p>
+<ol>
+<li dir="ltr">Metacade (MCADE)</li>
+<li dir="ltr">VisaMetaFi (VISA)</li>
+<li dir="ltr">Heroes of Mavia (MAVIA</li>
+<li dir="ltr">Wombat Exchange (WOM)</li>
+<li dir="ltr">CryptoCitizen (CCASH)</li>
+<li dir="ltr">ByePix (EPIX)</li>
+<li dir="ltr">WeSendIt (WSI)</li>
+<li dir="ltr">Kryptview (KVT)</li>
+</ol>
+<h2 dir="ltr"><strong>1.&nbsp;</strong><strong>Metacade &ndash; A Revolutionary Gaming Platform for the Metaverse</strong></h2>
+<p dir="ltr"><a href="https://metacade.co/en?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=launch" rel="noopener noreferrer" target="_blank"><u>Metacade</u></a> is a new blockchain-based platform that has already gained huge popularity during its presale stage. This community gaming hub is aiming to become a virtual gaming hub that recreates the excitement and community of real-world video arcades, all from the comfort of gamers&rsquo; homes. The platform will offer a vast array of play-to-earn (P2E) games to attract both casual and hardcore gamers alike, with a compelling play-to-earn mechanic at its core.</p>
+<p dir="ltr">P2E looks to be just one of many earning opportunities Metacade&rsquo;s community will have to create income for themselves. Players can also earn through sharing gaming alpha, writing reviews and staking the MCADE token. Other ground-breaking features include the Metacade Create2Earn scheme, which features the Metagrants initiative where developers can access crypto-funding to support the creation of new games. In addition, a jobs board aims to match the best Web3 creative talent with exciting career opportunities within the industry.</p>
+<h3 dir="ltr"><strong>Why buy MCADE?</strong></h3>
+<p dir="ltr">Metacade&rsquo;s native token, MCADE, recently launched in presale and sold out its beta phase in just over three weeks, with $1 million raised. With nine presale rounds that will see the value of MCADE rise from its beta price of $0.008 to $0.02 by the conclusion of the presale, expectations are that the price of MCADE could surge once it hits decentralized exchanges.</p>
+<p dir="ltr">This scope for profit during the current bear market and the long-term growth potential of Metacade&rsquo;s ground-breaking GameFi platform makes Metacade one of the best ICOs for investors looking to expand their crypto portfolio.</p>
+<p dir="ltr"><strong>&gt;&gt;&gt; You can participate in the Metacade presale&nbsp;</strong><a href="https://metacade.co/en?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=launch" rel="noopener noreferrer" target="_blank"><strong><u>here</u></strong></a><strong>&nbsp;&lt;&lt;&lt;</strong></p>
+<h2 dir="ltr"><strong>2.&nbsp;</strong><strong>VisaMetaFi (VISA) &ndash; Outstanding new simple to use crypto payment system</strong></h2>
+<p dir="ltr">VisaMetaFi&rsquo;s platform features a new decentralized crypto payment system that can be used across different online merchants and blockchain platforms. It incorporates Web3, DeFi, DAO, metaverse, and MetaFi payment capabilities, making it one of the best ICOs to invest in.</p>
+<p dir="ltr">The platform allows users to transfer stablecoins anywhere in the world without transaction fees, as well as eradicate the need for users to swap digital coins or convert crypto to fiat to make transfers. Big names making use of VisaMetaFi include the holiday booking website Booking.com.</p>
+<h3 dir="ltr"><strong>Why buy VISA?</strong></h3>
+<p dir="ltr">VisaMetaFi has successfully undergone the opening phases of the project, reaching tens of thousands of global users, including the release of a native VISA coin.</p>
+<p dir="ltr">With its simple and accessible framework for enabling online and crypto payments worldwide, VISA looks set to capture the attention of investors in the long term. Consequently, VISA is among the best ICOs to invest in February 2023.</p>
+<h2 dir="ltr"><strong>3. Heroes of Mavia (MAVIA) &ndash; Attractive P2E battle-builder game</strong></h2>
+<p dir="ltr">Heroes of Mavia is one of the best blockchain-based gaming ICOs currently available thanks to its exciting base-building and player2player battle features. Gamers create their own armies to capture enemy bases within the Heroes of Mavia ecosystem earning Ruby tokens as they progress.</p>
+<p dir="ltr">These tokens can be used to upgrade their bases, equip their armies, and fortify defences. The game has several attractive features, including an NFT marketplace, live battle streaming and a partnership manager for users to collaborate through military-style alliances while earning passive income.</p>
+<h3 dir="ltr"><strong>Why buy MAVIA?</strong></h3>
+<p dir="ltr">The native MAVIA token has already attracted a vast and loyal following on social media from investors wanting to get on board this new and exciting P2E gaming platform ahead of the NFT launch due in Q1 of 2023 and free2play launch in Q2.</p>
+<p dir="ltr">With backing from crypto big guns Binance Labs, crypto.com, and Genblock Capital, MAVIA is an excellent crypto portfolio investment in February 2023.</p>
+<h2 dir="ltr"><strong>4.&nbsp;</strong><strong>WombatExchange (WOM) &ndash; Exciting stableswap currency exchange</strong></h2>
+<p dir="ltr">Defined by its white paper as a &ldquo;multi-chain stableswap&rdquo; hosted on the Binance Chain, WombatExchange is a new crypto exchange that allows market players to swap stablecoins while generating a yield through coin staking and benefiting from minimal levels of slippage.</p>
+<p dir="ltr">The user-friendly interface makes WombatExchange an excellent entry point for traders new to crypto exchanges. In addition, the available liquidity pool means that users aren&rsquo;t required to hold multiple stable currencies.</p>
+<h3 dir="ltr"><strong>Why buy WOM?</strong></h3>
+<p dir="ltr">WombatExchange&rsquo;s native currency coin, WOM, is an enticing ICO that will give holders access to voting rights on the platform&rsquo;s governance proposals and stablecoin liquidity. The exchange has already captured the imagination and investment of several large companies, including Hailstone Ventures and Shima Capital.</p>
+<p dir="ltr">Meanwhile, Wombat Exchange&rsquo;s Twitter account is approaching 70,000 followers and growing fast, making it one of the best ICOs for investors looking for new possibilities in the world of crypto exchanges.</p>
+<h2 dir="ltr"><strong>5.&nbsp;</strong><strong>CryptoCitizen (CCASH) &ndash; Addictive MMORPG metaverse gaming platform</strong></h2>
+<p dir="ltr">CryptoCitizen is another metaverse gaming offering that offers free-to-play and P2E capabilities in a world with a supporting storyline. The platform has a vast potential audience as a massively multiplayer online role-playing game (MMORPG) with a diverse range of gaming opportunities, including shoot-&lsquo;em-up, racing, and classic 1v1 fighting elements.</p>
+<p dir="ltr">Users can earn the native CCASH token through success in challenges and improving their &lsquo;Citizen Ranking,&rsquo; which in turn also opens opportunities to access exclusive NFTs.</p>
+<h3 dir="ltr"><strong>Why buy CCASH?</strong></h3>
+<p dir="ltr">CryptoCitizen has already caused a storm within the gaming world, with more than 200,000 pre-registering for its Alpha Test phase. It was presented at Gamescom 2022 to huge acclaim and has already fully allocated three presale allocations of CCASH through Polkastarter, Firestarter, and Seedify.</p>
+<p dir="ltr">With a maximum supply of 1 billion CCASH tokens and only 1.2% being released when CCASH is listed on exchanges, the furore already whipped up and the scarcity of tokens on open exchanges makes CCASH one of the best ICOs for early investors to purchase.</p>
+<h2 dir="ltr"><strong>6.&nbsp;</strong><strong>ByePix (EPIX) &ndash; Social2Earn platform looking to challenge Facebook</strong></h2>
+<p dir="ltr">ByePix is a Web3-based platform that combines multiple exciting elements in one easy-to-use hub. Attractions include DeFi apps, NFTs, P2E titles, and a fully-functioning ecosystem that caters to players&rsquo; every need. For example, gamers can receive tokenized rewards for completing tasks in &lsquo;Gem Hunters&rsquo;, one of the platform&rsquo;s first P2E titles.</p>
+<p dir="ltr">Additional features of the platform include virtual plots of land which can be bought using the EPIX coin, cultivated and developed, before being sold for a neat profit. Other earning potential comes from completing social tasks through the platform&rsquo;s Social2Earn initiative and investing in EPIX to produce returns.</p>
+<h3 dir="ltr"><strong>Why buy EPIX?</strong></h3>
+<p dir="ltr">ByePix has generated a massive buzz with significant investment from prominent venture capital firms. Their ultimate goal is to challenge social media giants like Facebook and Instagram. While that might appear a tall order, there is an opportunity for ByePix to improve the social media landscape in the longer term by compensating users for their content.</p>
+<p dir="ltr">This innovative approach makes EPIX one of the best ICOs worth considering for investors looking for an exciting and potentially game-changing crypto opportunity.</p>
+<h2 dir="ltr"><strong>7.&nbsp;</strong><strong>WeSendIt (WSI) &ndash; Exciting new decentralized storage and file-sharing platform</strong></h2>
+<p dir="ltr">A new crypto service that provides decentralized cloud storage and file-sharing options, WeSendit has recently announced its new WeSendIt 3.0 release, allowing users to earn tokenized rewards every time they send data.</p>
+<p dir="ltr">This BEP-20 token can then be exchanged for advertising, scalable data storage, and subscription discounts, with further rewards available through customer referrals to the platform.</p>
+<h3 dir="ltr"><strong>Why buy WSI?</strong></h3>
+<p dir="ltr">Designed as a low-cost alternative to the centralized file-sharing and data storage options offered by tech giants such as Amazon, Google, and Microsoft, WeSendIt&rsquo;s move into the crypto world is backed by more than a decade&rsquo;s experience in the sector. Over this time, they&rsquo;ve gained more than three million customers across 150 countries making WSI among the best ICOs to purchase in February 2023.</p>
+<p dir="ltr">WSI tokens have already successfully undergone private sale in September 2022. With the demand for decentralized data storage facilities only going to increase over the coming years, WSI is an ICO worth investing in to receive potentially rich profits.</p>
+<h2 dir="ltr"><strong>8.</strong> <strong>Kryptview (KVT) &ndash; Interactive Research2Earn platform to help inform crypto investors</strong></h2>
+<p dir="ltr">Kryptview&rsquo;s new interactive &lsquo;Research-to-Earn&rsquo; platform is dedicated to producing and sharing research on cryptocurrencies, tokens, and platforms. Users are encouraged to interact with the community by earning rewards for evaluating, analyzing, and reviewing crypto projects.</p>
+<p dir="ltr">In addition, users can offer &lsquo;research bounties&rsquo; to assets as an enticement for other platform members to research said asset, provide information and thus potential value. The native KVT coin is used to distribute rewards and underpins the entire ecosystem.</p>
+<h3 dir="ltr"><strong>Why buy KVT?</strong></h3>
+<p dir="ltr">Aiming to become the first platform of its kind to break through into the crypto mainstream, several big crypto backers, including The Blox and Matters, have lent their backing to the project.</p>
+<p dir="ltr">With demand expected to be high when KVT hits the exchanges, getting in early will help investors exploit potential long-term gains. This makes it one of the best ICOs currently available, with potential rewards available in the future with its innovative and potentially market-leading offering.</p>
+<h2 dir="ltr"><strong>In Summary &ndash; Metacade is the Best ICO For Investing In 2023&nbsp;</strong></h2>
+<p dir="ltr">ICOs are an excellent way for investors to make early and significant profits, provided they can back the correct projects before they hit the open market. With many presales offering similar staged increases in value over their presales, understanding where value can be found is vital.</p>
+<p dir="ltr">Metacade&rsquo;s rich and multi-dimensional roadmap offers a host of exciting earning potential for users in addition to its incredible upcoming scope of P2E titles and the Metagrants scheme that will help it lead GameFi development. These factors combine to make it the best ICO investment opportunity in February 2023. With the quick sell-out of the beta phase, and more than $2 million already raised, MCADE looks set to skyrocket as the roadmap reaches fruition with the release of new features in 2023 and 2024.</p>
+<p dir="ltr"><strong>You can buy the best ICO tokens at eToro&nbsp;</strong><a href="https://coinjournal.net/visit/etoro-crypto?guid=OTkzMTQ" rel="noopener noreferrer" target="_blank"><strong><u>here</u></strong></a><strong>.</strong></p>
+<p><strong>You can participate in the Metacade presale&nbsp;</strong><a href="https://metacade.co/en?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=launch" rel="noopener noreferrer" target="_blank"><strong><u>here</u></strong></a><strong>.</strong></p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/">Best ICOs to Invest in February 2023 According to Reddit</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/best-icos-to-invest-in-february-2023-according-to-reddit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
