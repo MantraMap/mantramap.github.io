@@ -12,7 +12,7 @@
 	<atom:link href="https://coingape.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coingape.com/</link>
 	<description>CoinGape - 24*7 Crypto Updates</description>
-	<lastBuildDate>Thu, 12 Jan 2023 06:33:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jan 2023 06:36:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,71 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tokenization: What is it and how does it work?</title>
+		<link>https://coingape.com/blog/tokenization-what-is-it-and-how-does-it-work/</link>
+		
+		<dc:creator><![CDATA[Coingape Staff]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 06:36:16 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[Payment]]></category>
+		<category><![CDATA[tokenization]]></category>
+		<guid isPermaLink="false">https://coingape.com/?post_type=blog&#038;p=135018</guid>
+
+					<description><![CDATA[<p>What is Tokenization? Tokenization is the process of converting sensitive data into anonymous, nonsensitive &#8220;tokens&#8221; that can be accessed by a database or internal system without putting it at risk of exposure. Although the tokens have unrelated values, they still preserve some characteristics of the original data, most often in length or format, allowing for <a class="mh-excerpt-more" href="https://coingape.com/blog/tokenization-what-is-it-and-how-does-it-work/" title="Tokenization: What is it and how does it work?"></a></p>
+<p>The post <a rel="nofollow" href="https://coingape.com/blog/tokenization-what-is-it-and-how-does-it-work/">Tokenization: What is it and how does it work?</a> appeared first on <a rel="nofollow" href="https://coingape.com">CoinGape</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="1200" height="800" src="https://cdn.coingape.com/wp-content/uploads/2023/01/12114121/tokenization.jpg" class="attachment-full size-full wp-post-image" alt="Tokenization" decoding="async" style="float:right; margin:0 0 10px 10px;" loading="lazy" /><h2><b>What is Tokenization?</b></h2>
+<p><strong><a href="https://coingape.com/glossary/tokenization/" target="_blank" rel="noopener">Tokenization</a></strong> is the process of converting sensitive data into anonymous, nonsensitive &#8220;<strong><a href="https://coingape.com/glossary/token/" target="_blank" rel="noopener">tokens</a></strong>&#8221; that can be accessed by a database or internal system without putting it at risk of exposure. Although the tokens have unrelated values, they still preserve some characteristics of the original data, most often in length or format, allowing for uninterrupted business operations. After that, the original sensitive data is securely stored somewhere other than the company&#8217;s internal systems.</p>
+<p>Tokenized data is irreversible and unbreakable in contrast to encrypted data. This point is crucial because there is no mathematical connection between a token and its original number, meaning that tokens cannot be transformed back into their original forms without the help of additional, separately stored information. As a result, the original sensitive data will not be compromised in a tokenized environment breach.</p>
+<p><iframe title="What Is Tokenization?" width="678" height="381" src="https://www.youtube.com/embed/iVeenkfa-0s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h3><b>Where Did Tokenization Originate?</b></h3>
+<p>In order to assist a client in safeguarding customer credit card information, TrustCommerce invented digital tokenization in 2001. Customer&#8217;s credit card numbers were being stored by merchants on their own servers, making it possible for anyone with access to those servers to view or abuse those data.</p>
+<p>A system created by TrustCommerce uses tokens in place of primary account numbers (PANs). As a result, businesses could store and use tokens as references when taking payments. To process the payments, TrustCommerce used the original PANs after converting the tokens back to PANs. Since merchants no longer had any real PANs stored in their systems, this reduced the risk to TrustCommerce.</p>
+<p><strong>Also Read: <a href="https://coingape.com/education/what-are-generative-art-nfts-how-much-are-they-worth/" target="_blank" rel="noopener">What Are Generative Art NFTs? How Much Are They Worth?</a></strong></p>
+<h3><b>What are tokens?</b></h3>
+<p>As previously mentioned, a token is a piece of data that substitutes for a different, more valuable part of data. <strong><a href="https://coingape.com/glossary/crypto-tokens/" target="_blank" rel="noopener">Tokens</a></strong> are only helpful because they stand in for something valuable, such as a primary account number (PAN) for a credit card or a Social Security number (SSN).</p>
+<p>A poker chip makes a good comparison. Players use chips as stand-ins for cash instead of covering a table with it since cash can be lost or stolen easily. Even if the chips are stolen, they cannot be used as currency. They need to be traded for their representative value first.</p>
+<h2><b>What is the process of tokenization?</b></h2>
+<p>The issuer, acquirer, customer, merchant, card networks, and token requestor are just a few of the parties involved in the tokenization process. In the tokenization process, an algorithm substitutes alphanumeric codes or tokens for the real credit card information of the customer. It is not possible to access the original data using the generated code.</p>
+<p>From the time the credit card purchase is made until the payment is completed, the flow includes the following steps:</p>
+<ul>
+<li aria-level="1">The customer uses the credit card information to make a card purchase.</li>
+<li aria-level="1">The tokenization system receives private card information.</li>
+<li aria-level="1">Where the actual card information is substituted for the generated tokens.</li>
+<li aria-level="1">The correlation is securely kept in a different data vault in the cloud.</li>
+<li aria-level="1">The payments are processed while the generated tokens serve as a representation of the actual card in the system. These tokens are also employed for recurring transactions in the future.</li>
+</ul>
+<p><strong>Also Read: <a href="https://coingape.com/blog/top-5-igo-launchpads-for-initial-game-offering/" target="_blank" rel="noopener">Top 5 IGO Launchpads For Initial Game Offering</a></strong></p>
+<h3><b>What is the Purpose of Tokenization?</b></h3>
+<p>Tokenization is used to safeguard sensitive data and keep it useful for business purposes. Contrasted with encryption, which modifies and stores <strong><a href="https://coingape.com/blog/self-custody-can-help-consumers-maintain-control-of-their-data-in-a-secure-accessible-manner/" target="_blank" rel="noopener">sensitive data</a></strong> in a way that prevents its continued use for commercial purposes, is this. In comparison to encryption, tokenization is like a poker chip.</p>
+<p>Furthermore, the right key can be used to decrypt encrypted numbers. But tokens cannot be turned around because there is no right mathematical connection between the token and its original number.</p>
+<h2><b>Benefits of Tokenization</b></h2>
+<p>The security of the payment processing, its easy accessibility, and the resulting client satisfaction are the main advantages that the tokenization process offers. The benefits listed include safeguards against data breaches, useful for cutting red tape, gaining customer confidence, etc.</p>
+<ul>
+<li aria-level="1">The tokenized and secure customer data is sensitive. This is because hackers cannot use the tokens.</li>
+<li aria-level="1">This sensitive data does not need to be managed by the merchant. This lowers the price and lessens the chance of a data breach.</li>
+<li aria-level="1">Customers who frequently shop do not need to enter their card information. His tokenized card information can be used the following time without risk thanks to tokenization. The streamlined payment process will increase customer satisfaction and the resulting conversion rate.</li>
+<li aria-level="1">The enhanced customer satisfaction and improved customer experience will be boosted by effective security.</li>
+</ul>
+<h3><b>Tokenization vs Encryption</b></h3>
+<p>The encrypted data is coded in the same way that tokenized data is. The distinction is that encryption employs the equation.</p>
+<p>In contrast, when data is tokenized, it is completely transformed into meaningless, random tokens. Only those meaningless strings of characters would be given to the hackers, ensuring total security.</p>
+<p><strong>Also Read: <a href="https://coingape.com/blog/what-is-nft-floor-price/" target="_blank" rel="noopener">What Is NFT Floor Price?</a></strong></p>
+<h2><b>Tokenization and PCI DSS</b></h2>
+<p>After a transaction, credit card numbers cannot be kept on a retailer&#8217;s POS terminal or in its databases due to <strong><a href="https://coingape.com/best-crypto-debit-and-credit-cards/" target="_blank" rel="noopener">Payment Card Industry</a></strong> (PCI) regulations. Merchants must either invest in pricey end-to-end encryption systems or outsource their payment processing to a company that offers tokenization in order to be PCI compliant. The token&#8217;s value is issued by the service provider, who is also in charge of maintaining the security of the cardholder data.</p>
+<p>A driver for the POS system that transforms credit card numbers into randomly generated values is provided to the retailer in this case by the service provider (tokens). The token cannot be used outside of a specific transaction with a particular merchant because it is not a primary account number (PAN). Alphanumeric characters that represent cardholder data and transaction-specific information make up the remaining characters on the token.</p>
+<h3><b>Conclusion</b></h3>
+<p>The purpose of this article is to define tokenization and explain how it operates. It describes its main advantages and how it aids in PCI DSS compliance. The secure processing of sensitive card information while processing payments, provides customer benefits. As a result, it reduces the possibility of fraud and data breaches. Tokenization, however, is a helpful strategy to enable high security and customer convenience in a variety of industries, including banking, eCommerce, etc.</p>
+<p><strong>Also Read: <a href="https://coingape.com/education/initial-game-offering-a-beginners-guide-on-launching-an-igo/" target="_blank" rel="noopener">Initial Game Offering: A beginner’s Guide On Launching An IGO</a></strong></p>
+<p>The post <a rel="nofollow" href="https://coingape.com/blog/tokenization-what-is-it-and-how-does-it-work/">Tokenization: What is it and how does it work?</a> appeared first on <a rel="nofollow" href="https://coingape.com">CoinGape</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image"  xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.coingape.com/wp-content/uploads/2023/01/12114121/tokenization.jpg" width="460" height="230" />	</item>
+		<item>
 		<title>Just-In: Samsung Launches Bitcoin Futures ETF Amid Crypto Market Recovery</title>
 		<link>https://coingape.com/just-in-samsung-launches-bitcoin-futures-etf-amid-crypto-market-recovery/</link>
 		
@@ -723,42 +788,5 @@
 		
 		
 		<media:content medium="image"  xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.coingape.com/wp-content/uploads/2023/01/11171659/20230111_171344_00001.jpg" width="460" height="230" />	</item>
-		<item>
-		<title>Whale Transfers Ethereum (ETH) To Binance From Liquidity Pools, Dump Coming?</title>
-		<link>https://coingape.com/whale-transfers-ethereum-eth-to-binance-from-liquidity-pools-dump-coming/</link>
-		
-		<dc:creator><![CDATA[Varinder Singh]]></dc:creator>
-		<pubDate>Wed, 11 Jan 2023 12:21:03 +0000</pubDate>
-				<category><![CDATA[Altcoin News]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[ETH Whale]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Ethereum price]]></category>
-		<category><![CDATA[liquidity pools]]></category>
-		<guid isPermaLink="false">https://coingape.com/?p=134943</guid>
-
-					<description><![CDATA[<p>While traders anticipate a massive rally in the Ethereum price, a whale has withdrawn 15,500 Ethereum (ETH) worth $20 million from multiple liquidity pools. The ETH worth almost $20 million withdrawn from pools was later transferred to the crypto exchange Binance. Is the whale preparing to dump all Ethereum tokens as the ETH price reaches <a class="mh-excerpt-more" href="https://coingape.com/whale-transfers-ethereum-eth-to-binance-from-liquidity-pools-dump-coming/" title="Whale Transfers Ethereum (ETH) To Binance From Liquidity Pools, Dump Coming?"></a></p>
-<p>The post <a rel="nofollow" href="https://coingape.com/whale-transfers-ethereum-eth-to-binance-from-liquidity-pools-dump-coming/">Whale Transfers Ethereum (ETH) To Binance From Liquidity Pools, Dump Coming?</a> appeared first on <a rel="nofollow" href="https://coingape.com">CoinGape</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="1200" height="750" src="https://cdn.coingape.com/wp-content/uploads/2022/02/26133837/Ethereum-cover.jpg" class="attachment-full size-full wp-post-image" alt="Top Crypto Token Records Trillions In Whale Accumulation" decoding="async" style="float:right; margin:0 0 10px 10px;" loading="lazy" /><p>While traders anticipate a massive rally in the Ethereum price, a <a href="https://coingape.com/glossary/whale-accumulation/" target="_blank" rel="noopener">whale</a> has withdrawn 15,500 Ethereum (ETH) worth $20 million from multiple liquidity pools. The ETH worth almost $20 million withdrawn from pools was later transferred to the <a href="https://coingape.com/glossary/crypto-exchange-2" target="_blank" rel="noopener">crypto exchange</a> Binance. Is the whale preparing to dump all Ethereum tokens as the ETH price reaches $1,350?</p>
-<h2>Whale Withdraws Over 15K Ethereum from Liquidity Pools</h2>
-<p>On-chain analytics platform Lookonchain in a <a rel='nofollow'  href="https://twitter.com/lookonchain/status/1613079233668222976" target="_blank" rel="noopener">tweet</a> on January 11 reported multiple withdrawals of Ethereum from liquidity pools. The whale has withdrawn 15,500 ETH worth nearly $20 million from <span class="r-18u37iz">Convex</span><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">, </span><span class="r-18u37iz">Lido</span><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">, </span><span class="r-18u37iz">Curve,</span><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"> and </span><span class="r-18u37iz">Balancer liquidity pools.</span></p>
-<figure id="attachment_134961" aria-describedby="caption-attachment-134961" style="width: 716px" class="wp-caption aligncenter"><img decoding="async" class=" wp-image-134961" src="https://cdn.coingape.com/wp-content/uploads/2023/01/11170412/FmLO7fSaAAEG2Xb.jpg" alt="Ethereum Withdrawal by Whale" width="716" height="534" /><figcaption id="caption-attachment-134961" class="wp-caption-text">Ethereum Withdrawal by Whale. Source: Debank</figcaption></figure>
-<p>Thereafter, the whale transferred 15,500 ETH to crypto exchange Binance. The <a rel='nofollow'  href="https://etherscan.io/tx/0x29110eaaab1cd5ea263aa1b08dff0deac86dcf01923a1e1bd85e919756c2c38c" target="_blank" rel="noopener">Etherscan data</a> also confirms a transaction of 15,499<b>.</b>99 ETH to Binance at 7 AM UTC.</p>
-<p>Further on-chain analysis revealed that the whale held 30,000 ETH in September last year. Now, the whale has Ethereum worth only $19.58. Thus, the whale sold all its holdings during the crypto winter.</p>
-<p>In the last 10 days, the whale has transferred over 20,000 ETH to <a href="https://coingape.com/glossary/Binance" target="_blank" rel="noopener">Binance</a>. Crypto Twitter believes a dump in the Ethereum price is likely expected. A lack of whale activity has been noticed despite a slight crypto market rally.</p>
-<h2>ETH Price Dump Coming?</h2>
-<p>In the last 24 hours, the Ethereum price is trading under pressure as compared to the Bitcoin price. While BTC price jumped nearly 2% on Wednesday, ETH price has recorded just a 0.5% jump.</p>
-<p>ETH price is currently trading at $1,335. The 24-hour low and high are $1,324 and $1,342, respectively. Furthermore, the trading volume has declined by 12% in the last 24 hours, indicating a decrease in interest.</p>
-<p><span class=" txt-ellipsis fullname-badged-container">Crypto analyst Michael van de Poppe <a rel='nofollow'  href="https://twitter.com/CryptoMichNL/status/1613084144870760448" target="_blank" rel="noopener">predicts</a> a decline in the ETH price below $1.3K in the coming days. Traders are awaiting the <a href="https://coingape.com/glossary/consumer-price-index-cpi/" target="_blank" rel="noopener">CPI</a> data on Friday as prices are getting into resistance areas. However, he believes the markets are probably going to continue trending upward in the coming 1-3 months.</span></p>
-<figure id="attachment_134968" aria-describedby="caption-attachment-134968" style="width: 725px" class="wp-caption aligncenter"><img decoding="async" class=" wp-image-134968" src="https://cdn.coingape.com/wp-content/uploads/2023/01/11174203/FmLTerbXkAApEmR.png" alt="Ethereum Price " width="725" height="362" /><figcaption id="caption-attachment-134968" class="wp-caption-text">Ethereum Price in 1Hr Timeframe. Source: Michael van de Poppe</figcaption></figure>
-<p><strong>Also Read</strong>: <a href="https://coingape.com/ethereum-price-prediction-more-eth-recovery-ahead-of-shanghai-upgrade/" target="_blank" rel="noopener">More ETH Recovery Ahead Of Shanghai Upgrade?</a></p>
-<p>The post <a rel="nofollow" href="https://coingape.com/whale-transfers-ethereum-eth-to-binance-from-liquidity-pools-dump-coming/">Whale Transfers Ethereum (ETH) To Binance From Liquidity Pools, Dump Coming?</a> appeared first on <a rel="nofollow" href="https://coingape.com">CoinGape</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image"  xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.coingape.com/wp-content/uploads/2022/02/26133837/Ethereum-cover.jpg" width="460" height="230" />	</item>
 	</channel>
 </rss>
