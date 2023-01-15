@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Wed, 11 Jan 2023 15:39:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2023 15:47:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SEC Files “Totally Counterproductive” Charges Against Gemini and Genesis</title>
+		<link>https://cryptobriefing.com/sec-files-totally-counterproductive-charges-against-gemini-and-genesis/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 13 Jan 2023 15:47:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Genesis]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[Winklevoss]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123460</guid>
+
+					<description><![CDATA[The SEC is accusing both Gemini and Genesis of offering unregistered securities to retail investors. Once Again Late to the Game The Genesis situation keeps getting worse. Yesterday the Securities...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/03/16124747/gensler-sec-cover-838x440.jpeg" width="838" height="440" />	</item>
+		<item>
 		<title>New FTX Management Has Located Over $5B in Liquid Assets</title>
 		<link>https://cryptobriefing.com/new-ftx-management-has-located-over-5b-in-liquid-assets/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -519,21 +537,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/08091319/sbf-cover-2-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>BlockFi Files for Bankruptcy</title>
-		<link>https://cryptobriefing.com/blockfi-files-for-bankruptcy/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Mon, 28 Nov 2022 21:39:09 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Bankruptcy]]></category>
-		<category><![CDATA[blockfi]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123127</guid>
-
-					<description><![CDATA[Crypto lending firm BlockFi has filed for Chapter 11 bankruptcy after suspending user payouts earlier this month. BlockFi Files for Bankruptcy BlockFi is filing for bankruptcy. In an announcement on...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/21103335/blockfi-ftx-cover-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
