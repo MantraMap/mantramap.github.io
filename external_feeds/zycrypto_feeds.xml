@@ -12,7 +12,7 @@
 	<atom:link href="https://zycrypto.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zycrypto.com/category/news/</link>
 	<description>ZyCrypto Is A Cryptocurrency News Media, Focusing On Daily News, Expert Opinions, Analysis, Reviews, And So Much More.</description>
-	<lastBuildDate>Mon, 16 Jan 2023 21:45:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jan 2023 20:51:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,304 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Polygon Successfully Completes &#8216;Performance-Boosting&#8217; Hard Fork As MATIC Targets $2 Price High</title>
+		<link>https://zycrypto.com/polygon-successfully-completes-performance-boosting-hard-fork-as-matic-targets-2-price-high/</link>
+					<comments>https://zycrypto.com/polygon-successfully-completes-performance-boosting-hard-fork-as-matic-targets-2-price-high/#respond</comments>
+		
+		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 20:51:18 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[MATICUSD]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=77254</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon Successfully Completes &#039;Performance-Boosting&#039; Hard Fork As MATIC Targets $2 Price High" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The much-awaited hard fork aimed at boosting Polygon’s performance went live today at block 38,189,056, brewing a wave of optimism among the MATIC community.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon Successfully Completes &#039;Performance-Boosting&#039; Hard Fork As MATIC Targets $2 Price High" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Polygon-Successfully-Completes-Performance-Boosting-Hard-Fork-As-MATIC-Targets-2-Price-High-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The much-awaited hard fork aimed at boosting <a href="https://zycrypto.com/can-matic-sustain-current-upsurge-as-polygon-tests-zero-knowledge-rollups/">Polygon’s performance</a> went live today at block 38,189,056, brewing a wave of optimism among the MATIC community.</p>
+
+
+
+<p>Earlier today, the team behind the Ethereum layer-2 scaling protocol confirmed that the hard fork would proceed as scheduled, noting that no action will be required from MATIC holders as it will be triggered automatically.</p>
+
+
+
+<p>The upgrade, dubbed the “Polygon Delhi Fork”, seeks to achieve two key objectives; reducing gas spikes during transactions and improving transaction finality by reducing chain reorganization (reorgs).</p>
+
+
+
+<p>In a blog last week, the polygon team noted that the upgrade would change the base fee from 8 to 16. The&nbsp;base fee is the minimum gas needed for a transaction to be included in a new block. Although gas prices normally work most of the time, when the chain experiences high demand, the base gas fees may experience exponential spikes.</p>
+
+
+
+<p>According to the team, “<em>the expectation is that the rate of change for the base gas fee will fall to 6.25% from the current 12.5% to smooth severe fluctuations in gas prices.”</em></p>
+
+
+
+<p>And although gas will still increase during peak demand, it will be more in line with the way Ethereum gas dynamics work now, the team noted, adding, <em>“The goal is smooth out spikes and ensure a more seamless experience when interacting with the chain.”</em></p>
+
+
+
+<p>Concerning the upgrade&#8217;s second objective, the team noted that addressing chain reorgs will reduce the sprint lengths from 64 to 16 blocks. As a result, a single block producer will be able to produce blocks continuously for a much shorter time (about 35 seconds), far less than the current time (about 128 seconds).</p>
+
+
+
+<p>Polygon was first launched in 2017 to offer the much-needed scaling solution for Ethereum. Since then, users and developers have enjoyed faster throughput and lower fees, with more than 2.3 billion transactions being processed. Over 203 million unique addresses have signed up on Polygon with thousands of decentralized apps (DApps), including some of the biggest Web3 projects like UniSwap and Aave building atop it. Thus, the upcoming upgrade is one of the more <a href="https://zycrypto.com/can-matic-sustain-current-upsurge-as-polygon-tests-zero-knowledge-rollups/">immediate steps</a> in improving the chain&#8217;s performance and predictability.</p>
+
+
+
+<p>Meanwhile, while MATIC, the native token for Polygon, is yet to make any colossal moves following the upgrade, the crypto asset is expected to continue with its ascent towards $2 after surging over 20% in the past seven days. At press time, the crypto asset was trading at $1.02, up 0.74% in the past 24 hours, according to CoinMarketCap data.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/polygon-successfully-completes-performance-boosting-hard-fork-as-matic-targets-2-price-high/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Embattled Nexo Sues Cayman Islands Monetary Authority for Blocking Its VASP License</title>
+		<link>https://zycrypto.com/embattled-nexo-sues-cayman-islands-monetary-authority-for-blocking-its-vasp-license/</link>
+					<comments>https://zycrypto.com/embattled-nexo-sues-cayman-islands-monetary-authority-for-blocking-its-vasp-license/#respond</comments>
+		
+		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 20:30:58 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[NEXO]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=77243</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Korean Court Issues Arrest Warrant Against Terra&#039;s Do Kwon" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Nexo is suing Cayman Islands’ financial regulator for denying its registration as a virtual asset service provider in the territory. The Cayman Islands Monetary Authority declined Nexo’s VASP application dated December 20. Among the reasons cited by the authority is a need for more documentation on customer and enterprise risk assessment. CIMA is also faulting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Korean Court Issues Arrest Warrant Against Terra&#039;s Do Kwon" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/09/Korean-Court-Issues-Arrest-Warrant-Against-Terras-Do-Kwon-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>The lender is also facing pressure in Bulgaria for alleged money laundering and tax offences.</li>
+
+
+
+<li>Last month, Nexo was forced to exit the US over ‘unclear regulations.’</li>
+</ul>
+
+
+
+<p>Nexo is suing Cayman Islands’ financial regulator for denying its registration as a virtual asset service provider in the territory. The Cayman Islands Monetary Authority declined Nexo’s VASP application dated December 20.</p>
+
+
+
+<p>Among the reasons cited by the authority is a need for more documentation on customer and enterprise risk assessment. CIMA is also faulting the application, among other things, for not having enough anti-money laundering provisions.</p>
+
+
+
+<p>Countering the claims, Nexo noted in the lawsuit that the reasons pointed out by CIMA are not ‘‘satisfactory nor sufficiently detailed.’’ For that reason, it is seeking that the directive is reversed and awarded the operating license.</p>
+
+
+
+<p>‘‘<em>The case is a natural reflection of Nexo’s ongoing license acquisition mission worldwide and something quite normal that occasionally happens throughout the process of getting authorized,</em>’’ says the firm’s spokesperson on Telegram.</p>
+
+
+
+<h2 id="h-bulgaria-investigates-nexo-for-money-laundering-offenses"><strong>Bulgaria Investigates Nexo for Money Laundering Offenses</strong></h2>
+
+
+
+<p>The conflict is one of many challenges facing Nexo &#8211; which claims on its official website to support more than 5 million users across 200 jurisdictions. In Bulgaria, the lender is under probe for alleged money laundering and tax-related offenses. Particularly, the Bulgarian political party GERB is accusing the country’s ruling party ‘We Continue the Change’ and Democratic Bulgaria of receiving donations from Nexo.</p>
+
+
+
+<p>According to coverage by a local media house, former Prime Minister Boiko Borisov, and a member of GERB, alleged that five personnel linked to Nexo sent 20,000 BGN as a donation to Democratic Bulgaria.&nbsp; The party members also claim that a similar amount was donated by individuals linked to Nexo.</p>
+
+
+
+<p>Miles away, Nexo was recently forced to leave the US market over what it claimed to be ‘unclear regulations,’ per a <a href="https://zycrypto.com/crypto-lender-nexo-to-exit-us-market-over-unclear-regulations/">report</a> by ZyCrypto. The company further had to stop its Earn Interest product in several states following a cease and desist order by the SEC for &#8211; offering and selling securities without prior qualification.</p>
+
+
+
+<p>An accompanying statement by Nexo’s co-founder, Antoni Trenchev, noted that the lender was solvent, refuting earlier claims to the contrary. ‘‘<em>Insolvency, bankruptcy, is nowhere in Nexo’s reality, and we believe, we hope, we inspire while working hard to deliver a strong and sustainable future to the users.</em>’’</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/embattled-nexo-sues-cayman-islands-monetary-authority-for-blocking-its-vasp-license/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>‪&#8221;Market Manipulation?&#8221; — Former SEC Official Reveals Factors Propelling Bitcoin’s Latest Price Ascent</title>
+		<link>https://zycrypto.com/market-manipulation-former-sec-official-reveals-factors-propelling-bitcoins-latest-price-ascent/</link>
+					<comments>https://zycrypto.com/market-manipulation-former-sec-official-reveals-factors-propelling-bitcoins-latest-price-ascent/#respond</comments>
+		
+		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 13:56:41 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=77240</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance CEO CZ Lambasts Tesla CEO Elon Musk For &#039;Irresponsibly&#039; Manipulating The Crypto Market" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The asset’s bullish price movement has elicited notable reactions from John Reed Stark, the former chief of the...]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance CEO CZ Lambasts Tesla CEO Elon Musk For &#039;Irresponsibly&#039; Manipulating The Crypto Market" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/06/Binance-CEO-CZ-Lambasts-Tesla-CEO-Elon-Musk-For-Irresponsibly-Manipulating-The-Crypto-Market-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Bitcoin’s recent price performance has turned many heads in the cryptocurrency market this year. The asset’s bullish price movement has elicited notable reactions from John Reed Stark, the former chief of the Securities and Exchange Commission&#8217;s Office of Internet Enforcement.</p>
+
+
+
+<p>Like many other key figures, Reed has taken to Twitter to disclose what he believes is a main factor behind the recent upsurge in Bitcoin’s price.</p>
+
+
+
+<p><em>“Bitcoin’s price is rising for one reason: Market Manipulation. A recent Forbes analysis of 157 crypto exchanges found that 51% of daily bitcoin trading volume being reported was likely bogus (and that was the tip of the iceberg).” Reed asserted in a recent tweet.</em></p>
+
+
+
+<p>His tweets echo the sentiments of David Gerard, a journalist and author, who, in previous times, have postulated bearish viewpoints on digital currencies and blockchains.</p>
+
+
+
+<p>Gerard explains that the reason for Bitcoin’s rise to $20,000 is not tied to any “macroeconomic actions, regulatory announcements or the strength of the dollar.”</p>
+
+
+
+<p>He maintains that market manipulation is at play, pointing to the recent news of Gemini and Genesis being sued by the SEC, as some of the bearish events that lead him to believe that price pumps are usually “bad news for major players.”</p>
+
+
+
+<h2 id="h-bitcoin-taps-21-000-where-s-the-big-bull-headed-next"><strong>Bitcoin taps $21,000; where’s the big bull headed next? </strong></h2>
+
+
+
+<p>It bears mentioning that a lot of key figures are rather <a href="https://zycrypto.com/analyst-planb-on-how-current-btc-hodlers-will-lay-the-foundation-for-the-next-bitcoin-bull-run/">bullish on Bitcoin</a> and the majority of cryptocurrencies than they are bearish.  </p>
+
+
+
+<p>Crypto influencer Ben Armstrong is one of the notable figures predicting that Bitcoin is heading towards $25,000 or $30,000 in the next 45 days, although he believes the asset might hover between $20,000 to $25,000 for most of 2023.</p>
+
+
+
+<p>Similarly, PlanB, the creator of the Bitcoin S2F model, is also eyeing Bitcoin at $32,000 in 2024. He expects that price to triple and reach $100,000 during the bull run in 2025.</p>
+
+
+
+<p>Meanwhile, at press time, Bitcoin is valued at a price of  $21,212. The asset managed to sustain gains of over 20% throughout the last week.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="647" src="https://zycrypto.com/wp-content/uploads/2023/01/image-5-1024x647.png" alt="" class="wp-image-77241" srcset="https://zycrypto.com/wp-content/uploads/2023/01/image-5-1024x647.png 1024w, https://zycrypto.com/wp-content/uploads/2023/01/image-5-300x190.png 300w, https://zycrypto.com/wp-content/uploads/2023/01/image-5-768x485.png 768w, https://zycrypto.com/wp-content/uploads/2023/01/image-5-1536x971.png 1536w, https://zycrypto.com/wp-content/uploads/2023/01/image-5-2048x1294.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">BTCUSD Chart by <a href="https://www.tradingview.com/symbols/BTCUSD/">TradingView</a></figcaption></figure>
+
+
+
+<p>However, traders seem convinced that the crypto market is nearing the top. As Santiment, the leading market intelligence platform explained in a recent tweet;</p>
+
+
+
+<p><em>“Are crypto markets seeing a top? Traders are behaving like they believe so, taking this opportunity to profit while given the chance. Bitcoin  is seeing its highest profit tx ratio since Feb, 2021. For Ethereum, it&#8217;s the highest since Oct, 2021.”</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/market-manipulation-former-sec-official-reveals-factors-propelling-bitcoins-latest-price-ascent/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Can MATIC Sustain Current Upsurge as Polygon Tests Zero-Knowledge Rollups?</title>
+		<link>https://zycrypto.com/can-matic-sustain-current-upsurge-as-polygon-tests-zero-knowledge-rollups/</link>
+					<comments>https://zycrypto.com/can-matic-sustain-current-upsurge-as-polygon-tests-zero-knowledge-rollups/#respond</comments>
+		
+		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 13:37:58 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[MATICUSD]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=77238</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon NFTs Finally Coming To Over 1.4 Billion Instagram Users — MATIC Primed For Huge Boost" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Among the cryptocurrencies posting impressive gains is Polygon’s MATIC which has added 11% in the past day at $1.03, coinciding with the network’s test of its zero-knowledge (zk-Rollups) technology]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Polygon NFTs Finally Coming To Over 1.4 Billion Instagram Users — MATIC Primed For Huge Boost" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Polygon-NFTs-Finally-Coming-To-Over-1.4-Billion-Instagram-Users-—-MATIC-Primed-For-Huge-Boost-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Among the cryptocurrencies posting impressive gains is Polygon’s MATIC which has added 11% in the past day at $1.03, coinciding with the network’s test of its <a href="https://zycrypto.com/polygon-scalability-upgrade-zkevm-announces-final-testnet-here-is-what-you-need-to-know/">zero-knowledge</a> (zk-Rollups) technology before the full deployment. On the weekly CoinMarketCap chart, MATIC has climbed 22%.</p>
+
+
+
+<p>Speaking about the technology, the project lead of Polygon zkEVM and PolygonID, David Schwartz, confirmed that the zk-rollups are compatible with Ethereum after creating 12,000 zk-proofs for the testnet. The aim of zkEVM, according to the developer, is to increase the speed at which the layer-2 Ethereum scaling platform can achieve finality without compromising the validity and security of transactions.</p>
+
+
+
+<p>Described as the most significant milestone in scalability, zkEVM mostly targets the scaling of the Ethereum blockchain, different from other scaling solutions &#8211; zk-SNARK and zk-STARK by StarkNet’s &#8211; that guarantee scalability by grouping multiple transactions into one proof to confirm validity on-chain.</p>
+
+
+
+<h2 id="h-how-zk-rollup-technology-works"><strong>How ZK Rollup Technology Works</strong></h2>
+
+
+
+<p>Polygon’s ZK roll-up is a scaling solution that bundles several off-chain transactions into one on-chain transaction, eliminating the need for individual transactions to be validated on the Ethereum Mainnet by generating validity proofs for each roll-up. The Ethereum-scaling network is reportedly planning to invest more than $1 billion in zero-knowledge technology, where currently, at least four of its products are based, including Zero, Miden, Hermez, and Nightfall.</p>
+
+
+
+<p>Polygon zero is one of the solutions in zkEVM that focuses mainly on scalability by reducing the computational cost of coming up with validity proofs, or zero-knowledge proofs, enabling instant confirmation of roll-up transactions on the mainnet. Users can transfer funds smoothly between the roll-up and Ethereum without delays.</p>
+
+
+
+<p>Polygon’s latest development happens amid a bullish sentiment that has started the year off well for cryptocurrencies. The MATIC surge remains to be seen if it would be sustainable; however, the overall factors affecting cryptos would inform the next step. But considering the double-digit explosion of the token, investors could be readying to take profits, capping further gains before the next leg up.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/can-matic-sustain-current-upsurge-as-polygon-tests-zero-knowledge-rollups/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>After FTX Comes GTX: Failed 3AC Founders Set To Float New Exchange</title>
+		<link>https://zycrypto.com/after-ftx-comes-gtx-failed-3ac-founders-set-to-float-new-exchange/</link>
+					<comments>https://zycrypto.com/after-ftx-comes-gtx-failed-3ac-founders-set-to-float-new-exchange/#respond</comments>
+		
+		<dc:creator><![CDATA[Collins K.O]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 13:16:39 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[FTX]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=77235</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="After FTX Comes GTX: Failed 3AC Founders Set To Float New Exchange" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The co-founders of the defunct three arrows capital hedge fund (3AC), Su Zhu and Kyle Davies, have announced plans to launch a new crypto exchange named GTX.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="After FTX Comes GTX: Failed 3AC Founders Set To Float New Exchange" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/After-FTX-Comes-GTX-Failed-3AC-Founders-Set-To-Float-New-Exchange-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The co-founders of the defunct three arrows capital hedge fund (3AC), Su Zhu and Kyle Davies, have announced plans to launch a new crypto exchange named GTX. According to Zhu, GTX will function as a claim-based crypto exchange where victims of bankrupt crypto projects can trade their claims for ready equity.</p>
+
+
+
+<p>In a pitch deck released to the public on Monday, Zhu and Davies are in search of $25 million in funding to get GTX running “asap’ this February.</p>
+
+
+
+<p>With over $15 Billion in liquidation claims due for settlement over the last five years, Zhu believes crypto needs a claim management project to improve its ecosystem. Many creditors of the defunct Mt. Gox are still yet to receive their claims after the exchange officially filed for Bankruptcy nine years ago.</p>
+
+
+
+<p>Eight years after Mt. Gox, one of the most brutal bear runs equally capitulated more of crypto’s finest foot soldiers like Celsius, Voyager, Terraform Labs, BlockFi and FTX, leaving a litany of crypto holders in limbo about their finances.</p>
+
+
+
+<p>Overwhelmingly negative reactions, however, trailed the news of Zhu and Davies’ GTX, as it represents an effortless mockery of the defunct FTX. Zhu, whose exact whereabouts are unknown to date, confirmed the company name as a make-shift swipe at Bankman-Fried’s FTX, adding that a new name will be chosen in the coming weeks. Zhu may be looking to get back at SBF, whom he tweeted against last November, on the heel of the FTX saga, by luring embittered FTX’s creditors to become GTX’s first customers.</p>
+
+
+
+<p>But the scars of 3AC are far from erased. Over $200 million was lost on its position with TerraUSD. The two college colleagues turned co-founders who fantasized about having the biggest yacht in Asia were forced to declare bankruptcy in the same month their super-deluxe RMF, aka “Much Wow” yacht, would launch. With both founders on the watchlist of the US Commodities and Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC) and facing a subpoena from Teneo, 3AC’s liquidating company, the news of its new GTX exchange is seen by many as a subtle effort to raise capital and exit their burdening bankruptcy obligations.</p>
+
+
+
+<p>The idea of a claims management project in crypto is great, but the questionable character of two of its co-founders casts a shadow on the unspeakable motive behind its creation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/after-ftx-comes-gtx-failed-3ac-founders-set-to-float-new-exchange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Binance And Huobi Freeze Funds Linked To $100M Harmony One Hack, 124 BTC Recovered</title>
 		<link>https://zycrypto.com/binance-and-huobi-freeze-funds-linked-to-100m-harmony-one-hack-124-btc-recovered/</link>
 					<comments>https://zycrypto.com/binance-and-huobi-freeze-funds-linked-to-100m-harmony-one-hack-124-btc-recovered/#respond</comments>
@@ -41,7 +339,7 @@
 		<category><![CDATA[HUOBI]]></category>
 		<guid isPermaLink="false">https://zycrypto.com/?p=77228</guid>
 
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance And Huobi Freeze Funds Linked To $100M Harmony One Hack, 124 BTC Recovered" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Earlier today, Binance and Huobi announced that they had thwarted a money laundering scheme involving funds stolen from Harmony Horizon Bridge last year.]]></description>
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance And Huobi Freeze Funds Linked To $100M Harmony One Hack, 124 BTC Recovered" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Earlier today, Binance and Huobi announced that they had thwarted a money laundering scheme involving funds stolen from Harmony Horizon Bridge last year.]]></description>
 										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance And Huobi Freeze Funds Linked To $100M Harmony One Hack, 124 BTC Recovered" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Binance-And-Huobi-Freeze-Funds-Linked-To-100M-Harmony-One-Hack-124-BTC-Recovered-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
 <p>Earlier today, Binance and Huobi announced that they had thwarted a money laundering scheme involving funds stolen from Harmony Horizon Bridge last year.</p>
 
@@ -607,328 +905,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://zycrypto.com/ftx-ex-president-to-share-what-he-knew-about-the-collapsed-exchange-in-time/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bitcoin, Ether, And Dogecoin Deep In A Volatility Slumber — Explosive Moves in The Offing?</title>
-		<link>https://zycrypto.com/bitcoin-ether-and-dogecoin-deep-in-a-volatility-slumber-explosive-moves-in-the-offing/</link>
-					<comments>https://zycrypto.com/bitcoin-ether-and-dogecoin-deep-in-a-volatility-slumber-explosive-moves-in-the-offing/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Sun, 15 Jan 2023 18:40:31 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Dogecoin]]></category>
-		<category><![CDATA[Ethereum News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=77182</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Market Trades In Narrow Range – Extreme Volatility Ahead?" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead.jpg 1200w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-768x448.jpg 768w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-610x356.jpg 610w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The past year has no doubt been tumultuous for the crypto sector. Since tapping an all-time high, Bitcoin has lost over 70% of its value, 64% of which was depleted in 2022 alone.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Market Trades In Narrow Range – Extreme Volatility Ahead?" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead.jpg 1200w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-768x448.jpg 768w, https://zycrypto.com/wp-content/uploads/2019/11/Crypto-Market-Trades-In-Narrow-Range-–-Extreme-Volatility-Ahead-610x356.jpg 610w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>The past year has no doubt been tumultuous for the crypto sector. Since tapping an all-time high, Bitcoin has lost over 70% of its value, 64% of which was depleted in 2022 alone. This has coincided with a severe drop in the top crypto’s realized market cap, which has declined by -18.8% since ATH, representing a net capital outflow of -$88.4B from the network.</p>
-
-
-
-<p>Ethereum faced a similar fate, albeit it Realized Cap falling by an even larger relative scale of -29.2% since the ATH. Smaller cryptocurrencies were hit the hardest, with assets such as Solana, Shiba Inu and Dogecoin losing over 80% of their value.</p>
-
-
-
-<p>The severe drop in crypto prices coincided with a battalion of events. Apart from harsh anti-inflation policies by the US Federal Reserve, the collapse of FTX and its sister trading firm Alameda Research deteriorated things further, forcing investors to take a safety flight.</p>
-
-
-
-<h2 id="h-markets-are-still-in-slumber"><strong>Markets are Still in Slumber&nbsp;</strong></h2>
-
-
-
-<p>According to a report by on-chain analytics platform Glassnode, despite cryptocurrencies being infamous for their volatility, the holiday break was exceptionally quiet, with Bitcoin’s realized volatility over the last month declining to multiyear lows of 24.6% “of which there are very few instances with similar levels.”</p>
-
-
-
-<p>The market continued to experience quiet on-chain activity, with exchange-dominated inflows for BTC dropping below $500M/day, a far cry from the multi-billion-dollar levels seen throughout 2021-22. Ethereum’s light on-chain utilization also persisted into 2023, with the average gas price paid on the Ethereum chain remaining near cycle lows.</p>
-
-
-
-<p>As per the report, the mean gas price since September has ranged between 16 and 23 Gwei; levels last seen during the June-July 2021 consolidation, and in May 2020, shortly after the pandemic market panic. Notably, the four leading sectors for Ethereum, MEV bots, Bridges, DeFi protocols, and ERC-20 tokens, now account for only 22.6% of network gas consumption, down from 45.5% between Sept-2020 and Sept-2021.</p>
-
-
-
-<h2><strong>Calm Before the Storm&nbsp;</strong></h2>
-
-
-
-<p>Glassnode contends that <a href="https://zycrypto.com/what-to-expect-from-bitcoin-in-2023-the-bullish-and-the-bearish/">big price moves</a> are around the corner despite the crypto market gloom. The firm argues that it is rare for such conditions to stick around for long, pointing to the post-November 2018 and April 2019 explosive moves that preceded extremely low realized volatility.</p>
-
-
-
-<p><em>“Such periods have historically preceded explosive market moves, with past examples both cutting asset valuations in half, and triggering new bull markets,” </em>wrote Glassnode.<em>&nbsp;</em></p>
-
-
-
-<p>In Nov 2018, BTC dropped -50% in 1 month, immediately after a long consolidation, while in April 2019, the top crypto rallied from $4.2k to a peak of $14k in July 2019. That said, whereas it is too early to infer price directions, pundits have pointed out that the market bottom is in for BTC, a clear reminder that it is time to be on the lookout for any major direction shifters. </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/bitcoin-ether-and-dogecoin-deep-in-a-volatility-slumber-explosive-moves-in-the-offing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Three Bullish Events Poised To Shape The Course Of The Crypto Market In 2023</title>
-		<link>https://zycrypto.com/three-bullish-events-poised-to-shape-the-course-of-the-crypto-market-in-2023/</link>
-					<comments>https://zycrypto.com/three-bullish-events-poised-to-shape-the-course-of-the-crypto-market-in-2023/#respond</comments>
-		
-		<dc:creator><![CDATA[Olivia Brooke]]></dc:creator>
-		<pubDate>Sat, 14 Jan 2023 22:09:07 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=77177</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Three Bullish Events Poised To Shape The Course Of The Crypto Market In 2023" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Last year, many key figures in the cryptocurrency industry made it known that they were bullish on cryptocurrencies like...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Three Bullish Events Poised To Shape The Course Of The Crypto Market In 2023" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Three-Bullish-Events-Poised-To-Shape-The-Course-Of-The-Crypto-Market-In-2023-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Last year, many key figures in the cryptocurrency industry made it known that they were bullish on cryptocurrencies like Bitcoin hitting new price levels.</p>
-
-
-
-<p>As the year progressed, the market saw Bitcoin and other leading altcoins record a massive price drop. Many notably bearish events forced investors out of the cryptocurrency market as losses significantly skyrocketed.</p>
-
-
-
-<p>However, the new year is showing to be more promising than the year before, and market players expect certain events to go into motion this year. Most of these events, if they happen, have the potential to ignite an ultra-bullish rerun.</p>
-
-
-
-<p>One such event, which the crypto market has highly anticipated, is the possible addition of <a href="https://zycrypto.com/dogecoins-future-could-follow-this-bullish-trajectory-to-1-doge-price-thanks-to-elon-musk/">Dogecoin</a> to Twitter as a payment option for users on the platform.</p>
-
-
-
-<p>Although Elon Musk is stepping down as the CEO of Twitter, he maintains that he remains in charge until he finds a fitting candidate to replace him.</p>
-
-
-
-<p>In the meantime, the chances of Dogecoin, the meme coin that Musk had previously bought in the past, and also recently said was going “to the moon”, making it to Twitter, is very high. </p>
-
-
-
-<p>If Musk remains CEO at Twitter this year and digital currencies are introduced to the platform, Dogecoin might be one of the few assets to debut on the platform. This will not only increase its adoption across the globe but also stir interest in crypto from traditional investors worldwide.</p>
-
-
-
-<p>Another event poised to set the ball rolling for crypto in 2023 is the EIP-4844 rollout for Ethereum.</p>
-
-
-
-<p>EIP-4844, also known as proto-danksharding, is Ethereum’s attempt at reducing its sky-high gas fees while keeping Ethereum decentralized.</p>
-
-
-
-<p>When asked by another crypto proponent what he is bullish on for 2023, Buterin says it is “Reaching the &#8220;basic rollup scaling&#8221; milestone in the roadmap diagram. That means: EIP-4844 rolled out, rollups partially taking off training wheels, at least to &#8220;stage 1&#8221;. </p>
-
-
-
-<p>As many key players have explained, Ethereum could see massive adoption from investors and developers alike if it succeeds in solving its scaling issue.</p>
-
-
-
-<p>If EIP-4884 debuts this year, Ethereum (ETH) could also benefit, as prices are bound to skyrocket with more adoption.&nbsp;</p>
-
-
-
-<p>Another remarkable event that the market is on the look out for is the verdict of the ongoing <a href="https://zycrypto.com/ripples-win-in-xrp-lawsuit-against-sec-proves-pivotal-what-to-expect-from-the-market-this-year/">SEC vs Ripple lawsuit</a>. The SEC has received a lot of criticism for gathering multiple cryptocurrencies and cryptocurrency firms.</p>
-
-
-
-<p>As such, industry figures maintain that a win for Ripple is a win for the entire cryptocurrency community. Ripple has continued to sign numerous partnerships since the lawsuit was filed in December 2022. And as the market has speculated, XRP could hit roof levels as a result of the win.</p>
-
-
-
-<p>Judge Torres, a U.S. District Court Judge Analisa Torres, is envisioned to make a summary judgment on or before the 31st of March 2023 </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/three-bullish-events-poised-to-shape-the-course-of-the-crypto-market-in-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shiba Inu&#8217;s Shibarium Renews Bullish Momentum For &#8216;$0.001 SHIB&#8217; As Massive Token Burn Expected</title>
-		<link>https://zycrypto.com/shiba-inus-shibarium-renews-bullish-momentum-for-0-001-shib-as-massive-token-burn-expected/</link>
-					<comments>https://zycrypto.com/shiba-inus-shibarium-renews-bullish-momentum-for-0-001-shib-as-massive-token-burn-expected/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Sat, 14 Jan 2023 20:00:57 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[SHIBA INU]]></category>
-		<category><![CDATA[SHIBUSD]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=77173</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Shiba Inu&#039;s Shibarium Renews Bullish Momentum For &#039;$0.001 SHIB&#039; As Massive Token Burn Expected" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Shiba Inu’s choking token supply is about to get a massive cut once the much-awaited Shibarium network launches...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Shiba Inu&#039;s Shibarium Renews Bullish Momentum For &#039;$0.001 SHIB&#039; As Massive Token Burn Expected" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/01/Shiba-Inus-Shibarium-Renews-Bullish-Momentum-For-0.001-SHIB-As-Massive-Token-Burn-Expected-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Shiba Inu’s choking token supply is about to get a massive cut once the much-awaited <a href="https://zycrypto.com/shiba-inu-whale-activity-surges-on-hype-around-the-upcoming-shibarium-launch/">Shibarium network</a> launches, a Saturday update by&nbsp; Shibarium’s official Twitter handle “Shibarium Network” has revealed.</p>
-
-
-
-<p>According to the post, each transaction on Shibarium will burn SHIB.</p>
-
-
-
-<p>“<em>While on our last post, we wanted to remind everyone that BONE serves as the required gas token for operability within Shibarium; we also would now like to formally announce that each Shibarium transaction will burn SHIB,”</em> read the announcement.</p>
-
-
-
-<p>Burning refers to sending tokens to a dead wallet address to reduce the circulating supply. Since its launch in 2020, Shiba Inu, the world’s second-largest meme cryptocurrency by market capitalization, has always posed a problem for the community due to the massive number of tokens in supply.</p>
-
-
-
-<p>Whereas close to half of SHIB supply has already been destroyed, its adherents continue pushing for more burning tactics to reduce the remaining 589.6 trillion tokens. Theoretically, token burning is anchored on the fundamental economic principle that when supply exceeds demand for a good or service, prices fall and vice versa.</p>
-
-
-
-<p>The announcement comes after the team hinted at Shibarium layer-2 protocol “launching soon”. In a thread of tweets on January 5, the developers thanked the Shiba community for “bringing such energy and excitement” surrounding the upcoming Shibarium Beta Network, which they noted would be a phased introduction.</p>
-
-
-
-<p>The SHIB community was also forewarned against falling for rumours that other tokens apart from BONE would be required to utilize Shibarium.</p>
-
-
-
-<p><em>“</em><em>This is to confirm and validate, from us, the official source, that BONE is and remains the only token selected for gas fees and use. No other tokens will be necessary to operate within the protocol.”</em></p>
-
-
-
-<p>According to the developers, Shibarium had been developed for Shiba Inu and not for the sake of other projects who claim ownership or speculation surrounding its operability dependency on any other tokens.</p>
-
-
-
-<p>Furthermore, they noted that the layer 2 protocol belongs to the community adding that it would create a strong foundation for innovation and growth for the Shiba Inu ecosystem. Although the developers have yet to issue a soft date for the protocol’s launch, rumours suggest it could happen within the first quarter of 2023.</p>
-
-
-
-<p>Meanwhile, the Shiba Inu community has been <a href="https://zycrypto.com/shiba-inu-primed-for-strong-recovery-as-ecosystem-mulls-introducing-stablecoin-before-year-end/">buzzing with excitement</a> at the prospects of the launch providing a boon for the ecosystem’s tokens. In the past week, SHIB and BONE have grown by 23.68% and 29%, respectively, according to CoinMarketCap data.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/shiba-inus-shibarium-renews-bullish-momentum-for-0-001-shib-as-massive-token-burn-expected/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cardano Primed For Explosive Growth As IOG Announces Toolkit for Developing Sidechains On The Blockchain</title>
-		<link>https://zycrypto.com/cardano-primed-for-explosive-growth-as-iog-announces-toolkit-for-developing-sidechains-on-the-blockchain/</link>
-					<comments>https://zycrypto.com/cardano-primed-for-explosive-growth-as-iog-announces-toolkit-for-developing-sidechains-on-the-blockchain/#respond</comments>
-		
-		<dc:creator><![CDATA[Jared Kirui]]></dc:creator>
-		<pubDate>Sat, 14 Jan 2023 07:51:00 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[ADA]]></category>
-		<category><![CDATA[ADAUSD]]></category>
-		<category><![CDATA[Cardano]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=77169</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Historically Accurate Cardano On-Chain Metrics Suggest ADA Price Could Triple In Near Term" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Input Output Global (IOG), the developer of Cardano, is working on a toolkit for building customized sidechains - aimed to achieve scalability while maintaining the blockchain's security.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Historically Accurate Cardano On-Chain Metrics Suggest ADA Price Could Triple In Near Term" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Historically-Accurate-Cardano-On-Chain-Metrics-Suggest-ADA-Price-Could-Triple-In-Near-Term-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>The sidechain toolkit is aimed at scaling Cardano.</li>
-
-
-
-<li>It is a milestone in Cardano’s Basho era – focusing on growth and adoption.</li>
-</ul>
-
-
-
-<p>Input Output Global (IOG), the developer of <a href="https://zycrypto.com/cardanos-30-recovery-in-a-week-has-ada-whales-back-in-accumulation-mode/">Cardano</a>, is working on a toolkit for building customized sidechains &#8211; aimed to achieve scalability while maintaining the blockchain&#8217;s security. The toolkit also allows the building of DApps on top of the blockchain, leveraging the benefits of its infrastructure.</p>
-
-
-
-<p>Described as a means to create a family of sidechains, the toolkit enables interoperability within Cardano. As a proof of concept, IOG has created an Ethereum Virtual Machine (EVM)-compatible sidechain to be released as a public testnet before the end of the month.</p>
-
-
-
-<p>Once the testnet goes live, according to the blog, developers could try out the platform by running Solidity apps. On the same note, IOG informs developers that for the EVM sidechain, data should be finalized on the main network before deployment on the sidechain.</p>
-
-
-
-<p>According to the announcement, the toolkit&#8217;s components include the main chain, Plutus scripts, which allow for cross-chain transactions and asset transfers, and a chain follower for tracking main-chain data and events on the sidechain. It also comprises the sidechain module, which decrypts the mainnet data and executes the required ledger adaptations.</p>
-
-
-
-<h2 id="h-the-sidechain-lets-users-maintain-their-consensus-on-top-of-the-main-chain"><strong>The Sidechain Lets Users Maintain Their Consensus on Top of the Main Chain</strong></h2>
-
-
-
-<p>Besides, the new development enables the sidechain to operate its consensus and deploy its features, all connected to the main chain through a bridge that allows for the inter-chain transfer of tokens.</p>
-
-
-
-<p>IOG has outlined some of the functions that can be completed with the sidechain and comprise the support for multiple consensus algorithms, ledger policies, and languages. Others are the secure launch of sidechains, small chains and experimentation, incubation, and research.</p>
-
-
-
-<p>The company has also noted the benefits for the DApps developers using the toolkit: interoperability, testability, scalability, and compatibility. Interoperability &#8211; where a sidechain can maintain its consensus while benefiting from the infrastructure of the main chain, besides the transfer of assets.</p>
-
-
-
-<p>The new toolkit is also scalable in that transactions are quicker and relieves the main chain from congestion. It is also ideal for testability, as with testing DApps on specific sidechains, where any adjustment can be made to the sidechains without touching the main chain. The sidechain toolkit is part of the Basho era of the Cardano – which focuses on scalability and throughput.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/cardano-primed-for-explosive-growth-as-iog-announces-toolkit-for-developing-sidechains-on-the-blockchain/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Samsung Bitcoin ETF Goes Live in Hong Kong</title>
-		<link>https://zycrypto.com/samsung-bitcoin-etf-goes-live-in-hong-kong/</link>
-					<comments>https://zycrypto.com/samsung-bitcoin-etf-goes-live-in-hong-kong/#respond</comments>
-		
-		<dc:creator><![CDATA[Collins K.O]]></dc:creator>
-		<pubDate>Sat, 14 Jan 2023 07:39:38 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ethereum News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=77167</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="ETF is the ‘Rocket Fuel’ for Bitcoin, Says Global Marco CEO There are a number of milestones that bitcoin lovers anticipate happening in the next decade. These include bitcoin being accepted by more merchants for payment for goods and services, bitcoin being added to the balance sheets of prominent companies, and of course, the bitcoin exchange-traded fund. The bitcoin ETF has been, thus far, one of the most elusive milestones for the crypto industry. Giant firms like Robinhood and Gemini have applied to the Securities and Exchange Commission in the United States for approval for an ETF but all have been denied. With the current rush of institutional support that bitcoin has seen in the last few months from companies like JP Morgan and Goldman Sachs, there is talk of more pressure being put on the SEC to approve a bitcoin ETF at some point. Incoming Rocket Fuel? Now, according to Global Marco CEO Raoul Pal, the ETF is the next rocket fuel for the market. An ETF, he said in a recent Twitter exchange, will lead to a brand new level of support for bitcoin as well as an increase in price. This was in response to a tweet that claims that bitcoin is consolidating in price ahead of an ETF approval. “This is my view.. The ETF is the next rocket fuel for this market. The Wall of Money keeps coming but it takes time for everyone to get internal approvals. I have so many conversations helping hedge funds, Family Offices and Asset Managers each week. All happening and more…” he said. Bitcoin, in the last few months, saw a significant bull run and a new all-time price high of over $65,000 per token. Now, the price hovers around $50,000 and has remained steadily in that price range for the last few weeks. Some believe that the market is prepping for another bull run but needs something to trigger it and Pal feels that the ETF is what is needed. Regardless of what the price effect will be of an ETF approval, it cannot be denied that it will make it easier for investors to put money into bitcoin and other cryptos and will also lead to even more mainstream acceptance for bitcoin." decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>South Korean electronics giant, Samsung, will launch a Bitcoin Exchange-Traded Fund (ETF), opening up the possibility for exposure to Bitcoin in one of Asia’s biggest markets. The company&#8217;s asset management arm is looking to track the spot price of Bitcoin as it floats an ETF investment opportunity rooted in both Bitcoin and micro-bitcoin futures of [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="ETF is the ‘Rocket Fuel’ for Bitcoin, Says Global Marco CEO There are a number of milestones that bitcoin lovers anticipate happening in the next decade. These include bitcoin being accepted by more merchants for payment for goods and services, bitcoin being added to the balance sheets of prominent companies, and of course, the bitcoin exchange-traded fund. The bitcoin ETF has been, thus far, one of the most elusive milestones for the crypto industry. Giant firms like Robinhood and Gemini have applied to the Securities and Exchange Commission in the United States for approval for an ETF but all have been denied. With the current rush of institutional support that bitcoin has seen in the last few months from companies like JP Morgan and Goldman Sachs, there is talk of more pressure being put on the SEC to approve a bitcoin ETF at some point. Incoming Rocket Fuel? Now, according to Global Marco CEO Raoul Pal, the ETF is the next rocket fuel for the market. An ETF, he said in a recent Twitter exchange, will lead to a brand new level of support for bitcoin as well as an increase in price. This was in response to a tweet that claims that bitcoin is consolidating in price ahead of an ETF approval. “This is my view.. The ETF is the next rocket fuel for this market. The Wall of Money keeps coming but it takes time for everyone to get internal approvals. I have so many conversations helping hedge funds, Family Offices and Asset Managers each week. All happening and more…” he said. Bitcoin, in the last few months, saw a significant bull run and a new all-time price high of over $65,000 per token. Now, the price hovers around $50,000 and has remained steadily in that price range for the last few weeks. Some believe that the market is prepping for another bull run but needs something to trigger it and Pal feels that the ETF is what is needed. Regardless of what the price effect will be of an ETF approval, it cannot be denied that it will make it easier for investors to put money into bitcoin and other cryptos and will also lead to even more mainstream acceptance for bitcoin." decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/05/Samsung-Galaxy-Smartphones-To-Support-Crypto-Hardware-Storage-Device-Ledger-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>South Korean electronics giant, Samsung, will launch a Bitcoin Exchange-Traded Fund (ETF), opening up the possibility for exposure to Bitcoin in one of Asia’s biggest markets. The company&#8217;s asset management arm is looking to track the spot price of Bitcoin as it floats an ETF investment opportunity rooted in both Bitcoin and micro-bitcoin futures of the Chicago Mercantile Exchange (CME).</p>
-
-
-
-<p>ETFs are aggregated funds allocated to a broad range of investment portfolio components and tradeable on exchanges. They function and fluctuate much like mutual funds but have the advantage of near-liquidity because of the possibility of sale on an exchange.</p>
-
-
-
-<p>Though not exchangeable with an actual Bitcoin, this ETF—the second to happen in less than a month—will go a long way in signalling growing acceptance for digital assets in the region. Over $73 million was raised before the debut day of the first ETF, which took place in mid-December.</p>
-
-
-
-<p>Hong Kong stands as Asia’s lone fertile ground for crypto-based ETF trading following China’s brutal clampdown on cryptocurrencies to pave the way for a native CBDC. The region, which promised to distinguish itself from China and ease the path for crypto investors, now joins Canada, Australia, the United States and Europe as countries and regions with a successful ETF launch.</p>
-
-
-
-<p>Already swelling with speculation, Bitcoin notched up the ultra-formidable $18,000 support in the early hours of Thursday, leaving the crypto community a little positive effect on the prospects of new retail investors into crypto. Samsung has already disclosed its plans to remain at the forefront of crypto innovation.</p>
-
-
-
-<p>The company, which ranked top amongst crypto’s top 40 institutional investors, currently has over 13 crypto companies under its investment belt and has so far, contributed significantly to the $6 billion poured into crypto in the past two years. In August last year, the company officially tendered its application for a virtual asset license in South Korea, gathering more grit to the rumours of a proposed digital exchange.</p>
-
-
-
-<p>Its latest flagship Galaxy phone, the S22 series, is already pre-installed with hardware support for Bitcoin and a select other cryptocurrencies on its native Samsung wallet. With a $53 million LATAM- focused metaverse investment and a creator-driven partnership with Polygon’s Web3-based TV streaming feature, Savage App, Samsung believes strongly that the future lies in the advancement of technology and the creation of a market for younger generations who use them.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/samsung-bitcoin-etf-goes-live-in-hong-kong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
