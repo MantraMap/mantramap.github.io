@@ -12,7 +12,7 @@
 	<atom:link href="https://www.cryptoninjas.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.cryptoninjas.net/</link>
 	<description>Bitcoin, Cryptocurrency and Blockchain Asset Source</description>
-	<lastBuildDate>Sat, 14 Jan 2023 18:25:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jan 2023 15:57:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -139,7 +139,7 @@
 		
 			</item>
 		<item>
-		<title>Crypto derivatives exchange Deribit releases new client verification of assets function</title>
+		<title>Crypto derivatives exchange Deribit releases new client verification of assets tool</title>
 		<link>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/</link>
 					<comments>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/#respond</comments>
 		
@@ -151,17 +151,17 @@
 		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=123081</guid>
 
 					<description><![CDATA[<p>Deribit, the popular cryptocurrency derivatives exchange, announced today it has launched a new &#8216;Proof of Reserves&#8216; tool for clients using the trading platform. Now, clients are provided with the functionality to verify their assets to be included in Deribit&#8217;s overall reserves. How it Works Deribit provides all addresses for all on-chain assets and it delivers [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets function</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets tool</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Deribit, the <a href="https://www.cryptoninjas.net/2022/07/05/crypto-software-suite-1token-adds-support-deribit-derivatives-options-futures/" target="_blank" rel="noopener">popular cryptocurrency derivatives exchange</a>, announced today it has launched a new &#8216;<a href="https://insights.deribit.com/exchange-updates/proof-of-reserves-deribit/" target="_blank" rel="noopener">Proof of Reserves</a>&#8216; tool for clients using the trading platform. Now, clients are provided with the functionality to verify their assets to be included in Deribit&#8217;s overall reserves.</p>
 <h3><strong>How it Works</strong></h3>
 <ul>
 <li>Deribit provides all addresses for all on-chain assets and it delivers a daily file with all liabilities (all client balances) in a hashed way. Note, assets held by third-party custodians cannot be included in the report as they are not under Deribit’s direct control. Therefore, the data file that is fully accessible to all interested parties only contains the accounts that hold assets on Deribit.</li>
 <li>Clients get a key allowing them to find their balances in the overall file and can be certain their assets are covered with Deribit&#8217;s on-chain balance.</li>
-<li>All code used to create Deribit’s modified Merkle Tree is available so clients can verify the accuracy of the frontend data. To prevent the same nonces from being assigned to different users with comparable asset levels, reducing the size of liabilities, Deribit gives each account a unique Proof ID. A client can convert the Proof ID into the identifiers found in the daily snapshot file and shown in the verification section of the <a href="https://www.deribit.com/statistics/BTC/proof-of-reserves" target="_blank" rel="noopener">Proof of Reserves page</a>.</li>
+<li>All code used to create Deribit’s modified Merkle Tree is available so clients can verify the accuracy of the frontend data. To prevent the same nonces from being assigned to different users with comparable asset levels, reducing the size of liabilities, Deribit gives each account a unique &#8216;Proof ID&#8217;. A client can convert the &#8216;Proof ID&#8217; into the identifiers found in the daily snapshot file and shown in the verification section of the <a href="https://www.deribit.com/statistics/BTC/proof-of-reserves" target="_blank" rel="noopener">Proof of Reserves page</a>.</li>
 <li>The aggregate of the assets included in the asset file should always be less than the aggregate of assets available on-chain. The difference is the Deribit reserve ratio, which includes the <a href="https://www.cryptoninjas.net/2018/03/26/bitcoin-derivatives-exchange-deribit-completes-major-system-update/" target="_blank" rel="noopener">insurance funds</a> and Deribit revenues. If the total on-chain balance is higher than the asset file balance (visible in the front end and in the file itself), then Deribit has Proof of Reserves.</li>
 </ul>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets function</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/">Crypto derivatives exchange Deribit releases new client verification of assets tool</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.cryptoninjas.net/2022/12/13/crypto-derivatives-exchange-deribit-releases-new-client-verification-of-assets/feed/</wfw:commentRss>
