@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Fri, 20 Jan 2023 17:06:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Jan 2023 17:27:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vitalik Buterin Outlines Stealth Address Possibilities on Ethereum</title>
+		<link>https://cryptobriefing.com/vitalik-buterin-outlines-stealth-address-possibilities-on-ethereum/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2023 17:27:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Vitalik Buterin]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123507</guid>
+
+					<description><![CDATA[Ever concerned with providing privacy-protecting tools to Ethereum users, Vitalik Buterin has come up with a new mechanism which may prove easy to use: stealth addresses. Fresh Addresses at Every...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/09/02062442/vitalik-ethereum-depends-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
 		<title>Crypto Lender Genesis Files for Bankruptcy</title>
 		<link>https://cryptobriefing.com/genesis-files-for-bankruptcy/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -527,22 +544,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/02090858/vitalik-cover-4-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Stripe Touches Down on Solana With Orca DEX Integration </title>
-		<link>https://cryptobriefing.com/stripe-touches-down-on-solana-with-orca-dex-integration/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Timothy Craig]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 17:05:29 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Orca]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[Stripe]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=122639</guid>
-
-					<description><![CDATA[The Orca onramp marks the first time Stripe has integrated with a decentralized exchange across any blockchain. Orca Integrates Stripe Stripe has come to Solana. Orca, a leading Solana-based decentralized...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/01120129/orca-cover-2-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
