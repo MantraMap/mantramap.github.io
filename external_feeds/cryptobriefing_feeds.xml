@@ -12,13 +12,13 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Fri, 27 Jan 2023 16:23:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Apr 2023 16:54:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://static.cryptobriefing.com/wp-content/uploads/2020/02/02093517/ios-144.png</url>
@@ -28,520 +28,509 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>FTX Wants to Subpoena Bankman-Fried’s Inner Circle</title>
-		<link>https://cryptobriefing.com/ftx-wants-to-subpoena-bankman-frieds-inner-circle/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Coinbase to Potentially Launch an Offshore Derivatives Platform</title>
+		<link>https://cryptobriefing.com/coinbase-to-potentially-launch-an-offshore-derivatives-platform/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 27 Jan 2023 16:23:55 +0000</pubDate>
+		<pubDate>Fri, 21 Apr 2023 16:54:19 +0000</pubDate>
 				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bermuda]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124044</guid>
+
+					<description><![CDATA[Coinbase may be planning to use its newly acquired regulatory license to operate in Bermuda to launch a derivatives exchange. Coinbase Bermuda Coinbase is planning on expanding its operations worldwide....]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/09/08032825/sec-coinbase-sue-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>VC Firm Andreessen Horowitz Releases New Optimism Rollup Client</title>
+		<link>https://cryptobriefing.com/vc-firm-andreessen-horowitz-releases-new-optimism-rollup-client/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2023 18:08:09 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Andreessen Horowitz]]></category>
+		<category><![CDATA[optimism]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124021</guid>
+
+					<description><![CDATA[Venture Capital firm a16z is aiming to diversify Optimisms rollup clients with a client of its own. Magi and op-node Andreessen Horowitz is launching new infrastructure on Optimism. The venture...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/07153953/a16z-metaverse-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>The SEC Sues Bittrex for Operating Unregulated Securities Exchange</title>
+		<link>https://cryptobriefing.com/the-sec-sues-bittrex-for-operating-unregulated-securities-exchange/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 17 Apr 2023 17:46:06 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[bittrex]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123999</guid>
+
+					<description><![CDATA[The SECs war on crypto rages on. The regulator filed civil charges today against Bittrex for operating as a national securities exchange without being properly registered. Scrubbing Problematic Statements Yet...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/14164701/sec-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Ethereum’s Shanghai Upgrade is Live</title>
+		<link>https://cryptobriefing.com/ethereums-shanghai-upgrade-is-live/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2023 17:17:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Ethereun]]></category>
+		<category><![CDATA[Shanghai]]></category>
+		<category><![CDATA[staked ETH]]></category>
+		<category><![CDATA[the merge]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123984</guid>
+
+					<description><![CDATA[The long-awaited Shanghai upgrade is now live on Ethereum, meaning that validators can now withdraw their staked ETH from the network at their leisure. A Historic Moment for Ethereum Ethereum...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/09/20065225/ethereum-cover-4-1-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>SushiSwap to Make Exploit Victims Whole</title>
+		<link>https://cryptobriefing.com/sushiswap-to-make-exploit-victims-whole/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 12 Apr 2023 17:26:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Hack]]></category>
+		<category><![CDATA[SushiSwap]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123977</guid>
+
+					<description><![CDATA[Victims of the SushiSwap exploit have a chance of getting their funds back, whether they were preemptively taken by white hat hackers, or stolen by malicious actors. Returning User Funds...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/03/16083018/sushi-trident-launch-cover-838x440.jpeg" width="838" height="440" />	</item>
+		<item>
+		<title>With BTC above $30K, MicroStrategy Is Back in the Green</title>
+		<link>https://cryptobriefing.com/with-btc-above-30k-microstrategy-is-back-in-the-green/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 17:06:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[michael saylor]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123972</guid>
+
+					<description><![CDATA[MicroStrategy co-founder Michael Saylors bitcoin position is no longer underwater. With Bitcoin trading for roughly $30,200, and an average purchase price of $29,803 per bitcoin, Saylor is now officially in...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/07153931/saylor-cover-2-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>U.S. Treasury Misunderstands DeFi AML Compliance Requirements: Coin Center</title>
+		<link>https://cryptobriefing.com/u-s-treasury-misunderstands-defi-aml-compliance-requirements-coin-center/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2023 17:13:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Coin Center]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[U.S. Treasury]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123952</guid>
+
+					<description><![CDATA[The U.S. Treasury believes that DeFi protocols are de facto non-compliant with AML regulations. Coin Center issued a report challenging that notion. Responding to the Treasurys Claims The U.S. Treasury...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/02/14110642/treasury-tax-reporting-cover-838x440.jpeg" width="838" height="440" />	</item>
+		<item>
+		<title>Binance to Shut Down its Australian Derivatives Services</title>
+		<link>https://cryptobriefing.com/binance-to-shut-down-its-australian-derivatives-services/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Thu, 06 Apr 2023 16:46:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Binance]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123945</guid>
+
+					<description><![CDATA[Binances Australian financial services license is being terminated, meaning that Australian residents will no longer be able to open derivatives positions on the exchange. 104 Users Impacted Binance has its...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/04/06110036/binance.us-seed-raise-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>MicroStrategy&#8217;s Bitcoin Stack Reaches 140,000 BTC</title>
+		<link>https://cryptobriefing.com/microstrategys-bitcoin-stack-reaches-140000-btc/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 16:53:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[michael saylor]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123931</guid>
+
+					<description><![CDATA[MicroStrategy grew its bitcoin stack yet again. The company now holds 140,000 BTC, worth $3.9 billion at todays prices. An Extra 1,045 BTC Michael Saylor keeps adding to his Bitcoin...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/09/20104855/cover-1-5-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>NFT Decentralized Exchange Collection.xyz Launches on Ethereum</title>
+		<link>https://cryptobriefing.com/nft-decentralized-exchange-collection-xyz-launches-on-ethereum/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2023 16:00:53 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Collection.xyz]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123920</guid>
+
+					<description><![CDATA[Collection.xyz is looking to make NFT trading a smoother experience thanks to its innovative automated market mechanism. An Essential Building Block The NFT market is increasingly adopting DeFi components. A...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/04/04111637/nft-cover-3_720.jpg" width="720" height="378" />	</item>
+		<item>
+		<title>The DOJ Is Liquidating its Seized Silk Road Bitcoin Stash</title>
+		<link>https://cryptobriefing.com/the-doj-is-liquidating-its-seized-silk-road-bitcoin-stash/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 31 Mar 2023 17:12:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[DOJ]]></category>
+		<category><![CDATA[James Zhong]]></category>
+		<category><![CDATA[Silk Road]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123912</guid>
+
+					<description><![CDATA[On-chain analysts noticed at the beginning of the month that the U.S. government was moving funds it had seized from Silk Road exploiter James Zhong. It turns out that the...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/03/24163651/doj-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Sam Bankman-Fried Is Using Alameda Funds to Pay for His Legal Bills: Report</title>
+		<link>https://cryptobriefing.com/sam-bankman-fried-is-using-alameda-funds-to-pay-for-his-legal-bills-report/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 16:52:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Alameda Research]]></category>
 		<category><![CDATA[FTX]]></category>
 		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123538</guid>
+		<category><![CDATA[SBF]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123898</guid>
 
-					<description><![CDATA[FTX under John Ray is seeking court approval to subpoena Sam Bankman-Frieds immediate family, Joseph Bankman, Barbara Fried, and Gabriel Bankman-Fried, as well as the exchanges former executives. A List...]]></description>
+					<description><![CDATA[Sam Bankman-Fried claimed to have only $100,000 to his name in the immediate aftermath of the FTX collapse. So how is he bankrolling his legal defense? A $11.7 Million Gift...]]></description>
 		
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/14164814/sam-cover-5-838x440.jpg" width="838" height="440" />	</item>
 		<item>
-		<title>Mango Markets Sues Avraham Eisenberg</title>
-		<link>https://cryptobriefing.com/mango-markets-sues-avraham-eisenberg/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Bankman-Fried Accused of Bribing Chinese Government Officials</title>
+		<link>https://cryptobriefing.com/bankman-fried-accused-of-bribing-chinese-government-officials/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 26 Jan 2023 16:34:48 +0000</pubDate>
+		<pubDate>Tue, 28 Mar 2023 16:55:47 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Avraham Eisenberg]]></category>
+		<category><![CDATA[Alameda Research]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Sam Bankman-Fried]]></category>
+		<category><![CDATA[SBF]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123890</guid>
+
+					<description><![CDATA[U.S. prosecutors believe that Sam Bankman-Fried resorted to bribery in order to unfreeze over $1 billion worth of Alameda Researchs crypto funds from Chinese exchanges in 2021. $40 Million Bribe...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/08091319/sbf-cover-2-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>Binance Sued by the CFTC</title>
+		<link>https://cryptobriefing.com/binance-sued-by-the-cftc/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2023 17:18:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[CFTC]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123887</guid>
+
+					<description><![CDATA[The CFTC filed a 74-page complaint against Binance today at the U.S. District Court for the Northern District of Illinois. It claims the company is engaging in jurisdictional arbitrage in...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/07/25151434/cz-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Do Kwon Faces New Charges in U.S. and Montenegro</title>
+		<link>https://cryptobriefing.com/do-kwon-faces-new-charges-in-u-s-and-montenegro/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2023 16:18:42 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Do Kwon]]></category>
 		<category><![CDATA[DOJ]]></category>
-		<category><![CDATA[Mango Markets]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123534</guid>
+		<category><![CDATA[Fraud]]></category>
+		<category><![CDATA[Montenegro]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123876</guid>
 
-					<description><![CDATA[Applied game theorist Avraham Eisenberg is getting sued by Mango Labs for exploiting their protocol in October. He is already facing charges from the Department of Justice, Commodity Futures Trading...]]></description>
+					<description><![CDATA[Do Kwon is being accused by U.S. prosecutors of committing commodities fraud, securities fraud, wire fraud, and engaging in market manipulation. Eight Counts of Fraud Do Kwons legal troubles keep...]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/28104015/avi-eisenberg-cover-838x440.jpg" width="838" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/09/14054420/Blank-2400-x-1260-838x440.png" width="838" height="440" />	</item>
 		<item>
-		<title>“Bitcoin Jesus” Roger Ver Owes Genesis $20M</title>
-		<link>https://cryptobriefing.com/bitcoin-jesus-roger-ver-owes-genesis-20m/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Terra’s Do Kwon Arrested in Montenegro</title>
+		<link>https://cryptobriefing.com/terras-do-kwon-arrested-in-montenegro/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 25 Jan 2023 15:37:09 +0000</pubDate>
+		<pubDate>Thu, 23 Mar 2023 16:33:57 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin Jesus]]></category>
-		<category><![CDATA[Genesis]]></category>
-		<category><![CDATA[Roger Ver]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123524</guid>
+		<category><![CDATA[Do Kwon]]></category>
+		<category><![CDATA[Terra]]></category>
+		<category><![CDATA[Terraform Labs]]></category>
+		<category><![CDATA[UST]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123866</guid>
 
-					<description><![CDATA[Roger Ver apparently owes Genesis $20 million. He was previously accused by crypto exchange CoinFLEX of defaulting on a $47 million obligation. Bitcoin Jesus Loves Leverage 2022 must have been...]]></description>
+					<description><![CDATA[Terra frontman Do Kwon was apprehended at Podgorica airport by Montenegrin police. He was previously believed to be hiding in Serbia. Six Months on the Run The law has finally...]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/01/25102150/ver-cover-1024x538-1-837x440.png" width="837" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/07153952/do-kwon-blue-cover-838x440.jpg" width="838" height="440" />	</item>
 		<item>
-		<title>Vitalik Buterin Outlines Stealth Address Possibilities on Ethereum</title>
-		<link>https://cryptobriefing.com/vitalik-buterin-outlines-stealth-address-possibilities-on-ethereum/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Federal Reserve Hikes Rates Up by 25 Basis Points Despite Banking Turmoil</title>
+		<link>https://cryptobriefing.com/federal-reserve-hikes-rates-up-by-25-basis-points-despite-banking-turmoil/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 23 Jan 2023 17:27:34 +0000</pubDate>
+		<pubDate>Wed, 22 Mar 2023 18:00:31 +0000</pubDate>
 				<category><![CDATA[News]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[Inflation]]></category>
+		<category><![CDATA[rate hikes]]></category>
+		<category><![CDATA[Silicon Valley Bank]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123852</guid>
+
+					<description><![CDATA[Despite Silicon Valley Banks implosion, the Federal Reserve has elected to keep tightening monetary conditions in the United States. 4.75% to 5% range The Federal Reserve is pushing on in...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/07/27140142/powell-cover-2-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>Governor Ron DeSantis Wants to Outlaw CBDCs in Florida</title>
+		<link>https://cryptobriefing.com/governor-ron-desantis-wants-to-outlaw-cbdcs-in-florida/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 16:39:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[CBDC]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Ron DeSantis]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123827</guid>
+
+					<description><![CDATA[Florida Governor Ron DeSantis is looking to take steps to prevent residents of the Sunshine State from having CBDCs imposed on them. Surveillance and Control Central bank digital currencies are...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/03/23175411/desantis-3-23-22-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>Flagstar Acquires Signature Bank—Except for its Crypto Business</title>
+		<link>https://cryptobriefing.com/flagstar-acquires-signature-bank-except-for-its-crypto-business/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 16:36:37 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123815</guid>
+
+					<description><![CDATA[Flagstar is taking over Signature Banks operations, but crypto companies may no longer be able to use the institution, the FDIC implied in its press release yesterday. Digital Banking Business...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/03/20123359/1200x801-659x440.jpg" width="659" height="440" />	</item>
+		<item>
+		<title>Arbitrum Airdrop Finally Announced</title>
+		<link>https://cryptobriefing.com/arbitrum-airdrop-finally-announced/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2023 16:23:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Airdrop]]></category>
+		<category><![CDATA[Arbitrum]]></category>
 		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Vitalik Buterin]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123507</guid>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123794</guid>
 
-					<description><![CDATA[Ever concerned with providing privacy-protecting tools to Ethereum users, Vitalik Buterin has come up with a new mechanism which may prove easy to use: stealth addresses. Fresh Addresses at Every...]]></description>
+					<description><![CDATA[After months of feverish anticipation, Arbitrum is finally ready to airdrop a native tokenARB. Heres what you need to know. Airdrop Claimable by March 23 The Arbitrum community is rejoicing....]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/09/02062442/vitalik-ethereum-depends-cover-838x440.png" width="838" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/08/31095922/arbitrum-cover-2-838x440.jpg" width="838" height="440" />	</item>
 		<item>
-		<title>Crypto Lender Genesis Files for Bankruptcy</title>
-		<link>https://cryptobriefing.com/genesis-files-for-bankruptcy/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>House Majority Whip Questions FDIC Over Crypto Banking “Purge”</title>
+		<link>https://cryptobriefing.com/house-majority-whip-questions-fdic-over-crypto-banking-purge/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 20 Jan 2023 17:05:05 +0000</pubDate>
+		<pubDate>Wed, 15 Mar 2023 17:08:25 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Bankruptcy]]></category>
-		<category><![CDATA[Digital Currency Group]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Genesis]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123499</guid>
+		<category><![CDATA[FDIC]]></category>
+		<category><![CDATA[Operation Choke Point 2.0]]></category>
+		<category><![CDATA[Tom Emmer]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123786</guid>
 
-					<description><![CDATA[Digital Currency Group subsidiary Genesis Global Capital has filed for bankruptcy protection. It owes over $3.5 billion to its top 50 creditors $3.5 Billion in Liabilities After months of uncertainty,...]]></description>
+					<description><![CDATA[Rep. Tom Emmer sent a letter sharply questioning FDIC Chairman Gruenberg following reports that federal regulators were attempting to cut off the crypto industry from the banking sector. A Lazy...]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/11/01062204/dcg-700m-raise-cover-838x440.png" width="838" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/01/12152030/tom-emmer-cover-838x440.png" width="838" height="440" />	</item>
 		<item>
-		<title>Flashbots Seeks to Raise $50M at $1B Valuation: Report</title>
-		<link>https://cryptobriefing.com/flashbots-seeks-to-raise-50m-at-1b-valuation-report/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Binance Halts GBP Deposits and Withdrawals</title>
+		<link>https://cryptobriefing.com/binance-halts-gbp-deposits-and-withdrawals/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 19 Jan 2023 16:00:17 +0000</pubDate>
+		<pubDate>Tue, 14 Mar 2023 15:54:07 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Flashbots]]></category>
-		<category><![CDATA[MEV]]></category>
-		<category><![CDATA[Paradigm]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123494</guid>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Operation Choke Point 2.0]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123776</guid>
 
-					<description><![CDATA[Lead MEV organization Flashbots is conducting a reverse-pitching process to raise between $30 million and $50 million. The company has recently come under fire for its role in censoring Ethereum...]]></description>
+					<description><![CDATA[Only a month after halting U.S. dollar bank transfers, Binance is now being forced to cease processing British pound deposits and withdrawals as well. Only 1% of Users Impacted Crypto...]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/10/30084505/forest-cover-3-838x440.jpeg" width="838" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/01101429/shutterstock_image-1-838x440.png" width="838" height="440" />	</item>
 		<item>
-		<title>Bankman-Fried Wanted Crypto Prices to Go Up to Plug FTX Hole</title>
-		<link>https://cryptobriefing.com/bankman-fried-wanted-crypto-prices-to-go-up-to-plug-ftx-hole/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>Circle&#8217;s USDC Regains $1 Peg After Tumultuous Weekend</title>
+		<link>https://cryptobriefing.com/circles-usdc-regains-1-peg-after-tumultuous-weekend/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 18 Jan 2023 16:12:00 +0000</pubDate>
+		<pubDate>Mon, 13 Mar 2023 16:03:49 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Alameda]]></category>
-		<category><![CDATA[Caroline Ellison]]></category>
+		<category><![CDATA[Circle]]></category>
+		<category><![CDATA[Stablecoin]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123767</guid>
+
+					<description><![CDATA[After breaking its peg over the weekend and trading as low as $0.87, Circles USDC stablecoin is now at $1 again. 1 USDC for $0.87 All eyes are on USDC...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/02/02091755/usdc-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Silicon Valley Bank Closed Down, Regional Bank Stocks Trading Halted</title>
+		<link>https://cryptobriefing.com/silicon-valley-bank-closed-down-regional-bank-stocks-trading-halted/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Fri, 10 Mar 2023 17:11:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Signature Bank]]></category>
+		<category><![CDATA[Silicon Valley Bank]]></category>
+		<category><![CDATA[Silvergate Bank]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123753</guid>
+
+					<description><![CDATA[Silicon Valley Bank, the 18th largest bank in the U.S. by total assets, was closed down by regulators today after it suffered a bank run. Biggest Bank Failure Since the...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/07/04174533/ny-bank-run-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Crypto Friendly Bank Silvergate Shuts Down</title>
+		<link>https://cryptobriefing.com/crypto-friendly-bank-silvergate-shuts-down/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2023 16:42:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Paxos]]></category>
+		<category><![CDATA[Silvergate Bank]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123748</guid>
+
+					<description><![CDATA[Silvergate Bank is winding down operations, but it assured that all customer deposits would be fully repaid. Traditional Banking Risks Another pillar of the crypto industry has succumbed. Silvergate Capital...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/03/09113956/800x-1-660x440.jpg" width="660" height="440" />	</item>
+		<item>
+		<title>U.S. Government Moves $1B of Seized Silk Road BTC, Prompting Liquidation Fears</title>
+		<link>https://cryptobriefing.com/u-s-government-moves-1b-of-seized-silk-road-btc-prompting-liquidation-fears/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Wed, 08 Mar 2023 17:17:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Silk Road]]></category>
+		<category><![CDATA[U.S. government]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123741</guid>
+
+					<description><![CDATA[The DOJ may have sent some of the seized Silk Road funds to Coinbase, but that doesnt mean theyre about to liquidate. $1.08 Billion in BTC It appears that some...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/08/13014622/justice-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Powell Warns Fed Could Get Aggressive With Rates Hikes Again</title>
+		<link>https://cryptobriefing.com/powell-warns-fed-could-get-aggressive-with-rates-hikes-again/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 17:01:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[Inflation]]></category>
+		<category><![CDATA[Jerome Powell]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123733</guid>
+
+					<description><![CDATA[Persistent signs of inflation are forcing the Federal Reserve to contemplate more aggressive rate hikes. Higher and Faster The Fed may not have tamed inflation just yet. Federal Reserve Chair...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/09/27095850/powell-cover-2-1-838x440.jpg" width="838" height="440" />	</item>
+		<item>
+		<title>Kraken to Launch its Own Bank “Very Soon”</title>
+		<link>https://cryptobriefing.com/kraken-to-launch-its-own-bank-very-soon/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Mon, 06 Mar 2023 17:10:30 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123728</guid>
+
+					<description><![CDATA[The crypto industry may be suffering from a regulatory crackdown in the U.S., but thats not preventing Kraken from seeking to launch its own bank. Kraken Bank The current regulatory...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/12/21160315/kraken-1-838x440.png" width="838" height="440" />	</item>
+		<item>
+		<title>Coinbase Halts Payments With Crypto Friendly Bank Silvergate</title>
+		<link>https://cryptobriefing.com/coinbase-halts-payments-with-crypto-friendly-bank-silvergate/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2023 16:56:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Coinbase]]></category>
 		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123477</guid>
+		<category><![CDATA[Silvergate]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123715</guid>
 
-					<description><![CDATA[Members of Sam Bankman-Frieds inner circlequite possibly FTX co-founder Gary Wang and FTX chief of engineering Nishad Singhissued multiple warnings to Sam Bankman-Fried about Alamedas negative balance. If Only Prices...]]></description>
+					<description><![CDATA[Silvergate Bank is still suffering from the aftermath of the FTX collapse; it admitted to the SEC yesterday that it was uncertain about its ability to continue operating. Silvergates Insolvency...]]></description>
 		
 		
 		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/13110447/sam-fire-cover-1-838x440.jpg" width="838" height="440" />	</item>
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/03/02115353/GNWQ2ZAWD5C4HKPIBBC6KH5FCU-782x440.png" width="782" height="440" />	</item>
 		<item>
-		<title>Vote on Crucial European Crypto Legislation Delayed Again</title>
-		<link>https://cryptobriefing.com/vote-on-crucial-european-crypto-legislation-delayed-again/?utm_source=feed&#038;utm_medium=rss</link>
+		<title>SEC and CFTC Charge FTX’s Nishad Singh</title>
+		<link>https://cryptobriefing.com/sec-and-cftc-charge-ftxs-nishad-singh/?utm_source=feed&#038;utm_medium=rss</link>
 		
 		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 17 Jan 2023 16:05:53 +0000</pubDate>
+		<pubDate>Wed, 01 Mar 2023 16:14:01 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Crypto Legislation]]></category>
-		<category><![CDATA[European Union]]></category>
-		<category><![CDATA[MiCA]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123471</guid>
-
-					<description><![CDATA[The European Union is having trouble quickly translating its proposed 400-page crypto legislation into all 24 official languages within the block; the hold-up is forcing it to push back voting...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2018/08/02100333/Cryptocurrency-Regulation-in-the-European-Union-and-Virtual-Currency-Law-under-the-EU-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>3AC Founders Want to Launch a New Crypto Exchange</title>
-		<link>https://cryptobriefing.com/3ac-founders-want-to-launch-a-new-crypto-exchange/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 16 Jan 2023 15:54:17 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[3AC]]></category>
-		<category><![CDATA[Kyle Davies]]></category>
-		<category><![CDATA[Su Zhu]]></category>
-		<category><![CDATA[Three Arrows Capital]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123467</guid>
-
-					<description><![CDATA[Su Zhu and Kyle Davies want to tap into the ballooning crypto claims market by launching their own exchange. The crypto community is not impressed. GTX Three Arrows Capital is...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/07153938/su-zhu-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>SEC Files “Totally Counterproductive” Charges Against Gemini and Genesis</title>
-		<link>https://cryptobriefing.com/sec-files-totally-counterproductive-charges-against-gemini-and-genesis/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 13 Jan 2023 15:47:28 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Genesis]]></category>
+		<category><![CDATA[CFTC]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Nishad Singh]]></category>
 		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[Winklevoss]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123460</guid>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=123711</guid>
 
-					<description><![CDATA[The SEC is accusing both Gemini and Genesis of offering unregistered securities to retail investors. Once Again Late to the Game The Genesis situation keeps getting worse. Yesterday the Securities...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/03/16124747/gensler-sec-cover-838x440.jpeg" width="838" height="440" />	</item>
-		<item>
-		<title>New FTX Management Has Located Over $5B in Liquid Assets</title>
-		<link>https://cryptobriefing.com/new-ftx-management-has-located-over-5b-in-liquid-assets/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 11 Jan 2023 15:39:24 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123448</guid>
-
-					<description><![CDATA[Under John Ray, FTX has located over $5 billion of company-related liquid assetsincluding cash, liquid cryptocurrencies, and liquid stocks. Locating the Funds The new management team at FTX has been...]]></description>
+					<description><![CDATA[FTXs chief engineer, Nishad Singh, was hit with lawsuits from both the SEC and the CFTC shortly after pleading guilty to six criminal charges yesterday. Aiding and Abetting Fraud Another...]]></description>
 		
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/01/02091814/shutterstock_1716229468-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Gemini&#8217;s Cameron Winklevoss Calls for Barry Silbert’s Ousting as DCG CEO</title>
-		<link>https://cryptobriefing.com/geminis-cameron-winklevoss-calls-for-barry-silberts-ousting-as-dcg-ceo/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 10 Jan 2023 14:52:59 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Barry Silbert]]></category>
-		<category><![CDATA[Digital Currency Group]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Winklevoss]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123441</guid>
-
-					<description><![CDATA[Gemini made a new move against Digital Currency Group today when co-founder Cameron Winklevoss called on the companys board to fire Barry Silbert. A Campaign of Lies The tension between...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/02/02091719/Winklevoss-Twins-NFT-Charity-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>DOJ Seizes Another $490M from Sam Bankman-Fried</title>
-		<link>https://cryptobriefing.com/doj-seizes-another-490m-from-sam-bankman-fried/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 09 Jan 2023 15:36:26 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[DOJ]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[robinhood]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123434</guid>
-
-					<description><![CDATA[Despite Sam Bankman-Frieds best efforts, the DOJ has decided to seize the Robinhood shares the FTX whiz kid bought through Emergent Fidelity Technologies. $490 Million Seized Two months after FTXs...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/09120551/chart-sam-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>What’s Happening Over at Huobi?</title>
-		<link>https://cryptobriefing.com/whats-happening-over-at-huobi/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 16:53:57 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Huobi]]></category>
-		<category><![CDATA[Justin Sun]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123424</guid>
-
-					<description><![CDATA[Huobi Global, the crypto exchange rumored to have been acquired by Justin Sun in October through an intermediary company, is beset with all kinds of rumors. Huobi has denied some...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/07153948/justin-sun-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Celsius&#8217; Mashinsky Finally Sued by NY Attorney General</title>
-		<link>https://cryptobriefing.com/celsius-mashinsky-finally-sued-by-ny-attorney-general/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 05 Jan 2023 18:57:00 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Alex Mashinsky]]></category>
-		<category><![CDATA[Celsius]]></category>
-		<category><![CDATA[Letitia James]]></category>
-		<category><![CDATA[New York Attorney General]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123419</guid>
-
-					<description><![CDATA[Former Celsius CEO Alex Mashinsky is being sued by the New York Attorney General for defrauding investors and making false statements about the companys financials. Mashinsky Feels the Heat Alex...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/30072846/mashinsky-0x0-1-660x440.jpeg" width="660" height="440" />	</item>
-		<item>
-		<title>Coinbase Settles for $100M With Regulators Over Compliance System</title>
-		<link>https://cryptobriefing.com/coinbase-settles-for-100m-with-regulators-over-compliance-system/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 04 Jan 2023 16:33:49 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[NYDFS]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123413</guid>
-
-					<description><![CDATA[Coinbase found itself overwhelmed by frantic platform adoption in 2020 and 2021, the NYDFS claimed in its filing today. This resulted in the exchange failing to maintain a robust compliance...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/10/26060827/coinbase-citi-stock-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>DCG Drama Recap: Winklevoss Letter, Grayscale Troubles, Class-Action Arbitration</title>
-		<link>https://cryptobriefing.com/dcg-drama-recap-winklevoss-letter-grayscale-troubles-class-action-arbitration/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 03 Jan 2023 17:16:51 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Digital Currency Group]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Genesis]]></category>
-		<category><![CDATA[Winklevoss]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123410</guid>
-
-					<description><![CDATA[Barry Silberts woes continue as Cameron Winklevoss ratchets up the pressure, Gemini Earn customers file for class-action arbitration, and Grayscales Ethereum Trust trades at its lowest discount ever. New Year,...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/16103754/gemini-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Did Sam Bankman-Fried Secretly Cash Out $1.5M?</title>
-		<link>https://cryptobriefing.com/did-sam-bankman-fried-secretly-cash-out-1-5m/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 30 Dec 2022 17:10:57 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Alameda]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<category><![CDATA[SBF]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123381</guid>
-
-					<description><![CDATA[Sam Bankman-Fried insisted he only had $100,000 left in his bank account, but he never mentioned his wallets! The crypto villain may have cashed out as much as $1.48 million....]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/11/14164814/sam-cover-5-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Chinese Government to Launch an NFT Marketplace</title>
-		<link>https://cryptobriefing.com/chinese-government-to-launch-an-nft-marketplace/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 29 Dec 2022 16:58:56 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123372</guid>
-
-					<description><![CDATA[China is following up on its CBDC efforts with a state-sponsored NFT marketplace, which would enable the trading of digital copyrights and digital collections on a blockchain called the China...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/02/18075036/china-metaverse-regulator-cover-838x440.jpeg" width="838" height="440" />	</item>
-		<item>
-		<title>Avraham Eisenberg Charged with Fraud, Market Manipulation</title>
-		<link>https://cryptobriefing.com/avraham-eisenberg-charged-with-fraud-market-manipulation/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 28 Dec 2022 15:44:34 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Avraham Eisenberg]]></category>
-		<category><![CDATA[Mango Markets]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123365</guid>
-
-					<description><![CDATA[Avi Eisenberg may have been too clever for his own good when he publicly revealed he was responsible for the Mango Markets exploit in October. It turns out the FBI...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/28104015/avi-eisenberg-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Pudgy Penguins Fly Off to New All-Time Highs</title>
-		<link>https://cryptobriefing.com/pudgy-penguins-fly-off-to-new-all-time-highs/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 27 Dec 2022 19:06:43 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Pudgy Penguins]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123360</guid>
-
-					<description><![CDATA[After spending over a year trading within the same range, Pudgy Penguins price floor has finally broken upwards and is now making new all-time highs. Pudgies in Price Discovery It...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/08/23072536/pudgy-penguin-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Alameda’s Caroline Ellison Enters Plea Agreement with DOJ</title>
-		<link>https://cryptobriefing.com/alamedas-caroline-ellison-enters-plea-agreement-with-doj/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 22 Dec 2022 16:32:50 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Alameda Research]]></category>
-		<category><![CDATA[Caroline Ellison]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123339</guid>
-
-					<description><![CDATA[Sam Bankman-Frieds partners in crime, Alameda CEO Caroline Ellison and FTX co-founder Gary Wang, are both cooperating with the U.S. Department of Justice. $250,000 Bail for Full Cooperation Caroline Ellison...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/22113157/cover-1-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Sam Bankman-Fried Enjoying Comfortable Jail Experience: Bloomberg</title>
-		<link>https://cryptobriefing.com/sam-bankman-fried-enjoying-comfortable-jail-experience-bloomberg/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 21 Dec 2022 21:59:42 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123327</guid>
-
-					<description><![CDATA[Sam Bankman-Frieds sojourn in prison includes vegan food, bidaily medical check-ups, a television set, local newspapers, and crossword puzzlesperks that reportedly few inmates at Fox Hill prison get to enjoy....]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/21165337/sbf-cover-2-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Democrats Plan on Returning at Least $9.85M in FTX Donations</title>
-		<link>https://cryptobriefing.com/democrats-plan-on-returning-at-least-9-85m-in-ftx-donations/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 20 Dec 2022 21:39:01 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Democrats]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[Sam Bankman-Fried]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123316</guid>
-
-					<description><![CDATA[One by one, U.S. political groups are announcing they will return the millions Sam Bankman-Fried donated to them. Sending Back the Money The U.S. political system is still dealing with...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/24163130/sbf-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Auto-Payments on Ethereum? Visa Says it’s Possible</title>
-		<link>https://cryptobriefing.com/auto-payments-on-ethereum-visa-says-its-possible/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 22:55:25 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Self-custody]]></category>
-		<category><![CDATA[Visa]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123309</guid>
-
-					<description><![CDATA[Visa is trying to get auto-payments on Ethereum by creating a new type of walleta process the company calls account abstraction. Mixing Wallets and Smart Contracts Visa is looking at...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/10/13144623/visa-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Raydium Exploiter Drains Millions from Liquidity Pools</title>
-		<link>https://cryptobriefing.com/raydium-exploiter-drains-millions-from-liquidity-pools/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 19:27:09 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Raydium]]></category>
-		<category><![CDATA[Solana]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123296</guid>
-
-					<description><![CDATA[Leading Solana decentralized exchange Raydium saw some of its liquidity pools drained of their funds today after an attacker gained special authority over the protocols smart contracts. Raydium Compromised Solana...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/07/11020857/chainswap-exploit-8m-lost-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Trump Launches his Own NFT Collection</title>
-		<link>https://cryptobriefing.com/trump-launches-his-own-nft-collection/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 15 Dec 2022 17:57:00 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Digital Collectibles]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[polygon]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123290</guid>
-
-					<description><![CDATA[Donald Trump is launching his own NFT digital card collection on Polygon. Each card is available for purchase for $99 on the official website. Trump on the Blockchain Donald Trump...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/01/02091934/Trump-Pardons-Ripple-Board-Member-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Fed Hikes Rates by Only 50 Basis Points, but Remains Hawkish</title>
-		<link>https://cryptobriefing.com/fed-pivot-powell-hikes-rates-by-only-50-basis-points/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 14 Dec 2022 19:00:42 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[Jerome Powell]]></category>
-		<category><![CDATA[rates]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123270</guid>
-
-					<description><![CDATA[The Fed will only be raising interest rates by 50 basis points, instead of 75 basis points like in previous months. Fed Softens Its Approach to Monetary Policy The Federal...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/12/14135219/jerome-powell-cover-2-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Markets Climb As Inflation Keeps Cooling Off</title>
-		<link>https://cryptobriefing.com/markets-soar-as-inflation-keeps-cooling-off/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Tue, 13 Dec 2022 16:17:51 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[CPI]]></category>
-		<category><![CDATA[Fed]]></category>
-		<category><![CDATA[Inflation]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123264</guid>
-
-					<description><![CDATA[The year-to-year inflation rate came in at 7.1% today, strengthening the markets belief that inflation may indeed have peaked and that the Federal Reserve might soften its aggressive monetary policy....]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/08/10074453/inflation-cover-4-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>BAYC Staking Goes Live With Bananas Yields</title>
-		<link>https://cryptobriefing.com/bayc-staking-goes-live-with-bananas-yields/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 20:43:05 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[APE]]></category>
-		<category><![CDATA[Apecoin]]></category>
-		<category><![CDATA[BAYC]]></category>
-		<category><![CDATA[Bored Apes Yacht Club]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123243</guid>
-
-					<description><![CDATA[The Otherside metaverse now has its very own staking platform, ApeStake, which offers high yields to any BAYC, MAYC, BAKC, and APE holder willing to lock in their assets. BAYC...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/02/03162844/BAYC-investment-cover-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
