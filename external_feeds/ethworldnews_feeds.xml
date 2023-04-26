@@ -601,4 +601,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=PhpRedis metric#hits=7244 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1843134 metric#prefetches=135 metric#store-reads=22 metric#store-writes=3 metric#store-hits=146 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=215.15 metric#ms-cache=15816.69 metric#ms-cache-median=0.00 metric#ms-cache-ratio=7,351.5 -->
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=7244 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1843134 metric#prefetches=135 metric#store-reads=22 metric#store-writes=3 metric#store-hits=146 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=216.56 metric#ms-cache=18903.02 metric#ms-cache-median=0.00 metric#ms-cache-ratio=8,728.8 sample#redis-hits=134495762 sample#redis-misses=3314390 sample#redis-hit-ratio=97.6 sample#redis-ops-per-sec=44 sample#redis-evicted-keys=0 sample#redis-used-memory=84734232 sample#redis-used-memory-rss=102694912 sample#redis-memory-fragmentation-ratio=1.2 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=28171 -->
