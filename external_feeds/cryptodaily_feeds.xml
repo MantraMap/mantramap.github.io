@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 02 May 2023 09:26:45 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 02 May 2023 09:31:12 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,54 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Level Finance Loses Over $1M As DeFi Hit By Yet Another Hack]]></title>
+			  <link>https://cryptodaily.co.uk/2023/05/level-finance-loses-over-1m-as-defi-hit-by-yet-another-hack</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/level-finance1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/level-finance1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/level-finance1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 02 May 2023 09:25:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/05/level-finance-loses-over-1m-as-defi-hit-by-yet-another-hack</guid>
+			  <description><![CDATA[<p>The decentralized finance (DeFi) ecosystem was hit by yet another hack, as decentralized perpetual market Level Finance was hacked for $1.1 million by an unknown attacker.&nbsp;</p>
+<p>The incident adds to a growing list of crypto and DeFi exploits that have taken place so far in 2023.&nbsp;</p>
+Yet Another Attack On DeFi
+<p>Level Finance disclosed the news of the attack to its followers on Twitter. According to the team at the perpetual marketplace, the attacker manipulated a &ldquo;claim multiple&rdquo; bug in one of Level Finance&rsquo;s smart contracts. This allowed them to siphon off over 214,000 LVL tokens from the exchange, which they then swapped into BNB tokens. The exploit resulted in the loss of over $1 million to Level Finance. However, the team assured users that other smart contracts were unaffected and were isolated from the exploit in question.&nbsp;</p>
+<p>The Level Finance team also stated that the liquidity pools and the DAO treasury were also unaffected and deployed a patch only 12 hours after the attack. Level Finance will be conducting a thorough post-mortem of the attack and hope to offer some insight into how the attack was executed.&nbsp;</p>
+
+<p>&ldquo;An exploit targeted our Referral Controller Contract. - 214k LVL tokens drained to exploiters&rsquo; address. - Attacker swapped LVL to 3,345 BNB - Exploit was isolated from other contracts. - Fix to be deployed in 12 Hrs. - LP&rsquo;s and DAO treasury UNAFFECTED.&rdquo;</p>
+
+<p>Level Finance is a decentralized and non-custodial perpetual market created on the BNB Chain. Currently, its Total Value Locked (TVL) is around $32 million, a sharp drop from the $41 million before the attack.</p>
+PeckShield Dissects The Attack&nbsp;
+<p>Blockchain security firm PeckShield revealed that the smart contract &ldquo;LevelReferralControllerV2&rdquo; had a bug that allowed the hacker to make repeated referral claims during the same epoch. Level Finance later confirmed this in an updated statement on Discord. According to data from BSC Scan, Level Finance&rsquo;s v2 controller contract reported multiple calls of the &ldquo;claim multiple&rdquo; function registered over the past 48 hours.&nbsp;</p>
+
+<p>&ldquo;It seems the @Level__Finance&rsquo;s LevelReferralControllerV2 contract has a bug that allows for repeated referral claims from the same epoch. So far, 214k LVLs have been drained and swapped into 3,345 BNB (~1M).&rdquo;</p>
+
+<p>Level Finance has temporarily suspended the referral program in an effort to contain the exploit.&nbsp;</p>
+DeFi Exploits On The Up&nbsp;
+<p>2023 has seen a considerable increase in the number of hacks, with several having taken place over the first four months of the year. While not as bad as 2022, this could change with a couple of large exploits, which could leave DeFi reeling again. According to crypto security and auditing firm CertiK, crypto scams, exploits, flash loan attacks, and exit scams have cost the crypto space a staggering $103 million in April alone. According to CertiK, the total loss during the ongoing year stands at $429 million, a figure which could continue rising.&nbsp;</p>
+<p>Among the most significant hacks of 2023 are those of Sentiment and Euler Finance. Euler Finance&rsquo;s hack saw the attacker siphon off $197 million, while sentiment reported that hackers managed to steal $1 million. However, both protocols successfully negotiated with the hackers and recovered most of their funds.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>The decentralized finance (DeFi) ecosystem was hit by yet another hack, as decentralized perpetual market Level Finance was hacked for $1.1 million by an unknown attacker.&nbsp;</p>
+<p>The incident adds to a growing list of crypto and DeFi exploits that have taken place so far in 2023.&nbsp;</p>
+Yet Another Attack On DeFi
+<p>Level Finance disclosed the news of the attack to its followers on Twitter. According to the team at the perpetual marketplace, the attacker manipulated a &ldquo;claim multiple&rdquo; bug in one of Level Finance&rsquo;s smart contracts. This allowed them to siphon off over 214,000 LVL tokens from the exchange, which they then swapped into BNB tokens. The exploit resulted in the loss of over $1 million to Level Finance. However, the team assured users that other smart contracts were unaffected and were isolated from the exploit in question.&nbsp;</p>
+<p>The Level Finance team also stated that the liquidity pools and the DAO treasury were also unaffected and deployed a patch only 12 hours after the attack. Level Finance will be conducting a thorough post-mortem of the attack and hope to offer some insight into how the attack was executed.&nbsp;</p>
+
+<p>&ldquo;An exploit targeted our Referral Controller Contract. - 214k LVL tokens drained to exploiters&rsquo; address. - Attacker swapped LVL to 3,345 BNB - Exploit was isolated from other contracts. - Fix to be deployed in 12 Hrs. - LP&rsquo;s and DAO treasury UNAFFECTED.&rdquo;</p>
+
+<p>Level Finance is a decentralized and non-custodial perpetual market created on the BNB Chain. Currently, its Total Value Locked (TVL) is around $32 million, a sharp drop from the $41 million before the attack.</p>
+PeckShield Dissects The Attack&nbsp;
+<p>Blockchain security firm PeckShield revealed that the smart contract &ldquo;LevelReferralControllerV2&rdquo; had a bug that allowed the hacker to make repeated referral claims during the same epoch. Level Finance later confirmed this in an updated statement on Discord. According to data from BSC Scan, Level Finance&rsquo;s v2 controller contract reported multiple calls of the &ldquo;claim multiple&rdquo; function registered over the past 48 hours.&nbsp;</p>
+
+<p>&ldquo;It seems the @Level__Finance&rsquo;s LevelReferralControllerV2 contract has a bug that allows for repeated referral claims from the same epoch. So far, 214k LVLs have been drained and swapped into 3,345 BNB (~1M).&rdquo;</p>
+
+<p>Level Finance has temporarily suspended the referral program in an effort to contain the exploit.&nbsp;</p>
+DeFi Exploits On The Up&nbsp;
+<p>2023 has seen a considerable increase in the number of hacks, with several having taken place over the first four months of the year. While not as bad as 2022, this could change with a couple of large exploits, which could leave DeFi reeling again. According to crypto security and auditing firm CertiK, crypto scams, exploits, flash loan attacks, and exit scams have cost the crypto space a staggering $103 million in April alone. According to CertiK, the total loss during the ongoing year stands at $429 million, a figure which could continue rising.&nbsp;</p>
+<p>Among the most significant hacks of 2023 are those of Sentiment and Euler Finance. Euler Finance&rsquo;s hack saw the attacker siphon off $197 million, while sentiment reported that hackers managed to steal $1 million. However, both protocols successfully negotiated with the hackers and recovered most of their funds.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[TRON DAO Team Leaves Consensus 2023 with Crypto Expectations High]]></title>
 			  <link>https://cryptodaily.co.uk/2023/05/tron-dao-team-leaves-consensus-2023-with-crypto-expectations-high</link>
 			  <media:content url="https://app.chainwire.org/storage/uploads/users/download_1683014099mEupyod0tn.jpg" medium="image" />
@@ -898,76 +946,6 @@ Coinme, Up Global, and Bergquist Settle with the SEC
 <p class="s11">Telegram: https://t.me/sparklofinance</p>
 <p>&nbsp;</p>
 <p>Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Crypto Weekly Roundup: BTC Ups And Downs And More]]></title>
-			  <link>https://cryptodaily.co.uk/2023/04/crypto-weekly-roundup-btc-ups-and-downs-and-more</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" length="528" type="image/jpg" />
-			  <pubDate>Sun, 30 Apr 2023 13:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/04/crypto-weekly-roundup-btc-ups-and-downs-and-more</guid>
-			  <description><![CDATA[<p>Bitcoin has seen some exciting action this week, as it experienced a significant price hike on Wednesday due to another TradFi institute taking a beating. However, it was immediately followed by a strong pullback influenced by other factors that soon resulted in a panic selling. Let&rsquo;s find out more.&nbsp;</p>
-Bitcoin
-<p>Financial experts are wondering how the U.S. government&rsquo;s decision to raise its $13.4 trillion debt ceiling would affect Bitcoin and the crypto market.&nbsp;</p>
-<p>Robert Kiyosaki has gone to Twitter to warn his followers of the excesses of the banks and recommended gold and bitcoin instead.&nbsp;</p>
-<p>Bitcoin was sailing higher on Wednesday due to the news of First Republic Bank going under when suddenly, there was a strong pullback. News of Mt Gox and the US Government moving their BTC caused panic selling.</p>
-<p>A Bitcoin white paper sneakily introduced through every MacOS update since 2018 has been removed from the upcoming operating system update.&nbsp;</p>
-Ethereum
-<p>Binance has announced a new and significant upgrade to its ETH staking service, where the crypto exchange will introduce Wrapped Beacon ETH (WBETH) on the staking platform.&nbsp;</p>
-Altcoins
-<p>Ripple reported selling over $361 million worth of XRP tokens in the first three months of 2023 (Q1).&nbsp;</p>
-Technology
-<p>Lens released a beta version of its blockchain scaling solution, Bonsai, to address the concerning issue of scalability for decentralized social media platforms.&nbsp;</p>
-<p>Google Cloud has partnered with Polygon Labs to help developers to build, launch, and grow their decentralized applications and Web3 products on the layer-2 blockchain.&nbsp;</p>
-<p>Former senior technology and security executives from venture capital giant Andreessen Horowitz (a16z) have reportedly started an institutional-focused cryptocurrency custody firm.</p>
-<p>Payment processing giant Visa is building upon current blockchain technologies to enable users to transact using stablecoins without fiat currency conversions.&nbsp;</p>
-<p>Stablecoin issuer Circle has launched its Cross-Chain Transfer Protocol (CCTP) on the mainnet, enabling permissionless transfers of USDC natively across supported blockchains.</p>
-Business
-<p>Belgian cryptocurrency trading platform Bit4You has announced the suspension of operations after it discovered that CoinLoan, one of its service providers, was declared insolvent by an Estonian court.&nbsp;</p>
-<p>Investment giant Franklin Templeton has announced that its Nasdaq-listed OnChain US Government Money Fund is now supported on the Polygon Network.&nbsp;</p>
-<p>Binance.US has withdrawn from its planned $1 billion acquisition of Voyager, citing the "hostile and uncertain" regulatory climate in the United States.</p>
-Regulation
-<p>Hong Kong&rsquo;s Securities and Futures Commission (SFC) is set to publish guidelines on its licensing framework for cryptocurrency exchanges in May.</p>
-<p>In a viral 2018 video that resurfaced on social media recently, Gary Gensler, the current chairman of the SEC, likened cryptocurrencies to cash.&nbsp;</p>
-<p>India&rsquo;s Enforcement Directorate (ED) has frozen around $916 million from bank accounts linked to companies involved in the HPZ token scam.&nbsp;</p>
-<p>After two years of intensive work, the 20th of April marked the final Plenary vote of the Markets in Crypto-Assets Regulation or &ldquo;MiCA.&rdquo;</p>
-Security
-<p>Despite being highly ranked by auditing firm, CertiK, the Ethereum-based decentralized exchange Merlin, suffered an exploit in which roughly $1.8 million in funds were lost.</p>
-<p>CertiK is planning to launch a victim aid fund to return the funds stolen in the Merlin DEX exploit.&nbsp;</p>
-<p>A single wallet address has been traced to be the mastermind behind the launch of 114 questionable memecoins in just two months.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></description>
-			  <content:encoded><![CDATA[<p>Bitcoin has seen some exciting action this week, as it experienced a significant price hike on Wednesday due to another TradFi institute taking a beating. However, it was immediately followed by a strong pullback influenced by other factors that soon resulted in a panic selling. Let&rsquo;s find out more.&nbsp;</p>
-Bitcoin
-<p>Financial experts are wondering how the U.S. government&rsquo;s decision to raise its $13.4 trillion debt ceiling would affect Bitcoin and the crypto market.&nbsp;</p>
-<p>Robert Kiyosaki has gone to Twitter to warn his followers of the excesses of the banks and recommended gold and bitcoin instead.&nbsp;</p>
-<p>Bitcoin was sailing higher on Wednesday due to the news of First Republic Bank going under when suddenly, there was a strong pullback. News of Mt Gox and the US Government moving their BTC caused panic selling.</p>
-<p>A Bitcoin white paper sneakily introduced through every MacOS update since 2018 has been removed from the upcoming operating system update.&nbsp;</p>
-Ethereum
-<p>Binance has announced a new and significant upgrade to its ETH staking service, where the crypto exchange will introduce Wrapped Beacon ETH (WBETH) on the staking platform.&nbsp;</p>
-Altcoins
-<p>Ripple reported selling over $361 million worth of XRP tokens in the first three months of 2023 (Q1).&nbsp;</p>
-Technology
-<p>Lens released a beta version of its blockchain scaling solution, Bonsai, to address the concerning issue of scalability for decentralized social media platforms.&nbsp;</p>
-<p>Google Cloud has partnered with Polygon Labs to help developers to build, launch, and grow their decentralized applications and Web3 products on the layer-2 blockchain.&nbsp;</p>
-<p>Former senior technology and security executives from venture capital giant Andreessen Horowitz (a16z) have reportedly started an institutional-focused cryptocurrency custody firm.</p>
-<p>Payment processing giant Visa is building upon current blockchain technologies to enable users to transact using stablecoins without fiat currency conversions.&nbsp;</p>
-<p>Stablecoin issuer Circle has launched its Cross-Chain Transfer Protocol (CCTP) on the mainnet, enabling permissionless transfers of USDC natively across supported blockchains.</p>
-Business
-<p>Belgian cryptocurrency trading platform Bit4You has announced the suspension of operations after it discovered that CoinLoan, one of its service providers, was declared insolvent by an Estonian court.&nbsp;</p>
-<p>Investment giant Franklin Templeton has announced that its Nasdaq-listed OnChain US Government Money Fund is now supported on the Polygon Network.&nbsp;</p>
-<p>Binance.US has withdrawn from its planned $1 billion acquisition of Voyager, citing the "hostile and uncertain" regulatory climate in the United States.</p>
-Regulation
-<p>Hong Kong&rsquo;s Securities and Futures Commission (SFC) is set to publish guidelines on its licensing framework for cryptocurrency exchanges in May.</p>
-<p>In a viral 2018 video that resurfaced on social media recently, Gary Gensler, the current chairman of the SEC, likened cryptocurrencies to cash.&nbsp;</p>
-<p>India&rsquo;s Enforcement Directorate (ED) has frozen around $916 million from bank accounts linked to companies involved in the HPZ token scam.&nbsp;</p>
-<p>After two years of intensive work, the 20th of April marked the final Plenary vote of the Markets in Crypto-Assets Regulation or &ldquo;MiCA.&rdquo;</p>
-Security
-<p>Despite being highly ranked by auditing firm, CertiK, the Ethereum-based decentralized exchange Merlin, suffered an exploit in which roughly $1.8 million in funds were lost.</p>
-<p>CertiK is planning to launch a victim aid fund to return the funds stolen in the Merlin DEX exploit.&nbsp;</p>
-<p>A single wallet address has been traced to be the mastermind behind the launch of 114 questionable memecoins in just two months.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></content:encoded>
 			</item>
 					
 	</channel>
