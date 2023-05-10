@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Wed, 10 May 2023 07:08:47 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 10 May 2023 07:16:52 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,56 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Binance Prepares NFT Marketplace Support For Bitcoin Ordinals]]></title>
+			  <link>https://cryptodaily.co.uk/2023/05/binance-prepares-nft-marketplace-support-for-bitcoin-ordinals</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/binance-china-1.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/binance-china-1.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/binance-china-1.jpg" length="528" type="image/jpg" />
+			  <pubDate>Wed, 10 May 2023 07:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/05/binance-prepares-nft-marketplace-support-for-bitcoin-ordinals</guid>
+			  <description><![CDATA[<p class="md-end-block md-p">Binance has announced plans to support Bitcoin Ordinals inscriptions on its NFT marketplace later this month. This move marks Binance's entry into the rapidly growing Bitcoin-based parallel NFT market.</p>
+<p class="md-end-block md-p">The update to Binance's NFT marketplace will be rolled out in the coming weeks, allowing users to buy and trade Ordinals inscriptions using their Binance accounts. In March, the NFT marketplace expanded its range of supported networks by adding select NFT collections from Polygon to the platform.</p>
+<p class="md-end-block md-p">Binance's Head of Product, Mayur Kamat, sees the prepared listing to be a significant development. Kamat commented:</p>
+
+<p class="md-end-block md-p">"Bitcoin is the OG of crypto. We believe things are just getting started here and can't wait to see what the future holds in this space."</p>
+
+<p class="md-end-block md-p">Several inscriptions marketplaces have emerged as a result of Ordinals' initial surge in popularity, including Ordswap, Ordinals Market, and Ordinals Wallet. Magic Eden, the largest Solana NFT marketplace, was the first among established platforms to enter the Ordinals market, launching an inscriptions marketplace in March.</p>
+<p class="md-end-block md-p">Binance's NFT marketplace announcement comes just days after the exchange temporarily paused Bitcoin withdrawals due to network congestion, while its competitors remained fully operational. The pause occurred when Bitcoin transaction fees were at a high, and the network's mempool&mdash;where transactions wait to be verified&mdash;was heavily backlogged.</p>
+<p class="md-end-block md-p">Many in crypto Twitter (CT) believe that transactions related to BRC-20 tokens were contributing to the network congestion. BRC-20 tokens, which are built and traded using Ordinals, use text-based inscriptions instead of image-based ones, just like Bitcoin NFTs. Currently, Binance's Bitcoin NFT marketplace does not support BRC-20 tokens.</p>
+<p class="md-end-block md-p">In recent weeks, image-based inscriptions have been eclipsed by Bitcoin-based tokens and text-based inscriptions. On Sunday, 99.7% of inscriptions made through Ordinals were text-based, according to a Dune dashboard. Simultaneously, 65% of all Bitcoin transactions were related to BRC-20 tokens, as reported by another Dune dashboard.</p>
+<p class="md-end-block md-p">The excitement surrounding BRC-20 tokens intensified on Monday as Ordi, the first BRC-20 token launched as an experiment in March, was listed on cryptocurrency exchanges Crypto.com and Gate.io. Binance's support for Ordinals inscriptions signals its commitment to staying at the forefront of the ever-evolving cryptocurrency landscape.</p>
+<p class="md-end-block md-p">The addition of Ordinals inscriptions to Binance's NFT marketplace represents a significant milestone in the expansion of digital assets on the Bitcoin blockchain. As we dive deeper into the world of Ordinals and the underlying technology, it's important to understand how this development will impact Binance users and the broader cryptocurrency ecosystem.</p>
+<p class="md-end-block md-p">Ordinals inscriptions on the Bitcoin blockchain are often referred to as "digital artifacts," and they represent a different approach to NFTs compared to the more familiar Ethereum-based NFTs. Ordinals are created by inscribing satoshis, the atomic units of a Bitcoin, with digital artifacts or machine-readable language. This process aligns with the immutable nature of the Bitcoin blockchain.</p>
+<p class="md-end-block md-p">The Bitcoin Ordinals project, initiated by Casey Rodarmor, a former blockchain developer at Chaincode Labs for Bitcoin Core, offers a new perspective on the concept of NFTs. The project documentation states, "Digital artifacts are permissionless. An NFT which cannot be sold without paying a royalty is not permissionless, and thus not a digital artifact." This distinction highlights the unique characteristics of Ordinals as opposed to traditional NFTs.</p>
+<p class="md-end-block md-p">As Binance adds support for Ordinals inscriptions to its NFT marketplace, users will have access to a new type of digital asset that is more closely tied to the Bitcoin blockchain. Unlike Ethereum-based NFTs, which often rely on off-chain data from the Interplanetary File System (IPFS), Bitcoin Ordinals do not require off-chain connections. This development represents a significant technical advancement within the digital asset space, addressing a previously unresolved (or, to some extent, unrealized) challenge in the Bitcoin blockchain.</p>
+<p class="md-end-block md-p">The process of creating Ordinals inscriptions involves inscribing satoshis with arbitrary content, resulting in bitcoin-native digital artifacts without the need for a sidechain or separate token. These inscribed satoshis can be transferred using bitcoin transactions, sent to bitcoin addresses, and held in bitcoin UTXOs. The transactions, addresses, and UTXOs are treated as normal bitcoin entities, with the exception that transactions must control the order and value of inputs and outputs according to ordinal theory.</p>
+<p class="md-end-block md-p">Binance's decision to support Ordinals inscriptions on its NFT marketplace is a testament to the growing interest and excitement surrounding this new form of digital asset. As Yuga Labs, the creator of the popular Bored Ape Yacht Club NFT collection, said, "Stepping into the Ordinals Discord a month ago felt like getting a glimpse of the 2017-era Ethereum NFT ecosystem. It&rsquo;s the type of energy and excitement we love."</p>
+<p class="md-end-block md-p md-focus">With the addition of Ordinals inscriptions to Binance's NFT marketplace, users can expect a more diverse range of digital assets available for trading and collecting. The integration of this innovative Bitcoin-based technology also signals the exchange's commitment to staying at the forefront of the rapidly evolving digital asset landscape. The support for Bitcoin Ordinals could be a harbinger of even more groundbreaking developments in the space.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p">&nbsp;</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p">Binance has announced plans to support Bitcoin Ordinals inscriptions on its NFT marketplace later this month. This move marks Binance's entry into the rapidly growing Bitcoin-based parallel NFT market.</p>
+<p class="md-end-block md-p">The update to Binance's NFT marketplace will be rolled out in the coming weeks, allowing users to buy and trade Ordinals inscriptions using their Binance accounts. In March, the NFT marketplace expanded its range of supported networks by adding select NFT collections from Polygon to the platform.</p>
+<p class="md-end-block md-p">Binance's Head of Product, Mayur Kamat, sees the prepared listing to be a significant development. Kamat commented:</p>
+
+<p class="md-end-block md-p">"Bitcoin is the OG of crypto. We believe things are just getting started here and can't wait to see what the future holds in this space."</p>
+
+<p class="md-end-block md-p">Several inscriptions marketplaces have emerged as a result of Ordinals' initial surge in popularity, including Ordswap, Ordinals Market, and Ordinals Wallet. Magic Eden, the largest Solana NFT marketplace, was the first among established platforms to enter the Ordinals market, launching an inscriptions marketplace in March.</p>
+<p class="md-end-block md-p">Binance's NFT marketplace announcement comes just days after the exchange temporarily paused Bitcoin withdrawals due to network congestion, while its competitors remained fully operational. The pause occurred when Bitcoin transaction fees were at a high, and the network's mempool&mdash;where transactions wait to be verified&mdash;was heavily backlogged.</p>
+<p class="md-end-block md-p">Many in crypto Twitter (CT) believe that transactions related to BRC-20 tokens were contributing to the network congestion. BRC-20 tokens, which are built and traded using Ordinals, use text-based inscriptions instead of image-based ones, just like Bitcoin NFTs. Currently, Binance's Bitcoin NFT marketplace does not support BRC-20 tokens.</p>
+<p class="md-end-block md-p">In recent weeks, image-based inscriptions have been eclipsed by Bitcoin-based tokens and text-based inscriptions. On Sunday, 99.7% of inscriptions made through Ordinals were text-based, according to a Dune dashboard. Simultaneously, 65% of all Bitcoin transactions were related to BRC-20 tokens, as reported by another Dune dashboard.</p>
+<p class="md-end-block md-p">The excitement surrounding BRC-20 tokens intensified on Monday as Ordi, the first BRC-20 token launched as an experiment in March, was listed on cryptocurrency exchanges Crypto.com and Gate.io. Binance's support for Ordinals inscriptions signals its commitment to staying at the forefront of the ever-evolving cryptocurrency landscape.</p>
+<p class="md-end-block md-p">The addition of Ordinals inscriptions to Binance's NFT marketplace represents a significant milestone in the expansion of digital assets on the Bitcoin blockchain. As we dive deeper into the world of Ordinals and the underlying technology, it's important to understand how this development will impact Binance users and the broader cryptocurrency ecosystem.</p>
+<p class="md-end-block md-p">Ordinals inscriptions on the Bitcoin blockchain are often referred to as "digital artifacts," and they represent a different approach to NFTs compared to the more familiar Ethereum-based NFTs. Ordinals are created by inscribing satoshis, the atomic units of a Bitcoin, with digital artifacts or machine-readable language. This process aligns with the immutable nature of the Bitcoin blockchain.</p>
+<p class="md-end-block md-p">The Bitcoin Ordinals project, initiated by Casey Rodarmor, a former blockchain developer at Chaincode Labs for Bitcoin Core, offers a new perspective on the concept of NFTs. The project documentation states, "Digital artifacts are permissionless. An NFT which cannot be sold without paying a royalty is not permissionless, and thus not a digital artifact." This distinction highlights the unique characteristics of Ordinals as opposed to traditional NFTs.</p>
+<p class="md-end-block md-p">As Binance adds support for Ordinals inscriptions to its NFT marketplace, users will have access to a new type of digital asset that is more closely tied to the Bitcoin blockchain. Unlike Ethereum-based NFTs, which often rely on off-chain data from the Interplanetary File System (IPFS), Bitcoin Ordinals do not require off-chain connections. This development represents a significant technical advancement within the digital asset space, addressing a previously unresolved (or, to some extent, unrealized) challenge in the Bitcoin blockchain.</p>
+<p class="md-end-block md-p">The process of creating Ordinals inscriptions involves inscribing satoshis with arbitrary content, resulting in bitcoin-native digital artifacts without the need for a sidechain or separate token. These inscribed satoshis can be transferred using bitcoin transactions, sent to bitcoin addresses, and held in bitcoin UTXOs. The transactions, addresses, and UTXOs are treated as normal bitcoin entities, with the exception that transactions must control the order and value of inputs and outputs according to ordinal theory.</p>
+<p class="md-end-block md-p">Binance's decision to support Ordinals inscriptions on its NFT marketplace is a testament to the growing interest and excitement surrounding this new form of digital asset. As Yuga Labs, the creator of the popular Bored Ape Yacht Club NFT collection, said, "Stepping into the Ordinals Discord a month ago felt like getting a glimpse of the 2017-era Ethereum NFT ecosystem. It&rsquo;s the type of energy and excitement we love."</p>
+<p class="md-end-block md-p md-focus">With the addition of Ordinals inscriptions to Binance's NFT marketplace, users can expect a more diverse range of digital assets available for trading and collecting. The integration of this innovative Bitcoin-based technology also signals the exchange's commitment to staying at the forefront of the rapidly evolving digital asset landscape. The support for Bitcoin Ordinals could be a harbinger of even more groundbreaking developments in the space.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p">&nbsp;</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Yesports Announces 14-day Staking Extravaganza for Pepe Meme Token Holders]]></title>
 			  <link>https://cryptodaily.co.uk/2023/05/yesports-announces-14-day-staking-extravaganza-for-pepe-meme-token-holders</link>
 			  <media:content url="https://app.chainwire.org/storage/uploads/users/2023-05-10_064629_16836940288SPUp2Ncxj.jpg" medium="image" />
@@ -848,46 +898,6 @@ MakerDAO&rsquo;s New Constitution&nbsp;
 <p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
 <p class="md-end-block md-p">&nbsp;</p>
 <p class="md-end-block md-p md-focus">&nbsp;</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Paxful Resumes Marketplace Operations With Better Security]]></title>
-			  <link>https://cryptodaily.co.uk/2023/05/paxful-resumes-marketplace-operations-with-better-security</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/paxful-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/paxful-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/paxful-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Tue, 09 May 2023 07:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/05/paxful-resumes-marketplace-operations-with-better-security</guid>
-			  <description><![CDATA[<p class="md-end-block md-p">After being offline for more than 30 days, peer-to-peer (P2P) crypto marketplace Paxful has announced the relaunch of its platform, emphasizing enhanced safety and security for users.</p>
-<p class="md-end-block md-p md-focus">Paxful had suspended operations in April due to allegations of misappropriation of company funds, money laundering, and evasion of US sanctions against Russia, involving CEO Ray Youssef and co-founder Artur Schaback.</p>
-
-<p dir="ltr" lang="en">𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 𝐍𝐄𝐖𝐒: Paxful is back online.Over the next couple of days, we'll be gradually restoring functionality to the marketplace.Thank you to everyone for your support!🧡 https://t.co/UApEgHxLg5</p>
-&mdash; Paxful (@paxful) May 8, 2023
-<p>
-
-</p>
-<p class="md-end-block md-p md-focus">Through an update on its website, Paxful stated that its wallet remained fullyy operational during the suspension period, though the company did not clarify how it plans to move forward.&nbsp;</p>
-
-<p class="md-end-block md-p">"Over the last month, our team has worked diligently to get the marketplace back online with the safety and security of users paramount. [...] We know it has been a difficult time for many of our users, who were understandably surprised by the sudden suspension, however, we are delighted to be back so that we can continue to serve millions of people without financial access," the firm said.</p>
-
-<p class="md-end-block md-p">During the suspension, Youssef took to Twitter to announce his final act as CEO by unfreezing 88% of certain users' accounts. However, he is still listed as CEO on the company's website. Amid the turmoil, Youssef has reportedly collaborated with Block's TBD division to launch a P2P crypto trading platform called Civilization Kit (Civ Kit), built on the Nostr decentralized network that enables encrypted end-to-end private messaging.</p>
-<p class="md-end-block md-p">The company acknowledges the difficulties users faced during the suspension, but also expressed excitement at being able to serve millions of people without financial access once more. With the relaunch, Paxful aims to continue offering its users various ways to make money, send money, make payments, and build businesses. The company is committed to building a platform that serves the financial needs of its users while ensuring a secure and reliable trading environment.</p>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p class="md-end-block md-p">After being offline for more than 30 days, peer-to-peer (P2P) crypto marketplace Paxful has announced the relaunch of its platform, emphasizing enhanced safety and security for users.</p>
-<p class="md-end-block md-p md-focus">Paxful had suspended operations in April due to allegations of misappropriation of company funds, money laundering, and evasion of US sanctions against Russia, involving CEO Ray Youssef and co-founder Artur Schaback.</p>
-
-<p dir="ltr" lang="en">𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 𝐍𝐄𝐖𝐒: Paxful is back online.Over the next couple of days, we'll be gradually restoring functionality to the marketplace.Thank you to everyone for your support!🧡 https://t.co/UApEgHxLg5</p>
-&mdash; Paxful (@paxful) May 8, 2023
-<p>
-
-</p>
-<p class="md-end-block md-p md-focus">Through an update on its website, Paxful stated that its wallet remained fullyy operational during the suspension period, though the company did not clarify how it plans to move forward.&nbsp;</p>
-
-<p class="md-end-block md-p">"Over the last month, our team has worked diligently to get the marketplace back online with the safety and security of users paramount. [...] We know it has been a difficult time for many of our users, who were understandably surprised by the sudden suspension, however, we are delighted to be back so that we can continue to serve millions of people without financial access," the firm said.</p>
-
-<p class="md-end-block md-p">During the suspension, Youssef took to Twitter to announce his final act as CEO by unfreezing 88% of certain users' accounts. However, he is still listed as CEO on the company's website. Amid the turmoil, Youssef has reportedly collaborated with Block's TBD division to launch a P2P crypto trading platform called Civilization Kit (Civ Kit), built on the Nostr decentralized network that enables encrypted end-to-end private messaging.</p>
-<p class="md-end-block md-p">The company acknowledges the difficulties users faced during the suspension, but also expressed excitement at being able to serve millions of people without financial access once more. With the relaunch, Paxful aims to continue offering its users various ways to make money, send money, make payments, and build businesses. The company is committed to building a platform that serves the financial needs of its users while ensuring a secure and reliable trading environment.</p>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
 	</channel>
