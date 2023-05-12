@@ -12,7 +12,7 @@
 	<atom:link href="https://news.coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://news.coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 12 May 2023 08:20:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 May 2023 08:38:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,97 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google Now Supports To Display Ethereum Wallet Balance</title>
+		<link>https://news.coincu.com/186927-google-chrome-supports-display-ethereum/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 08:38:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Etherscan]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=186927</guid>
+
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-511.png" class="webfeedsFeaturedVisual wp-post-image" alt="Google Now Supports To Display Ethereum Wallet Balance" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Google Now Supports To Display Ethereum Wallet Balance 1">Google Chrome added a feature that when Google searches for an Ethereum address, the search results will display the Ethereum balance.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-511.png" class="webfeedsFeaturedVisual wp-post-image" alt="Google Now Supports To Display Ethereum Wallet Balance" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Google Now Supports To Display Ethereum Wallet Balance 4">
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Google Chrome added a feature that when Google searches for an Ethereum address, the search results will display the Ethereum balance.</em></li>
+
+
+
+<li><em>The team also uses Google Cloud&#8217;s BigQuery public dataset to research token balances, which will later allow querying Ethereum wallet addresses.</em></li>
+
+
+
+<li><em>This function does not currently support searching with ENS domain names.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Nalin, the product manager for Google Cloud Web3, revealed that Google Chrome has now completely released a feature, which means that when Google searches for an Ethereum address, the search results will show the Ethereum balance as well as a link to Etherscan.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-510.png"><img decoding="async" width="780" height="450" src="https://news.coincu.com/wp-content/uploads/2023/05/image-510.png" alt="Google Now Supports To Display Ethereum Wallet Balance" class="wp-image-186948" title="Google Now Supports To Display Ethereum Wallet Balance 2"></a></figure></div>
+
+
+<p>The Google team is now doing research on token balances using Google Cloud&#8217;s BigQuery public dataset, which will subsequently enable searching Ethereum wallet addresses and visualizing wallet holdings (including ERC20, ERC 721, ERC1155, etc.). Also, this feature presently does not enable searching with ENS domain names.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It&#39;s fully launched now! You can search any Ethereum address in Google and you&#39;ll see the Ethereum balance right in search results (alongside a link to Etherscan)</p>&mdash; nalin <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@nalin) <a href="https://twitter.com/nalin/status/1656753830862942208?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 11, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>When searching for Vitalik Buterin&#8217;s address &#8220;0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045,&#8221; the top content of the search provides the address&#8217;s balance and a link to Etherscan, as confirmed by Coincu (as shown in the figure). It should be noted that these two functionalities must be configured to the Google browser&#8217;s English page.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34.png"><img decoding="async" width="1024" height="473" src="https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-1024x473.png" alt="Google Now Supports To Display Ethereum Wallet Balance" class="wp-image-186950" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-1024x473.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-300x139.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-768x355.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-750x347.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34-1140x527.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Screenshot-2023-05-12-at-15.37.34.png 1450w" sizes="(max-width: 1024px) 100vw, 1024px" title="Google Now Supports To Display Ethereum Wallet Balance 3"></a></figure></div>
+
+
+<p>Previously, the Web2 platform <a href="https://news.coincu.com/132820-you-now-can-search-for-an-ethereum-address-on-google/" target="_blank" rel="noreferrer noopener">supported</a> displaying the Ethereum value of a specified wallet address, but shortly after that, it was removed.</p>
+
+
+
+<p>The volume of ETH on exchanges has decreased by roughly 10% since the beginning of the year. Furthermore, following the FTX collapse in late 2022, there was a massive exodus of Ethereum from exchanges. With so many income prospects accessible in the Ethereum ecosystem, it makes little sense to leave it on an exchange. Moreover, a considerable portion of the ETH leaving exchanges has gone to self-custody and staking.</p>
+
+
+
+<p>According to other reports, the Ethereum mainnet was unable to properly confirm transactions for around 25 minutes on Thursday, with blocks suggested but not finished.</p>
+
+
+
+<p>After around 25 minutes, the mainnet was once again completing blocks. The developers said that they are currently researching what caused the outage and would provide an update to the community as soon as possible.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware</title>
 		<link>https://news.coincu.com/186937-ladys-3-7m-on-exchanges-warning-beware/</link>
 		
@@ -44,8 +135,8 @@
 		<category><![CDATA[NFT]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186937</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 1">9 suspicious addresses transferred a total of 26 trillion LADYS (worth $3.7 million) to the exchange yesterday.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 4">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 5">9 suspicious addresses transferred a total of 26 trillion LADYS (worth $3.7 million) to the exchange yesterday.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-18-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 8">
 <p><strong>Key Points:</strong></p>
 
 
@@ -64,7 +155,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-509.png"><img decoding="async" width="640" height="360" src="https://news.coincu.com/wp-content/uploads/2023/05/image-509.png" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" class="wp-image-186945" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-509.png"><img decoding="async" width="640" height="360" src="https://news.coincu.com/wp-content/uploads/2023/05/image-509.png" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" class="wp-image-186945" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <h5 class="wp-block-heading"><strong>On-chain analyst Lookonchain tweeted that 9 suspicious addresses transferred a total of 26 trillion <a href="https://news.coincu.com/186682-address-buy-ladys-before-elon-musk/" target="_blank" rel="noreferrer noopener">LADYS</a> (worth $3.7 million) to the exchange yesterday. This can be an alarm of token dumping after the time investors achieve desirable profits.</strong></h5>
@@ -93,7 +184,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-508.png"><img decoding="async" width="2346" height="965" src="https://news.coincu.com/wp-content/uploads/2023/05/image-508.png" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" class="wp-image-186941" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 3"></a><figcaption class="wp-element-caption">24h LADYS price chart. Source: CoinMarketCap</figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-508.png"><img decoding="async" width="2346" height="965" src="https://news.coincu.com/wp-content/uploads/2023/05/image-508.png" alt="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware" class="wp-image-186941" title="26 Trillion LADYS Worth $3.7M On Exchanges, Warning Investors Beware 7"></a><figcaption class="wp-element-caption">24h LADYS price chart. Source: CoinMarketCap</figcaption></figure></div>
 
 
 <p>Memecoins have always been an area of venture capital in the crypto industry. The nature of the price increase of the memecoin comes from the hype of the community. Therefore, even though it can reap huge profits in a short time, for slow-moving investors it is a warning of loss.</p>
@@ -131,8 +222,8 @@
 		<category><![CDATA[Yubo Ruan]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186924</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-507.png" class="webfeedsFeaturedVisual wp-post-image" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 5">The ParaSpace team continues to argue about solving the platform's problems after depriving CEO Yubo Ruan.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-507.png" class="webfeedsFeaturedVisual wp-post-image" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 7">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-507.png" class="webfeedsFeaturedVisual wp-post-image" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 9">The ParaSpace team continues to argue about solving the platform's problems after depriving CEO Yubo Ruan.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-507.png" class="webfeedsFeaturedVisual wp-post-image" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 11">
 <p><strong>Key Points:</strong></p>
 
 
@@ -155,7 +246,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png"><img decoding="async" width="909" height="537" src="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" class="wp-image-186936" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png 909w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-300x177.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-768x454.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-750x443.png 750w" sizes="(max-width: 909px) 100vw, 909px" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 6"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png"><img decoding="async" width="909" height="537" src="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png" alt="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest" class="wp-image-186936" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-506.png 909w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-300x177.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-768x454.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-506-750x443.png 750w" sizes="(max-width: 909px) 100vw, 909px" title="ParaSpace Team To Promote Immediate Action To Tackle Platform Interest 10"></a></figure></div>
 
 
 <p>The team has agreed to make the 3rd party moderated meeting with Ruan and all multi-sig signatories accessible for everyone to listen in on Twitter Spaces.</p>
@@ -226,8 +317,8 @@
 		<category><![CDATA[SpartaDEX]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186917</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 8">SpartaDEX combines the first decentralized cryptocurrency exchange and strategy game on the Arbitrum network.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 13">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 12">SpartaDEX combines the first decentralized cryptocurrency exchange and strategy game on the Arbitrum network.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-17-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 17">
 <h5 class="wp-block-heading"><strong>The arrival of SpartaDex broke this perception. It is no longer a mere reuse of DeFi logic, but the behavioral logic of the DEX is reflected in the game&#8217;s behavior, creating a product that is both DeFi and GameFi. Users can not only test it from a DeFi perspective but also experience it as a gamer. So what is SpartaDex? Let&#8217;s find out through the article below.</strong></h5>
 
 
@@ -236,7 +327,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-502.png"><img decoding="async" width="1920" height="1080" src="https://news.coincu.com/wp-content/uploads/2023/05/image-502.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186929" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-502.png"><img decoding="async" width="1920" height="1080" src="https://news.coincu.com/wp-content/uploads/2023/05/image-502.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186929" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>SpartaDEX combines a decentralized cryptocurrency exchange and a real-time strategy game set in ancient Greece. This is the first gamified<a href="https://news.coincu.com/184009-chronos-arbitrum-based-dex/" target="_blank" rel="noreferrer noopener"> DEX</a> on Arbitrum to increase user engagement by incorporating video game elements, helping foster loyalty and incentivize more liquidity.</p>
@@ -259,7 +350,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-503.png"><img decoding="async" width="1024" height="569" src="https://news.coincu.com/wp-content/uploads/2023/05/image-503-1024x569.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186930" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-503-1024x569.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-300x167.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-768x426.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-1536x853.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-750x416.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-1140x633.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-503.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-503.png"><img decoding="async" width="1024" height="569" src="https://news.coincu.com/wp-content/uploads/2023/05/image-503-1024x569.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186930" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-503-1024x569.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-300x167.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-768x426.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-1536x853.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-750x416.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-503-1140x633.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-503.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>DEX has 2 modes: gamified and normal. This duality allows users to make swaps through a simple and intuitive interface without entering the game layer.</p>
@@ -324,7 +415,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-504.png"><img decoding="async" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-504-1024x576.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186931" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-504-1024x576.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-300x169.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-768x432.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-1536x864.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-750x422.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-1140x641.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-504.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-504.png"><img decoding="async" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-504-1024x576.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186931" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-504-1024x576.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-300x169.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-768x432.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-1536x864.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-750x422.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-504-1140x641.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-504.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>As a gaming DeFi exchange, SpartaDEX monetizes both the dex and the game itself. The platform&#8217;s revenue sources include:</p>
@@ -361,7 +452,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-505.png"><img decoding="async" width="1024" height="520" src="https://news.coincu.com/wp-content/uploads/2023/05/image-505-1024x520.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186932" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-505-1024x520.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-300x152.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-768x390.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-750x381.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-1140x578.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-505.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-505.png"><img decoding="async" width="1024" height="520" src="https://news.coincu.com/wp-content/uploads/2023/05/image-505-1024x520.png" alt="SpartaDex Review: The First Gaming DEX on the Arbitrum Network" class="wp-image-186932" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-505-1024x520.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-300x152.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-768x390.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-750x381.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-505-1140x578.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-505.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpartaDex Review: The First Gaming DEX On The Arbitrum Network 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Some utilities:</p>
@@ -566,8 +657,8 @@
 		<category><![CDATA[Ethereum]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186913</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-501.png" class="webfeedsFeaturedVisual wp-post-image" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 14">The Arbitrum community has dispersed a percentage of the DAO's earnings to ARB token holders in accordance with the number of tokens each bearer has delegated.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-501.png" class="webfeedsFeaturedVisual wp-post-image" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 16">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-501.png" class="webfeedsFeaturedVisual wp-post-image" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 18">The Arbitrum community has dispersed a percentage of the DAO's earnings to ARB token holders in accordance with the number of tokens each bearer has delegated.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-501.png" class="webfeedsFeaturedVisual wp-post-image" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 20">
 <p><strong>Key Points:</strong></p>
 
 
@@ -586,7 +677,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-500.png"><img decoding="async" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-500-1024x576.png" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" class="wp-image-186920" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-500-1024x576.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-300x169.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-768x432.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-1536x864.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-750x422.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-1140x641.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-500.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 15"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-500.png"><img decoding="async" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-500-1024x576.png" alt="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue" class="wp-image-186920" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-500-1024x576.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-300x169.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-768x432.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-1536x864.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-750x422.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-500-1140x641.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-500.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Arbitrum DAO&#039;s New Proposal To Distribute 3,350 ETH In Fee Revenue 19"></a></figure></div>
 
 
 <p>Arbitrum will give 3,352 ETH to its DAO, totaling more than $6 million, as part of the fees produced incentives.</p>
@@ -649,8 +740,8 @@
 		<category><![CDATA[Uniswap]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186910</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-499.png" class="webfeedsFeaturedVisual wp-post-image" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 17">Uniswap still looks to be slightly ahead of Coinbase, with trading volume surpassing the largest US exchange for the 4th time in a row.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-499.png" class="webfeedsFeaturedVisual wp-post-image" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 19">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-499.png" class="webfeedsFeaturedVisual wp-post-image" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 21">Uniswap still looks to be slightly ahead of Coinbase, with trading volume surpassing the largest US exchange for the 4th time in a row.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-499.png" class="webfeedsFeaturedVisual wp-post-image" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 23">
 <p><strong>Key Points:</strong></p>
 
 
@@ -673,7 +764,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-498.png"><img decoding="async" width="1024" height="512" src="https://news.coincu.com/wp-content/uploads/2023/05/image-498-1024x512.png" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" class="wp-image-186915" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-498-1024x512.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-300x150.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-768x384.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-1536x768.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-360x180.png 360w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-750x375.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-1140x570.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-498.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 18"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-498.png"><img decoding="async" width="1024" height="512" src="https://news.coincu.com/wp-content/uploads/2023/05/image-498-1024x512.png" alt="Uniswap Overtakes Coinbase For The 4th Time In A Row" class="wp-image-186915" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-498-1024x512.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-300x150.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-768x384.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-1536x768.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-360x180.png 360w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-750x375.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-498-1140x570.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-498.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Uniswap Overtakes Coinbase For The 4th Time In A Row 22"></a></figure></div>
 
 
 <p>According to <a href="https://defillama.com/protocol/uniswap" target="_blank" rel="noreferrer noopener">DeFiLlama</a> and <a href="https://www.coingecko.com/en/exchanges/coinbase-exchange#statistics" target="_blank" rel="noreferrer noopener">CoinGecko</a> statistics, both platforms had roughly $1.2 billion in volume on May 4, but Uniswap grew to $2.2 billion the following day, compared to Coinbase&#8217;s $1.3 billion.</p>
@@ -740,8 +831,8 @@
 		<category><![CDATA[Twitter]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186899</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-496.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 20">Elon Musk announced on Thursday that he has selected a new CEO for Twitter.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-496.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 23">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-496.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 24">Elon Musk announced on Thursday that he has selected a new CEO for Twitter.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-496-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-496-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-496.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 27">
 <p><strong>Key Points:</strong></p>
 
 
@@ -764,7 +855,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-495.png"><img decoding="async" width="1024" height="614" src="https://news.coincu.com/wp-content/uploads/2023/05/image-495-1024x614.png" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" class="wp-image-186906" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-495-1024x614.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-300x180.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-768x461.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-750x450.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-1140x684.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-495.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 21"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-495.png"><img decoding="async" width="1024" height="614" src="https://news.coincu.com/wp-content/uploads/2023/05/image-495-1024x614.png" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" class="wp-image-186906" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-495-1024x614.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-300x180.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-768x461.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-750x450.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-495-1140x684.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-495.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 25"></a></figure></div>
 
 
 <p>Musk, who purchased Twitter last autumn and has been operating it since then, has often said that he is not the company&#8217;s permanent CEO. In a tweet on Thursday, the Tesla billionaire announced that he would become Twitter&#8217;s executive chairman and chief technical officer.</p>
@@ -787,7 +878,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-497.png"><img decoding="async" width="1200" height="800" src="https://news.coincu.com/wp-content/uploads/2023/05/image-497.png" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" class="wp-image-186908" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 22"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-497.png"><img decoding="async" width="1200" height="800" src="https://news.coincu.com/wp-content/uploads/2023/05/image-497.png" alt="Twitter Will Have New CEO As Elon Musk Resigns From His Position" class="wp-image-186908" title="Twitter Will Have New CEO As Elon Musk Resigns From His Position 26"></a></figure></div>
 
 
 <p>The new CEO, who has yet to be chosen, will begin work in around six weeks. According to the <em><a href="https://www.wsj.com/articles/linda-yaccarino-in-talks-new-twitter-ceo-elon-musk-7a006bb5" target="_blank" rel="noreferrer noopener">Wall Street Journal</a></em>, this individual might be Linda Yaccarino, NBC Universal&#8217;s advertising business director. She was once the CEO of a Silicon Valley startup and a Hollywood executive. Linda interviewed Musk at a Miami event this month.</p>
@@ -838,8 +929,8 @@
 		<category><![CDATA[Ukraine]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186897</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="IRS Supports Ukraine In Crypto War Against Russia" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-493.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="IRS Supports Ukraine In Crypto War Against Russia 24">In pursuing sanctions evaders, the IRS criminal investigative division is increasing engagement with peers abroad.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="IRS Supports Ukraine In Crypto War Against Russia" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-493.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="IRS Supports Ukraine In Crypto War Against Russia 27">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="IRS Supports Ukraine In Crypto War Against Russia" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-493.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="IRS Supports Ukraine In Crypto War Against Russia 28">In pursuing sanctions evaders, the IRS criminal investigative division is increasing engagement with peers abroad.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="IRS Supports Ukraine In Crypto War Against Russia" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-493-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-493-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-493.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="IRS Supports Ukraine In Crypto War Against Russia 31">
 <p><strong>Key Points:</strong></p>
 
 
@@ -862,7 +953,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-492.png"><img decoding="async" width="2048" height="1365" src="https://news.coincu.com/wp-content/uploads/2023/05/image-492.png" alt="IRS Supports Ukraine In Crypto War Against Russia" class="wp-image-186901" title="IRS Supports Ukraine In Crypto War Against Russia 25"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-492.png"><img decoding="async" width="2048" height="1365" src="https://news.coincu.com/wp-content/uploads/2023/05/image-492.png" alt="IRS Supports Ukraine In Crypto War Against Russia" class="wp-image-186901" title="IRS Supports Ukraine In Crypto War Against Russia 29"></a></figure></div>
 
 
 <p>In the midst of Russia&#8217;s continuing invasion of Ukraine, the US and its private sector allies seek to assist Ukrainian authorities in preventing Russian actors from utilizing cryptocurrency to avoid sanctions, something European authorities have previously attempted to address.</p>
@@ -891,7 +982,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-494.png"><img decoding="async" width="1200" height="575" src="https://news.coincu.com/wp-content/uploads/2023/05/image-494.png" alt="IRS Supports Ukraine In Crypto War Against Russia" class="wp-image-186903" title="IRS Supports Ukraine In Crypto War Against Russia 26"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-494.png"><img decoding="async" width="1200" height="575" src="https://news.coincu.com/wp-content/uploads/2023/05/image-494.png" alt="IRS Supports Ukraine In Crypto War Against Russia" class="wp-image-186903" title="IRS Supports Ukraine In Crypto War Against Russia 30"></a></figure></div>
 
 
 <p>Following Russia&#8217;s invasion of Ukraine, the nations have utilized cryptocurrency to fund military operations, avoid sanctions, and aid humanitarian missions. Data suggests that cryptocurrency is not playing a significant part in Russia&#8217;s military effort. Yet, US politicians are worried that Russian billionaires may be exploiting crypto to avoid US and European economic sanctions.</p>
@@ -929,8 +1020,8 @@
 		<category><![CDATA[US Chamber of Commerce]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186878</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-490.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 28">While Coinbase attempts to get the SEC to respond to digital asset legislation, crypto groups step in.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-490.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 31">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-490.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 32">While Coinbase attempts to get the SEC to respond to digital asset legislation, crypto groups step in.]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-490-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-490-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/image-490.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 35">
 <p><strong>Key Points:</strong></p>
 
 
@@ -949,7 +1040,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-489.png"><img decoding="async" width="1200" height="675" src="https://news.coincu.com/wp-content/uploads/2023/05/image-489.png" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" class="wp-image-186892" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 29"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-489.png"><img decoding="async" width="1200" height="675" src="https://news.coincu.com/wp-content/uploads/2023/05/image-489.png" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" class="wp-image-186892" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 33"></a></figure></div>
 
 
 <p>Many crypto organizations have joined the U.S.-based exchange in a series of &#8220;amicus&#8221; filings filed this week, claiming that the SEC is purposely ruining the new sector by insisting that there is nothing unusual or exceptional about crypto that deserves alternative treatment under securities rules.</p>
@@ -974,7 +1065,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-491.png"><img decoding="async" width="1200" height="600" src="https://news.coincu.com/wp-content/uploads/2023/05/image-491.png" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" class="wp-image-186894" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 30"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-491.png"><img decoding="async" width="1200" height="600" src="https://news.coincu.com/wp-content/uploads/2023/05/image-491.png" alt="SEC vs. Coinbase: The Agency Is Criticized As A Bully" class="wp-image-186894" title="SEC vs. Coinbase: The Agency Is Criticized As A Bully 34"></a></figure></div>
 
 
 <p>Coinbase now has the backing of one of the world&#8217;s top commercial groups. According to its website, the US Chamber of Commerce serves the interests of more than 3 million companies and organizations throughout the nation, ranging from local firms to worldwide corporations.</p>
@@ -1035,8 +1126,8 @@
 		<category><![CDATA[Silvergate Capital]]></category>
 		<guid isPermaLink="false">https://news.coincu.com/?p=186884</guid>
 
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 32">Key points: Silvergate Capital shares are suspended from trading on the New York Stock Exchange (NYSE) on Wednesday, a large number of staffing will be cut today. On Thursday, the New York Stock Exchange announced delisting proceedings for Silvergate stock, citing delayed financial reports. The failed bank said in March that it would be shutting [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 35">
+					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 36">Key points: Silvergate Capital shares are suspended from trading on the New York Stock Exchange (NYSE) on Wednesday, a large number of staffing will be cut today. On Thursday, the New York Stock Exchange announced delisting proceedings for Silvergate stock, citing delayed financial reports. The failed bank said in March that it would be shutting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-16-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 39">
 <p><strong>Key points:</strong></p>
 
 
@@ -1059,7 +1150,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-487.png"><img decoding="async" width="1024" height="683" src="https://news.coincu.com/wp-content/uploads/2023/05/image-487-1024x683.png" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" class="wp-image-186887" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-487-1024x683.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-300x200.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-768x512.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-1536x1024.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-2048x1365.png 2048w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-750x500.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-1140x760.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 33"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-487.png"><img decoding="async" width="1024" height="683" src="https://news.coincu.com/wp-content/uploads/2023/05/image-487-1024x683.png" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" class="wp-image-186887" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-487-1024x683.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-300x200.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-768x512.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-1536x1024.png 1536w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-2048x1365.png 2048w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-750x500.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/image-487-1140x760.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 37"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>On Thursday, the New York Stock Exchange announced delisting proceedings for Silvergate stock, citing delayed financial reports.</p>
@@ -1082,7 +1173,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png"><img decoding="async" width="685" height="437" src="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" class="wp-image-186888" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png 685w, https://news.coincu.com/wp-content/uploads/2023/05/image-488-300x191.png 300w" sizes="(max-width: 685px) 100vw, 685px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 34"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png"><img decoding="async" width="685" height="437" src="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png" alt="NYSE Suspends Silvergate, 230 Jobs Will Be Cut" class="wp-image-186888" srcset="https://news.coincu.com/wp-content/uploads/2023/05/image-488.png 685w, https://news.coincu.com/wp-content/uploads/2023/05/image-488-300x191.png 300w" sizes="(max-width: 685px) 100vw, 685px" title="NYSE Suspends Silvergate, 230 Jobs Will Be Cut 38"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>In addition, in a separate SEC filing dated May 11, the bank also said it was unable to file the legally required financial statements for the fiscal year 2022 and the first quarter of 2023 and &#8220;did not expect to be able&#8221; to file any similar reports in the future. It determines that it is in the &#8220;best interests&#8221; of stakeholders to &#8220;minimize costs and expenses&#8221; to preserve value. The company added that some of the staff cuts included were &#8220;critical&#8221; in the preparation of these filings.</p>
@@ -1096,101 +1187,6 @@
 
 
 <p>On March 8, Silvergate Capital announced for the first time that it would voluntarily liquidate Silvergate Bank.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Foxy</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Binance US Looking To Sell Most Of Changpeng Zhao&#8217;s Shares: Report</title>
-		<link>https://news.coincu.com/186874-binance-us-sell-changpeng-zhaos-shares/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 12 May 2023 02:58:11 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[CFTC]]></category>
-		<category><![CDATA[Changpeng Zhao]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[CZ]]></category>
-		<guid isPermaLink="false">https://news.coincu.com/?p=186874</guid>
-
-					<description><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report 36">Binance US is working on founder Zhao Changpeng's strategy to reduce shareholding. CZ has been trying to sell his stake in the company since last summer.]]></description>
-										<content:encoded><![CDATA[<img width="1024" height="731" src="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1024x731.png" class="webfeedsFeaturedVisual wp-post-image" alt="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report" decoding="async" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" srcset="https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1024x731.png 1024w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-300x214.png 300w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-768x549.png 768w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-120x86.png 120w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-350x250.png 350w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-750x536.png 750w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1-1140x814.png 1140w, https://news.coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-15-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report 39">
-<p><strong>Key points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance US is looking to reduce the number of shares held by founder Changpeng Zhao (CZ).</em></li>
-
-
-
-<li><em>CZ has been trying to sell his stake in the company since last summer.</em></li>
-
-
-
-<li><em>The effort is said to be aimed at improving the exchange&#8217;s reputation with US regulators.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to <a href="https://www.theinformation.com/articles/binance-us-explores-ways-to-cut-founder-changpeng-zhaos-majority-stake" target="_blank" rel="noreferrer noopener">The Information</a>, Binance US is working on founder Zhao Changpeng&#8217;s strategy to reduce shareholding. Changpeng Zhao has been looking to sell his Binance US holdings since last summer.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-485.png"><img decoding="async" width="600" height="398" src="https://news.coincu.com/wp-content/uploads/2023/05/image-485.png" alt="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report" class="wp-image-186879" title="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report 37"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Executives at the US branch have considered accelerating CZ&#8217;s share reduction in recent weeks, ever since the Commodity Futures Trading Commission sued international crypto firm Binance and CZ for accused of violating US derivatives laws, which could help improve the company&#8217;s position in the eyes of US regulators.</p>
-
-
-
-<p>The company is worried it may not be able to obtain some of the regulatory licenses it wants in the US while Zhao remains in a critical position, the report added.</p>
-
-
-
-<p>In March, the United States Commodity Futures Trading Commission (CFTC) <a href="https://news.coincu.com/176792-breaking-binance-and-cz-sued-by-cftc/" target="_blank" rel="noreferrer noopener">sued</a> Binance and its CEO Zhao for operating what the regulator alleged was an &#8220;illegal&#8221; exchange and a &#8220;fake&#8221; compliance program.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-486.png"><img decoding="async" width="1280" height="720" src="https://news.coincu.com/wp-content/uploads/2023/05/image-486.png" alt="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report" class="wp-image-186880" title="Binance US Looking To Sell Most Of Changpeng Zhao&#039;s Shares: Report 38"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<blockquote class="wp-block-quote has-small-font-size">
-<p class="has-small-font-size">&#8220;The Commodity Futures Trading Commission today announced it has filed a civil enforcement action in the U.S. District Court for the Northern District of Illinois charging Changpeng Zhao and three entities that operate the Binance platform with numerous violations of the Commodity Exchange Act (CEA) and CFTC regulations. The complaint also charges Samuel Lim, Binance’s former chief compliance officer, with aiding and abetting Binance’s violations.&#8221;</p>
-</blockquote>
-
-
-
-<p>In the course of ongoing litigation against the defendants, the agency seeks discord, civil fines, permanent registration, and trading bans, and permanent injunctions for further violations of the laws regulations of the CEA and CFTC, as charged.</p>
-
-
-
-<p>Binance said the lawsuit was &#8220;unexpected and disappointing,&#8221; adding that it had made &#8220;substantial investments&#8221; over the past two years to ensure that US investors are not active on this platform.</p>
-
-
-
-<p>The crypto industry is going through a tough time as tight regulatory constraints threaten the survival of industry service companies. Regulatory actions continued to erupt in early March after the industry lost two of its most significant connections to the mainstream financial world &#8211; Silvergate and Signature Bank.</p>
 
 
 
