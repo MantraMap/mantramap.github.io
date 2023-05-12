@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Fri, 12 May 2023 08:00:03 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 12 May 2023 08:14:29 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,54 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Transaction Finality Issues Halt Ethereum Beacon Chain]]></title>
+			  <link>https://cryptodaily.co.uk/2023/05/transaction-finality-issues-halt-ethereum-beacon-chain</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/ethereum-shanghai-delayed-1.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/ethereum-shanghai-delayed-1.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/ethereum-shanghai-delayed-1.jpg" length="528" type="image/jpg" />
+			  <pubDate>Fri, 12 May 2023 08:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/05/transaction-finality-issues-halt-ethereum-beacon-chain</guid>
+			  <description><![CDATA[<p class="md-end-block md-p">Ethereum's Beacon Chain recently experienced a temporary issue, halting transaction finalization for roughly 25 minutes. Although new blocks could be proposed, a still unknown problem prevented them from being finalized.</p>
+<p class="md-end-block md-p md-focus">A similar issue already occurred on the Goerli testnet version of Ethereum's "Shapella" upgrade earlier in March. The Shapella upgrade which was successfully executed on the mainnet on April 12. The Beacon Chain, launched in 2020, represents Ethereum's original proof-of-stake blockchain. In September 2022, Ethereum's pre-existing proof-of-work chain "merged" with the Beacon Chain, completing the network's transition to a faster and more eco-friendly proof-of-stake consensus mechanism.</p>
+<p class="md-end-block md-p">Finality refers to the guarantee that cryptocurrency transactions cannot be altered, reversed, or canceled after completion, ensuring that the executed transactions on the blockchain will not be lost. Blockchain protocols typically display probabilistic transaction finality, with transactions becoming "more and more final" over time as more blocks are confirmed.</p>
+<p class="md-end-block md-p">Developers are still investigating the cause of the disruption on Ethereum's Beacon Chain. During the incident, the network's latency affected its finality rate, and validators encountered issues as the number of attestations received for Ethereum epochs 200,552 to 200,554 saw a sharp decline. The problem was resolved within 30 minutes, with transaction finality being restored.</p>
+<p class="md-end-block md-p md-focus">Following the 25-minute pause, Ethereum core developer and Prysmatic Labs co-founder Preston Van Loon announced that "finality has been restored."</p>
+
+<p dir="ltr" lang="en">Finality has been restored. We do not know the root cause yet, but something happened to cause several client implementations to work really hard to keep up with the chain.</p>
+&mdash; prestonvanloon.eth (@preston_vanloon) May 11, 2023
+
+<p class="md-end-block md-p md-focus">Data from blockchain analytics provider Beaconcha.in shows that Ethereum epochs 200,552 to 200,554 experienced a sudden decline in the number of attestations. Notably, Prysm was previously a supermajority client for Ethereum.</p>
+<p class="md-end-block md-p">The issue's cause remains unknown, but Ethereum developers are investigating the occurrence to prevent future occurrences. Ethereum Beacon Chain consultant Superphiz highlighted the importance of "client diversity" in mitigating the impact of such issues, emphasizing that a more secure and robust network for validators could be achieved with no client having more than 33% control.</p>
+
+<p class="md-end-block md-p">"Decentralization on all levels limits the impact of these events, regardless of what caused this we must continue hardening every vector," superphiz.eth shared.</p>
+
+<p class="md-end-block md-p">While the root cause remains unknown, Ethereum developers continue to examine the situation to prevent future occurrences.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p">Note: This story is currently developing and CryptoDaily will update this article with relevant information when available and as the matter unfolds.</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p">Ethereum's Beacon Chain recently experienced a temporary issue, halting transaction finalization for roughly 25 minutes. Although new blocks could be proposed, a still unknown problem prevented them from being finalized.</p>
+<p class="md-end-block md-p md-focus">A similar issue already occurred on the Goerli testnet version of Ethereum's "Shapella" upgrade earlier in March. The Shapella upgrade which was successfully executed on the mainnet on April 12. The Beacon Chain, launched in 2020, represents Ethereum's original proof-of-stake blockchain. In September 2022, Ethereum's pre-existing proof-of-work chain "merged" with the Beacon Chain, completing the network's transition to a faster and more eco-friendly proof-of-stake consensus mechanism.</p>
+<p class="md-end-block md-p">Finality refers to the guarantee that cryptocurrency transactions cannot be altered, reversed, or canceled after completion, ensuring that the executed transactions on the blockchain will not be lost. Blockchain protocols typically display probabilistic transaction finality, with transactions becoming "more and more final" over time as more blocks are confirmed.</p>
+<p class="md-end-block md-p">Developers are still investigating the cause of the disruption on Ethereum's Beacon Chain. During the incident, the network's latency affected its finality rate, and validators encountered issues as the number of attestations received for Ethereum epochs 200,552 to 200,554 saw a sharp decline. The problem was resolved within 30 minutes, with transaction finality being restored.</p>
+<p class="md-end-block md-p md-focus">Following the 25-minute pause, Ethereum core developer and Prysmatic Labs co-founder Preston Van Loon announced that "finality has been restored."</p>
+
+<p dir="ltr" lang="en">Finality has been restored. We do not know the root cause yet, but something happened to cause several client implementations to work really hard to keep up with the chain.</p>
+&mdash; prestonvanloon.eth (@preston_vanloon) May 11, 2023
+
+<p class="md-end-block md-p md-focus">Data from blockchain analytics provider Beaconcha.in shows that Ethereum epochs 200,552 to 200,554 experienced a sudden decline in the number of attestations. Notably, Prysm was previously a supermajority client for Ethereum.</p>
+<p class="md-end-block md-p">The issue's cause remains unknown, but Ethereum developers are investigating the occurrence to prevent future occurrences. Ethereum Beacon Chain consultant Superphiz highlighted the importance of "client diversity" in mitigating the impact of such issues, emphasizing that a more secure and robust network for validators could be achieved with no client having more than 33% control.</p>
+
+<p class="md-end-block md-p">"Decentralization on all levels limits the impact of these events, regardless of what caused this we must continue hardening every vector," superphiz.eth shared.</p>
+
+<p class="md-end-block md-p">While the root cause remains unknown, Ethereum developers continue to examine the situation to prevent future occurrences.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p">Note: This story is currently developing and CryptoDaily will update this article with relevant information when available and as the matter unfolds.</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[The Intersection of Internet Culture and Cryptocurrency; Exploring the Connection Between Pepe Meme and Bitcoin]]></title>
 			  <link>https://cryptodaily.co.uk/2023/05/the-intersection-of-internet-culture-and-cryptocurrency-exploring-the-connection-between-pepe-meme-and-bitcoin</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/screenshot-2023-05-11-at-224952.png" medium="image" />
@@ -905,40 +953,6 @@ Musk Launches AI For Crypto&nbsp;
 <p class="md-end-block md-p">Seek help if you need it. If you are struggling with your mental health, please reach out for help.</p>
 </li>
 </ul>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Flare Network Partners with Google Cloud for API Integrations]]></title>
-			  <link>https://cryptodaily.co.uk/2023/05/flare-network-partners-with-google-cloud-for-api-integrations</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/flare-x-google-cloud-h.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/flare-x-google-cloud-h.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/flare-x-google-cloud-h.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 11 May 2023 06:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/05/flare-network-partners-with-google-cloud-for-api-integrations</guid>
-			  <description><![CDATA[<p class="md-end-block md-p">Flare Network, a Ripple-supported Ethereum Virtual Machine (EVM) protocol, has announced its partnership with Google Cloud. The collaboration integrates Flare's API Portal with the Google Cloud Marketplace, making it accessible to anyone with a Google Cloud account.</p>
-<p class="md-end-block md-p md-focus">Flare Network, a Layer 1 blockchain protocol designed to offer developers decentralized access to high-integrity data from other chains and the internet, has taken a significant step forward by integrating its API Portal with the Google Cloud Marketplace. This move marks the introduction of some of the first blockchain APIs on the platform, providing developers with easy access to blockchain transactions and up-to-date state data from Flare's nodes and Connected Chain nodes.</p>
-<p class="md-end-block md-p md-focus">&nbsp;</p>
-
-<p dir="ltr" lang="en">#Flare has integrated its @APIPortal on @googlecloud Marketplace, launching some of the first #blockchain APIs on the platform. Developers can use the Marketplace to easily access nodes of the top blockchains, including BTC, ETH, BNB, XRP &amp; FLR.https://t.co/c3dFq6R0Oh</p>
-&mdash; Flare ☀️ (@FlareNetworks) May 3, 2023
-
-<p class="md-end-block md-p md-focus">&nbsp;</p>
-<p class="md-end-block md-p md-focus">The integration expands Google Cloud Marketplace's built-in support for blockchain APIs, now encompassing Algorand, Binance&rsquo;s BNB Smart Chain, Bitcoin, Dogecoin, Ethereum, Flare, Litecoin, Songbird, and XRP. Future blockchain APIs added to Flare's API Portal will also be accessible to Google Cloud developers.By leveraging blockvchain APIs, developers can create applications that perform transactions and query on-chain data relating to the chain's latest state without the need to run their own node for each blockchain they want to interact with. This feature is particularly useful when developing cross-chain applications that require data from multiople sources. Major exchanges and wallets utilize the API Portal as a safeguard for their infrastructure.</p>
-<p class="md-end-block md-p">The integration enables Google Cloud users to easily access all of Flare's current APIs through their existing Google Cloud account. Furthermore, expenses on Flare APIs through Google Cloud Marketplace can count towards a customer's committed spend on Google Cloud. Flare's VP of Engineering, Josh Edwards, highlighted the importance of the integration, stating that it reduces barriers to Web3 participation and enables developers to experiment with blockchain technology without incurring high hardware costs and maintenance.</p>
-<p class="md-end-block md-p">James Tromans, Head of Web3 Engineering at Google Cloud, expressed excitement about supporting and promoting Web3 partners in their ecosystem, citing Flare's high-performance APIs integration into the Marketplace. Flare's EVM-based Layer 1 aims to enhance the utility of blockchain by offering decentralized access to high-integrity data from other chains and Web2 sources. Every blockchain connected by Flare's data and interoperability infrastructure will ultimately be added to Google Cloud, granting developers access to the top 100 chains.</p>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p class="md-end-block md-p">Flare Network, a Ripple-supported Ethereum Virtual Machine (EVM) protocol, has announced its partnership with Google Cloud. The collaboration integrates Flare's API Portal with the Google Cloud Marketplace, making it accessible to anyone with a Google Cloud account.</p>
-<p class="md-end-block md-p md-focus">Flare Network, a Layer 1 blockchain protocol designed to offer developers decentralized access to high-integrity data from other chains and the internet, has taken a significant step forward by integrating its API Portal with the Google Cloud Marketplace. This move marks the introduction of some of the first blockchain APIs on the platform, providing developers with easy access to blockchain transactions and up-to-date state data from Flare's nodes and Connected Chain nodes.</p>
-<p class="md-end-block md-p md-focus">&nbsp;</p>
-
-<p dir="ltr" lang="en">#Flare has integrated its @APIPortal on @googlecloud Marketplace, launching some of the first #blockchain APIs on the platform. Developers can use the Marketplace to easily access nodes of the top blockchains, including BTC, ETH, BNB, XRP &amp; FLR.https://t.co/c3dFq6R0Oh</p>
-&mdash; Flare ☀️ (@FlareNetworks) May 3, 2023
-
-<p class="md-end-block md-p md-focus">&nbsp;</p>
-<p class="md-end-block md-p md-focus">The integration expands Google Cloud Marketplace's built-in support for blockchain APIs, now encompassing Algorand, Binance&rsquo;s BNB Smart Chain, Bitcoin, Dogecoin, Ethereum, Flare, Litecoin, Songbird, and XRP. Future blockchain APIs added to Flare's API Portal will also be accessible to Google Cloud developers.By leveraging blockvchain APIs, developers can create applications that perform transactions and query on-chain data relating to the chain's latest state without the need to run their own node for each blockchain they want to interact with. This feature is particularly useful when developing cross-chain applications that require data from multiople sources. Major exchanges and wallets utilize the API Portal as a safeguard for their infrastructure.</p>
-<p class="md-end-block md-p">The integration enables Google Cloud users to easily access all of Flare's current APIs through their existing Google Cloud account. Furthermore, expenses on Flare APIs through Google Cloud Marketplace can count towards a customer's committed spend on Google Cloud. Flare's VP of Engineering, Josh Edwards, highlighted the importance of the integration, stating that it reduces barriers to Web3 participation and enables developers to experiment with blockchain technology without incurring high hardware costs and maintenance.</p>
-<p class="md-end-block md-p">James Tromans, Head of Web3 Engineering at Google Cloud, expressed excitement about supporting and promoting Web3 partners in their ecosystem, citing Flare's high-performance APIs integration into the Marketplace. Flare's EVM-based Layer 1 aims to enhance the utility of blockchain by offering decentralized access to high-integrity data from other chains and Web2 sources. Every blockchain connected by Flare's data and interoperability infrastructure will ultimately be added to Google Cloud, granting developers access to the top 100 chains.</p>
 <p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
