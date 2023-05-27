@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Thu, 25 May 2023 18:56:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 May 2023 16:44:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gulf Binance Receives Green Light to Launch Digital Asset Exchange in Thailand</title>
+		<link>https://cryptobriefing.com/gulf-binance-receives-green-light/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Fri, 26 May 2023 16:44:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124319</guid>
+
+					<description><![CDATA[Binance announced partnership with Thailand&#8217;s Gulf Innova, acquiring the digital asset operator licenses from Thailands Ministry of Finance. This significant milestone paves the way for the company&#8217;s anticipated digital asset...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/07/02044634/binance-faces-regulatory-issues-cayman-thailand-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
 		<title>Bitcoin Network’s First-Ever BRC20 Stablecoin Launched: Stably USD</title>
 		<link>https://cryptobriefing.com/bitcoin-networks-first-ever-brc20-stablecoin/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -449,23 +463,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/14164701/sec-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Ethereum’s Shanghai Upgrade is Live</title>
-		<link>https://cryptobriefing.com/ethereums-shanghai-upgrade-is-live/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Thu, 13 Apr 2023 17:17:35 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Ethereun]]></category>
-		<category><![CDATA[Shanghai]]></category>
-		<category><![CDATA[staked ETH]]></category>
-		<category><![CDATA[the merge]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123984</guid>
-
-					<description><![CDATA[The long-awaited Shanghai upgrade is now live on Ethereum, meaning that validators can now withdraw their staked ETH from the network at their leisure. A Historic Moment for Ethereum Ethereum...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/09/20065225/ethereum-cover-4-1-838x440.jpg" width="838" height="440" />	</item>
 	</channel>
 </rss>
