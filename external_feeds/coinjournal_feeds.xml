@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Sun, 28 May 2023 15:22:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 20:57:22 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,384 +28,347 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Arbitrum-based Jimbos Protocol hacked for $7.5M, JIMBO price drops 40%</title>
-		<link>https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/</link>
-					<comments>https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/#respond</comments>
+		<title>CoinEx launches BitHK trading platform for Hong Kong users</title>
+		<link>https://coinjournal.net/news/coinex-launches-bithk-trading-platform-for-hong-kong-users/</link>
 		
 		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Sun, 28 May 2023 15:22:56 +0000</pubDate>
-				<category><![CDATA[Crime]]></category>
-		<category><![CDATA[DeFi News]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/</guid>
+		<pubDate>Mon, 29 May 2023 20:57:21 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Crypto exchange]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/coinex-launches-bithk-trading-platform-for-hong-kong-users/</guid>
 
-					<description><![CDATA[<p>The Jimbos Protocol team acknowledged the hack and said it had contacted law enforcement. Blockchain security platform PeckShield noted the attack followed a compromise on Jimbos liquidity conversion mechanism. The price of JIMBO, the underlying liquidity token, fell by 40% as the market reacted to the hacking news. Arbitrum-based Jimbos Protocol was hacked on the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/">Arbitrum-based Jimbos Protocol hacked for $7.5M, JIMBO price drops 40%</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>BitHK will offer spot trading and looks to launch a P2P exchange for Hong Kong users. The exchange will submit an application for registration as a VASP with the Hong Kong Securities and Futures Commission (SFC) on 1 June. Another exchange, Huobi HK is also offering spot trading to Hong Kong users and has submitted [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/coinex-launches-bithk-trading-platform-for-hong-kong-users/">CoinEx launches BitHK trading platform for Hong Kong users</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<ul>
-<li dir="ltr">The Jimbos Protocol team acknowledged the hack and said it had contacted law enforcement.</li>
-<li dir="ltr">Blockchain security platform PeckShield noted the attack followed a compromise on Jimbos liquidity conversion mechanism.</li>
-<li dir="ltr">The price of JIMBO, the underlying liquidity token, fell by 40% as the market reacted to the hacking news.</li>
+<li dir="ltr">BitHK will offer spot trading and looks to launch a P2P exchange for Hong Kong users.</li>
+<li dir="ltr">The exchange will submit an application for registration as a VASP with the Hong Kong Securities and Futures Commission (SFC) on 1 June.</li>
+<li dir="ltr">Another exchange, Huobi HK is also offering spot trading to Hong Kong users and has submitted an application from the SFC.</li>
 </ul>
-<p dir="ltr">Arbitrum-based Jimbos Protocol was <a href="https://coinjournal.net/news/tag/hacked/">hacked</a> on the morning of May 28, resulting in the loss of over 4,000 Ether (ETH), worth approximately $7.5 million at the time.</p>
-<p dir="ltr">As a result of the hack, the price of the underlying token, Jimbo (JIMBO), has plummeted by 40%.</p>
-<h2 dir="ltr">Another day, another hack</h2>
-<p dir="ltr">Malicious attacks within the cryptocurrency sector continue to be a blot on the growing industry, with attackers exploiting vulnerabilities to steal assets worth millions of dollars from platforms and users. The latest is an attack that exploited Jimbos&rsquo; liquidity conversion mechanism to see 4,090 ETH tokens stolen.</p>
-<p dir="ltr">Jimbos Protocol is a relatively new protocol that was launched less than 20 days ago. The protocol aims to address liquidity and volatile token prices through a new testing approach. However, it looks like the protocol&rsquo;s mechanism was not adequately secured, with the result being the vulnerability that was exploited by the hacker.</p>
-<p dir="ltr">According to blockchain security and data firm PeckShield, the hacker was able to reverse swap orders for their own gain, resulting in the loss of funds.</p>
-<p dir="ltr">The company<a href="https://twitter.com/peckshield/status/1662650673731624961" rel="noopener noreferrer" target="_blank">&nbsp;<u>tweeted</u></a> its assessment following the unfortunate event:</p>
-<p dir="ltr">&ldquo;<em>This hack is due to the lack of slippage control of liquidity-shifting operation &mdash; such that the protocol-owned liquidity is invested into a skewed/imbalanced price range, which is exploited in reverse swap for profit</em>.&rdquo;</p>
-<p dir="ltr">The Jimbos Protocol team<a href="https://twitter.com/jimbosprotocol/status/1662711995072909312" rel="noopener noreferrer" target="_blank">&nbsp;<u>announced</u></a> it was &ldquo;aware&rdquo; of the attack and that they had contacted law enforcement and blockchain security professionals.</p>
-<p dir="ltr">Earlier this month, as reported <a href="https://coinjournal.net/news/torn-price-dumps-50-after-attacker-takes-over-tornado-cash-dao/">here</a>, an attacker compromised the Tornado Cash protocol and stole 483,000 TORN tokens. They then moved to swap these tokens into ETH. The attacker managed their exploit by seizing control of the Tornado Cash governance system.&nbsp;</p>
-<p dir="ltr">TORN price fell 50% in reaction to the news.</p>
+<p dir="ltr">CoinEx, a <a href="https://coinjournal.net/exchanges/">crypto exchange</a> platform that&rsquo;s been in operation since 2017, has today launched a new crypto trading platform for users in Hong Kong.</p>
+<p dir="ltr">The new platform is called BitHK and is set to roll out several crypto services for CoinEx users in Hong Kong.</p>
+<h2 dir="ltr">Exchanges to seek approval before offer services in Hong Kong</h2>
+<p dir="ltr">CoinEx&rsquo;s launch of BitHK comes ahead of the effective date of the guidelines the Hong Kong regulators announced recently and which were set to allow registered cryptocurrency exchanges to offer crypto trading services to retail investors.</p>
+<p dir="ltr">According to a press release CoinEx published on Monday, the platform will submit an application for approval as a Virtual Asset Service Provider (VASP). The exchange plans to submit the application to the Securities and Futures Commission (SFC) on June 1.</p>
+<p dir="ltr">&ldquo;<em>We will strictly follow the Code of Conduct for Cryptocurrency Exchanges recently released by the SFC and the Anti-Money Laundering and Counter-Terrorist Financing (Amendment) Bill 2022. We are dedicated to delivering compliant, fair, and professional services while safeguarding our investors&rsquo; assets. Our goal is to establish a secure and reliable crypto trading environment for Hong Kong users</em>,&rdquo; Haipo Yang, CEO of CoinEx, said in a <a href="https://www.newswire.ca/news-releases/coinex-launches-bithk-to-provide-crypto-trading-services-for-hong-kong-users-895834994.html" rel="noopener noreferrer" target="_blank">statement</a>.</p>
+<p dir="ltr">BitHK users can access spot trading and crypto storage services, while CoinEx <a href="https://twitter.com/coinexcom/status/1663200615638663168" rel="noopener noreferrer" target="_blank">says</a> it will soon introduce P2P trading and HKD transactions.</p>
+<h2 dir="ltr">Huobi also announces Huobi HK&nbsp;</h2>
+<p dir="ltr">Monday also another crypto platform Huobi HK announced its crypto services to Hong Kong users. In a tweeted statement, the platform said it would be offering crypto spot trading services to both retail and institutional clients.&nbsp;</p>
+<p dir="ltr">Huobi HK applied for Hong Kong&rsquo;s VASP license on 29 May, 2023, according to the details shared via the platform&rsquo;s Twitter account. This follows Hong Kong&rsquo;s recent announcement that approved exchanges would be allowed to offer crypto trading to retail investors, with major coins Bitcoin and Ethereum among the first to be allowed.</p>
+<p dir="ltr">In related news, Binance recently announced it would be transitioning all of its users in Japan to a new platform to be called Binance Japan. The process began on 26 May and will continue through the summer.&nbsp;</p>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/">Arbitrum-based Jimbos Protocol hacked for $7.5M, JIMBO price drops 40%</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/arbitrum-based-jimbos-protocol-hacked-for-7-5m-jimbo-price-drops-40/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Mask Network (MASK) price is up 10% today: Here’s why</title>
-		<link>https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/</link>
-					<comments>https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/#respond</comments>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Sun, 28 May 2023 14:20:29 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Altcoin]]></category>
-		<category><![CDATA[Social media]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/</guid>
-
-					<description><![CDATA[<p>MASK price is up by double digits today and 17% this past two weeks. Most of the gains have come after the team announced it had invested in The Open Network (TON) network. MASK price remains nearly 90% down from its all-time high of $41.45. Mask Network (MASK), a decentralized social network seeking to bridge [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/">Mask Network (MASK) price is up 10% today: Here’s why</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">MASK price is up by double digits today and 17% this past two weeks.</li>
-<li dir="ltr">Most of the gains have come after the team announced it had invested in The Open Network (TON) network.</li>
-<li dir="ltr">MASK price remains nearly 90% down from its all-time high of $41.45.</li>
-</ul>
-<p dir="ltr">Mask Network (MASK), a decentralized social network seeking to bridge Web2 and Web3 apps, has seen its price increase by over 10% in the last 24 hours. The current price of MASK is $4.40.</p>
-<p dir="ltr">MASK price is up more than 17% this past two weeks.</p>
-<h2 dir="ltr">Why is the price of Mask Network (MASK) up today?</h2>
-<p dir="ltr">There seems to have been no particular trigger for MASK price rallying by double-digits today. However, it is likely the project&rsquo;s recent <a href="https://masknetwork.medium.com/mask-network-announces-investment-in-the-open-network-ton-to-further-building-in-decentralized-53732383ed" rel="noopener noreferrer" target="_blank">announcement</a> of an investment in The Open Network (TON) continues to boost investor confidence and aiding buying pressure.</p>
-<p dir="ltr">Another reason could be the uptick seen today across the broader cryptocurrency market.</p>
-<p dir="ltr"><a href="https://coinjournal.net/bitcoin/">Bitcoin price</a> traded above $27k again after it came close to dipping under $26k earlier in the week. This comes after news the US had struck a deal on its debt ceiling, and with BTC up, it&rsquo;s likely the sentiment cascaded into small cap <a href="https://coinjournal.net/news/tag/altcoins/">altcoins</a> like MASK.</p>
-<p dir="ltr">At the time of writing, Mask&rsquo;s daily trading volume is well over $80 million, representing a 148% jump in the past 24 hours. The spike in market activity has seen Mask Network, which is ranked 110 on CoinGecko, hit a market cap of about $354 million.</p>
-<h2 dir="ltr">MASK price prediction</h2>
-<p dir="ltr">Despite the gains, MASK price remains nearly 90% down from its all-time high of $41.45. The token hit the ATH February 24, 2021.</p>
-<p dir="ltr">The current value is however 352% higher than the all-time low of $0.976528, hit on Oct 13, 2022 and today&rsquo;s gains could, therefore, see traders seek to take profits. While this could happen, some analysts believe that the token is primed for a breakout.</p>
-<p dir="ltr">Crypto analyst Captain Faibik says MASK could see a breakout as shown in the chart below <a href="https://twitter.com/CryptoFaibik/status/1662704655753953283" rel="noopener noreferrer" target="_blank">shared</a> on Twitter.</p>
-<div class="fr-img-space-wrap"><span class="fr-img-caption fr-fic fr-dib fr-draggable" style="width: 700px"><span class="fr-img-wrap">
-<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/28/1685282656556-82a1b836-8f3a-4035-be7b-0d289ca8a3eb.jpg" style="width: 700px" class="fr-fic fr-dib" width="700" height="299"><span class="fr-inner">Chart showing the potential price breakout for Mask Network. Courtesy of Captain Faibik on Twitter.</span></p>
-<p></p></span></span>
-<p class="fr-img-space-wrap2">According to the analyst, MASK could surge by more than 60% to more than $7.20. Looking at the chart, it suggests the scenario will likely unfold if price breaks and sustain fresh momemtum above the upper resistance of channel pattern.</p>
-</div>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/">Mask Network (MASK) price is up 10% today: Here’s why</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/mask-network-mask-price-is-up-10-today-heres-why/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>LTC, ARB and MATIC price outlook amid US debt limit “tentative” deal</title>
-		<link>https://coinjournal.net/news/ltc-arb-and-matic-price-outlook-amid-us-debt-limit-tentative-deal/</link>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Sun, 28 May 2023 12:30:32 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Altcoin]]></category>
-		<category><![CDATA[Litecoin News]]></category>
-		<category><![CDATA[Polygon]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/ltc-arb-and-matic-price-outlook-amid-us-debt-limit-tentative-deal/</guid>
-
-					<description><![CDATA[<p>LTC bulls need to break above $93, a key hurdle below the psychological level of $100. MATIC must reclaim $1 to target the $1.30-$1.50 range, or risk dip to $0.75. Elsewhere, ARB is near a key resistance level as Arbitrum price jumps 3.9% amid the market&#8217;s reaction to US debt ceiling news. The US has [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/ltc-arb-and-matic-price-outlook-amid-us-debt-limit-tentative-deal/">LTC, ARB and MATIC price outlook amid US debt limit “tentative” deal</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">LTC bulls need to break above $93, a key hurdle below the psychological level of $100.</li>
-<li dir="ltr">MATIC must reclaim $1 to target the $1.30-$1.50 range, or risk dip to $0.75.</li>
-<li dir="ltr">Elsewhere, ARB is near a key resistance level as Arbitrum price jumps 3.9% amid the market&rsquo;s reaction to US debt ceiling news.</li>
-</ul>
-<p dir="ltr">The US has reached a &ldquo;tentative deal&rdquo; on its debt limit crisis after a week of high uncertainty. With the news of the deal seeping through the markets, cryptocurrencies reacted slightly positively as Bitcoin and Ethereum prices rose above $27k and $1.8k respectively.</p>
-<p dir="ltr">The outlook was also visible across the top 10 altcoin market, with sentiment relief showing as <a href="https://coinjournal.net/litecoin/">Litecoin (LTC)</a>, Arbitrum (ARB), and <a href="https://coinjournal.net/polygon/">Polygon (MATIC)</a> moved up. Even then, markets remain largely weak as May comes to a close.</p>
-<p dir="ltr">Here is what a respected crypto analyst has predicted for LTC, ARB and MATIC.</p>
-<h2 dir="ltr">Litecoin price prediction: $93 key to LTC bulls</h2>
-<p dir="ltr">In March, LTC creator Charlie Lee offered a huge Litecoin price prediction. Pointing to the 14th&nbsp;ranked cryptocurrency (by market cap today), Lee said Litecoin price could rise to 0.0125 BTC in a new bull cycle. He also believed a downside for LTC could find support at 0.0025 BTC.</p>
-<p dir="ltr">The current LTC price is above this latter level as it trades near $89.40 or 0.0032 against <a href="https://coinjournal.net/bitcoin/">bitcoin</a>. In recent weeks, analysts have pointed to Litecoin&rsquo;s upcoming halving as a likely trigger for fresh upside momentum.</p>
-<p dir="ltr">According to crypto analyst Michael van de Poppe, bulls need to break above a key resistance at $93 on the higher timeframe. The psychological $100 level would then be in sight as buyers eye a halving rally, he <a href="https://twitter.com/CryptoMichNL/status/1662516171114000384" rel="noopener noreferrer" target="_blank">tweeted</a>.&nbsp;</p>
-<p dir="ltr">&ldquo;<em>Many squigglies on this chart, but higher timeframe resistance is at $93. Currently, support found at $82 and a strong bounce -&gt; weekly candle looks good. Next week breaking through $93 and the Halving rally might star</em>t.&rdquo;</p>
-<h2 dir="ltr">Polygon price prediction: MATIC needs to break above $1 again</h2>
-<p dir="ltr">MATIC has traded<a href="https://coinjournal.net/news/polygon-price-prediction-matic-risks-dip-to-1-as-bears-pin-bitcoin-under-22-5k/">&nbsp;<u>lower</u></a> since March, with an attempt to flip higher running into rejection in April as price fell below $1.00 (CoinJournal highlighted the subsequent price movement<a href="https://coinjournal.net/news/polygon-price-prediction-will-matic-recover-above-1-after-recent-partnerships/">&nbsp;<u>here</u></a>). Although it remains below the dollar, bulls might have the upper hand if they reclaim control above $0.95.</p>
-<p dir="ltr">Currently, MATIC/USD is around $0.92. According to van de Poppe, MATIC has bounced well above this key area since its NFT announcement during the F1 Monaco GP. Can bulls build momentum from here?</p>
-<p dir="ltr">&ldquo;<em>I really want to see it flip $0.95, then we can accelerate towards $1.30-1.50. If that&rsquo;s not the case, then short is activated and longs can be taken at $0.75</em>,&rdquo; the analyst <a href="https://twitter.com/CryptoMichNL/status/1662556172212158465" rel="noopener noreferrer" target="_blank">said</a> in reply to one of the requests for altcoin analysis.</p>
-<h2 dir="ltr">Arbitrum price prediction: ARB is near key resistance</h2>
-<p dir="ltr">Arbitrum, which was trading at $1.20 and 3.9% up in the past 24 hours at the time of writing, needs to hold above the $1.18 level to give bulls an upside boost. That could aid momentum to $1.30, van de Poppe<a href="https://twitter.com/CryptoMichNL/status/1662748293586092032" rel="noopener noreferrer" target="_blank">&nbsp;<u>noted</u></a>.</p>
-<p dir="ltr">&ldquo;<em>Again, into resistance. This means, entries are available at $1.10. If it doesn&rsquo;t clearly break &amp; flip the resistance at $1.18, I&rsquo;d assume shorts are triggered when falling back sub $1.18. Otherwise, long continuation trade towards $1.30</em>.&rdquo;</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/ltc-arb-and-matic-price-outlook-amid-us-debt-limit-tentative-deal/">LTC, ARB and MATIC price outlook amid US debt limit “tentative” deal</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/coinex-launches-bithk-trading-platform-for-hong-kong-users/">CoinEx launches BitHK trading platform for Hong Kong users</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>MakerDAO proposal eyes new DAI savings rate of 3.33%</title>
-		<link>https://coinjournal.net/news/makerdao-proposal-eyes-dai-savings-rate-increase-to-3-33/</link>
+		<title>MicroStrategy is better than Coinbase for crypto exposure: Berenberg</title>
+		<link>https://coinjournal.net/news/microstrategy-vs-coinbase-stock-berenberg/</link>
 		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Sun, 28 May 2023 10:20:02 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[DAI]]></category>
-		<category><![CDATA[Maker]]></category>
-		<category><![CDATA[Stablecoin]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/makerdao-proposal-eyes-dai-savings-rate-increase-to-3-33/</guid>
-
-					<description><![CDATA[<p>MakerDAO is considering a proposal to raise the Dai savings rate (DSR). This follows the last change that saw DSR increase to 1%, attracting over 35 million DAI deposits in a month. If approved, the latest proposal would see the DAI savings rate increase from the current rate to 3.33%. MakerDAO, the decentralized finance (DeFi) [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/makerdao-proposal-eyes-dai-savings-rate-increase-to-3-33/">MakerDAO proposal eyes new DAI savings rate of 3.33%</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">MakerDAO is considering a proposal to raise the Dai savings rate (DSR).</li>
-<li dir="ltr">This follows the last change that saw DSR increase to 1%, attracting over 35 million DAI deposits in a month.</li>
-<li dir="ltr">If approved, the latest proposal would see the DAI savings rate increase from the current rate to 3.33%.</li>
-</ul>
-<p dir="ltr">MakerDAO, the decentralized finance (DeFi) protocol that issues the DAI stablecoin, has proposed an increase of the Dai savings rate (DSR) to 3.33%.&nbsp;</p>
-<p dir="ltr">The proposal comes a few months after a vote to raise the DSR to 1% from 0.6% saw over $35 million worth of the <a href="https://coinjournal.net/learn/what-are-stablecoins/"><u>stablecoin</u></a> deposited within a month. The latest change was put forward by <a href="https://coinjournal.net/news/tag/defi/"><u>DeFi</u></a> platform Block Analitica and is subject to an Executive Vote by MKR holders.&nbsp;</p>
-<p dir="ltr">MKR is the governance token of the <a href="https://coinjournal.net/news/tag/maker/"><u>Maker</u></a> lending protocol.</p>
-<p dir="ltr">&ldquo;<em>The Dai Savings Rate (DSR) is a fundamental component within the Maker Protocol system, offering users the opportunity to deposit DAI and receive a consistent interest rate. This interest is accrued in real-time, accumulating from the system&rsquo;s revenues</em>,&rdquo; the protocol <a href="https://twitter.com/MakerDAO/status/1662161508716150785" rel="noopener noreferrer" target="_blank">said</a>.</p>
-<h2 dir="ltr">Implications for the broader DeFi ecosystem</h2>
-<p dir="ltr">As noted, the DSR plays a key role in MakerDAO&rsquo;s monetary policy. Other than allowing platform users to earn interest on their DAI deposits, it helps in ecosystem growth with the community incentivized to mint new DAI.</p>
-<p dir="ltr">The proposal to increase the DSR comes at a time when interest rates are rising in the traditional financial system.</p>
-<p dir="ltr">For instance, the US Federal Reserve has raised interest rates several times in recent months as it looked to combat inflation. The change in the Dai rate also comes as yields on the US Treasury bonds spike, with the 3-month yield at around 5.29%.</p>
-<p dir="ltr">Industry experts and observers say MakerDAO&rsquo;s move could have broader implications for the wider DeFi market.</p>
-<p dir="ltr">Primoz Kordez, the founder of Block Analitica,<a href="https://twitter.com/PrimozKordez/status/1662130714744176644" rel="noopener noreferrer" target="_blank">&nbsp;<u>said</u></a> raising Dai DSR to the proposed 3.33% will have ramifications across the sector as its DSR is the &ldquo;benchmark for safest DeFi stablecoin yield.&rdquo;</p>
-<p>Dai rate has been low compared to other platforms such as Compound and Aave that currently offer up to 2.5% in rates for the likes of USDT, USDC and DAI. The industry should therefore brace itself for higher rates across lending protocols, stablecoins, bridges and DeFi treasuries, according to<a href="https://twitter.com/MonetSupply/status/1662130007022661632" rel="noopener noreferrer" target="_blank">&nbsp;<u>one</u></a> expert.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/makerdao-proposal-eyes-dai-savings-rate-increase-to-3-33/">MakerDAO proposal eyes new DAI savings rate of 3.33%</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Binance begins transition to new platform for Japan</title>
-		<link>https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/</link>
-					<comments>https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/#respond</comments>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Sun, 28 May 2023 08:35:20 +0000</pubDate>
-				<category><![CDATA[Policy and Regulation]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Cryptocurrency Exchange]]></category>
-		<category><![CDATA[Japan]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/</guid>
-
-					<description><![CDATA[<p>Binance has said that the transition to the new platform is necessary to comply with Japanese regulations. Transition to the new platform will involve users undergoing fresh KYC as from August 1, 2023. Binanace acquired the Sakura Exchange BitCoin (SEBC) in 2022. Binance, the world&#8217;s leading and largest cryptocurrency exchange, has announced that it will [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/">Binance begins transition to new platform for Japan</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li>Binance has said that the transition to the new platform is necessary to comply with Japanese regulations.</li>
-<li>Transition to the new platform will involve users undergoing fresh KYC as from August 1, 2023.</li>
-<li>Binanace acquired the Sakura Exchange BitCoin (SEBC) in 2022.</li>
-</ul>
-<p dir="ltr"><a href="https://coinjournal.net/exchanges/binance/">Binance</a>, the world&rsquo;s leading and largest <a href="https://coinjournal.net/exchanges/">cryptocurrency exchange</a>, has announced that it will be transitioning its Japan users to a new platform beginning this summer.&nbsp;</p>
-<p dir="ltr">According to a notice on the exchange&rsquo;s <a href="https://www.binance.com/en/land/japan-may-notice-en?fbclid" rel="noopener noreferrer" target="_blank">website</a>, the new platform will comply with all Japanese regulations.</p>
-<p dir="ltr">Migration of all Japan-based users to a new regulated platform comes after the company completed the acquisition of Sakura Exchange BitCoin (SEBC), a local cryptocurrency exchange. The deal was completed in November 2022 and is part of Binance&rsquo;s expansion strategy amid greater alignment with regulatory compliance.&nbsp;</p>
-<p dir="ltr">Binance plans to rebrand SEBC, regulated by the JSFA, to Binance Japan.</p>
-<h2 dir="ltr">Binance to restrict services amid the transition</h2>
-<p dir="ltr">As part of its transition, Binance has said it will gradually restrict services on its global platform Binance.com for local users. The new restrictions began on May 26, 2023, with users no longer able to open new derivative accounts.</p>
-<p dir="ltr">The exchange will also discontinue options trading and Leveraged Tokens (BLVT) as from June 9, before cutting off all Japan-based users from the Binance.com platform on November 30, 2023.</p>
-<p dir="ltr">By then, users in the country will have had an opportunity to migrate to the new platform after completing a new identity verification process. According to the notice, the new know your customer (KYC) process will be available as from August 1, 2023, Binance said.</p>
-<p dir="ltr">Additionally, Japan residents who complete the KYC as required and hold supported coins will have access to the new Binance Japan after December 1. Users who will not have completed the mandatory verification process will only access withdrawals.</p>
-<p dir="ltr">Users with &ldquo;<em>unpermitted tokens</em>&rdquo; are asked to convert these to the supported ones (a list of permitted tokens will be shared). If not, they have to withdraw these funds to external wallets. Binance will automatically convert all unpermitted tokens to Bitcoin (BTC) on November 30, according to the notice.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/">Binance begins transition to new platform for Japan</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/binance-begins-transition-to-new-platform-for-japan/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bitcoin supply in loss at 68% after BTC price drop from $31k local top</title>
-		<link>https://coinjournal.net/news/bitcoin-supply-in-loss-at-68-after-btc-price-drop-from-31k-local-top/</link>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Fri, 26 May 2023 19:25:51 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
+		<dc:creator><![CDATA[Wajeeh Khan]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 20:01:39 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
 		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[BTC]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/bitcoin-supply-in-loss-at-68-after-btc-price-drop-from-31k-local-top/</guid>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/?p=141082</guid>
 
-					<description><![CDATA[<p>Bitcoin supply in loss has risen to 68%, with 6.67 million BTC under water water at current spot price. Indeed, on-chain data shows 2.71 million BTC has fallen into loss as Bitcoin price dropped from the $31k local top. With sell-side risk ratio approaching its all-time lows, Glassnode analyst James Check says BTC could see [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-supply-in-loss-at-68-after-btc-price-drop-from-31k-local-top/">Bitcoin supply in loss at 68% after BTC price drop from $31k local top</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>Berenberg analysts sees upside in MicroStrategy to $340. They explain their bullish view in a recent research note. Coinbase stock has a &#8220;hold&#8221; rating only at Berenberg. MicroStrategy Inc is a better pick for exposure to cryptocurrencies than Coinbase Global Inc, as per the Berenberg analysts. MicroStrategy stock has upside to $340 Mark Palmer and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/microstrategy-vs-coinbase-stock-berenberg/">MicroStrategy is better than Coinbase for crypto exposure: Berenberg</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<ul>
-<li dir="ltr">Bitcoin supply in loss has risen to 68%, with 6.67 million BTC under water water at current spot price.</li>
-<li dir="ltr">Indeed, on-chain data shows 2.71 million BTC has fallen into loss as Bitcoin price dropped from the $31k local top.</li>
-<li dir="ltr">With sell-side risk ratio approaching its all-time lows, Glassnode analyst James Check says BTC could see a big move to either side.</li>
+<li>Berenberg analysts sees upside in MicroStrategy to $340.</li>
+<li>They explain their bullish view in a recent research note.</li>
+<li>Coinbase stock has a &ldquo;hold&rdquo; rating only at Berenberg.</li>
 </ul>
-<p dir="ltr"><a href="https://coinjournal.net/bitcoin/">Bitcoin&rsquo;s price</a> has dropped about 14.6% since rejecting at the local top of $30.9k, and the result has been a sharp rise in the total amount of supply in loss.</p>
-<p dir="ltr">The leading cryptocurrency&rsquo;s current spot price is around $26.4k, after the week was spent in a tight range below the key resistance level of $27.6k. Although Bitcoin retested levels above $28k multiple times this month, the drawdown below $27k has bulls staring at a potential dip to support at $25k or lower.</p>
-<p dir="ltr">But even as this outlook materializes, about 2.71 million BTC has drifted underwater. The BTC supply in loss, according to data <a href="https://twitter.com/glassnode/status/1662113823547879425" rel="noopener noreferrer" target="_blank">shared</a> by on-chain analytics platform Glassnode, is equivalent to about 14% of the benchmark crypto&rsquo;s circulating supply.</p>
-<p>&ldquo;<em>This raises the total supply in loss across the aforementioned period from 3.96M to 6.67M BTC, a 68.4% increase</em>,&rdquo; Glassnode noted.</p>
-<h2 dir="ltr">$45k or $20k? Analysts weigh in on BTC price movement</h2>
-<p dir="ltr">Earlier this week, Glassnode lead analyst James Check said Bitcoin could see a &ldquo;big move&rdquo; in coming weeks amid seller exhaustion. Pointing to on-chain-data, Check <a href="https://coinjournal.net/news/bitcoin-on-chain-metric-suggests-big-move-is-incoming-expert-says/">explained</a>:</p>
-<p dir="ltr">&ldquo;<em>Bitcoin Sell-side Risk ratio is approaching all-time lows. This indicates that investors are reluctant to spend coins which are in profit, or loss within the current price range. This usually occurs when sellers are exhausted on both sides, suggesting big moves are coming</em>.&rdquo;</p>
-<p dir="ltr">On Wednesday, JPMorgan lead strategist Nikolaos Panigirtzoglou said Bitcoin could rise 25% in the next 12 months. In a note to clients, Panigirtzoglou highlighted the price of gold rallying to a new multi-year high above $2k as the potential lead for BTC to hit $45k.</p>
-<p dir="ltr">According to the analyst, Bitcoin and gold have often traded in sync. Bitcoin&rsquo;s upcoming halving will also play a role in ticking up prices of the digital asset. Recently, analysts at Standard Chartered predicted a 70% gain for BTC price, outlining the $100k as a target.</p>
+<p>MicroStrategy Inc is a better pick for exposure to cryptocurrencies than Coinbase Global Inc, as per the Berenberg analysts.</p>
+<h2>MicroStrategy stock has upside to $340</h2>
+<p>Mark Palmer and Hassan Saleem see upside in the technology company to $340 a share &ndash; up another 20% from here. In a recent research note, they said:</p>
+<blockquote><p>MicroStrategy which features a unique business model focused on the acquisition and holding of bitcoins, represents an attractive alternative to Coinbase in the current environment.</p></blockquote>
+<p>At writing, the Nasdaq-listed firm owns about 140,000 BTC in total. Earlier in May, MicroStrategy said it took an impairment charge of $170 million on its bitcoin holdings in the <a href="https://www.coindesk.com/business/2022/05/03/microstrategy-reports-170m-impairment-charge-on-bitcoin-holdings-in-q1/" target="_blank" rel="noopener">first quarter</a>.</p>
+<p>Its stock price has already nearly doubled since the start of the year.</p>
+<h2>Why is Berenberg dovish on Coinbase stock?</h2>
+<p>On <a href="https://coinjournal.net/exchanges/coinbase/">Coinbase</a>, Berenberg analysts have a &ldquo;hold&rdquo; rating with a price objective of $55 a share &ndash; roughly in line with where it&rsquo;s currently trading.</p>
+<p>They&rsquo;re dovish primarily due to the ongoing <a href="https://www.cnbc.com/2023/05/08/coinbase-ceo-on-us-crypto-regulation-sec-lawsuit-international-plans.html" target="_blank" rel="noopener">regulatory scrutiny</a>. In March, the crypto exchange received a &ldquo;Wells Notice&rdquo; from the U.S. Securities and Exchange Commission (SEC).</p>
+<blockquote><p>Coinbase&rsquo;s revenue is at risk in the event of an enforcement action are disproportionately profitable relative to its total revenue.</p></blockquote>
+<p>In comparison, MicroStrategy focuses on <a href="https://coinjournal.net/news/tag/bitcoin/">bitcoin</a> that&rsquo;s already been classified as a commodity and not a security thereby insulating it from such risks. The correlation between MSTR and COIN currently stands at about 0.96.</p>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-supply-in-loss-at-68-after-btc-price-drop-from-31k-local-top/">Bitcoin supply in loss at 68% after BTC price drop from $31k local top</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/microstrategy-vs-coinbase-stock-berenberg/">MicroStrategy is better than Coinbase for crypto exposure: Berenberg</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>My Neighbor Alice and ELLE: a Groundbreaking Collaboration for an Unprecedented Web3 Gaming Experience</title>
-		<link>https://coinjournal.net/news/my-neighbor-alice-and-elle-a-groundbreaking-collaboration-for-an-unprecedented-web3-gaming-experience/</link>
+		<title>Blocktrade raises €4.5M in its BTEX Token sale</title>
+		<link>https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/</link>
+					<comments>https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/#respond</comments>
 		
 		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Fri, 26 May 2023 15:28:02 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/my-neighbor-alice-and-elle-a-groundbreaking-collaboration-for-an-unprecedented-web3-gaming-experience/</guid>
-
-					<description><![CDATA[<p>STOCKHOLM-&#8211; MAY 25, 2023&#160;&#8211; In a landmark partnership, My Neighbor Alice (MNA)&#160;has teamed up with the iconic brand ELLE to create a unique and immersive gaming experience that showcases the best of both worlds. This collaboration is set to demonstrate MNA&#8217;s ability to integrate brands successfully into its gaming universe in preparation for more partnerships [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/my-neighbor-alice-and-elle-a-groundbreaking-collaboration-for-an-unprecedented-web3-gaming-experience/">My Neighbor Alice and ELLE: a Groundbreaking Collaboration for an Unprecedented Web3 Gaming Experience</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p dir="ltr"><strong>STOCKHOLM-&ndash; MAY 25, 2023&nbsp;</strong>&ndash; In a landmark partnership, <a href="https://www.myneighboralice.com/" rel="noopener noreferrer" target="_blank"><u>My Neighbor Alice (MNA)&nbsp;</u></a>has teamed up with the iconic brand <a href="https://elleboutique.com/france/" rel="noopener noreferrer" target="_blank"><u>ELLE</u></a> to create a unique and immersive gaming experience that showcases the best of both worlds. This collaboration is set to demonstrate MNA&rsquo;s ability to integrate brands successfully into its gaming universe in preparation for more partnerships in the future.</p>
-<p dir="ltr">This collaboration aims to merge the distinct brand values of My Neighbor Alice and ELLE, providing players with a high-quality experience that seamlessly combines fashion, lifestyle, and gaming. ELLE will be incorporated into the game as a neighbor, with plots in each active region: Rusty Pikes and Tourney Wolds in Medieval Plains, Pioneer Point, Shaded Headland, and Gloomy Gulch in Nature&rsquo;s Rest. Players will find each ELLE plot conveniently located near the Town Hub of their respective region.</p>
-<p>To encourage player engagement, quests have been designed to allow gamers to acquire exclusive ELLE-branded items customized with an Alice twist. These quests will be integrated into the existing game quest system, accessible to players at the ELLE Caf&eacute;, a unique building placed within the ELLE plot.</p>
-<p>Adding to the excitement, this partnership will introduce two limited ELLE Non-Fungible Tokens (NFTs) collections: the Mots d&rsquo;Amour and the Wonder Collection, inspired by the real-life collections. The former will be available for purchase in the OpenSea marketplace, while the latter can only be obtained by crafting in the game. These items will be rewarded in NFTs, making them valuable to any player&rsquo;s in-game inventory. The collaboration will result in three distinct collections: Rare, Epic, and Legendary.</p>
-<p>The Rare Collection consists of 23 unique clothing items. The Epic Collection is a limited edition, featuring only 4 unique clothing items and The Legendary Collection is the most exclusive, featuring full-suit NFTs.</p>
-<p>In addition to the NFTs included in the boxes, buyers can receive free exclusive NFTs through the airdrop system. If you want to learn more about this sale, we tell you all about it <a href="https://myneighboralice.medium.com/my-neighbor-alice-elle-nft-sale-on-opensea-binance-discover-more-about-the-coming-drops-73a31f12320c" rel="noopener noreferrer" target="_blank"><u>here</u></a>. Also, the collection will be available on <a href="https://opensea.io/collection/mots-d-amour-rare-ed/drop" rel="noopener noreferrer" target="_blank"><u>Opensea</u></a> or <a href="https://www.binance.com/en/nft/collection/MOTS-D'AMOUR-Rare-Ed.-712965386265505792?isBack=1?utm_source=nft-share&amp;utm_medium=share&amp;utm_campaign=MyNeighborAlice&amp;ref=40465521" rel="noopener noreferrer" target="_blank"><u>Binance</u></a> if you want to check it out!</p>
-<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/26/1685114853538-a61cbd5a-9a7f-4e25-8948-422ecc2ff4fd.jpg" style="width: 700px" class="fr-fic fr-dib" width="700" height="345"></p>
-<p>This pioneering collaboration between My Neighbor Alice and ELLE will create an unparalleled gaming experience for players as they navigate the beautifully crafted world of My Neighbor Alice and engage with the stylish offerings from ELLE.&nbsp;</p>
-<p dir="ltr">Keep an eye out for the upcoming launch of this exceptional partnership that promises to revolutionize the way brands and games interact. If you&rsquo;re interested in learning more about the collaboration, check out the article on Elle&rsquo;s website here.</p>
-<p dir="ltr">Discord: <a href="https://discord.gg/myneighboralice" rel="noopener noreferrer" target="_blank"><u>https://discord.gg/myneighboralice</u></a>&nbsp;</p>
-<p dir="ltr">Telegram: <a href="https://t.me/MyNeighborAlice" rel="noopener noreferrer" target="_blank"><u>https://t.me/MyNeighborAlice</u></a>&nbsp;</p>
-<p dir="ltr">Telegram Announcement: <a href="https://t.me/AliceAnnouncements" rel="noopener noreferrer" target="_blank"><u>https://t.me/AliceAnnouncements</u></a>&nbsp;</p>
-<p dir="ltr">Twitter: <a href="https://twitter.com/MyNeighborAlice" rel="noopener noreferrer" target="_blank"><u>https://twitter.com/MyNeighborAlice</u></a>&nbsp;</p>
-<p dir="ltr">Linkedin: <a href="https://www.linkedin.com/company/my-neighbor-alice/" rel="noopener noreferrer" target="_blank"><u>https://www.linkedin.com/company/my-neighbor-alice/</u></a></p>
-<p></p>
-<h2 dir="ltr">About My Neighbor Alice</h2>
-<p dir="ltr">My Neighbor Alice is a groundbreaking multiplayer builder game being built on Chromia&rsquo;s Blockchain that offers an engaging and accessible experience on a charming virtual island. Integrating Blockchain technology allows players to own and trade virtual assets (NFTs). The game&rsquo;s marketplace enables players to buy, sell, and trade these NFTs, creating a dynamic and player-driven virtual economy. Players can earn rewards, monetize their creations, and engage in community events, fostering a sense of ownership and collaboration. With different strategic partnerships, MNA underscores the project&rsquo;s dedication to promoting NFT ownership, encouraging a more engaging and interactive gaming community. My Neighbor Alice represents the future of gaming, combining virtual reality, blockchain, and decentralized finance to redefine how we interact with virtual worlds.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/my-neighbor-alice-and-elle-a-groundbreaking-collaboration-for-an-unprecedented-web3-gaming-experience/">My Neighbor Alice and ELLE: a Groundbreaking Collaboration for an Unprecedented Web3 Gaming Experience</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>MCADE price prediction ahead of the Metacade Lite launch</title>
-		<link>https://coinjournal.net/news/mcade-price-prediction-ahead-of-the-metacade-lite-launch/</link>
-		
-		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
-		<pubDate>Fri, 26 May 2023 14:42:17 +0000</pubDate>
+		<pubDate>Mon, 29 May 2023 20:00:35 +0000</pubDate>
 				<category><![CDATA[Markets]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/mcade-price-prediction-ahead-of-the-metacade-lite-launch/</guid>
+		<guid isPermaLink="false">https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/</guid>
 
-					<description><![CDATA[<p>The Metacade community is only counting days to the launch of the much anticipated Metacade Lite. MCADE price has started responding to the hype on the upcoming Metacade Lite launch. At press time, MCADE was trading at $0.02229, up 5.44% in the last 24 hours. Metacade is gearing up for releasing its Metacade Lite version [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/mcade-price-prediction-ahead-of-the-metacade-lite-launch/">MCADE price prediction ahead of the Metacade Lite launch</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul class="decimal_type">
-<li>The Metacade community is only counting days to the launch of the much anticipated Metacade Lite.</li>
-<li>MCADE price has started responding to the hype on the upcoming Metacade Lite launch.</li>
-<li>At press time, MCADE was trading at $0.02229, up 5.44% in the last 24 hours.</li>
-</ul>
-<p>Metacade is gearing up for releasing its Metacade Lite version to the public soon, details of which can be confirmed in the recent <a href="https://www.youtube.com/live/1tz16w_Hqro?feature=share">AMA held on 24 May 2023</a>.</p>
-<p>As the CEO of Metacade embarks on AMAs to explain the current status of the project, it is important to point out that the project hit all the milestones set in its roadmap for Q1, 2023. The team is currently working to hit the targets set for this quarter including the launch of the Create2Earn platform that will allow users to sample the game-changing gaming experience that comes with Metacade&rsquo;s unique approach to play-to-earn (P2E).</p>
-<h2>What is Metacade and what does it offer?</h2>
-<p><a href="https://metacade.co/en?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=price_prediction">Metacade </a>is a blockchain gaming platform that aims to become the largest Web3 gaming arcade.</p>
-<p>At its core, Metacade aims to offer gamers, investors, and developers access to a decentralized gaming hub, complete with the biggest collection of different play-to-earn (P2E) arcade games. It also plans to allow the integration of multiple earning mechanisms for ecosystem players.</p>
-<p>The platform also has a utility ERC-20 token, the MCADE token, which is used to pay rewards in the ecosystem and help platform users access services and opportunities including staking and DeFi. In the future according to the project&rsquo;s roadmap, MCADE holders will also play a pivotal role in running the project by getting voting rights on governance proposals.</p>
-<h2>For how long will MCADE maintain the current bullish trend?</h2>
-<p>The crypto markets are expected to enter a new bullish cycle after a gruelling bear market, it is possible that MCADE could lead the charge within the GameFi and Web3 ecosystem. Seemingly, the crypto market has been on a short bearish pullback after what was a very splendid market recovery for the year that saw the likes of <a href="https://coinjournal.net/bitcoin/what-is-bitcoin/">Bitcoin&nbsp;</a>and <a href="https://coinjournal.net/ethereum/what-is-ethereum/">Ethereum&nbsp;</a>recover 70% and 55% respectively.</p>
-<p>The recent developments including the recent <a href="https://coinjournal.net/news/axs-price-soars-as-axie-infinity-game-launches-on-the-app-store/">Axie Infinity&rsquo;s debut on the Apple App Store</a>, and the reaffirmation by the Japan-based gaming giant Square Enix that it is committed to blockchain and Web3 gaming could help spark new GameFi demand and adoption.</p>
-<p>In addition to the developments within the GameFi space, the MCADE token is also likely to benefit from the Metagrants programme that incentivises developers to increase the creation and deployment of games on the platform. However, MCADE&rsquo;s future is also dependent on the easing of the macro headwinds including inflation to help the crypto market grow.</p>
-<p>Jamie Douglas of Bloomberg Intelligence recently said that <a href="https://coinjournal.net/bitcoin/">Bitcoin price</a> could shoot to $18,000 if only 1% of the global bond market value moved to Bitcoin.</p>
-<p>Taking all these into consideration including the upcoming Metacade Lite launch that is likely to spur increased interest in Metacade and its native token, the <a href="https://coinjournal.net/metacade/">MCADE price</a> is projected to sustain the current Bull Run and possibly hit $0.045 by the end of the month.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/mcade-price-prediction-ahead-of-the-metacade-lite-launch/">MCADE price prediction ahead of the Metacade Lite launch</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GamStop &#038; Crypto: fostering responsible gambling for a sustainable ecosystem</title>
-		<link>https://coinjournal.net/news/gamstop-crypto-fostering-responsible-gambling-for-a-sustainable-ecosystem/</link>
-		
-		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
-		<pubDate>Fri, 26 May 2023 14:11:20 +0000</pubDate>
-				<category><![CDATA[Policy and Regulation]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/gamstop-crypto-fostering-responsible-gambling-for-a-sustainable-ecosystem/</guid>
-
-					<description><![CDATA[<p>GamStop was created in the United Kingdom to help gamblers get free help when they need it. A lot of gamblers gambling at casino sites not on GamStop in the UK are using crypto. Besides GamStop, there are other responsible gambling tools like GamBan and BetBlocker. Crypto gambling is slowly immerging as a new trend. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/gamstop-crypto-fostering-responsible-gambling-for-a-sustainable-ecosystem/">GamStop &amp; Crypto: fostering responsible gambling for a sustainable ecosystem</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+					<description><![CDATA[<p>Gamified asset marketplace Blocktrade says it has raised &#8364;4.5 million in an exclusive BTEX Token (BTEX) sale. The sale attracted 1,400 community members from 42 countries. Blocktrade will use the funds to grow its platform. Blocktrade, a gamified crypto asset and marketplace, has announced that it has raised &#8364;4.5 million in an exclusive sale of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/">Blocktrade raises €4.5M in its BTEX Token sale</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<ul>
-<li>GamStop was created in the United Kingdom to help gamblers get free help when they need it.</li>
-<li>A lot of gamblers gambling at casino sites not on GamStop in the UK are using crypto.</li>
-<li>Besides GamStop, there are other responsible gambling tools like GamBan and BetBlocker.</li>
+<li dir="ltr">Gamified asset marketplace Blocktrade says it has raised &euro;4.5 million in an exclusive BTEX Token (BTEX) sale.</li>
+<li dir="ltr">The sale attracted 1,400 community members from 42 countries.</li>
+<li dir="ltr">Blocktrade will use the funds to grow its platform.</li>
 </ul>
-<p>Crypto gambling is slowly immerging as a new trend. Almost 420 million people in the world use cryptocurrency and many of them love to gamble, meaning many of them would prefer crypto gambling.&nbsp;</p>
-<p>However, crypto gamblers need to play responsibly. Tools like GamStop can help the <a href="https://coinjournal.net/casinos/">crypto casino</a> ecosystem and make it sustainable.</p>
-<h2>GamStop &ndash; popular responsible gambling tool</h2>
-<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/26/1685109294879-4f5e5531-81af-41c7-a327-4d2f684c49af.png" class="fr-fic fr-dib" width="615" height="343"></p>
-<p>There are dozens of responsible gambling tools and their number is growing. One of these tools, GamStop, has become a choice for many crypto gamblers. But what is it?</p>
-<p>For starters, GamStop is not GameStop. These are two completely different platforms.&nbsp;</p>
-<p>GamStop was created in the United Kingdom to help gamblers get a free type of help when they need it. People create accounts on GamStop to ensure they only gamble on UKGC-licensed casinos and betting sites. It ensures they cannot play on unlicensed casinos and sites and the ban can last as long as you want it to last up to 5 years after which you can remove the ban or prolong it once again and again.&nbsp;</p>
-<p>The main benefits are a bit obvious. Gamblers can enjoy safer gambling, period. They can use a free tool to get professional help whenever they need it. Players can also get additional help if their condition is a bit more demanding. All of these things make the gambling ecosystem possible and stable!</p>
-<p>There is one issue though. Players can bypass GamStop! It is possible to play at non-GamStop casinos, which are sites that are not controlled by UK or UKGC.</p>
-<h2>Correlation between crypto gambling and casinos not on GamStop</h2>
-<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/26/1685109491283-9fb1fc6e-fbd0-4302-9fd1-2f02d03c2c95.png" class="fr-fic fr-dib" width="615" height="344"></p>
-<p>A lot of gamblers gambling at <a href="https://www.nongamstopbets.com/casinos-not-on-gamstop/">casino sites not on GamStop</a> in the UK have <a href="https://coinjournal.net/cryptocurrencies/invest/">invested in crypto</a>. They will continue to use it and they adore this idea. See, these people don&rsquo;t like the limitations UKGC has set. They want and need freedom while playing. Non-GamStop casinos offer just that.&nbsp;</p>
-<p>Using crypto means players can get even bigger bonuses, stay anonymous, and do so much more that are not a thing at UKGC sites.&nbsp;</p>
-<p>However, there are some issues we must mention. For instance, these casinos are not heavily regulated like UKGC sites which means that some of them can be problematic. Sites of this kind also don&rsquo;t invest in security as massive UK casinos do.&nbsp;</p>
-<p>All of this suggests one simple thing. Responsible gambling tools are even more important at non-GamStop casinos. We can say that they are essential and something you should use in 100% of cases. These tools can keep you safe when nothing else will work.&nbsp;</p>
-<h2>Other responsible gambling tools in addition to GamStop</h2>
-<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/26/1685109741540-0cf7d444-80eb-4f53-a480-bb4aec63e928.png" class="fr-fic fr-dib" width="615" height="343"></p>
-<p>Today when more and more people try to <a href="https://www.bbc.com/news/technology-65610851">equate cryptocurrencies with gambling</a>, it is important to show that there are already available tools that can cover all the requests. If you think that GamStop is the only tool of this kind, you are wrong.&nbsp;</p>
-<p>As a matter of fact, users have a lot of additional options they can use at any given moment. All of these methods, options or apps if you like have one thing they are designed to do. They can be used alongside GamStop and help a player completely. What this means is that GamStop will cover UKGC sites and another tool will cover all the rest. This combo can make gambling online extremely safe and secure. Anyway, let&rsquo;s see the most common options you can use.&nbsp;</p>
-<ul>
-<li>
-<h3>GamBan</h3>
-</li>
-</ul>
-<p>GamBan comes in the form of an app. You can get it on computers and smartphones if you like. The app is not free. But you will get a 7-day free trial you can use to check out the app and see how it works.&nbsp;</p>
-<p>The idea is simple. Once installed, the app will block access to gambling and betting websites. You are done. Additionally, <a href="https://coinjournal.net/news/gamban-blocks-crypto-platforms-will-gamstop-take-actions/">GamStop started blocking crypto platforms</a> and it constantly expands its database. There is no way you can remove the app and continue playing and this makes GamStop so effective.</p>
-<ul>
-<li>
-<h3>BetBlocker</h3>
-</li>
-</ul>
-<p>Betblocker is one of the free apps (for this purpose of course) that is rare today. You can install it right now and set it all up in 2 minutes. Then you will see that over 85.000 gambling sites are not available any longer. Once the time frame you have selected expires, you can remove the app and play again.&nbsp;</p>
-<ul>
-<li>
-<h3>NetNanny</h3>
-</li>
-</ul>
-<p>This is probably the oldest app of this kind. It was developed in the 90s. Then, it was developed for parental controls which some people used. In the 2000s it added functionality to block gambling and betting sites.&nbsp;</p>
-<p>Netnanny works on all operating systems and it is very effective. Try it and you will see why some people have been using it for years.&nbsp;</p>
-<h2>Empowering crypto users and ensuring a sustainable gambling ecosystem</h2>
-<p>Using GamStop or some other tools we have listed here is needed, especially if you like playing at crypto casinos. These are all tools that can help you when you need help the most. At the same time, these can help you control your gambling desires more so you can play in a clever way.</p>
-<p>When using these tools and when you invest some time into learning all about responsible gambling, you can make this form of fun special. You can play and don&rsquo;t have to worry about gambling addiction or anything similar.&nbsp;</p>
-<p>Another benefit of all this is that the gambling ecosystem will become sustainable. There won&rsquo;t be a lot of people who have issues while playing, meaning that the whole ecosystem will flourish. Without these tools and responsible gambling, all of this will be much harder and maybe even impossible.&nbsp;</p>
-<h2>Conclusion</h2>
-<p>Responsible gambling tools are one thing we all need. These can make any form of gambling better and safer. therefore, it is important to <a href="https://www.irishcentral.com/gamstop-role-promoting-responsible-gambling-ireland">promote them properly</a> around the world and adopt the available tools with different topics.&nbsp;</p>
-<p>Although all players may want to consider these at some point, crypto gamblers simply must. They are in an ecosystem that is still relatively new, so using all the help they can is important.</p>
+<p dir="ltr">Blocktrade, a gamified crypto asset and marketplace, has <a href="https://www.prnewswire.com/news-releases/blocktrade-raises-4-5m-prior-to-public-round-of-btex-token-sale-301835886.html" rel="noopener noreferrer" target="_blank">announced</a> that it has raised &euro;4.5 million in an exclusive sale of its BTEX token. The sale, which ran from May 5th to 18th, was open to Blocktrade VIP members and attracted over 1,400 participants from 42 countries.</p>
+<p dir="ltr">The BTEX token will be used to power the Blocktrade ecosystem, with holders able to access a variety of benefits, including reduced trading fees and participation in airdrops.</p>
+<p dir="ltr">Blocktrade CEO Christian Niedermueller said that the successful token sale is a testament to the growing demand for the platform&rsquo;s gamified <a href="https://coinjournal.net/news/">crypto</a> service.&nbsp;</p>
+<p dir="ltr">&ldquo;<em>We are grateful for the overwhelming response and participation by Blocktrade VIP members to this exclusive token sale round,&rdquo; Niedermueller added. &ldquo;This show of enthusiasm points to the appetite amongst crypto users today for an accessible and engaging digital asset trading platform. We now look forward to continuing to enhance the experience on offer to Blocktrade&rsquo;s ever-growing community</em>.&rdquo;</p>
+<p dir="ltr">The launch of the BTEX token is the latest development in Blocktrade&rsquo;s rapid growth. The platform was established in 2018 and has received VASP registrations in Estonia, Italy, and Slovenia.</p>
 
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/gamstop-crypto-fostering-responsible-gambling-for-a-sustainable-ecosystem/">GamStop &amp; Crypto: fostering responsible gambling for a sustainable ecosystem</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/">Blocktrade raises €4.5M in its BTEX Token sale</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>https://coinjournal.net/news/blocktrade-raises-e4-5m-in-its-btex-token-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Russia to use crypto exchanges for cross-border transactions</title>
+		<link>https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/</link>
+					<comments>https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/#respond</comments>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 17:50:01 +0000</pubDate>
+				<category><![CDATA[Policy and Regulation]]></category>
+		<category><![CDATA[Crypto regulation]]></category>
+		<category><![CDATA[Cryptocurrency Exchange]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/</guid>
+
+					<description><![CDATA[<p>Russia appears to have ditched plans for a state-run cryptocurrency exchange, according to a new report. Instead, it is looking to establish a framework to support cryptocurrency exchanges and digital assets in cross-border transactions. The news was reported today by a local media outlet, citing comments from Anatoly Aksakov, the head of the State Duma [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/">Russia to use crypto exchanges for cross-border transactions</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">Russia appears to have ditched plans for a state-run cryptocurrency exchange, according to a new report.</li>
+<li dir="ltr">Instead, it is looking to establish a framework to support cryptocurrency exchanges and digital assets in cross-border transactions.</li>
+<li dir="ltr">The news was reported today by a local media outlet, citing comments from Anatoly Aksakov, the head of the State Duma committee on financial markets. </li>
+</ul>
+<p dir="ltr">Russia is considering the use of <a href="https://coinjournal.net/exchanges/">cryptocurrency exchanges</a> to facilitate the settlement of cross-border transactions, according to the latest crypto news from the country.</p>
+<p dir="ltr">Local media publication Izvestiya <a href="https://iz-ru.translate.goog/1519017/mariia-kolobova/novyi-bitok-v-rossii-poiaviatsia-pravila-sozdaniia-i-raboty-kriptobirzh?" rel="noopener noreferrer" target="_blank">revealed</a> this development on Monday, citing a member of the State Duma.</p>
+<h2 dir="ltr">Russia gives up plans for national crypto exchange</h2>
+<p dir="ltr">As CoinJournal<a href="https://coinjournal.net/news/russian-lawmakers-devise-plan-to-create-a-state-run-crypto-exchange/">&nbsp;<u>reported</u></a> last November, Russian authorities had hinted at plans to establish a state-run cryptocurrency exchange. The country&rsquo;s Finance Minister Anton Siluanov also revisited this idea in April, noting the push to have a new payments system that included crypto in place.</p>
+<p dir="ltr">As Izvestiya reported today, the country appears to be shelving these plans in favour of a new framework that would support crypto exchanges.&nbsp;</p>
+<p dir="ltr">The publication quoted Anatoly Aksakov, the head of the State Duma committee on financial markets. According to Aksakov, <a href="https://coinjournal.net/news/tag/russia/">Russia</a> is now looking to adopt a framework that would see rules for the use of crypto exchanges for cross-border settlements established.</p>
+<p dir="ltr">The plans have received the support of the Ministry of Finance, which was reportedly against the launch of a single national digital assets exchange.</p>
+<p dir="ltr">Ivan Chebeskov, director of financial policy at the Ministry of Finance told Izvestia that the ministry is focused on proper and comprehensive regulation of cryptocurrencies.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/">Russia to use crypto exchanges for cross-border transactions</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/russia-to-use-crypto-exchanges-for-cross-border-transactions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DOT/USD technical analysis – will the bottom hold?</title>
+		<link>https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/</link>
+					<comments>https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/#respond</comments>
+		
+		<dc:creator><![CDATA[Mircea Vasiu]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 17:11:48 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/</guid>
+
+					<description><![CDATA[<p>Polkadot hodlers are underwater A bullish scenario remains valid if the lows hold A move above $7 should lead to more gains It has been a tough period for long-term holders of Polkadot. The DOT/USD exchange rate has moved South relentlessly after peaking at $56 in late 2021. From $56 to $5, it was a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/">DOT/USD technical analysis – will the bottom hold?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Polkadot hodlers are underwater</li>
+<li>A bullish scenario remains valid if the lows hold</li>
+<li>A move above $7 should lead to more gains</li>
+</ul>
+<p></p>
+<p>It has been a tough period for long-term holders of Polkadot. The DOT/USD exchange rate has moved South relentlessly after peaking at $56 in late 2021.</p>
+<p>From $56 to $5, it was a straight decline. It took only one year for Polkadot to frustrate bulls.</p>
+<p>And even now, as cryptocurrencies have rallied in 2023, one should be scared looking at the daily chart. After all, the bounce from the lows looks so small when interpreting the bigger picture that it is difficult to find a bullish argument.</p>
+<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/29/1685379552142-7dac14fa-a02c-4f5e-8357-d08b24777f3d.jpg" style="width: 1800px" class="fr-fic fr-dib" width="1800" height="488"></p>
+<p><a href="https://www.tradingview.com/symbols/DOTUSD/?exchange=CRYPTO" rel="noopener noreferrer" target="_blank">Polkadot chart by TradingView</a></p>
+<h2>Polkadot should overcome $7 resistance area for bulls to be in control</h2>
+<p>Zooming in, one may see the 2023 rally that brought back optimism in the cryptocurrency market. Sure enough, Polkadot already gave back more than half of its YTD gains.</p>
+<p>But the invalidation level for a bullish scenario still holds. Effectively, it means that the recent price action might be nothing but a correction part of a bigger-degree bullish trend.</p>
+<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/29/1685379552168-6ca40a35-f033-4965-9d9f-0712d6d4a890.jpg" style="width: 1800px" class="fr-fic fr-dib" width="1800" height="488"></p>
+<p><a href="https://www.tradingview.com/symbols/DOTUSD/?exchange=CRYPTO" rel="noopener noreferrer" target="_blank">Polkadot chart by TradingView</a></p>
+<p>The Elliott Waves theory states that an impulsive move (i.e., the one that began at the start of the year) is followed by a corrective structure, an a-b-c.</p>
+<p>This a-b-c that corrects a bullish trend should have two waves moving in the opposite direction (i.e., waves a and c), and one that moves in the main trend&rsquo;s direction.</p>
+<p>It means that one may easily say that the move from the 2022 lows is an impulsive structure, and the decline from the 2023 highs is the a-b-c. In this case, the implications are bullish for Polkadot and bearish for the US dollar.</p>
+<p>However, only a move above the pivotal $7 level would cement the bullish Elliott Waves scenario. Until then, bulls might wish for the price action to hold above the invalidation area shown on the chart above.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/">DOT/USD technical analysis – will the bottom hold?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/dot-usd-technical-analysis-will-the-bottom-hold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Miner earnings from Bitcoin fees decline 90% from peak of BRC-20 frenzy</title>
+		<link>https://coinjournal.net/news/miner-earnings-from-bitcoin-fees-decline-90-from-peak-of-brc-20-frenzy/</link>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 17:02:37 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Bitcoin Mining]]></category>
+		<category><![CDATA[BTC]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/miner-earnings-from-bitcoin-fees-decline-90-from-peak-of-brc-20-frenzy/</guid>
+
+					<description><![CDATA[<p>Bitcoin miners&#8217; revenue from fees dropped 90% since the BRC-20 peak, from $17.8 million daily to $1.7 million per day as of 29 May, 2023. However, current levels remain within historical levels with only 310 out of 4674 trading days having seen greater fees. In 2018, transaction fees were higher than recent highs only on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/miner-earnings-from-bitcoin-fees-decline-90-from-peak-of-brc-20-frenzy/">Miner earnings from Bitcoin fees decline 90% from peak of BRC-20 frenzy</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">Bitcoin miners&rsquo; revenue from fees dropped 90% since the BRC-20 peak, from $17.8 million daily to $1.7 million per day as of 29 May, 2023.</li>
+<li dir="ltr">However, current levels remain within historical levels with only 310 out of 4674 trading days having seen greater fees.</li>
+<li dir="ltr">In 2018, transaction fees were higher than recent highs only on two trading days.</li>
+</ul>
+<p dir="ltr">Bitcoin miner revenue from transaction fees has declined significantly since the BRC-20 frenzy that drove network activity higher earlier in the month.</p>
+<p dir="ltr"><a href="https://coinjournal.net/news/tag/bitcoin-mining/">Bitcoin mining</a> is a key component of the flagship cryptocurrency&rsquo;s network operations and miners earn from the set subsidy as well as transaction fees. BRC-20 tokens are a type of fungible tokens created on the Bitcoin blockchain. They are ordinal inscriptions that can are used to represent a variety of things, including digital assets and loyalty points.</p>
+<p dir="ltr">Miner revenue from fees falls sharply after BRC-20 frenzy</p>
+<p dir="ltr">According to data from Glassnode, a leading on-chain and financial markets data platform, miners were earning roughly $17.8 million from transaction fees per day. This happened as <a href="https://coinjournal.net/bitcoin/">Bitcoin price</a> traded near the YTD highs and as the BRC-20 craze hit the industry.&nbsp;</p>
+<p dir="ltr">However, as of May 29, 2023, the earnings had declined considerably and miners were taking home just $1.7 million from network fees per day.</p>
+<p dir="ltr">Miner earnings from fees has thus fallen by about $16.1 million, or 90.85% from that recent peak, Glassnode highlighted on Monday.</p>
+<p dir="ltr">But as the platform noted, miners&rsquo; revenues from fees dropping to latest levels still sees the figures near historical ones seen in most trading days. Only 310 out of 4,674 days, or 6.7% of BTC trading days have seen higher miner revenue from fees.</p>
+<p dir="ltr">Glassnode <a href="https://twitter.com/glassnode/status/1663124431378567168" rel="noopener noreferrer" target="_blank">noted</a>:<a href="https://twitter.com/glassnode/status/1663124431378567168" rel="noopener noreferrer" target="_blank"></a></p>
+<p dir="ltr">&ldquo;<em>At the peak of the BRC-20 frenzy, Bitcoin miners were earning $17.8M in transaction fees, with only 2 trading days across the 2018 peak recording a larger fee revenue. Currently, miners are earning $1.7M in fee revenue, a -$16.1M decline from the recent peak. However, this remains significantly elevated when compared to historical precedence, with only 310 / 4674 (6.7%) trading days recording greater fees</em>.&rdquo;</p>
+<p dir="ltr">The Bitcoin network recently saw a massive surge in activity as the demand for BRC-20 tokens soared. The result, as <a href="https://coinjournal.net/news/why-are-bitcoin-transaction-fees-rising-and-what-are-brc-20-tokens/">highlighted here</a>, was network congestion as the rush to inscriptions helped fees to spike to year-to-date highs. It proved a bumper season for miners as Glassnode data shows.</p>
+<p dir="ltr">In 2018, when Bitcoin fees also spiked significantly, only 2 trading days had recorded transaction fees higher than the $17.8 million miners earned recently.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/miner-earnings-from-bitcoin-fees-decline-90-from-peak-of-brc-20-frenzy/">Miner earnings from Bitcoin fees decline 90% from peak of BRC-20 frenzy</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin tries to invalidate a head and shoulders pattern – can it do it?</title>
+		<link>https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/</link>
+					<comments>https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Mircea Vasiu]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 16:03:48 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/</guid>
+
+					<description><![CDATA[<p>Bitcoin fails to confirm a reversal pattern Bulls fight to invalidate a head and shoulders Friday&#8217;s jobs report might be key for Bitcoin and the US dollar After an explosive start to the year, Bitcoin&#8217;s price stopped advancing after meeting stiff resistance at the $30k area. For bulls, it was supposed to be just a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/">Bitcoin tries to invalidate a head and shoulders pattern – can it do it?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Bitcoin fails to confirm a reversal pattern</li>
+<li>Bulls fight to invalidate a head and shoulders</li>
+<li>Friday&rsquo;s jobs report might be key for Bitcoin and the US dollar</li>
+</ul>
+<p></p>
+<p>After an explosive start to the year, Bitcoin&rsquo;s price stopped advancing after meeting stiff resistance at the $30k area. For bulls, it was supposed to be just a matter of time until the resistance would give way to more gains.</p>
+<p>But the bears did not give up. Just the opposite, considering that a reversal pattern formed in the last couple of months.</p>
+<p>Indeed, it is not difficult to spot a head and shoulders pattern. Such a pattern forms at the end of bullish trends and traders look for the market to travel the minimum distance shown by its measured move.</p>
+<p>In this case, the minimum distance to confirm the reversal is around $23k. Only the market did not travel there, putting into question the very reversal.</p>
+<p>So are we in for an invalidation of the head and shoulders pattern? If so, when will bulls be in control again?</p>
+<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/04/29/1685375438810-0850eb5d-b281-4e17-8747-dd33c04f68ce.jpg" style="width: 1080px" class="fr-fic fr-dib" width="1080" height="489"></p>
+<p><a href="https://www.tradingview.com/symbols/BTCUSD/?exchange=CRYPTO" rel="noopener noreferrer" target="_blank">Bitcoin chart by TradingView</a></p>
+<h2>Friday&rsquo;s NFP report is key for Bitcoin and the US dollar</h2>
+<p>It is no surprise to anyone that Bitcoin&rsquo;s negative correlation with the US dollar increased lately. More precisely, since institutional investors started including Bitcoin in their portfolios, the leading cryptocurrency has become nothing more than a regular asset trading in sync with other financial market assets.</p>
+<p>The best way to prove this theory is to examine the EUR/USD and Bitcoin price action in the past several months.</p>
+<p>EUR/USD bottomed last October below 0.96. Bitcoin bottomed around the same date.</p>
+<p>Next, EUR/USD rallied to above 1.10. Bitcoin rallied, too, following a similar pattern.</p>
+<p>Naturally, it is not about the euro, but the dollar.</p>
+<p>A negative correlation means that the two (i.e., Bitcoin and the US dollar) move in opposite directions. If they move tick by tick, the maximum level the correlation may hit is -1.</p>
+<p>Obviously, it is not the case, as such extremes are rarely reached. But one cannot ignore that Bitcoin moves in sync with the dollar.</p>
+<p>As such, Friday&rsquo;s NFP report is key for Bitcoin and the US dollar. A miss would send the dollar lower and Bitcoin higher. Hence, bulls should watch the point that would invalidate the head and shoulders pattern &ndash;$30k.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/">Bitcoin tries to invalidate a head and shoulders pattern – can it do it?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/bitcoin-tries-to-invalidate-a-head-and-shoulders-pattern-can-it-do-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin.com&#8217;s VERSE Token Now Available for Trading on Kucoin</title>
+		<link>https://coinjournal.net/news/bitcoin-coms-verse-token-now-available-for-trading-on-kucoin/</link>
+					<comments>https://coinjournal.net/news/bitcoin-coms-verse-token-now-available-for-trading-on-kucoin/#respond</comments>
+		
+		<dc:creator><![CDATA[Chainwire &#160;]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 14:38:00 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/?p=141050</guid>
+
+					<description><![CDATA[<p>Tokyo, Japan, May 29th, 2023, Chainwire Bitcoin.com&#8217;s ecosystem token, VERSE, has been listed on Kucoin, a top-tier cryptocurrency exchange platform known for being the home of crypto gems. Trading is open now, with the initial pair being VERSE/USDT. A milestone moment for Bitcoin.com, this first exchange listing for VERSE is significant because it amplifies the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-coms-verse-token-now-available-for-trading-on-kucoin/">Bitcoin.com&#8217;s VERSE Token Now Available for Trading on Kucoin</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>Tokyo, Japan, May 29th, 2023, Chainwire</strong></p>
+<p>Bitcoin.com&rsquo;s ecosystem token, <a href="https://verse.bitcoin.com/" target="_blank" rel="nofollow noopener">VERSE</a>, has been listed on Kucoin, a top-tier cryptocurrency exchange platform known for being the home of crypto gems. Trading is open now, with the initial pair being VERSE/USDT.</p>
+<p>A milestone moment for Bitcoin.com, this first exchange listing for VERSE is significant because it amplifies the token&rsquo;s reach and accessibility to millions of users around the globe.</p>
+<p>VERSE fuels Bitcoin.com&rsquo;s ecosystem by gamifying and incentivizing onboarding and engagement. The goal is to bring the advantages of cryptocurrency to more people and to fast-track the world&rsquo;s transition to a more inclusive financial system.</p>
+<blockquote><p>Bitcoin.com CEO Dennis Jarvis said, &ldquo;At<a href="http://bitcoin.com/" target="_blank" rel="nofollow noopener">&nbsp;</a>Bitcoin.com, we believe in creating economic freedom and expanding access to opportunities by providing the tools people need to buy, sell, and use cryptocurrencies. We are proud to introduce VERSE, a token that supercharges our mission. And by listing on Kucoin, we&rsquo;re making it easier than ever for people to trade VERSE and harness its potential.&rdquo;</p></blockquote>
+<p>By facilitating rewards and serving as a utility token, VERSE enhances users&rsquo; experiences within the Bitcoin.com ecosystem and beyond.</p>
+<blockquote><p>&ldquo;VERSE reduces hurdles, making the onboarding experience for newcomers seamless, fun, and rewarding,&rdquo; said Corbin Fraser, Head of Financial Services at<a href="http://bitcoin.com/" target="_blank" rel="nofollow noopener">&nbsp;</a>Bitcoin.com. He added, &ldquo;We&rsquo;re in the process of making VERSE a multichain token, which will increase its utility. This is something that exemplifies our commitment to freedom of choice, a core value that permeates everything we do.&rdquo;</p></blockquote>
+<p>Since its inception in 2015, Bitcoin.com has evolved from pioneer to established leader in the crypto industry, hitting the 40 million self-custody wallets milestone earlier this month. The Bitcoin.com Wallet supports over a hundred cryptoassets across Bitcoin, Ethereum, Polygon, Avalanche, and Bitcoin Cash, with more chains coming soon. By providing 24/7 support, vast educational resources, and an award-winning news portal, Bitcoin.com has proven itself as the world&rsquo;s gateway to Bitcoin and beyond.</p>
+<p><a href="https://www.kucoin.com/" target="_blank" rel="nofollow noopener">Kucoin</a>, a platform where 1 out of 4 crypto holders worldwide trade, has consistently been a preferred choice for discovering hidden gems. Its 27 million registered users across 207 countries and regions demonstrate its widespread popularity and credibility. In celebration of the VERSE listing, Kucoin is hosting a VERSE trading contest with a lucrative $40,000 prize pool.</p>
+<p>For more information about the VERSE listing and trading contest, visit Kucoin&rsquo;s&nbsp;<a href="https://www.kucoin.com/news/verse-landing-party-40000-usdt-in-verse-to-be-won" target="_blank" rel="nofollow noopener">official website</a>.</p>
+<h3>About Bitcoin.com</h3>
+<p><a href="https://www.bitcoin.com/" target="_blank" rel="nofollow noopener">Bitcoin.com</a> is committed to making Bitcoin and other cryptocurrencies accessible to everyone. From offering educational resources and timely news to providing intuitive self-custody products,<a href="http://bitcoin.com/" target="_blank" rel="nofollow noopener">&nbsp;</a>Bitcoin.com empowers individuals to explore the possibilities of cryptocurrencies and the future of finance.</p>
+<p>Follow Bitcoin.com on <a href="https://twitter.com/BitcoinCom" target="_blank" rel="nofollow noopener">Twitter</a> for more information.</p>
+<h3>About VERSE</h3>
+<p>Launched in December 2022, <a href="https://verse.bitcoin.com/" target="_blank" rel="nofollow noopener">VERSE</a> is Bitcoin.com&rsquo;s rewards and utility token. By incentivizing and gamifying engagement in the Bitcoin.com ecosystem, VERSE supercharges<a href="http://bitcoin.com/" target="_blank" rel="nofollow noopener">&nbsp;</a>Bitcoin.com&rsquo;s mission to onboard the world to crypto and accelerate the transition towards a more inclusive financial system. VERSE also powers Bitcoin.com&rsquo;s decentralized exchange Verse DEX, where anyone can trade permissionlessly and earn yield by contributing to liquidity pools and with Verse Farms.</p>
+<p>Follow VERSE on <a href="https://twitter.com/VerseEcosystem" target="_blank" rel="nofollow noopener">Twitter</a> and Join VERSE&rsquo;s official <a href="http://t.me/GetVerse" target="_blank" rel="nofollow noopener">Telegram</a> channel for more updates and additional information.</p>
+<h3>About Kucoin</h3>
+<p><a href="https://www.kucoin.com/" target="_blank" rel="nofollow noopener">Kucoin</a> is a global cryptocurrency exchange that supports over 750 projects with 1,300+ trading pairs. Known as the &ldquo;People&rsquo;s Exchange,&rdquo; Kucoin boasts an extensive user base, with 70% of its users hailing from Europe, the Middle East &amp; Africa, and SEA. Recognized for its excellence, Kucoin has received accolades from TokenInsight, CoinMarketCap, Forbes Advisor, and The Ascent.</p>
+<p><strong>Contact</strong></p>
+<p>Head of Marketing, Andrew Todd, Bitcoin.com, andrew@bitcoin.com</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-coms-verse-token-now-available-for-trading-on-kucoin/">Bitcoin.com&#8217;s VERSE Token Now Available for Trading on Kucoin</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/bitcoin-coms-verse-token-now-available-for-trading-on-kucoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bybit gets “in-principle” approval to begin operations in Kazakhstan</title>
+		<link>https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/</link>
+					<comments>https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 11:07:20 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/</guid>
+
+					<description><![CDATA[<p>Bybit has been in the process of expanding its service offerings. Bybit received &#8220;in-principle&#8221; approval from the Astana International Financial Centre to begin operations in Kazakhstan. The exchange will begin operating as a digital asset trading facility and as a custody services provider in the country. Bybit has announced that it has received an &#8220;in-principle&#8221; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/">Bybit gets “in-principle” approval to begin operations in Kazakhstan</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Bybit has been in the process of expanding its service offerings.</li>
+<li>Bybit received &ldquo;in-principle&rdquo; approval from the Astana International Financial Centre to begin operations in Kazakhstan.</li>
+<li>The exchange will begin operating as a digital asset trading facility and as a custody services provider in the country.</li>
+</ul>
+<p>Bybit has announced that it has received an &ldquo;in-principle&rdquo; approval from the Astana Financial Services Authority (AFSA) to start operating as a digital asset trading facility and as a custody services provider in Kazakhstan.</p>
+<p>Commenting on the achievement, the co-founder and CEO of Bybit, Ben Zhou, stated that the Commonwealth of Independent States (CIS) as a region provides promising potential for the crypto industry.</p>
+<h2>Bybit expansion drive</h2>
+<p>Bybit has been in the process of expanding its service and product offering over the past few months.</p>
+<p>The most recent move was its announcement on May 2 that it will <a href="https://coinjournal.net/news/bybit-taps-into-crypto-lending/">start offering crypto lending services</a>.</p>
+<p>In March this year, Bybit announce a partnership with Mastercard for a new debit card to allow crypto payments.</p>
+<h2>Kazakhstan and cryptocurrencies</h2>
+<p>In February, local officials in <a href="https://coinjournal.net/news/kazakhstan-to-tax-bitcoin-miners-as-new-law-comes-into-effect/">Kazakhstan announced new regulations</a> requiring 75% of the revenue made from crypto mining to be sold through a crypto exchange as the country cracks down on tax evasion in the industry.</p>
+<p>Kazakhstan recently announced that it had collected about $7 million in crypto taxes in 2022. The country is also in the pilot phase of its digital current development.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/">Bybit gets “in-principle” approval to begin operations in Kazakhstan</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/bybit-gets-in-principle-approval-to-begin-operations-in-kazakhstan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
