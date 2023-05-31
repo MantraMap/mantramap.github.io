@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Fri, 26 May 2023 16:44:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 May 2023 16:36:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FTX Case Passed to Third Circut Court of Appeals: ‘The facts are not in dispute’</title>
+		<link>https://cryptobriefing.com/ftx-case-passed-to-third-circut-court-appeals/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 16:36:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124345</guid>
+
+					<description><![CDATA[Delaware District Judge Colm F. Connolly has approved to pass the case involving FTX to the U.S. Third Circuit Court of Appeals, leading the way for an independent investigators appointment,...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/10/21122940/sam-bankman-fried-cover-838x440.png" width="838" height="440" />	</item>
+		<item>
 		<title>Gulf Binance Receives Green Light to Launch Digital Asset Exchange in Thailand</title>
 		<link>https://cryptobriefing.com/gulf-binance-receives-green-light/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -447,21 +461,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/07153953/a16z-metaverse-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>The SEC Sues Bittrex for Operating Unregulated Securities Exchange</title>
-		<link>https://cryptobriefing.com/the-sec-sues-bittrex-for-operating-unregulated-securities-exchange/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 17:46:06 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[bittrex]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=123999</guid>
-
-					<description><![CDATA[The SECs war on crypto rages on. The regulator filed civil charges today against Bittrex for operating as a national securities exchange without being properly registered. Scrubbing Problematic Statements Yet...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/06/14164701/sec-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
