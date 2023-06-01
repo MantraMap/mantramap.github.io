@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Tue, 30 May 2023 16:36:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 May 2023 19:40:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>IRS Can Access Your Coinbase Trade Records, John Doe Summons Valid</title>
+		<link>https://cryptobriefing.com/irs-can-access-your-coinbase-trade-records/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Wed, 31 May 2023 19:40:19 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124359</guid>
+
+					<description><![CDATA[A U.S. Federal court has confirmed that the Internal Revenue Service (IRS) holds the authority to demand user data from Coinbase, a leading cryptocurrency exchange. The verdict dismissed constitutional objections...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2019/12/02093603/shutterstock_1077801113-868x328.jpg" width="868" height="328" />	</item>
+		<item>
 		<title>FTX Case Passed to Third Circut Court of Appeals: ‘The facts are not in dispute’</title>
 		<link>https://cryptobriefing.com/ftx-case-passed-to-third-circut-court-appeals/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -444,22 +458,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/09/08032825/sec-coinbase-sue-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>VC Firm Andreessen Horowitz Releases New Optimism Rollup Client</title>
-		<link>https://cryptobriefing.com/vc-firm-andreessen-horowitz-releases-new-optimism-rollup-client/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Wed, 19 Apr 2023 18:08:09 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[optimism]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=124021</guid>
-
-					<description><![CDATA[Venture Capital firm a16z is aiming to diversify Optimisms rollup clients with a client of its own. Magi and op-node Andreessen Horowitz is launching new infrastructure on Optimism. The venture...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/05/07153953/a16z-metaverse-cover-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
