@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Wed, 31 May 2023 19:40:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jun 2023 16:32:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crypto Gets Oily: Olive Oil Company Issued Euro Stablecoin Bond on Obligate</title>
+		<link>https://cryptobriefing.com/olive-oil-company-issued-euro-stablecoin-bond/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 16:32:27 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124365</guid>
+
+					<description><![CDATA[French agricultural firm Lamar Olive Oil has successfully issued an on-chain bond on the Switzerland-based DeFi platform Obligate, marking a notable development in business financing models using crypto: At @obligatecom...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/02/10200519/digital-euro-cover-838x440.jpg" width="838" height="440" />	</item>
+		<item>
 		<title>IRS Can Access Your Coinbase Trade Records, John Doe Summons Valid</title>
 		<link>https://cryptobriefing.com/irs-can-access-your-coinbase-trade-records/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -442,21 +457,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/12/21093959/terra-cover-1-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Coinbase to Potentially Launch an Offshore Derivatives Platform</title>
-		<link>https://cryptobriefing.com/coinbase-to-potentially-launch-an-offshore-derivatives-platform/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Tom Carreras]]></dc:creator>
-		<pubDate>Fri, 21 Apr 2023 16:54:19 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Bermuda]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=124044</guid>
-
-					<description><![CDATA[Coinbase may be planning to use its newly acquired regulatory license to operate in Bermuda to launch a derivatives exchange. Coinbase Bermuda Coinbase is planning on expanding its operations worldwide....]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/09/08032825/sec-coinbase-sue-cover-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
