@@ -795,4 +795,4 @@ The <a href="https://redot.com/blog/bull-call-spread/" data-wpel-link="external"
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3813 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6668963 metric#prefetches=402 metric#store-reads=16 metric#store-writes=2 metric#store-hits=407 metric#store-misses=0 metric#sql-queries=14 metric#ms-total=200.38 metric#ms-cache=13.87 metric#ms-cache-avg=0.8158 metric#ms-cache-ratio=6.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3813 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6668963 metric#prefetches=402 metric#store-reads=16 metric#store-writes=2 metric#store-hits=407 metric#store-misses=0 metric#sql-queries=14 metric#ms-total=256.48 metric#ms-cache=18.07 metric#ms-cache-avg=1.0627 metric#ms-cache-ratio=7.1 -->
