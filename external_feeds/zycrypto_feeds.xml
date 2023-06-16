@@ -12,7 +12,7 @@
 	<atom:link href="https://zycrypto.com/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zycrypto.com/category/news/</link>
 	<description>ZyCrypto Is A Cryptocurrency News Media, Focusing On Daily News, Expert Opinions, Analysis, Reviews, And So Much More.</description>
-	<lastBuildDate>Tue, 13 Jun 2023 20:03:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jun 2023 20:35:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,587 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Exposed Security Challenges: Sturdy Finance Hack Raises Concerns for DeFi Protocols</title>
+		<link>https://zycrypto.com/exposed-security-challenges-sturdy-finance-hack-raises-concerns-for-defi-protocols/</link>
+					<comments>https://zycrypto.com/exposed-security-challenges-sturdy-finance-hack-raises-concerns-for-defi-protocols/#respond</comments>
+		
+		<dc:creator><![CDATA[Marco Tulio]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 20:35:59 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82098</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Euler Finance Hacker Returns Almost All Of $197 Million Loot" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The decentralized finance (DeFi) protocol, Sturdy Finance, lost 442 ETH (approximately $765,000 at the time of this publication) due to a security vulnerability exploited by some hackers.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Euler Finance Hacker Returns Almost All Of $197 Million Loot" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/03/The-Euler-Finance-Hacker-Returns-Almost-All-Of-197-Million-Loot-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The decentralized finance (DeFi) protocol, Sturdy Finance, lost 442 ETH (approximately $765,000 at the time of this publication) due to a security vulnerability exploited by some hackers.</p>
+
+
+
+<p>The blockchain security company, <a href="https://twitter.com/peckshield/status/1668067645638299648">PeckShield</a>, alerted the DeFi protocol on Twitter about fraudulent transactions through which attackers manipulated prices on the platform.</p>
+
+
+
+<p>&#8220;We are aware of the reported exploit of the Sturdy protocol. All markets have been paused; no additional funds are at risk, and no user actions are required at this time,&#8221; affirmed Sturdy Finance.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-sturdy-finance-loses-765-000-in-eth"><strong>Sturdy Finance loses $765,000 in ETH</strong></h2>
+
+
+
+<p>The DeFi platform confirmed that it was a victim of the attack and sent a message to its users, assuring them that the necessary measures have been taken to prevent further funds from being stolen from the protocol.</p>
+
+
+
+<p>However, the hacker managed to steal over $765,000 in ETH, which was sent to a cryptocurrency mixer.</p>
+
+
+
+<p>According to the security firm <a href="https://twitter.com/BlockSecTeam/status/1668084629654638592">BlockSec</a>, the attacker of Sturdy Finance exploited the read-only reentrancy in the protocol&#8217;s price balancer to manipulate the price of the BstETH-STABLE pair.</p>
+
+
+
+<p>&#8220;This technique is commonly used by <a href="https://zycrypto.com/hackers-steal-23-million-in-ether-shiba-inu-and-other-tokens-from-singaporean-exchange-bitrue/">hackers</a> to withdraw funds from DeFi protocols,&#8221; says BlockSec.</p>
+
+
+
+<p>It involves taking advantage of the ability to repeatedly call a function in a single transaction before the first function call has been completed. Thanks to this, hackers can withdraw more money than should be possible.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Sturdy Finance hack exposes the vulnerability of DeFi platforms</strong></h2>
+
+
+
+<p>Attacks on DeFi platforms have increased over time, leading many to consider this ecosystem a paradise for <a href="https://zycrypto.com/north-korean-hackers-linked-to-45-of-3-8-billion-crypto-theft-in-2022-chainalysis-reports/">hackers</a>. The theft of $625 million from Ronin Bridge and the $197 million stolen from <a href="https://zycrypto.com/euler-finance-197-million-hack-bears-links-with-north-korea-but-it-could-all-be-one-big-misdirection/">Euler Finance</a> are just examples of the vulnerability of these platforms.</p>
+
+
+
+<p>Due to financial transactions in DeFi occurring on the blockchain without intermediaries, there is an inherent risk. This lack of regulation and decentralization makes decentralized finance platforms vulnerable to attacks.</p>
+
+
+
+<p>Despite these challenges, DeFi has continued to evolve and demonstrate impressive growth. However, it is necessary for security also to evolve to create a safer environment for users.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/exposed-security-challenges-sturdy-finance-hack-raises-concerns-for-defi-protocols/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto Assets Struggle This Week With ETH, ADA, And DOGE Recording Losses As Markets Digest Fed’s Note</title>
+		<link>https://zycrypto.com/crypto-assets-struggle-this-week-with-eth-ada-and-doge-recording-losses-as-markets-digest-feds-note/</link>
+					<comments>https://zycrypto.com/crypto-assets-struggle-this-week-with-eth-ada-and-doge-recording-losses-as-markets-digest-feds-note/#respond</comments>
+		
+		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 20:22:53 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ADAUSD]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Doge]]></category>
+		<category><![CDATA[Dogecoin]]></category>
+		<category><![CDATA[DOGEUSD]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[ETHUSD]]></category>
+		<category><![CDATA[ETHUSDT]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82094</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Assets Struggle This Week With ETH, ADA, And DOGE Recording Losses As Markets Digest Fed’s Note" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Top assets lost value this week, with ADA shedding 22% and market leader BTC plunging to new lows not recorded in months. ]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Crypto Assets Struggle This Week With ETH, ADA, And DOGE Recording Losses As Markets Digest Fed’s Note" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Crypto-Assets-Struggle-This-Week-With-ETH-ADA-And-DOGE-Recording-Losses-As-Markets-Digest-Feds-Note-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<ul>
+<li>Top assets lost value this week, with ADA shedding 22% and market leader BTC plunging to new lows not recorded in months. </li>
+
+
+
+<li>The wider market was hit with deep losses wiping off $40 billion from the total market cap in 24 hours.</li>
+
+
+
+<li>Observers say the market had a slow adverse reaction to the Fed&#8217;s uncertain stance on interest rate hike before the full impact on Thursday.</li>
+</ul>
+
+
+
+<p>Bitcoin (BTC) dipped below $25,000 for the first time in three months after the Feds signalled more interest rate hikes could be implemented.</p>
+
+
+
+<p>The digital asset market was a sea of red as many coins posted weekly losses. Leading the losses in the top 20 by market capitalization was Polygon (MATIC), which plunged 24.1% and 8% in the past 24 hours. Solana (SOL) recorded a loss of 22.8% to trade at $14.54. </p>
+
+
+
+<p>The past seven days have seen Cardano (ADA) lose slight gains it picked up this month. The community dubbed <em>ETH Killer </em>shed 22% of its value this week and 7% over the past 24 hours. XRP also saw a price correction after its community went into a frenzy following the <a href="https://zycrypto.com/ripple-demands-investigation-into-former-sec-director-hinman-and-his-controversial-speech/">revelation</a> of the Hinman documents. XRP exchanges hands at $0.475 after losing 5.44% in the past week. </p>
+
+
+
+<p>Other altcoins posted huge losses, including Polkadot (DOT), BNB, Avalanche (AVAX) and Shiba Inu (SHIB), which recorded losses of 13.96%, 12.4%, 19.4%, and 17%, respectively. BTC bulls were left stunned after the asset dropped below the $25,000 mark for the first time in three months. At press time, BTC trades at $24,950, with several on-chain metrics pointing upwards for the asset. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-feds-keep-market-on-edge"><strong>Feds keep market on edge</strong></h2>
+
+
+
+<p>At the release of the recent Consumer Protection Index (CPI), the entire market anticipated a renewed push for most assets as many predicted the Feds would end the 14-month hike in interest rates. Although interest rates were maintained after positive inflation data, the Feds noted that rates could still go up towards the end of the year.</p>
+
+
+
+<p>A rate hike is detrimental to the market as it blunts investor excitement leading to a departure from risky assets. According to Josh Gilbert, an eToro market analyst.</p>
+
+
+
+<p>“<em>Much of the positivity we’ve seen from risk assets this year, including Bitcoin, is built on the expectation that inflation will fall and interest rates will peak, and then begin to be cut. Inflation is moving in the right direction but the comments from Jerome Powell signify that rates could stay higher for longer, which would put Bitcoin on the back foot,” </em>he explained.&nbsp;</p>
+
+
+
+<p>The stock market also reacted similarly to cryptocurrencies following comments from the Feds as both the S&amp;P 500 and Nasdaq dropped points.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/crypto-assets-struggle-this-week-with-eth-ada-and-doge-recording-losses-as-markets-digest-feds-note/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>XRP At $10 Envisioned Amid Growing Network Metrics Even As Ripple Aims to Claim ‘Big Win’ in SEC Case</title>
+		<link>https://zycrypto.com/xrp-at-10-envisioned-amid-growing-network-metrics-even-as-ripple-aims-to-claim-big-win-in-sec-case/</link>
+					<comments>https://zycrypto.com/xrp-at-10-envisioned-amid-growing-network-metrics-even-as-ripple-aims-to-claim-big-win-in-sec-case/#respond</comments>
+		
+		<dc:creator><![CDATA[Marco Tulio]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 18:39:01 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[XRP News]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[XRPUSDT]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82090</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Garlinghouse Reveals Ripple Will Spend $200M Defending Itself Against The SEC Even As Case Worries XRP Holders" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Latest on-chain data shows the Ripple network is expanding as the number of new XRP addresses increases.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Garlinghouse Reveals Ripple Will Spend $200M Defending Itself Against The SEC Even As Case Worries XRP Holders" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Latest on-chain data shows the Ripple network is expanding as the number of new XRP addresses increases.</p>
+
+
+
+<p>According to crypto analyst Ali Martinez, these increases in addresses usually signal a potentially significant price growth.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh6.googleusercontent.com/cuwa9LGQxoGDiSDABAaQ6P2zrC3ytnAdD_LAlZfP4eUYi9IDwgs4plhQeeKgQgWr20ihEioYpj3HWG2aApmQJPAnuTWw7_-NUlFwn3egazCFnULKOmG2g8nN04X7jU3FmcIThKzTMEbgCpQ3YASMuBg" alt=""/><figcaption class="wp-element-caption">Network Growth (XRP). Source: Santiment</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading" id="h-is-xrp-preparing-for-its-next-rally"><strong>Is XRP preparing for its next rally?</strong></h2>
+
+
+
+<p>As <a href="https://zycrypto.com/a-new-boom-for-xrp-record-breaking-address-activity-indicates-upturn-ahead-to-1-xrp-price/">reported</a> by ZyCrypto, the surge in new addresses helped drive the price of XRP above the psychological resistance of $0.50, reaching a peak of $0.056 on Tuesday as the XRP Army continue to envison the $10 price point.</p>
+
+
+
+<p>Although the increase in addresses could be a bullish signal suggesting the next XRP rally, it&#8217;s not a completely reliable indicator.</p>
+
+
+
+<p>Investors focus on the outcome of the U.S. Securities and Exchange Commission&#8217;s (SEC) lawsuit against Ripple, alleging that XRP is a Security. Recently, District Judge Annalisa Torres ordered the inclusion of former SEC director William Hinman&#8217;s speech in the case documents, where he stated that Ether is not a Security token.</p>
+
+
+
+<p>The use of these documents is crucial for Ripple in the case, as it could help the company demonstrate that, like ETH, XRP is not a security token.</p>
+
+
+
+<p>Additionally, a victory in the Ripple lawsuit could have significant implications for the price of XRP and the cryptocurrency market as a whole. According to several experts, Ripple and its token are undervalued, considering the company&#8217;s reserves exceed four times its market value. Furthermore, <a href="https://zycrypto.com/ripple-contemplates-ipo-as-sec-lawsuit-finally-nears-end-will-it-propel-xrp-to-10/">Ripple has expressed its desire to go public</a>, generating significant interest from institutional investors.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>XRP retreats 7.4%</strong></h2>
+
+
+
+<p>Today, the price of XRP experienced a 5.4% retreat, according to CoinGecko data, following the recent <a href="https://zycrypto.com/us-sec-files-fresh-charges-against-binance-and-ceo-changpeng-zhao/">SEC lawsuit</a> against Binance.US, Binance International, and Binance CEO Changpeng Zhao. The lawsuit alleges that the exchange allowed North American users to use the international platform without regulatory permission to operate an unauthorized security token.</p>
+
+
+
+<p>Furthermore, they were accused of using unauthorised user funds, transferring them to other international entities, thus evading federal laws.</p>
+
+
+
+<p>However, despite the current decline of XRP, several indicators, such as moving averages, VPVP, and ADX, among others, continue to project a bullish trend on daily timeframes.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/y4Usp67GHk8PYDgNKdZHdJvr75RaboxyhU9wEsPhZwcDCGogmJqrOdrFk2vlsgYeASGHUBwLxO7yVmttjkQNNgSomeMdYZEgXzY0qjqWY8q7O6Ybz-yYcgJ90yR7977eKy-8PPLXD2PpCSU4SsK95Uk" alt=""/></figure>
+
+
+
+<p>Therefore, XRP needs to respect the support zone to maintain its bullish movement above $0.45. If it stays above that zone in the coming days, it could likely target the next resistance at $0.60 in the short term.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/xrp-at-10-envisioned-amid-growing-network-metrics-even-as-ripple-aims-to-claim-big-win-in-sec-case/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin &#8216;Shrimps&#8217; And &#8216;Crabs&#8217; Increase Holdings By Almost 1 Million BTC Amid Price Drop</title>
+		<link>https://zycrypto.com/bitcoin-shrimps-and-crabs-increase-holdings-by-almost-1-million-btc-amid-price-drop/</link>
+					<comments>https://zycrypto.com/bitcoin-shrimps-and-crabs-increase-holdings-by-almost-1-million-btc-amid-price-drop/#respond</comments>
+		
+		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 20:41:04 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDC]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[XBTUSD]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82072</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin Facing A Dearth Of Institutional Interest Despite Discounted Price" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Notably, the retracement of Bitcoin, especially since last year's decline, has generated a surge of curiosity, enticing many investors to seize the opportunity by purchasing the dip.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin Facing A Dearth Of Institutional Interest Despite Discounted Price" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Bitcoin-Facing-A-Dearth-Of-Institutional-Interest-Despite-Discounted-Price-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Bitcoin, the world’s largest cryptocurrency by market value, has continued to trade sluggishly since mid-April, with last week’s regulatory scares pushing its price below $26,000.</p>
+
+
+
+<p>However, since Monday, the top cryptocurrency has exhibited unexpected resilience, with investors temporarily setting aside concerns over Securities and Exchange Commission (SEC) lawsuits against <a href="https://zycrypto.com/xrp-holders-attorney-is-ready-to-go-to-bat-for-binance-coinbase-users-in-fight-against-sec/">Binance and Coinbase</a> and turning their attention to the upcoming Federal Reserve&#8217;s interest rate decision.</p>
+
+
+
+<p>Notably, the retracement of Bitcoin, especially since last year&#8217;s decline, has generated a surge of curiosity, enticing many investors to seize the opportunity by purchasing the dip.</p>
+
+
+
+<p>On Tuesday, blockchain analytics firm Glassnode reported that Bitcoin &#8220;Shrimps&#8221; and &#8220;Crabs&#8221; have increased their holdings significantly, accumulating nearly 1 million BTC since the collapse of the cryptocurrency LUNA in May 2022. <a href="https://zycrypto.com/bitcoin-enters-full-accumulation-season-with-shrimps-and-whales-seizing-their-share-of-the-pie/">Shrimps</a> are entities that hold less than 1 BTC while crabs are those that own less than 10 BTC.</p>
+
+
+
+<p><em>“Following the LUNA collapse, Bitcoin entities with less than 10 BTC (Shrimps &#8211; Crab) have shown their resilience, increasing their relative share of the circulating supply from 13.72% to 17.54%, a 3.82% increase equivalent to +790K BTC.”</em> Tweeted Glassnode.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/lG0Q26l4_QhC6JpG3_ykps1Eq0s5rKP4WuQvJyc4BlO8AohPpmMccbKEO8nhq-CQKY-3d0j34SfZQKSS93pWyojIInA0F49ZbuU2FnaamoYT6fLES2CuJE7WEW5IkUo-4rlZn9R8UxPgwoCcu4Cz2g" alt=""/></figure>
+
+
+
+<p>But this is not the only cohort that is buying the dip. Another firm, Santiment, noted a bullish trend in Bitcoin&#8217;s accumulation patterns despite the falling price. As the altcoin market experienced a frenzy, Santiment highlighted a divergence between Bitcoin&#8217;s accumulating whales and the declining price.</p>
+
+
+
+<p>According to the firm, Whale holdings in Bitcoin increased by approximately 1,000 BTC daily, indicating that more prominent investors were accumulating more Bitcoin even as prices dropped.</p>
+
+
+
+<p><em>“With whale holdings moving up by ~1K $BTC per day while prices fall, there is reason to believe a strong rebound can occur,”</em> tweeted the firm.</p>
+
+
+
+<p>Elsewhere, other Bitcoin metrics also seem to be <a href="https://zycrypto.com/bitcoins-on-chain-metrics-in-excellent-shape-despite-price-plunge-analyst-says/">improving</a>. According to Glassnode data, Bitcoin&#8217;s short-term holders have experienced a significant profit-driven phase since the start of the year. However, as the spot price of Bitcoin continued to trend lower, the STH (Short-Term Holders) Realized Profit/Loss Ratio has now approached a critical decision point, indicating an equilibrium position.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/9MfOwnWqN4ytYZ56RRY10sansYroK7p8BMw6_UrXm0lqLWgoCShHq0gPeo1PMKSxlJbLILoXrf-sCtqr2pRBY_YsXnFs1m6mx4hFEtPC4TSNkN4dv7Q86NhgdHW9Rn7lf58R1e05M1rs1b0YcByqRA" alt=""/></figure>
+
+
+
+<p>Glassnode suggested on Tuesday that a bounce off the equilibrium position “would be considered constructive”, signalling support for Bitcoin. Conversely, if the ratio decisively falls below the equilibrium point, it would indicate market weakness and the possibility of more price drops. The market thus awaits this pivotal moment to assess the future trajectory of Bitcoin.</p>
+
+
+
+<p>At press time, BTC was trading at $25,114, down 3% in the past 24 hours. Notably, Bitcoin&#8217;s current price range is regarded as robust support. Further, the presence of a bullish flag pattern and inverse head and shoulders patterns suggest the possibility of an upcoming bullish rally.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh3.googleusercontent.com/s6EAx4YZ1C-hksAyIPFx8elvsPgi0bk_jPBoI9Ec4avMi_ycu_pGwV--Jux4HhMOaqI84o4KXy4ksGxD-XxukEZgHzbE45tHrxShPa8Hkwd7HBHmE6YtiIn1yDN7qXk6dVTEcM-f55k_s6qPp8RN9Q" alt=""/><figcaption class="wp-element-caption"><a href="https://www.tradingview.com/symbols/BTCUSDT/">BTCUSDT</a> Chart via TradingView</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/bitcoin-shrimps-and-crabs-increase-holdings-by-almost-1-million-btc-amid-price-drop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ripple Demands Investigation Into Former SEC Director Hinman And His Controversial Speech</title>
+		<link>https://zycrypto.com/ripple-demands-investigation-into-former-sec-director-hinman-and-his-controversial-speech/</link>
+					<comments>https://zycrypto.com/ripple-demands-investigation-into-former-sec-director-hinman-and-his-controversial-speech/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 19:05:43 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[XRP News]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[XRPUSDT]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82070</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple’s Chief Engineer Calls It Quits — Will His Shocking Departure Upend XRP’s Recovery?" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Hours after the public release of the infamous William Hinman emails, cryptocurrency payments service provider Ripple called for a thorough investigation into the...]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple’s Chief Engineer Calls It Quits — Will His Shocking Departure Upend XRP’s Recovery?" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/Ripples-Chief-Engineer-Calls-It-Quits-—-Will-His-Shocking-Departure-Upend-XRPs-Recovery-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Hours after the public release of the infamous William Hinman emails, cryptocurrency payments service provider Ripple called for a thorough investigation into the former U.S. Securities and Exchange Commission’s (SEC) director Bill Hinman and his now-released June 2018 speech, in which he said bitcoin (BTC) and ether (ETH) were not securities, in his view.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-hinman-should-be-probed-ripple"><strong>Hinman Should Be Probed: Ripple</strong></h2>
+
+
+
+<p>Documents tied to William Hinman, the former director of the U.S. Securities and Exchange Commission (SEC)’s Division of Corporation Finance from 2017 to 2020, were <a href="https://zycrypto.com/xrp-primed-for-massive-upsurge-as-sec-case-tilts-in-ripples-favor-amid-huge-reveal-of-hinman-docs/">released to the public</a> Tuesday, shedding some light on the internal deliberations among SEC staffers that happened at the time.</p>
+
+
+
+<p>And Ripple’s chief legal officer Stuart Alderoty calls for a fresh investigation into Hinman. In a <a href="https://twitter.com/s_alderoty/status/1668601239536390144">series of tweets</a> on Tuesday, Alderoty explained the need to uncover the reasons behind his infamous ether speech and the application of the Howey test.</p>
+
+
+
+<p>In that speech given in 2018, Hinman declared that Ethereum (ETH) shouldn’t be categorized as a security because it was “sufficiently decentralized,” something that caused bewilderment when the SEC later filed a lawsuit against Ripple for allegedly selling $1.3 billion worth of XRP tokens as unregistered securities.</p>
+
+
+
+<p>Alderoty inferred Hinman had overstepped his bounds by creating law without the authority.</p>
+
+
+
+<p>“Unelected bureaucrats must faithfully apply the law within the constraints of their jurisdiction. They can’t — as Hinman tried — create new law.“</p>
+
+
+
+<h2 class="wp-block-heading"><strong>The Hinman Issue</strong></h2>
+
+
+
+<p>Looking at the behind-the-scenes edits and correspondence about the speech, Alderoty notes that the ex-director “invented factors” that should be considered when deciding what “sufficiently decentralized” actually is.</p>
+
+
+
+<p>The legal officer said the docs demonstrated that Hinman ignored multiple warnings that the speech contained “made-up analysis with no basis in law” and caused “greater confusion” in the cryptocurrency market.</p>
+
+
+
+<p>Besides launching a probe into Hinman, Alderoty pressed the SEC also to remove the speech from its website. He further urged that the speech should no longer be invoked in discussions about whether or not a token is a security.</p>
+
+
+
+<p>“Despite the SEC repeatedly flip-flopping on the significance of the speech in litigation, it remains on the agency’s website,” the Ripple chief legal officer posited.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/ripple-demands-investigation-into-former-sec-director-hinman-and-his-controversial-speech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Binance CEO Strikes Back At Rumors Of Dumping Bitcoin To Save BNB As Controversy Roils Crypto Giant</title>
+		<link>https://zycrypto.com/binance-ceo-strikes-back-at-rumors-of-dumping-bitcoin-to-save-bnb-as-controversy-roils-crypto-giant/</link>
+					<comments>https://zycrypto.com/binance-ceo-strikes-back-at-rumors-of-dumping-bitcoin-to-save-bnb-as-controversy-roils-crypto-giant/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 16:04:37 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82063</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance CEO Strikes Back At Rumors Of Dumping Bitcoin To Save BNB As Controversy Roils Crypto Giant" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>There’s a rumour going around Twitter claiming that Binance has been secretly selling Bitcoin to keep its BNB token afloat.]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Binance CEO Strikes Back At Rumors Of Dumping Bitcoin To Save BNB As Controversy Roils Crypto Giant" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Binance-CEO-Strikes-Back-At-Rumors-Of-Dumping-Bitcoin-To-Save-BNB-As-Controversy-Roils-Crypto-Giant-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>There’s a rumour going around Twitter claiming that Binance has been secretly selling Bitcoin to keep its BNB token afloat. Binance chief executive officer Changpeng Zhao has quickly dispelled the speculation, proclaiming that no BTC or BNB trading activity is happening behind the scenes.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-cz-rebukes-claims-of-secretly-selling-btc-to-prop-up-bnb"><strong>CZ Rebukes Claims Of Secretly Selling BTC To Prop Up BNB</strong></h2>
+
+
+
+<p>On Tuesday, popular crypto trader going by the online alias 52kskew accused Binance of intentionally manipulating the market to keep the prices of BNB from dropping below certain levels.</p>
+
+
+
+<p>“USDT reserves have been pumped into BNB aggressively since 27th May. BNB is being sold off for BUSD to suppress volatility in BTC,” 52kskew astutely <a href="https://twitter.com/52kskew/status/1668726427703996418">noted</a>. “BUSD is pumped into BTC to suppress downside volatility so BTC can be swapped out for USDT.”</p>
+
+
+
+<p>Similarly, trader JW100x claimed that Binance is determined to keep the price of BNB above $220 at all costs to prevent a “liquidation waterfall”. JW100x described the practice of selling spot Bitcoin to stabilize the value of BNB as a “total house of cards”, pointing to the potential for market destabilization.</p>
+
+
+
+<p>Joe Consorti, a market analyst at The Bitcoin Layer, also <a href="https://twitter.com/JoeConsorti/status/1668723869794926595">described </a>BNB’s price action as “unusual”, with the “$220 level” being “staunchly defended.” He indicated that it might be a liquidation zone for a BNB-collateralized loan.</p>
+
+
+
+<p>CZ felt compelled to quickly respond to these allegations on Twitter, dismissing them as FUD via his infamous “4” moniker. For those who don’t know, FUD stands for “fear, uncertainty, and doubt.” The crypto community has long used the pejorative to portray what they deem as misconceptions or exaggerations circulated by crypto foes to scare off investors, regulators, and the general public.</p>
+
+
+
+<p>According to the Binance boss, Binance has not sold any BTC or BNB. He added that the exchange still holds a bag of the FTX (FTT) token, a popular crypto asset issued by the now-defunct FTX digital asset exchange.</p>
+
+
+
+<p>Zhao further <a href="https://twitter.com/cz_binance/status/1668735411705765893">accused</a> the Crypto Twitter members of supposedly spreading the rumours of self-serving intentions: “Maybe they are shorting… who knows.”</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Fresh Binance FUD Or Facts?</strong></h2>
+
+
+
+<p>CZ’s emphatic rebuff, however, has been met with harsh skepticism from the cryptoverse, with Consorti <a href="https://twitter.com/JoeConsorti/status/1668741759629762561">prompting </a>Binance to publish an audited statement proving that it doesn’t have any BNB-collateralized liabilities in order for the FUD to go away.</p>
+
+
+
+<p>In the highly volatile crypto world, such grave allegations could shake market confidence and attract further regulatory scrutiny. Notably, the rumours come as the global exchange is mired in a legal spat with the U.S. Securities and Exchange Commission (SEC) over allegations of considerable malfeasance and federal securities violations at its Binance.US unit.</p>
+
+
+
+<p>Earlier today, a federal judge refused to order a temporary restraining order freezing Binance.US’s assets. This will allow the U.S. arm of the firm to continue doing business while hashing out limitations with the agency.</p>
+
+
+
+<p>Whether Binance will provide evidence to corroborate CZ&#8217;s claims or if these allegations will further taint the company’s reputation remains to be seen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/binance-ceo-strikes-back-at-rumors-of-dumping-bitcoin-to-save-bnb-as-controversy-roils-crypto-giant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>XRP Lawsuit: Prominent Securities Attorney On Why The Released Hinman Emails Are A Huge ‘Nothingburger’</title>
+		<link>https://zycrypto.com/xrp-lawsuit-prominent-securities-attorney-on-why-the-released-hinman-emails-are-a-huge-nothingburger/</link>
+					<comments>https://zycrypto.com/xrp-lawsuit-prominent-securities-attorney-on-why-the-released-hinman-emails-are-a-huge-nothingburger/#respond</comments>
+		
+		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 12:54:38 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[XRP News]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[XRPUSDT]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82051</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Lawsuit: Ripple Notches Another Legal Victory As Judge Quashes SEC’s Latest Bid To Strike Fair Notice Defense" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>After much legal wrangling, Ripple Labs finally released Hinman documents earlier yesterday that showed behind-the-scenes edits and...]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Lawsuit: Ripple Notches Another Legal Victory As Judge Quashes SEC’s Latest Bid To Strike Fair Notice Defense" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/02/XRP-Lawsuit-Ripple-Notches-Another-Legal-Victory-As-Judge-Quashes-SECs-Latest-Bid-To-Strike-Fair-Notice-Defense-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>After much legal wrangling, Ripple Labs finally released Hinman documents earlier yesterday that showed behind-the-scenes edits and correspondence about a speech the former director of the U.S. Securities and Exchange Commission’s Division of Corporation Finance gave in 2018, in which he said that, while cryptocurrencies such as Bitcoin and Ether may start off as securities, they can become commodities once they become sufficiently decentralized.</p>
+
+
+
+<p>While most XRP advocates believed the emails and internal SEC messages would significantly help Ripple in its ongoing legal fight with the agency, Gabriel Shapiro, the general counsel at investment firm Delphi Labs has burst their bubble.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-do-the-hinman-emails-really-help-ripple"><strong>Do The Hinman Emails Really Help Ripple?</strong></h2>
+
+
+
+<p>Shapiro <a href="https://twitter.com/lex_node/status/1668585963893710849">lambasted </a>the emails as a “nothingburger” that revealed nothing new that would be valuable to Ripple’s case. &#8220;I&#8217;d love it if this helped Ripple&#8217;s case, but it just doesn&#8217;t,&#8221; opined Shapiro. The legal expert pointed out that the documents, which show that Hinman planned to have a conversation with Ethereum creator Vitalik Buterin in the 2018 pre-speech, do not change anything.</p>
+
+
+
+<p>The emails support Hinman’s belief that ether could not be classed as a security. Per Shapiro, the planned conversation with Buterin was widely known among cryptocurrency attorneys for years.</p>
+
+
+
+<p>Shapiro admitted that the unsealing of the controversial documents tied to William Hinman is helpful to Ripple’s fair notice defense. Still, he also stressed that the contents of these emails do not provide bombshell arguments for the blockchain company’s case.&nbsp;</p>
+
+
+
+<p>In December 2020, the SEC <a href="https://zycrypto.com/xrp-holders-are-completely-fcked-messari-founder-predicts-drop-to-0-10-as-the-sec-sues-ripple/">filed a lawsuit</a> accusing Ripple of raising more than $1.3 billion via an unregistered securities offering with its own XRP cryptocurrency. Ripple claims Hinman’s comments at the time indicate XRP should not be considered a security — which could result in a favourable outcome for the blockchain payments company.</p>
+
+
+
+<p>Shapiro, however, noted that the extra mark-ups in the Hinman documents offer an interesting perspective of how different SEC personnel were thinking at the time.</p>
+
+
+
+<p>Another skeptic is crypto critic-cum-podcaster Bennett Tomlin, who <a href="https://twitter.com/BennettTomlin/status/1668604389441822720">noted</a>:</p>
+
+
+
+<p><em>“Imagine having enough $XRP bags in 2023 that you end up thinking these emails are exciting. You’ve had years to correct your position and still ended up here.”</em></p>
+
+
+
+<p>While the securities lawyer and Bennett shredded any XRPArmy euphoria surrounding the documents, Ripple CEO Brad Garlinghouse believes these emails will <a href="https://zycrypto.com/xrp-lawsuit-ripple-ceo-garlinghouse-says-hinman-docs-are-well-worth-the-wait-ahead-of-unsealing-today/">play a key role</a> in the SEC’s suit.</p>
+
+
+
+<p>In his <a href="https://twitter.com/bgarlinghouse/status/1668601650242809857">Twitter thread</a>, Garlinghouse postulated it&#8217;s &#8220;absolutely unconscionable&#8221; that Hinman moved forward with his speech while editors at the agency thought what he was about to say was a bad idea. He said it&#8217;s even more disturbing that the SEC sued Ripple and its top executives, &#8220;when their own Division Head deliberately created confusion about this.&#8221;</p>
+
+
+
+<p>After the emails were released to the public, the price of XRP spiked from 53 cents to 56 cents before settling at around 51 cents at publication time, according to data from CoinGecko.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/xrp-lawsuit-prominent-securities-attorney-on-why-the-released-hinman-emails-are-a-huge-nothingburger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crypto Crackdown: Will Crypto Exchanges be Forced to Register with the SEC?</title>
+		<link>https://zycrypto.com/crypto-crackdown-will-crypto-exchanges-be-forced-to-register-with-the-sec/</link>
+					<comments>https://zycrypto.com/crypto-crackdown-will-crypto-exchanges-be-forced-to-register-with-the-sec/#respond</comments>
+		
+		<dc:creator><![CDATA[Ponvang Bulus]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2023 12:27:24 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://zycrypto.com/?p=82049</guid>
+
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="SEC’s Crackdown on Kraken&#039;s Staking Program Puts Other Players on Notice" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The U.S. Securities and Exchange Commission (SEC) has intensified efforts towards regulating crypto in the country. This is in spite of a lack of regulatory clarity, which has made it impossible for crypto companies to know what is expected of them. While the commission has always taken a stand against the crypto industry, it has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="SEC’s Crackdown on Kraken&#039;s Staking Program Puts Other Players on Notice" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/02/SECs-Crackdown-on-Krakens-Staking-Program-Puts-Other-Players-on-Notice-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>The U.S. Securities and Exchange Commission (SEC) has intensified efforts towards regulating crypto in the country. This is in spite of a lack of regulatory clarity, which has made it impossible for crypto companies to know what is expected of them.</p>
+
+
+
+<p>While the commission has always taken a stand against the crypto industry, it has invested more to clamp down on crypto this year than ever. One of the arguments the SEC holds is that all crypto assets &#8211; except Bitcoin &#8211; are securities, and all exchanges that trade them should be registered under the commission as securities exchanges.</p>
+
+
+
+<p>Ripple and XRP were the first to face a lawsuit on the matter, and the case has been ongoing since 2020. This time, top crypto exchanges <a href="https://zycrypto.com/xrp-holders-attorney-is-ready-to-go-to-bat-for-binance-coinbase-users-in-fight-against-sec/">Binance and Coinbase were dragged to court</a> within 24 hours, and while the case is on, the question is will crypto exchanges ultimately be forced to register with the SEC?</p>
+
+
+
+<p>A group of strategists with JPMorgan, led by Nikolaos Panigirtzoglou says this is possible. In a note on Thursday last week, they wrote:</p>
+
+
+
+<p><em>&#8220;Eventually, the SEC position might be confirmed by lawmakers and Coinbase, Binance.US and other U.S. exchanges would have to register as brokers and most cryptocurrencies would be treated as securities.”</em></p>
+
+
+
+<p><em>“This could be more onerous and more costly for the crypto industry but there could be positives as well, as crypto markets would be subjected to similar regulations applied to traditional markets such as equities and thus offer more transparency and investor protection,&#8221;</em> the note added.</p>
+
+
+
+<p>Most crypto enthusiasts would argue that such a move will compromise everything that crypto stood for &#8211; the minimized scrutiny of the space, which gives investors the liberty of controlling their own money.</p>
+
+
+
+<p>The strategists at JPMorgan are however hopeful that this push by the SEC could eventually force legislators to come up with proper regulation for the industry. &#8220;it would clear the industry from bad practices and bad actors, which in turn is necessary for the industry to mature and see more institutional participation,&#8221; they said.</p>
+
+
+
+<p>The outcome of the case will, however, be determined by the conclusion on whether cryptocurrencies are securities or not, and the Ripple case will play a pivotal role in answering this question.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zycrypto.com/crypto-crackdown-will-crypto-exchanges-be-forced-to-register-with-the-sec/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bitcoin&#8217;s On-Chain Metrics &#8216;In Excellent Shape&#8217; Despite Price Plunge, Analyst Says</title>
 		<link>https://zycrypto.com/bitcoins-on-chain-metrics-in-excellent-shape-despite-price-plunge-analyst-says/</link>
 					<comments>https://zycrypto.com/bitcoins-on-chain-metrics-in-excellent-shape-despite-price-plunge-analyst-says/#respond</comments>
@@ -45,7 +626,7 @@
 		<category><![CDATA[XBTUSD]]></category>
 		<guid isPermaLink="false">https://zycrypto.com/?p=82044</guid>
 
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin Flashes 2017 Bull Pattern, Metric Suggests Price Can Go As High As $300K" decoding="async" srcset="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The past week has brought forth a series of regulatory uncertainties and price drops for Bitcoin and other cryptocurrencies.]]></description>
+					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin Flashes 2017 Bull Pattern, Metric Suggests Price Can Go As High As $300K" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The past week has brought forth a series of regulatory uncertainties and price drops for Bitcoin and other cryptocurrencies.]]></description>
 										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bitcoin Flashes 2017 Bull Pattern, Metric Suggests Price Can Go As High As $300K" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/02/Bitcoin-Flashes-2017-Bull-Pattern-Metric-Suggests-Price-Can-Go-As-High-As-300K-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
 <p>The past week has brought forth a series of regulatory uncertainties and price drops for Bitcoin and other cryptocurrencies.</p>
 
@@ -399,532 +980,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://zycrypto.com/xrp-lawsuit-ripple-ceo-garlinghouse-says-hinman-docs-are-well-worth-the-wait-ahead-of-unsealing-today/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Pro-Crypto Lawmakers Officially Introduce Legislation To Oust SEC Chair, Gary Gensler</title>
-		<link>https://zycrypto.com/pro-crypto-lawmakers-officially-introduce-legislation-to-oust-sec-chair-gary-gensler/</link>
-					<comments>https://zycrypto.com/pro-crypto-lawmakers-officially-introduce-legislation-to-oust-sec-chair-gary-gensler/#respond</comments>
-		
-		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 20:03:24 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=82012</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Pro-Crypto Lawmakers Officially Introduce Legislation To Oust SEC Chair Gary Gensler" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>U.S. Securities and Exchange Commission (SEC) chairman Gary Gensler could be facing unemployment after Rep. Warren Davidson (R-Ohio) and Rep. Tom Emmer (R-Minn.) introduced a bill to remove the SEC boss from power.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Pro-Crypto Lawmakers Officially Introduce Legislation To Oust SEC Chair Gary Gensler" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Pro-Crypto-Lawmakers-Officially-Introduce-Legislation-To-Oust-SEC-Chair-Gary-Gensler-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>U.S. Securities and Exchange Commission (SEC) chairman Gary Gensler could be facing unemployment after Rep. Warren Davidson (R-Ohio) and Rep. Tom Emmer (R-Minn.) introduced a bill to remove the SEC boss from power.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-tyrannical-chairman"><strong>“Tyrannical Chairman”</strong></h2>
-
-
-
-<p>In a June 12 <a href="https://twitter.com/WarrenDavidson/status/1668305460368121857">tweet</a>, crypto-friendly congressman Warren Davidson announced that he had filed the “SEC Stabilization Act” in the House of Representatives.</p>
-
-
-
-<p>“U.S. capital markets must be protected from a tyrannical Chairman, including the current one. That&#8217;s why I&#8217;m introducing legislation to fix the ongoing abuse of power and ensure protection that is in the best interest of the market for years to come,” Davidson said in the Twitter statement. “It&#8217;s time for real reform and to fire Gary Gensler as Chair of the SEC,” he concluded.</p>
-
-
-
-<p>Rep. Davidson, the vice chairman of the Financial Services Subcommittee on Digital Assets, Financial Technology and Inclusion, <a href="https://zycrypto.com/pro-crypto-congressman-mulls-pushing-legislation-to-remove-secs-gary-gensler/">initially announced</a> his intention to have Gensler fired from his role in April. At the time, he said he would be introducing legislation to “correct a long series of abuses” by firing the Chairman of the SEC and replacing the role with “an Executive Director that reports to the Board (where authority resides)”.</p>
-
-
-
-<p>House Majority Whip and Minnesota Republican Tom Emmer, who co-authored the bill, <a href="https://emmer.house.gov/press-releases?id=F9BD4F5B-0C81-4DE5-8F65-E78B064CB060">posited </a>that “the SEC Stabilization Act will make common-sense changes to ensure that the SEC’s priorities are with the investors they are charged to protect and not the whims of its reckless Chair.&#8221;</p>
-
-
-
-<p>While they will need bi-partisan support to pass the Senate, if the bill were to succeed, Gensler would no longer be able to serve in a leadership capacity at the top American financial watchdog. It would also overhaul the agency to redeploy power from the chairman to other commissioners and a single political party would not be able to hold more than three commissioner seats at a given time. According to Fox News, the bill would also add a sixth commissioner to the agency and create an executive director position. The SEC’s board of commissioners currently has five members.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>SEC, Gensler Under Fire</strong></h2>
-
-
-
-<p>The SEC and its chair Gary Gensler have drawn criticism from the cryptosphere — recently and in years prior — for not having clear-cut nor innovative regulations and for insinuating in different interviews that they truly want to destroy the crypto industry. Gensler has made it clear that he <a href="https://zycrypto.com/sec-chair-gary-gensler-indirectly-declares-ether-is-a-security/">believes </a>all crypto assets — apart from bitcoin — should be classified as securities, and therefore, most cryptocurrency-focused companies and trading should fall under the SEC’s purview and comply with regulatory frameworks that are already being used for other securities.</p>
-
-
-
-<p>Back in February, Rep.Davidson <a href="https://twitter.com/WarrenDavidson/status/1625215670731390976">slammed </a>the SEC’s regulation-by-enforcement technique when it fined Kraken $30 million and forced the exchange to close its staking program in the U.S permanently.</p>
-
-
-
-<p>The SEC said last week it was <a href="https://zycrypto.com/us-sec-files-fresh-charges-against-binance-and-ceo-changpeng-zhao/">suing </a>Binance, Binance founder and CEO Changpeng “CZ” Zhao and the operating company for Binance.US on allegations of breaking federal securities laws. A day later, it <a href="https://zycrypto.com/coinbase-suffers-double-whammy-as-sec-and-state-regulators-act-against-exchange-for-unregistered-securities/">levied similar charges</a> against rival exchange Coinbase (COIN).</p>
-
-
-
-<p>While the SEC hits the crypto industry with a wave of enforcement actions, the European Union has been working hard to usher in a <a href="https://zycrypto.com/bitcoin-holds-steady-as-eus-mica-regulation-gets-another-green-light/">new set of rules for the nascent sector</a>.&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/pro-crypto-lawmakers-officially-introduce-legislation-to-oust-sec-chair-gary-gensler/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ripple vs SEC: Stakes Just Got Higher Following Binance, Coinbase Lawsuits As XRP &#8216;Win&#8217; Proves Pivotal</title>
-		<link>https://zycrypto.com/ripple-vs-sec-stakes-just-got-higher-following-binance-coinbase-lawsuits-as-xrp-win-proves-pivotal/</link>
-					<comments>https://zycrypto.com/ripple-vs-sec-stakes-just-got-higher-following-binance-coinbase-lawsuits-as-xrp-win-proves-pivotal/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 19:37:26 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=82005</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Lawsuit: SEC&#039;s Win Against This Blockchain Firm in A High-Profile Securities Case Unnerves XRP Army" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Digital asset lawyers say the judgment in the SEC and Ripple case could have strong implications for the sector going forward. ]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ripple Lawsuit: SEC&#039;s Win Against This Blockchain Firm in A High-Profile Securities Case Unnerves XRP Army" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/11/Ripple-Lawsuit-SECs-Win-Against-This-Blockchain-Firm-in-A-High-Profile-Securities-Case-Unnerves-XRP-Army-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Digital asset lawyers say the judgment in the SEC and Ripple case could have substantial implications for the sector going forward.</li>
-
-
-
-<li>Despite initial anger following the lawsuit against Binance and Coinbase, crypto executives now see it as a platform to get clear regulations.</li>
-
-
-
-<li>The digital asset community follows the cases keenly, backing both exchanges and criticising Gensler and the SEC.&nbsp;</li>
-</ul>
-
-
-
-<p>The case between the Securities and Exchange Commission (SEC) v Ripple (XRP), filed in Dec 2020, is now more thrilling in its late stages as a potentially favourable ruling could spark off countless wins for the industry.</p>
-
-
-
-<p>Web3 lawyers have expressed a close relationship between the Ripple case and the recent Binance-Coinbase lawsuit by the SEC. A ruling by the trial judge on whether XRP constitutes securities in the secondary market could set the tone for further decisions.</p>
-
-
-
-<p>James Murphy, a crypto lawyer in a series of <a href="https://twitter.com/metalawman/status/1666864200147251201?s=46&amp;t=sCvh3f3rMDfXyJcf1y1Eyg">tweets</a>, noted that a win for Ripple could “<em>undermine the entire basis for the SEC’s case” </em>against both exchanges it sued for allegedly offering trading services on unregistered securities. However, he stated that while it is only a convincing and persuasive precedent, it is not legally binding.</p>
-
-
-
-<p>This means that the courts in Coinbase and Binance cases “<em>not be bound to rule the same way” </em>because only the Supreme Court of Appeal can determine binding precedents. Murphy, however, believes that the court will follow the Ripple matter closely as they serve in the same court in lower Manhattan.</p>
-
-
-
-<p>Similarly, Bill Morgan, a partner at Morgan Mac Lawyers, explained that the judgment would be a game changer for the industry and the SEC, depending on where the pendulum swings.</p>
-
-
-
-<p>“<em>If they lose badly in the Ripple case, they go forwards with Coinbase and Binance with a substantial judgment against them. Obviously, Coinbase and Binance will use that to their advantage that the sales of XRP are not an investment contract,” </em>he added.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="h-others-allege-a-political-undertone"><strong>Others allege a political undertone</strong></h2>
-
-
-
-<p>Since Gary Gensler and the SEC launched its renewed offensive on the digital asset market, crypto users and industry players have accused the Commission of <a href="https://zycrypto.com/xrp-lawsuit-ripples-lawyer-on-why-secs-gensler-must-recuse-himself-from-voting-on-enforcement-cases/">bias</a> toward certain assets and markets. Pro-XRP lawyer John Deaton feels the case between XRP and both exchanges are related, leading to the Commission’s decision to file the cases at this time.</p>
-
-
-
-<p>“<em>I believe the SEC wanted to get those cases filed before that decision just in case it is a bad result for the SEC, possibly causing it to lose some political and legal momentum,” </em>he explained.&nbsp;</p>
-
-
-
-<p>Deaton further asserted that the Commission would tone down its aggression on cryptocurrency firms when big financial institutions acquire more shares in digital assets.</p>
-
-
-
-<p>“<em>Once JPMorgan, Goldman Sachs, or other traditional players get a bigger slice of the crypto market, then the SEC will become more reasonable,” </em>he added.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/ripple-vs-sec-stakes-just-got-higher-following-binance-coinbase-lawsuits-as-xrp-win-proves-pivotal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Nigeria’s New Crypto Tax Policy Could Set The Tone For Africa’s Positive Web3 Relationship</title>
-		<link>https://zycrypto.com/nigerias-new-crypto-tax-policy-could-set-the-tone-for-africas-positive-web3-relationship/</link>
-					<comments>https://zycrypto.com/nigerias-new-crypto-tax-policy-could-set-the-tone-for-africas-positive-web3-relationship/#respond</comments>
-		
-		<dc:creator><![CDATA[Aliyu Pokima]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 19:26:04 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ethereum News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81999</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nigerians Continue To Dominate Crypto Adoption In Africa, But There&#039;s A Big Problem To Combat" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The country’s 2023 budget is riddled with an 11 trillion naira budget deficit and 6 trillion naira debt service cost, so it is looking for new avenues to fund its budget, observers say. Nigeria has placed a 10% tax on digital asset profits in the latest Nations Finance Act 2022 amendment. The tax will include [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nigerians Continue To Dominate Crypto Adoption In Africa, But There&#039;s A Big Problem To Combat" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat.jpg 1200w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2021/08/Nigerians-Continue-To-Dominate-Crypto-Adoption-In-Africa-But-Theres-A-Big-Problem-To-Combat-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<ul>
-<li>Nigeria has passed a new 10% tax code on digital assets amid mixed signals from its regulatory agencies.&nbsp;</li>
-
-
-
-<li>Over the weekend, the nation issued a directive declaring the operation of Binance in the country as “illegal” for its failure to register with local regulators.</li>
-
-
-
-<li>Finance experts feel the ban on Binance Nigeria is in line with its tax policy which places a huge focus on registration and compliance.&nbsp;</li>
-</ul>
-
-
-
-<p>The country’s 2023 budget is riddled with an 11 trillion naira budget deficit and 6 trillion naira debt service cost, so it is looking for new avenues to fund its budget, observers say.</p>
-
-
-
-<p>Nigeria has placed a 10% tax on digital asset profits in the latest Nations Finance Act 2022 amendment. The tax will include profits earned on trade, staking, or other cryptocurrency investments. According to the Capital Gains Tax Act, the word digital assets were infused into asset classes for purposes of taxation. </p>
-
-
-
-<p>“<em>Subject to any exceptions provided by this Act, all forms of property shall be assets for the purposes of this Act, whether situated in Nigeria or not, including options, debts, digital assets, and incorporeal property generally,” </em>the Act reads.&nbsp;</p>
-
-
-
-<p>The announcement of the new policy came with lots of backlash from the Finance markets, with many wondering how the government intends to tax a sector that it has described as “<em>illegal.” </em>Over the weekend, Nigeria’s Securities and Exchange Commission (SEC) announced that the operations of Binance Nigeria Limited, the local branch of Binance in the country, are illegal and not in line with the laws. </p>
-
-
-
-<p>The Commission also urged investors to be wary of the company and warned the exchange to desist from soliciting investment from the country.</p>
-
-
-
-<p>“<em>Binance Nigeria Limited is hereby directed to immediately stop soliciting Nigerian investors in any form whatsoever,&#8221; the Securities and Exchange Commission (SEC) said in a statement dated June 9. It said the company was not registered or regulated, making it illegal.”</em></p>
-
-
-
-<h2 class="wp-block-heading" id="h-a-silver-lining-amid-chaos"><strong>A silver lining amid chaos</strong></h2>
-
-
-
-<p>Despite the looks of things, observers have tipped a turnaround in the country’s dealings with digital assets. The Central Bank of Nigeria <a href="https://zycrypto.com/china-2-0-nigeria-intensifies-major-cryptocurrency-crackdown-after-cbdc-launch/">banned</a> cryptocurrency trading in 2021 with harsh words against the sector while floating its “<em>failing” e-naira, </em>creating panic for users. </p>
-
-
-
-<p>That period looks over as the new President, Bola Ahmed Tinubu, in his manifesto, recognized digital assets and created a path for them in the nation’s economy. Experts suggest that digital assets have received legitimacy with this new tax code because the government cannot tax what is illegal while infusing it as an asset class. </p>
-
-
-
-<p>According to many, the ban on Binance, though harsh, is in line with the 10% tax policy forcing all exchanges to register with authorities for a regulated market. Nigeria has a pro-crypto population, and with plunging revenues, the government is looking for other revenue streams. </p>
-
-
-
-<p>In 2022, Nigeria ranked 11th according to the Chainalysis Global Crypto Adoption Index amid tough regulatory policies.&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/nigerias-new-crypto-tax-policy-could-set-the-tone-for-africas-positive-web3-relationship/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>VC Firm Andreessen Horowitz Lured By UK&#8217;s Crypto Regulatory Environment To Open London Office</title>
-		<link>https://zycrypto.com/vc-firm-andreessen-horowitz-lured-by-uks-crypto-regulatory-environment-to-open-london-office/</link>
-					<comments>https://zycrypto.com/vc-firm-andreessen-horowitz-lured-by-uks-crypto-regulatory-environment-to-open-london-office/#respond</comments>
-		
-		<dc:creator><![CDATA[Isa Nsereko]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 19:15:42 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ethereum News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81993</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Massive Shakeup Incoming For UK Crypto Investors As Regulator Seeks To Impose Limit On Crypto Holdings" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>In a June 11, 2023 post, the private American venture capital firm Andreessen Horowitz (also known as a16z) announced that it is expanding to the UK and would open a crypto office in London later this year. The office will oversee the growth of the crypto ecosystem in the UK and Europe. “That’s why I [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Massive Shakeup Incoming For UK Crypto Investors As Regulator Seeks To Impose Limit On Crypto Holdings" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/08/Massive-Shakeup-Incoming-For-UK-Crypto-Investors-As-Regulator-Seeks-To-Impose-Limit-On-Crypto-Holdings-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>In a June 11, 2023 post, the private American venture capital firm Andreessen Horowitz (also known as a16z) announced that it is expanding to the UK and would open a crypto office in London later this year. The office will oversee the growth of the crypto ecosystem in the UK and Europe.</p>
-
-
-
-<p>“That’s why I am thrilled world-leading investor Andreessen Horowitz has decided to open their first international office in the UK – which is a testament to our world-class universities and talent and our strong competitive business environment”, said UK Prime Minister Rishi Sunak.</p>
-
-
-
-<p>Andreessen Horowitz said the UK has highly sophisticated, world-class regulators, making it well-positioned to lead in web3. Andreessen Horowitz said it had also invested in several UK-based crypto companies like Arweave, Aztec, and Improbable.</p>
-
-
-
-<p>According to Andreessen Horowitz, UK policymakers and regulators are taking an inclusive approach to blockchain and digital asset regulation that includes working constructively with the industry to identify the unique attributes of blockchain technology.</p>
-
-
-
-<p>The UK policymakers and regulators&#8217; approach also includes laying the foundation for future applications of blockchain technology and ensuring adequate consumer protection in any crypto regulation.</p>
-
-
-
-<p>Andreessen Horowitz said that the UK is on the right path to becoming a leader in crypto regulation due to its deep pools of talent, world-leading academic institutions, and strong entrepreneurial culture.</p>
-
-
-
-<p>Some U.S.-based companies are expanding overseas amidst requests from crypto companies for more regulatory clarity. There is also concern amongst crypto enthusiasts that the U.S. could lose the crypto leadership role to Europe, where parliament has already passed the Market in Crypto-Assets (MiCA) regulation.</p>
-
-
-
-<p>In May 2023, Coinbase opened the Coinbase International Exchange in Bermuda. The expansion will enable institutional users based in eligible jurisdictions outside the U.S. to trade perpetual futures.</p>
-
-
-
-<p>In a May 2023 blog, Team Gemini announced that it had set up its European Headquarters in Dublin, Ireland. Gemini also announced that it would begin applying for a crypto license to serve customers based in the United Arab Emirates (UAE) to make Gemini a global company.</p>
-
-
-
-<p>Again in May 2023, <a href="https://zycrypto.com/ripple-acquires-crypto-custody-provider-metaco-for-250m-as-xrp-lawsuit-nears-end-game/">Ripple announced a $250 million acquisition of Metaco</a>, a Swiss-based provider of digital asset custody and tokenization technology, increasing its presence overseas.</p>
-
-
-
-<p>There is also concern amongst crypto enthusiasts that the U.S. could lose the crypto leadership role to Europe, where parliament has already passed the Market in Crypto-Assets (MiCA) regulation. Andreessen Horowitz emphasized that it remains committed to working with U.S. policymakers and regulators for more crypto regulatory clarity.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/vc-firm-andreessen-horowitz-lured-by-uks-crypto-regulatory-environment-to-open-london-office/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Coinbase CEO Unveils A &#8220;Stand With Crypto&#8221; Commemorative NFT To Push For Sensible Policies</title>
-		<link>https://zycrypto.com/coinbase-ceo-unveils-a-stand-with-crypto-commemorative-nft-to-push-for-sensible-policies/</link>
-					<comments>https://zycrypto.com/coinbase-ceo-unveils-a-stand-with-crypto-commemorative-nft-to-push-for-sensible-policies/#respond</comments>
-		
-		<dc:creator><![CDATA[Newton Gitonga]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 18:57:54 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81991</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Coinbase Lays Off 1,100 People In Preparation For Prolonged Bear Market" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Coinbase CEO Brian Armstrong has unveiled a "Stand with Crypto" commemorative non-fungible token (NFT) in a show of solidarity with the crypto community following the latest onslaught by the U.S. Securities and Exchange Commission (SEC) on crypto.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Coinbase Lays Off 1,100 People In Preparation For Prolonged Bear Market" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/06/Coinbase-Lays-Off-1100-People-In-Preparation-For-Prolonged-Bear-Market-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Coinbase CEO Brian Armstrong has unveiled a &#8220;Stand with Crypto&#8221; commemorative non-fungible token (NFT) in a show of solidarity with the crypto community following the latest onslaught by the U.S. Securities and Exchange Commission (SEC) on crypto.</p>
-
-
-
-<p>Described as a unifying emblem for those who believe in the future of crypto on its official website, this symbolic artwork aims to rally support and advocate for sensible policies surrounding cryptocurrency. The NFT features a striking blue shield, representing the collective determination to protect and promote the potential of digital currencies.</p>
-
-
-
-<p>In addition to displaying support for the cause, the NFT will allow holders to actively engage with the community&#8217;s efforts and take various actions to advance the advocacy for crypto further. Over 135,531 NFTs were already minted at press time on the Zora NFT marketplace.</p>
-
-
-
-<p>This unveiling follows closely on the heels of the U.S. Securities and Exchange Commission (SEC) filing a lawsuit against <a href="https://zycrypto.com/coinbase-suffers-double-whammy-as-sec-and-state-regulators-act-against-exchange-for-unregistered-securities/">Coinbase</a> on Tuesday, just a day after a similar suit was filed against Binance.</p>
-
-
-
-<p>In particular, the SEC argued that Coinbase&#8217;s platform operated three functions that are typically separated in traditional securities markets-those of brokers, exchanges, and clearing agencies, yet<em> “Coinbase has never registered with the SEC as a broker, national securities exchange, or clearing agency, thus evading the disclosure regime that Congress has established for our securities markets.”</em></p>
-
-
-
-<p>Armstrong responded to the lawsuit by expressing his pride in representing the industry in court and seeking clarity on crypto rules. In a tweet, Armstrong criticized the SEC&#8217;s enforcement-based approach, stating that it was harming America and the industry, highlighting that the SEC had previously reviewed Coinbase&#8217;s business and allowed it to become a public company in 2021. </p>
-
-
-
-<p>Armstrong further noted that introducing new legislation by the US Congress and the global move towards establishing clear rules demonstrated the need for regulatory clarity. He affirmed Coinbase&#8217;s confidence in their adherence to the facts and the law expressing his belief that America would ultimately find the right path forward.</p>
-
-
-
-<p>This is not the first time Coinbase is publicly pushing back against the SEC. Earlier this year, the exchange <a href="https://twitter.com/coinbase/status/1630592674020335617">launched</a> a grassroots campaign dubbed “Crypto 435” aimed at advocating for pro-crypto-policy in all 435 Congressional Districts across the U.S. Through the initiative, the exchange noted that it <em>“will empower the Crypto435 community with information about how to contact specific politicians in their local districts, what those politician&#8217;s records on crypto are, tips for making your voices heard in D.C., and more.”</em></p>
-
-
-
-<p>Meanwhile, as the legal battle between the SEC and Coinbase takes a new twist, it remains to be seen whether the crypto community can stay resilient and determined to safeguard the future of cryptocurrencies in this challenging time.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/coinbase-ceo-unveils-a-stand-with-crypto-commemorative-nft-to-push-for-sensible-policies/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ripple Seals Major Partnership With Canada’s Biggest University to Launch XRP Ledger Validator</title>
-		<link>https://zycrypto.com/ripple-seals-major-partnership-with-canadas-biggest-university-to-launch-xrp-ledger-validator/</link>
-					<comments>https://zycrypto.com/ripple-seals-major-partnership-with-canadas-biggest-university-to-launch-xrp-ledger-validator/#respond</comments>
-		
-		<dc:creator><![CDATA[Ponvang Bulus]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 18:30:44 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[XRP News]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81986</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Poised To Erupt In Parabolic Rally As Ripple Unveils ODL Service In Sweden And France" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The university plans to start work on an independent XRP Ledger Validator.]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="XRP Poised To Erupt In Parabolic Rally As Ripple Unveils ODL Service In Sweden And France" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce.jpg 1200w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2022/10/XRP-Poised-To-Erupt-In-Parabolic-Rally-As-Ripple-Unveils-ODL-Service-In-Sweden-And-Frnce-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p><a href="https://zycrypto.com/ripple-contemplates-ipo-as-sec-lawsuit-finally-nears-end-will-it-propel-xrp-to-10/">Ripple</a> has entered a partnership with Canada&#8217;s largest university by enrollment, the University of Toronto. The partnership is a part of Ripple’s University Blockchain Research Initiative (UBRI), a program that supports a diverse portfolio of blockchain research, technical development, and innovation at universities around the world.</p>
-
-
-
-<p>The university plans to start work on an independent <a href="https://zycrypto.com/colombian-government-launches-national-land-registry-on-xrp-ledger-for-over-50-million-people/">XRP Ledger</a> Validator. UBRI has been driving significant blockchain and crypto technology research in Canada, which is an addition to the number of benefiting tertiary institutions in the country.</p>
-
-
-
-<p>The program will allow university students to acquire and improve skills that will make them relevant in the fast-growing crypto industry.</p>
-
-
-
-<p>In the last five years, Ripple has invested over $2 million in UBRI for top universities and colleges in Canada to foster knowledge acquisition in crypto and blockchain technology in the country. This is just a part of a total of $47 million the company has disbursed to universities worldwide, and the budget is increasing to $80 million for 2023.</p>
-
-
-
-<p>Despite the ongoing case with the U.S. Securities and Exchange Commission (SEC), Ripple is working towards developing the crypto industry. This is a giant stride towards ensuring its impact is felt.</p>
-
-
-
-<p>It is hardly surprising that the partnership is with Canada’s top university since the US has been hard on crypto and has intensified efforts this year by cracking down on crypto companies. UBRI has been chiefly active outside of the U.S. because of this, as other countries remain more crypto-friendly.</p>
-
-
-
-<p><em>“As more crypto projects and companies look to build outside of the U.S., creating evergreen educational opportunities and growing a pipeline of talent is critical to our industry’s long-term success.” </em>Ripple’s Senior Vice President  of Strategic Initiatives Eric van Miltenburg, stated.</p>
-
-
-
-<p>Blockchain technology has many applications beyond crypto. With this program, Ripple is helping to raise the next generation of crypto and blockchain leaders who will help drive the industry’s growth in the future.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/ripple-seals-major-partnership-with-canadas-biggest-university-to-launch-xrp-ledger-validator/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cardano, Solana, Polygon Prices Make Comeback Rally As Foundations Fire Back Against SEC’s Security Label</title>
-		<link>https://zycrypto.com/cardano-solana-polygon-prices-make-comeback-rally-as-foundations-fire-back-against-secs-security-label/</link>
-					<comments>https://zycrypto.com/cardano-solana-polygon-prices-make-comeback-rally-as-foundations-fire-back-against-secs-security-label/#respond</comments>
-		
-		<dc:creator><![CDATA[Brenda Ngari]]></dc:creator>
-		<pubDate>Mon, 12 Jun 2023 13:17:00 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[ADA]]></category>
-		<category><![CDATA[ADAUSD]]></category>
-		<category><![CDATA[Cardano]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[MATIC]]></category>
-		<category><![CDATA[MATICUSD]]></category>
-		<category><![CDATA[Polygon]]></category>
-		<category><![CDATA[SOL]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[SOLUSD]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81982</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cardano, Solana, Polygon Prices Make Comeback Rally As Foundations Fire Back Against SEC’s Security Label" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>Holders of Cardano’s ADA, Polygon’s MATIC, and Solana’s SOL had a reason to smile on...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cardano, Solana, Polygon Prices Make Comeback Rally As Foundations Fire Back Against SEC’s Security Label" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Cardano-Solana-Polygon-Prices-Make-Comeback-Rally-As-Foundations-Fire-Back-Against-SECs-Security-Label-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Holders of Cardano’s ADA, Polygon’s MATIC, and Solana’s SOL had a reason to smile on Monday as prices made a partial comeback— parring some losses incurred last week after the U.S. Securities and Exchange Commission (SEC) alleged they were crypto securities in high-profile lawsuits against Binance and Coinbase.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-sol-ada-matic-stage-partial-comeback"><strong>SOL, ADA, MATIC Stage Partial Comeback</strong></h2>
-
-
-
-<p>Although the SEC went after the world’s two biggest exchanges earlier last week, it also chose to namecheck a couple of cryptocurrencies that it describes as unregistered securities, triggering a fall across most altcoins.</p>
-
-
-
-<p>Three of them — Cardano (ADA), Solana (SOL), and Polygon (MATIC) toppled by around 29% each during the past seven-day span following the regulatory bombshells, according to CoinGecko data.</p>
-
-
-
-<p>Yet, at press time, ADA rose 6.73%, SOL surged 1.1%, and MATIC was up 5.55% on the day as the wider crypto market remained mostly unchanged. The jury is still out on whether bulls will sustain the recovery in these tokens or whether higher prices will bring out the bears in big numbers.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Securities Characterization Rebuffed</strong></h2>
-
-
-
-<p>ADA was the first to have its regulatory status defended by its development company. ZyCrypto <a href="https://zycrypto.com/cardano-devs-vigorously-dispute-secs-classification-of-ada-as-a-security-as-robinhood-mulls-delisting-coin/">reported</a> on June 8 that Input-Output Global disputed the SEC’s classification of its ADA token as an unregistered security, adding that the regulator’s allegations will not affect the firm’s operations “in any way”.</p>
-
-
-
-<p>&#8220;The facts might be inconvenient to the SEC but are facts,&#8221; Cardano founder Charles Hoskinson further <a href="https://twitter.com/IOHK_Charles/status/1668003846273085441">posited </a>today, pointing out that the initial financing and marketing for ADA was done in Japan and that no ADA tokens were sold in the U.S. Additionally, he said ADA debuted in 2017 as an airdrop two years after the vouchers sale, which was priced in Japanese Yen and Bitcoin.</p>
-
-
-
-<p>On Saturday, the Switzerland-based Solana Foundation <a href="https://twitter.com/SolanaFndn/status/1667578529612017666">tweeted </a>its disagreement with the SEC’s framing of SOL as a security. Similar to IOG, the Solana Foundation emphasized its commitment to collaborating with regulators in the statement, noting “regulatory clarity” is an issue that affects everyone in the crypto sector that’s “building” in the United States.</p>
-
-
-
-<p>Hours after the non-profit dedicated to stewarding SOL rebuffed the SEC’s securities claim, Polygon Labs <a href="https://twitter.com/0xPolygonLabs/status/1667643925232852996">took to Twitter</a> to address for the first time the SEC’s classification of its native token MATIC as a security without directly addressing the regulator. The company attempted to distance MATIC from U.S. markets by saying the token was developed and deployed outside the US. Polygon Labs then said MATIC was &#8220;available to a wide group of persons” while drawing attention to the “global community that supports the network” to this day. Commenting on MATIC’s utility, Polygon Labs said the coin was helpful in securing the Polygon network from Day 1.</p>
-
-
-
-<p>Since the SEC’s enforcement actions against Binance and Coinbase, some major retail trading avenues, such as Robinhood, have <a href="https://zycrypto.com/robinhood-ceases-support-for-cardano-solana-and-polygon-after-sec-calls-them-securities/">cut support for ADA, SOL, and MATIC </a>in response to the regulatory filings.</p>
-
-
-
-<p>Other companies could soon follow suit, but in the meantime, each respective development foundation tied to the trio of coins is pushing to clear its token’s name.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/cardano-solana-polygon-prices-make-comeback-rally-as-foundations-fire-back-against-secs-security-label/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shiba Inu Gathers Pace With Big Metaverse Updates Amid Rocket Pond Reveal As $0.001 SHIB Price Beckons</title>
-		<link>https://zycrypto.com/shiba-inu-gathers-pace-with-big-metaverse-updates-amid-rocket-pond-reveal-as-0-001-shib-price-beckons/</link>
-					<comments>https://zycrypto.com/shiba-inu-gathers-pace-with-big-metaverse-updates-amid-rocket-pond-reveal-as-0-001-shib-price-beckons/#respond</comments>
-		
-		<dc:creator><![CDATA[Aaron Feuerstein]]></dc:creator>
-		<pubDate>Sun, 11 Jun 2023 14:27:01 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Cryptocurrency News]]></category>
-		<category><![CDATA[SHIB]]></category>
-		<category><![CDATA[SHIBA INU]]></category>
-		<category><![CDATA[SHIBUSD]]></category>
-		<guid isPermaLink="false">https://zycrypto.com/?p=81973</guid>
-
-					<description><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Shiba Inu Community Anticipates Major Updates: Rocket Pond Launch, SHIB Metaverse, and Shibarium Mainnet" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>The introduction of Rocket Pond, the creation of the SHIB Metaverse, and the impending mainnet release of Shibarium are just a...]]></description>
-										<content:encoded><![CDATA[<p><img width="1200" height="700" src="https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Shiba Inu Community Anticipates Major Updates: Rocket Pond Launch, SHIB Metaverse, and Shibarium Mainnet" decoding="async" loading="lazy" srcset="https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet.jpg 1200w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-300x175.jpg 300w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-1024x597.jpg 1024w, https://zycrypto.com/wp-content/uploads/2023/06/Shiba-Inu-Community-Anticipates-Major-Updates-Rocket-Pond-Launch-SHIB-Metaverse-and-Shibarium-Mainnet-768x448.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p><div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
-<p>Shiba Inu (SHIB) is one of the cryptocurrency initiatives that has <a href="https://zycrypto.com/3-catalysts-renewing-bullish-drive-for-0-001-shib-price-as-meme-coins-see-sudden-resurgence/">captivated investors&#8217; interest</a> and enthusiasm the most. The introduction of Rocket Pond, the creation of the SHIB Metaverse, and the impending mainnet release of Shibarium are just a few of the significant changes that the Shiba Inu community is anxiously anticipating as the project gathers pace and speed.</p>
-
-
-
-<p>The launch of Rocket Pond, one of the 11 SHIB Metaverse hubs, was one of the most eagerly awaited updates. According to Marcie Jastrow, a Shiba Metaverse advisor, the Rocket Pond will be presented very soon. SHIB owners and fans are extremely excited about this news and can&#8217;t wait for the launch of this new metaverse hub.</p>
-
-
-
-<p>The Shiba Inu project has focused on the SHIB Metaverse, and the team has been working hard to assemble it. Jastrow recently alluded to the upcoming release of a video presentation of one of the metaverse centers. With this release, the community can anticipate seeing a glimpse of the immersive universe that Shiba Inu is creating.</p>
-
-
-
-<p><a href="https://zycrypto.com/0-001-shiba-inu-price-outlook-hangs-on-as-shib-network-activity-surges-ahead-of-shibarium-launch/">Shibarium</a>, another ground-breaking invention, is also seeing rapid development. Puppynet, the Shibarium beta version recently released, shows continual upgrades and advancements. The developer team is working behind the scenes and improving the platform to offer the Shiba Inu community autonomous services and infrastructure.</p>
-
-
-
-<p>These improvements mark significant turning points for the Shiba Inu project as it continues to gain popularity and draw an expanding user base. SHIB has lost two zeros since April, highlighting its remarkable price performance and market interest. This has sparked investor rumours and conversations about the likelihood that SHIB would soon achieve the coveted price of $0.001.</p>
-
-
-
-<p>Shiba Inu lovers have expressed their enthusiasm and eagerness on various social media sites as they eagerly await these developments. There is palpable excitement for the next updates since SHIB holders think these achievements could significantly increase the value of their treasured coin.</p>
-
-
-
-<p>It is important to note that the Shiba Inu initiative has strongly emphasised accessibility and inclusivity. According to reports, Rocket Pond and other metaverse hubs won&#8217;t be bought out by private investors. Once the metaverse is operational, it will instead be accessible to the general public and offer options for participation and community interaction.</p>
-
-
-
-<p>The Shiba Inu community is on the verge of anticipation as the launch dates for Rocket Pond, the SHIB Metaverse, and the Shibarium mainnet approach. The planned updates are significant advancements for the project and can influence how the SHIB ecosystem develops in the future. Shiba Inu is already firmly entrenched as one of the most compelling projects in the cryptocurrency market, thanks to the enthusiasm and confidence that each milestone brings.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://zycrypto.com/shiba-inu-gathers-pace-with-big-metaverse-updates-amid-rocket-pond-reveal-as-0-001-shib-price-beckons/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
