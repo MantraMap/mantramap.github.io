@@ -12,7 +12,7 @@
 	<atom:link href="https://www.cryptoninjas.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.cryptoninjas.net/</link>
 	<description>Bitcoin, Cryptocurrency and Blockchain Asset Source</description>
-	<lastBuildDate>Thu, 08 Jun 2023 21:11:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jun 2023 19:52:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crypto traders can mitigate risk with PODS&#8217; FUD Vault &#8211; now live on mainnet</title>
+		<link>https://www.cryptoninjas.net/2023/06/12/crypto-traders-can-mitigate-risk-with-pods-fud-vault-now-live-on-mainnet/</link>
+					<comments>https://www.cryptoninjas.net/2023/06/12/crypto-traders-can-mitigate-risk-with-pods-fud-vault-now-live-on-mainnet/#respond</comments>
+		
+		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2023 05:07:33 +0000</pubDate>
+				<category><![CDATA[Vendor Technology]]></category>
+		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=123895</guid>
+
+					<description><![CDATA[<p>The team of Pods recently announced the mainnet launch of its 3rd strategy on Pods Yield: FUD Vault, which now complements ETHphoria and stETHvv. FUD Vault provides a way for users to benefit from market downturns by offering a mechanism to hedge against significant price drops in ETH while preserving the deposited principal. Who is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2023/06/12/crypto-traders-can-mitigate-risk-with-pods-fud-vault-now-live-on-mainnet/">Crypto traders can mitigate risk with PODS&#8217; FUD Vault &#8211; now live on mainnet</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The team of <a href="https://www.pods.finance/" target="_blank" rel="noopener">Pods</a> recently announced the mainnet launch of its 3rd strategy on Pods Yield: FUD Vault, which now complements ETHphoria and stETHvv.</span></p>
+<p><strong>FUD Vault provides a way for users to benefit from market downturns by offering a mechanism to hedge against significant price drops in ETH while preserving the deposited principal.</strong></p>
+<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-123897" src="https://www.cryptoninjas.net/wp-content/uploads/pods-fud-vault.jpg" alt="" width="626" height="332" srcset="https://www.cryptoninjas.net/wp-content/uploads/pods-fud-vault.jpg 626w, https://www.cryptoninjas.net/wp-content/uploads/pods-fud-vault-622x330.jpg 622w, https://www.cryptoninjas.net/wp-content/uploads/pods-fud-vault-300x159.jpg 300w" sizes="(max-width: 626px) 100vw, 626px" /></p>
+<h4><b>Who is this product for?</b></h4>
+<p><span style="font-weight: 400;">The FUD Vault is designed for individuals who have uncertainties about the future performance of ETH and want to find a way to potentially profit even when the market is experiencing a downward trend. </span></p>
+<p><span style="font-weight: 400;">By depositing funds into the FUD Vault, users can take advantage of a specific strategy that aims to mitigate the risks associated with a falling market.</span></p>
+<p><span style="font-weight: 400;">Therefore, if you feel uncertain or skeptical about the future performance of ETH and desire a strategy that allows for potential profit-making during market declines, the FUD Vault could be a suitable option.</span></p>
+<h4><b>Product Values</b></h4>
+<p><span style="font-weight: 400;">The FUD Vault offers several key values to its users:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Simplified Strategy</b><span style="font-weight: 400;">: By consolidating a single strategy into one token, the FUD Vault enhances both DeFi composability and user convenience. Users can easily manage their deposits by transferring them between addresses, utilizing them as collateral on other protocols, and effortlessly verifying their holdings within a specific strategy. The aim is to streamline the user experience and provide a seamless interface for interacting with the vault.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Access to Intricate Strategies</b><span style="font-weight: 400;">: With just a single click, users gain access to intricate strategies within the FUD Vault. These strategies are designed to optimize returns and navigate the complexities of the market. By offering these strategies in a user-friendly manner, the vault allows users to benefit from sophisticated investment approaches without needing in-depth knowledge or expertise.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Flexible Withdrawal:</b><span style="font-weight: 400;"> Users can withdraw their funds from the FUD Vault at any point after the deposit has been processed. This feature ensures that users maintain control over their assets and can access their funds whenever they need them.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Transparent Historical Returns</b><span style="font-weight: 400;">: The FUD Vault provides users with a clear display of actual historical returns. This transparency allows users to assess the performance of the vault and make informed decisions about their investments. By presenting accurate and up-to-date information, the vault aims to build trust and confidence among its users.</span></li>
+</ul>
+<h4><b>How FUD Vault Operates</b></h4>
+<p><span style="font-weight: 400;">When you deposit USDC the vault immediately invests in Aave. Then, it utilizes the entire lending yield generated by Aave for purchasing ETH put options. These put options have a delta ranging from 0,03-0,12 and a maturity period of one week.</span></p>
+<p><span style="font-weight: 400;">In simple terms, the put options act as a form of insurance against a significant drop in the price of ETH. If the price of ETH decreases by more than 10% within the one-week timeframe, the put options are exercised and the resulting profits are distributed to the depositors of the FUD Vault.</span></p>
+<h4><strong>Summary</strong></h4>
+<p><span style="font-weight: 400;">The FUD Vault offers a user-friendly experience, providing convenient deposit management, access to intricate strategies, flexible withdrawal options, and transparent historical return information. </span></p>
+<p><span style="font-weight: 400;">These values ensure that users can easily navigate the vault, make informed decisions, and enjoy the benefits of the platform&#8217;s offerings.</span></p>
+<p><b>About Pods</b><b>:</b></p>
+<p><a href="https://www.pods.finance/"><span style="font-weight: 400;">Pods</span></a><span style="font-weight: 400;"> make structured products for crypto assets that are easy to use and seamless.</span> <span style="font-weight: 400;">Co-founded by </span><a href="https://twitter.com/0xbabi"><span style="font-weight: 400;">Rafaella Baraldo</span></a><span style="font-weight: 400;">, </span><a href="https://twitter.com/robsjre"><span style="font-weight: 400;">Robson Silva</span></a><span style="font-weight: 400;">, </span><span style="font-weight: 400;">and Guilherme Guimarães, the team has developed some of the most innovative and secure tools in DeFi. The success of the products, security audits, and brand efforts, have set a new standard for building DeFi methods in this rapidly expanding sector. Security audits conducted by OpenZeppelin further demonstrate the commitment to safety and reliability. Pods continue to focus on infrastructure and serving professional clients and investors looking to diversify their portfolios.</span></p>
+<p><b>Contracts</b></p>
+<p><span style="font-weight: 400;">The vault has undergone four audits by leading audit firms, including OpenZeppelin and ABDK. Audit reports are available at</span> <a href="https://github.com/pods-finance/yield-contracts/tree/main/audits"><span style="font-weight: 400;">https://github.com/pods-finance/yield-contracts/tree/main/audits</span></a></p>
+<p><span style="font-weight: 400;">The open-source contracts can be reviewed at</span> <a href="https://github.com/pods-finance/yield-contracts"><span style="font-weight: 400;">https://github.com/pods-finance/yield-contracts</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Join the Pods community on</span> <a href="https://twitter.com/PodsFinance"><span style="font-weight: 400;">Twitter</span></a></p>
+<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2023/06/12/crypto-traders-can-mitigate-risk-with-pods-fud-vault-now-live-on-mainnet/">Crypto traders can mitigate risk with PODS&#8217; FUD Vault &#8211; now live on mainnet</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cryptoninjas.net/2023/06/12/crypto-traders-can-mitigate-risk-with-pods-fud-vault-now-live-on-mainnet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>What is DeFi Returns?  A new way of DeFi Investing</title>
 		<link>https://www.cryptoninjas.net/2023/06/08/what-is-defi-returns-a-new-way-of-defi-investing/</link>
 					<comments>https://www.cryptoninjas.net/2023/06/08/what-is-defi-returns-a-new-way-of-defi-investing/#respond</comments>
@@ -839,36 +893,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.cryptoninjas.net/2022/10/26/crypto-bitcoin-company-blockchain-com-introduces-new-visa-debit-card/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</title>
-		<link>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/</link>
-					<comments>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/#respond</comments>
-		
-		<dc:creator><![CDATA[CryptoNinjas.net]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 04:32:07 +0000</pubDate>
-				<category><![CDATA[Crypto Exchanges]]></category>
-		<category><![CDATA[Kraken]]></category>
-		<guid isPermaLink="false">https://www.cryptoninjas.net/?p=122470</guid>
-
-					<description><![CDATA[<p>Kraken, the popular crypto exchange, has announced the results of its second 2022 Proof of Reserves audit, which has now been expanded beyond *BTC, and ETH* to include USDT, USDC, XRP, ADA*, and DOT.  *Indicates Proof of Reserves audit covered assets held both on Kraken’s spot exchange and Kraken&#8217;s staking platform. The addition of five [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/">Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Kraken, the <a href="https://www.cryptoninjas.net/2021/12/21/crypto-exchange-kraken-acquires-crypto-staking-platform-staked/" target="_blank" rel="noopener">popular crypto exchange</a>, has announced the results of its second 2022 Proof of Reserves audit, which has now been expanded beyond *BTC, and ETH* to include USDT, USDC, XRP, ADA*, and DOT.</p>
-<p><em> *Indicates Proof of Reserves audit covered assets held both on Kraken’s spot exchange and Kraken&#8217;s staking platform.</em></p>
-<p>The addition of five more cryptocurrencies expands the verification of Kraken client balance coverage to 63% of the total assets held on Kraken. The firm says it plans to continue including additional assets in future Proof of Reserves audits.</p>
-<p>A Proof of Reserve audit is an accounting procedure that cryptographically verifies cryptocurrency holdings and account balances. The results of the most recent audit were again verified by the top-25 global accounting firm, Armanino LLP.</p>
-<p>This latest audit determined Kraken securely held all of the above assets belonging to clients on its exchange, as well as held in its on-chain and off-chain staking services.</p>
-<blockquote><p><strong>&#8220;&#8230;don’t just take our word for it. We have always focused on security and our latest Proof of Reserves audit enables clients who held these assets on the exchange to independently verify their Kraken balances are indeed backed by real assets secured by our global exchange.&#8221;</strong><br />
-<a href="https://www.kraken.com/" target="_blank" rel="noopener"><strong>&#8211; The Kraken Team</strong></a></p></blockquote>
-<p>As quoted, Kraken now provides the tools needed for clients to independently affirm the results of audits. To learn more about this process and Proof of Reserves in general, see the details on Kraken&#8217;s <a href="https://www.kraken.com/proof-of-reserves?utm_source=content+announcement&amp;utm_medium=blog&amp;utm_campaign=por+announcement&amp;utm_content=content+link" target="_blank" rel="noopener" data-cke-saved-href="https://www.kraken.com/proof-of-reserves?utm_source=content+announcement&amp;utm_medium=blog&amp;utm_campaign=por+announcement&amp;utm_content=content+link">website</a>.</p>
-<p>The post <a rel="nofollow" href="https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/">Crypto exchange Kraken&#8217;s second reserves audit adds 5 new assets: USDT, USDC, XRP, ADA, and DOT</a> appeared first on <a rel="nofollow" href="https://www.cryptoninjas.net">CryptoNinjas</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.cryptoninjas.net/2022/08/12/crypto-exchange-krakens-second-reserves-audit-adds-5-new-assets-usdt-usdc-xrp-ada-and-dot/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
