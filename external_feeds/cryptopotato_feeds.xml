@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Wed, 21 Jun 2023 19:59:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Jun 2023 21:08:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,125 +29,154 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bitcoin-Loving President Bukele Reaches Record Support Level After 4 Years at the Helm (Survey)</title>
-		<link>https://cryptopotato.com/bitcoin-loving-president-bukele-reaches-record-support-level-after-4-years-at-the-helm-survey/</link>
+		<title>How The Ripple v. SEC Lawsuit Could Affect The Entire Crypto Industry: A Lawyer&#8217;s Take</title>
+		<link>https://cryptopotato.com/how-the-ripple-v-sec-lawsuit-could-affect-the-entire-crypto-industry-a-lawyers-take/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 21:08:37 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[featured1]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256828</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/05/Ripple_SEC.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/05/Ripple_SEC.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The Ripple lawsuit is approaching its conclusion. Here's what lawyers have to say, and what the result could mean for all of crypto. ]]></description>
+            																<content:encoded><![CDATA[<p>With the U.S. Securities and Exchange Commission (SEC) launching a full offensive against crypto this year, an ongoing lawsuit against one of the agency’s first industry targets – Ripple – remains as prevalent as ever.</p>
+<p>Given recent developments, many parties close to the case believe the court’s ruling may be imminent. How might the result of the Ripple v. SEC lawsuit affect the crypto market and regulatory landscape as a whole?</p>
+<p>Let’s dive in.</p>
+<h2>Recap: Ripple v. SEC</h2>
+<p>In December 2020, the SEC <a href="https://www.sec.gov/news/press-release/2020-338" data-wpel-link="external" target="_blank">charged</a> Ripple and its two top executives – CEO Brad Garlinghouse and former CEO Chris Larsen – with conducting a $1.3 billion unregistered securities offering in the form of XRP, dating back to 2013.</p>
+<p>The lawsuit caused the price of XRP to plummet at the time, and incited many crypto exchanges to <a href="https://cryptopotato.com/the-exchanges-that-delisted-xrp-following-the-ripple-sec-lawsuit/" data-wpel-link="internal">delist</a> the asset to remain compliant with federal securities laws.</p>
+<p>Ripple didn’t back down, however. According to Garlinghouse, the company has <a href="https://www.cnbc.com/2023/05/08/ripple-will-have-spent-200-million-fighting-sec-lawsuit-ceo-says.html" data-wpel-link="external" target="_blank">spent</a> roughly $200 million defending itself from the SEC’s allegations. The company’s core argument is that XRP itself is not a security or investment contract, but a digital currency used to facilitate cross-border payments.</p>
+<p>Garlinghouse expressed <a href="https://twitter.com/XRPnewt/status/1661547535062769669?s=20" data-wpel-link="external" target="_blank">confidence</a> last month that the case could be approaching its conclusion within a few weeks – implying its resolution could be announced any day now.</p>
+<h2>Who is Correct?</h2>
+<p>Thus far, U.S. Congress hasn’t passed any legislation clarifying how crypto assets ought to be classified under the law – whether as securities or commodities.</p>
+<p>The country’s chief market regulators – the SEC and Commodities and Futures Trading Commission (CFTC) – are at odds on the subject, with the former seemingly believing that all cryptos <a href="https://cryptopotato.com/sec-chair-reasserts-every-crypto-is-a-security-aside-from-bitcoin-lawyers-disagree/" data-wpel-link="internal">besides Bitcoin</a> are securities.</p>
+<p>SEC chairman Gary Gensler keeps a <a href="https://cryptopotato.com/is-ether-a-security-sec-chair-gary-gensler-avoids-a-direct-answer/" data-wpel-link="internal">tight lip</a> when asked to publicly discuss which specific cryptocurrencies are securities. Instead, he often refers the industry to the Howey Test – a decades-old legal standard for identifying whether financial assets qualify as investment contracts, and therefore as securities under the Securities Act of 1933.</p>
+<p>There are four prongs to passing the Howey Test:</p>
+<p>1. An investment of money…<br />
+2. In a common enterprise…<br />
+3. With the expectation of profit…<br />
+4. To be derived from the efforts of others.</p>
+<p>Industry leaders like Ripple often contest the SEC’s interpretation of the Howey Test when applied to digital assets. For example, Coinbase <a href="https://twitter.com/coinbase/status/1625670800031219712" data-wpel-link="external" target="_blank">argues</a> that stablecoins like the Paxos-issued BUSD (which the SEC <a href="https://cryptopotato.com/stablecoin-race-dai-surpasses-busd-amid-binance-sec-regulatory-row/" data-wpel-link="internal">alleged</a> is a security this month) are not investments, as their value remains “stable” across time.</p>
+<h2>What Do Lawyers Think Of XRP?</h2>
+<p>John Deaton – founder of Crypto Law.US – is a lawyer representing over 75,000 XRP holders in the Ripple v. SEC lawsuit. He is firmly against the SEC’s position, asserting that XRP is not a security, and that Gensler ought to be fired from his position.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">So when you take all the law into consideration, the SEC has NOTHING to support its theory that secondary market sales are also securities. Some may argue that the SEC has a right to pursue novel theories, unsupported by the law. I disagree.</p>
+<p>&mdash; John E Deaton (@JohnEDeaton1) <a href="https://twitter.com/JohnEDeaton1/status/1670861912035164191?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">June 19, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Sandy Seth – a patent lawyer of 25 years – also expressed skepticism of the SEC’s case in a Twitter thread on Monday, arguing that XRP does not meet all of the requirements of an investment contract under Howey. Though not a securities lawyer by profession, Seth’s analysis received <a href="https://twitter.com/johnedeaton1/status/1670944780023480320?s=21&amp;t=wrnPxlnnedgK7f-A78lsZw" data-wpel-link="external" target="_blank">high praise</a> from Deaton as “good or better than any of mine or anyone else’s.”</p>
+<p>Seth spoke with <em>CryptoPotato</em> this week about his case against the SEC, and what implications the lawsuit carries for the entire industry.</p>
+<p>“The most basic requirement [of] a security is an instrument that evidences a financial stake in a common enterprise, like the Howey contracts did,” he said. The SEC, by contrast, has “bogusly” tried to eliminate that requirement.</p>
+<p>His claims are in line with Deaton’s who has often <a href="https://twitter.com/JohnEDeaton1/status/1671910549473337344" data-wpel-link="external" target="_blank">said</a> Ripple’s success as a company is not necessarily tied to XRP’s gains or losses on the market.</p>
+<p>Seth said he hopes that the SEC is not “bamboozled” by the SEC’s Howey interpretation, and finds that none of the contracts under which Ripple sold XRP are securities, since they do not “convey any interest in a common enterprise.”</p>
+<h2>The Hinman Emails</h2>
+<p>Another of Ripple’s common arguments is that the crypto industry received faulty and contradictory guidance from the SEC about how digital assets are classified. They cite a 2018 speech from former commissioner William Hinman as an example, in which he describes how cryptos that were once commodities could potentially transition into being securities, among other criteria.</p>
+<p>Earlier this month, the SEC was forced to leak internal communications about the speech. The emails <a href="https://cryptopotato.com/ripple-v-sec-and-the-hinman-speech-what-happened-behind-the-scenes/" data-wpel-link="internal">revealed</a> that Hinman published the speech despite receiving multiple warnings from his fellow agency members that the speech could confuse readers about which characteristics factored into an asset being a security.</p>
+<p>While showing proof of potential SEC corruption, Seth said those emails are likely just a “red herring.”</p>
+<p>“The fair notice defense is *NOT* implicated (if the Court rules, as it should, that neither XRP itself nor the Ripple contracts under which it was sold were investment contracts),” he explained.</p>
+<h2>What Does This Mean For Crypto?</h2>
+<p>Like many in the crypto industry, Seth believes that a ruling in Ripple’s favor can “clarify in one fell swoop” that the SEC does not have broad authority over the crypto industry.</p>
+<p>This would effectively protect crypto companies from the agency’s future enforcement actions until clarifying legislation is passed in Congress. Until then, another agency – like the CFTC – could take charge.</p>
+<p>The SEC sued crypto exchanges Binance and Coinbase this month, <a href="https://cryptopotato.com/the-sec-claims-these-coins-are-securities-in-the-lawsuit-against-coinbase/" data-wpel-link="internal">alleging</a> that over a dozen cryptos listed on their platforms were securities in the process. Many of these coins – including Cardano (ADA) and Solana (SOL) – were sold and behave in a similar manner to XRP, and suffered similar losses to XRP after the SEC’s allegations.</p>
+<p>Seth is himself a crypto investor, who spent months reaching his conclusion on the case after reading the SEC’s summary judgment filings.</p>
+<p>“Through bogus enforcement action the SEC has terrorized the crypto industry,” he said. “The SEC has hurt crypto investors and what’s more it knew it was hurting the investors when it brought these lawsuits.&#8221;</p>
+<p>The post <a href="https://cryptopotato.com/how-the-ripple-v-sec-lawsuit-could-affect-the-entire-crypto-industry-a-lawyers-take/" rel="nofollow">How The Ripple v. SEC Lawsuit Could Affect The Entire Crypto Industry: A Lawyer&#8217;s Take</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Ethereum &#038; Solana Price Growth Slows, But Ecoterra Continues to Rise</title>
+		<link>https://cryptopotato.com/ethereum-solana-price-growth-slows-but-ecoterra-continues-to-rise/</link>
+		
+		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 18:25:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256786</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/ecoterra_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/ecoterra_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[It’s been a hectic few days in the crypto market, with an abundance of coins and tokens producing double-digit returns. However, there’s been a marked slowdown in the growth of Ethereum (ETH) and Solana (SOL), leading investors to debate whether their recent uptick in momentum was only temporary. Meanwhile, eco-friendly crypto project Ecoterra (ECOTERRA) continues [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>It’s been a hectic few days in the crypto market, with an abundance of coins and tokens producing double-digit returns.</p>
+<p>However, there’s been a marked slowdown in the growth of Ethereum (ETH) and Solana (SOL), leading investors to debate whether their recent uptick in momentum was only temporary.</p>
+<p>Meanwhile, eco-friendly crypto project Ecoterra (ECOTERRA) continues making headlines – and has now breached the $5.3 million mark in its ongoing presale.</p>
+<h2>Turbulent Market Forces Prompt ETH &amp; SOL Slowdown</h2>
+<p>At the time of writing, ETH is hovering around the $1,870 level, following a surprise surge earlier in the week.</p>
+<p>This surge culminated in ETH breaching $1,900 before immediately retracing.</p>
+<p>Ethereum&#8217;s recent price movements suggest a high volume of sell orders located around $1,900, which has halted the bullish momentum.</p>
+<p>Moreover, although price has soared above the 20-day and 50-day Exponential Moving Averages (EMAs), movement over the past 24 hours suggests that a potential retest of these indicators is on the cards.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-23.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256791" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-23.jpg" alt="Picture2" width="602" height="308" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-23.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-23-300x153.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-23-50x26.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>If this occurs, the price could drop back to $1,815 to use the 50-day EMA as a springboard for another push.</p>
+<p>Meanwhile, fellow Proof-of-Stake (PoS) cryptocurrency Solana has also experienced a much-needed price rise, with the token briefly surpassing the $17 level.</p>
+<p>However, much like Ethereum, the bullish momentum looks to have been temporary – with the SOL price dropping nearly 8% in the past 24 hours.</p>
+<p>Data from CoinMarketCap <a href="https://coinmarketcap.com/currencies/solana/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">reveals</a> that the SOL trading volume has sunk by 40% in that time frame, indicating that traders are becoming increasingly cautious about Solana’s prospects.</p>
+<p>Moreover, analytics from Solscan.io <a href="https://analytics.solscan.io/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">shows</a> that the number of active Solana wallets has dropped from Monday’s high.</p>
+<h2>Long-Term Potential Still Positive for Ethereum &amp; Solana</h2>
+<p>Despite these bearish indicators, investors are still relatively optimistic, given the broader context of the crypto market.</p>
+<p>BlackRock&#8217;s recent application for a spot Bitcoin ETF has sparked life back into the market since it highlights that large institutions are still bullish on crypto.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-21.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256790" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-21.jpg" alt="Picture3" width="602" height="269" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-21.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-21-300x134.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-21-50x22.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>In addition, a recent <a href="https://www.marketresearchfuture.com/reports/decentralized-finance-market-11510" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">report</a> from Market Research Future forecasts that the value of the decentralized finance (DeFi) market could grow to a whopping $446.43 billion by 2032.</p>
+<p>Since both Ethereum and Solana are deeply involved in the DeFi market, this projection implies a massive growth opportunity for both cryptos in the long term.</p>
+<p>Thus, while ETH and SOL have undoubtedly seen a slowdown in price momentum, the long-term outlook remains promising – making them attractive considerations for crypto-savvy investors.</p>
+<h2>Which Cryptos Are Still Growing Amid the Market Rebound?</h2>
+<p>Amid the market fluctuations, several other cryptocurrencies are experiencing renewed interest alongside Ethereum and Solana.</p>
+<p>A particularly noteworthy example is Ecoterra, which has now raised over $5.3 million during its highly-successful presale phase.</p>
+<h2>Crypto Sensation Ecoterra Gamifies Recycling to Promote Sustainability</h2>
+<p><a href="https://bs_d432f031.cryptopotato.care/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Ecoterra (ECOTERRA)</a> is an Ethereum-based ecosystem that aims to combat climate change by promoting recycling.</p>
+<p>The ecosystem has several sustainability-focused features, although the groundbreaking Recycle2Earn mobile app is undoubtedly the most compelling.</p>
+<p>This app allows users to scan the barcodes of various items and earn ECOTERRA tokens for recycling them – with no cap on how much a user can make.</p>
+<p>Per Ecoterra’s <a href="https://www.ecoterra.io/documents/whitepaper-ecoterra.pdf" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">whitepaper</a>, this setup is designed to incentivize individuals (and businesses) to recycle more, thereby positively impacting the environment.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-17.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256789" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-17.jpg" alt="Picture4" width="602" height="269" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-17.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-17-300x134.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-17-50x22.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Since rewards are denominated in ECOTERRA, users could also benefit if the token&#8217;s price increased once listed on centralized exchanges (CEXs).</p>
+<p>Alongside the Recycle2Earn app, the Ecoterra ecosystem will have a carbon offset marketplace, a recycled materials marketplace, and a trackable &#8220;Impact Profile.&#8221;</p>
+<p>The potential of these features has caused significant hype around the Ecoterra project, with over 6,500 people participating in the official <a href="https://t.me/ecoterraio" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Telegram community</a>.</p>
+<p>Ecoterra has even caught the attention of several crypto influencers; for example, Crypto Moonlight released a <a href="https://www.youtube.com/watch?v=0uwSEwDDrJo&amp;pp=ygUPZWNvdGVycmEgY3J5cHRv" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">video</a> stating that Ecoterra could make investors &#8220;insane profit.&#8221;</p>
+<p>All in all, Ecoterra seems poised to make significant strides in promoting sustainability on the blockchain, making it an appealing option for eco-conscious investors worldwide.</p>
+<p><a href="https://bs_d432f031.cryptopotato.care/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Ecoterra Presale</strong></a></p>
+<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above sponsored content.</em></p>
+<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
+<p>The post <a href="https://cryptopotato.com/ethereum-solana-price-growth-slows-but-ecoterra-continues-to-rise/" rel="nofollow">Ethereum &#038; Solana Price Growth Slows, But Ecoterra Continues to Rise</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Binance Reinforces for the SEC Lawsuit: Hires a Former DOJ Prosecutor (Report)</title>
+		<link>https://cryptopotato.com/binance-reinforces-for-the-sec-lawsuit-hires-a-former-doj-prosecutor-report/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 22:17:37 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[BTCEUR]]></category>
-		<category><![CDATA[BTCGBP]]></category>
-		<category><![CDATA[BTCUSD]]></category>
-		<category><![CDATA[BTCUSDT]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[El Salvador]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256301</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/Nayib_Bukele.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/Nayib_Bukele.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The study determined that just 5.3% of Salvadorans disagree with Nayib Bukele's political regime. ]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Recent survey conducted by TResearch estimated that nearly 93% of Salvadorans approve of the leadership of President Nayib Bukele. This has been the highest level of support for the political leader who stepped into his role in 2019.</span></p>
-<p><span data-preserver-spaces="true">Bukele is a well-known figure across the cryptocurrency community, mainly due to his pro-Bitcoin stance. Under his rule, El Salvador became the first country to adopt the primary digital asset as a legal tender. </span></p>
-<h2><span data-preserver-spaces="true">Salvadorans are Satisfied With Bukele</span></h2>
-<p><span data-preserver-spaces="true">According to the </span><a class="editor-rtfLink" href="https://www.tresearch.mx/post/sv-aprobacion-gobierno" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">research</span></a><span data-preserver-spaces="true">, only 5.3% are not happy with the work carried out by Bukele&#8217;s administration, whereas 92.3% approve of its policies and actions. Some of the best achievements of the President&#8217;s cabinet include handling the COVID-19 pandemic, building new roads and upgrading highway infrastructure, and implementing reforms in the education sector.</span></p>
-<p><span data-preserver-spaces="true">For broad society, though, Bukele is known as the man who waged war on local criminal gangs and opened the nation&#8217;s doors to Bitcoin. </span></p>
-<p><span data-preserver-spaces="true">El Salvador became the first country to <a href="https://cryptopotato.com/three-months-later-bitcoin-now-officially-a-legal-tender-in-el-salvador/" data-wpel-link="internal">declare</a> BTC as legal tender inside its borders in 2021. Bukele&#8217;s government did not stop there, introducing multiple initiatives involving the asset in the following years. </span></p>
-<p><span data-preserver-spaces="true">It purchased BTC on a macroeconomic level and used the profits to </span><a class="editor-rtfLink" href="https://cryptopotato.com/el-salvadors-bitcoin-fueled-vet-hospital-opens-this-week/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">build</span></a><span data-preserver-spaces="true"> a massive veterinary hospital. It also revealed intentions to create a futuristic </span><a class="editor-rtfLink" href="https://cryptopotato.com/el-salvadors-bitcoin-city-wins-an-international-design-award-report/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">&#8220;Bitcoin City&#8221;</span></a><span data-preserver-spaces="true"> that will be located in the southeast region of the Latin American nation.</span></p>
-<p>Unsurprisingly, the future metropolis will adopt BTC as its currency, while its urban area will be designed in such a way that it could represent the logo of the digital asset when looked at from above.</p>
-<p><span data-preserver-spaces="true">Bukele has recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/president-bukele-explains-how-el-salvador-benefited-from-legalizing-bitcoin/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">explained</span></a><span data-preserver-spaces="true"> that embracing Bitcoin has increased El Salvador&#8217;s tourism by nearly 100%, fixed its legacy, and made the country highly popular for investors and entrepreneurs.</span></p>
-<h2><span data-preserver-spaces="true">Second Term for the Leader?</span></h2>
-<p><span data-preserver-spaces="true">Despite El Salvador&#8217;s constitution that prohibits Presidents from having consecutive mandates, Bukele said he will compete in the elections in 2024.</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;I&#8217;m announcing to the Salvadoran people that I&#8217;ve decided to run as a candidate for President of the Republic,&#8221; the 41-year-old </span><a class="editor-rtfLink" href="https://cryptopotato.com/el-salvadors-pro-bitcoin-president-will-seek-re-election-in-2024/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">announced</span></a><span data-preserver-spaces="true"> in September. </span></p></blockquote>
-<p><span data-preserver-spaces="true">However, it seems like the controversial decision will not cause any backlash among locals since 93% would like him to remain their leader after the vote next year. 6.8% would be happier to see another person serving as President.</span></p>
-<p>The post <a href="https://cryptopotato.com/bitcoin-loving-president-bukele-reaches-record-support-level-after-4-years-at-the-helm-survey/" rel="nofollow">Bitcoin-Loving President Bukele Reaches Record Support Level After 4 Years at the Helm (Survey)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>ReserveBlock Launches RBX Reserve Accounts as Part of Spartan Wallet Update</title>
-		<link>https://cryptopotato.com/reserveblock-launches-rbx-reserve-accounts-as-part-of-spartan-wallet-update/</link>
-		
-		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 20:35:08 +0000</pubDate>
+		<pubDate>Fri, 23 Jun 2023 17:52:20 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[DeFi News]]></category>
-		<category><![CDATA[Security]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256307</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/rbx_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/rbx_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256707</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/binance_sec_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/binance_sec_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[RBX Network is pushing new updates to the Spartan Wallet in a bid to improve user experience and functionality.]]></description>
-            																<content:encoded><![CDATA[<p>In an attempt to improve user experience and introduce major lifestyle upgrades, RBX network is launching a suite of on-chain security features called RBX Reserve Accounts.</p>
-<ul>
-<li>The push comes as part of its most recent Spartan Wallet Update.</li>
-<li>It&#8217;s aimed at providing users with on-chain recovery, as well as callback features, in a bid to take self-sovereignty and self-custody to new heights.</li>
-<li>According to the press release shared with CryptoPotato, users will be able to enjoy the security of cold storage in a hot wallet.</li>
-<li>There will be an added ability to recover funds that have been compromised within 24 hours of any potential event.</li>
-<li>This will become possible by entering their own personally-generated password and recovery code. The assets will be recovered to a new address, which is only known by the user.</li>
-<li>Moreover, according to the release:</li>
-</ul>
-<blockquote><p><span style="font-weight: 400;">RBX Spartan Wallet update has improved file upload speeds by enhancing the Beacon System and enabled peer-to-peer NFT sales without the need for an auction house. It also provides the ability to create verification signatures for proof of asset ownership. This release also includes several wallet quality-of-life improvements and new API methods for querying. Web wallets are expected to incorporate Reserve Accounts in the coming weeks.</span></p></blockquote>
-<p>The post <a href="https://cryptopotato.com/reserveblock-launches-rbx-reserve-accounts-as-part-of-spartan-wallet-update/" rel="nofollow">ReserveBlock Launches RBX Reserve Accounts as Part of Spartan Wallet Update</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Day, who spent 15 years at the US DOJ, will supposedly appear as counsel for Binance in its legal battle against the SEC.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The world&#8217;s largest cryptocurrency exchange &#8211; Binance &#8211; has reportedly recruited M. Kendall Day &#8211; a former prosecutor at the US Department of Justice. His main duty will be to represent the firm in the legal battle against the United States Securities and Exchange Commission (SEC).</span></p>
+<p><span data-preserver-spaces="true">The agency waged war on Binance earlier this month, accusing it of violating several rules. According to one of the allegations, the exchange offered services with unregistered securities, such as the native token of the platform BNB and the stablecoin BUSD. </span></p>
+<h2><span data-preserver-spaces="true">Getting Ready for the Fight</span></h2>
+<p><span data-preserver-spaces="true">As </span><a class="editor-rtfLink" href="https://www.bnnbloomberg.ca/binance-hires-former-justice-department-prosecutor-in-sec-fight-1.1936728" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">reported</span></a><span data-preserver-spaces="true"> by recent Bloomberg, Day will appear in the SEC case as counsel for Binance. His vast experience includes 15 years at the Department of Justice, where he served as a white-collar prosecutor and later rose to an Acting Deputy Assistant Attorney General (DAAG).</span></p>
+<p><span data-preserver-spaces="true">Day was in charge of the Money Laundering and Asset Recovery Section and had responsibility for about 200 prosecutors and other experts. He has also supervised high-profile cases and investigations related to corporate and financial misconduct allegations.<br />
+</span></p>
+<figure id="attachment_256715" aria-describedby="caption-attachment-256715" style="width: 533px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day.jpg" data-wpel-link="internal"><img class="wp-image-256715" src="https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day.jpg" alt="M. Kendall Day" width="533" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day.jpg 800w, https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day-300x225.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day-768x576.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/06/Kendall-Day-50x38.jpg 50w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption id="caption-attachment-256715" class="wp-caption-text">M. Kendall Day, Source: St. Francis</figcaption></figure>
+<p><span data-preserver-spaces="true">Interestingly, now he will have to stand on the opposite corner. The SEC </span><a class="editor-rtfLink" href="https://cryptopotato.com/bitcoin-plummets-after-sec-sues-binance-for-securities-violations/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">filed</span></a><span data-preserver-spaces="true"> a lawsuit at the beginning of the month, alleging Binance, CEO Changpeng Zhao (CZ), and Binance US of breaching several rules. </span></p>
+<p><span data-preserver-spaces="true">For one, it maintained that the company and its American subsidiary operated &#8220;unregistered national securities exchanges, broker-dealers, and clearing agencies.&#8221; </span></p>
+<p><span data-preserver-spaces="true">Binance has also provided access to tokens deemed unregistered securities by the Commission, including BNB and BUSD. </span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Through thirteen charges, we allege that Zhao and Binance entities engaged in an extensive web of deception, conflicts of interest, lack of disclosure, and calculated evasion of the law,&#8221; said SEC Chair Gary Gensler.</span></p></blockquote>
+<p><span data-preserver-spaces="true">For his part, Zhao remained unfazed by the threat, </span><a class="editor-rtfLink" href="https://twitter.com/cz_binance/status/1665742100845961217" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">posting</span></a><span data-preserver-spaces="true"> his signature number &#8220;4&#8221; on Twitter. The latter has turned into an indication for followers to ignore &#8220;fake news&#8221; and negative information that is spread only to harm the company. </span></p>
+<h2><span data-preserver-spaces="true">Coinbase is Another Target</span></h2>
+<p><span data-preserver-spaces="true">Apart from Binance, the SEC has also </span><a class="editor-rtfLink" href="https://cryptopotato.com/us-sec-files-a-lawsuit-against-coinbase-day-after-suing-binance/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">filed</span></a><span data-preserver-spaces="true"> a lawsuit against the US-based crypto exchange Coinbase. Similar to the aforementioned case, the watchdog accused the Brian Armstrong-spearheaded platform of offering trading services with unlicensed securities such as the well-known digital assets SOL, MATIC, ADA, FIL, SAND, AXS, and more.</span></p>
+<p><span data-preserver-spaces="true">CEO Armstrong </span><a class="editor-rtfLink" href="https://cryptopotato.com/coinbase-ceo-welcomes-sec-legal-battle-well-get-the-job-done/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">said</span></a><span data-preserver-spaces="true"> Coinbase would be &#8220;proud&#8221; to represent the sector in the SEC legal fight, adding that it could &#8220;finally get some clarity around crypto rules.&#8221;</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;We&#8217;ll get the job done. In the meantime, let&#8217;s all keep moving forward and building as an industry. America will get this right in the end,&#8221; he concluded.</span></p></blockquote>
+<p>The post <a href="https://cryptopotato.com/binance-reinforces-for-the-sec-lawsuit-hires-a-former-doj-prosecutor-report/" rel="nofollow">Binance Reinforces for the SEC Lawsuit: Hires a Former DOJ Prosecutor (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Federal Reserve Chairman Refers To Stablecoins As A &#8220;Form Of Money&#8221;</title>
-		<link>https://cryptopotato.com/federal-reserve-chairman-refers-to-stablecoins-as-a-form-of-money/</link>
+		<title>Bitcoin Soars to $31k Sparking $108 Million In Liquidations</title>
+		<link>https://cryptopotato.com/bitcoin-soars-to-31k-sparking-108-million-in-liquidations/</link>
 		
 		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 19:59:18 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[Stablecoins]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256404</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/03/JeromePowell.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/03/JeromePowell.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Chairman Powell believes the Federal Reserve should play a role in governing the stablecoin market. ]]></description>
-            																<content:encoded><![CDATA[<p><span style="font-weight: 400">Stablecoins are a “form of money” over which the central bank ought to have some level of authority, said Federal Reserve Chairman Jerome Powell before Congress on Wednesday.</span></p>
-<p><span style="font-weight: 400">The chairman also confirmed that the Fed does not intend to directly issue a Central Bank Digitial Currency (CBDC) in the United States. </span></p>
-<ul>
-<li style="font-weight: 400"><span style="font-weight: 400">During a </span><a href="https://www.youtube.com/watch?v=qmddoaBAXXk&amp;t=3222s&amp;ab_channel=GOPFinancialServices" data-wpel-link="external" target="_blank"><span style="font-weight: 400">hearing</span></a><span style="font-weight: 400"> related to monetary policy, Powell acknowledged that the crypto industry has some “staying power” – but also how its market cap has retraced massively since last year.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">In the past, Powell has </span><a href="https://www.youtube.com/watch?v=agOrZsyhA7o&amp;ab_channel=CNBCTelevision" data-wpel-link="external" target="_blank"><span style="font-weight: 400">dismissed</span></a><span style="font-weight: 400"> Bitcoin and other cryptos as failed forms of money. Stablecoins, however, have been a point of greater focus, for which he’s </span><a href="https://cryptopotato.com/the-us-has-no-intentions-to-ban-bitcoin-said-fed-chair-powell/" data-wpel-link="internal"><span style="font-weight: 400">advocated</span></a><span style="font-weight: 400"> careful regulation. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">“We do see payments stablecoins as a form of money,&#8221; Powell said on Wednesday. The chairman added that central banks remain the ultimate source of credibility on money and that there should be a robust federal role it has to play in the industry. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">“Allowing a lot of private money creation at the state level would be a mistake” he added.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Though a CBDC is still on the table for the Federal Reserve, Powell said it wouldn’t consider creating one issued directly by the central bank. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">“We would not support accounts at the Federal Reserve by individuals,” he said, citing privacy concerns. “At some point in the future, a CBDC would be one that was intermediated through the banking system and not directly at the Fed.”  </span></li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/federal-reserve-chairman-refers-to-stablecoins-as-a-form-of-money/" rel="nofollow">Federal Reserve Chairman Refers To Stablecoins As A &#8220;Form Of Money&#8221;</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Millions of XRP Stolen in Atomic Wallet Hack Leaking to Exchanges (Analysis)</title>
-		<link>https://cryptopotato.com/atomic-wallet-hackers-continue-laundering-funds-through-binance-kucoin-huobi/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 18:19:16 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Hacking]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256383</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2018/04/hacking-2903156_640.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2018/04/hacking-2903156_640.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Forensics experts are working with centralized exchanges to freeze as many assets connected to the Atomic Wallet hack as possible.]]></description>
-            																<content:encoded><![CDATA[<p><span style="font-weight: 400;">Hackers who targeted Atomic Wallet earlier this month are laundering large sums of stolen XRP through centralized exchanges, on-chain data shows.</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">According to </span><a href="https://twitter.com/xrpforensics/status/1671404282753548291" data-wpel-link="external" target="_blank"><span style="font-weight: 400;">xrpforensics</span></a><span style="font-weight: 400;"> on Twitter, the hackers began “heavily laundering funds,” on Monday, spawning new blockchain addresses to avoid blocklists established by crypto exchanges. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">“We&#8217;re monitoring and working closely with exchanges to try and seize as much as possible,” said the team. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">At least 280,000 XRP were sent to Binance, with over 200,000 additional units sent to KuCoin, WhiteBit, OKEx, and Huobi Global. The forensics team also suspects that some funds are moving through MEXC. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">On Wednesday, the account </span><a href="https://twitter.com/xrpforensics/status/1671565831329677327" data-wpel-link="external" target="_blank"><span style="font-weight: 400;">noted</span></a><span style="font-weight: 400;"> how funds were “leaking” through the decentralized bridge, Orbit, through which another 3 million XRP were quickly laundered.  </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Blockchain forensics experts at Elliptic </span><a href="https://cryptopotato.com/atomic-wallet-hacker-funnels-stolen-crypto-to-north-korea-tied-coin-mixer-elliptic/" data-wpel-link="internal"><span style="font-weight: 400;">suspect</span></a><span style="font-weight: 400;"> that the North Korean Lazarus group may have been connected to the Atomic Wallet hack, which stole $35 million from users earlier this month. </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Lazarus has a history of using blockchain bridges to launder their stolen funds. On Tuesday, crypto tracking platform MistTrack </span><a href="https://cryptopotato.com/atomic-wallet-hackers-take-advantage-of-thorchain-to-hide-35m/" data-wpel-link="internal"><span style="font-weight: 400;">found</span></a><span style="font-weight: 400;"> that the hackers moved hundreds of stolen Ether (ETH) through the cross-chain liquidity protocol THORChain, converting their assets into Bitcoin (BTC). </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Hackers also appear to have </span><a href="https://cryptopotato.com/atomic-wallet-hackers-used-ofac-sanctioned-garantex-to-launder-stolen-35m-report/" data-wpel-link="internal"><span style="font-weight: 400;">used</span></a><span style="font-weight: 400;"> the Russian crypto exchange Garantex to liquidate their assets – a platform sanctioned by the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC). </span></li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/atomic-wallet-hackers-continue-laundering-funds-through-binance-kucoin-huobi/" rel="nofollow">Millions of XRP Stolen in Atomic Wallet Hack Leaking to Exchanges (Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Bitcoin Cracks Above $30k Triggering $265 Million in Liquidations</title>
-		<link>https://cryptopotato.com/bitcoin-cracks-above-30k-triggering-265-million-in-liquidations/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 17:18:34 +0000</pubDate>
+		<pubDate>Fri, 23 Jun 2023 17:42:17 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
@@ -156,191 +185,212 @@
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[Bitcoin]]></category>
 		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256370</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/06/Bitcoin_Green_Candle-1.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/06/Bitcoin_Green_Candle-1.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256801</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/03/bitcoing_green_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/03/bitcoing_green_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Bitcoin returns to $30,000 amid bullish ETF news and enforcement actions affecting other digital assets. ]]></description>
-            																<content:encoded><![CDATA[<p><span style="font-weight: 400">Bitcoin(BTC) has risen back above $30,000 for the first time since April amid optimism that a Bitcoin spot ETF product could soon be approved in the United States. </span></p>
-<p><span style="font-weight: 400">The asset appears to be outperforming other cryptos, sending Bitcoin dominance to another two-year high above 51%. </span></p>
+			            <description><![CDATA[Bitcoin’s market cap is back above $600 billion.]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin (BTC) blasted back above $31,000 on Friday, resuming a week of bullish gains following BlackRock’s Bitcoin spot ETF application last week.</p>
 <ul>
-<li style="font-weight: 400"><span style="font-weight: 400">Bitcoin traded for roughly $28,300 early on Wednesday, before surging to $30,650 by 16:38 UTC. At press time, the asset trades for $30,250, according to TradingView.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">The pump puts Bitcoin up 7.00% since the stock market opened, outperforming Ether’s 4.69% rise over the same period. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Bitcoin has been </span><a href="https://cryptopotato.com/bitcoin-soars-12-weekly-bch-charts-25-increase-in-a-day-market-watch/" data-wpel-link="internal"><span style="font-weight: 400">on the rise</span></a><span style="font-weight: 400"> since late yesterday when the coin surged from under $27,000 to over $29,000.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Over the past 24 hours, Bitcoin’s volatility has triggered $265 Million in liquidations across the crypto market, according to </span><a href="https://www.coinglass.com/LiquidationData" data-wpel-link="external" target="_blank"><span style="font-weight: 400">CoinGlass</span></a><span style="font-weight: 400">. That includes over 64,000 traders, the largest of whom was liquidated for $9.3 million. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">The excitement around Bitcoin appears to be growing after BlackRock – the world’s largest asset manager – </span><a href="https://cryptopotato.com/blackrock-files-bitcoin-spot-etf-application-taps-coinbase/" data-wpel-link="internal"><span style="font-weight: 400">filed</span></a><span style="font-weight: 400"> with the SEC to launch a Bitcoin spot ETF product last week. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Invesco and WisdomTree later </span><a href="https://cryptopotato.com/after-blackrock-two-more-asset-managers-file-to-launch-a-btc-etf-in-the-us/" data-wpel-link="internal"><span style="font-weight: 400">resubmitted</span></a><span style="font-weight: 400"> filings for similar products after previously being turned down by the commission. Though the SEC has shown resistance to such a product, BlackRock has an incredibly strong </span><a href="https://cryptopotato.com/blackrocks-etf-success-rate-with-the-sec-is-575-to-1-what-about-its-bitcoin-application/" data-wpel-link="internal"><span style="font-weight: 400">success rate</span></a><span style="font-weight: 400"> for seeing its products approved.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Meanwhile, altcoins like Cardano (ADA) and BNB are suffering after being explicitly named as securities in the SEC’s lawsuits against Coinbase and Binance earlier this month. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">MicroStrategy Executive Chairman Michael Saylor predicted last week that Bitcoin would likely benefit from the U.S. regulatory crackdown against alternative cryptos.</span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">Bitcoin dominance now stands at 51.74% – its highest level since late April 2021. </span></li>
-<li style="font-weight: 400"><span style="font-weight: 400">As usual, Bitcoin skeptic Peter Schiff is not amused by Bitcoin’s success this week. “Speculators are pilling into Bitcoin… because they believe more speculators will buy if another Bitcoin ETF or crypto exchange is created,” he </span><a href="https://twitter.com/PeterSchiff/status/1671559662653648897" data-wpel-link="external" target="_blank"><span style="font-weight: 400">tweeted</span></a><span style="font-weight: 400"> on Wednesday.</span></li>
+<li>The asset, which touched a high of $31,400 at 16:13 UTC, now trades for $31,117.</li>
+<li>The milestone puts Bitcoin’s total market cap back above $600 billion, and its market dominance above 51.86%.</li>
+<li>Data from Coinglass shows that over $108 million in crypto market liquidations have occurred in the past 24 hours, affecting close to 36,000 traders.</li>
+<li>“The largest single liquidation order happened on OKX &#8211; BTC-USDT-SWAP value $1.54M,” the site states.</li>
+<li>Bitcoin continues to outperform Ether (ETH) this week, which remains sequestered under $2000.</li>
+<li>Some investors including MicroStrategy’s Michael Saylor believe that continued enforcement action against the rest of the crypto space will cause Bitcoin dominance to keep rising.</li>
 </ul>
-<figure id="attachment_256371" aria-describedby="caption-attachment-256371" style="width: 1024px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58.png" data-wpel-link="internal"><img class="wp-image-256371 size-large" src="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-1024x699.png" alt="" width="1024" height="699" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-1024x699.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-300x205.png 300w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-768x524.png 768w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-1536x1049.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58-50x34.png 50w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-21_12-53-58.png 1737w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-256371" class="wp-caption-text">Bitcoin / USD. Source: TradingView</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/bitcoin-cracks-above-30k-triggering-265-million-in-liquidations/" rel="nofollow">Bitcoin Cracks Above $30k Triggering $265 Million in Liquidations</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<figure id="attachment_256802" aria-describedby="caption-attachment-256802" style="width: 1024px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16.png" data-wpel-link="internal"><img class="wp-image-256802 size-large" src="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-1024x699.png" alt="" width="1024" height="699" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-1024x699.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-300x205.png 300w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-768x524.png 768w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-1536x1049.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16-50x34.png 50w, https://cryptopotato.com/wp-content/uploads/2023/06/BTCUSD_2023-06-23_13-40-16.png 1737w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-256802" class="wp-caption-text">Bitcoin / USD. Source: TradingView</figcaption></figure>
+<p>The post <a href="https://cryptopotato.com/bitcoin-soars-to-31k-sparking-108-million-in-liquidations/" rel="nofollow">Bitcoin Soars to $31k Sparking $108 Million In Liquidations</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Pepe Coin Price Jumps 15% as Crypto Market Rebounds, Wall Street Memes Also Surging</title>
-		<link>https://cryptopotato.com/pepe-coin-price-jumps-15-as-crypto-market-rebounds-wall-street-memes-also-surging/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 15:31:06 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256339</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/wsm_pepe_cover-1.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/wsm_pepe_cover-1.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The crypto market is displaying a strong bullish surge, with the global cap expanding by 6% over the last 24 hours. While Bitcoin’s institutional and mainstream adoption is driving the rally &#8211; thanks in part to BlackRock’s application for a Bitcoin ETF &#8211; altcoins and meme coins are also seeing explosive surges. Pepe has emerged [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>The crypto market is displaying a strong bullish surge, with the global cap expanding by 6% over the last 24 hours. While Bitcoin’s institutional and mainstream adoption is driving the rally &#8211; thanks in part to BlackRock’s application for a Bitcoin ETF &#8211; altcoins and meme coins are also seeing explosive surges.</p>
-<p>Pepe has emerged as one of the top performers, with the token surging close to 15%. Investors remain encouraged that it will re-hit the $1 billion market cap.</p>
-<p>Another meme coin making waves is <a href="https://wallstmemes.com/en" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Wall Street Memes</a>, which is close to raising $9 million in its presale. The token’s strong start and community strength are already drawing comparisons with Pepe.</p>
-<h2><strong>Pepe Sees Bullish Resurgence &#8211; How Long Will The Rally Last?</strong></h2>
-<p>Global meme coin phenomenon Pepe is pumping once again on the back of a market-wide crypto recovery. It surged over 14.8% in the last 24 hours, bringing its weekly gains to over 15%.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256341" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16.jpg" alt="Picture1" width="902" height="538" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16.jpg 902w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16-300x179.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16-768x458.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture1-16-50x30.jpg 50w" sizes="(max-width: 902px) 100vw, 902px" /></a></p>
-<p>The token is currently the top trending cryptocurrency on CoinMarketCap, with a 130% increase in its 24-hour trading volume.</p>
-<p>Pepe’s success can be attributed to a strong bounce back in the crypto market, led by Bitcoin’s bullish strength. The top cryptocurrency is seeing historic institutional adoption, with some experts envisioning a $40k price level for BTC soon.</p>
-<p>Investment giant BlackRock’s application for spot Bitcoin ETF broke the barriers, with Deutsche Bank applying for a digital asset licence soon after. Fidelity, Citadel and Charles Schwab have since launched a crypto exchange, offering trading in four crypto assets including Bitcoin.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-20.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256342" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-20.jpg" alt="Picture2" width="602" height="260" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-20.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-20-300x130.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture2-20-50x22.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>WisdomTree, another investment management firm, has followed BlackRock and filed for a spot Bitcoin ETF trading option.</p>
-<p>BTC has surged past the $29k mark after skyrocketing 8% over the past 24 hours. Experts believe that with Bitcoin halving approaching, altcoins will also see a bullish price movement.</p>
-<p>The positive sentiment surrounding the crypto market is good news for Pepe, which has closely tracked the BTC price over the past few weeks. However, investors would hope that the token can generate sustainable gains during the bear market as well, a feat it has failed to achieve so far. A report by Santiment revealed that Pepe was unable to secure retail investors, even at its all-time high.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-17.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256343" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-17.jpg" alt="Picture3" width="602" height="471" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-17.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-17-300x235.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture3-17-50x39.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Michael van de Poppe, the founder of MN Trading, believes that while <a href="https://twitter.com/CryptoMichNL/status/1671201494182375432?cxt=HHwWkMC9jfK5prEuAAAA" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Pepe has seen a strong bounce</a>, there is no clear continuation for the token yet.</p>
-<h2><strong>Which Other Meme Tokens Are Traders Backing?</strong></h2>
-<p>Pepe isn’t the only meme token surging right now, with Shiba Inu another coin that’s seeing bullish momentum.</p>
-<p>Wall Street Memes is also attracting attention throughout its presale, which is nearing $10m and has been <a href="https://twitter.com/elonmusk/status/1636924379086077954" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">noticed by Elon Musk</a>.</p>
-<h2><strong>Wall Street Memes Token Raises $9 Million, Is It The Next Pepe?</strong></h2>
-<p>The <a href="https://bs_54c27399.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Wall Street Memes token</a> has emerged as one of the most popular buys in the meme coin market in recent weeks. The token has raised a staggering $9 million in the presale in just over three weeks.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-14.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256344" src="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-14.jpg" alt="Picture4" width="602" height="301" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-14.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-14-300x150.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Picture4-14-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>With the meme coin mania still raging, many are backing the $WSM token to be the next global meme coin phenomenon.</p>
-<p>The Wall Street Memes movement was born out of the ground-breaking GameStop short squeeze in 2021 when a small army of internet traders took on the big-money institutions and won. Since then, it has built a global brand value by disrupting the traditional financial landscape through the power of community and memes. It draws over 40 million monthly social media impressions, with even Elon Musk a fan of its Twitter account.</p>
-<p>The group has established a strong customer base in the Web3 space as well. It sold out its Wall St Bulls NFT collection in 32 minutes, netting a cool $2.5 million. Inspired by the success, it also recently launched its own Bitcoin Ordinal NFTs.</p>
-<p>The Wall Street Memes group now looks to tokenize the same community spirit and dominate the demand for the next popular meme coin.</p>
-<p>Despite its enormous popularity, the Wall Street Memes token has adopted community-driven tokenomics. The entire 2 billion $WSM token supply is available for the public, with no private cuts for the team or any private sale.</p>
-<p>50% of the tokens are available during the presale itself, enabling investors to take advantage of the early presale prices while 30% of the $WSM tokens have been reserved for rewarding the community. 5 lucky degens will also receive $10k worth of $WSM tokens through a generous airdrop.</p>
-<p>The token is currently priced at $0.0298 but is quickly selling out in the presale. Investors have limited opportunity to purchase the token through bank cards or by swapping ETH or USDT tokens.</p>
-<p><a href="https://bs_54c27399.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Wall Street Memes Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
-<p>The post <a href="https://cryptopotato.com/pepe-coin-price-jumps-15-as-crypto-market-rebounds-wall-street-memes-also-surging/" rel="nofollow">Pepe Coin Price Jumps 15% as Crypto Market Rebounds, Wall Street Memes Also Surging</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Houbi Founder Sues Crypto Exchange for Trademark Infringement (Report)</title>
-		<link>https://cryptopotato.com/houbi-founder-sues-crypto-exchange-for-trademark-infringement-report/</link>
-		
-		<dc:creator><![CDATA[Anthonia Isichei]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 15:24:23 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Huobi]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256299</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/Huobi.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/Huobi.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Huobi Global is has been accused of wrongfully using the Huobi trademark without permission.]]></description>
-            																<content:encoded><![CDATA[<p dir="ltr">Huobi founder Li Lin has accused the crypto exchange of using the Huobi trademark, an action that supposedly goes against the agreement in the original acquisition contract.</p>
-<ul>
-<li dir="ltr">According to Chinese crypto reporter Colin Wu, X-Spot Co. Limited, controlled by Li Lin, has <a href="https://www.wu-talk.com/index.php?m=content&amp;c=index&amp;a=show&amp;catid=7&amp;id=15428" data-wpel-link="external" target="_blank">filed</a> a lawsuit in the High Court of the Hong Kong Special Administrative Region against crypto exchange Huobi Global for trademark Infringement.</li>
-</ul>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Huobi founder Li Lin formally sued Huobi Global in Hong Kong for using its Chinese trademark 火币 that was not allowed to continue to be used in the original acquisition contract. Huobi was acquired by Justin Sun for over $1 billion last year. Sun froze Li Lin’s brother’s account…</p>
-<p>— Wu Blockchain (@WuBlockchain) <a href="https://twitter.com/WuBlockchain/status/1671451026950623232?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">June 21, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<ul>
-<li dir="ltr">The lawsuit claimed that the crypto firm resumed the use of the &#8220;Huobi&#8221; trademark without permission from X-Spot, with Li Lin&#8217;s company maintaining exclusive rights to the trademark.</li>
-<li dir="ltr">Following the transfer of Houbi&#8217;s shares to About Capital Management, it was agreed that the original shareholders will retain rights to the company&#8217;s trademark, which will not be transferred to the buyer of Huobi. Also, the claim pointed to the fact that the agreement in the equity transfer stated that the buyer was prohibited from using the Huobi brand and trademark.</li>
-<li dir="ltr">Furthermore, the lawsuit also stated that the crypto exchange started reusing the trademark after Tron Founder Justin Sun accused Li Lin&#8217;s brother of dumping large amounts of Huobi&#8217;s native token (HT).</li>
-<li dir="ltr">Meanwhile, there has been no official statement from Huobi Global or Justin Sun regarding the lawsuit. Malaysian authorities recently ordered Huobi to <a href="https://cryptopotato.com/malaysian-regulator-orders-huobi-to-halt-its-illegal-operations-in-the-country-report/" data-wpel-link="internal">cease</a> operations in the country, claiming that the firm was operating illegally</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/houbi-founder-sues-crypto-exchange-for-trademark-infringement-report/" rel="nofollow">Houbi Founder Sues Crypto Exchange for Trademark Infringement (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Kava Becomes the Latest Blockchain to Host USDT</title>
-		<link>https://cryptopotato.com/kava-becomes-the-latest-blockchain-to-host-usdt/</link>
+		<title>Crypto.com Secures a Regulatory License in Spain</title>
+		<link>https://cryptopotato.com/crypto-com-secures-a-regulatory-license-in-spain/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 15:24:04 +0000</pubDate>
+		<pubDate>Fri, 23 Jun 2023 16:05:37 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Near Protocol (NEAR)]]></category>
-		<category><![CDATA[Tether (USDT)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256276</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/04/Kava.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/04/Kava.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Crypto.com]]></category>
+		<category><![CDATA[Spain]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256699</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/cryptocom_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/cryptocom_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Kava joined the likes of Ethereum, NEAR Protocol, Polygon, and others to add support for USDT.]]></description>
-            																<content:encoded><![CDATA[<p>Tether &#8211; the company behind the largest stablecoin &#8211; announced the launch of USDT on Kava (a layer 1 proof-of-stake blockchain network).</p>
-<p>Following the latest development, the token is now live on over a dozen networks, including Ethereum, NEAR Protocol, Solana, Tron, Algorand, and more.</p>
+			            <description><![CDATA[Apart from Spain, the crypto exchange has received a green light in France, Italy, Greece, the UK, Singapore, Canada, and other nations.]]></description>
+            																<content:encoded><![CDATA[<p>The leading cryptocurrency exchange &#8211; Crypto.com &#8211; obtained a Virtual Asset Service Provider (VASP) registration from the central bank of Spain.</p>
+<p>The financial institution has shown a positive stance toward digital asset companies in the past few years, giving a regulatory nod to Binance&#8217;s subsidiary &#8211; Moon Tech Spain &#8211; last summer.</p>
 <ul>
-<li>The stablecoin issuer <a href="https://tether.to/en/tether-token-usdt-to-launch-on-kava/" data-wpel-link="external" target="_blank">praised</a> Kava network for its scalability and speed, saying it will be the next blockchain where USDT will circulate.</li>
-<li>Paolo Ardoino &#8211; CTO at Tether &#8211; thinks the initiative will allow Kava to offer its &#8220;strong community&#8221; access to &#8220;the world&#8217;s first, most stable, most trusted, and most widely used stablecoin.&#8221;</li>
+<li>Crypto.com <a href="https://crypto.com/company-news/crypto-com-obtains-virtual-asset-service-provider-registration-in-spain" data-wpel-link="external" target="_blank">announced</a> the news on its official website, saying the license will allow it to offer a variety of products and services to customers in the Iberian nation.</li>
+<li>It added that the registration was secured after complying with anti-money laundering procedures and other safeguard requirements.</li>
+<li>CEO Kris Marszalek described the VASP authorization in Spain as &#8220;the latest testament to our commitment to compliance and eagerness to work with regulators and public officials in responsibly advancing crypto and blockchain technology.&#8221;</li>
+<li>Regulatory bodies across the globe have given the marketplace numerous licenses over the years.</li>
+<li>Some agencies that have done so are the French Autorité des marchés financiers (<a href="https://cryptopotato.com/cryptocom-secures-regulatory-approval-in-france/" data-wpel-link="internal">AMF</a>), the Financial Conduct Authority (FCA) in the United Kingdom, Italy&#8217;s Organismo Agenti e Mediatori (OAM), the Monetary Authority of Singapore (<a href="https://cryptopotato.com/gemini-eyes-uae-expansion-amid-us-uncertainty-crypto-com-gets-mpi-license-in-singapore/" data-wpel-link="internal">MAS</a>), and others.</li>
 </ul>
-<blockquote><p>&#8220;The Kava network is a unique and widely followed blockchain with a robust track record of four years with zero security issues, which is essential to protecting USDT users. Together, we aim to reshape the future of decentralized finance, fostering a robust and inclusive ecosystem that benefits users worldwide,&#8221; the exec added.</p></blockquote>
-<ul>
-<li>Kava &#8211; a layer 1 blockchain that combines features of Cosmos and Ethereum &#8211; became the 14th network to support USDT. It recently announced the successful execution of its &#8220;Kava 13&#8221; mainnet upgrade, which aims to advance its infrastructure and offer customers additional protection, functionality, speed, and scalability.</li>
-<li>Other blockchains that have adopted the leading stablecoin by market capitalization include Ethereum, Solana, Algorand, <a href="https://cryptopotato.com/tether-launches-usdt-stablecoin-on-near-protocol/" data-wpel-link="internal">NEAR Protocol</a>, Polygon, Tron, Kusama, and more.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/kava-becomes-the-latest-blockchain-to-host-usdt/" rel="nofollow">Kava Becomes the Latest Blockchain to Host USDT</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>The post <a href="https://cryptopotato.com/crypto-com-secures-a-regulatory-license-in-spain/" rel="nofollow">Crypto.com Secures a Regulatory License in Spain</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Crypto Rush – The Grand Casino Event on BetFury for $800 000</title>
-		<link>https://cryptopotato.com/crypto-rush-the-grand-casino-event-on-betfury-for-800-000/</link>
+		<title>Crypto Exchange Gemini Launches ETH Staking Pro in the UK</title>
+		<link>https://cryptopotato.com/crypto-exchange-gemini-launches-eth-staking-pro-in-the-uk/</link>
 		
-		<dc:creator><![CDATA[Press Release]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 15:00:08 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256332</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush.png" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush.png" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[[PRESS RELEASE &#8211; Please Read Disclaimer] BFG is the native currency of the BetFury. Platform users mined the last BFG token recently. Hence, in honor of the end of BFG Mining, BetFury is holding a grand Crypto Rush event with the $800 000 prize pool. The event starts on June 21 and consists of many profitable [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>[PRESS RELEASE &#8211; Please Read Disclaimer]</p>
-<p>BFG is the native currency of the BetFury. Platform users mined the last BFG token recently. Hence, in honor of the end of BFG Mining, BetFury is holding a grand Crypto Rush event with the $800 000 prize pool. The event starts on June 21 and consists of many profitable activities.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush.png" data-wpel-link="internal"><img class="aligncenter size-full wp-image-256334" src="https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush.png" alt="Crypto_Rush" width="1170" height="654" srcset="https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush.png 1170w, https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush-300x168.png 300w, https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush-1024x572.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush-768x429.png 768w, https://cryptopotato.com/wp-content/uploads/2023/06/Crypto_Rush-50x28.png 50w" sizes="(max-width: 1170px) 100vw, 1170px" /></a></p>
-<h2>Crypto Rush for $800 000</h2>
-<p><a href="https://betfury.io/promo/crypto-rush?utm_source=cryptopotato&amp;utm_medium=referral&amp;utm_campaign=cryptorush_pr" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Crypto Rush</a> is a huge event dedicated to chasing BFG after the end of Mining. The total prize pool is 50 000 000 BFG (about $800 000). The main activities are three themed Battles with a prize pool of $450 000 and 60 000 Free Spins and the final Grand Lottery for $100 000.</p>
-<p>To win the Lottery, you need to collect Gold Tickets to participate. Obtain them by doing a Daily Check-in, inviting friends, completing deposit, and wagering goals (iGaming and Sports). The more Gold Tickets you collect, the higher your chances of winning.</p>
-<p>If you don&#8217;t have a BetFury account, sign up for a Welcome Pack with bonuses. They will help you join iGaming and easily receive Gold Tickets. <a href="https://betfury.io/promo/welcome-pack-bonus?utm_source=cryptopotato&amp;utm_medium=referral&amp;utm_campaign=cryptorush_pr" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Sign up to get up to 1 000 Free Spins and $3 500</a>.</p>
-<p>Therefore, along with thematic entertainment, Crypto Rush allows you to get a lot of BFG tokens. This cryptocurrency has strong potential and may soon increase in value due to exclusivity and limited supply. In addition, the BFG token has many utilities, such as Staking with up to 50% APY and trading on top crypto exchanges. Therefore, investing in BFG and participating in Crypto Rush are great ways to make crypto profits soon.</p>
-<h2>About BetFury</h2>
-<p><a href="https://betfury.io/?utm_source=cryptopotato&amp;utm_medium=referral&amp;utm_campaign=cryptorush_pr" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">BetFury</a> is an ecosystem for entertainment and additional income. Along with huge events like Crypto Rush, the platform offers bonuses: Rakeback, FuryCharge, and Cashback up to 25%. Moreover, it has an elite VIP club for loyal users from Rank 10. All VIP Club members receive additional perks, early access to new games, and a personal VIP manager.</p>
-<p>BetFury offers over 8 000 Slots and Original games with one of the highest RTPs on the market (up to 99.02% RTP). Get Bitcoin in Jackpots, Daily Tasks, Free Crypto Boxes, and win up to 1 BTC in Fury Wheel.</p>
-<p>In conclusion, BetFury and the BFG token have a great future ahead. Modern trends, successful partnerships, and the constant expansion of the loyal community will take this platform to the next level. Join Crypto Rush to get a lot of BFG. The experience gained in this competition will help you earn and improve your gaming skills for future victories!</p>
-<p>The post <a href="https://cryptopotato.com/crypto-rush-the-grand-casino-event-on-betfury-for-800-000/" rel="nofollow">Crypto Rush – The Grand Casino Event on BetFury for $800 000</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>After BlackRock: Two More Asset Managers File to Launch a BTC ETF in the US</title>
-		<link>https://cryptopotato.com/after-blackrock-two-more-asset-managers-file-to-launch-a-btc-etf-in-the-us/</link>
-		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 14:37:55 +0000</pubDate>
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 15:15:42 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Ethereum 2.0]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256769</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/gemini_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/gemini_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Gemini will reimburse Staking Pro clients whose assets are slashed as network-imposed penalties.]]></description>
+            																<content:encoded><![CDATA[<p>Leading cryptocurrency exchange Gemini has announced the launch of its Ethereum (ETH) staking program in the United Kingdom. Dubbed Gemini Staking Pro, the product will enable institutions and high-net-worth individuals to run validators on the Ethereum blockchain.</p>
+<p>The <a href="https://www.gemini.com/blog/gemini-staking-pro-is-now-live-in-the-uk" data-wpel-link="external" target="_blank">development</a> aligns with Gemini&#8217;s expansion plans, as the staking program is already live in the United States (except New York), Hong Kong, Brazil, Singapore, Australia, and over 30 other countries.</p>
+<h2>Gemini Unveils ETH Staking Pro in the U.K.</h2>
+<p>The crypto staking product will enable Gemini users with 32 ETH or more to run dedicated validator nodes on Ethereum through the exchange&#8217;s web user interface while the firm prepares for the upcoming in-app support.</p>
+<p>The Winklevoss twins-owned crypto trading platform has promised to reimburse Staking Pro clients whose assets are slashed as network-imposed penalties, as it believes they may lack technical know-how, leading to &#8220;small mistakes&#8221; in the staking process.</p>
+<blockquote><p>&#8220;At Gemini, we simplify the staking process for you. With Gemini operating the validator nodes, users can stake their assets with more confidence and without the technical know-hows. In fact, Gemini will reimburse you for certain penalties imposed in connection with staking. It&#8217;s the best of both worlds – the benefit of decentralization with the power of Gemini,&#8221; the exchange said.</p></blockquote>
+<p>Gemini noted that the only criteria required to use the Staking Pro product are clients&#8217; holding or buying at least 32 ETH.</p>
+<h2>Validator ETH Limit May Increase</h2>
+<p>While users currently only need 32 ETH to set up validator nodes on the Ethereum blockchain, there may soon be an increase in the limit of coins required for such operations. During a consensus meeting last week, Ethereum core developers <a href="https://www.youtube.com/live/ybgQuRcz9sg?feature=share" data-wpel-link="external" target="_blank">proposed</a> a plan to increase the number of <a href="https://cryptopotato.com/ethereum-staking-withdrawals-slow-following-initial-1m-eth-exodus/" data-wpel-link="internal">staked ether</a> needed to become a validator by 64x, from 32 ETH to 2048 ETH, while the least amount would remain at 32 ETH.</p>
+<p>Ethereum Foundation researcher Michael Neuder, who made the proposal, said the current limit caused an inflation of the validator set size even though it made the network more decentralized.</p>
+<h2>Gemini Continues Expansion</h2>
+<p>Gemini has doubled down on executing its expansion plans as regulators in the United States continue to crack down on firms in the local crypto industry. The exchange has stretched to the United Arab Emirates, <a href="https://cryptopotato.com/gemini-to-increase-headcount-above-100-in-singapore-amid-hostile-us-regulatory-climate/" data-wpel-link="internal">Singapore</a>, and <a href="https://cryptopotato.com/gemini-will-base-european-operations-in-dublin-ireland/" data-wpel-link="internal">Europe</a>.</p>
+<p>Meanwhile, Gemini is <a href="https://cryptopotato.com/gemini-and-genesis-file-motion-for-dismissal-of-sec-lawsuit-against-earn-products/" data-wpel-link="internal">facing</a> a lawsuit from the U.S. Securities and Exchange Commission (SEC) for allegedly offering unregistered securities to retail investors through the Gemini Earn Program.</p>
+<p>The post <a href="https://cryptopotato.com/crypto-exchange-gemini-launches-eth-staking-pro-in-the-uk/" rel="nofollow">Crypto Exchange Gemini Launches ETH Staking Pro in the UK</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Bitcoin Takes for the Skies at $30K, Leaving Most Altcoins in the Dust: This Week&#8217;s Crypto Recap</title>
+		<link>https://cryptopotato.com/bitcoin-takes-for-the-skies-at-30k-leaving-most-altcoins-in-the-dust-this-weeks-crypto-recap/</link>
+		
+		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 14:38:35 +0000</pubDate>
+				<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
 		<category><![CDATA[BTCUSD]]></category>
 		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Bitcoin ETF]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[United States]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=256222</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/10/BitcoinETF.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/10/BitcoinETF.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[featured1]]></category>
+		<category><![CDATA[Market Updates]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Bitcoin (BTC) Price]]></category>
+		<category><![CDATA[PEPE]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256677</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/07/BitcoinRocket.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/07/BitcoinRocket.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Invesco and WisdomTree resubmitted their filings for the release of a BTC Spot ETF in America nearly a week after BlackRock's example. ]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Invesco &#8211; an American investment company with over $1.4 trillion of assets under management &#8211; reactivated its attempts to launch a Bitcoin Spot exchange-traded fund (ETF) in the United States. WisdomTree &#8211; another US finance giant &#8211; submitted a similar application to the SEC.</span></p>
-<p><span data-preserver-spaces="true">The latest efforts come a few days after the world&#8217;s largest asset manager filed with the securities regulator to introduce a BTC Spot ETF in the States. </span></p>
-<h2><span data-preserver-spaces="true">Invesco Rejoins the Race</span></h2>
-<p><span data-preserver-spaces="true">Eric Balchunas &#8211; analyst at Bloomberg Intelligence &#8211; </span><a class="editor-rtfLink" href="https://twitter.com/EricBalchunas/status/1671303690420985857?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1671303690420985857%7Ctwgr%5E0b7c58695c8820a27c971aef5a24d6e9bafcc1e2%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblackrock-spot-bitcoin-etf-new-sec-filings-wisdomtree-invesco" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">revealed</span></a><span data-preserver-spaces="true"> on his Twitter account that Invesco has renewed its ambitions to launch a BTC Sport ETF in the United States. The company&#8217;s initial filing came in 2021 when it collaborated with Galaxy Digital. </span></p>
-<p><span data-preserver-spaces="true">Invesco was also interested in releasing a Bitcoin Futures ETF. Nonetheless, it </span><a class="editor-rtfLink" href="https://cryptopotato.com/invesco-reportedly-abandons-plans-to-launch-bitcoin-futures-etf/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">abandoned</span></a><span data-preserver-spaces="true"> these intentions at the end of 2021 to focus on a product that allows customers to invest in the primary cryptocurrency based on its actual market price.</span></p>
-<p><span data-preserver-spaces="true">Although the investment company is still waiting for a positive nod from the US SEC, it has already </span><a class="editor-rtfLink" href="https://cryptopotato.com/invesco-launches-bitcoin-spot-etp-with-german-stock-market-operator/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">introduced</span></a><span data-preserver-spaces="true"> a product in Europe. The &#8220;Invesco Physical Bitcoin&#8221; ETN (ticker: BTIC) came into existence after a collaboration with Deutsche Borse and provides &#8220;physically secured access&#8221; to Bitcoin&#8217;s performance, albeit a derivative.</span></p>
-<h2><span data-preserver-spaces="true">WisdomTree&#8217;s Efforts</span></h2>
-<p><span data-preserver-spaces="true">The New York-based entity also </span><a class="editor-rtfLink" href="https://www.bnnbloomberg.ca/wisdomtree-files-to-start-a-us-spot-bitcoin-etf-on-the-heels-of-blackrock-s-application-1.1935782" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">sought</span></a><span data-preserver-spaces="true"> permission from the SEC to launch a BTC Spot ETF. Should it obtain regulatory approval, the fund will be listed on the Cboe BZX Exchange under the ticker BTCW. </span></p>
-<p><span data-preserver-spaces="true">The watchdog has previously rejected WisdomTree&#8217;s attempt to release a BTC ETF, citing possible risks for consumers, such as fraud and market manipulation. </span></p>
-<p><span data-preserver-spaces="true">According to Eric Balchunas and James Seyffart (another analyst at Bloomberg Intelligence), <a href="https://cryptopotato.com/blackrock-files-bitcoin-spot-etf-application-taps-coinbase/" data-wpel-link="internal">BlackRock&#8217;s filing</a> from last week &#8220;has restored hope in approval thanks to the company&#8217;s size, stature, and reputation.&#8221;</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;Everyone who had a filing is going to resubmit, and those who had been considering will also want to be filing soon as well,&#8221; Dave Abner &#8211; principal at the crypto advisory firm Dabner Capital Partners &#8211; predicted. </span></p></blockquote>
-<p>The post <a href="https://cryptopotato.com/after-blackrock-two-more-asset-managers-file-to-launch-a-btc-etf-in-the-us/" rel="nofollow">After BlackRock: Two More Asset Managers File to Launch a BTC ETF in the US</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[The cryptocurrency market is painted green over the past seven days, with Bitcoin's price leading the rally convincingly. ]]></description>
+            																<content:encoded><![CDATA[<p>What a week! It&#8217;s safe to say that being a bear throughout the past seven days must have been rough. The cryptocurrency market exploded above $1.2 trillion on the back of major gains from the majority of coins, including Bitcoin. There&#8217;s a lot to unpack, so let&#8217;s dive in.</p>
+<p>First things first, Bitcoin&#8217;s price is up a whopping 18% in the past seven days, trading above $30K at the time of this writing. The week started on the right foot as the price was slowly chipping upwards last weekend. However, it wasn&#8217;t until June 20th &#8211; on Tuesday &#8211; that the bulls really took over. The price exploded above $28K, and by the time everyone knew what was going on, it shot above $29K as well.</p>
+<p>After a few hours of calmness, on Wednesday &#8211; the following day &#8211; the price soared above $30K and even tapped $31K. The bulls needed some rest, though, and BTC is currently consolidating around $30K.</p>
+<p>But that&#8217;s not even the craziest part.</p>
+<p>PEPE &#8211; the meme coin that&#8217;s been doing rounds in the past couple of months &#8211; is up by a whopping 66% in the past seven days and continues to amaze. It&#8217;s become the 69th (yes) largest cryptocurrency by means of total market cap, and it&#8217;s perhaps safer to assume now that it&#8217;s here to stay.</p>
+<p>The rest of the altcoin market is also performing really well. Ethereum is up 13%, ADA is up 12%, SOL &#8211; 12%, and so forth. Some of them are lagging behind, which is to be expected. XRP is up only about 5%, while BNB &#8211; is around 3%. Both of these cryptocurrencies failed to capitalize on the rally, but that&#8217;s most likely due to the fact that both Binance and Ripple are fighting massive lawsuits against the US Securities and Exchange Commission.</p>
+<p>The gains in the broader market are seemingly associated with BlackRock&#8217;s spot Bitcoin ETF filing, which also spurred a spree of more filings as companies are seeming emboldened by the prospects of approval. BlackRock does have a 575 to 1 approval rate, after all.</p>
+<p>Will a spot Bitcoin ETF be finally approved by the SEC, though? Given the Commission&#8217;s hostile stance toward the industry lately, it&#8217;s hard to gauge any possibilities of the above. Time will tell.</p>
+<h2 style="text-align: left;">Market Data</h2>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-111839" src="https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover.jpg" alt="bullbitcoin_cover" width="1201" height="720" srcset="https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2021/04/bullbitcoin_cover-50x30.jpg 50w" sizes="(max-width: 1201px) 100vw, 1201px" /></a></p>
+<p style="text-align: center;">Market Cap: $1,210B | 24H Vol: $38B | BTC Dominance: 48.2%</p>
+<p style="text-align: center;">BTC: $30,139 (+18.1%) | ETH: $1,875 (+12.5%) | BNB: $242 (+3.1%)</p>
+<h2>This Week&#8217;s Crypto Headlines You Can&#8217;t Miss</h2>
+<p><strong>Binance.US Refutes SEC Claims About Mishandling User Funds. </strong>Binance <a href="https://cryptopotato.com/binance-us-refutes-sec-claims-about-mishandling-user-funds/" data-wpel-link="internal">filed</a> a motion earlier this week, calling out the US Securities and Exchange Commission for its contradictory statements around its alleged &#8220;commingling&#8221; of assets pertaining to their clients.</p>
+<p><strong>After $30K: 7 Things for Bitcoin’s Price to Reach $40K According to ChatGPT. </strong>After BTC hit $30K earlier this week, we decided to ask ChatGPT about what needs to happen for the cryptocurrency to reach $40K. The <a href="https://cryptopotato.com/after-30k-7-things-for-bitcoins-price-to-reach-40k-according-to-chatgpt/" data-wpel-link="internal">answer</a> might surprise you.</p>
+<p><strong>Bitcoin Will be the Best Trade of the Decade, Gemini Co-Founder Says. </strong>Cameron Winklevoss is not one to shy away from bold predictions, and this last one also comes as no surprise. In light of the recent spree of spot Bitcoin ETF filings, he <a href="https://cryptopotato.com/bitcoin-will-be-the-best-trade-of-the-decade-gemini-co-founder-says/" data-wpel-link="internal">believes</a> Bitcoin will be the best trade of this decade.</p>
+<p><strong>Bitcoin Price Touched $138K on Binance US: Here’s Why. </strong>Bitcoin&#8217;s price <a href="https://cryptopotato.com/bitcoin-price-touched-138k-on-binance-us-heres-why/" data-wpel-link="internal">soared</a> to a high of above $138K on Binance US. The reason for this was the thin liquidity and dissipating market depth following the recent regulatory turmoil that pushed the exchange astray, with many investors and banking providers stepping away.</p>
+<p><strong>3AC Founders Launch Brand New VC Fund Tied To OPNX. </strong>The founders of the failed crypto VC Three Arrows Capital &#8211; Su Zhu and Kyle Davies &#8211; are back at it. This time, they&#8217;ve <a href="https://cryptopotato.com/3ac-founders-launch-brand-new-vc-fund-tied-to-opnx/" data-wpel-link="internal">established</a> a new venture capital firm called 3AC Ventures.</p>
+<p><strong>PEPE Explodes 40% Amid an Overall Crypto Market Revival. </strong>PEPE is this week&#8217;s best performer from the top 100 cryptocurrencies by market cap. It <a href="https://cryptopotato.com/pepe-explodes-40-amid-an-overall-crypto-market-revival/" data-wpel-link="internal">soared</a> by a whopping 70% in the past seven days following the broader market recovery and impressive performance.</p>
+<h2>Charts</h2>
+<p>This week we have a chart analysis of Ethereum, Ripple, Cardano, Dogecoin, and Shiba Inu – <a href="https://cryptopotato.com/crypto-price-analysis-jun-23-eth-xrp-ada-doge-and-shib/" data-wpel-link="internal">click here for the complete price analysis</a>.</p>
+<p>The post <a href="https://cryptopotato.com/bitcoin-takes-for-the-skies-at-30k-leaving-most-altcoins-in-the-dust-this-weeks-crypto-recap/" rel="nofollow">Bitcoin Takes for the Skies at $30K, Leaving Most Altcoins in the Dust: This Week&#8217;s Crypto Recap</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>US SEC Agrees to Forego BlockFi&#8217;s $30M Fine Until Investors are Repaid</title>
+		<link>https://cryptopotato.com/us-sec-agrees-to-forego-blockfis-30m-fine-until-investors-are-repaid/</link>
+		
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 13:28:55 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[BlockFi]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256749</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/03/blockfi_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/03/blockfi_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The agency believes the decision will help speed up the repayment process for customers of the bankrupt lender.]]></description>
+            																<content:encoded><![CDATA[<p>The United States Securities and Exchange Commission (SEC) has given up its slot as one of the first creditors to be repaid by the insolvent crypto lending platform BlockFi.</p>
+<p>The move comes as the SEC is facing intense pressure from a legal battle against the cryptocurrency exchange, Binance.</p>
+<h2>U.S. SEC Forfeits Front-Row Seat for Investors</h2>
+<p>Earlier last year, BlockFi <a href="https://cryptopotato.com/blockfis-100m-settlement-payment-is-disproportionate-says-hester-peirce/" data-wpel-link="internal">agreed</a> to a $100 million settlement imposed by the U.S. SEC for failing to register its crypto lending products with the agency.</p>
+<p>In November, however, BlockFi <a href="https://cryptopotato.com/blockfi-files-for-bankruptcy-following-ftx-crash/" data-wpel-link="internal">filed</a> for Chapter 11 bankruptcy protection following the collapse of the crypto derivatives exchange FTX. The platform held $1 billion to $10 billion worth of users&#8217; funds at the time it became insolvent. As a result, the lending platform could not pay its $30 million settlement to the SEC.</p>
+<p>During BlockFi&#8217;s bankruptcy filing, the securities watchdog was mentioned as one of the first creditors to be settled by the company following its restructuring process.</p>
+<p>However, according to a Thursday <a href="https://restructuring.ra.kroll.com/blockfi/Home-DocketInfo" data-wpel-link="external" target="_blank">court filing</a>, the SEC has forfeited its front-row seat as one of the lender&#8217;s early creditors. The regulator stated that its claims should be classified as &#8220;general unsecured claims&#8221; under the current bankruptcy proceedings.</p>
+<h2>BlockFi&#8217;s Reimbursement Strategy</h2>
+<p>Last week, the struggling crypto lending company <a href="https://cryptopotato.com/blockfi-expects-to-enable-customer-withdrawals-by-2023-summer/" data-wpel-link="internal">addressed</a> its customers regarding the recovery of their assets. The firm noted that it would add new functionality to the BlockFi Wallet before users can commence withdrawals.</p>
+<p>The crypto lender added that the withdrawal process would be streamlined by enabling withdrawal batches for eligible users. Third-party wallets will be needed to facilitate the withdrawal process. BlockFi also revealed that the fund withdrawal process is slated to occur this summer.</p>
+<p>The post <a href="https://cryptopotato.com/us-sec-agrees-to-forego-blockfis-30m-fine-until-investors-are-repaid/" rel="nofollow">US SEC Agrees to Forego BlockFi&#8217;s $30M Fine Until Investors are Repaid</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>FTX Attempts Clawback of $700M Allegedly Spent After A Networking Party</title>
+		<link>https://cryptopotato.com/ftx-attempts-clawback-of-700m-allegedly-spent-after-a-networking-party/</link>
+		
+		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 13:15:57 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[FTX Exchange]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256685</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/FTX_Judge.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/FTX_Judge.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[According to the lawsuit filed by FTX, former CEO SBF spent $700 million on subpar investments pitched to him at a networking party.]]></description>
+            																<content:encoded><![CDATA[<p>In a bid to recover as many assets as possible and potentially even reboot FTX, the bankrupt exchanges’ new leadership has been filing clawback requests from previous business partners and donation recipients.</p>
+<p>Clawback requests have also been filed against former executives, <a href="https://cryptopotato.com/ftx-seeks-to-claw-back-250m-from-sbf-and-execs-in-new-lawsuit/" data-wpel-link="internal">including</a> SBF himself, although the amounts subject to possible returns from executives pale in comparison to the amounts <a href="https://cryptopotato.com/genesis-judge-denies-ftxs-bid-to-participate-in-confidential-mediation-sessions-report/" data-wpel-link="internal">requested</a> from other platforms, such as Genesis.</p>
+<h2>Spurious Investments</h2>
+<p>Yesterday, FTX’s legal team filed a <a href="https://t.co/rU68sKrLkc" data-wpel-link="external" target="_blank">lawsuit</a> against several hedge funds, including SGN Albany Capital, K5 Global, and Mount Olympus Capital. Entities affiliated with these hedge funds are also named in the document, as well as K5 executives Bryan Baum and Michael Kives.</p>
+<p>According to the lawsuit, Sam Bankman-Fried had gone to one of many networking events hosted by the pair of C-suite hotshots. Following this event, SBF invested about $700 million into the funds administered by the defendants.</p>
+<p>Although this may seem a cursory amount, considering the amounts the FTX Group regularly invested into various ventures, these were allegedly void of any real meaning.</p>
+<blockquote><p>“Bankman-Fried, Kives and Baum signed a bare-bones term sheet providing that “Sam Bankman-Fried or a related entity” would give each of Kives and Baum $125 million personally and would invest billions of dollars in K5 Global and affiliated entities […]. The Term Sheet was little more than a cursory list of investment ideas, and repeatedly stated that the actual “mechanics” of these very substantial investments would be later worked out “in the long form documents.” Though the parties had not agreed on any final terms, funds were sent the day after signing.”</p></blockquote>
+<p>Aside from charges of unjust enrichment brought against the hedge funds themselves, Kives and Baum have been charged with aiding and abetting breaches of fiduciary duty in “one of the biggest financial frauds in history.”</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">FTX moves to claw back $800 million from K5 Global, Olympus Capital, SGN Albany et al.</p>
+<p>Defendants are further accused of aiding and abetting SBF, dishonest assistance and unjust enrichment. <a href="https://t.co/IPcDEtuFxL" data-wpel-link="external" target="_blank">pic.twitter.com/IPcDEtuFxL</a></p>
+<p>— FTX 2.0 Coalition (@AFTXcreditor) <a href="https://twitter.com/AFTXcreditor/status/1671933063385825313?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">June 22, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Keeping New Friends Close</h2>
+<p>The court case also states that an internal FTX note was circulated shortly after the meeting, with SBF “gushing” over the connections available through the pair. SBF seemed eager to “work with them on Democratic politics” and “maybe invest in them or some stuff, idk.”</p>
+<p>The relationship went on for a while, with huge sums billed and invested between firms – many of which seemed inflated or off, even to FTX’s notoriously lax accountants.</p>
+<p>Furthermore, once it became clear that FTX was about to go under, “Kives and Baum worked behind the scenes with Bankman-Fried on a strategy to find someone to bail out the FTX Group (and to protect their golden goose).”</p>
+<p>According to the document, the pair had reached out to their network of high-fliers to find potential bailouts for SBF. One unnamed investor was allegedly fine with spending over $9 billion to rescue FTX. However, the deal fell through when the unnamed investor took a peek at the bankrupt crypto empires’ balance sheet.</p>
+<p>If the lawsuit is successful, FTX may be able to recoup up to $700 million. However, the real amount invested with Kives’ and Baum’s networks is reportedly much larger.</p>
+<p>The post <a href="https://cryptopotato.com/ftx-attempts-clawback-of-700m-allegedly-spent-after-a-networking-party/" rel="nofollow">FTX Attempts Clawback of $700M Allegedly Spent After A Networking Party</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Tether Chooses Kava As Gateway for Cosmos USDt</title>
+		<link>https://cryptopotato.com/tether-chooses-kava-as-gateway-for-cosmos-usdt/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 13:09:17 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=256728</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/Tether_USDT_on_Kava_Press_Release_1687465364BUMClZnqyI.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/Tether_USDT_on_Kava_Press_Release_1687465364BUMClZnqyI.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[Press Release &#8211; Georgetown, Cayman Islands, June 23rd] Tether chooses Kava, a layer-1 blockchain designed for scalability and speed, as its gateway to the Cosmos ecosystem. Kava is excited and honored by Tether’s decision to bring the world&#8217;s most liquid, secure, and transparent stablecoin USDt to Cosmos appchains and Kava EVM dApps. https://twitter.com/Tether_to/status/1671445095965499393?s=20 &#8220;Kava&#8217;s support [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[Press Release &#8211; Georgetown, Cayman Islands, June 23rd]</strong></p>
+<p>Tether chooses <a href="https://twitter.com/KAVA_CHAIN" target="_blank" rel="nofollow noopener" data-wpel-link="external">Kava</a>, a layer-1 blockchain designed for scalability and speed, as its gateway to the Cosmos ecosystem. Kava is excited and honored by Tether’s decision to bring the world&#8217;s most liquid, secure, and transparent stablecoin USDt to Cosmos appchains and Kava EVM dApps.</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/06/photo_2023-06-23_00-06-54_1_16874680602RazyNtFUU.jpg" /></p>
+<p><a href="https://twitter.com/Tether_to/status/1671445095965499393?s=20" target="_blank" rel="nofollow noopener" data-wpel-link="external">https://twitter.com/Tether_to/status/1671445095965499393?s=20</a></p>
+<blockquote><p>&#8220;Kava&#8217;s support of Tether’s USDt integration will help bring stability and unlock liquidity across Cosmos and EVM ecosystems. Native USDt issued on Kava will address the limited growth, low liquidity, and increased volatility of using the Cosmos ecosystem, and help ignite a robust DeFi economy, empowering appchains, EVM dApps, and their users with a secure and widely adopted canonical stablecoin,&#8221; said Scott Stuart, Kava Co-Founder.</p></blockquote>
+<p>Tether&#8217;s decision to integrate USDt natively on Cosmos, using Kava as a hub, will bring accessibility and financial stability to users and developers within the Cosmos ecosystem. Unlike external bridge solutions; which proliferate dozens of versions of a wrapped asset, siloing liquidity, discouraging participation, and harming user experience; natively issued USDt on Kava simplifies the process, and offers a streamlined, efficient mechanism for stablecoin liquidity provision and transfer between the Cosmos and Ethereum ecosystems.</p>
+<p>As a result, this integration could potentially catalyze a significant expansion of the DeFi economy on Cosmos, providing a compelling solution to the liquidity problem that has been challenging since the collapse of Terra’s UST in Q1 2022. Deploying Tether, a stablecoin with a strong market reputation and ~65% dominance, will also offer increased security and reliability to users and developers alike.</p>
+<blockquote><p>“The Kava network is a unique and widely followed blockchain with a robust track record of four years with zero security issues, which is essential to protecting USDt users,” said <a href="https://tether.to/en/tether-token-usdt-to-launch-on-kava/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Paolo Ardoino, CTO at Tether</a>, in the June 21, 2023 announcement. “Together, we aim to reshape the future of decentralized finance, fostering a robust and inclusive ecosystem that benefits users worldwide.”</p></blockquote>
+<p><strong>About Kava</strong></p>
+<p><a href="https://www.kava.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Kava</a> is a secure, lightning-fast Layer-1 blockchain that combines the developer power of Ethereum with the speed and interoperability of Cosmos in a single, scalable network. Committed to fostering innovation and growth, Kava is a trusted choice for developers and users worldwide.</p>
+<p>For more updates, follow Kava on <a href="https://twitter.com/KAVA_CHAIN" target="_blank" rel="nofollow noopener" data-wpel-link="external">Twitter</a>.</p>
+<p><strong>Disclaimer</strong></p>
+<p>This press release is not an offer to sell or the solicitation of an offer to buy USDt or KAVA tokens.</p>
+<p>The post <a href="https://cryptopotato.com/tether-chooses-kava-as-gateway-for-cosmos-usdt/" rel="nofollow">Tether Chooses Kava As Gateway for Cosmos USDt</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
