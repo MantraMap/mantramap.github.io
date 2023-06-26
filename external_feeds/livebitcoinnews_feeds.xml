@@ -360,4 +360,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3851 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6618323 metric#prefetches=395 metric#store-reads=16 metric#store-writes=2 metric#store-hits=401 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=203.24 metric#ms-cache=24.68 metric#ms-cache-avg=1.4518 metric#ms-cache-ratio=12.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3851 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6618323 metric#prefetches=395 metric#store-reads=16 metric#store-writes=2 metric#store-hits=401 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=177.73 metric#ms-cache=17.69 metric#ms-cache-avg=1.0404 metric#ms-cache-ratio=10.0 -->
