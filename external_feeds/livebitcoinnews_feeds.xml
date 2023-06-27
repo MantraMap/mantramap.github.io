@@ -409,4 +409,4 @@ Satoshi Airlines Website: <a href="https://satoshiair.xyz/" data-wpel-link="exte
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3860 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6634187 metric#prefetches=397 metric#store-reads=16 metric#store-writes=2 metric#store-hits=402 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=226.92 metric#ms-cache=28.25 metric#ms-cache-avg=1.6618 metric#ms-cache-ratio=12.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3860 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6634187 metric#prefetches=397 metric#store-reads=16 metric#store-writes=2 metric#store-hits=402 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=170.05 metric#ms-cache=15.25 metric#ms-cache-avg=0.8968 metric#ms-cache-ratio=9.0 -->
