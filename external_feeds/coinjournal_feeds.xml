@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Wed, 28 Jun 2023 09:20:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Jun 2023 09:49:08 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,52 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ethereum dApps settle on Solana with Neon EVM’s closed beta</title>
+		<link>https://coinjournal.net/news/closed-beta-version-of-neon-evm-launches-on-solanas-mainnet/</link>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Wed, 28 Jun 2023 09:49:07 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[DeFi News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/closed-beta-version-of-neon-evm-launches-on-solanas-mainnet/</guid>
+
+					<description><![CDATA[<p>Neon EVM is a low-friction solution that enables Ethereum dApps to settle transactions on Solana. The EVM helps breach the gap between Ethereum and Solana. Since the Neon EVM beta is closed it will only accept transactions for those on the guest list. What is Neon EVM? Neon EVM is a low-friction solution that enables [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/closed-beta-version-of-neon-evm-launches-on-solanas-mainnet/">Ethereum dApps settle on Solana with Neon EVM’s closed beta</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Neon EVM is a low-friction solution that enables Ethereum dApps to settle transactions on Solana.</li>
+<li>The EVM helps breach the gap between Ethereum and Solana.</li>
+<li>Since the Neon EVM beta is closed it will only accept transactions for those on the guest list.</li>
+</ul>
+<h2>What is Neon EVM?</h2>
+<p>Neon EVM is a low-friction solution that enables <a href="https://coinjournal.net/ethereum/what-is-ethereum/">Ethereum</a> dApps to settle transactions on Solana, eliminating the gap between these two leading blockchains.&nbsp;</p>
+<p>Neon EVM positions Ethereum developers to enjoy the best of Solana&rsquo;s network, from low fees to high transaction speeds, and parallel transaction execution capabilities.&nbsp;</p>
+<p>While Solana is one of the fastest, organically-growing chains, its incompatibility with EVM has left several hundred million in TVL, millions of users, and an entire ecosystem untouched by EVM multichain dApp developers &mdash; until now.&nbsp;</p>
+<p>Neon EVM&rsquo;s pioneering solution is <em>the&nbsp;</em>anticipated innovation in the Solana ecosystem and makes Solana a viable option for multichain builders. Neon EVM brings together the best of both chains while ensuring the finality of settlements on Solana.</p>
+<h2>What is Neon EVM closed beta?</h2>
+<p>The launch of the closed beta version of Neon EVM, Neon EVM&beta;, to Solana&rsquo;s Mainnet is a significant milestone on the roadmap.</p>
+<p>Neon EVM&beta; is a fully-functioning Neon EVM with one major alteration: it supports fee-free transactions.</p>
+<p>This means that all transactions are settled to Solana&rsquo;s L1 and require payment in Sol, as per any Solana-settled transaction. However, in beta, the NEON token is not requested by the Proxy Operator responsible for accepting the transaction request and ensuring that it is finalized.</p>
+<h2>Why launch in beta?</h2>
+<p>The Neon EVM ecosystem includes many more players than just the Neon EVM and the Proxy Operators that accept and settle transaction requests. It includes DAO, oracles, indexers, wallets, multisigs, bridges, explorers, and more. Neon EVM&beta; provides an opportunity for all parties to deploy and test to ensure the seamless integration of their services before the official Solana Mainnet launch.</p>
+<p><img decoding="async" loading="lazy" src="https://media.igms.io/2023/05/26/1687776871651-caf251fa-2ab7-45fe-9fec-49c5be1fe00e.png" class="fr-fic fr-dib" width="615" height="270"></p>
+<p>While Neon EVM could have chosen to do a Shadow Mainnet launch on a fork of the Solana mainchain, launching directly to Mainnet offers significant advantages. Not least of which is that deployed and tested contracts will retain their addresses on Solana Mainnet.</p>
+<h2>Why launch in closed beta?</h2>
+<p>Launching in closed beta allows the Neon EVM team to onboard and test the services of ecosystem players in controlled phases. The first phase onboarded the infrastructure components, and the second phase accepted dApps and will test the connection of wallets.</p>
+<p>Operating in closed beta also controls the budget by keeping the activity limited to an invite-only list. Remember, while the Proxy Operator is not charging a fee, the Solana network still does. It simply is not possible to provide an open beta and predict the cost in SOL for such an initiative (though it is possible to predict that the <a href="https://coinjournal.net/solana/">SOL cost</a> will be less than the equivalent Eth cost would be for an EVM settling to Ethereum!).&nbsp;</p>
+<p>When the testing period ends and NEON tokens are available on the market to pay for transactions, Neon EVM will switch back to its normal operation mode. This means that independent Proxy Operators (P2P and Everstake) will resume responsibility for accepting and processing transactions. The Proxy Operator&rsquo;s RPC endpoints will be made available on <u><a href="https://chainlist.org/?chain=245022926&amp;testnets=true&amp;search=Neon+EVM">ChainList</a></u>.</p>
+<h2>Want to get involved?</h2>
+<p>While Neon EVM is deployed to Solana Mainnet at address <a href="https://solscan.io/account/NeonVMyRX5GbCrsAHnUwx1nYYoJAtskU1bWUo6JGNyG">NeonVMyRX5GbCrsAHnUwx1nYYoJAtskU1bWUo6JGNyG</a>, as this is a closed beta, unless you are on the guest list, it won&rsquo;t accept your transactions yet.&nbsp;</p>
+<p>To engage with the community, you can find us on <a href="https://twitter.com/Neon_EVM">Twitter</a> and join Neon EVM&rsquo;s very active <a href="https://discord.gg/neonevm">Discord</a> to meet some of our long-term and loyal community builders. For a high-level overview of the technical architecture and features of Neon EVM, the whitepaper is available at <a href="https://neonevm.org/whitepaper.pdf">NeonEVM.org/whitepaper.pdf</a>. To follow the activity of the network, you can view Neon EVM transactions settled to Solana with the <a href="https://shadow.neonscan.org/">NeonScan</a> dashboard.&nbsp;</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/closed-beta-version-of-neon-evm-launches-on-solanas-mainnet/">Ethereum dApps settle on Solana with Neon EVM’s closed beta</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Crypto investors see value proposition in Chancer’s P2P betting solution</title>
 		<link>https://coinjournal.net/news/crypto-investors-see-value-proposition-in-chancers-p2p-betting-solution/</link>
 					<comments>https://coinjournal.net/news/crypto-investors-see-value-proposition-in-chancers-p2p-betting-solution/#respond</comments>
@@ -369,43 +415,6 @@ conflux@shift6studios.com</p>
 <p dir="ltr">CHIBI, the native Chibi Finance token, has plummeted following the news. After trading above $1.62 on Monday, CHIB price fell sharply on Tuesday morning to almost zero. Data from CoinGecko shows the crypto token has lost 98.7% of its value in the past 24 hours and currently hovers near $0.017.</p>
 
 <p>The post <a rel="nofollow" href="https://coinjournal.net/news/chibi-finance-allegedly-executes-1m-rug-pull-on-arbitrum-chib-plummets-98/">Chibi Finance allegedly executes $1M rug pull on Arbitrum, CHIBI plummets 98%</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>SwissOne launches ecosystem fund for IOTA and Shimmer</title>
-		<link>https://coinjournal.net/news/swissone-launches-ecosystem-fund-for-iota-and-shimmer/</link>
-		
-		<dc:creator><![CDATA[Crispus Nyaga]]></dc:creator>
-		<pubDate>Tue, 27 Jun 2023 12:25:08 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[IOTA News]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/swissone-launches-ecosystem-fund-for-iota-and-shimmer/</guid>
-
-					<description><![CDATA[<p>SwissOne Capital launched a major ecosystem fund for IOTA and Shimmer. The fund will invest in the most promising projects in the ecosystem. IOTA and Shimmer received a boost on Tuesday when SwissOne Capital unveiled the first ecosystem fund to support developers. The fund, which is dedicated to IOTA and Shimmer will invest financial resources [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/swissone-launches-ecosystem-fund-for-iota-and-shimmer/">SwissOne launches ecosystem fund for IOTA and Shimmer</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">
-<p dir="ltr">SwissOne Capital launched a major ecosystem fund for IOTA and Shimmer.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">The fund will invest in the most promising projects in the ecosystem.</p>
-</li>
-</ul>
-<p dir="ltr"><a href="https://coinjournal.net/iota/"><u>IOTA</u></a> and Shimmer received a boost on Tuesday when SwissOne Capital unveiled the first ecosystem fund to support developers. The fund, which is dedicated to IOTA and Shimmer will invest financial resources to developers working on the ecosystem.</p>
-<p dir="ltr">The minimum investment the fund will offer will be 10,000 euros or the equivalent in $MIOTA and $SMR. In a statement, Steffen Bassler, the CEO of SwissOne Capital said:</p>
-<p dir="ltr">&ldquo;We are excited to launch this fund and offer our clients early access to projects building within the Shimmer and IOTA ecosystem. With ShimmerEVM rolling out, we believe this is the perfect time to launch a dedicated fund. We are committed to working with the Tangle Ecosystem Association to ensure that the fund is managed in the best interests of our clients.&rdquo;</p>
-<p dir="ltr">IOTA is one of the pioneers in distributed ledger technology (DLT). It pioneered a technology known as tangle, which is an open, feeless and scalable ledger, which is designed to support frictionless data and value transfer.</p>
-<p dir="ltr">Shimmer, on the other hand, is a layer 1 network that provides staging and validation for the IOTA DLT. Like Polkadot&rsquo;s Kusama, Shimmer makes it possible for developers to build <a href="https://coinjournal.net/glossary/decentralized-applications-dapps/">dApps</a> and then test them before moving them to IOTA&rsquo;s ecosystem. SMR, its native token has over $71 million in market cap and over 249,150 total active addresses.</p>
-<p dir="ltr">Shimmer is currently testing its EVM capabilities, as we wrote&nbsp;<a href="https://coinjournal.net/news/iotas-defi-ecosystem-inches-closer-with-the-launch-of-the-shimmerevm-test-chain/"><u>here</u></a>. Ethereum Virtual Machine is a piece of software that is able to handle Ethereum smart contracts. It is one of the most popular approaches of improving a network&rsquo;s interoperability. In a note, the founder of IOTA said:</p>
-<p dir="ltr">&ldquo;With the introduction of EVM-compatible smart contracts, Shimmer and IOTA kick off a new era of growth fueled by crypto-native use cases, primarily in DeFi, NFTs, gaming, and more. We are thrilled to see SwissOne Capital&rsquo;s commitment to investing in projects across the ecosystem and to see SISO grow alongside the community.&rdquo;</p>
-<h2 dir="ltr">How to buy IOTA</h2>
-<p dir="ltr"></p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/swissone-launches-ecosystem-fund-for-iota-and-shimmer/">SwissOne launches ecosystem fund for IOTA and Shimmer</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
 		
