@@ -407,4 +407,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3887 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6637051 metric#prefetches=397 metric#store-reads=16 metric#store-writes=2 metric#store-hits=402 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=190.90 metric#ms-cache=13.60 metric#ms-cache-avg=0.8000 metric#ms-cache-ratio=7.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3809 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6623103 metric#prefetches=319 metric#store-reads=70 metric#store-writes=2 metric#store-hits=402 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=195.91 metric#ms-cache=22.19 metric#ms-cache-avg=0.3126 metric#ms-cache-ratio=11.3 -->
