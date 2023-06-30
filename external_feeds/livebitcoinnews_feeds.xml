@@ -380,4 +380,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3894 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6633171 metric#prefetches=399 metric#store-reads=16 metric#store-writes=2 metric#store-hits=404 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=163.05 metric#ms-cache=13.02 metric#ms-cache-avg=0.7657 metric#ms-cache-ratio=8.0 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3894 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6633171 metric#prefetches=399 metric#store-reads=16 metric#store-writes=2 metric#store-hits=404 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=145.35 metric#ms-cache=12.03 metric#ms-cache-avg=0.7074 metric#ms-cache-ratio=8.3 -->
