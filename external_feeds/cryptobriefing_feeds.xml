@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Thu, 29 Jun 2023 20:37:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jun 2023 15:16:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>South Korean Passes New Crypto Legislation in the Wake of Terra</title>
+		<link>https://cryptobriefing.com/south-korea-passes-new-crypto-legislation/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 15:16:49 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124833</guid>
+
+					<description><![CDATA[Over one year after the collapse of Do Kwons Terra empire, South Korea is taking decisive action. The government has passed a groundbreaking piece of legislation, the Virtual Asset User...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2018/08/02100342/Blockchain-Law-Society-Launches-in-South-Korea-838x440.jpg" width="838" height="440" />	</item>
+		<item>
 		<title>UK Law to Regulate Crypto Awaits King Charles&#8217; Signature</title>
 		<link>https://cryptobriefing.com/uk-law-awaits-king-charles-signature/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -444,19 +459,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2022/08/31095922/arbitrum-cover-2-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>SEC Accuses Binance.US, CZ of Billion-Dollar Investor Fund Risk</title>
-		<link>https://cryptobriefing.com/sec-accuses-billion-dollar-investor-fund-risk/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
-		<pubDate>Wed, 07 Jun 2023 17:08:12 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=124443</guid>
-
-					<description><![CDATA[The U.S. Securities and Exchange Commission (SEC) has extended its legal proceedings against Binance.US after its initial suit against the exchange, claiming that the industrys largest exchange put investors&#8217; funds...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/04/22121558/binance-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
