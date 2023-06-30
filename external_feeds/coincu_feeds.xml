@@ -29,6 +29,483 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Coinbase Layer-2 Network Base Is Ready For Mainnet Launch</title>
+		<link>https://coincu.com/199011-base-is-ready-for-mainnet-launch/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 03:36:49 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[base]]></category>
+		<category><![CDATA[bedrock]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Layer-2]]></category>
+		<category><![CDATA[OP Labs]]></category>
+		<category><![CDATA[OP Stack]]></category>
+		<category><![CDATA[optimism]]></category>
+		<category><![CDATA[Pessimism]]></category>
+		<category><![CDATA[Regolith]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199011</guid>
+
+					<description><![CDATA[Base is close to being deployed on the mainnet, prioritizing security.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Base is close to being deployed on the mainnet, prioritizing security.</em></li>
+
+
+
+<li><em>The network has met crucial deployment criteria and leveraged collaboration with OP Labs.</em></li>
+
+
+
+<li><em>Initiatives like smart contract audits and monitoring tools enhance security and attract users.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Base, Coinbase&#8217;s new layer 2 application-focused protocol, is only one step away from being <a href="https://twitter.com/BuildOnBase/status/1674543151388966912" target="_blank" rel="noreferrer noopener">ready</a> for mainnet deployment.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2239.png"><img decoding="async" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2239-1024x512.png" alt="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch" class="wp-image-199039" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2239-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2239-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2239-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2239-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2239-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2239-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2239.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch 1"></a></figure></div>
+
+
+<p>The Base team revealed their comprehensive security procedures in a block post in anticipation of their imminent mainnet launch. The platform&#8217;s goal is to get the next million developers and billion users onto the blockchain, and security is a critical component of that mission.</p>
+
+
+
+<p>On February 23, the exchange officially unveiled Base, which aspires to be a low-cost, secure, and developer-friendly network for creating decentralized apps.</p>
+
+
+
+<p>The network is created in conjunction with Optimism on the OP Stack. Because of this basis, it benefits from the considerable security work done by the OP Labs team and the larger Optimism community. Coinbase&#8217;s Protocol Security team performed an internal examination to improve the security of the OP Stack.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2240.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2240-1024x512.png" alt="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch" class="wp-image-199042" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2240-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2240-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2240-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2240-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2240-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2240-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2240.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch 2"></a></figure></div>
+
+
+<p>The Protocol Security team has worked closely with OP Labs over the last six months to strengthen the security of the layer 2 and Optimism. This involved reviewing all Optimism pre-deployments and contracts on both L1 and L2 to discover technological stack vulnerabilities and dangers.</p>
+
+
+
+<p>On June 29, the team announced that the Optimism-powered, Ethereum-secured network had passed its second-to-last criterion for deployment.</p>
+
+
+
+<p>A &#8220;Regolith&#8221; hard fork in testnet, a successful infrastructure assessment with OP Labs (the team behind Optimism), and Optimism&#8217;s &#8220;Bedrock&#8221; update was the other three requirements that were met.</p>
+
+
+
+<p>Base engaged the larger community in advance of the mainnet launch by hosting a public smart contract audit contest on Code4rena. This competition challenged security researchers to identify and disclose defects in any area of the OP Stack. This challenge drew over 100 security researchers, and no notable vulnerabilities were uncovered.</p>
+
+
+
+<p>Optimism&#8217;s node software, Ethereum Virtual Machine (EVM) equivalency flaws, bridge vulnerabilities, and several smart contract concerns were among the audits studied by security experts.</p>
+
+
+
+<p>Base is also developing a smart contract security screening tool to assist developers in reducing the likelihood of inserting a security vulnerability into their contracts. This tool allows developers to rapidly and efficiently scan their contracts and get findings from numerous open-source vulnerability detection tools, including Coinbase&#8217;s proprietary secure trait analyzer.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2241.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/06/image-2241-1024x682.png" alt="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch" class="wp-image-199043" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2241-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2241-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2241-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2241-1536x1024.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2241-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2241-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2241.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase Layer-2 Network Base Is Ready For Mainnet Launch 3"></a></figure></div>
+
+
+<p>In addition to safeguarding the core OP Stack codebase, the network is working on an open-source monitoring tool, Pessimism, to give timely reporting of protocol and network irregularities. This tool will be used in conjunction with current OP Labs monitoring tools, Coinbase&#8217;s in-house blockchain monitoring capabilities, and third-party solutions.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-2237-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>CME Group Provides Single-Trade Solution With Ether/Bitcoin Ratio Futures Contract</title>
+		<link>https://coincu.com/199001-cme-group-provides-single-trade-solution/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 03:35:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[CME Group]]></category>
+		<category><![CDATA[Ether/Bitcoin Ratio Futures Contract]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199001</guid>
+
+					<description><![CDATA[CME Group introduces Ether/Bitcoin Ratio (EBR) futures contract for efficient relative value trading between Ether and Bitcoin. Provides cryptocurrency exposure without directional view, enabling hedging and risk management.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>CME Group launches Ether/Bitcoin Ratio (EBR) futures contract, allowing efficient relative value trading between Ether and Bitcoin.</em></li>
+
+
+
+<li><em>EBR futures contract provides cryptocurrency exposure without the need for a directional view, making it a promising tool for hedging and risk management in the crypto market.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>CME Group <a href="https://www.cmegroup.com/markets/cryptocurrencies/ratio/ether-bitcoin-ratio.html" target="_blank" data-type="URL" data-id="https://www.cmegroup.com/markets/cryptocurrencies/ratio/ether-bitcoin-ratio.html" rel="noreferrer noopener">introduces </a>Ether/Bitcoin Ratio (EBR) futures contract for efficient relative value trading between Ether and Bitcoin. Provides cryptocurrency exposure without directional view, enabling hedging and risk management.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2238.png"><img decoding="async" loading="lazy" width="994" height="639" src="https://coincu.com/wp-content/uploads/2023/06/image-2238.png" alt="CME Group Provides Single-Trade Solution With Ether/Bitcoin Ratio Futures Contract" class="wp-image-199038" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2238.png 994w, https://coincu.com/wp-content/uploads/2023/06/image-2238-300x193.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2238-768x494.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2238-750x482.png 750w" sizes="(max-width: 994px) 100vw, 994px" title="CME Group Provides Single-Trade Solution With Ether/Bitcoin Ratio Futures Contract 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>CME group has announced the launch of Ether/Bitcoin Ratio (EBR) futures contract. This new contract will allow market participants to efficiently execute a relative value trade between Ether futures and Bitcoin futures contracts in a single trade. The EBR futures contract will enable investors to access cryptocurrency exposure without the need to take a directional view.</p>
+
+
+
+<p>The CME Globex ticker for the new futures contract is EBR, where the ratio is defined as Ether futures price divided by the Bitcoin futures price. The ratio will be calculated using the same expiration month for the underlying Ether and Bitcoin futures contract. The ratio will always be positive and will be available across all listed contract months. The notional value of the contract is found by multiplying the ratio by $1,000,000.</p>
+
+
+
+<p>Ether/Bitcoin Ratio futures allow traders to efficiently express a view on the relative value of the two cryptocurrencies without a directional bias on the overall cryptocurrency market. This feature makes the EBR futures contract a promising tool for hedging and risk management purposes in the cryptocurrency market.</p>
+
+
+
+<p>The EBR Final Settlement price is found by dividing the Ether futures Final Settlement Price by the Bitcoin futures Final Settlement Price. This feature ensures the settlement of the futures contract at a fair value.</p>
+
+
+
+<figure class="wp-block-table aligncenter"><table><tbody><tr><th></th></tr><tr><th><strong>CONTRACT SIZE</strong></th><td>$1,000,000&nbsp;</td></tr><tr><th><strong>CONTRACT UNIT OF MEASURE</strong></th><td>Ether futures Final Settlement Price ÷ Bitcoin futures Final Settlement Price * $1,000,000</td></tr><tr><th><strong>PRICE QUOTATION</strong></th><td>U.S. dollars and cents&nbsp;</td></tr><tr><th rowspan="2"><strong>TRADING HOURS AND VENUE</strong><br><strong></strong></th><td><strong>CME Globex:</strong><br>Friday – Sunday, 6:00 p.m. – 5:00 p.m. Eastern time (ET)</td></tr><tr><td><strong>CME Globex:</strong><br>Sunday &#8211; Friday 5:00 p.m. &#8211; 4:00 p.m Central time (CT) with a 60-minute break each day beginning at 4:00 p.m. CT<br><br><strong>CME Clearport:</strong><br>Sunday 5:00 p.m. &#8211; Friday 5:45 p.m. CT with no reporting Monday &#8211; Thursday from 5:45 p.m. &#8211; 6:00 p.m. CT</td></tr><tr><th><strong>MINIMUM PRICE FLUCTUATION</strong></th><td>Outrights: 0.000005 index points = $5.00 per contract­</td></tr><tr><th rowspan="3"><strong>PRODUCT CODE</strong></th><td>CME Globex: EBR</td></tr><tr><td>CME ClearPort: EBR</td></tr><tr><td>Clearing: EBR</td></tr><tr><th><strong>LISTING CYCLE</strong></th><td>Monthly contracts listed for six consecutive months, quarterly contracts (Mar, Jun, Sep, Dec) listed for four additional quarters and a second Dec contract if only one is listed.</td></tr><tr><th><strong>FINAL SETTLEMENT</strong></th><td>Financially settled</td></tr><tr><th><strong>TERMINATION OF TRADING</strong></th><td>Trading terminates at 4:00 p.m. London time on the last Friday of the contract month.</td></tr></tbody></table><figcaption class="wp-element-caption">Source: <a href="https://www.cmegroup.com/markets/cryptocurrencies/ratio/ether-bitcoin-ratio.html" target="_blank" data-type="URL" data-id="https://www.cmegroup.com/markets/cryptocurrencies/ratio/ether-bitcoin-ratio.html" rel="noreferrer noopener">CME Group</a></figcaption></figure>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Thana</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-79-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>BAYC&#8217;s New Game HV-MTL Forge Ready</title>
+		<link>https://coincu.com/199009-baycs-new-game-hv-mtl-forge-ready/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 03:25:02 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[BAYC]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[HV-MTL Forge]]></category>
+		<category><![CDATA[HV-MTL NFT]]></category>
+		<category><![CDATA[NFT]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199009</guid>
+
+					<description><![CDATA[Bored Ape Yacht Club (BAYC) has announced that the new game HV-MTL Forge has officially launched.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Bored Ape Yacht Club (BAYC) has announced that the new game HV-MTL Forge has officially launched.</em></li>
+
+
+
+<li><em>HV-MTL Forge is a crafting game that pits players against each other and requires HV-MTL NFT for the full experience.</em></li>
+
+
+
+<li><em>HV-MTL Forge will last for 6 seasons and 2 modes.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to official news, <a href="https://coincu.com/198702-bayc-floor-price-has-dropped/" target="_blank" rel="noreferrer noopener">Bored Ape Yacht Club (BAYC)</a> has announced that the new game HV-MTL Forge has officially launched. According to the report, HV-MTL Forge is a casual space-building and petting game incorporating maze exploration.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2223.png"><img decoding="async" loading="lazy" width="1024" height="525" src="https://coincu.com/wp-content/uploads/2023/06/image-2223-1024x525.png" alt="BAYC&#039;s New Game HV-MTL Forge Ready" class="wp-image-199015" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2223-1024x525.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2223-300x154.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2223-768x394.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2223-750x385.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2223-1140x585.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2223.png 1150w" sizes="(max-width: 1024px) 100vw, 1024px" title="BAYC&#039;s New Game HV-MTL Forge Ready 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Yuga Labs developed the game in collaboration with Makemepulse. The game tasks players with creating a forge and keeping their HV characters happy and productive. After you create a space and the items in it, you can submit it for voting. If the community likes what you&#8217;ve done, you can climb the social leaderboards and get energy for the game&#8217;s quests.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Forge on ahead.<br><br>HV-MTL Forge is now live at <a href="https://t.co/iaR9zXu1V1" target="_blank">https://t.co/iaR9zXu1V1</a> <a href="https://t.co/y1HeFyPUFV" target="_blank">pic.twitter.com/y1HeFyPUFV</a></p>&mdash; Bored Ape Yacht Club (@BoredApeYC) <a href="https://twitter.com/BoredApeYC/status/1674499197846843392?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 29, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>HV-MTL Forge will last for 6 seasons and 2 modes, providing players with 6 opportunities to upgrade. The HV of the HV-MTL series was originally a small cube named &#8220;Power&#8221;, which is currently in the EVO1 state and can be upgraded through Will evolve to the EVO2 state.</p>
+
+
+
+<p>User HV needs at least 3 AMP Upgrades to reach Evo2 status, and any HV entering the season (regardless of rank) will receive AMP, and other HV holders&#8217; daily votes will decide their season standings ranking. The final seasonal ranking will determine how rare the AMP users receive.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png"><img decoding="async" loading="lazy" width="1024" height="622" src="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png" alt="BAYC&#039;s New Game HV-MTL Forge Ready" class="wp-image-199022" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2230-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2230-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2230-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2230-1140x693.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2230.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="BAYC&#039;s New Game HV-MTL Forge Ready 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>After nine weeks (August 31), Forge&#8217;s game premise will expand to include Rift challenges, where select NFT mech owners will have to compete in a new game mode of the genre. &#8220;dungeon collector&#8221;.</p>
+
+
+
+<p>In Rifts, players will have to craft, explore, and seek rewards to get to the game&#8217;s final stages. According to Yuuga Forging Game Guide, selected players will have to battle &#8220;epic beasts&#8221; in the game&#8217;s final stages and compete with each other for unspecified &#8220;treasures&#8221; before the game time runs out.</p>
+
+
+
+<p>While HV-MTL has a lot of its own ecosystem under the Yuga umbrella, there will also be space for BAYC, MAYC and BAKC holders in the game mechanics. These mechanics won&#8217;t be revealed until the second part of Forge comes out.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Thumb-2023-Foxy-28-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Polygon 2.0 Integrate Re-staking Mechanism With ZK Technology Emphasis</title>
+		<link>https://coincu.com/198999-polygon-20-integrate-re-staking-zk-technology/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 02:57:18 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[Matic re-staking]]></category>
+		<category><![CDATA[ZK]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=198999</guid>
+
+					<description><![CDATA[Polygon Labs has announced plans to merge Zero-Knowledge chains using Re-staking and a bridge to make Polygon 2.0 a synchronous Layer-2 ecosystem.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Polygon 2.0 will use the new commit and interoperability layer to unify its ZK chain.</em></li>
+
+
+
+<li><em>The migration to Polygon 2.0 is expected to be completed in the first quarter of next year, with the current roadmaps starting in 2023.</em></li>
+
+
+
+<li><em>Polygon 2.0 will integrate a decentralized staking layer, allowing MATIC re-staking across different networks.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Polygon Labs has announced plans to merge Zero-Knowledge chains using Re-staking and a bridge to make Polygon 2.0 a synchronous Layer-2 ecosystem.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2222.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2222-1024x576.png" alt="Polygon 2.0 Integrate Re-staking Mechanism With ZK Technology Emphasis" class="wp-image-199005" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2222-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2222-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2222-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2222-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2222-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2222.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Polygon 2.0 Integrate Re-staking Mechanism With ZK Technology Emphasis 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The design of Polygon 2.0 will integrate Zero-Knowledge to support all networks. This move comes shortly after the project announced its proposal to migrate the Polygon PoS network to <a href="https://coincu.com/196671-polygon-zkevm-validium-layer-2-upgrade/" target="_blank" rel="noreferrer noopener">zkEVM Validium</a>. Before that, another zk network operating in parallel, Polygon zkEVM, was also broadcast in March 2023.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/ Today, we are excited to propose the Polygon 2.0 architecture, designed to provide unlimited scalability and unified liquidity, thus transforming Polygon into the Value Layer of the Internet!<br><br>Read the blog <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f447-1f3fd.png" alt="👇🏽" class="wp-smiley" style="height: 1em; max-height: 1em;" /> or keep scrolling <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/sShy6R1E6R" target="_blank">https://t.co/sShy6R1E6R</a> <a href="https://t.co/BTdwkri4nI" target="_blank">pic.twitter.com/BTdwkri4nI</a></p>&mdash; Polygon (Labs) (@0xPolygonLabs) <a href="https://twitter.com/0xPolygonLabs/status/1674538238835343361?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 29, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The proposed Polygon 2.0 network will include an ethereum virtual machine client and a shared ZK proof implementation, which the team calls an &#8220;interoperability layer&#8221; or &#8220;common bridge.&#8221; The in-house developed cryptographic algorithm Plonky3 will support the interoperability layer, and the result will be a single high-performance proof-of-work system that underpins the entire network.</p>
+
+
+
+<p>With the new architecture, an orchestration layer will exist to confirm cross-chain transactions, while ZK proofs will provide a shared bridge. The public bridge will connect all Polygon chains and implement ZK-based security proofs on Ethereum to protect all Polygon chains simultaneously.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2221.png"><img decoding="async" loading="lazy" width="900" height="449" src="https://coincu.com/wp-content/uploads/2023/06/image-2221.png" alt="Polygon 2.0 Integrate Re-staking Mechanism With ZK Technology Emphasis" class="wp-image-199004" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2221.png 900w, https://coincu.com/wp-content/uploads/2023/06/image-2221-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2221-768x383.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2221-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2221-750x374.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Polygon 2.0 Integrate Re-staking Mechanism With ZK Technology Emphasis 8"></a><figcaption class="wp-element-caption">The Polygon 2.0 architecture consists of four protocol layers</figcaption></figure></div>
+
+
+<p>The plan also offers token resetting, allowing investors to stake the same token across multiple projects simultaneously. And Polygon plans to give developers the ability to &#8220;add new decentralized chains on demand,&#8221; according to a statement &#8211; joining competitors including Arbitrum, Optimism, and zkSync&#8217;s Matter Labs already make their network easier to replicate, in pursuit of promoting broader ecosystems of specialized but compatible blockchains.</p>
+
+
+
+<p>The proposal also calls for an emphasis on resetting, allowing users to reuse their staked cryptocurrencies to ensure the security of other applications on the blockchain. Many protocols, like Eigenlayer, have recently accepted resets.</p>
+
+
+
+<p>The expected transition to Polygon 2.0 is scheduled for the first quarter of next year.</p>
+
+
+
+<p>&#8220;Polygon 2.0 aims to create an ecosystem where we can continuously add block space and unify them with a shared bridge and an interoperability layer (…). Unified liquidity is everything for Polygon in the coming year.&#8221; Polygon co-founder Brendan Farmer said in an interview with The Block.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Thumb-2023-Foxy-27-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Fidelity Officially Filed An Application For A Spot Bitcoin ETF With The SEC</title>
+		<link>https://coincu.com/198992-fidelity-filed-a-spot-bitcoin-etf-with-the-sec/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 02:17:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Bitcoin]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Fidelity]]></category>
+		<category><![CDATA[Spot Bitcoin ETF]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=198992</guid>
+
+					<description><![CDATA[On Thursday, the Chicago Board Options Exchange (Cboe) announced the 19b-4 filing of the Fidelity Bitcoin Spot ETF on its website.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>The Chicago Board Options Exchange (Cboe) has published the Fidelity Bitcoin Spot ETF filing.</em></li>
+
+
+
+<li><em>The Wise Origin, Bitcoin Trust fund, is also a Spot ETF like BlackRock&#8217;s iSHARES BITCOIN TRUST.</em></li>
+
+
+
+<li><em>The SEC previously rejected the application of the world&#8217;s 3rd largest wealth management fund in early 2022.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>On Thursday, the Chicago Board Options Exchange (Cboe) <a href="https://cdn.cboe.com/resources/regulation/rule_filings/pending/2023/SR-CboeBZX-2023-044.pdf" target="_blank" rel="noreferrer noopener">announced</a> the 19b-4 filing of the<a href="https://coincu.com/198213-fidelity-joins-the-battle-for-bitcoin-etf/" target="_blank" rel="noreferrer noopener"> Fidelity</a> Bitcoin Spot ETF on its website.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2218.png"><img decoding="async" loading="lazy" width="800" height="494" src="https://coincu.com/wp-content/uploads/2023/06/image-2218.png" alt="Fidelity Officially Filed An Application For A Spot Bitcoin ETF With The SEC" class="wp-image-198994" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2218.png 800w, https://coincu.com/wp-content/uploads/2023/06/image-2218-300x185.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2218-768x474.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2218-750x463.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="Fidelity Officially Filed An Application For A Spot Bitcoin ETF With The SEC 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The ETF is called Wise Origin Bitcoin Trust, FD Funds Management LLC is its promoter, and Fidelity Digital Asset Services will be responsible for the custody of bitcoins held by the fund.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Fidelity joins push for spot bitcoin ETF, and Coinbase seeks dismissal of SEC suit: CNBC Crypto World <a href="https://t.co/AhLHuNhKil" target="_blank">https://t.co/AhLHuNhKil</a></p>&mdash; CNBC (@CNBC) <a href="https://twitter.com/CNBC/status/1674495935773024259?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 29, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<blockquote class="wp-block-quote has-small-font-size">
+<p class="has-small-font-size">&#8220;Through the use of professional custodians and other service providers, the Trust can protect bitcoin investors from insolvency by unqualified custodians, cyberattacks, and other risks,&#8221;</p>
+<cite>The filing states.</cite></blockquote>
+
+
+
+<p>Like BlackRock&#8217;s filing, Fidelity&#8217;s filing also includes Cboe&#8217;s custody-sharing agreement with a US-based spot bitcoin trading platform.</p>
+
+
+
+<p>The move is seen as a breakthrough for listing a Bitcoin spot ETF in the US, as the SEC has rejected dozens of similar filings. BlackRock&#8217;s submission is substantially different from this SSA provision. If approved, BlackRock will share custody with Coinbase.</p>
+
+
+
+<p>Fidelity also previously expressed interest in cryptocurrencies when it applied to launch a Bitcoin Spot ETF in 2021 but was rejected by the SEC early the following year.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2219.png"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/06/image-2219-1024x536.png" alt="Fidelity Officially Filed An Application For A Spot Bitcoin ETF With The SEC" class="wp-image-198995" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2219-1024x536.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2219-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2219-768x402.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2219-750x393.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2219-1140x597.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2219.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Fidelity Officially Filed An Application For A Spot Bitcoin ETF With The SEC 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Earlier, there were also many signals that the big asset management group is said to be preparing to re-enter the Bitcoin Spot ETF race, following a series of Wall Street giants, including BlackRock, WisdomTree, Invesco, and Valkyrie.</p>
+
+
+
+<p>It must be said that the crypto market has been quite excited lately with the appearance of the Bitcoin Spot ETF. Investors can freely participate in the cryptocurrency market without having to worry about regulatory procedures anymore. Especially it is even more reassuring when this product is guaranteed by the size and influence of the US financial empires.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Thumb-2023-Foxy-26-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024</title>
 		<link>https://coincu.com/198986-central-bank-of-korea-test-cbdc-payments-in-2024/</link>
 		
@@ -67,7 +544,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2216.png"><img decoding="async" width="1024" height="718" src="https://coincu.com/wp-content/uploads/2023/06/image-2216-1024x718.png" alt="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024" class="wp-image-198988" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2216-1024x718.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2216-300x210.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2216-768x538.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2216-1536x1076.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2216-750x526.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2216-1140x799.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2216.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2216.png"><img decoding="async" loading="lazy" width="1024" height="718" src="https://coincu.com/wp-content/uploads/2023/06/image-2216-1024x718.png" alt="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024" class="wp-image-198988" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2216-1024x718.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2216-300x210.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2216-768x538.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2216-1536x1076.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2216-750x526.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2216-1140x799.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2216.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The Bank of Korea has begun a technical review to issue a<a href="https://coincu.com/187467-samsung-spearheads-south-koreas-cbdc/" target="_blank" rel="noreferrer noopener"> CBDC </a>in 2020, built a platform for online and offline payments, and completed simulation testing with commercial banks last year.</p>
@@ -82,7 +559,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2217.png"><img decoding="async" loading="lazy" width="1024" height="584" src="https://coincu.com/wp-content/uploads/2023/06/image-2217-1024x584.png" alt="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024" class="wp-image-198989" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2217-1024x584.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2217-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2217-768x438.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2217-1536x876.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2217-750x428.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2217-1140x650.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2217.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2217.png"><img decoding="async" loading="lazy" width="1024" height="584" src="https://coincu.com/wp-content/uploads/2023/06/image-2217-1024x584.png" alt="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024" class="wp-image-198989" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2217-1024x584.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2217-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2217-768x438.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2217-1536x876.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2217-750x428.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2217-1140x650.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2217.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Central Bank Of Korea To Test CBDC Payments For Private Sector In 2024 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Cooperation with the Bank of Korea and commercial banks is critical to testing the use of micropayment CBDCs. Last year, 15 banks participated in the CBDC connection trial between the Bank of Korea and institutions, including KB Kookmin Bank, Shinhan Bank, Hana Bank, Woori Bank, and NH Nonghyup Bank.</p>
@@ -156,7 +633,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/british-government.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/06/british-government-1024x683.webp" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198980" srcset="https://coincu.com/wp-content/uploads/2023/06/british-government-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/06/british-government-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/06/british-government-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/06/british-government-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/06/british-government-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/06/british-government-1140x760.webp 1140w, https://coincu.com/wp-content/uploads/2023/06/british-government.webp 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/british-government.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/06/british-government-1024x683.webp" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198980" srcset="https://coincu.com/wp-content/uploads/2023/06/british-government-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/06/british-government-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/06/british-government-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/06/british-government-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/06/british-government-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/06/british-government-1140x760.webp 1140w, https://coincu.com/wp-content/uploads/2023/06/british-government.webp 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 13"></a></figure></div>
 
 
 <p>King Charles endorsed a measure providing authorities the authority to regulate crypto and stablecoins on Thursday, marking the last formal step before the bill becomes law.</p>
@@ -181,7 +658,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill.webp"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1024x577.webp" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198981" srcset="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1024x577.webp 1024w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1536x865.webp 1536w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1140x642.webp 1140w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 4"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill.webp"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1024x577.webp" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198981" srcset="https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1024x577.webp 1024w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1536x865.webp 1536w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill-1140x642.webp 1140w, https://coincu.com/wp-content/uploads/2023/06/UK-Treasury-unveils-plan-to-regulate-stablecoins-in-Financial-Services-and-Markets-bill.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 14"></a></figure></div>
 
 
 <p>The recently signed Bill in the United Kingdom is significantly more comprehensive since it considers wider innovation using blockchain technology. Significantly, the Act provides &#8220;sandboxes&#8221; that potentially promote the deployment of innovative technologies like blockchain in financial markets.</p>
@@ -192,7 +669,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2215.png"><img decoding="async" loading="lazy" width="640" height="420" src="https://coincu.com/wp-content/uploads/2023/06/image-2215.png" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198982" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2215.png 640w, https://coincu.com/wp-content/uploads/2023/06/image-2215-300x197.png 300w" sizes="(max-width: 640px) 100vw, 640px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 5"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2215.png"><img decoding="async" loading="lazy" width="640" height="420" src="https://coincu.com/wp-content/uploads/2023/06/image-2215.png" alt="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country" class="wp-image-198982" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2215.png 640w, https://coincu.com/wp-content/uploads/2023/06/image-2215-300x197.png 300w" sizes="(max-width: 640px) 100vw, 640px" title="BREAKING: UK Now Admits Crypto As Regulated Financial Activity In The Country 15"></a></figure></div>
 
 
 <p>The Treasury, Financial Conduct Authority, Bank of England, and Payments Systems Regulator in the UK will soon be able to develop and enforce regulations governing the industry. The United Kingdom has now set a positive example for other countries trying to control the crypto environment by assenting to the Bill.</p>
@@ -252,7 +729,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2214.png"><img decoding="async" loading="lazy" width="1024" height="341" src="https://coincu.com/wp-content/uploads/2023/06/image-2214-1024x341.png" alt="Solana-based Cardinal Protocol Shuts Down Despite $4.4 Million In Seed Funding: Report" class="wp-image-198970" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2214-1024x341.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2214-300x100.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2214-768x256.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2214-750x250.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2214-1140x380.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2214.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Solana-based Cardinal Protocol Shuts Down Despite $4.4 Million In Seed Funding: Report 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2214.png"><img decoding="async" loading="lazy" width="1024" height="341" src="https://coincu.com/wp-content/uploads/2023/06/image-2214-1024x341.png" alt="Solana-based Cardinal Protocol Shuts Down Despite $4.4 Million In Seed Funding: Report" class="wp-image-198970" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2214-1024x341.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2214-300x100.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2214-768x256.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2214-750x250.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2214-1140x380.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2214.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Solana-based Cardinal Protocol Shuts Down Despite $4.4 Million In Seed Funding: Report 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Solana protocol Cardinal announced that it will gradually close its protocols, including NFT leasing, staking, ticketing, custody, and other functions. The project, which completed a $4.4 million seed round of financing in July 2022, is led by Solana Ventures and Protagonist, with participation from Animoca Brands and others. Cardinal blamed the difficult macro environment for its closure.</p>
@@ -362,7 +839,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2212.png"><img decoding="async" loading="lazy" width="813" height="457" src="https://coincu.com/wp-content/uploads/2023/06/image-2212.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198957" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2212.png 813w, https://coincu.com/wp-content/uploads/2023/06/image-2212-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2212-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2212-750x422.png 750w" sizes="(max-width: 813px) 100vw, 813px" title="Worldcoin Creates New Breakthrough When Launched In Germany 7"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2212.png"><img decoding="async" loading="lazy" width="813" height="457" src="https://coincu.com/wp-content/uploads/2023/06/image-2212.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198957" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2212.png 813w, https://coincu.com/wp-content/uploads/2023/06/image-2212-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2212-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2212-750x422.png 750w" sizes="(max-width: 813px) 100vw, 813px" title="Worldcoin Creates New Breakthrough When Launched In Germany 17"></a></figure></div>
 
 
 <p>Okta&#8217;s Auth0 marketplace now includes a &#8220;Sign in with Worldcoin&#8221; option for authentication solutions, allowing developers to utilize it as a login option for their apps alongside Google or Facebook. Sam Altman&#8217;s project has 1.9 million users in 30 countries, according to World App.</p>
@@ -377,14 +854,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198955" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2210-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2210-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2210-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2210-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2210-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2210.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Creates New Breakthrough When Launched In Germany 8"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198955" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2210-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2210-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2210-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2210-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2210-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2210-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2210.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Creates New Breakthrough When Launched In Germany 18"></a></figure></div>
 
 
 <p>Okta is a supplier of identity and access management software with hundreds of millions of users. To be properly confirmed by the Worldcoin system, individuals must have their irises scanned at one of the Orbs, which are located in certain areas across the globe. Orbs scan users&#8217; irises and utilize artificial intelligence to generate one-of-a-kind codes, known as cryptographic IDs. The biometric data is converted into an ID in near real-time, and the resultant digital key is kept on users&#8217; devices. The Orb does not keep data taken throughout the procedure by default.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198958" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2213-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2213-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2213-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2213-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2213.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Creates New Breakthrough When Launched In Germany 9"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png" alt="Worldcoin Creates New Breakthrough When Launched In Germany" class="wp-image-198958" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2213-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2213-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2213-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2213-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2213-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2213.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Creates New Breakthrough When Launched In Germany 19"></a></figure></div>
 
 
 <p>With the goal of introducing cryptocurrencies to over a billion people, Worldcoin is certainly one of the most ambitious and legitimate projects. Worldcoin has the potential to be the largest crypto entry, accompanied by the most widely used crypto wallet, and, most importantly, it will bring a new concept to the Internet &#8211; Proof of Personhood &#8211; by using an innovative distribution mechanism.</p>
@@ -431,7 +908,7 @@
 
 					<description><![CDATA[The big bang that revolutionized the whole gambling scene across various continents was cryptocurrency. Its formation led to the development of many quality features that, as of now, many punters can do without. ]]></description>
 										<content:encoded><![CDATA[<div class="wp-block-image">
-<figure class="aligncenter"><a href="https://lh3.googleusercontent.com/ANm7nuRigYCQuAaN6VULhtriawM7GSG2zApv_MmaJmOeAPB160RV7yA5N2qOC77vYERzxPhNY61jNX8289WRLtKwjVOIC3zLSt2_L5K48sXzk2hmmdWS_57YN-5fK_FctYKby5YEwh46t4QhilJqF2k" target="_blank" rel="noopener"><img decoding="async" src="https://lh3.googleusercontent.com/ANm7nuRigYCQuAaN6VULhtriawM7GSG2zApv_MmaJmOeAPB160RV7yA5N2qOC77vYERzxPhNY61jNX8289WRLtKwjVOIC3zLSt2_L5K48sXzk2hmmdWS_57YN-5fK_FctYKby5YEwh46t4QhilJqF2k" alt="The Rise Of Crypto Gambling: Exploring The Benefits And Risks Of Using Crypto Sites" title="The Rise Of Crypto Gambling: Exploring The Benefits And Risks Of Using Crypto Sites 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter"><a href="https://lh3.googleusercontent.com/ANm7nuRigYCQuAaN6VULhtriawM7GSG2zApv_MmaJmOeAPB160RV7yA5N2qOC77vYERzxPhNY61jNX8289WRLtKwjVOIC3zLSt2_L5K48sXzk2hmmdWS_57YN-5fK_FctYKby5YEwh46t4QhilJqF2k" target="_blank" rel="noopener"><img decoding="async" src="https://lh3.googleusercontent.com/ANm7nuRigYCQuAaN6VULhtriawM7GSG2zApv_MmaJmOeAPB160RV7yA5N2qOC77vYERzxPhNY61jNX8289WRLtKwjVOIC3zLSt2_L5K48sXzk2hmmdWS_57YN-5fK_FctYKby5YEwh46t4QhilJqF2k" alt="The Rise Of Crypto Gambling: Exploring The Benefits And Risks Of Using Crypto Sites" title="The Rise Of Crypto Gambling: Exploring The Benefits And Risks Of Using Crypto Sites 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The big bang that revolutionized the whole gambling scene across various continents was cryptocurrency. Its formation led to the development of many quality features that, as of now, many punters can do without. Aside from the gambling industry, coins like Bitcoin, Ethereum, and Litecoin greatly affected the financial and online sectors.&nbsp;</p>
@@ -564,473 +1041,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Thumb-2023-Foxy-24-1-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance Was Denied Custody License In Germany: Report</title>
-		<link>https://coincu.com/198927-binance-custody-license-in-germany/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 10:25:19 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[austria]]></category>
-		<category><![CDATA[BaFin]]></category>
-		<category><![CDATA[Belgium]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Crypto custody]]></category>
-		<category><![CDATA[Cyprus]]></category>
-		<category><![CDATA[europe]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=198927</guid>
-
-					<description><![CDATA[Binance was developing its own license in Germany and planned to grow with it, but Germany's financial authority has opted not to award Binance a custodial license.]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance denied a custodial license in Germany, unclear if formal decision.</em></li>
-
-
-
-<li><em>The exchange faces regulatory challenges and investigations in multiple countries.</em></li>
-
-
-
-<li><em>SEC lawsuit accuses the exchange of violating securities rules and evading regulation.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Binance was developing its own license in Germany and planned to grow with it, but Germany&#8217;s financial authority has opted not to award Binance a custodial license, according to the news journal <em><a href="https://financefwd.com/de/binance-lizenz-deutschland/" target="_blank" rel="noreferrer noopener">Finance Forward</a></em> on Thursday, citing persons familiar with the subject.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2207-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/06/image-2207-1024x683.png" alt="Binance Denied Depository License In Germany: Report" class="wp-image-198935" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2207-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2207-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2207-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2207-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2207-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2207.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Was Denied Custody License In Germany: Report 11"></a></figure></div>
-
-
-<p>According to the article, it is unclear if the refusal was a formal decision made by the Federal Financial Supervisory Authority (BaFin) or an intention indicated during continuing conversations.</p>
-
-
-
-<p>According to a BaFin representative, the authority does not comment on specific enterprises. Meanwhile, a spokesman for Binance stated:</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;While we cannot share details of our discussions with regulators, we are continuing to work to meet BaFin requirements. It is an ongoing process. We are confident that we have the right team and the appropriate measures in place to continue our discussions with the regulators in Germany.&#8221;</p>
-</blockquote>
-
-
-
-<p>Moreover, corporate partners are pulling away, including the European banking partner <a href="https://coincu.com/198896-binance-european-banking-partner/" target="_blank" rel="noreferrer noopener">Paysafe</a>, according to <em>Reuters</em>. The news comes as Binance, the world&#8217;s biggest crypto exchange by trading volume, has been chastised by banking authorities in Europe and the United States.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/binance-reserves.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/binance-reserves-1024x576.jpg" alt="Binance Denied Depository License In Germany: Report" class="wp-image-198937" srcset="https://coincu.com/wp-content/uploads/2023/06/binance-reserves-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-2048x1152.jpg 2048w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/06/binance-reserves-1140x641.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Was Denied Custody License In Germany: Report 12"></a></figure></div>
-
-
-<p>The new lawsuit brought by the US Securities and Exchange Commission (SEC) against the crypto exchange and its founder Changpeng Zhao, in particular, is expected to complicate procedures throughout the globe. At the same time, the SEC accused Binance of repeatedly breaking securities rules, ignoring local laws, and dodging regulatory inspection.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2208.png"><img decoding="async" loading="lazy" width="1024" height="603" src="https://coincu.com/wp-content/uploads/2023/06/image-2208.png" alt="Binance Denied Depository License In Germany: Report" class="wp-image-198938" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2208.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2208-300x177.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2208-768x452.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2208-750x442.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Was Denied Custody License In Germany: Report 13"></a></figure></div>
-
-
-<p>Binance withdrew its application for regulatory certification in Austria on June 26. The exchange announced its pullout from the Netherlands earlier this month after failing to get regulatory permission. It has also moved to deregister its local company in Cyprus and is being investigated in France for significant money laundering. Belgium&#8217;s regulator ordered Binance to halt operations in the nation last week.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Harold</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-2209-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Delio Crypto-Finance Company Goes Bankrupt Amidst Creditor Chaos</title>
-		<link>https://coincu.com/198932-delio-crypto-finance-company-goes-bankrupt/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 10:24:00 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Crypto-Finance Company]]></category>
-		<category><![CDATA[Delio]]></category>
-		<category><![CDATA[Seoul Bankruptcy Court]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=198932</guid>
-
-					<description><![CDATA[Delio have reportedly applied to the Seoul Bankruptcy Court through law firm LKB &#38; Partners to initiate bankruptcy proceedings for the company. ]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>South Korean crypto-finance firm Delio applies for bankruptcy proceedings through law firm LKB &amp; Partners amid class-action lawsuit from customers.</em></li>
-
-
-
-<li><em>South Korean crypto-finance firm suspended withdrawals, citing Haru Invest impact, but later announced resumption of certain crypto deposit and withdrawal services starting June 28.</em></li>
-
-
-
-<li><em>South Korean crypto-finance firm&#8217;s creditors seek legal recourse as bankruptcy proceedings reflect challenges and uncertainties faced by the company, highlighting the importance of due diligence and cautious decision-making in the rapidly changing crypto-finance industry.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Delio have reportedly applied to the Seoul Bankruptcy Court through law firm LKB &amp; Partners to initiate bankruptcy proceedings for the company. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance.jpeg"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1024x614.jpeg" alt="Delio Crypto-Finance Company Goes Bankrupt Amidst Creditor Chaos" class="wp-image-198942" srcset="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1024x614.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-300x180.jpeg 300w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-768x461.jpeg 768w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-750x450.jpeg 750w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1140x684.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Delio Crypto-Finance Company Goes Bankrupt Amidst Creditor Chaos 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The move comes as the law firm also files a class-action lawsuit against Haru Invest and Delio, according to sources familiar with the matter cited by Chosun Biz.</p>
-
-
-
-<p>South Korean crypto-finance firm made headlines when it announced the suspension of withdrawals, citing the impact of Haru Invest. Furthermore, South Korean prosecutors imposed travel bans on key executives of Delio, preventing them from leaving the country. These developments raised concerns among investors and customers of Delio.</p>
-
-
-
-<p>On June 26, Delio announced that it would resume certain cryptocurrency deposit and withdrawal services starting from June 28. This move may provide some relief to users who were affected by the suspension and were unable to access their funds.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1.jpeg"><img decoding="async" loading="lazy" width="768" height="527" src="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1.jpeg" alt="Delio Crypto-Finance Company Goes Bankrupt Amidst Creditor Chaos" class="wp-image-198943" srcset="https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1.jpeg 768w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1-300x206.jpeg 300w, https://coincu.com/wp-content/uploads/2023/06/South-Korean-crypto-finance-1-750x515.jpeg 750w" sizes="(max-width: 768px) 100vw, 768px" title="Delio Crypto-Finance Company Goes Bankrupt Amidst Creditor Chaos 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The application for bankruptcy proceedings by Delio&#8217;s creditors reflects the challenges and uncertainties faced by the firm, as well as the concerns of those who have invested in or dealt with the company. The court&#8217;s involvement will play a crucial role in determining the future course of action for Delio and its stakeholders.</p>
-
-
-
-<p>The class-action lawsuit filed against Haru Invest and Delio by the law firm LKB &amp; Partners adds another layer of legal complexity to the situation. This action suggests that there may be grievances and allegations of wrongdoing that have prompted the creditors to seek legal recourse.</p>
-
-
-
-<p>As the South Korean crypto-finance industry continues to evolve, cases like Delio&#8217;s serve as a reminder of the importance of due diligence and cautious decision-making when engaging with cryptocurrency platforms and financial services. Customers and investors are advised to stay informed and exercise caution while navigating this rapidly changing landscape.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p id="block-522ef498-a505-4d0b-9a0d-b2e5cca12111">Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right" id="block-4fa7c042-0908-4ee5-9ff4-91607eb34413"><strong>Annie</strong></p>
-
-
-
-<p class="has-text-align-right" id="block-84ea04e6-519a-4165-8e39-faa42e0200e5"><strong>Coincu</strong>&nbsp;<strong>New</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Delio-Crypto-Finance-Company-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>SPACE ID Airdrop Season 2: Get Your Hands on 22.48 Million IDs Today!</title>
-		<link>https://coincu.com/198916-space-id-airdrop-season-2-22-48-million-ids/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 10:12:28 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[decentralized identity protocol]]></category>
-		<category><![CDATA[IDs]]></category>
-		<category><![CDATA[Space ID]]></category>
-		<category><![CDATA[SPACE ID Airdrop]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=198916</guid>
-
-					<description><![CDATA[The official Twitter account of SPACE ID, the decentralized identity protocol, has announced the successful conclusion of the SPACE ID Season 2 Journey (Part 2).]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>SPACE ID Season 2 Journey successfully concluded with 530K active addresses. </em></li>
-
-
-
-<li><em>Airdrop application for Season 3 from June 29 to July 29, 22,482,583 IDs to be allocated. </em></li>
-
-
-
-<li><em>Test capabilities, explore functionalities, and contribute to decentralized identity solutions.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The official Twitter account of SPACE ID, the decentralized identity protocol, has announced the successful conclusion of the SPACE ID Season 2 Journey (Part 2).</strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2206.png"><img decoding="async" loading="lazy" width="1024" height="525" src="https://coincu.com/wp-content/uploads/2023/06/image-2206-1024x525.png" alt="image 2206" class="wp-image-198925" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2206-1024x525.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2206-300x154.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2206-768x394.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2206-750x385.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2206.png 1104w" sizes="(max-width: 1024px) 100vw, 1024px" title="SPACE ID Airdrop Season 2: Get Your Hands on 22.48 Million IDs Today! 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>With great enthusiasm, approximately 530,000 addresses actively participated in the event, showcasing the growing interest in decentralized identity solutions.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">After an eventful journey, <a href="https://twitter.com/hashtag/SPACEID?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#SPACEID</a> Voyage Season 2 has come to an end.<br><br>We&#39;ve witnessed remarkable participation from our community w/ ~530,000 users actively taking part in the journey.<br><br>Take a look at the Season 2 overview &amp; details of the <a href="https://twitter.com/search?q=%24ID&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$ID</a> airdrop:<a href="https://t.co/KD3Q38VG8r" target="_blank">https://t.co/KD3Q38VG8r</a></p>&mdash; SPACE ID (@SpaceIDProtocol) <a href="https://twitter.com/SpaceIDProtocol/status/1674328332656160770?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 29, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>As the second season journey comes to an end, SPACE ID has revealed its plans to open the airdrop application page for the upcoming season. From June 29 to July 29, users will have the opportunity to apply for the airdrop, with a total of 22,482,583 IDs set to be allocated.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1024x576.jpeg" alt="SPACE ID Airdrop Season 2" class="wp-image-198926" srcset="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1536x864.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="SPACE ID Airdrop Season 2: Get Your Hands on 22.48 Million IDs Today! 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The airdrop application process provides users with an opportunity to enter the testing phase and explore the functionalities of the SPACE ID protocol. By participating in the airdrop, users can engage with the decentralized identity ecosystem and experience the benefits it offers.</p>
-
-
-
-<p>Decentralized identity solutions aim to empower individuals by giving them control over their personal data and digital identities. By leveraging blockchain technology, these solutions offer enhanced security, privacy, and interoperability. SPACE ID is at the forefront of this movement, providing a platform for users to create and manage their decentralized identities.</p>
-
-
-
-<p>The overwhelming response to the SPACE ID Season 2 Journey reflects the growing recognition of the importance of decentralized identity in the digital landscape. With hundreds of thousands of addresses actively participating, it demonstrates the increasing demand for innovative identity solutions that prioritize user control and privacy.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-1024x576.png" alt="SPACE ID Airdrop Season 2 1" class="wp-image-198928" srcset="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="SPACE ID Airdrop Season 2: Get Your Hands on 22.48 Million IDs Today! 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>As the airdrop application for the second season opens, users have a valuable opportunity to engage with the protocol, test its capabilities, and contribute to the ongoing development of decentralized identity solutions. By exploring the SPACE ID ecosystem, users can gain insights into the potential applications of decentralized identities and provide valuable feedback to further refine the protocol.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p id="block-522ef498-a505-4d0b-9a0d-b2e5cca12111">Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right" id="block-4fa7c042-0908-4ee5-9ff4-91607eb34413"><strong>Annie</strong></p>
-
-
-
-<p class="has-text-align-right" id="block-84ea04e6-519a-4165-8e39-faa42e0200e5"><strong>Coincu</strong>&nbsp;<strong>New</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/SPACE-ID-Airdrop-Season-2-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Binance Still In Crisis In Europe As Another Banking Partner Leaves</title>
-		<link>https://coincu.com/198896-binance-european-banking-partner/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 09:57:07 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[EEA]]></category>
-		<category><![CDATA[paysafe]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[SEPA]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=198896</guid>
-
-					<description><![CDATA[Binance is experiencing regulatory scrutiny and facing challenges with its banking partners.]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance is experiencing regulatory scrutiny and facing challenges with its banking partners.</em></li>
-
-
-
-<li><em>Paysafe Payment Solutions, the exchange&#8217;s European banking partner, will stop selling its integrated wallet solution to the platform in the European Economic Area from September 25.</em></li>
-
-
-
-<li><em>The exchange is also facing regulatory issues in Australia and Canada.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>As the crypto exchange Binance continues to undergo regulatory scrutiny throughout the world, banking partners have begun to distance themselves from the exchange.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2203.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2203-1024x576.png" alt="Binance Still In Crisis In Europe As Another Banking Partner Leaves" class="wp-image-198914" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2203-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2203-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2203-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2203-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2203.png 1056w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Still In Crisis In Europe As Another Banking Partner Leaves 19"></a></figure></div>
-
-
-<p>According to <em><a href="https://www.reuters.com/technology/binances-european-banking-partner-stop-support-sept-coindesk-2023-06-29/" target="_blank" rel="noreferrer noopener">Reuters</a></em>, Paysafe Payment Solutions, the exchange&#8217;s European banking partner, said on Thursday that it would discontinue selling its integrated wallet solution to the US cryptocurrency exchange throughout the European Economic Area (EEA) on September 25.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;Paysafe and Binance are now working to mutually implement an orderly and fair process to terminate this service over the next few months,&#8221; Paysafe said in an email.</p>
-</blockquote>
-
-
-
-<p>As a consequence, Binance will need to change its Euro deposit and withdrawal provider through the Single Euro Payments Area (SEPA). Yet, it remains unclear who the exchnage will choose following Paysafe. It has previously used payment intermediaries to get access to SEPA.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop.jpg"><img decoding="async" loading="lazy" width="1024" height="498" src="https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-1024x498.jpg" alt="Binance Still In Crisis In Europe As Another Banking Partner Leaves" class="wp-image-198921" srcset="https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-1024x498.jpg 1024w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-300x146.jpg 300w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-768x374.jpg 768w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-1536x747.jpg 1536w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-2048x996.jpg 2048w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-750x365.jpg 750w, https://coincu.com/wp-content/uploads/2023/06/Corporate-Homepage_Desktop-1140x554.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Still In Crisis In Europe As Another Banking Partner Leaves 20"></a></figure></div>
-
-
-<p>The claim comes as the exchange is being scrutinized by officials looking to crack down on money laundering.</p>
-
-
-
-<p>After the Securities and Exchange Commission&#8217;s regulatory action earlier this month, the crypto exchange has been losing market share. Yet, Binance retains a leading position over other worldwide cryptocurrency exchanges.</p>
-
-
-
-<p><a href="https://coincu.com/197924-binance-withdraws-approval-in-austria/" target="_blank" rel="noreferrer noopener">Binance</a> is under regulatory scrutiny not just in the United States but throughout the globe. Its derivatives license was revoked by the Australian Securities and Investments Commission in April. After that, local banks and payment partners ceased to engage with Binance Australia. But, last month, Binance stated that it would depart Canada owing to the country&#8217;s new cryptocurrency restrictions.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2205.png"><img decoding="async" loading="lazy" width="929" height="523" src="https://coincu.com/wp-content/uploads/2023/06/image-2205.png" alt="Binance Still In Crisis In Europe As Another Banking Partner Leaves" class="wp-image-198923" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2205.png 929w, https://coincu.com/wp-content/uploads/2023/06/image-2205-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2205-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2205-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="Binance Still In Crisis In Europe As Another Banking Partner Leaves 21"></a></figure></div>
-
-
-<p>According to <em><a href="https://protos.com/nomo-bank-latest-in-uk-to-block-binance-payments/" target="_blank" rel="noreferrer noopener">Protos</a></em>, Nomo Bank, a digital bank created in 2021, has also restricted consumer payments with the exchange.</p>
-
-
-
-<p>Binance and its U.S. affiliate agreed with the SEC earlier this month to keep U.S. customer funds in the nation until the regulatory agency&#8217;s complaint is resolved. The deal assures that assets belonging to US clients will remain in the nation until the SEC&#8217;s action is resolved.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Harold</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-2204-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Could Ethereum Value Reach $100K In 2034?</title>
-		<link>https://coincu.com/198905-could-ethereum-value-reach-100k-in-2034/</link>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 09:55:07 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Ethereumvalue]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=198905</guid>
-
-					<description><![CDATA[The Ethereum value has been a topic of debate for years, with many experts and enthusiasts predicting that the Ethereum value could reach astronomical levels in the coming years. In this article, we will explore the factors that could contribute to the Ethereum value reaching $100K by 2034. Can the Ethereum value reach $100K? The [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>The Ethereum value has been a topic of debate for years, with many experts and enthusiasts predicting that the Ethereum value could reach astronomical levels in the coming years. In this article, we will explore the factors that could contribute to the Ethereum value reaching $100K by 2034.</p>
-
-
-
-<h2 class="wp-block-heading"><strong>Can the Ethereum value reach $100K? </strong></h2>
-
-
-
-<p>The Ethereum value is supported by its position as one of the most development-heavy blockchain projects in the industry, giving it a solid foundation for future growth. While rival networks have emerged, Ethereum remains more significant, particularly in light of pressure from regulators that has affected other networks like Solana (SOL), Cardano (ADA), and Polygon (MATIC). However, Ethereum (ETH) was not deemed a security by the U.S. SEC (Securities and Exchange Commission), which keeps it at a reasonably safe distance from recent chaos.</p>
-
-
-
-<p>Furthermore, Ethereum has a lot of room to grow and a lot more use cases than Bitcoin. The difference in value between the two largest crypto projects is substantial, and that gap could narrow in the future. This suggests that the Ethereum value could increase substantially in the years to come, with some even forecasting that it could reach $100K by 2034. At present, Ethereum&#8217;s value is trading at $1,856, and its market cap is around $223B.</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
-<figure class="wp-block-image"><img decoding="async" src="https://f14-zpc.zdn.vn/6328432829105703348/0d32e06d920f42511b1e.jpg" alt="The Ethereum market cap" title="Could Ethereum Value Reach $100K In 2034? 22"><figcaption class="wp-element-caption">Source: The TradingView &#8211; The Ethereum market cap</figcaption></figure>
-</figure>
-
-
-
-<h2 class="wp-block-heading"><strong>Some factors can make the Ethereum value up!</strong></h2>
-
-
-
-<p>The crypto market has gained significant attention from Wall Street and traditional investment firms. Leading Wall Street companies such as Blackrock, Fidelity, INVESCO, Valkyrie, etc., have submitted applications to the SEC to register BTC ETFs. This move will allow institutional investors to invest in BTC through traditional investment vehicles such as mutual funds and ETFs.</p>
-
-
-
-<p>In addition, the Fortune 100, the 100 largest companies in the US, have shown a growing interest in the crypto market. As of now, 52% of these companies have entered the crypto market by investing in cryptocurrencies or developing blockchain-based solutions for their businesses. This trend has been further accelerated by establishing new crypto exchanges, such as EDX, jointly established by three large companies, Citadel, Fidelity, and Charles Schwab.</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex">
-<figure class="wp-block-image"><img decoding="async" src="https://f4-zpc.zdn.vn/1437246175987026372/006eec169e744e2a1765.jpg" alt="006eec169e744e2a1765" title="Could Ethereum Value Reach $100K In 2034? 23"><figcaption class="wp-element-caption">Source: The TradingView &#8211; The Ethereum value goes up as Elliott wave</figcaption></figure>
-</figure>
-
-
-
-<p>The crypto market has also attracted the attention of large banks such as Deutsche Bank, the top bank in Germany, and JPMorgan, one of the largest banks in the US. Deutsche Bank has registered to operate crypto custody services, while JPMorgan has launched its blockchain system called JPM coin. This move is significant because it shows that even traditional financial institutions recognize the potential of cryptocurrencies and blockchain technology.</p>
-
-
-
-<p>Finally, macroeconomic factors are also driving the trend toward cryptocurrencies. For instance, Hong Kong has welcomed crypto companies to open trading offices, which has made it easier for crypto companies to operate in the region. Meanwhile, Fed Chairman Powell believes that crypto is an asset, and stablecoins are currencies the Fed supervises. This recognition by the Fed is significant because it shows that cryptocurrencies are starting to gain legitimacy as an asset class.</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex">
-<figure class="wp-block-image"><img decoding="async" src="https://f28-zpc.zdn.vn/863307264327947068/8839d8e3a08170df2990.jpg" alt="8839d8e3a08170df2990" title="Could Ethereum Value Reach $100K In 2034? 24"><figcaption class="wp-element-caption">Source: The TradingView &#8211; The Ethereum value as RSI above 50</figcaption></figure>
-</figure>
-
-
-
-<p>These factors combined could contribute to the Ethereum value reaching $100K in 2034. However, it is essential to note that risks are also associated with investing in cryptocurrencies, including volatility and regulatory uncertainty. Investors should consider these risks before <a href="https://coincu.com/198147-may-the-ethereum-price-reach-2000-again/" data-type="URL" data-id="https://coincu.com/198147-may-the-ethereum-price-reach-2000-again/">investing in Ethereum</a> or any other cryptocurrency.</p>
-
-
-
-<p>In conclusion, the rise of cryptocurrencies is a trend that is here to stay. With more and more institutions stepping into the crypto market, it is clear that cryptocurrencies are becoming a legitimate asset class and will significantly impact the global economy in the coming years. The potential for blockchain technology is enormous, and it is expected to revolutionize many industries, from finance to healthcare to logistics. While risks are associated with investing in cryptocurrencies, the potential rewards are significant, and investors willing to take the risk could reap substantial rewards.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to DYOR before investing.</em></p>
-
-
-
-<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>David</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/7fd0bbe6ad857ddb2494-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
 	</channel>
 </rss>
