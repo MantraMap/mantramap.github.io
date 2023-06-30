@@ -408,4 +408,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3858 metric#misses=6 metric#hit-ratio=99.8 metric#bytes=6639723 metric#prefetches=399 metric#store-reads=16 metric#store-writes=2 metric#store-hits=403 metric#store-misses=1 metric#sql-queries=17 metric#ms-total=162.41 metric#ms-cache=14.71 metric#ms-cache-avg=0.8655 metric#ms-cache-ratio=9.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3857 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6639307 metric#prefetches=398 metric#store-reads=16 metric#store-writes=2 metric#store-hits=403 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=192.33 metric#ms-cache=16.70 metric#ms-cache-avg=0.9826 metric#ms-cache-ratio=8.7 -->
