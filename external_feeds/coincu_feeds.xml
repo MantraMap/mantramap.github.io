@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Sat, 01 Jul 2023 06:56:28 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Jul 2023 08:34:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,198 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking?</title>
+		<link>https://coincu.com/199377-asymetrix-protocol-refreshing-eth-liquid-staking/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2023 08:33:59 +0000</pubDate>
+				<category><![CDATA[Crypto 101]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[APR]]></category>
+		<category><![CDATA[Asymetrix Protocol]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[LSD]]></category>
+		<category><![CDATA[staking]]></category>
+		<category><![CDATA[stETH]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199377</guid>
+
+					<description><![CDATA[The Asymetrix protocol allows holders of a small amount of ETH to participate in the exciting world of LSDfi with high margins]]></description>
+										<content:encoded><![CDATA[
+<h5 class="wp-block-heading"><strong>Asymetrix Protocol is focused on Ethereum as the underlying asset because it is a top asset that natively generates yield. Asymetrix offers them the opportunity to centrally distribute the income of all bettors to a few lucky ones through a fair and transparent mechanism so that they can reap outstanding profits. In contrast, those who bet Other bettors keep their capital and don&#8217;t get any money.</strong></h5>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is Asymetrix Protocol?</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-16.png"><img decoding="async" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-16-1024x577.png" alt="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking?" class="wp-image-199380" srcset="https://coincu.com/wp-content/uploads/2023/07/image-16-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-16-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-16-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-16-1536x866.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-16-2048x1155.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-16-750x423.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-16-1140x643.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking? 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Asymetrix is a decentralized, non-custodial protocol for the asymmetric distribution of profits generated from staking.</p>
+
+
+
+<p>Asymetrix focuses on Ethereum as the underlying asset, as it is the leading asset that generates profits from staking. In creating the Asymetrix protocol, different <a href="https://coincu.com/191618-lsdfi-top-6-potential-projects/" target="_blank" rel="noreferrer noopener">liquidity staking derivatives (LSDs)</a> offered by different liquidity staking providers were evaluated.</p>
+
+
+
+<p>Currently, liquidity staking providers offer two types of LSD: c-Token (rewards are reflected in token prices, such as rETH, cbETH, and others) and a-Token (rebase, more generated rewards for more tokens, balance updates every 24 hours such as stETH).</p>
+
+
+
+<p>stETH was chosen as the main asset because of its transparency and product-market fit. The stETH token is currently the most dominant token in liquidity staking protocols, with a market capitalization of over $5 billion.</p>
+
+
+
+<p>With a unique staking mode, the platform allows its users to earn up to 999% APR in stETH. While some users may get a 0% staking bonus, the winners will receive an impressive 500% return on their investment.</p>
+
+
+
+<p>The goal is to create an analog of Premium Bonds in crypto with a large number of winners. Asymetrix is going to distribute staking rewards in a way that the basic average profitability for all users does not decrease significantly (e.g., 3% APR instead of 5% for ETH staking) while still offering the chance for super-large rewards (up to) 1 million USD equivalent).</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">How does the Asymetrix Protocol work?</h2>
+
+
+
+<p>The first step involves users depositing their stETH tokens into the Asymetrix protocol. On deposit, the protocol generates 1:1 Pool Sharing Tokens (PSTs) for the sent stETH and sends them to the user&#8217;s wallet. These PST tokens reflect the user&#8217;s share in the protocol and are required for withdrawals. Please note that the current version of the Asymetrix protocol has a minimum deposit of 0.1 stETH.</p>
+
+
+
+<p>In the second step, ETH staking rewards are accumulated within the protocol, with the balance of stETH growing at the current Lido Annual Percentage (APR) rate and updating every 24 hours.</p>
+
+
+
+<p>The third step involves distributing profits to users, with a random draw taking place every 604800 seconds (approximately once a week, with parameters adjusted at the discretion of the DAO). Winners are randomly selected with the help of Chainlink VFR and their exact win rate dynamically changes in real time. The user&#8217;s initial deposit remains in the protocol for the next withdrawal by default, so there is no need to re-enter it for each withdrawal manually.</p>
+
+
+
+<p>In the fourth step, winners will automatically receive their reward in the form of PST, which is equivalent to the amount of stETH won. The user&#8217;s balance is increased, automatically increasing the chances of winning in future draws. Therefore, it is unnecessary to claim the reward every time as it is done automatically.</p>
+
+
+
+<p>Finally, in the fifth step, the user can withdraw his initial deposit at any time. The Asymetrix protocol will burn their existing PST tokens for stETH tokens at a 1:1 ratio. Asymetrix is a non-custodial protocol, which means users have full control over their funds.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Why the Asymetrix Protocol adds excitement to ETH staking</h2>
+
+
+
+<p>ETH staking may be exciting for large stakers, but it may not be the same for smaller ones. For individual investors with limited funds, the annual rate of return brought by the ETH commitment is usually only around 5%, which makes it difficult to stimulate their investment interest. They often dive into the cryptocurrency market in search of higher profit margins. Besides, the betting process is also considered by users to be complicated but tedious. Therefore, the Asymetrix Protocol sought to overcome these shortcomings.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-15.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-15-1024x576.png" alt="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking?" class="wp-image-199379" srcset="https://coincu.com/wp-content/uploads/2023/07/image-15-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-15-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-15-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-15-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-15-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-15-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-15-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking? 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<ul>
+<li>Users deposit staking ETH (stETH) into a common pool powered by the smart contract;</li>
+
+
+
+<li>The general team makes a profit every 24 hours;</li>
+
+
+
+<li>The profits generated from this pool are distributed periodically (currently once a week) according to the protocol among the participants of the pool in a random and asymmetric manner;</li>
+
+
+
+<li>In any event, users keep their initial deposit and are exposed to an increased ETH price, fostering saving behaviour;</li>
+
+
+
+<li>All users receive rewards in ASX tokens as an initial distribution according to their stake in the protocol&#8217;s emissions schedule and TVL. See more details in ASX token distribution;</li>
+
+
+
+<li>Users always have access to their deposits and can withdraw them at any time.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Governance model</h2>
+
+
+
+<p>Asymetrix Protocol was a DAO with the ultimate goal of creating a fully decentralized protocol owned, controlled, and designed by the community.</p>
+
+
+
+<p>A user&#8217;s value in the DAO, represented by an ASX token, gives them weight in the governance vote. These tokens will be distributed among users and protocol participants.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Tokenomics</h2>
+
+
+
+<p>The protocol uses the AXS token as the governance token. By holding AXS tokens, users can participate in the governance process, where they can recommend and vote on various parameters and strategies affecting the operation and performance of the protocol.</p>
+
+
+
+<p>Asymetrix has developed a unique tokenomics model around cultivating thrifty behavior and providing equal earning opportunities for all users. The $ASX governance token, based on the ERC-20 standard, has a total supply of 100 million.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-17.png"><img decoding="async" loading="lazy" width="1024" height="436" src="https://coincu.com/wp-content/uploads/2023/07/image-17-1024x436.png" alt="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking?" class="wp-image-199381" srcset="https://coincu.com/wp-content/uploads/2023/07/image-17-1024x436.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-17-300x128.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-17-768x327.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-17-750x319.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-17-1140x485.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-17.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="How Is Asymetrix Protocol Refreshing The World Of ETH Liquid Staking? 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Token Allocation:</p>
+
+
+
+<ul>
+<li>50% of the tokens are allocated to the Community, with 40 million having a 12-month cliff followed by linear vesting over 48 months, and 10 million tokens available initially;</li>
+
+
+
+<li>25% of the tokens are allocated to the Team and Founders with a 12-month cliff and 48-month vesting period;</li>
+
+
+
+<li>25% are allocated to investors with a 12-month cliff and 48-month vesting period.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
+
+
+
+<p>The Asymetrix protocol allows holders of a small amount of ETH to participate in the exciting world of LSDfi, where they can enjoy high returns and randomness through asymmetric reward distribution. The protocol is also easy to use, as users simply deposit stETH into the smart contract and wait for weekly withdrawals.</p>
+
+
+
+<p>The Asymetrix protocol does exactly what its name suggests. It distributes bet profits asymmetrically. In other words, it randomly allocates additional bonuses as you bet. The protocol tries to attract as many people staking ETH. In return, you can get a great reward. In return, you can get a great reward. That&#8217;s why, now add Asymetrix to the mix. You can earn interest on your stETH and can withdraw at any time.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of&nbsp;<a href="https://coincu.com/">news</a>&nbsp;:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-38-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Largest Token Unlocks Event Worth Noting In July</title>
 		<link>https://coincu.com/199362-token-unlocks-event-in-july/</link>
 		
@@ -59,7 +251,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png"><img decoding="async" width="1024" height="419" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199365" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-768x314.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1536x629.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-750x307.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1140x467.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 1"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png"><img decoding="async" loading="lazy" width="1024" height="419" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199365" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1024x419.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-768x314.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1536x629.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-750x307.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30-1140x467.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.35.30.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 4"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">APT</h2>
@@ -70,7 +262,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10.png"><img decoding="async" loading="lazy" width="1024" height="416" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1024x416.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199366" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1024x416.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-768x312.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1536x623.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-750x304.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1140x463.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10.png 1838w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 2"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10.png"><img decoding="async" loading="lazy" width="1024" height="416" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1024x416.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199366" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1024x416.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-768x312.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1536x623.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-750x304.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10-1140x463.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.37.10.png 1838w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 5"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">IMX</h2>
@@ -81,7 +273,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26.png"><img decoding="async" loading="lazy" width="1024" height="413" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1024x413.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199367" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1024x413.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-300x121.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-768x310.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1536x619.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-750x302.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1140x460.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26.png 1830w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26.png"><img decoding="async" loading="lazy" width="1024" height="413" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1024x413.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199367" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1024x413.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-300x121.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-768x310.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1536x619.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-750x302.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26-1140x460.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.40.26.png 1830w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 6"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">APE</h2>
@@ -92,7 +284,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30.png"><img decoding="async" loading="lazy" width="1024" height="435" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1024x435.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199368" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1024x435.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-300x127.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-768x326.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1536x652.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-750x318.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1140x484.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30.png 1828w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 4"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30.png"><img decoding="async" loading="lazy" width="1024" height="435" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1024x435.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199368" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1024x435.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-300x127.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-768x326.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1536x652.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-750x318.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30-1140x484.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.42.30.png 1828w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 7"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">AXS</h2>
@@ -103,7 +295,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png"><img decoding="async" loading="lazy" width="1024" height="421" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199369" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-768x316.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1536x631.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-750x308.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1140x468.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15.png 1840w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 5"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png"><img decoding="async" loading="lazy" width="1024" height="421" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199369" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1024x421.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-768x316.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1536x631.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-750x308.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15-1140x468.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.46.15.png 1840w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 8"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">OP</h2>
@@ -114,7 +306,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png"><img decoding="async" loading="lazy" width="1024" height="416" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199370" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-768x312.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1536x624.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-750x305.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1140x463.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 6"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png"><img decoding="async" loading="lazy" width="1024" height="416" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png" alt="Largest Token Unlocks Event Worth Noting In July" class="wp-image-199370" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1024x416.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-768x312.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1536x624.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-750x305.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06-1140x463.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-01-at-13.49.06.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Token Unlocks Event Worth Noting In July 9"></a></figure></div>
 
 
 <p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
@@ -168,7 +360,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-14.png"><img decoding="async" loading="lazy" width="701" height="835" src="https://coincu.com/wp-content/uploads/2023/07/image-14.png" alt="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report" class="wp-image-199359" srcset="https://coincu.com/wp-content/uploads/2023/07/image-14.png 701w, https://coincu.com/wp-content/uploads/2023/07/image-14-252x300.png 252w" sizes="(max-width: 701px) 100vw, 701px" title="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-14.png"><img decoding="async" loading="lazy" width="701" height="835" src="https://coincu.com/wp-content/uploads/2023/07/image-14.png" alt="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report" class="wp-image-199359" srcset="https://coincu.com/wp-content/uploads/2023/07/image-14.png 701w, https://coincu.com/wp-content/uploads/2023/07/image-14-252x300.png 252w" sizes="(max-width: 701px) 100vw, 701px" title="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Wu reported that Huobi exchange has suffered a massive data leak, according to <a href="https://phillips.technology/blog/huobi-crypto-aws/" target="_blank" data-type="URL" data-id="https://phillips.technology/blog/huobi-crypto-aws/" rel="noreferrer noopener">Aaron Phillips</a>, a white hat security researcher. </p>
@@ -185,7 +377,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-13.png"><img decoding="async" loading="lazy" width="990" height="310" src="https://coincu.com/wp-content/uploads/2023/07/image-13.png" alt="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report" class="wp-image-199358" srcset="https://coincu.com/wp-content/uploads/2023/07/image-13.png 990w, https://coincu.com/wp-content/uploads/2023/07/image-13-300x94.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-13-768x240.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-13-750x235.png 750w" sizes="(max-width: 990px) 100vw, 990px" title="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report 8"></a><figcaption class="wp-element-caption">Huobi Leaks ‘Whale Reports’ on Wealthy Users, Source: <a href="https://phillips.technology/blog/huobi-crypto-aws/" data-type="URL" data-id="https://phillips.technology/blog/huobi-crypto-aws/" target="_blank" rel="noreferrer noopener">Aaron</a></figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-13.png"><img decoding="async" loading="lazy" width="990" height="310" src="https://coincu.com/wp-content/uploads/2023/07/image-13.png" alt="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report" class="wp-image-199358" srcset="https://coincu.com/wp-content/uploads/2023/07/image-13.png 990w, https://coincu.com/wp-content/uploads/2023/07/image-13-300x94.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-13-768x240.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-13-750x235.png 750w" sizes="(max-width: 990px) 100vw, 990px" title="Huobi Exchange Had Leaked OTC Transaction Info, User Data From 2017 To 2021: Report 11"></a><figcaption class="wp-element-caption">Huobi Leaks ‘Whale Reports’ on Wealthy Users, Source: <a href="https://phillips.technology/blog/huobi-crypto-aws/" data-type="URL" data-id="https://phillips.technology/blog/huobi-crypto-aws/" target="_blank" rel="noreferrer noopener">Aaron</a></figcaption></figure></div>
 
 
 <blockquote class="wp-block-quote has-small-font-size">
@@ -268,7 +460,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg.jpeg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1024x682.jpeg" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199351" srcset="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 9"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg.jpeg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1024x682.jpeg" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199351" srcset="https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1_cCe3FwIHV9YzyALH0znmKg.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 12"></a></figure></div>
 
 
 <p>Coinbase&#8217;s partnership with the planned ETFs might result in an increase in income at a time when the crypto-exchange sector is experiencing low volumes. Coinbase&#8217;s revenue last year was less than half of what it was in 2021, when the sector was booming. The announcement also comes amid Coinbase&#8217;s legal fight with the SEC, which accused the company of operating an unlawful exchange.</p>
@@ -287,7 +479,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-12.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-12-1024x682.png" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199353" srcset="https://coincu.com/wp-content/uploads/2023/07/image-12-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-12-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-12-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-12-750x499.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-12-1140x759.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 10"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-12.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-12-1024x682.png" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199353" srcset="https://coincu.com/wp-content/uploads/2023/07/image-12-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-12-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-12-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-12-750x499.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-12-1140x759.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-12.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 13"></a></figure></div>
 
 
 <p>All five that refiled on Friday said that Coinbase Global Inc. would offer market monitoring in support of their funds, which was not included in prior revisions.</p>
@@ -310,7 +502,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png"><img decoding="async" loading="lazy" width="1024" height="623" src="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199350" srcset="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-11-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-11-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-11-1536x935.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-11-2048x1246.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-11-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-11-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 11"></a><figcaption class="wp-element-caption">BTC price chart. <em>Source: TradingView</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png"><img decoding="async" loading="lazy" width="1024" height="623" src="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png" alt="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report" class="wp-image-199350" srcset="https://coincu.com/wp-content/uploads/2023/07/image-11-1024x623.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-11-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-11-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-11-1536x935.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-11-2048x1246.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-11-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-11-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase To Support Valkyrie And Bitwise Bitcoin Spot ETFs: Report 14"></a><figcaption class="wp-element-caption">BTC price chart. <em>Source: TradingView</em></figcaption></figure></div>
 
 
 <p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
@@ -376,7 +568,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-10.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-10-1024x576.png" alt="Logan Paul Hasn&#039;t Refunded $1.8M To CryptoZoo Scam NFT Buyers After 6 Months" class="wp-image-199347" srcset="https://coincu.com/wp-content/uploads/2023/07/image-10-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-10-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-10-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-10-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-10-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-10.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Logan Paul Hasn&#039;t Refunded $1.8M To CryptoZoo Scam NFT Buyers After 6 Months 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-10.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-10-1024x576.png" alt="Logan Paul Hasn&#039;t Refunded $1.8M To CryptoZoo Scam NFT Buyers After 6 Months" class="wp-image-199347" srcset="https://coincu.com/wp-content/uploads/2023/07/image-10-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-10-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-10-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-10-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-10-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-10.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Logan Paul Hasn&#039;t Refunded $1.8M To CryptoZoo Scam NFT Buyers After 6 Months 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Paul posted a video on 13 outlining his &#8220;three-step plan&#8221; right after receiving criticism to set things from YouTube investigators in January like Stephen &#8220;Coffeezilla&#8221; Findeisen became true. A month later, a class-action complaint was filed against the influencer, alleging that Paul and his crew had duped and taken advantage of CryptoZoo purchasers.</p>
@@ -458,7 +650,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-8.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-8-1024x512.png" alt="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3" class="wp-image-199337" srcset="https://coincu.com/wp-content/uploads/2023/07/image-8-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-8-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-8-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-8-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-8-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-8-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-8-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-8.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-8-1024x512.png" alt="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3" class="wp-image-199337" srcset="https://coincu.com/wp-content/uploads/2023/07/image-8-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-8-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-8-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-8-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-8-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-8-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-8-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-8.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>In a June 30 announcement, fintech firm GSR II Meteora Acquisition Corporation said its shareholders approved the merger so that the company would act as a special-purpose acquisition company for Bitcoin Depot. The deal, first reported in August 2022, is worth $885 million.</p>
@@ -473,7 +665,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-7.png"><img decoding="async" loading="lazy" width="567" height="425" src="https://coincu.com/wp-content/uploads/2023/07/image-7.png" alt="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3" class="wp-image-199336" srcset="https://coincu.com/wp-content/uploads/2023/07/image-7.png 567w, https://coincu.com/wp-content/uploads/2023/07/image-7-300x225.png 300w" sizes="(max-width: 567px) 100vw, 567px" title="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-7.png"><img decoding="async" loading="lazy" width="567" height="425" src="https://coincu.com/wp-content/uploads/2023/07/image-7.png" alt="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3" class="wp-image-199336" srcset="https://coincu.com/wp-content/uploads/2023/07/image-7.png 567w, https://coincu.com/wp-content/uploads/2023/07/image-7-300x225.png 300w" sizes="(max-width: 567px) 100vw, 567px" title="Largest Crypto ATM Provider Bitcoin Depot Lists On Nasdaq On July 3 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Bitcoin Depot will install thousands of crypto ATMs at Circle K-branded convenience stores in the US and Canada amid the cryptocurrency market boom.</p>
@@ -541,7 +733,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-4.png"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/image-4.png" alt="Franklin Templeton As Co-Chair Of CFTC&#039;s New Digital Asset Subcommittee" class="wp-image-199327" srcset="https://coincu.com/wp-content/uploads/2023/07/image-4.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-4-300x158.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="Franklin Templeton As Co-Chair Of CFTC&#039;s New Digital Asset Subcommittee 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-4.png"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/image-4.png" alt="Franklin Templeton As Co-Chair Of CFTC&#039;s New Digital Asset Subcommittee" class="wp-image-199327" srcset="https://coincu.com/wp-content/uploads/2023/07/image-4.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-4-300x158.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="Franklin Templeton As Co-Chair Of CFTC&#039;s New Digital Asset Subcommittee 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The U.S. Commodity and Derivatives Regulatory Authority has added new crypto industry market participants to a committee focused on digital assets, according to an agency<a href="https://www.cftc.gov/PressRoom/PressReleases/8740-23" target="_blank" rel="noreferrer noopener"> announcement </a>Friday.</p>
@@ -634,7 +826,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2.png"><img decoding="async" loading="lazy" width="660" height="440" src="https://coincu.com/wp-content/uploads/2023/07/image-2.png" alt="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint" class="wp-image-199320" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2.png 660w, https://coincu.com/wp-content/uploads/2023/07/image-2-300x200.png 300w" sizes="(max-width: 660px) 100vw, 660px" title="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2.png"><img decoding="async" loading="lazy" width="660" height="440" src="https://coincu.com/wp-content/uploads/2023/07/image-2.png" alt="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint" class="wp-image-199320" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2.png 660w, https://coincu.com/wp-content/uploads/2023/07/image-2-300x200.png 300w" sizes="(max-width: 660px) 100vw, 660px" title="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Cboe, on behalf of five issuers of a spot bitcoin ETF filed with the SEC on Friday. Updated filings have been submitted to the Invesco Galaxy Bitcoin ETF, VanEck Bitcoin Trust, WisdomTree Bitcoin Trust, and Wise Origin Bitcoin Trust.</p>
@@ -649,7 +841,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-3.png"><img decoding="async" loading="lazy" width="750" height="375" src="https://coincu.com/wp-content/uploads/2023/07/image-3.png" alt="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint" class="wp-image-199321" srcset="https://coincu.com/wp-content/uploads/2023/07/image-3.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-3-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-3-360x180.png 360w" sizes="(max-width: 750px) 100vw, 750px" title="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-3.png"><img decoding="async" loading="lazy" width="750" height="375" src="https://coincu.com/wp-content/uploads/2023/07/image-3.png" alt="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint" class="wp-image-199321" srcset="https://coincu.com/wp-content/uploads/2023/07/image-3.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-3-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-3-360x180.png 360w" sizes="(max-width: 750px) 100vw, 750px" title="Cboe Immediately Updates Bitcoin ETF Spot Profile After SEC Complaint 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The filings, in the second iteration, named Coinbase as part of a custody-sharing agreement for ETF applications by Wise Origin, WisdomTree, VanEck, and Invesco Galaxy.</p>
@@ -721,7 +913,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image.png"><img decoding="async" loading="lazy" width="1024" height="674" src="https://coincu.com/wp-content/uploads/2023/07/image-1024x674.png" alt="Kraken Is Requested By The IRS For Customer Information From $20,000" class="wp-image-199314" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1024x674.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-300x197.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-768x505.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-750x493.png 750w, https://coincu.com/wp-content/uploads/2023/07/image.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kraken Is Requested By The IRS For Customer Information From $20,000 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image.png"><img decoding="async" loading="lazy" width="1024" height="674" src="https://coincu.com/wp-content/uploads/2023/07/image-1024x674.png" alt="Kraken Is Requested By The IRS For Customer Information From $20,000" class="wp-image-199314" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1024x674.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-300x197.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-768x505.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-750x493.png 750w, https://coincu.com/wp-content/uploads/2023/07/image.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kraken Is Requested By The IRS For Customer Information From $20,000 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The IRS wants the exchange to identify accounts with more than $20,000 in crypto transactions annually between 2016 and 2020. Kraken has previously objected to the IRS subpoena partly because its concerns will create a great burden. The exchange called the agency&#8217;s summons an &#8220;irrational treasure hunt,&#8221; arguing that it crossed the line.</p>
@@ -742,7 +934,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1-1024x576.png" alt="Kraken Is Requested By The IRS For Customer Information From $20,000" class="wp-image-199315" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kraken Is Requested By The IRS For Customer Information From $20,000 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1-1024x576.png" alt="Kraken Is Requested By The IRS For Customer Information From $20,000" class="wp-image-199315" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kraken Is Requested By The IRS For Customer Information From $20,000 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Kraken is a leading cryptocurrency exchange with a daily trading volume of around $650 million globally, according to CoinMarketCap. The company did not immediately respond to an email request for comment on the ruling.</p>
@@ -809,7 +1001,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2318.png"><img decoding="async" loading="lazy" width="1024" height="529" src="https://coincu.com/wp-content/uploads/2023/06/image-2318-1024x529.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199306" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2318-1024x529.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2318-300x155.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2318-768x396.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2318-1536x793.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2318-750x387.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2318-1140x588.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2318.png 1860w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 20"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2318.png"><img decoding="async" loading="lazy" width="1024" height="529" src="https://coincu.com/wp-content/uploads/2023/06/image-2318-1024x529.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199306" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2318-1024x529.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2318-300x155.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2318-768x396.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2318-1536x793.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2318-750x387.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2318-1140x588.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2318.png 1860w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 23"></a></figure></div>
 
 
 <p>QuickNode claims that XRPL may be used for a variety of purposes, including tokenization, CBDC, DeFi, and stablecoins. This integration intends to enable developers within the XRPL ecosystem and boost Web3 technology adoption via dependable and efficient blockchain solutions.</p>
@@ -824,7 +1016,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2320.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2320-1024x576.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199308" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2320-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2320-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2320-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2320-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2320-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2320.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 21"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2320.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2320-1024x576.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199308" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2320-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2320-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2320-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2320-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2320-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2320.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 24"></a></figure></div>
 
 
 <p>A Proof-of-Association (PoA) consensus method underpins the XRPL&#8217;s functionality. Validators, or network servers, achieve consensus every 3-5 seconds, assuring the sequence and result of XRP transactions. The XRPL&#8217;s robust encryption assures the system&#8217;s integrity, while transaction openness provides public accountability.</p>
@@ -839,7 +1031,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2321.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2321-1024x512.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199309" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2321-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2321-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2321-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2321-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2321-2048x1024.png 2048w, https://coincu.com/wp-content/uploads/2023/06/image-2321-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2321-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2321-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 22"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2321.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/06/image-2321-1024x512.png" alt="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger" class="wp-image-199309" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2321-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2321-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2321-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2321-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-2321-2048x1024.png 2048w, https://coincu.com/wp-content/uploads/2023/06/image-2321-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/06/image-2321-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2321-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Development Platform QuickNode Now Adds Support For XRP Ledger 25"></a></figure></div>
 
 
 <p>QuickNode <a href="https://coincu.com/162220-quicknodes-series-b-round-valuation/" target="_blank" rel="noreferrer noopener">received</a> $60 million in Series B fundraising in January of this year, valuing the company at $800 million. Dan Tapiero&#8217;s 10T Holdings led the round, and Tapiero will also join QuickNode&#8217;s board of directors. According to The Block, other Series B backers included Reddit founder Alexis Ohanian&#8217;s Seven Seven Six, Protocol Labs, Tiger Global, and QED Investments.</p>
@@ -868,102 +1060,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-2322-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Celsius Can Convert All Altcoins To BTC, ETH After July 1</title>
-		<link>https://coincu.com/199297-celsius-can-convert-all-altcoins-to-btc-eth/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 30 Jun 2023 15:53:32 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[AAVE]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[BTC]]></category>
-		<category><![CDATA[Celsius]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Maker]]></category>
-		<category><![CDATA[Voyager Digital]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=199297</guid>
-
-					<description><![CDATA[Celsius can now sell altcoins and plans to pay creditors in Bitcoin and Ethereum.]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Celsius can now sell altcoins and plans to pay creditors in Bitcoin and Ethereum.</em></li>
-
-
-
-<li><em>The decision was made after discussions with the SEC regarding regulatory requirements for less popular cryptocurrencies.</em></li>
-
-
-
-<li><em>Celsius holds altcoins worth $218 million but filed for bankruptcy and is focusing on paying off debts while customer withdrawals remain on hold.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Celsius just <a href="https://cases.stretto.com/public/x191/11749/PLEADINGS/1174906302380000000027.pdf" target="_blank" rel="noreferrer noopener">stated</a> that it had been given permission to begin liquidating its altcoins, as this insolvent cryptocurrency lender intends to payout to creditors using only the two most prominent cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH).</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2315-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/06/image-2315-1024x576.png" alt="Celsius Can Convert All Altcoins To BTC, ETH After July 1" class="wp-image-199300" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2315-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2315-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2315-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2315-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2315-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2315.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Can Convert All Altcoins To BTC, ETH After July 1 23"></a></figure></div>
-
-
-<p>Bankruptcy Judge Martin Glenn of the Southern District of New York accepted the action, which Celsius suggested following conversations with the Securities and Exchange Commission (SEC), which has said that a spectrum of less-used crypto coins needs regulatory permission.</p>
-
-
-
-<p>On July 1, 2023, Celsius will be able to sell or convert any non-BTC and non-ETH cryptocurrency into BTC or ETH. Celsius has $70.5 million in CEL, $51.8 million in MATIC, $26.2 million in ADA, $17.3 million in LINK, and $14.4 million in LTC, among other investments.</p>
-
-
-
-<p>The cryptocurrencies owned by Celsius amount to $218 million, according to an alleged balance sheet that went viral in April and include CEL, MATIC, ADA, LINK, LTC, DOT, BCH, AAVE, UNI, XLM, SOL, EOS, FIT, SRM, and BNB. Celsius&#8217; native token is CEL, while the remainder is largely MATIC and ADA.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2316-1024x768.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/06/image-2316-1024x768.png" alt="Celsius Can Convert All Altcoins To BTC, ETH After July 1" class="wp-image-199301" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2316-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2316-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2316-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2316-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2316.png 1136w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Can Convert All Altcoins To BTC, ETH After July 1 24"></a></figure></div>
-
-
-<p>The company has been in regular contact with the SEC and certain state regulatory agencies regarding the proposed distribution of cryptocurrency under the plan to ensure that all such distributions are in full compliance with applicable federal and state laws and regulations, according to the filing.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2317-1024x682.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/06/image-2317-1024x682.png" alt="Celsius Can Convert All Altcoins To BTC, ETH After July 1" class="wp-image-199302" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2317-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2317-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2317-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2317-750x499.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2317-1140x759.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2317.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Can Convert All Altcoins To BTC, ETH After July 1 25"></a></figure></div>
-
-
-<p>Celsius revealed on July 13, 2022, that it has filed for Chapter 11 bankruptcy in the United States District Court for the Southern District of New York. The organization said that it intends to continue functioning during the restructuring, albeit withdrawals will remain halted for the time being.</p>
-
-
-
-<p>They have aggressively paid off project debt since then. In particular, the company spent about $800 million on Aave, Maker, and Compound.</p>
-
-
-
-<p>Paying clients, on the other hand, is more challenging; a year has passed and many customers are still unable to take their funds. Nevertheless, insolvent cryptocurrency firms like BlockFi and Voyager Digital have declared that consumers would be able to withdraw their cash this summer.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to<a href="https://coincu.com" target="_blank" rel="noreferrer noopener"> keep track of news</a>:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Harold</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-2314-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
