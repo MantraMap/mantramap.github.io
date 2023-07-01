@@ -383,4 +383,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3890 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6637387 metric#prefetches=399 metric#store-reads=16 metric#store-writes=2 metric#store-hits=404 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=199.55 metric#ms-cache=16.78 metric#ms-cache-avg=0.9871 metric#ms-cache-ratio=8.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3810 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6623440 metric#prefetches=319 metric#store-reads=69 metric#store-writes=3 metric#store-hits=404 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=227.46 metric#ms-cache=23.37 metric#ms-cache-avg=0.3291 metric#ms-cache-ratio=10.3 sample#redis-hits=2626418806 sample#redis-misses=2093682 sample#redis-hit-ratio=99.9 sample#redis-ops-per-sec=152 sample#redis-evicted-keys=0 sample#redis-used-memory=793081656 sample#redis-used-memory-rss=804638720 sample#redis-memory-fragmentation-ratio=1.0 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=1717886 -->
