@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Mon, 03 Jul 2023 08:39:43 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 03 Jul 2023 09:37:30 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,72 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Poly Network Urges Users To Withdraw Funds After Another Exploit]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/poly-network-urges-users-to-withdraw-funds-after-another-exploit</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/poly-hack.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/poly-hack.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/poly-hack.jpg" length="528" type="image/jpg" />
+			  <pubDate>Mon, 03 Jul 2023 08:39:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/poly-network-urges-users-to-withdraw-funds-after-another-exploit</guid>
+			  <description><![CDATA[<p>The Poly Network has fallen victim to another exploit after hackers manipulated a smart contract function on the cross-chain bridge protocol.&nbsp;</p>
+<p>Poly Network confirmed the hack, adding that it would be temporarily suspending all services.&nbsp;</p>
+57 Crypto Assets Impacted&nbsp;
+<p>The attack on Poly Network occurred on the 2nd of July, resulting in the hacker being able to issue billions of tokens seemingly out of thin air to generate a profit. Poly Network confirmed the attack through its official Twitter handle, stating that it had become the latest DeFi entity to fall victim to a hack, adding that it was temporarily suspending services. The update also stated that the exploit had impacted 57 crypto assets based on ten blockchains, including BNB Chain, Ethereum, Avalanche, Polygon, OKx, Heco, and others.&nbsp;</p>
+<p>While it isn&rsquo;t clear how much has been stolen in the attack, PeckShield has reported that the attacker had transferred at least $5 million worth of crypto from the cross-chain bridge. In an update issued on the 3rd of July, the Poly Network team stated,&nbsp;</p>
+
+<p>&ldquo;We have already initiated communication with centralized exchanges and law enforcement agencies and sought their assistance.&rdquo;</p>
+
+<p>The team further advised token holders to withdraw liquidity and unlock their liquidity provider tokens.&nbsp;</p>
+Poly Network Hack Breakdown&nbsp;
+<p>According to DeFi security analyst @0xArhat, the exploit stemmed from a smart contract vulnerability that allowed the hackers to create a malicious parameter that contained a fake validator signature and block header. The smart contract accepted this malicious parameter, allowing the hacker to bypass the verification process and issue tokens from Poly Network&rsquo;s Ethereum pool to their address on other chains such as BNB Chain, Polygon, and Metis. The same procedure was repeated for other chains, resulting in a massive pile-up of tokens.&nbsp;</p>
+<p>According to @0xArhat, the hacker&rsquo;s wallet held over $42 billion worth of tokens at one point. However, the hacker could only convert and steal a fraction of the tokens. The attackers had minted 24 billion Binance USD (BUSD) and BNB on the Metis blockchain, 999 trillion Shiba Inu (SHIB) on the Heco blockchain, and millions of other tokens on other prominent networks such as Polygon and Avalanche.&nbsp;</p>
+
+<p>&ldquo;This way, the hacker was able to mint billions of tokens on various blockchains that did not exist before and transfer them to their own wallet addresses.&rdquo;</p>
+
+<p>Dedaub has dubbed the latest hack to hit Poly Network as the &ldquo;34 billion Poly Network hack.&rdquo; He also highlighted several weaknesses in the protocol&rsquo;s multi-sig, adding that it only had a simple 3 of 4 multi-signature arrangement for over two years.&nbsp;</p>
+
+<p>&ldquo;Getting to the bottom of the &ldquo;34 billion&rdquo; Poly network hack with a technical postmortem. TL;DR Poly network had a simple 3 of 4 multisig arrangement over 2 years! Looking at the final event, we found that the private keys to the addresses marked were compromised.&rdquo;</p>
+
+<p>According to the blockchain security solutions provider, the attack was not complex, as no logic bugs were exploited. Poly Network itself was slow to respond, eventually costing the platform $5.5 million in stolen crypto. However, a lack of liquidity in a majority of the tokens in question prevented further significant losses.&nbsp;</p>
+Binance, Polygon Reassure Users&nbsp;
+<p>Following the attack on the Poly Network, Binance CEO Changpeng Zhao stated that the exploit does not impact Binance users, adding that it did not support deposits from the Poly Network. Polygon&rsquo;s Mudit Gupta stated on Twitter,&nbsp;</p>
+
+<p>&ldquo;Poly Network got rekt again, allegedly because of compromised hot keys. It&rsquo;s going to keep happening until our industry changes our approach to security. Smart contract audits only scratch the surface. Ps Poly network has NOTHING to do with Polygon.&rdquo;</p>
+
+Poly Network&rsquo;s Previous Hack&nbsp;
+<p>This was the second time a major hack hit the Poly Network. In August 2021, the protocol was hit by attackers who managed to drain a then-record $600 million through the alleged leak of a private key that was used to sign a cross-chain message. As a result, the Poly Network lost $264 million in ETH, $250 million in BSC, and $85 million in MATIC. However, Poly Network later updated that the hacker had returned the stolen funds, with the hacker claiming the attack was orchestrated for fun, and even offered the anonymous hacker a job as the Chief Security Advisor to the protocol, adding that it won&rsquo;t be pressing any charges.&nbsp;</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>The Poly Network has fallen victim to another exploit after hackers manipulated a smart contract function on the cross-chain bridge protocol.&nbsp;</p>
+<p>Poly Network confirmed the hack, adding that it would be temporarily suspending all services.&nbsp;</p>
+57 Crypto Assets Impacted&nbsp;
+<p>The attack on Poly Network occurred on the 2nd of July, resulting in the hacker being able to issue billions of tokens seemingly out of thin air to generate a profit. Poly Network confirmed the attack through its official Twitter handle, stating that it had become the latest DeFi entity to fall victim to a hack, adding that it was temporarily suspending services. The update also stated that the exploit had impacted 57 crypto assets based on ten blockchains, including BNB Chain, Ethereum, Avalanche, Polygon, OKx, Heco, and others.&nbsp;</p>
+<p>While it isn&rsquo;t clear how much has been stolen in the attack, PeckShield has reported that the attacker had transferred at least $5 million worth of crypto from the cross-chain bridge. In an update issued on the 3rd of July, the Poly Network team stated,&nbsp;</p>
+
+<p>&ldquo;We have already initiated communication with centralized exchanges and law enforcement agencies and sought their assistance.&rdquo;</p>
+
+<p>The team further advised token holders to withdraw liquidity and unlock their liquidity provider tokens.&nbsp;</p>
+Poly Network Hack Breakdown&nbsp;
+<p>According to DeFi security analyst @0xArhat, the exploit stemmed from a smart contract vulnerability that allowed the hackers to create a malicious parameter that contained a fake validator signature and block header. The smart contract accepted this malicious parameter, allowing the hacker to bypass the verification process and issue tokens from Poly Network&rsquo;s Ethereum pool to their address on other chains such as BNB Chain, Polygon, and Metis. The same procedure was repeated for other chains, resulting in a massive pile-up of tokens.&nbsp;</p>
+<p>According to @0xArhat, the hacker&rsquo;s wallet held over $42 billion worth of tokens at one point. However, the hacker could only convert and steal a fraction of the tokens. The attackers had minted 24 billion Binance USD (BUSD) and BNB on the Metis blockchain, 999 trillion Shiba Inu (SHIB) on the Heco blockchain, and millions of other tokens on other prominent networks such as Polygon and Avalanche.&nbsp;</p>
+
+<p>&ldquo;This way, the hacker was able to mint billions of tokens on various blockchains that did not exist before and transfer them to their own wallet addresses.&rdquo;</p>
+
+<p>Dedaub has dubbed the latest hack to hit Poly Network as the &ldquo;34 billion Poly Network hack.&rdquo; He also highlighted several weaknesses in the protocol&rsquo;s multi-sig, adding that it only had a simple 3 of 4 multi-signature arrangement for over two years.&nbsp;</p>
+
+<p>&ldquo;Getting to the bottom of the &ldquo;34 billion&rdquo; Poly network hack with a technical postmortem. TL;DR Poly network had a simple 3 of 4 multisig arrangement over 2 years! Looking at the final event, we found that the private keys to the addresses marked were compromised.&rdquo;</p>
+
+<p>According to the blockchain security solutions provider, the attack was not complex, as no logic bugs were exploited. Poly Network itself was slow to respond, eventually costing the platform $5.5 million in stolen crypto. However, a lack of liquidity in a majority of the tokens in question prevented further significant losses.&nbsp;</p>
+Binance, Polygon Reassure Users&nbsp;
+<p>Following the attack on the Poly Network, Binance CEO Changpeng Zhao stated that the exploit does not impact Binance users, adding that it did not support deposits from the Poly Network. Polygon&rsquo;s Mudit Gupta stated on Twitter,&nbsp;</p>
+
+<p>&ldquo;Poly Network got rekt again, allegedly because of compromised hot keys. It&rsquo;s going to keep happening until our industry changes our approach to security. Smart contract audits only scratch the surface. Ps Poly network has NOTHING to do with Polygon.&rdquo;</p>
+
+Poly Network&rsquo;s Previous Hack&nbsp;
+<p>This was the second time a major hack hit the Poly Network. In August 2021, the protocol was hit by attackers who managed to drain a then-record $600 million through the alleged leak of a private key that was used to sign a cross-chain message. As a result, the Poly Network lost $264 million in ETH, $250 million in BSC, and $85 million in MATIC. However, Poly Network later updated that the hacker had returned the stolen funds, with the hacker claiming the attack was orchestrated for fun, and even offered the anonymous hacker a job as the Chief Security Advisor to the protocol, adding that it won&rsquo;t be pressing any charges.&nbsp;</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Bitcoin Price Analysis:  Orbiting 30491 Technicals - 3 July 2023]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/bitcoin-price-analysis-orbiting-30491-technicals-3-july-2023</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/btcusd-2-july-2023-240-1920-1080.jpg" medium="image" />
@@ -880,18 +946,6 @@ Battlegrounds need to be won
 <p>With such a globally important regulator as the Securities and Exchange Commission (SEC) accusing CZ of embezzlement of customer funds among other allegations, obtaining regulatory licences in other countries is going to be difficult, at least until it is known how the accusations are likely to pan out.</p>
 <p>Given that Binance is such an important exchange in the crypto ecosystem many may be hoping that it is able to resist the SEC. Both Binance and Coinbase are very important battlegrounds that need to be fought and won if the crypto industry is to reinject some momentum into the beleaguered asset class.</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Memecoin MOOKY Raises $900,000 Ahead of Its Final Presale Stage]]></title>
-			  <link>https://cryptodaily.co.uk/2023/06/memecoin-mooky-raises-900000-ahead-of-its-final-presale-stage</link>
-			  <media:content url="https://app.chainwire.org/storage/uploads/users/twt_101_1_1688059768gfAiBu9ZOa.jpg" medium="image" />
-			  <media:thumbnail url="https://app.chainwire.org/storage/uploads/users/twt_101_1_1688059768gfAiBu9ZOa.jpg" />
-			  <enclosure url="http://app.chainwire.org/storage/uploads/users/twt_101_1_1688059768gfAiBu9ZOa.jpg" length="528" type="image/jpg" />
-			  <pubDate>Fri, 30 Jun 2023 11:32:49 +0100</pubDate>
-			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/06/memecoin-mooky-raises-900000-ahead-of-its-final-presale-stage</guid>
-			  <description><![CDATA[<p>New York, New York, June 30th, 2023, Chainwire</p><p>Memecoin Mooky is gearing up for its final presale phase, having raised $900,000 to date. More than just a novel crypto token, Mooky aims to support the environment through a major tree-planting campaign.</p><p>Mooky will be a community-driven platform whose governance lies in the hands of its token holders. While the MOOKY token draws its cues from other successful memecoins, the project has a more ambitious mandate. Mooky was conceived to increase awareness of global environmental challenges and to provide real-world solutions.</p><p></p><p>The project aims to raise enough funds to sustain an extensive reforestation initiative in key locations around the world. As part of its commitment to nature, Mooky has earmarked donations to charities working on sustainable environmental causes.</p><p>From a crypto-economic perspective, the MOOKY token features zero tax and low slippage, providing ample incentives for traders to get involved. Underpinning the project is a deep lore that aligns with Mooky&rsquo;s core goals.</p><p>Mooky is based on the concept of a mythical land called Pygmy. This fantastical realm has stunning landscapes, abundant vegetation, and wildlife. As settlers came to the island, they destroyed the vegetation and polluted the air. The monkeys of Pygmy decide to fight back peacefully, teaching the settlers how to respect nature and live harmoniously. Under the leadership of Mooky, they become united and restore nature.</p><p></p><p>To support the project&rsquo;s development while providing greater opportunities for community participation, Mooky has created a collection of 1,000 NFTs. Each NFT is linked to a tree planted in the real world. Holders can access the Ventures Club, which grants access to exclusive rewards and events.</p><p>With five days left in the $MOOKY token presale, there is still ample opportunity for crypto holders to get involved and capture the upside to a project that combines memes and nature to great effect.</p><p>About MOOKY</p><p>MOOKY is a community-driven initiative launched in 2023 that embraces the spirit of digital innovation to make a positive impact on the environment. More than just a meme token, MOOKY represents a global community united by a common goal: to inspire change and contribute to global tree-planting efforts.</p><p>MOOKY also stands as a symbol of creativity in the digital space, offering unique 3D NFTs that are each linked to real-world tree-planting initiatives. These NFTs serve not only as digital collectibles but also as an entry ticket to the exclusive Mooky Ventures Club, a vibrant community of environmentally conscious enthusiasts.</p><p>MOOKY is more than a digital token; it's a movement aiming to better our environment while fostering a unique and engaging digital ecosystem. Join MOOKY in its journey to make a difference and follow the community on various social channels to stay updated.</p><p>Users can purchase MOOKY here.</p><p>Website | Presale | Telegram | Instagram | Twitter | Discord</p>ContactMookashi Ncontact@mooky.io]]></description>
-			  <content:encoded><![CDATA[<p>New York, New York, June 30th, 2023, Chainwire</p><p>Memecoin Mooky is gearing up for its final presale phase, having raised $900,000 to date. More than just a novel crypto token, Mooky aims to support the environment through a major tree-planting campaign.</p><p>Mooky will be a community-driven platform whose governance lies in the hands of its token holders. While the MOOKY token draws its cues from other successful memecoins, the project has a more ambitious mandate. Mooky was conceived to increase awareness of global environmental challenges and to provide real-world solutions.</p><p></p><p>The project aims to raise enough funds to sustain an extensive reforestation initiative in key locations around the world. As part of its commitment to nature, Mooky has earmarked donations to charities working on sustainable environmental causes.</p><p>From a crypto-economic perspective, the MOOKY token features zero tax and low slippage, providing ample incentives for traders to get involved. Underpinning the project is a deep lore that aligns with Mooky&rsquo;s core goals.</p><p>Mooky is based on the concept of a mythical land called Pygmy. This fantastical realm has stunning landscapes, abundant vegetation, and wildlife. As settlers came to the island, they destroyed the vegetation and polluted the air. The monkeys of Pygmy decide to fight back peacefully, teaching the settlers how to respect nature and live harmoniously. Under the leadership of Mooky, they become united and restore nature.</p><p></p><p>To support the project&rsquo;s development while providing greater opportunities for community participation, Mooky has created a collection of 1,000 NFTs. Each NFT is linked to a tree planted in the real world. Holders can access the Ventures Club, which grants access to exclusive rewards and events.</p><p>With five days left in the $MOOKY token presale, there is still ample opportunity for crypto holders to get involved and capture the upside to a project that combines memes and nature to great effect.</p><p>About MOOKY</p><p>MOOKY is a community-driven initiative launched in 2023 that embraces the spirit of digital innovation to make a positive impact on the environment. More than just a meme token, MOOKY represents a global community united by a common goal: to inspire change and contribute to global tree-planting efforts.</p><p>MOOKY also stands as a symbol of creativity in the digital space, offering unique 3D NFTs that are each linked to real-world tree-planting initiatives. These NFTs serve not only as digital collectibles but also as an entry ticket to the exclusive Mooky Ventures Club, a vibrant community of environmentally conscious enthusiasts.</p><p>MOOKY is more than a digital token; it's a movement aiming to better our environment while fostering a unique and engaging digital ecosystem. Join MOOKY in its journey to make a difference and follow the community on various social channels to stay updated.</p><p>Users can purchase MOOKY here.</p><p>Website | Presale | Telegram | Instagram | Twitter | Discord</p>ContactMookashi Ncontact@mooky.io]]></content:encoded>
 			</item>
 					
 	</channel>
