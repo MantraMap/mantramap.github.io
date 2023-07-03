@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Mon, 03 Jul 2023 06:53:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Jul 2023 07:33:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,381 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>What Is Average True Range (ATR)?</title>
+		<link>https://coincu.com/199639-what-is-average-true-range-atr/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2023 05:24:48 +0000</pubDate>
+				<category><![CDATA[Knowledge]]></category>
+		<category><![CDATA[ATR]]></category>
+		<category><![CDATA[Average True Range]]></category>
+		<category><![CDATA[Technical Analysis]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199639</guid>
+
+					<description><![CDATA[Average True Range (ATR) is a technical analysis indicator used to measure the volatility or the degree of price movement in a financial instrument, such as stocks, commodities, or currencies, over a specific period of time. ]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What Is Average True Range?</h2>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-112.png"><img decoding="async" width="874" height="558" src="https://coincu.com/wp-content/uploads/2023/07/image-112.png" alt="What Is Average True Range (ATR)?" class="wp-image-199645" srcset="https://coincu.com/wp-content/uploads/2023/07/image-112.png 874w, https://coincu.com/wp-content/uploads/2023/07/image-112-300x192.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-112-768x490.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-112-750x479.png 750w" sizes="(max-width: 874px) 100vw, 874px" title="What Is Average True Range (ATR)? 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Average True Range (ATR) is a technical analysis indicator used to measure the volatility or the degree of price movement in a financial instrument, such as stocks, commodities, or currencies, over a specific period of time. It was developed by J. Welles Wilder and introduced in his book &#8220;New Concepts in Technical Trading Systems.&#8221;</p>
+
+
+
+<p>The ATR calculates the average range between the high and low prices of an asset over a given number of periods. It considers any gaps between consecutive periods and incorporates these into the calculation. The ATR is typically presented as a value or a percentage of the asset&#8217;s current price.</p>
+
+
+
+<p>Traders and analysts use the ATR to gain insights into the potential volatility and range of price movement for an asset. A higher ATR value suggests greater volatility, while a lower ATR value indicates lower volatility. Traders may use the ATR to determine stop-loss levels, set profit targets, or identify potential breakout points.</p>
+
+
+
+<p>To calculate the ATR, the following steps are generally followed:</p>
+
+
+
+<ol>
+<li>Calculate the true range (ATR) for each period. The true range is the greatest of the following three values:
+<ul>
+<li>The difference between the current period&#8217;s high and low prices.</li>
+
+
+
+<li>The absolute value of the difference between the current period&#8217;s high and the previous period&#8217;s close.</li>
+
+
+
+<li>The absolute value of the difference between the current period&#8217;s low and the previous period&#8217;s close.</li>
+</ul>
+</li>
+
+
+
+<li>Determine the average true range (ATR) over the desired number of periods by calculating the moving average of the true range values. Typically, a 14-day period is commonly used, but this can be adjusted based on the trader&#8217;s preference or the characteristics of the asset being analyzed.</li>
+</ol>
+
+
+
+<p>The ATR is a useful tool for assessing volatility and making informed trading decisions. However, it should be used in conjunction with other technical indicators and fundamental analysis to form a comprehensive trading strategy.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Importance of ATR</h2>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-110.png"><img decoding="async" loading="lazy" width="602" height="345" src="https://coincu.com/wp-content/uploads/2023/07/image-110.png" alt="What Is Average True Range (ATR)?" class="wp-image-199643" srcset="https://coincu.com/wp-content/uploads/2023/07/image-110.png 602w, https://coincu.com/wp-content/uploads/2023/07/image-110-300x172.png 300w" sizes="(max-width: 602px) 100vw, 602px" title="What Is Average True Range (ATR)? 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The Average True Range (ATR) is an important tool for traders and analysts due to its several key benefits and applications:</p>
+
+
+
+<ol>
+<li>Volatility Measurement: ATR provides a reliable measure of price volatility. By understanding the level of volatility in an asset, traders can adjust their trading strategies accordingly. High ATR values indicate higher volatility, suggesting larger price swings and potentially increased risk. Conversely, low ATR values indicate lower volatility, implying more stable price movements.</li>
+
+
+
+<li>Stop Loss Placement: ATR helps traders determine appropriate stop-loss levels for their trades. By setting stop-loss orders based on the ATR, traders can account for the natural fluctuations in price and avoid being prematurely stopped out by minor price movements. Wider stop-loss levels can be set for assets with higher ATR, while tighter levels can be used for low-volatility assets.</li>
+
+
+
+<li>Position Sizing: ATR can assist traders in determining the appropriate position size for their trades. By considering the ATR value, traders can adjust their position sizes based on their risk tolerance and the level of volatility in the market. Higher ATR values may warrant smaller position sizes to limit potential losses, while lower ATR values may allow for larger position sizes.</li>
+
+
+
+<li>Trend Identification: ATR can be used to identify periods of increasing or decreasing volatility, which can be indicative of changes in market trends. A rising ATR may suggest a strengthening trend or an upcoming breakout, while a declining ATR may indicate a weakening trend or a period of consolidation. Traders can use this information to make informed decisions about entering or exiting positions.</li>
+
+
+
+<li>Breakout Strategies: ATR is often employed in breakout trading strategies. Breakouts occur when prices move beyond established support or resistance levels. Traders can use the ATR to set appropriate entry points for breakout trades. By incorporating the ATR into their strategies, traders can adjust their entry levels based on the current volatility, potentially improving their chances of capturing significant price moves.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">How To Calculate ATR? </h2>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-111.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-111-1024x576.png" alt="What Is Average True Range (ATR)?" class="wp-image-199644" srcset="https://coincu.com/wp-content/uploads/2023/07/image-111-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-111-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-111-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-111-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-111-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-111.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="What Is Average True Range (ATR)? 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The Average True Range (ATR) is calculated using the following steps:</p>
+
+
+
+<ol>
+<li>Calculate the True Range (TR) for each period:<ul><li>TR = max(high &#8211; low, abs(high &#8211; previous close), abs(low &#8211; previous close))</li></ul>The True Range is determined by taking the highest value among three calculations: a) The difference between the high and low prices of the current period. b) The absolute value of the difference between the high of the current period and the previous close. c) The absolute value of the difference between the low of the current period and the previous close.</li>
+
+
+
+<li>Determine the Average True Range (ATR) over the desired number of periods:<ul><li>ATR = Moving Average(TR, n)</li></ul>The ATR is calculated by taking the moving average of the True Range values over a specific number of periods (n). The most commonly used period is 14, but you can adjust it based on your preference or the characteristics of the asset being analyzed.</li>
+</ol>
+
+
+
+<p>To illustrate the calculation, let&#8217;s consider a hypothetical example using daily price data for a stock:</p>
+
+
+
+<p>Day 1: High = $50, Low = $45, Close = $47 Day 2: High = $48, Low = $42, Close = $45 Day 3: High = $52, Low = $47, Close = $50</p>
+
+
+
+<p>Calculating the True Range (TR) for each day:</p>
+
+
+
+<ul>
+<li>Day 1: TR = max(50 &#8211; 45, abs(50 &#8211; 47), abs(45 &#8211; 47)) = 5</li>
+
+
+
+<li>Day 2: TR = max(48 &#8211; 42, abs(48 &#8211; 45), abs(42 &#8211; 45)) = 6</li>
+
+
+
+<li>Day 3: TR = max(52 &#8211; 47, abs(52 &#8211; 50), abs(47 &#8211; 50)) = 5</li>
+</ul>
+
+
+
+<p>Now, let&#8217;s calculate the Average True Range (ATR) over a 3-day period:</p>
+
+
+
+<ul>
+<li>ATR = (5 + 6 + 5) / 3 = 5.33</li>
+</ul>
+
+
+
+<p>So, the ATR for this stock over the 3-day period is approximately 5.33.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What Is a Good Average True Range?</h2>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-113.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-113-1024x538.png" alt="What Is Average True Range (ATR)?" class="wp-image-199646" srcset="https://coincu.com/wp-content/uploads/2023/07/image-113-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-113-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-113-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-113-1536x806.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-113-2048x1075.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-113-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-113-1140x599.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="What Is Average True Range (ATR)? 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Average True Range (ATR) value is subjective and can vary depending on factors such as the trading style, time frame, and the specific asset being analyzed. There is no universally defined threshold for what constitutes a &#8220;good&#8221; ATR.</p>
+
+
+
+<p>Instead, the interpretation of Average True Range values is relative to the context of the asset and the trading strategy employed. Generally, a higher ATR indicates greater volatility and larger price swings, which may be desirable for traders seeking more significant profit potential but may also entail increased risk. Conversely, a lower Average True Range suggests lower volatility and more stable price movements, which may be preferred by traders seeking a more conservative approach with potentially smaller gains or losses.</p>
+
+
+
+<p>Different assets exhibit varying levels of volatility, and what may be considered a high or low Average True Range value for one asset may be different for another. Additionally, the desired ATR value may also depend on the trading timeframe. For example, a higher Average True Range may be suitable for short-term traders aiming to capitalize on intraday price fluctuations, while a lower Average True Range may be preferable for long-term investors looking for more stable trends.</p>
+
+
+
+<p>Traders often assess the ATR in relation to the asset&#8217;s price and historical ATR values. By comparing the current Average True Range to past Average True Range readings, traders can gain insights into whether the current volatility levels are relatively high or low compared to historical norms.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Interpretation of ATR</h2>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-114.png"><img decoding="async" loading="lazy" width="600" height="400" src="https://coincu.com/wp-content/uploads/2023/07/image-114.png" alt="What Is Average True Range (ATR)?" class="wp-image-199647" srcset="https://coincu.com/wp-content/uploads/2023/07/image-114.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-114-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="What Is Average True Range (ATR)? 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The Average True Range (ATR) can be interpreted in several ways to gain insights into the volatility and potential price movement of an asset. Here are a few common interpretations:</p>
+
+
+
+<ol>
+<li>Volatility Levels: A higher ATR value suggests higher volatility, indicating larger price swings and potentially increased risk. Traders who prefer more active and volatile markets may find higher ATR values favorable, as they offer greater profit potential. Conversely, lower ATR values indicate lower volatility and more stable price movements, which may be preferred by conservative traders or investors.</li>
+
+
+
+<li>Stop Loss Placement: ATR can be used to determine appropriate stop-loss levels for trades. By setting stop-loss orders based on multiples of the ATR, traders can account for the natural fluctuations in price and avoid being stopped out by minor price movements. For example, a trader might set a stop loss at 2 times the ATR below the entry price to provide a buffer against normal price volatility.</li>
+
+
+
+<li>Trend Strength: Changes in the Average True Range can indicate shifts in trend strength. Increasing Average True Range values may suggest a strengthening trend or an upcoming breakout, as higher volatility often accompanies strong price movements. On the other hand, decreasing ATR values may indicate a weakening trend or a period of consolidation, as lower volatility may indicate a lack of market conviction.</li>
+
+
+
+<li>Range Expansion and Contraction: Average True Range can help identify periods of range expansion or contraction. When the ATR is rising, it indicates an increase in price volatility and the potential for larger price moves. This expansion may signal the start of a new trend or an impending breakout. Conversely, a declining ATR suggests a contraction in price volatility, indicating a period of reduced price swings or consolidation.</li>
+
+
+
+<li>Comparative Analysis: Traders can compare the current Average True Range to past ATR readings to gain insights into whether the current volatility levels are relatively high or low compared to historical norms. This can help in assessing whether the asset is exhibiting abnormal or extreme volatility. Additionally, comparing the ATR of different assets can help traders identify which instruments are currently exhibiting higher or lower volatility, assisting in portfolio diversification decisions.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Benefits of Using Average True Range</h2>
+
+
+
+<p>Using the Average True Range (ATR) in trading and analysis offers several benefits, including:</p>
+
+
+
+<ol>
+<li>Volatility Measurement: Average True Range provides a quantitative measure of price volatility. It helps traders assess the magnitude of price fluctuations in an asset over a specific period. By understanding the level of volatility, traders can adjust their trading strategies, position sizing, and risk management techniques accordingly.</li>
+
+
+
+<li>Stop Loss Placement: Average True Range assists in setting appropriate stop-loss levels for trades. By incorporating the ATR, traders can place stop-loss orders at levels that account for the typical price volatility of the asset. This helps avoid setting stop-loss levels that are too tight and easily triggered by normal price fluctuations, as well as setting stop-loss levels that are too wide and expose traders to excessive risk.</li>
+
+
+
+<li>Position Sizing: ATR aids in determining the appropriate position size for trades. Traders can use the ATR to calculate the potential risk and reward of a trade and adjust their position sizes accordingly. Higher ATR values may warrant smaller position sizes to limit potential losses, while lower ATR values may allow for larger position sizes.</li>
+
+
+
+<li>Trend Identification: ATR can assist in identifying periods of increasing or decreasing volatility, which can be indicative of changes in market trends. Rising ATR may suggest a strengthening trend or an upcoming breakout, while declining ATR may indicate a weakening trend or a period of consolidation. Traders can use this information to make informed decisions about entering or exiting positions based on the evolving market conditions.</li>
+
+
+
+<li>Breakout Strategies: ATR is often employed in breakout trading strategies. Breakouts occur when prices move beyond established support or resistance levels. By incorporating the ATR into breakout strategies, traders can adjust their entry levels based on the current volatility. This allows them to adapt their strategies to the prevailing market conditions and potentially increase the effectiveness of their breakout trades.</li>
+
+
+
+<li>Risk Management: ATR assists in risk management by providing an objective measure of price volatility. It helps traders in determining appropriate levels of risk based on the current market conditions. By considering the ATR, traders can align their risk tolerance with the potential volatility of the asset, allowing for more effective risk management and trade decision-making.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Drawbacks of Using Average True Range</h2>
+
+
+
+<p>While the Average True Range (ATR) is a useful tool for measuring volatility and making trading decisions, it is important to be aware of its limitations and potential drawbacks:</p>
+
+
+
+<ol>
+<li>Lagging Indicator: ATR is a lagging indicator because it relies on historical price data. It calculates volatility based on past price movements, which means it may not provide real-time or future predictions of volatility. Traders should be aware that ATR reflects historical volatility and may not accurately capture sudden changes or shifts in market conditions.</li>
+
+
+
+<li>Lack of Directional Bias: ATR measures volatility but does not provide information about the direction of price movement. It does not indicate whether prices will move up or down, making it necessary to use ATR in conjunction with other technical analysis tools to identify potential trends or market conditions.</li>
+
+
+
+<li>Not Suitable for All Strategies: While ATR can be beneficial for certain trading strategies, it may not be applicable or effective for all trading styles. Some strategies may require more precise timing or rely on other indicators that provide more specific signals for trade entries and exits. Traders should consider their individual trading approach and the suitability of ATR within their strategy.</li>
+
+
+
+<li>Sensitivity to Outliers: ATR considers the highest and lowest prices within each period, including any outliers that may not be representative of the typical price range. Extreme price movements or gaps can significantly impact the ATR calculation, potentially skewing the results and leading to less reliable volatility measurements.</li>
+
+
+
+<li>Interpretation Challenges: Determining what constitutes a &#8220;good&#8221; or &#8220;appropriate&#8221; ATR value can be subjective and vary based on the asset being analyzed, the time frame, and the trader&#8217;s risk tolerance. There is no universal threshold for ATR, and the interpretation of its values requires context and experience.</li>
+
+
+
+<li>Lack of Contextual Information: ATR alone may not provide sufficient information for making trading decisions. It is important to consider other factors such as market trends, support and resistance levels, and fundamental analysis to form a comprehensive view of the market. ATR should be used in conjunction with other indicators and analysis techniques to enhance decision-making.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">How To Use Average True Range in Technical Analysis</h2>
+
+
+
+<p>The Average True Range (ATR) can be used in technical analysis in various ways to assist traders in making informed trading decisions:</p>
+
+
+
+<ol>
+<li>Volatility Assessment: ATR provides a measure of price volatility. Traders can use the ATR to assess the current level of volatility in an asset. Higher ATR values indicate higher volatility, suggesting larger price swings and potentially increased risk. Lower ATR values indicate lower volatility, implying more stable price movements. This information helps traders adapt their trading strategies and risk management techniques accordingly.</li>
+
+
+
+<li>Stop Loss Placement: ATR can aid in determining appropriate stop-loss levels for trades. By incorporating the ATR, traders can set stop-loss orders at levels that account for the typical price volatility of the asset. One common approach is to use a multiple of the ATR to set stop-loss levels. For example, a trader may choose to set a stop-loss order at 2 times the ATR below the entry price to allow for a reasonable buffer against normal price fluctuations.</li>
+
+
+
+<li>Position Sizing: ATR assists in determining the appropriate position size for trades. By considering the ATR, traders can calculate the potential risk and reward of a trade. A higher ATR may warrant a smaller position size to limit potential losses, while a lower ATR may allow for a larger position size. This helps align position sizes with the level of volatility and risk associated with the asset.</li>
+
+
+
+<li>Breakout Trading: ATR is often utilized in breakout trading strategies. Breakouts occur when prices move beyond established support or resistance levels. Traders can use the ATR to set entry points for breakout trades. By incorporating the ATR, traders can adjust their entry levels based on the current volatility. This can help identify potential breakouts that have higher chances of significant price moves.</li>
+
+
+
+<li>Trend Analysis: Changes in the ATR can provide insights into trend strength. Increasing ATR values may indicate a strengthening trend or an upcoming breakout, as higher volatility often accompanies strong price movements. Conversely, decreasing ATR values may indicate a weakening trend or a period of consolidation, as lower volatility may suggest a lack of market conviction. Traders can use the ATR alongside other technical indicators to identify and confirm trends.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Average True Range (ATR) Is a Versatile Trading Tool</h2>
+
+
+
+<p>Average True Range (ATR) is a versatile trading tool that offers several applications and benefits in technical analysis. Here are some key reasons why ATR is considered a versatile tool:</p>
+
+
+
+<ol>
+<li>Volatility Measurement: ATR quantifies the volatility of an asset by measuring the price range over a specific period. It provides traders with a numerical value that represents the average volatility, allowing them to gauge the potential price movements and adjust their trading strategies accordingly.</li>
+
+
+
+<li>Risk Management: ATR assists in risk management by helping traders determine appropriate stop-loss levels and position sizes. By factoring in the ATR, traders can set stop-loss orders at levels that align with the asset&#8217;s volatility, avoiding getting stopped out prematurely by normal price fluctuations. Additionally, ATR helps in determining position sizes by considering the potential risk associated with an asset&#8217;s volatility.</li>
+
+
+
+<li>Entry and Exit Points: ATR is valuable for identifying optimal entry and exit points. Traders can use ATR-based indicators or ATR bands to establish entry levels that align with the asset&#8217;s volatility. For example, a trader may wait for a price breakout that exceeds a certain multiple of the ATR to confirm a significant move before entering a trade. Similarly, ATR can help in identifying potential reversal points or profit-taking levels.</li>
+
+
+
+<li>Trend Identification: ATR aids in identifying trends and trend strength. Rising ATR values often indicate increasing volatility and potentially stronger trends, while decreasing ATR values may suggest a loss of momentum or a period of consolidation. Traders can use the ATR in combination with other trend-following indicators to confirm trends and make informed trading decisions.</li>
+
+
+
+<li>Range Expansion and Contraction: ATR is helpful for recognizing periods of range expansion and contraction. When the ATR is rising, it suggests an increase in volatility and potential larger price moves, indicating a period of range expansion. Conversely, a declining ATR suggests reduced volatility and potential range contraction, indicating a period of consolidation. Traders can adjust their strategies accordingly to suit the market conditions.</li>
+
+
+
+<li>Indicator Confirmation: ATR can be used in conjunction with other technical indicators to confirm signals or provide additional insights. For example, ATR can be combined with moving averages to identify potential trend reversals or used alongside oscillators to validate overbought or oversold conditions.</li>
+</ol>
+
+
+
+<p>The versatility of ATR lies in its ability to measure volatility, assist in risk management, identify trends, determine entry and exit points, and provide confirmation for other indicators. Traders can adapt and apply ATR to various trading styles, timeframes, and markets to enhance their decision-making and optimize trading strategies.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
+
+
+
+<p>Average True Range (ATR) is a powerful tool in technical analysis that provides valuable insights into price volatility and potential price movements. Its versatility makes it applicable to various trading strategies and timeframes.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p id="block-522ef498-a505-4d0b-9a0d-b2e5cca12111">Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right" id="block-4fa7c042-0908-4ee5-9ff4-91607eb34413"><strong>Annie</strong></p>
+
+
+
+<p class="has-text-align-right" id="block-84ea04e6-519a-4165-8e39-faa42e0200e5"><strong>Coincu</strong>&nbsp;<strong>New</strong></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/What-Is-Average-True-Range-ATR-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?</title>
 		<link>https://coincu.com/199618-basefex-reviews-crypto-derivatives-exchange/</link>
 		
@@ -45,7 +420,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-103.png"><img decoding="async" width="1024" height="601" src="https://coincu.com/wp-content/uploads/2023/07/image-103-1024x601.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199627" srcset="https://coincu.com/wp-content/uploads/2023/07/image-103-1024x601.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-103-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-103-768x451.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-103-1536x902.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-103-750x440.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-103-1140x669.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-103.png 2006w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-103.png"><img decoding="async" loading="lazy" width="1024" height="601" src="https://coincu.com/wp-content/uploads/2023/07/image-103-1024x601.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199627" srcset="https://coincu.com/wp-content/uploads/2023/07/image-103-1024x601.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-103-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-103-768x451.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-103-1536x902.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-103-750x440.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-103-1140x669.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-103.png 2006w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>These include perpetual swap contracts for BTC (Bitcoin), ETH (Ethereum), BCH (Bitcoin Cash), XRP (Ripple), BNB (Binance Coin), and EOS Electro-Optical System). All profits and losses on BaseFEX trading are paid in Bitcoin and USDT. However, BaseFEX is looking to expand its services by offering leveraged contracts for other cryptocurrencies and altcoins. This will provide traders with more options and a greater range of investment opportunities. By expanding its portfolio, BaseFEX hopes to attract more traders and investors to its platform and establish itself as a leading player in the crypto derivatives market.</p>
@@ -56,7 +431,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-105.png"><img decoding="async" loading="lazy" width="770" height="508" src="https://coincu.com/wp-content/uploads/2023/07/image-105.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199629" srcset="https://coincu.com/wp-content/uploads/2023/07/image-105.png 770w, https://coincu.com/wp-content/uploads/2023/07/image-105-300x198.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-105-768x507.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-105-750x495.png 750w" sizes="(max-width: 770px) 100vw, 770px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-105.png"><img decoding="async" loading="lazy" width="770" height="508" src="https://coincu.com/wp-content/uploads/2023/07/image-105.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199629" srcset="https://coincu.com/wp-content/uploads/2023/07/image-105.png 770w, https://coincu.com/wp-content/uploads/2023/07/image-105-300x198.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-105-768x507.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-105-750x495.png 750w" sizes="(max-width: 770px) 100vw, 770px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>BaseFEX is a cryptocurrency derivatives exchange platform. It provides traders with the ability to trade various cryptocurrency futures contracts with leverage. BaseFEX offers a range of features and tools for trading, including a user-friendly interface, advanced trading charts, risk management options, and a customizable trading experience.</p>
@@ -71,7 +446,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-104.png"><img decoding="async" loading="lazy" width="1024" height="705" src="https://coincu.com/wp-content/uploads/2023/07/image-104-1024x705.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199628" srcset="https://coincu.com/wp-content/uploads/2023/07/image-104-1024x705.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-104-300x207.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-104-768x529.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-104-1536x1058.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-104-2048x1411.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-104-750x517.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-104-1140x785.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-104.png"><img decoding="async" loading="lazy" width="1024" height="705" src="https://coincu.com/wp-content/uploads/2023/07/image-104-1024x705.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199628" srcset="https://coincu.com/wp-content/uploads/2023/07/image-104-1024x705.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-104-300x207.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-104-768x529.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-104-1536x1058.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-104-2048x1411.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-104-750x517.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-104-1140x785.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>BaseFEX is a cryptocurrency derivatives exchange that operates on a user-friendly online platform: </p>
@@ -120,7 +495,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-106.png"><img decoding="async" loading="lazy" width="1024" height="573" src="https://coincu.com/wp-content/uploads/2023/07/image-106-1024x573.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199630" srcset="https://coincu.com/wp-content/uploads/2023/07/image-106-1024x573.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-106-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-106-768x429.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-106-1536x859.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-106-2048x1145.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-106-750x419.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-106-1140x637.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-106.png"><img decoding="async" loading="lazy" width="1024" height="573" src="https://coincu.com/wp-content/uploads/2023/07/image-106-1024x573.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199630" srcset="https://coincu.com/wp-content/uploads/2023/07/image-106-1024x573.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-106-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-106-768x429.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-106-1536x859.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-106-2048x1145.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-106-750x419.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-106-1140x637.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>BaseFEX offers several features that cater to the needs of cryptocurrency traders:</p>
@@ -165,10 +540,10 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-107.png"><img decoding="async" loading="lazy" width="1024" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-107-1024x600.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199631" srcset="https://coincu.com/wp-content/uploads/2023/07/image-107-1024x600.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-107-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-107-768x450.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-107-1536x901.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-107-2048x1201.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-107-750x440.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-107-1140x668.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-107.png"><img decoding="async" loading="lazy" width="1024" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-107-1024x600.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199631" srcset="https://coincu.com/wp-content/uploads/2023/07/image-107-1024x600.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-107-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-107-768x450.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-107-1536x901.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-107-2048x1201.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-107-750x440.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-107-1140x668.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-108.png"><img decoding="async" loading="lazy" width="1024" height="595" src="https://coincu.com/wp-content/uploads/2023/07/image-108-1024x595.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199632" srcset="https://coincu.com/wp-content/uploads/2023/07/image-108-1024x595.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-108-300x174.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-108-768x446.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-108-1536x892.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-108-2048x1189.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-108-750x436.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-108-1140x662.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-108.png"><img decoding="async" loading="lazy" width="1024" height="595" src="https://coincu.com/wp-content/uploads/2023/07/image-108-1024x595.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199632" srcset="https://coincu.com/wp-content/uploads/2023/07/image-108-1024x595.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-108-300x174.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-108-768x446.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-108-1536x892.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-108-2048x1189.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-108-750x436.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-108-1140x662.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Pros:</p>
@@ -235,7 +610,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-109.png"><img decoding="async" loading="lazy" width="800" height="800" src="https://coincu.com/wp-content/uploads/2023/07/image-109.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199633" srcset="https://coincu.com/wp-content/uploads/2023/07/image-109.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-109-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-109-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-109-768x768.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-109-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-109-350x350.png 350w, https://coincu.com/wp-content/uploads/2023/07/image-109-750x750.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-109.png"><img decoding="async" loading="lazy" width="800" height="800" src="https://coincu.com/wp-content/uploads/2023/07/image-109.png" alt="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First?" class="wp-image-199633" srcset="https://coincu.com/wp-content/uploads/2023/07/image-109.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-109-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-109-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-109-768x768.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-109-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-109-350x350.png 350w, https://coincu.com/wp-content/uploads/2023/07/image-109-750x750.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="BaseFEX Reviews: Crypto Derivatives Exchange That Puts Traders First? 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>BaseFEX charges fees for various services and transactions on its platform. Here is a general overview of the fees you may encounter when using BaseFEX:</p>
@@ -343,7 +718,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-94.png"><img decoding="async" loading="lazy" width="904" height="510" data-id="199597" src="https://coincu.com/wp-content/uploads/2023/07/image-94.png" alt="RDNT" class="wp-image-199597" srcset="https://coincu.com/wp-content/uploads/2023/07/image-94.png 904w, https://coincu.com/wp-content/uploads/2023/07/image-94-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-94-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-94-750x423.png 750w" sizes="(max-width: 904px) 100vw, 904px" title="Whale Makes Significant Deposit of 4.62 Million RDNT Tokens on Binance 8"></a><figcaption class="wp-element-caption"><em>Source: Radiant Capital</em></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-94.png"><img decoding="async" loading="lazy" width="904" height="510" data-id="199597" src="https://coincu.com/wp-content/uploads/2023/07/image-94.png" alt="RDNT" class="wp-image-199597" srcset="https://coincu.com/wp-content/uploads/2023/07/image-94.png 904w, https://coincu.com/wp-content/uploads/2023/07/image-94-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-94-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-94-750x423.png 750w" sizes="(max-width: 904px) 100vw, 904px" title="Whale Makes Significant Deposit of 4.62 Million RDNT Tokens on Binance 13"></a><figcaption class="wp-element-caption"><em>Source: Radiant Capital</em></figcaption></figure>
 </figure>
 
 
@@ -361,7 +736,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-102.png"><img decoding="async" loading="lazy" width="1024" height="558" data-id="199625" src="https://coincu.com/wp-content/uploads/2023/07/image-102-1024x558.png" alt="RDNT" class="wp-image-199625" srcset="https://coincu.com/wp-content/uploads/2023/07/image-102-1024x558.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-102-300x163.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-102-768x418.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-102-1536x837.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-102-750x409.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-102-1140x621.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-102.png 1946w" sizes="(max-width: 1024px) 100vw, 1024px" title="Whale Makes Significant Deposit of 4.62 Million RDNT Tokens on Binance 9"></a><figcaption class="wp-element-caption"><em>Source: CoinmarketCap</em></figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-102.png"><img decoding="async" loading="lazy" width="1024" height="558" data-id="199625" src="https://coincu.com/wp-content/uploads/2023/07/image-102-1024x558.png" alt="RDNT" class="wp-image-199625" srcset="https://coincu.com/wp-content/uploads/2023/07/image-102-1024x558.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-102-300x163.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-102-768x418.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-102-1536x837.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-102-750x409.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-102-1140x621.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-102.png 1946w" sizes="(max-width: 1024px) 100vw, 1024px" title="Whale Makes Significant Deposit of 4.62 Million RDNT Tokens on Binance 14"></a><figcaption class="wp-element-caption"><em>Source: CoinmarketCap</em></figcaption></figure>
 </figure>
 
 
@@ -419,14 +794,14 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-96.png"><img decoding="async" loading="lazy" width="1024" height="477" src="https://coincu.com/wp-content/uploads/2023/07/image-96-1024x477.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199607" srcset="https://coincu.com/wp-content/uploads/2023/07/image-96-1024x477.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-96-300x140.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-96-768x357.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-96-1536x715.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-96-2048x953.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-96-750x349.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-96-1140x531.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-96.png"><img decoding="async" loading="lazy" width="1024" height="477" src="https://coincu.com/wp-content/uploads/2023/07/image-96-1024x477.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199607" srcset="https://coincu.com/wp-content/uploads/2023/07/image-96-1024x477.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-96-300x140.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-96-768x357.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-96-1536x715.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-96-2048x953.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-96-750x349.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-96-1140x531.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What Is ShapeShift?</h2>
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-98.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-98-1024x512.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199609" srcset="https://coincu.com/wp-content/uploads/2023/07/image-98-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-98-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-98-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-98-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-98-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-98-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-98.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-98.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-98-1024x512.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199609" srcset="https://coincu.com/wp-content/uploads/2023/07/image-98-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-98-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-98-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-98-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-98-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-98-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-98.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>ShapeShift is a popular cryptocurrency exchange platform that allows users to quickly and easily trade one cryptocurrency for another without the need for creating an account or undergoing a lengthy registration process. It was founded in 2014 by Erik Voorhees and has gained recognition in the crypto community for its simplicity and privacy-focused approach.</p>
@@ -453,7 +828,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-97.png"><img decoding="async" loading="lazy" width="1024" height="513" src="https://coincu.com/wp-content/uploads/2023/07/image-97-1024x513.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199608" srcset="https://coincu.com/wp-content/uploads/2023/07/image-97-1024x513.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-97-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-97-768x385.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-97-1536x770.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-97-2048x1027.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-97-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-97-750x376.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-97-1140x572.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-97.png"><img decoding="async" loading="lazy" width="1024" height="513" src="https://coincu.com/wp-content/uploads/2023/07/image-97-1024x513.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199608" srcset="https://coincu.com/wp-content/uploads/2023/07/image-97-1024x513.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-97-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-97-768x385.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-97-1536x770.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-97-2048x1027.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-97-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-97-750x376.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-97-1140x572.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>ShapeShift works as a cryptocurrency exchange platform that allows users to trade one cryptocurrency for another in a quick and straightforward manner. Here&#8217;s an overview of how SS typically operates:</p>
@@ -502,7 +877,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-99.png"><img decoding="async" loading="lazy" width="600" height="240" src="https://coincu.com/wp-content/uploads/2023/07/image-99.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199610" srcset="https://coincu.com/wp-content/uploads/2023/07/image-99.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-99-300x120.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-99.png"><img decoding="async" loading="lazy" width="600" height="240" src="https://coincu.com/wp-content/uploads/2023/07/image-99.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199610" srcset="https://coincu.com/wp-content/uploads/2023/07/image-99.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-99-300x120.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>ShapeShift offers several features that make it a popular choice for users looking to exchange cryptocurrencies quickly and conveniently. Here are some key features of ShapeShift:</p>
@@ -543,7 +918,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-100.png"><img decoding="async" loading="lazy" width="1024" height="508" src="https://coincu.com/wp-content/uploads/2023/07/image-100-1024x508.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199611" srcset="https://coincu.com/wp-content/uploads/2023/07/image-100-1024x508.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-100-300x149.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-100-768x381.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-100-1536x762.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-100-2048x1017.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-100-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-100-750x372.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-100-1140x566.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-100.png"><img decoding="async" loading="lazy" width="1024" height="508" src="https://coincu.com/wp-content/uploads/2023/07/image-100-1024x508.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199611" srcset="https://coincu.com/wp-content/uploads/2023/07/image-100-1024x508.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-100-300x149.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-100-768x381.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-100-1536x762.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-100-2048x1017.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-100-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-100-750x372.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-100-1140x566.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Pros of ShapeShift:</p>
@@ -678,7 +1053,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-101.png"><img decoding="async" loading="lazy" width="1024" height="534" src="https://coincu.com/wp-content/uploads/2023/07/image-101-1024x534.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199612" srcset="https://coincu.com/wp-content/uploads/2023/07/image-101-1024x534.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-101-300x156.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-101-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-101-1536x801.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-101-2048x1068.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-101-750x391.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-101-1140x595.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-101.png"><img decoding="async" loading="lazy" width="1024" height="534" src="https://coincu.com/wp-content/uploads/2023/07/image-101-1024x534.png" alt="ShapeShift Reviews: Your Multi-Chain Crypto Home Base?" class="wp-image-199612" srcset="https://coincu.com/wp-content/uploads/2023/07/image-101-1024x534.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-101-300x156.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-101-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-101-1536x801.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-101-2048x1068.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-101-750x391.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-101-1140x595.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ShapeShift Reviews: Your Multi-Chain Crypto Home Base? 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>ShapeShift had a mobile app available for both iOS and Android devices. The ShapeShift app provided users with a convenient way to access and manage their cryptocurrency exchanges on the go. However, it&#8217;s important to note that the availability and features of the ShapeShift app may have evolved or changed since then, and I recommend checking the official ShapeShift website or app store for the most up-to-date information on the ShapeShift app.</p>
@@ -815,7 +1190,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-90.png"><img decoding="async" loading="lazy" width="1024" height="655" src="https://coincu.com/wp-content/uploads/2023/07/image-90-1024x655.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199588" srcset="https://coincu.com/wp-content/uploads/2023/07/image-90-1024x655.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-90-300x192.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-90-768x491.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-90-1536x982.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-90-750x480.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-90-1140x729.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-90.png 1681w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-90.png"><img decoding="async" loading="lazy" width="1024" height="655" src="https://coincu.com/wp-content/uploads/2023/07/image-90-1024x655.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199588" srcset="https://coincu.com/wp-content/uploads/2023/07/image-90-1024x655.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-90-300x192.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-90-768x491.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-90-1536x982.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-90-750x480.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-90-1140x729.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-90.png 1681w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Jeremy Cahen also said that Zagabond and his team fraudulently appropriated more than $100,000,000 from the community. Jeremy would love to testify in court about all this, and I have full personal information about many of the team members involved in these scams.</p>
@@ -836,7 +1211,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-92.png"><img decoding="async" loading="lazy" width="1024" height="818" src="https://coincu.com/wp-content/uploads/2023/07/image-92-1024x818.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199593" srcset="https://coincu.com/wp-content/uploads/2023/07/image-92-1024x818.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-92-300x240.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-92-768x613.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-92-1536x1226.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-92-750x599.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-92-1140x910.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-92.png 1721w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-92.png"><img decoding="async" loading="lazy" width="1024" height="818" src="https://coincu.com/wp-content/uploads/2023/07/image-92-1024x818.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199593" srcset="https://coincu.com/wp-content/uploads/2023/07/image-92-1024x818.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-92-300x240.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-92-768x613.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-92-1536x1226.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-92-750x599.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-92-1140x910.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-92.png 1721w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Azuki Dao provides financial support for 20000E Dao. Funds will be used to help us organize a Study Group for the Lawsuit. The proposed voting deadline is July 3. It is known that AzukiDAO and 20000E DAO were founded by members and former owners of the Azuki community, not the official Azuki group.</p>
@@ -851,7 +1226,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-91.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-91-1024x576.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199591" srcset="https://coincu.com/wp-content/uploads/2023/07/image-91-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-91-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-91-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-91-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-91-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-91.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-91.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-91-1024x576.png" alt="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support" class="wp-image-199591" srcset="https://coincu.com/wp-content/uploads/2023/07/image-91-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-91-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-91-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-91-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-91-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-91.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="AzukiDAO&#039;s Lawsuit With Founder Zagabond To Recover 20,000 ETH Get Support 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Originating from the launch of Azuki&#8217;s new series, &#8220;Azuki Elementals&#8221;. The series sold out in less than 20 minutes for 2 ETH each, raising an impressive $38 million.</p>
@@ -917,7 +1292,7 @@
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00.jpg"><img decoding="async" loading="lazy" width="1024" height="578" data-id="199579" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-1024x578.jpg" alt="Market Overview - Binance news
-" class="wp-image-199579" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-1024x578.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-768x433.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-750x423.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-1140x643.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00.jpg 1383w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 19"></a><figcaption class="wp-element-caption">Market overview &#8211; Binance news</figcaption></figure>
+" class="wp-image-199579" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-1024x578.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-768x433.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-750x423.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00-1140x643.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-00.jpg 1383w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 24"></a><figcaption class="wp-element-caption">Market overview &#8211; Binance news</figcaption></figure>
 </figure>
 
 
@@ -967,7 +1342,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex">
-<figure class="wp-block-image size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg"><img decoding="async" loading="lazy" width="631" height="513" data-id="199580" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg" alt="photo 2023 07 03 10 25 05" class="wp-image-199580" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg 631w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05-300x244.jpg 300w" sizes="(max-width: 631px) 100vw, 631px" title="Market Overview Last Week From June 26th To July 2nd 20"></a><figcaption class="wp-element-caption">Market overview &#8211; Celsius</figcaption></figure>
+<figure class="wp-block-image size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg"><img decoding="async" loading="lazy" width="631" height="513" data-id="199580" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg" alt="photo 2023 07 03 10 25 05" class="wp-image-199580" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05.jpg 631w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-05-300x244.jpg 300w" sizes="(max-width: 631px) 100vw, 631px" title="Market Overview Last Week From June 26th To July 2nd 25"></a><figcaption class="wp-element-caption">Market overview &#8211; Celsius</figcaption></figure>
 </figure>
 
 
@@ -1013,11 +1388,7 @@
 
 
 
-<li>999.8127T SHIB was issued on Heco, 87,579,118 COW and 999,998,434 OOE, 636,643,868 STACK, 88,640,563 GM,</li>
-
-
-
-<li>2,175,053 03 were issued on Polygon.</li>
+<li>999.8127 SHIB was issued on Heco, 87,579,118 COW and 999,998,434 OOE, 636,643,868 STACK, 88,640,563 GM,2,175,053 03 were issued on Polygon.</li>
 
 
 
@@ -1035,7 +1406,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08.jpg"><img decoding="async" loading="lazy" width="1024" height="586" data-id="199581" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1024x586.jpg" alt="photo 2023 07 03 10 25 08" class="wp-image-199581" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1024x586.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-300x172.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-768x440.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-750x429.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1140x653.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 21"></a><figcaption class="wp-element-caption">Market overview &#8211; Tokens unlocked</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08.jpg"><img decoding="async" loading="lazy" width="1024" height="586" data-id="199581" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1024x586.jpg" alt="photo 2023 07 03 10 25 08" class="wp-image-199581" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1024x586.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-300x172.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-768x440.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-750x429.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08-1140x653.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-08.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 26"></a><figcaption class="wp-element-caption">Market overview &#8211; Tokens unlocked</figcaption></figure>
 </figure>
 
 
@@ -1096,7 +1467,7 @@
 
 
 
-<p>$STX &#8211; BTC Layer 2, smart contracts; $BCH &#8211; BTC fork $RIF &#8211; identity &amp; storage $T &#8211; tBTC, a merger between $KEEP and $NU $HARD &#8211; lending &amp; borrowing BTC, KAVA eco $REN &#8211; defi BTC $BADGER &#8211; defi for BTC $PNT &#8211; ptokens for BTC $ALEX: Dex of $STX $SOV: Smartcontract, Lending, Borrowing $PCX: BTC Layer2 omniBTC $ORD: Dex $ML: BTC layer2 (high inflation) $LBTC: Lighting Bitcoin $BC: Old Bitcoin BRC20 $ORDI, $VMPX, $PEPEBRC, $MEMEBRC, $PIZABRC, $TRAC, $BIOP, $BSVBRC &#8230;</p>
+<p>$STX &#8211; BTC Layer 2, smart contracts; $BCH &#8211; BTC fork; $RIF &#8211; identity &amp; storage; $T &#8211; tBTC, a merger between $KEEP and $NU; $HARD &#8211; lending &amp; borrowing BTC, KAVA eco; $REN &#8211; defi BTC; $BADGER &#8211; defi for BTC; $PNT &#8211; ptokens for BTC; $ALEX: Dex of $STX $SOV: Smartcontract, Lending, Borrowing; $PCX: BTC Layer2 omniBTC; $ORD: Dex $ML: BTC layer2 (high inflation); $LBTC: Lighting Bitcoin; $BC: Old Bitcoin; BRC20 $ORDI, $VMPX, $PEPEBRC, $MEMEBRC, $PIZABRC, $TRAC, $BIOP, $BSVBRC &#8230;</p>
 
 
 
@@ -1105,7 +1476,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="661" data-id="199582" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1024x661.jpg" alt="photo 2023 07 03 10 25 12" class="wp-image-199582" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1024x661.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-300x194.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-768x496.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-750x484.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1140x736.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 22"><figcaption class="wp-element-caption">Market overview &#8211; DEX trading volume</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="661" data-id="199582" src="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1024x661.jpg" alt="photo 2023 07 03 10 25 12" class="wp-image-199582" srcset="https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1024x661.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-300x194.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-768x496.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-750x484.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12-1140x736.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/photo_2023-07-03_10-25-12.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview Last Week From June 26th To July 2nd 27"><figcaption class="wp-element-caption">Market overview &#8211; DEX trading volume</figcaption></figure>
 </figure>
 
 
@@ -1154,7 +1525,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-86.png"><img decoding="async" loading="lazy" width="1024" height="616" src="https://coincu.com/wp-content/uploads/2023/07/image-86-1024x616.png" alt="image 86" class="wp-image-199573" srcset="https://coincu.com/wp-content/uploads/2023/07/image-86-1024x616.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-86-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-86-768x462.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-86-1536x924.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-86-2048x1232.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-86-750x451.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-86-1140x686.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-86.png"><img decoding="async" loading="lazy" width="1024" height="616" src="https://coincu.com/wp-content/uploads/2023/07/image-86-1024x616.png" alt="image 86" class="wp-image-199573" srcset="https://coincu.com/wp-content/uploads/2023/07/image-86-1024x616.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-86-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-86-768x462.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-86-1536x924.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-86-2048x1232.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-86-750x451.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-86-1140x686.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>With its intuitive interface, Shakepay simplifies the process of entering the world of cryptocurrencies, particularly for Canadian users.</p>
@@ -1173,7 +1544,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Shakepay.jpeg"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/Shakepay-1024x535.jpeg" alt="Shakepay" class="wp-image-199574" srcset="https://coincu.com/wp-content/uploads/2023/07/Shakepay-1024x535.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-300x157.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-768x401.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-750x392.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-1140x596.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Shakepay.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Shakepay.jpeg"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/Shakepay-1024x535.jpeg" alt="Shakepay" class="wp-image-199574" srcset="https://coincu.com/wp-content/uploads/2023/07/Shakepay-1024x535.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-300x157.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-768x401.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-750x392.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Shakepay-1140x596.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Shakepay.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Shakepay is a Canadian-based cryptocurrency platform and mobile application that allows users to buy, sell, and trade cryptocurrencies. It was founded in 2015 with the goal of making it easier for people to enter the world of cryptocurrencies. SP provides a user-friendly interface and a seamless experience for buying and selling cryptocurrencies, particularly Bitcoin and Ethereum.</p>
@@ -1200,7 +1571,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-87.png"><img decoding="async" loading="lazy" width="1024" height="633" src="https://coincu.com/wp-content/uploads/2023/07/image-87-1024x633.png" alt="image 87" class="wp-image-199576" srcset="https://coincu.com/wp-content/uploads/2023/07/image-87-1024x633.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-87-300x185.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-87-768x475.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-87-1536x949.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-87-2048x1266.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-87-750x464.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-87-1140x705.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-87.png"><img decoding="async" loading="lazy" width="1024" height="633" src="https://coincu.com/wp-content/uploads/2023/07/image-87-1024x633.png" alt="image 87" class="wp-image-199576" srcset="https://coincu.com/wp-content/uploads/2023/07/image-87-1024x633.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-87-300x185.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-87-768x475.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-87-1536x949.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-87-2048x1266.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-87-750x464.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-87-1140x705.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 30"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Shakepay works as a cryptocurrency platform and mobile application that simplifies the process of buying, selling, and spending cryptocurrencies. Here&#8217;s an overview of how Shakepay works:</p>
@@ -1245,7 +1616,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-88.png"><img decoding="async" loading="lazy" width="1024" height="506" src="https://coincu.com/wp-content/uploads/2023/07/image-88-1024x506.png" alt="image 88" class="wp-image-199577" srcset="https://coincu.com/wp-content/uploads/2023/07/image-88-1024x506.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-88-300x148.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-88-768x380.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-88-1536x759.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-88-2048x1013.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-88-750x371.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-88-1140x564.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 26"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-88.png"><img decoding="async" loading="lazy" width="1024" height="506" src="https://coincu.com/wp-content/uploads/2023/07/image-88-1024x506.png" alt="image 88" class="wp-image-199577" srcset="https://coincu.com/wp-content/uploads/2023/07/image-88-1024x506.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-88-300x148.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-88-768x380.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-88-1536x759.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-88-2048x1013.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-88-750x371.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-88-1140x564.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 31"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Shakepay offers several features that make it a popular choice for users looking to buy, sell, and manage cryptocurrencies:</p>
@@ -1358,7 +1729,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-89.png"><img decoding="async" loading="lazy" width="1024" height="565" src="https://coincu.com/wp-content/uploads/2023/07/image-89-1024x565.png" alt="image 89" class="wp-image-199578" srcset="https://coincu.com/wp-content/uploads/2023/07/image-89-1024x565.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-89-300x166.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-89-768x424.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-89-1536x847.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-89-2048x1130.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-89-750x414.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-89-1140x629.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 27"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-89.png"><img decoding="async" loading="lazy" width="1024" height="565" src="https://coincu.com/wp-content/uploads/2023/07/image-89-1024x565.png" alt="image 89" class="wp-image-199578" srcset="https://coincu.com/wp-content/uploads/2023/07/image-89-1024x565.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-89-300x166.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-89-768x424.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-89-1536x847.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-89-2048x1130.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-89-750x414.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-89-1140x629.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shakepay Reviews: The Easiest Way For Canadians To Buy And Earn Bitcoin? 32"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p><br>Shakepay charges fees for various transactions and services on its platform. Here is an overview of the main fees associated with Shakepay:</p>
@@ -1460,7 +1831,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-84.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-84-1024x538.png" alt="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report" class="wp-image-199568" srcset="https://coincu.com/wp-content/uploads/2023/07/image-84-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-84-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-84-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-84-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-84-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-84.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-84.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-84-1024x538.png" alt="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report" class="wp-image-199568" srcset="https://coincu.com/wp-content/uploads/2023/07/image-84-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-84-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-84-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-84-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-84-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-84.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report 33"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Security firm Dedaub stated in a blog post that the root cause of the attack on the PolyNetwork cross-chain interaction protocol was not a logic error in the smart contract but most likely 3/4 errors in smart contracts. Poly Administrator&#8217;s private key has been stolen or misused.</p>
@@ -1481,7 +1852,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-85.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-85-1024x512.png" alt="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report" class="wp-image-199569" srcset="https://coincu.com/wp-content/uploads/2023/07/image-85-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-85-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-85-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-85-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-85-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-85-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-85-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-85.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-85.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-85-1024x512.png" alt="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report" class="wp-image-199569" srcset="https://coincu.com/wp-content/uploads/2023/07/image-85-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-85-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-85-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-85-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-85-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-85-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-85-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-85.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="PolyNetwork Hacked Possibly Due To Stealing 3/4 Of Admin&#039;s Private Key: Report 34"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The attack also showed less-than-perfect monitoring of the Poly group of the underlying bridge. If the protocol has been established with a rapid monitoring solution, this will significantly reduce the response time and potentially save some affected money.</p>
@@ -1560,14 +1931,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-81.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-81-1024x576.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199554" srcset="https://coincu.com/wp-content/uploads/2023/07/image-81-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-81-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-81-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-81-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-81-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-81.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 30"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-81.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-81-1024x576.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199554" srcset="https://coincu.com/wp-content/uploads/2023/07/image-81-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-81-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-81-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-81-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-81-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-81.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 35"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The site publishes only a few articles. Some crypto bloggers are also spreading this rumor. In it, one of the sources reporting Gensler&#8217;s resignation is the CoinDesk website. CoinDesk cited an unnamed source as saying that Gensler resigned immediately. However, CoinDesk later updated its story to say that the source was mistaken and Gensler did not leave.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-80.png"><img decoding="async" loading="lazy" width="900" height="182" src="https://coincu.com/wp-content/uploads/2023/07/image-80.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199553" srcset="https://coincu.com/wp-content/uploads/2023/07/image-80.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-80-300x61.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-80-768x155.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-80-750x152.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 31"></a><figcaption class="wp-element-caption">Fake reports are spread</figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-80.png"><img decoding="async" loading="lazy" width="900" height="182" src="https://coincu.com/wp-content/uploads/2023/07/image-80.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199553" srcset="https://coincu.com/wp-content/uploads/2023/07/image-80.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-80-300x61.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-80-768x155.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-80-750x152.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 36"></a><figcaption class="wp-element-caption">Fake reports are spread</figcaption></figure></div>
 
 
 <p>After the rumor spread, FOX Business Network (FBN) reporter Charles Gasparino attempted to get an answer from SECGov, and as expected, its media department announced that Gary Gensler was not resigning.</p>
@@ -1584,7 +1955,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-82.png"><img decoding="async" loading="lazy" width="788" height="443" src="https://coincu.com/wp-content/uploads/2023/07/image-82.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199555" srcset="https://coincu.com/wp-content/uploads/2023/07/image-82.png 788w, https://coincu.com/wp-content/uploads/2023/07/image-82-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-82-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-82-750x422.png 750w" sizes="(max-width: 788px) 100vw, 788px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 32"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-82.png"><img decoding="async" loading="lazy" width="788" height="443" src="https://coincu.com/wp-content/uploads/2023/07/image-82.png" alt="Report SEC Chairman Gary Gensler Resigned Is It True?" class="wp-image-199555" srcset="https://coincu.com/wp-content/uploads/2023/07/image-82.png 788w, https://coincu.com/wp-content/uploads/2023/07/image-82-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-82-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-82-750x422.png 750w" sizes="(max-width: 788px) 100vw, 788px" title="Report SEC Chairman Gary Gensler Resigned Is It True? 37"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>At the heart of this attack is Gary Gensler, who was appointed SEC chairman in February 2021. Gensler today looks like <a href="https://coincu.com/193410-sec-chair-gary-gensler-warns-crypto-frenzy/" target="_blank" rel="noreferrer noopener">the crypto industry&#8217;s worst enemy</a>, putting out what sounds like a complete negation of the entire point of the existence of cryptocurrencies.</p>
@@ -1660,14 +2031,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-79.png"><img decoding="async" loading="lazy" width="1024" height="611" src="https://coincu.com/wp-content/uploads/2023/07/image-79-1024x611.png" alt="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week" class="wp-image-199548" srcset="https://coincu.com/wp-content/uploads/2023/07/image-79-1024x611.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-79-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-79-768x458.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-79-750x447.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-79.png 1076w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week 33"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-79.png"><img decoding="async" loading="lazy" width="1024" height="611" src="https://coincu.com/wp-content/uploads/2023/07/image-79-1024x611.png" alt="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week" class="wp-image-199548" srcset="https://coincu.com/wp-content/uploads/2023/07/image-79-1024x611.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-79-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-79-768x458.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-79-750x447.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-79.png 1076w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week 38"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Litecoin has been trending on social media as the asset approaches its halving event. Litecoin has seen significant growth over the past 30 days. The price of LTC has increased by more than 27% since the one-month countdown to the Litecoin halving began. LTC has emerged as one of the best-performing tokens over the past week, with a gain of 30.4%. Currently, LTC is trading at $114.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-77.png"><img decoding="async" loading="lazy" width="1024" height="412" src="https://coincu.com/wp-content/uploads/2023/07/image-77-1024x412.png" alt="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week" class="wp-image-199546" srcset="https://coincu.com/wp-content/uploads/2023/07/image-77-1024x412.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-77-300x121.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-77-768x309.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-77-1536x618.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-77-2048x824.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-77-750x302.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-77-1140x459.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week 34"></a><figcaption class="wp-element-caption">7 days LTC price chart. Source: CoinMarketCap</figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-77.png"><img decoding="async" loading="lazy" width="1024" height="412" src="https://coincu.com/wp-content/uploads/2023/07/image-77-1024x412.png" alt="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week" class="wp-image-199546" srcset="https://coincu.com/wp-content/uploads/2023/07/image-77-1024x412.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-77-300x121.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-77-768x309.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-77-1536x618.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-77-2048x824.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-77-750x302.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-77-1140x459.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Halving Less Than 30 Days, LTC Up 31% In The Last Week 39"></a><figcaption class="wp-element-caption">7 days LTC price chart. Source: CoinMarketCap</figcaption></figure></div>
 
 
 <p>Most investors expect the Litecoin price to increase after the halving event, as the number of rewards will decrease, thus increasing demand. However, there are several other factors to consider.</p>
@@ -1704,94 +2075,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-44-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>PolyNetwork Down, 57 Assets In 10 Blockchains Affected By Attack</title>
-		<link>https://coincu.com/199536-polynetwork-57-assets-10-blockchains-affected/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 01:30:28 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[attack]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[polynetwork]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=199536</guid>
-
-					<description><![CDATA[PolyNetwork, a cross-chain interoperability protocol, tweeted that they will be suspending services while dealing with the attack. The cause of the attack has not yet been revealed.]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>PolyNetwork announced the suspension of all platform activities to focus on remediation.</em></li>
-
-
-
-<li><em>The attack left 57 assets affected across 10 blockchains, with an estimated $34 billion in damage.</em></li>
-
-
-
-<li><em>The project contacted most of the project teams and urged them to withdraw liquidity from decentralized exchanges quickly.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to official sources, PolyNetwork, a cross-chain interoperability protocol, tweeted that they will be suspending services while dealing with the attack. The cause of the attack has not yet been revealed.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-75.png"><img decoding="async" loading="lazy" width="1000" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-75.png" alt="PolyNetwork Down, 57 Assets In 10 Blockchains Affected By Attack" class="wp-image-199538" srcset="https://coincu.com/wp-content/uploads/2023/07/image-75.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-75-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-75-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-75-750x450.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="PolyNetwork Down, 57 Assets In 10 Blockchains Affected By Attack 35"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The attack affected 57 assets across 10 blockchains. The team has begun communicating with centralized exchanges, cybersecurity experts, and individuals with relevant knowledge. Users with information are also encouraged to contact the platform. The network also expects attackers to cooperate and return users&#8217; assets to avoid any potential legal consequences.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">We kindly request the assistance of cybersecurity professionals and individuals with relevant knowledge. If you possess any information that could aid us in this endeavor, we encourage you to actively contact us. <br>【2/7】</p>&mdash; Poly Network (@PolyNetwork2) <a href="https://twitter.com/PolyNetwork2/status/1675591971501375489?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 2, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>To further mitigate risk, PolyNetwork contacted most of the project teams and urged them to withdraw liquidity from decentralized exchanges quickly. It also advised users holding affected assets to withdraw liquidity and unlock LP tokens quickly.</p>
-
-
-
-<p>According to Beosin Alert monitoring, hackers minted over $34 billion in assets across multiple chains, and some of the stolen funds (approximately $800,000) were moved to the Ethereum address: 0xe0Afadad1d93704761c8550F21A53DE3468Ba599.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-76.png"><img decoding="async" loading="lazy" width="1024" height="571" src="https://coincu.com/wp-content/uploads/2023/07/image-76-1024x571.png" alt="PolyNetwork Down, 57 Assets In 10 Blockchains Affected By Attack" class="wp-image-199540" srcset="https://coincu.com/wp-content/uploads/2023/07/image-76-1024x571.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-76-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-76-768x428.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-76-750x418.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-76-1140x635.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-76.png 1321w" sizes="(max-width: 1024px) 100vw, 1024px" title="PolyNetwork Down, 57 Assets In 10 Blockchains Affected By Attack 36"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>On the morning of July 2, blockchain security unit Peckshield<a href="https://coincu.com/199488-polynetwork-suspected-hacking-released-assets/" target="_blank" rel="noreferrer noopener"> reported</a> that PolyNetwork had encountered a certain vulnerability, allowing attackers to mint a large number of tokens on many different chains. Specifically, looking at the hacker&#8217;s address, it can be seen that he interacted with Poly Network and minted $42.1 billion worth of tokens.</p>
-
-
-
-<p>In the past, PolyNetwork on August 10, 2021, was attacked by bad guys, siphoning up to $611 million. It was the most severe crypto hack in history up to that point, surpassed only by Axie Infinity&#8217;s Ronin bridge hack in March 2022, which caused $622 million in damage. Under pressure from the project and the crypto community, the hacker returned almost all the money taken from the attack a few days later.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p id="block-522ef498-a505-4d0b-9a0d-b2e5cca12111">Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right" id="block-4fa7c042-0908-4ee5-9ff4-91607eb34413"><strong>Foxy</strong></p>
-
-
-
-<p class="has-text-align-right" id="block-84ea04e6-519a-4165-8e39-faa42e0200e5"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-43-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
