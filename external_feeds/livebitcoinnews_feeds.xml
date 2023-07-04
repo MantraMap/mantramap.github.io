@@ -402,4 +402,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=3965 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6630452 metric#prefetches=398 metric#store-reads=16 metric#store-writes=3 metric#store-hits=403 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=239.47 metric#ms-cache=19.22 metric#ms-cache-avg=1.0679 metric#ms-cache-ratio=8.0 sample#redis-hits=3008114918 sample#redis-misses=2330988 sample#redis-hit-ratio=99.9 sample#redis-ops-per-sec=33 sample#redis-evicted-keys=0 sample#redis-used-memory=830538680 sample#redis-used-memory-rss=839610368 sample#redis-memory-fragmentation-ratio=1.0 sample#redis-connected-clients=3 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=1825854 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=3965 metric#misses=5 metric#hit-ratio=99.9 metric#bytes=6630451 metric#prefetches=398 metric#store-reads=16 metric#store-writes=2 metric#store-hits=403 metric#store-misses=0 metric#sql-queries=17 metric#ms-total=427.34 metric#ms-cache=43.27 metric#ms-cache-avg=2.5453 metric#ms-cache-ratio=10.1 -->
