@@ -5,7 +5,7 @@
 	<atom:link href="https://www.coinspeaker.com/news/feed/" rel="self" type="application/rss+xml"/>
 	<link>https://www.coinspeaker.com/news/</link>
 	<description>&lt;description&gt;</description>
-	<lastBuildDate>Wed, 05 Jul 2023 09:22:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jul 2023 11:26:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,6 +21,184 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI Suspends Bing Integration in ChatGPT to Protect Content Owner Rights</title>
+		<link>https://www.coinspeaker.com/openai-bing-integration-chatgpt/</link>
+					<comments>https://www.coinspeaker.com/openai-bing-integration-chatgpt/#respond</comments>
+		
+		<dc:creator><![CDATA[Darya Rudz]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 11:25:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Technology News]]></category>
+		<category><![CDATA[browse with bing]]></category>
+		<category><![CDATA[chatgpt]]></category>
+		<category><![CDATA[chatgpt app]]></category>
+		<category><![CDATA[chatgpt browse with bing]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[openai artificial intelligence]]></category>
+		<category><![CDATA[openai chatgpt]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261683</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/openai-bing-integration-chatgpt/">OpenAI Suspends Bing Integration in ChatGPT to Protect Content Owner Rights</a></p>
+<p>The feature was available in a beta version, and while observing it in work, OpenAI learned that Browse with Bing was violating the rights of content owners.</p>
+<p><a rel="nofollow" href="https://www.coinspeaker.com/openai-bing-integration-chatgpt/">OpenAI Suspends Bing Integration in ChatGPT to Protect Content Owner Rights</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/openai-bing-integration-chatgpt/">OpenAI Suspends Bing Integration in ChatGPT to Protect Content Owner Rights</a></p>
+<p>OpenAI, American artificial intelligence (AI) research laboratory renowned for the invention of the AI chatbot <a href="https://www.coinspeaker.com/guides/everything-you-need-to-know-about-chatgpt-ai-chatbot/#:~:text=ChatGPT%20is%20an%20artificial%20intelligence,advanced%20and%20capable%20language%20models." target="_blank" rel="noopener">ChatGPT</a>, has announced its decision to put a new ChatGPT feature called Browse with Bing on hold. The feature, introduced as beta earlier this year, was enabling ChatGPT users to search the internet to help answer questions that benefit from recent information.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">We&#8217;ve learned that ChatGPT&#8217;s &#8220;Browse&#8221; beta can occasionally display content in ways we don&#8217;t want, e.g. if a user specifically asks for a URL&#8217;s full text, it may inadvertently fulfill this request. We are disabling Browse while we fix this—want to do right by content owners.</p>
+<p>— OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1676072388436594688?ref_src=twsrc%5Etfw">July 4, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>How did Browse with Bing work? It was supposed to be an effective integration of ChatGPT with Bing, which would make the flow of information more dynamic and current, leading to a revolution in how humans employ artificial intelligence. Basically, Browse with Bing was an innovative plugin added to ChatGPT Plus that gave AI access to the Internet for real-time information. The feature helped ChatGPT to search using Bing’s search results to provide the most accurate and up-to-date answers to users&#8217; queries. Notably, only those subscribed to ChatGPT Plus membership were able to benefit from the feature.</p>
+<p>The feature was available as a beta version, and while observing it in work, OpenAI learned that Browse with Bing was violating the rights of content owners. As OpenAI has explained, users discovered a way to bypass paywalls using the feature. In particular, users could instruct the chatbot to retrieve the full text of articles behind paywalls, getting access the restricted content without subscribing to the respective websites.</p>
+<p>One of the hot-discussed cases was a <a href="https://www.reddit.com/r/ChatGPT/comments/14j8q1u/it_looks_like_you_can_use_chatgpt_to_bypass/" target="_blank" rel="nofollow noopener">screenshot</a> of a Browse session made by a member of the r/ChatGPT subReddit. The user asked the chatbot to &#8220;print the text&#8221; of a link to a paywalled article from The Atlantic and received it in full without the paywall.</p>
+<p>OpenAI did not wait for long to respond.</p>
+<p>The company stated:</p>
+<blockquote><p>&#8220;As of July 3, 2023, we’ve disabled the Browse with Bing beta feature out of an abundance of caution while we fix this in order to do right by content owners. We are working to bring the beta back as quickly as possible, and appreciate your understanding!&#8221;</p></blockquote>
+<p>Notably, OpenAI does not exclude resuming the Browse with Bing feature for ChatGPT. Currently, it is working on improving its service and adding other tools that might enhance ChatGPT users&#8217; experience.</p>
+<h2 data-hook="post-title">ChatGPT and Copyright Issues</h2>
+<p>Being able to create almost unlimited content, ChatGPT gathers publicly-available information from the internet, expanding its own databases and creating its own new answers. However, ownership of the content varies depending on the sources of the training database, the database’s owner, and the degree of similarity between the database and the output generated. Therefore, using ChatGPT-generated output may result in copyright infringement if it contains protected material such as text, images, or audio without proper authorization from the original creator. This is exactly what happened in June when ChatGPT faced a class-action lawsuit in California over allegedly using private user information from the internet. This is also the case with Browse with Bing feature.</p>
+<p>The response of OpenAI has been a significant step in the AI industry. It is a prime example of AI companies that should not stay away from making difficult decisions if it has anything to do with content creators&#8217; rights.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/binance-australia-offices-raided/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/openai-bing-integration-chatgpt/">OpenAI Suspends Bing Integration in ChatGPT to Protect Content Owner Rights</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/openai-bing-integration-chatgpt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Binance Australia Offices Raided by Securities Regulator</title>
+		<link>https://www.coinspeaker.com/binance-australia-offices-raided/</link>
+					<comments>https://www.coinspeaker.com/binance-australia-offices-raided/#respond</comments>
+		
+		<dc:creator><![CDATA[Chimamanda U. Martha]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 11:09:25 +0000</pubDate>
+				<category><![CDATA[Binance News]]></category>
+		<category><![CDATA[Cryptocurrency news]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[asic]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[binnace cz]]></category>
+		<category><![CDATA[cftc]]></category>
+		<category><![CDATA[changpeng zhao]]></category>
+		<category><![CDATA[cz]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261699</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/binance-australia-offices-raided/">Binance Australia Offices Raided by Securities Regulator</a></p>
+<p>Binance is facing regulatory challenges in multiple jurisdictions worldwide.</p>
+<p><a rel="nofollow" href="https://www.coinspeaker.com/binance-australia-offices-raided/">Binance Australia Offices Raided by Securities Regulator</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/binance-australia-offices-raided/">Binance Australia Offices Raided by Securities Regulator</a></p>
+<p>Binance, the world&#8217;s largest cryptocurrency exchange, faces intensified regulatory scrutiny as authorities search its offices in Australia. According to a Bloomberg <a href="https://www.bloomberg.com/news/articles/2023-07-05/binance-australia-offices-searched-by-regulator-as-part-of-derivatives-probe" target="_blank" rel="nofollow noopener">report</a> on July 5 citing people familiar with the matter, the Australian Securities and Investments Commission (ASIC) invaded the company&#8217;s outlets in the country on Tuesday as part of an ongoing investigation into its derivative business.</p>
+<p>Recall that Binance Australia <a href="https://www.coinspeaker.com/asic-binance-crypto-license/" target="_blank" rel="noopener">decided</a> to wind down the derivatives exchange in April after ASIC rescinded its regulatory license to operate in the country as a derivative broker while keeping its spot platform operational.</p>
+<p>The world&#8217;s largest crypto exchange planned to offer derivative financial instruments to customers in the region through a partnership with Oztures Trading Pty Ltd. However, the plan changed following the license cancellation. ASIC is now investigating the company&#8217;s Australian division, reviewing its classification of retail and wholesale clients, as some users&#8217; positions were closed due to incorrect classification as wholesale investors.</p>
+<h2>Binance Cooperating with Local Authorities</h2>
+<p>While ASIC neither confirmed nor denied the office searches, a Binance spokesperson disclosed that the company is cooperating with local authorities. Binance emphasized its commitment to meeting the country&#8217;s regulatory standards and serving its Australian users fully compliantly. The company aims to work closely with authorities to address any compliance requirements that may arise during the investigation.</p>
+<p>&#8220;We are cooperating with local authorities, and Binance is focused on meeting local regulatory standards in order to serve our users in Australia in a fully compliant manner,&#8221; a spokesperson for Binance Australia told Cointelegraph.</p>
+<p>Aside from the ongoing investigation into the Binance derivatives business in Australia, the company had earlier faced regulatory scrutiny from the security regulator. In February, ASIC launched a probe into the company after the exchange abruptly closed certain derivatives positions. Binance explained at the time that its decision was driven by the need to comply with investor classification requirements, resulting in restrictions imposed on users who did not meet the qualifications to be considered wholesale investors.</p>
+<h2>Binance Faces Global Regulatory Challenges</h2>
+<p>Apart from Australia, Binance is facing regulatory challenges in multiple jurisdictions worldwide. French authorities recently raided the exchange&#8217;s subsidiary in France to investigate the alleged illegal provision of digital-asset services and aggravated money laundering. The company&#8217;s CEO, Changpeng Zhao (<a href="https://www.coinspeaker.com/persons/changpeng-zhao/" target="_blank" rel="noopener">CZ</a>), however, denied the rumors of money laundering, stating that the exchange is in compliance with all laws in France and other markets of operation.</p>
+<p>In the United States, the Securities and Exchange Commission (<a href="https://www.coinspeaker.com/organizations/sec/" target="_blank" rel="noopener">SEC</a>) filed a lawsuit against Binance and its CEO, accusing them of mishandling customer funds, misleading investors and regulators, and violating securities rules. Responding to the civil charges, the company said it plans to defend its platform against the SEC&#8217;s claims vigorously. Binance and Zhao also face a Commodity Futures Trading Commission (CFTC) lawsuit.</p>
+<p>The crypto exchange has recently been ordered to cease operations in Belgium. The country&#8217;s market regulator, the Financial Services and Markets Authority, asked the company to suspend all its exchange and custody offerings for violating local rules and regulations.</p>
+<p>In Belgium, the company&#8217;s application to secure a legal operating license was reportedly rejected due to its inability to meet the country&#8217;s regulatory standards.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/european-stocks-lower-economy/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/binance-australia-offices-raided/">Binance Australia Offices Raided by Securities Regulator</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/binance-australia-offices-raided/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>European Stocks Open Lower as Investors Worry about Downturn in Global Economy</title>
+		<link>https://www.coinspeaker.com/european-stocks-lower-economy/</link>
+					<comments>https://www.coinspeaker.com/european-stocks-lower-economy/#respond</comments>
+		
+		<dc:creator><![CDATA[Tolu Ajiboye]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 11:01:37 +0000</pubDate>
+				<category><![CDATA[Business News]]></category>
+		<category><![CDATA[Market News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Stocks]]></category>
+		<category><![CDATA[Story of the Day]]></category>
+		<category><![CDATA[cac 40]]></category>
+		<category><![CDATA[dax]]></category>
+		<category><![CDATA[ftse 100]]></category>
+		<category><![CDATA[s&p 500]]></category>
+		<category><![CDATA[stoxx 600]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261705</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/european-stocks-lower-economy/">European Stocks Open Lower as Investors Worry about Downturn in Global Economy</a></p>
+<p>There is a marked reduction in European stocks largely caused by the general apprehensiveness in the global economy.</p>
+<p><a rel="nofollow" href="https://www.coinspeaker.com/european-stocks-lower-economy/">European Stocks Open Lower as Investors Worry about Downturn in Global Economy</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/european-stocks-lower-economy/">European Stocks Open Lower as Investors Worry about Downturn in Global Economy</a></p>
+<p>Stocks in the European market opened lower on Wednesday as general uncertainty continues to permeate the financial market and global economy. The Stoxx 600 fell 0.44%, as tech and mining stocks plunged by 1%. The market also saw a 0.41% fall in the CAC 40 Index and a 0.42% reduction in the FTSE 100. The DAX recorded the largest plunge, losing 0.53%.</p>
+<p>European stocks seem to be responding unfavorably to the situation of the economy across the board. Stocks in China, along with markets in the Asia-Pacific region also fell with the Shenzhen Component dropping 0.91% to 11,029.3. The Shanghai Composite also fell, closing at 3,222.95 after losing 0.69%. Larger plunges were seen in the Hang Seng and Hang Seng Tech indexes, losing 1.6% and 1.5%, respectively.</p>
+<p>Across other Asian markets, the Kospi in South Korea closed at 2,579 after losing 0.55%, while Japan’s Nikkei 225 and Topix indexes fell, with the Nikkei 225 losing 0.25.</p>
+<p>Markets in the US also reflected the losses elsewhere. Although US markets were closed for Independence Day, stock futures fell. While the Nasdaq 100 futures lost 0.15%, the Dow Jones Industrial Average futures and the S&amp;P 500 fell 0.13% and 0.09%, respectively.</p>
+<p>On the other hand, the Nasdaq&#8217;s first half was its <a href="https://www.cnbc.com/2023/07/04/stock-market-today-live-updates.html" target="_blank" rel="nofollow noopener">best Q1 in 40 years</a>, since 1983, The S&amp;P also had its best Q1 since 2019, following increased interest in artificial intelligence (AI) stocks. For some, the rise points to more increase in Q2.</p>
+<h2>European Stocks React to Global Economy</h2>
+<p>The uncertainty in economies across the world is causing ripple effects in European stocks and financial markets. For instance, Oil prices have fallen due to uncertainty with demand. Prices had initially <a href="https://www.coinspeaker.com/oil-prices-soars-saudi-arabia-oil/" target="_blank" rel="noopener">soared</a> following Russia and Saudi Arabia’s decision to cut output. At the time, Saudi’s decision was criticized by some who feared the move would weaken the oil market. Nonetheless, Saudi Aramco CEO Amin Nasser described oil market fundamentals for 2023 as “generally sound”. Despite the economic downturn in China and India, Nasser believes both countries would drive oil demand growth of over 2 million barrels per day.</p>
+<p>Anxiety over the economy in China is also causing some unease for European stocks. According to customs data for May, exports from China fell 7.5% year-on-year (YoY), much higher than the 0.4% predicted by analysts Reuters polled. The same May data further revealed that Chinese exports to the EU dropped 4.9%.</p>
+<p>Adding to the bleak forecast on China’s economy is a reduced growth outlook. Investment banking and management giant <a href="https://www.coinspeaker.com/organizations/goldman-sachs/" target="_blank" rel="noopener">Goldman Sachs</a> (NYSE: GS) reduced its growth outlook for China following troubles with recovering from the COVID-19 pandemic. Goldman Sachs expects China’s 2023 gross domestic product (GDP) to fall from 6% to 5.4%. Furthermore, Goldman Sachs predicts the GDP in 2024 will fall from 4.6% to 4.5%.</p>
+<p>In recent times, European stocks have swung noticeably in response to several market events. For instance, these stocks <a href="https://www.coinspeaker.com/organizations/goldman-sachs/" target="_blank" rel="noopener">opened higher</a> in early June after the US Senate suspended the official debt ceiling. The Stoxx 600 had climbed only a few days after its lowest point in two months.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/european-stocks-lower-economy/">European Stocks Open Lower as Investors Worry about Downturn in Global Economy</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/european-stocks-lower-economy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shares of K-Pop Dip after Investigation by South Korea’s Antitrust Watchdog</title>
+		<link>https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/</link>
+					<comments>https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/#respond</comments>
+		
+		<dc:creator><![CDATA[Bhushan Akolkar]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 10:47:13 +0000</pubDate>
+				<category><![CDATA[Business News]]></category>
+		<category><![CDATA[Market News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Stocks]]></category>
+		<category><![CDATA[hybe]]></category>
+		<category><![CDATA[sm entertainment]]></category>
+		<category><![CDATA[yg entertainment]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261695</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/">Shares of K-Pop Dip after Investigation by South Korea’s Antitrust Watchdog</a></p>
+<p>South Korea's Fair Trade Commission has launched an investigation on charges of power abuse in large entertainment firms such as SM Entertainment, YG Entertainment, and Hybe. </p>
+<p><a rel="nofollow" href="https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/">Shares of K-Pop Dip after Investigation by South Korea’s Antitrust Watchdog</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a rel="nofollow" href="https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/">Shares of K-Pop Dip after Investigation by South Korea’s Antitrust Watchdog</a></p>
+<p>On Wednesday, July 5, the price of shares of K-pop agencies <a href="https://www.cnbc.com/2023/07/05/k-pop-stocks-hybe-sm-entertainment-fall-on-reports-of-antitrust-probe.html" target="_blank" rel="nofollow noopener">dipped</a> briefly after South Korea’s antitrust watchdog initiated an investigation.</p>
+<p>As per South Korea&#8217;s local news publication Yonhap News, the country&#8217;s Fair Trade Commission launched an investigation over allegations of power abuse in large entertainment agencies. The report notes that government agencies have sent &#8220;examiners&#8221; to the offices of SM Entertainment, YG Entertainment, and Hybe.</p>
+<p>As per Yonhap, these companies allegedly violated the nation&#8217;s &#8220;subcontracting law&#8221; by using verbal contracts instead of written documents. Additionally, they have also been delaying payments while producing merchandise and albums.</p>
+<p>Hybe, the company representing BTS, experienced a drop in its shares, with the value declining by as much as 3%. Similarly, SM Entertainment, another entertainment agency, saw its shares fall to a low of 2.19%. However, both companies managed to recover some of their losses by the midday break on Wednesday.</p>
+<p>On the other hand, the shares of YG Entertainment, which manages the K-pop girl group Blackpink, had a smaller decrease of up to 1.49%, but later reversed its course and traded 2.23% higher. Note that the official developments aren&#8217;t yet confirmed.</p>
+<h2>More About K-Pop Entertainment</h2>
+<p>K-pop, short for Korean popular music, is a type of music that started in South Korea and is now a significant part of its culture. It encompasses various styles and genres from different parts of the world, including pop, hip hop, R&amp;B, rock, jazz, gospel, reggae, electronic dance, folk, country, disco, and classical, alongside its traditional Korean music influences. The term &#8220;K-pop&#8221; gained popularity in the 2000s, particularly in an international context.</p>
+<p>The KPOP and Korean Entertainment ETF is an investment fund that consists of a portfolio of 30 stocks. These stocks primarily represent entertainment management companies that are responsible for managing popular K-pop bands. Some of the well-known bands included in this ETF are BTS, BlackPink, and Twice. The agencies associated with these bands are HYBE, YG Entertainment, and SM Entertainment.</p>
+<p>Earlier this year, the K-pop group tripleS from South Korea <a href="https://www.coinspeaker.com/k-pop-triples-blockchain-voting/" target="_blank" rel="noopener">released</a> their newest album called &#8220;Assemble&#8221;, and it has received a lot of support from their dedicated community. This pop group is made up of 24 members, and their popularity in the world of K-pop is steadily growing.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/mark-cuban-john-reed-stark-crypto/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/">Shares of K-Pop Dip after Investigation by South Korea’s Antitrust Watchdog</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/shares-k-pop-investigation-watchdog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Mark Cuban, John Reed Stark Debate on Right Crypto Regulation Approach</title>
 		<link>https://www.coinspeaker.com/mark-cuban-john-reed-stark-crypto/</link>
 					<comments>https://www.coinspeaker.com/mark-cuban-john-reed-stark-crypto/#respond</comments>
@@ -281,177 +459,5 @@
 		
 		
 			</item>
-		<item>
-		<title>China Seeks Global Tech Control via Issuing Stern Restrictions on Exporting Semiconductor-Making Materials</title>
-		<link>https://www.coinspeaker.com/china-global-tech-semiconductor/</link>
-					<comments>https://www.coinspeaker.com/china-global-tech-semiconductor/#respond</comments>
-		
-		<dc:creator><![CDATA[Steve Muchoki]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 15:37:35 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Business News]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Technology News]]></category>
-		<category><![CDATA[Transportation News]]></category>
-		<category><![CDATA[nvda]]></category>
-		<category><![CDATA[nvda stock]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261647</guid>
-
-					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/china-global-tech-semiconductor/">China Seeks Global Tech Control via Issuing Stern Restrictions on Exporting Semiconductor-Making Materials</a></p>
-<p>China manufactures nearly 80 percent of global gallium and germanium products used in making chips that are critical in AI developments.</p>
-<p><a rel="nofollow" href="https://www.coinspeaker.com/china-global-tech-semiconductor/">China Seeks Global Tech Control via Issuing Stern Restrictions on Exporting Semiconductor-Making Materials</a></p>
-]]></description>
-										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/china-global-tech-semiconductor/">China Seeks Global Tech Control via Issuing Stern Restrictions on Exporting Semiconductor-Making Materials</a></p>
-<p>The Xi Jinping-led government has once again pushed the People&#8217;s Republic of China to arise against the enemy’s gunfire after being left with few moves to play. Notably, the government of China has issued a stern warning against the exportation of gallium and germanium products, which are mostly used in the manufacture of semiconductor chips. On July 3, the Chinese Ministry of Commerce issued a joint statement with the General Administration of Customs requiring all gallium and germanium metal exports to have a government license.</p>
-<p>Citing national security interests, the Chinese government <a href="https://cointelegraph.com/news/china-to-tighten-control-on-exports-of-ai-chip-making-materials" target="_blank" rel="nofollow noopener">noted</a> that there will be no excess exportation of gallium and germanium starting from August 1. Reportedly, the government has put in place punitive actions against persons caught going against the issued orders.</p>
-<p>Some of the metal products highlighted in the recent export restrictions include gallium antimonide, gallium arsenide, gallium metal, gallium nitride, gallium oxide, gallium phosphide, gallium selenide, and indium gallium arsenide.</p>
-<p>Others are germanium products including germanium dioxide, germanium epitaxial growth substrate, germanium ingot, germanium metal, germanium tetrachloride, and zinc germanium phosphide.</p>
-<h2>China Checkmates US Sanctions on AI Chips</h2>
-<p>Undeniably, the Chinese government has outwitted the United States government in taking control of futuristic technologies by restricting the exportation of key materials. Moreover, a 2023 report from the European Commission and the European Association of Critical Raw Materials Alliance (CRMA), shows that the Republic of China is home to over 80 percent of global gallium supply. The Chinese tech experts are now working on scaling the production of their modern semiconductor chips to remain a major global hub for tech companies in the future.</p>
-<p>Notably, Chinese tech companies have suffered a low supply of American emerging technologies since the Trump administration began issuing sanctions. The situation has over the years worsened after the Biden administration issued similar sanctions and pushed its allies including Japan to cut China off the semiconductor supply.</p>
-<p>Since the Artificial Intelligence (AI) boom, related stocks and products have skyrocketed amid heavy speculations. For instance, <a href="https://www.coinspeaker.com/organizations/nvidia/" target="_blank" rel="noopener">Nvidia Corp.</a> (NASDAQ: NVDA) saw its market capitalization rally towards $1 trillion earlier this year following the demand vs supply choke. According to the latest stock market data, NVDA shares have rallied about 19 percent YTD to trade around $424 on Tuesday. Interestingly, nearly 50 Wall Street analysts expect the NVDA stock market to rally further in the coming future with an average rating of Buy.</p>
-<p>The response from the White House on the matter is expected to escalate or calm down the situation after Chinese officials earlier requested nations to work together on technology for humanity’s future. Nonetheless, the ongoing war between Russia and Ukraine has complicated the relationship between the West and China.</p>
-<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/twitter-subscribers-tweetdeck/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/china-global-tech-semiconductor/">China Seeks Global Tech Control via Issuing Stern Restrictions on Exporting Semiconductor-Making Materials</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.coinspeaker.com/china-global-tech-semiconductor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Twitter Subscribers to Gain Exclusive Access to TweetDeck</title>
-		<link>https://www.coinspeaker.com/twitter-subscribers-tweetdeck/</link>
-					<comments>https://www.coinspeaker.com/twitter-subscribers-tweetdeck/#respond</comments>
-		
-		<dc:creator><![CDATA[Benjamin Godfrey]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 15:34:14 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Social Media]]></category>
-		<category><![CDATA[Technology News]]></category>
-		<category><![CDATA[bluesky]]></category>
-		<category><![CDATA[elon musk]]></category>
-		<category><![CDATA[jack dorsey]]></category>
-		<category><![CDATA[mastodon]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[TweetDeck]]></category>
-		<category><![CDATA[twitter]]></category>
-		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261640</guid>
-
-					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/twitter-subscribers-tweetdeck/">Twitter Subscribers to Gain Exclusive Access to TweetDeck</a></p>
-<p>The competition in the social media industry is heating up, and Twitter is finding itself in the midst of a dynamic landscape with various rivals vying for user attention and engagement.</p>
-<p><a rel="nofollow" href="https://www.coinspeaker.com/twitter-subscribers-tweetdeck/">Twitter Subscribers to Gain Exclusive Access to TweetDeck</a></p>
-]]></description>
-										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/twitter-subscribers-tweetdeck/">Twitter Subscribers to Gain Exclusive Access to TweetDeck</a></p>
-<p>In a recent announcement, <a href="https://www.coinspeaker.com/organizations/twitter/" target="_blank" rel="noopener">Twitter Inc</a> confirmed that a change is forthcoming regarding the accessibility of TweetDeck. According to recent <a href="https://www.nottinghampost.com/news/uk-world-news/twitter-says-tweetdeck-soon-only-8572133" target="_blank" rel="nofollow noopener">reports</a>, starting in 30 days, TweetDeck will only be accessible to users who have obtained verified status on the platform.</p>
-<p>TweetDeck has long been regarded as a helpful resource for social media enthusiasts, professionals, and corporations. Its unique features, such as the ability to handle various feeds and searches, have made it a go-to platform for people looking for a more simplified way to manage their Twitter activities.</p>
-<h2>The Release of TweetDeck 2.0</h2>
-<p>Notably, TweetDeck 2.0 introduces numerous major features and changes to the popular social media management application.</p>
-<p>While users can expect new features such as video docking and enhanced Tweet composer functionality, one significant adjustment is the temporary disabling of TweetDeck Teams. However, Twitter has reassured users that TweetDeck Teams will be reintroduced in the coming weeks.</p>
-<p>This announcement comes just days after <a href="https://www.coinspeaker.com/persons/elon-musk/" target="_blank" rel="noopener">Elon Musk</a>, Twitter’s Chairman made another significant change by <a href="https://www.coinspeaker.com/twitter-daily-tweet-views-ceo-efforts/" target="_blank" rel="noopener">limiting</a> unverified users to reading only 1000 posts per day. Since assuming ownership of the company, Musk has maintained an active and vocal presence, implementing various changes aimed at improving user experience and tackling longstanding issues plaguing the platform.</p>
-<p>Twitter&#8217;s recent updates and changes continue to make waves in the social media landscape. In a recent development, verified users on Twitter, who have either subscribed to Twitter Blue or are considered “notable,” have seen an increase in their daily post limit.</p>
-<p>Initially set at 6,000 posts, verified users can now read up to 10,000 posts per day, allowing for a more extensive engagement with the platform. As of now, all users, regardless of their Twitter Blue status, are able to access the new version of TweetDeck. This means that there is no immediate restriction on accessing TweetDeck for verified or unverified users.</p>
-<h2>Competition Heats Up for Twitter</h2>
-<p>The competition in the social media industry is heating up, and Twitter is finding itself in the midst of a dynamic landscape with various rivals vying for user attention and engagement.</p>
-<p>One of the significant competitors that Twitter faces is Facebook from <a href="https://www.coinspeaker.com/organizations/meta/" target="_blank" rel="noopener">Meta Platforms Inc</a> (NASDAQ: META), which has a massive user base and an established ecosystem of platforms and services.</p>
-<p>Facebook&#8217;s recent <a href="https://www.coinspeaker.com/meta-twitter-app-july-6/" target="_blank" rel="noopener">launch</a> of a rival app dubbed Threads adds another layer of competition to the mix. With its extensive resources and user reach, Facebook has the potential to pose a significant challenge to Twitter&#8217;s market position.</p>
-<p>Other microblogging platforms have also emerged as formidable contenders in the social media space. Following Musk&#8217;s announcement, Bluesky, a platform backed by Jack Dorsey, the co-founder and former CEO of Twitter, <a href="https://www.coinspeaker.com/bluesky-record-traffic-twitter/" target="_blank" rel="noopener">experienced a surge</a> in traffic. Users flocked to Bluesky, leading to “record-high traffic” on the same day the announcement was made.</p>
-<p>Another platform that <a href="https://www.coinspeaker.com/twitter-mastodon-user-base/" target="_blank" rel="noopener">witnessed</a> a significant increase in traffic is Mastodon, a decentralized social network. Eugen Rochko, CEO of Mastodon revealed that the platform experienced a surge in its active user base by at least 110,000 on Sunday, July 2.</p>
-<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/uk-g7-inflation-oecd-data/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/twitter-subscribers-tweetdeck/">Twitter Subscribers to Gain Exclusive Access to TweetDeck</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.coinspeaker.com/twitter-subscribers-tweetdeck/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>OECD Data: UK Is Only G7 Country where Inflation Is Still Rising</title>
-		<link>https://www.coinspeaker.com/uk-g7-inflation-oecd-data/</link>
-					<comments>https://www.coinspeaker.com/uk-g7-inflation-oecd-data/#respond</comments>
-		
-		<dc:creator><![CDATA[Tolu Ajiboye]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 15:21:33 +0000</pubDate>
-				<category><![CDATA[Market News]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Story of the Day]]></category>
-		<category><![CDATA[bank of america]]></category>
-		<category><![CDATA[boe]]></category>
-		<category><![CDATA[g7]]></category>
-		<category><![CDATA[imf]]></category>
-		<category><![CDATA[oecb]]></category>
-		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261632</guid>
-
-					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/uk-g7-inflation-oecd-data/">OECD Data: UK Is Only G7 Country where Inflation Is Still Rising</a></p>
-<p>Inflation in the UK is still on the rise despite continuous hikes in interest rates and inflation reductions in other G7 countries.</p>
-<p><a rel="nofollow" href="https://www.coinspeaker.com/uk-g7-inflation-oecd-data/">OECD Data: UK Is Only G7 Country where Inflation Is Still Rising</a></p>
-]]></description>
-										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/uk-g7-inflation-oecd-data/">OECD Data: UK Is Only G7 Country where Inflation Is Still Rising</a></p>
-<p>Inflation in the United Kingdom (UK) is still rising despite continuous efforts from the country’s central bank. <a href="https://www.cnbc.com/2023/07/04/uk-is-now-the-only-major-economy-where-inflation-is-still-rising.html" target="_blank" rel="noopener">Data</a> from the Organization for Economic Cooperation and Development (OECD) states that inflation in all other G7 countries is falling.</p>
-<p>According to the OECD, G7 inflation dropped from 5.6% in April to 4.6% in May. The organization noted that this reduction, the lowest in more than 6 months, was true of G7 countries outside the UK. The OECD said there are noted reductions in inflation in Japan, Canada, Germany, the US, France, and Italy.</p>
-<p>Furthermore, the OECD said inflation dropped in all observed nations in May, from April, excluding the UK, Norway, and the Netherlands. In the UK, consumer prices rose 7.8% between April and May, and 7.9% compared to last year.</p>
-<h2>Bank of England Still Fighting UK Inflation</h2>
-<p>The Bank of England (<a href="https://www.coinspeaker.com/organizations/bank-of-england/" target="_blank" rel="noopener">BoE</a>) recently <a href="https://www.coinspeaker.com/uk-raises-interest-13th-time/" target="_blank" rel="noopener">announced</a> an interest rate hike by 50 basis points. The announcement came after the Monetary Policy Committee voted 7-2 in favor, marking the 13th consecutive hike.</p>
-<p>The BoE increased rates in response to inflation as the annual consumer price index climbed 8.7% in May, higher than the 8.4% economists had predicted. Core inflation, excluding alcohol, tobacco, and food, also climbed to 7.1% from the 6.8% recorded in April. Back in March, <a href="https://www.coinspeaker.com/uk-inflation-double-digit-march-2023/" target="_blank" rel="noopener">UK inflation was at 10.1%</a> according to the Office for National Statistics, higher than the 9.8% expected by a Reuters poll of economists. UK inflation hit <a href="https://www.coinspeaker.com/uk-inflation-soars-highest-41-years/" target="_blank" rel="noopener">11.1% in November</a>, the highest level in 41 years.</p>
-<p>Speaking on the hike, BoE governor Andrew Bailey said the increase was necessary. Bailey admitted that although the economy is improving, hiking interest rates is important as inflation is “still too high and we’ve got to deal with it.” Bailey warned that any delay in increasing these rates could worsen the economy in the near future.</p>
-<p>Despite the poor figures, the International Monetary Fund (IMF) has a bullish outlook on the UK’s inflation. According to the IMF, the UK will likely escape a recession in 2023 and see positive growth this year. However, the IMF warns that although it expects growth, this outlook is “subdued”. Essentially, the Fund does not expect large growth margins. The IMF had previously <a href="https://www.coinspeaker.com/imf-global-growth-forecast-us-eurozone-gdp/" target="_blank" rel="noopener">predicted</a> that growth in the UK would contract by 0.3%</p>
-<h2>More Hikes Coming?</h2>
-<p>A Reuters <a href="https://www.reuters.com/markets/rates-bonds/bank-england-hikes-rates-5-surprise-move-tackle-stubborn-inflation-2023-06-22/" target="_blank" rel="nofollow noopener">report</a> states that markets predict a 50% chance that the rate would peak at 6.25% this year. The recent hike had pushed rates to 5%.</p>
-<p>Generally, the UK’s economy has suffered a few setbacks that may have worsened inflation over time. In addition to Brexit and COVID-19, the country has experienced quite an increase in gas prices because of Russia’s war against Ukraine. Although many countries have suffered their fair share of problems caused by the same factors, the UK is still struggling.</p>
-<p>Bailey said while the BoE is not expecting a recession, the rate hike was “absolutely imperative”, and the bank will continue to do whatever is required to reduce inflation.</p>
-<p>A BoE forecast puts growth in the UK for 2023 at 0.25%.</p>
-<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/uk-g7-inflation-oecd-data/">OECD Data: UK Is Only G7 Country where Inflation Is Still Rising</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.coinspeaker.com/uk-g7-inflation-oecd-data/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Telescope Labs Unveils GPT 4-Backed Advanced Tool for Analyzing and Grading Web3 Games</title>
-		<link>https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/</link>
-					<comments>https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/#respond</comments>
-		
-		<dc:creator><![CDATA[Ibukun Ogundare]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 13:00:35 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Gaming News]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Technology News]]></category>
-		<category><![CDATA[telescope labs]]></category>
-		<guid isPermaLink="false">https://www.coinspeaker.com/?p=261409</guid>
-
-					<description><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/">Telescope Labs Unveils GPT 4-Backed Advanced Tool for Analyzing and Grading Web3 Games</a></p>
-<p>Apart from setting the bar with the first-of-its-kind solution, Telescope Labs boasts the plugin's integration with artificial intelligence for advanced real-time analysis. </p>
-<p><a rel="nofollow" href="https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/">Telescope Labs Unveils GPT 4-Backed Advanced Tool for Analyzing and Grading Web3 Games</a></p>
-]]></description>
-										<content:encoded><![CDATA[<p><a rel="nofollow" href="https://www.coinspeaker.com">Coinspeaker</a><br />
-<a rel="nofollow" href="https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/">Telescope Labs Unveils GPT 4-Backed Advanced Tool for Analyzing and Grading Web3 Games</a></p>
-<p>Launched in 2022, data analytics startup Telescope Labs has launched an advanced tool for analyzing and grading web3 games. The company provides support for web3 gaming outfits and uses predictive models and machine learning to cater to users. According to an official announcement on July 4th, the newly-unveiled plugin is powered by OpenAI&#8217;s GPT-4. The tool is a unique solution that utilizes <a href="https://www.coinspeaker.com/news/technology/artificial-intelligence-news/" target="_blank" rel="noopener">AI</a> to access thousands of web3 games.</p>
-<h2>Telescope Labs Rolls Out AI Tool for Analyzing and Grading Web3 Games</h2>
-<p>Telescope Labs deploying the advanced reasoning abilities of GPT-4 means that the new tool for analyzing and grading web3 grams goes beyond the traditional analysis tools. It will help its users conduct daily analyses and compare the growth performance of multiple games. In addition, the Telescope Labs web3 game analytics powered by GPT-4 can be used to predict future trends.</p>
-<p>Following the launch, users of the Telescope Labs tool can use it for grading and analyzing over 2,000 web3 games. Also, there are 37 distinct Key Performance Indicators (KPIs) available to them to make smarter choices. The KPIs have been optimized for web3 and are accessible to all users.</p>
-<p>The CEO and co-founder of Telescope Labs, Semih Gilan, is excited about the announcement of the grading tool. He added that &#8220;the plugin&#8217;s blend of voluminous and varied data, sophisticated reasoning, user-friendliness, and real-time responsiveness is a game-changer for web3 gaming and blockchain.&#8221;</p>
-<p>Notably, the plugin is the first-of-its-kind solution, and this means that Telescope Labs has set a standard for future developments. Already, OpenAI disrupted the markets with its ChatGPT before releasing GPT-4 months ago. Since its release on March 14th, 2023, the latest version of OpenAI&#8217;s multimodal larger language model has caught the attention of many companies like Telescope Labs. With Telescope Labs launching a GPT-4-backed web3 games grading tool, there will be a higher understanding of web3 gaming and blockchain game analysis.</p>
-<h2>Telescope Labs Sets Bar for Future Developments</h2>
-<p>Telescope Labs spoke about the push behind the development of the grading tool. The data analytics startup said the plugin is responding to the blockchain gaming industry&#8217;s call for advanced analysis tools. It added that blockchain gaming community members have been demanding user-friendly data analysis tools. Hence, the unveiling of the plugin.</p>
-<p>Apart from setting the bar with the first-of-its-kind solution, Telescope Labs boasts the plugin&#8217;s integration with artificial intelligence for advanced real-time analysis. It also said the tool is easy to use and sets the benchmark regarding data access.</p>
-<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/bitcoin-ordinals-luminex-brc-69/" rel="prev">next</a><p><a rel="nofollow" href="https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/">Telescope Labs Unveils GPT 4-Backed Advanced Tool for Analyzing and Grading Web3 Games</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.coinspeaker.com/telescope-gpt-web3-grading-tool/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
 	</channel>
-</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4110 metric#misses=41 metric#hit-ratio=99.0 metric#bytes=1067422 metric#prefetches=202 metric#store-reads=20 metric#store-writes=2 metric#store-hits=209 metric#store-misses=2 metric#sql-queries=34 metric#ms-total=357.13 metric#ms-cache=21.34 metric#ms-cache-avg=1.0160 metric#ms-cache-ratio=6.0 -->
+</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4156 metric#misses=41 metric#hit-ratio=99.0 metric#bytes=1106582 metric#prefetches=210 metric#store-reads=20 metric#store-writes=2 metric#store-hits=217 metric#store-misses=2 metric#sql-queries=34 metric#ms-total=109.01 metric#ms-cache=5.08 metric#ms-cache-avg=0.2419 metric#ms-cache-ratio=4.7 -->
