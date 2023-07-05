@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Wed, 05 Jul 2023 13:52:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jul 2023 15:00:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crypto Advertisements Soon to Have Major Restrictions in UK</title>
+		<link>https://cryptobriefing.com/crypto-advertisement-restrictions-uk/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 14:45:53 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=124966</guid>
+
+					<description><![CDATA[The UK Government has expanded the scope of the financial promotion regime to incorporate specific crypto assets. This new regulation, which comes into effect on October 8, 2023, mandates all...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/05103710/emilytonelli_UK_Government_officials_with_crypto_symbols_660aa34a-e411-445f-83a4-20ad6a9b5ce4-2-868x434.png" width="868" height="434" />	</item>
+		<item>
 		<title>Singapore&#8217;s DBS Bank Launches Digital Yuan Payment Solution in China</title>
 		<link>https://cryptobriefing.com/dbs-bank-launches-e-yuan-payment-solution/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -444,20 +458,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/04/26064155/Bitcoin-JPMorgan-cover-838x440.png" width="838" height="440" />	</item>
-		<item>
-		<title>Binance Faces Pyramid Scheme Allegations in Brazil</title>
-		<link>https://cryptobriefing.com/binance-suspected-of-pyramid-scheme/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
-		<pubDate>Thu, 22 Jun 2023 14:33:36 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=124685</guid>
-
-					<description><![CDATA[Brazilian Deputy Alfredo Gaspar has called for Guilherme Haddad, the head of Binance Brazil, to testify before parliament in a probe into suspected pyramid schemes in the nation. The Parliamentary...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2021/07/23060907/binance-may-go-public-cover-838x440.png" width="838" height="440" />	</item>
 	</channel>
 </rss>
