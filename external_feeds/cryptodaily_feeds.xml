@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Wed, 05 Jul 2023 05:08:07 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jul 2023 07:12:07 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,54 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Decoding The Poly Network Exploit]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/decoding-the-poly-network-exploit</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/polynetwork-exploit-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/polynetwork-exploit-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/polynetwork-exploit-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Wed, 05 Jul 2023 07:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/decoding-the-poly-network-exploit</guid>
+			  <description><![CDATA[<p class="md-end-block md-p md-focus">Decoding the Poly Network Exploit: Key Lessons in Smart Contract Security</p>
+<p class="md-end-block md-p">The DeFi world was rocked recently as Poly Network, a decentralized finance protocol that facilitates asset transfers across various blockchains, fell prey to its second major hack. This incident is a stark reminder of the critical role of smart contract security in the rapidly evolving DeFi and crypto industry.</p>
+<p class="md-end-block md-p">On July 2nd, a breach affected Poly Network, with the exploit potentially impacting as many as 57 different asset types across 10 blockchains. According to security analysts, hackers allegedly leveraged a vulnerability in the smart contract system that allowed thgem to mint an unlimited amount of tokens. An estimated $42 billion worth of tokens were minted, although only about $5 million have been reportedly cashed out.</p>
+<p class="md-end-block md-p">Poly Network isn't alone in its security woes. The DeFi and Web3 space has been marred by a series of similar exploits, with millions of dollars worth of digital assets lost to hackers. Many of these attacks, like the one against Poly Network, have leveraged vulnerabilities in smart contract systems. These programmable agreements, which execute transactions automatically when predetermined conditions are met, are a cornerstone of the DeFi ecosystem but also a prime target for cybercriminals.</p>
+Severity of the Exploit: Understanding the Consequences
+<p class="md-end-block md-p">The Poly Network hack underscores the severity and potential consequences of smart contract vulnerabilities. In the immediate aftermath, the total value locked on Poly Network plunged from $277 million to $176 million, a clear indication of the loss in user confidence. The ripple effects of such an incident can be wide-ranging, from an erosion of trust in the protocol to a broader negative impact on the DeFi market. </p>
+<p class="md-end-block md-p">Such a hack also highlights the risks involved in the relatively new field of cross-chain transactions. As more DeFi platforms aim to enable seamless transactions across various blockchains, ensuring the security of these cross-chain protocols is a challenge that cannot be overlooked.</p>
+Analyzing the Exploit: Unpacking the Technical Details
+<p class="md-end-block md-p">The recent Poly Network exploit underpins the role of effective security measures in ensuring the integrity of blockchain networks, especially given the sophistication and complexity of the attack vectors involved. By forging proofs and potentially compromising private keys or executing a multi-signature service attack, the hacker was able to manipulate the LockProxy cross-chain bridge contract.</p>
+<p class="md-end-block md-p">To begin with, the attacker used the lock function to lock a small amount of Lever Token. The subsequent transaction, viewed on the Poly Network explorer, indicated that the action had been validated through the relay chain. However, when the hacker moved to the BNB chain and initiated withdrawal operations via the verifyHeaderAndExecuteTx function, the withdrawal quantity did not match the originally locked amount. Further examination of the relay chain network did not show any records of this transaction.</p>
+<p class="md-end-block md-p">At this point, two possibilities were considered: the leakage of signatures or the modification of keepers, entities responsible for signing user withdrawals. Controlling a keeper would allow the attacker to initiate withdrawals with forged signatures, leading to unauthorized transactions. Analyzing the attacker's use of the verifyHeaderAndExecuteTx function indicated that keepers had not been modified, directing the suspicion towards compromised keeper private keys or a multi-signature service attack.</p>
+<p class="md-end-block md-p">Following the trail, three keepers were identified as potential compromise victims, underlining a significant security risk. If proven true, this would mean the attacker could initiate withdrawals and create seemingly valid transactions, bypassing the protocols' security measures.</p>
+<p class="md-end-block md-p">Such an exploit demonstrates the need for advanced security strategies, including enhanced private key management and robust signature verification processes. If overlooked, these vulnerabilities can provide potential entry points for attackers to exploit and wreak havoc on blockchain networks, as illustrated by the Poly Network case. With the DeFi and crypto industry still at an early phase of developmental maturity, it's vital for protocol developers to continuously learn from such incidents, fortifying their systems against potential breaches, and upholding user trust.</p>
+Addressing Smart Contract Vulnerabilities
+<p class="md-end-block md-p">Smart contract vulnerabilities can be mitigated, albeit not entirely eliminated. An effective approach involves a combination of preventive measures and reactive strategies.</p>
+<p class="md-end-block md-p">Preventive measures include rigorous testing of smart contracts before deployment and regular audits by external security firms. These audits can help identify and rectify vulnerabilities before they can be exploited. Code review and bug bounty programs, where programmers are rewarded for discovering and reporting software bugs, can also be instrumental in fortifying smart contract security.</p>
+<p class="md-end-block md-p">From a reactive standpoint, developers can use upgradeable smart contracts that allow for the modification of the contract's code post-deployment. This feature can be crucial for responding swiftly and effectively to discovered vulnerabilities.</p>
+<p class="md-end-block md-p">Moving forward, it's clear that smart contract security must be at the forefront of DeFi protocol development. As the case of Poly Network demonstrates, the stakes are high, and the fallout from a breach can be devastating. By embracing rigorous security measures and continually learning from past incidents, the DeFi industry can help mitigate these risks and foster a more secure and resilient ecosystem.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p md-focus">Decoding the Poly Network Exploit: Key Lessons in Smart Contract Security</p>
+<p class="md-end-block md-p">The DeFi world was rocked recently as Poly Network, a decentralized finance protocol that facilitates asset transfers across various blockchains, fell prey to its second major hack. This incident is a stark reminder of the critical role of smart contract security in the rapidly evolving DeFi and crypto industry.</p>
+<p class="md-end-block md-p">On July 2nd, a breach affected Poly Network, with the exploit potentially impacting as many as 57 different asset types across 10 blockchains. According to security analysts, hackers allegedly leveraged a vulnerability in the smart contract system that allowed thgem to mint an unlimited amount of tokens. An estimated $42 billion worth of tokens were minted, although only about $5 million have been reportedly cashed out.</p>
+<p class="md-end-block md-p">Poly Network isn't alone in its security woes. The DeFi and Web3 space has been marred by a series of similar exploits, with millions of dollars worth of digital assets lost to hackers. Many of these attacks, like the one against Poly Network, have leveraged vulnerabilities in smart contract systems. These programmable agreements, which execute transactions automatically when predetermined conditions are met, are a cornerstone of the DeFi ecosystem but also a prime target for cybercriminals.</p>
+Severity of the Exploit: Understanding the Consequences
+<p class="md-end-block md-p">The Poly Network hack underscores the severity and potential consequences of smart contract vulnerabilities. In the immediate aftermath, the total value locked on Poly Network plunged from $277 million to $176 million, a clear indication of the loss in user confidence. The ripple effects of such an incident can be wide-ranging, from an erosion of trust in the protocol to a broader negative impact on the DeFi market. </p>
+<p class="md-end-block md-p">Such a hack also highlights the risks involved in the relatively new field of cross-chain transactions. As more DeFi platforms aim to enable seamless transactions across various blockchains, ensuring the security of these cross-chain protocols is a challenge that cannot be overlooked.</p>
+Analyzing the Exploit: Unpacking the Technical Details
+<p class="md-end-block md-p">The recent Poly Network exploit underpins the role of effective security measures in ensuring the integrity of blockchain networks, especially given the sophistication and complexity of the attack vectors involved. By forging proofs and potentially compromising private keys or executing a multi-signature service attack, the hacker was able to manipulate the LockProxy cross-chain bridge contract.</p>
+<p class="md-end-block md-p">To begin with, the attacker used the lock function to lock a small amount of Lever Token. The subsequent transaction, viewed on the Poly Network explorer, indicated that the action had been validated through the relay chain. However, when the hacker moved to the BNB chain and initiated withdrawal operations via the verifyHeaderAndExecuteTx function, the withdrawal quantity did not match the originally locked amount. Further examination of the relay chain network did not show any records of this transaction.</p>
+<p class="md-end-block md-p">At this point, two possibilities were considered: the leakage of signatures or the modification of keepers, entities responsible for signing user withdrawals. Controlling a keeper would allow the attacker to initiate withdrawals with forged signatures, leading to unauthorized transactions. Analyzing the attacker's use of the verifyHeaderAndExecuteTx function indicated that keepers had not been modified, directing the suspicion towards compromised keeper private keys or a multi-signature service attack.</p>
+<p class="md-end-block md-p">Following the trail, three keepers were identified as potential compromise victims, underlining a significant security risk. If proven true, this would mean the attacker could initiate withdrawals and create seemingly valid transactions, bypassing the protocols' security measures.</p>
+<p class="md-end-block md-p">Such an exploit demonstrates the need for advanced security strategies, including enhanced private key management and robust signature verification processes. If overlooked, these vulnerabilities can provide potential entry points for attackers to exploit and wreak havoc on blockchain networks, as illustrated by the Poly Network case. With the DeFi and crypto industry still at an early phase of developmental maturity, it's vital for protocol developers to continuously learn from such incidents, fortifying their systems against potential breaches, and upholding user trust.</p>
+Addressing Smart Contract Vulnerabilities
+<p class="md-end-block md-p">Smart contract vulnerabilities can be mitigated, albeit not entirely eliminated. An effective approach involves a combination of preventive measures and reactive strategies.</p>
+<p class="md-end-block md-p">Preventive measures include rigorous testing of smart contracts before deployment and regular audits by external security firms. These audits can help identify and rectify vulnerabilities before they can be exploited. Code review and bug bounty programs, where programmers are rewarded for discovering and reporting software bugs, can also be instrumental in fortifying smart contract security.</p>
+<p class="md-end-block md-p">From a reactive standpoint, developers can use upgradeable smart contracts that allow for the modification of the contract's code post-deployment. This feature can be crucial for responding swiftly and effectively to discovered vulnerabilities.</p>
+<p class="md-end-block md-p">Moving forward, it's clear that smart contract security must be at the forefront of DeFi protocol development. As the case of Poly Network demonstrates, the stakes are high, and the fallout from a breach can be devastating. By embracing rigorous security measures and continually learning from past incidents, the DeFi industry can help mitigate these risks and foster a more secure and resilient ecosystem.</p>
+<p class="md-end-block md-p">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Maximizing Opportunities: Leveraging The Potential of Uwerx (WERX), The Sandbox (SAND), And EOS (EOS)]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/maximizing-opportunities-leveraging-the-potential-of-uwerx-werx-the-sandbox-sand-and-eos-eos</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/screenshot-2023-07-04-at-192612.png" medium="image" />
@@ -728,84 +776,6 @@ Firms Update ETF Filings
 <p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bearishly below MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Monolith Crypto Price Prediction: Uwerx (WERX) Continues To Soar]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/monolith-crypto-price-prediction-uwerx-werx-continues-to-soar</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/screenshot-2023-07-03-at-184909.png" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/screenshot-2023-07-03-at-184909.png" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/screenshot-2023-07-03-at-184909.png" length="528" type="image/jpg" />
-			  <pubDate>Mon, 03 Jul 2023 18:45:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/monolith-crypto-price-prediction-uwerx-werx-continues-to-soar</guid>
-			  <description><![CDATA[<p class="s7">Uwerx is a new project seeking to reconceptualize the gig economy with its revolutionary features. This accounts for its presale success and the increased adoption it has been gaining. Due to these, analysts predict a bright future for the project, which has shown strong potential to keep soaring in the crypto winter. </p>
-<p class="s7">On the other hand, Monolith (TKN) is struggling to beat bearish sentiments as the bears continue to dominate over the token. This article looks at Monolith&rsquo;s (TKN) predictions, what Uwerx is all about, and why you should quickly become a WERX holder.</p>
-<p class="s9">&gt;&gt;BUY WERX TOKENS NOW&lt;&lt;</p>
-What The Charts Say About Monolith (TKN)
-<p class="s7">The crypto market considers Monolith (TKN) a near-dead crypto as it has only recorded a few transactions or trading activities for a long time. This has caused Monolith (TKN) to see a huge plunge without signs of recovery. </p>
-<p class="s7">Monolith (TKN) currently dines with the bear as it has remained at the bottom, with predictions showing it might record only a negligible price increase. Monolith (TKN) has declined by almost 5% in the past week, and further decline is imminent. </p>
-<p class="s7">Monolith (TKN) is seeing increased selling pressure as most token holders quickly sell their tokens and move to more active platforms.</p>
-<p class="s7">Monolith (TKN) Launched Its Visa Debit Card</p>
-<p class="s7">Monolith (TKN) is a decentralized banking powered by Ethereum (ETH), enabling users to use its Visa debit card to store or spend their tokens globally. Monolith (TKN) provides a DeFicontract wallet where users can store their tokens and use the Visa debit card to make in-app crypto purchases. </p>
-<p class="s9">&gt;&gt;BUY WERX TOKENS NOW&lt;&lt;</p>
-Uwerx (WERX) Continues Smashing Through Its Presale
-<p class="s7">Uwerx's surging presale has been marveling, quickly reaching its final stage, stage 5. This exceeded initial predictions, and due to demands, WERX allocation for the presale was increased to 427,500,000 (57%). Stage 5 has 72,500,000 WERX available, and the total supply of WERX is 750,000,000.</p>
-<p class="s7">The WERX price increase is more surprising. WERX started trading at $0.005 but is now at $0.047725, with more price increases unavoidable. Also, the WERX launch price was increased to $0.095 - $0.115 due to the token&rsquo;s rising value.</p>
-<p class="s7">There is a 15% purchase bonus to increase users&rsquo; profits, and the presale ends on July 31. </p>
-Uwerx (WERX) Has Leverage Over Other Freelancing Platforms
-<p class="s7">Global gig workers are expected to reach 78 million in 2023. Hence, Uwerx is making significant moves to increase adoption and stand out from centralized platforms. It brings blockchain technology and a 1% service fee, features yet to be seen in freelancing. There is also the UwerxVault which promotes user rewards and engagement.</p>
-<p class="s7">Its platform&rsquo;s Alpha version launched a few months back and has been gaining traction with more features added. The platform&rsquo;s features now include the Initial Step of Job Creation, My Activity Page, Initial Step of Finding Talent, Hiring Dashboard Page, Logging In and Sign-Up Pages, Freelancer or Client Initiation, Job Creation Process Page, and Forgot Password.</p>
-<p class="s7">The Job Application Page was remodeled to the Post Job and Apply Page to quicken users' job applications. New features like the Tools and Client and Freelancer Dashboards are in the works. </p>
-<p class="s7">Uwerx will transition to the Beta version, which is now in the works so users can test the platform themselves. InterFi Network and SolidProof have performed audit approvals on Uwerxto ensure its security. The platform has gained over 1,825 Telegram members, 1,652 Twitter followers, and 6,953 sign-ups.</p>
-<p class="s7">The team's agile methodology to release the project in bits and modify the platform based on users' feedback has also contributed to the project&rsquo;s success. They are eager to hear from the community, and feedback can be emailed to feedback@uwerx.network. </p>
-<p class="s7">To show their dedication to users, the team&rsquo;s token allocation is now only 7% following their decision to reduce it. For sustainability, they will forfeit ownership of the smart contract once the project becomes listed on centralized exchanges. Also, they began a nine-month liquidity lock on their tokens to prevent rug pulls. This started on June 7, after the 82.8% vote it received from the community to start immediately. </p>
-<p class="s7">A Test Airdrop will be performed to verify wallet addresses for users, for which 98.2% of the community is in support.</p>
-<p class="s7">Uwerx will be a force to reckon with in the freelancing industry. To do that, you have to become a WERX holder. It is best to do so now and maximize the 15% purchase bonus. </p>
-To learn more or join the presale, follow the links below: 
-<p class="s7">Website: https://www.uwerx.network</p>
-<p class="s7">Presale: http://invest.uwerx.network</p>
-<p class="s7">Telegram: https://t.me/uwerx_network</p>
-<p class="s7">Twitter: https://twitter.com/uwerx_network</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>]]></description>
-			  <content:encoded><![CDATA[<p class="s7">Uwerx is a new project seeking to reconceptualize the gig economy with its revolutionary features. This accounts for its presale success and the increased adoption it has been gaining. Due to these, analysts predict a bright future for the project, which has shown strong potential to keep soaring in the crypto winter. </p>
-<p class="s7">On the other hand, Monolith (TKN) is struggling to beat bearish sentiments as the bears continue to dominate over the token. This article looks at Monolith&rsquo;s (TKN) predictions, what Uwerx is all about, and why you should quickly become a WERX holder.</p>
-<p class="s9">&gt;&gt;BUY WERX TOKENS NOW&lt;&lt;</p>
-What The Charts Say About Monolith (TKN)
-<p class="s7">The crypto market considers Monolith (TKN) a near-dead crypto as it has only recorded a few transactions or trading activities for a long time. This has caused Monolith (TKN) to see a huge plunge without signs of recovery. </p>
-<p class="s7">Monolith (TKN) currently dines with the bear as it has remained at the bottom, with predictions showing it might record only a negligible price increase. Monolith (TKN) has declined by almost 5% in the past week, and further decline is imminent. </p>
-<p class="s7">Monolith (TKN) is seeing increased selling pressure as most token holders quickly sell their tokens and move to more active platforms.</p>
-<p class="s7">Monolith (TKN) Launched Its Visa Debit Card</p>
-<p class="s7">Monolith (TKN) is a decentralized banking powered by Ethereum (ETH), enabling users to use its Visa debit card to store or spend their tokens globally. Monolith (TKN) provides a DeFicontract wallet where users can store their tokens and use the Visa debit card to make in-app crypto purchases. </p>
-<p class="s9">&gt;&gt;BUY WERX TOKENS NOW&lt;&lt;</p>
-Uwerx (WERX) Continues Smashing Through Its Presale
-<p class="s7">Uwerx's surging presale has been marveling, quickly reaching its final stage, stage 5. This exceeded initial predictions, and due to demands, WERX allocation for the presale was increased to 427,500,000 (57%). Stage 5 has 72,500,000 WERX available, and the total supply of WERX is 750,000,000.</p>
-<p class="s7">The WERX price increase is more surprising. WERX started trading at $0.005 but is now at $0.047725, with more price increases unavoidable. Also, the WERX launch price was increased to $0.095 - $0.115 due to the token&rsquo;s rising value.</p>
-<p class="s7">There is a 15% purchase bonus to increase users&rsquo; profits, and the presale ends on July 31. </p>
-Uwerx (WERX) Has Leverage Over Other Freelancing Platforms
-<p class="s7">Global gig workers are expected to reach 78 million in 2023. Hence, Uwerx is making significant moves to increase adoption and stand out from centralized platforms. It brings blockchain technology and a 1% service fee, features yet to be seen in freelancing. There is also the UwerxVault which promotes user rewards and engagement.</p>
-<p class="s7">Its platform&rsquo;s Alpha version launched a few months back and has been gaining traction with more features added. The platform&rsquo;s features now include the Initial Step of Job Creation, My Activity Page, Initial Step of Finding Talent, Hiring Dashboard Page, Logging In and Sign-Up Pages, Freelancer or Client Initiation, Job Creation Process Page, and Forgot Password.</p>
-<p class="s7">The Job Application Page was remodeled to the Post Job and Apply Page to quicken users' job applications. New features like the Tools and Client and Freelancer Dashboards are in the works. </p>
-<p class="s7">Uwerx will transition to the Beta version, which is now in the works so users can test the platform themselves. InterFi Network and SolidProof have performed audit approvals on Uwerxto ensure its security. The platform has gained over 1,825 Telegram members, 1,652 Twitter followers, and 6,953 sign-ups.</p>
-<p class="s7">The team's agile methodology to release the project in bits and modify the platform based on users' feedback has also contributed to the project&rsquo;s success. They are eager to hear from the community, and feedback can be emailed to feedback@uwerx.network. </p>
-<p class="s7">To show their dedication to users, the team&rsquo;s token allocation is now only 7% following their decision to reduce it. For sustainability, they will forfeit ownership of the smart contract once the project becomes listed on centralized exchanges. Also, they began a nine-month liquidity lock on their tokens to prevent rug pulls. This started on June 7, after the 82.8% vote it received from the community to start immediately. </p>
-<p class="s7">A Test Airdrop will be performed to verify wallet addresses for users, for which 98.2% of the community is in support.</p>
-<p class="s7">Uwerx will be a force to reckon with in the freelancing industry. To do that, you have to become a WERX holder. It is best to do so now and maximize the 15% purchase bonus. </p>
-To learn more or join the presale, follow the links below: 
-<p class="s7">Website: https://www.uwerx.network</p>
-<p class="s7">Presale: http://invest.uwerx.network</p>
-<p class="s7">Telegram: https://t.me/uwerx_network</p>
-<p class="s7">Twitter: https://twitter.com/uwerx_network</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>
-<p class="s7">&nbsp;</p>]]></content:encoded>
 			</item>
 					
 	</channel>
