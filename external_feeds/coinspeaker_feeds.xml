@@ -454,4 +454,4 @@
 		
 			</item>
 	</channel>
-</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4110 metric#misses=41 metric#hit-ratio=99.0 metric#bytes=1067422 metric#prefetches=202 metric#store-reads=20 metric#store-writes=2 metric#store-hits=209 metric#store-misses=2 metric#sql-queries=34 metric#ms-total=98.48 metric#ms-cache=4.66 metric#ms-cache-avg=0.2218 metric#ms-cache-ratio=4.7 -->
+</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4110 metric#misses=41 metric#hit-ratio=99.0 metric#bytes=1067422 metric#prefetches=202 metric#store-reads=20 metric#store-writes=2 metric#store-hits=209 metric#store-misses=2 metric#sql-queries=34 metric#ms-total=357.13 metric#ms-cache=21.34 metric#ms-cache-avg=1.0160 metric#ms-cache-ratio=6.0 -->
