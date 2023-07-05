@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Mon, 03 Jul 2023 15:17:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 21:42:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,39 +29,76 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Belarus Pursues Clampdown on P2P Crypto Transactions: Report</title>
-		<link>https://cryptopotato.com/belarus-pursues-clampdown-on-p2p-crypto-transactions-report/</link>
+		<title>TON Foundation Unveils Encrypted Messenger to Enhance User Security</title>
+		<link>https://cryptopotato.com/ton-foundation-unveils-encrypted-messenger-to-enhance-user-security/</link>
 		
 		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 04 Jul 2023 04:32:12 +0000</pubDate>
+		<pubDate>Tue, 04 Jul 2023 23:42:23 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258352</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/RedLightHalted-min.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/RedLightHalted-min.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Telegram]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258413</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/TON_Network.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/TON_Network.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Despite the ban, crypto users are skeptical about Belarus' ability to enforce it.]]></description>
-            																<content:encoded><![CDATA[<p>The Belarusian government has proposed a ban on peer-to-peer (P2P) transactions on crypto assets such as Bitcoin in a bid to address the rising rate of cybercrime in the country. The Ministry of Foreign Affairs (MFA) of the Republic of Belarus detailed the new legislation&#8217;s goals and its subsequent on crypto exchange users.</p>
-<p>Crypto transactions will only be possible via exchanges for transparency and control purposes.</p>
-<ul>
-<li>According to an official <a href="https://t.me/pressmvd/8643" target="_blank" rel="noopener" data-wpel-link="external">statement</a> issued on July 2nd, the MFA claimed that the local prosecutors have already cracked down on 27 citizens involved in illegal crypto exchange services, with a whopping $8.7 million in illicit gains.</li>
-<li>The authorities cited the rampant use of P2P crypto services by fraudsters to cash out, convert stolen gains, and transfer money within criminal networks as the decision for their move.</li>
-</ul>
-<blockquote><p>&#8220;The Ministry of Internal Affairs is working on legislative innovations that prohibit transactions for the exchange of cryptocurrency between individuals. For transparency and control, citizens will be allowed to carry out such financial transactions only through the HTP exchanges.&#8221;</p></blockquote>
-<ul>
-<li>The ministry also plans to impose a limit on crypto exchanges to registered platforms only.</li>
-<li>The latest move is a drastic shift from its existing policies, which have been mostly defined as crypto-friendly. Last year, Belarus President Alexander Lukashenko <a href="https://cryptopotato.com/belarus-to-create-a-crypto-wallet-registry-to-prevent-illicit-activities/" target="_blank" rel="noopener" data-wpel-link="internal">signed</a> a decree that focused on the creation of a crypto wallet registry to prevent illicit activities.</li>
-<li>More recently, the Belarusian government extended tax exemptions for businesses working in crypto until January 2025.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/belarus-pursues-clampdown-on-p2p-crypto-transactions-report/" rel="nofollow">Belarus Pursues Clampdown on P2P Crypto Transactions: Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[TON users will able to retain the ability to send messages via the decentralized blockchain in an event of "apocalypse," according to a core dev. ]]></description>
+            																<content:encoded><![CDATA[<p>The TON Foundation &#8211; the non-profit association behind The Open Network (TON) &#8211; announced the integration of messenger encryption on the network. The move aims to enhance user privacy by deploying necessary safeguards in a text sent with a transaction.</p>
+<p>The new feature uses end-to-end encryption. This essentially guarantees that only the sender and recipient are able to view the message, thereby improving levels of security for TON&#8217;s user base.</p>
+<h2>Enhancing User Privacy</h2>
+<p>According to the official update shared with <em>CryptoPotato</em>, the network fee for delivering an encrypted message via TON is around 0.006 Toncoin (TON) per transaction. The low price is expected to make the service accessible all across the chain&#8217;s increasing user base.</p>
+<p>Commenting on the latest addition, TON Foundation&#8217;s core developer Anatoly Makosov said,</p>
+<blockquote><p>&#8220;Now this popular feature &#8211; which is not available on most other blockchains &#8211; is available with full encryption. Even in the event of an apocalypse and the failure of conventional messenger servers, you will retain the ability to send messages via the decentralized TON blockchain. Rest assured that these messages will be reliably delivered and safeguarded through encryption.&#8221;</p></blockquote>
+<p>Several crypto wallets, as well as standard web and desktop wallets (Windows, MacOS, Linux), have already added support for the encryption feature, the statement by the foundation revealed. Meanwhile, the encryption for messages will be available in upcoming updates for TON mobile wallets and the Tonkeeper wallet.</p>
+<h2>TON&#8217;s Evolution</h2>
+<p>TON &#8211; which happens to be a layer-1 blockchain previously created by Telegram &#8211; had a much turbulent start. The project has been run as a community-led, open-source project after Telegram&#8217;s abandonment a few years back. Since then, the TON Foundation has managed to ink several partnerships.</p>
+<p>As part of the <a href="https://cryptopotato.com/telegram-to-receive-10m-for-ton-blockchain-effort/" target="_blank" rel="noopener" data-wpel-link="internal">partnership</a> with DWF Labs, the blockchain industry market maker invested $10 million towards TON&#8217;s development last November.</p>
+<p>DWF Labs is reportedly slated to participate in an estimated 50 seed investment rounds scheduled over a few months. The focus of the funding rounds will be to accelerate the scaling of the TON ecosystem as well as its associated projects.</p>
+<p>More recently, TON <a href="https://twitter.com/ton_blockchain/status/1660652193123389443" target="_blank" rel="noopener" data-wpel-link="external">unveiled</a> a $25 million fund dubbed &#8220;TON Accelerator Program,&#8221; which aims to invest between $50,000 and $250,000 per project and be accompanied by partnerships and mentorships from TON&#8217;s staff.</p>
+<p>The post <a href="https://cryptopotato.com/ton-foundation-unveils-encrypted-messenger-to-enhance-user-security/" rel="nofollow">TON Foundation Unveils Encrypted Messenger to Enhance User Security</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>BTC ATM Operator Bitcoin Depot Enters Nasdaq This Week</title>
-		<link>https://cryptopotato.com/btc-atm-operator-bitcoin-depot-enters-nasdaq-this-week/</link>
+		<title>Will The SEC Approve A Bitcoin Spot ETF In 2023? Lawyer Breaks Down The Odds</title>
+		<link>https://cryptopotato.com/will-the-sec-approve-a-bitcoin-spot-etf-in-2023-lawyer-breaks-down-the-odds/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 22:50:11 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Bitcoin ETF]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258679</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/01/Depositphotos_264281122_s-2019-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/01/Depositphotos_264281122_s-2019-min.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[There are two main avenues to get a Bitcoin spot ETF through the SEC - but neither may be likely to work. ]]></description>
+            																<content:encoded><![CDATA[<p><span style="font-weight: 400">The fate of Bitcoin’s price throughout the rest of the year largely lies in the answer to one question: Will a Bitcoin spot ETF be approved in the United States?</span></p>
+<p><span style="font-weight: 400">Joe Carlasare – a commercial litigator supporting Bitcoin – tweeted on Monday that he gives such a product a 30-40% chance of launching inside of a year. He later spoke with </span><i><span style="font-weight: 400">CryptoPotato</span></i><span style="font-weight: 400"> to explain how he arrived at those numbers. </span></p>
+<h2>The Trouble With Grayscale’s Lawsuit</h2>
+<p><span style="font-weight: 400">According to Carlasare, the market’s best bet at launching a spot ETF remains with Grayscale’s lawsuit against the U.S. Securities and Exchange Commission (SEC). </span></p>
+<p><span style="font-weight: 400">As the owners of the world’s largest Bitcoin fund, Grayscale sued the regulator last year for denying its ETF application in an “arbitrary and capricious” manner, despite approving multiple similar products in the form of Bitcoin futures ETFs. </span></p>
+<p><span style="font-weight: 400">The case went to its first oral hearing in March, during which judges seemed more sympathetic to Grayscale’s arguments than the SEC’s. This spurred certain analysts including Bloomberg’s Elliot Z. Stein to </span><a href="https://cryptopotato.com/grayscale-has-70-odds-of-winning-sec-lawsuit-bloomberg-analyst/" data-wpel-link="internal"><span style="font-weight: 400">assign</span></a><span style="font-weight: 400"> 70% odds to Grayscale’s victory, thus boosting the odds of a spot ETF approval by the end of the year. </span></p>
+<p><span style="font-weight: 400">Carlasare, however, refuses to be so optimistic – especially as a Grayscale victory won’t necessarily lead to a spot ETF.<br />
+</span></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">For what seems like the 100th time, my personal view is that the probability of success in approving a spot bitcoin ETF in the near term (inside of a year) is still 30-40% —- which I consider to be fairly good odds.</p>
+<p>I strongly reject the view that approval is highly probable… <a href="https://t.co/fAuNJ9pkhh" data-wpel-link="external" target="_blank">https://t.co/fAuNJ9pkhh</a></p>
+<p>&mdash; Joe Carlasare (@JoeCarlasare) <a href="https://twitter.com/JoeCarlasare/status/1675975751630290944?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 3, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote><p><span style="font-weight: 400">“The hard part about handicapping the Grayscale v SEC suit is that a “win” may just mean the court of appeals directs the SEC to revisit their decision,” explained the lawyer to </span><i><span style="font-weight: 400">CryptoPotato</span></i><span style="font-weight: 400"> via DM. “In other words, the Court could just send the case back for further proceeding and assessment in front of the SEC .”</span></p></blockquote>
+<h2>BlackRock’s SSA With Coinbase</h2>
+<p><span style="font-weight: 400">A review by the SEC has inevitably meant rejection for every applicant with a similar product thus far. Nevertheless, the market is optimistic that a filing last month from BlackRock – the world’s largest asset manager – can get through, given the firm’s phenomenal </span><a href="https://cryptopotato.com/blackrocks-etf-success-rate-with-the-sec-is-575-to-1-what-about-its-bitcoin-application/" data-wpel-link="internal"><span style="font-weight: 400">success rate</span></a><span style="font-weight: 400"> against the SEC with past applications. </span></p>
+<p><span style="font-weight: 400">The SEC called BlackRock and Fidelity’s filings “</span><a href="https://cryptopotato.com/bitcoin-dumps-below-30k-as-sec-warns-that-recent-btc-spot-etf-filings-are-inadequate-wsj/" data-wpel-link="internal"><span style="font-weight: 400">inadequate</span></a><span style="font-weight: 400">” last Friday for failing to share a specific spot Bitcoin exchange with which their respective exchanges, NASDAQ and CBOE, would form a surveillance sharing agreement (SSA). Both firms have already refiled, clarifying that their planned SSA will be with </span><a href="https://cryptopotato.com/coinbase-stock-surges-12-as-blackrock-names-it-as-surveillance-partner/" data-wpel-link="internal"><span style="font-weight: 400">Coinbase</span></a><span style="font-weight: 400">.</span></p>
+<p><span style="font-weight: 400">While Coinbase is the largest Bitcoin exchange in the United States, Carlasare fears the platform doesn’t represent a market of “sufficient size,” as the SEC requests. </span></p>
+<blockquote><p><span style="font-weight: 400">“Sufficient size is somewhat ambiguous, but they have said it has to be a market large enough so that a person or firm attempting to manipulate the Bitcoin spot market would need to necessarily trade on that platform,” he explained. “If you apply that to the SSA with Coinbase, one can conclude that’s not going to satisfy [the] SEC, especially where the majority of spot trading volume is outside the U.S.”</span></p></blockquote>
+<p><span style="font-weight: 400">Overall, Carlasare gives Grayscale 50% odds of victory against the SEC in its lawsuit, and Coinbase 40% odds of being the “secret sauce” needed to get BlackRock’s ETF approved. He considers both sets of odds “optimistic.”</span></p>
+<p>The post <a href="https://cryptopotato.com/will-the-sec-approve-a-bitcoin-spot-etf-in-2023-lawyer-breaks-down-the-odds/" rel="nofollow">Will The SEC Approve A Bitcoin Spot ETF In 2023? Lawyer Breaks Down The Odds</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Here&#8217;s How Much of BTC&#8217;s Circulating Supply Is Owned by Long-Term Holders: Data</title>
+		<link>https://cryptopotato.com/heres-how-much-of-btcs-circulating-supply-is-owned-by-long-term-holders-data/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 23:38:16 +0000</pubDate>
+		<pubDate>Tue, 04 Jul 2023 22:05:56 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
@@ -69,320 +106,275 @@
 		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[NASDAQ]]></category>
-		<category><![CDATA[United States]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258330</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/04/Wall_Street.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/04/Wall_Street.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[HODL]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258587</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/bitcoin_cover-9.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/bitcoin_cover-9.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Bitcoin Depot will trade under the ticker symbol "BTM" after a SPAC merger.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Bitcoin Depot &#8211; a US-based Bitcoin ATM provider &#8211; announced it will start trading on Nasdaq on July 3 after partnering with the fintech company GSR II Meteora Acquisition Corp. </span></p>
-<p><span data-preserver-spaces="true">Previous reports revealed that the agreement between the two entities is worth $885 million. </span></p>
-<h2><span data-preserver-spaces="true">&#8216;BTM&#8217; Pops up on Nasdaq</span></h2>
-<p><span data-preserver-spaces="true">The partners <a href="https://www.globenewswire.com/news-release/2023/06/30/2698079/0/en/Bitcoin-Depot-and-GSR-II-Meteora-Acquisition-Corp-Announce-Closing-of-Business-Combination.html" data-wpel-link="external" target="_blank">announced</a> the finalization of the special purpose acquisition company (SPAC) merger. The combined organization will be renamed Bitcoin Depot Inc. and will be run by the current management team. </span></p>
-<p><span data-preserver-spaces="true">The common stock should begin trading on July 3, 2023, under the Nasdaq ticker symbol &#8220;BTM.&#8221; The public warrant is scheduled for the same day with the abbreviation &#8220;BTMWW.&#8221;</span></p>
-<p><span data-preserver-spaces="true">Brandon Mintz &#8211; CEO and Founder of Bitcoin Depot &#8211; described the move as &#8220;an important milestone and an incredibly proud moment&#8221; for the entire team. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;Bitcoin Depot is well positioned with the largest market share in North America, and the additional capital from this transaction will help support our numerous growth opportunities while advancing our mission to safely, securely bring Bitcoin to the masses,&#8221; he added.</span></p></blockquote>
-<p><span data-preserver-spaces="true">Gus Garcia &#8211; Co-CEO and Director of GSR II Meteora Acquisition Corp. &#8211; said his entity is &#8220;excited&#8221; to support Bitcoin Depot&#8217;s expansion path. He believes the latter is &#8220;poised to continue its momentum to take advantage of the highly fragmented Bitcoin ATM market&#8221; in the USA and abroad.</span></p>
-<p><span data-preserver-spaces="true">Thus, Bitcoin Depot adds up to the growing list of crypto-related companies that started trading on the online global marketplace &#8211; Nasdaq. Others include the popular exchange Coinbase, the cryptocurrency miners Marathon Digital and Riot Blockchain, and more. </span></p>
-<h2><span data-preserver-spaces="true">Bitcoin Depot&#8217;s Issues in Texas</span></h2>
-<p><span data-preserver-spaces="true">The BTC ATM operator recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/crypto-scam-in-texas-led-to-lawsuit-between-a-bitcoin-atm-operator-and-a-local-sheriff-report/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">filed</span></a><span data-preserver-spaces="true"> a lawsuit against the sheriff&#8217;s office of McLennan County, Texas, claiming the latter unlawfully confiscated $15,000 from one of its machines. </span></p>
-<p><span data-preserver-spaces="true">The authorities seized the amount from a Bitcoin ATM in Waco after scammers lured an 82-year-old woman to deposit it there. Sheriff Parnell McNamara said the money belonged to the victim, adding that the company &#8220;can go to hell.&#8221;</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The $15,000 she put in the machine was still in the wallet that she had put it in. So we retrieved that $15,000 and brought it back to the office. We photographed it, put it into evidence, and ultimately got it back to the victim so she wouldn&#8217;t be further traumatized by these creeps,&#8221; he explained.</span></p></blockquote>
-<p><span data-preserver-spaces="true">The firm argued that the sheriff&#8217;s office had the jurisdiction to seize the funds but not return them to the person. The lawsuit also outlines that Bitcoin Depot was not the fraudster, meaning they should not be blamed for the woman&#8217;s actions.</span></p>
-<p>The post <a href="https://cryptopotato.com/btc-atm-operator-bitcoin-depot-enters-nasdaq-this-week/" rel="nofollow">BTC ATM Operator Bitcoin Depot Enters Nasdaq This Week</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[The current amount held by LTHs is just 20,000 BTC shy of the all-time high of 14.49 million.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">According to data provided by Glassnode, long-term holders currently hold almost 14.5M bitcoin (BTC). LTHs have been on a gradual accumulation spree in the past year and a half despite the prolonged bear market. </span></p>
+<p><span data-preserver-spaces="true">Blockchain analytics firm CryptoQuant has recently revealed that institutional investors (hedge funds, pension funds, commercial banks, insurance companies, and more) have also shown an increasing appetite for holding the primary cryptocurrency in the long run.</span></p>
+<h2><span data-preserver-spaces="true">So Close to the ATH</span></h2>
+<p><span data-preserver-spaces="true">Glassnode&#8217;s figures </span><a class="editor-rtfLink" href="https://twitter.com/glassnode/status/1675842010261979137" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">showed</span></a><span data-preserver-spaces="true"> that BTC investors willing to hold the asset for the long term have purchased a significant amount between April and early July 2023. The largest crypto asset has performed quite well during those months, as it recently <a href="https://cryptopotato.com/bitcoin-btc-posts-2-consecutive-green-quarters-for-the-first-time-since-2021/" data-wpel-link="internal">closed</a> its second consecutive quarter in the green for the first time since 2021.</span></p>
+<p><span data-preserver-spaces="true">Long-term holders also showed rising interest in BTC between September 2022 and the end of the year. Moreover, their accumulation efforts continued even during<a href="https://cryptopotato.com/the-fall-of-sam-bankman-frieds-crypto-empire-a-timeline-of-ftxs-collapse/" data-wpel-link="internal"> the FTX meltdown</a> in November, which shook the entire crypto industry to its core. </span></p>
+<p><span data-preserver-spaces="true">In fact, other market participants, such as those holding less than 1 BTC (described as &#8220;shrimps&#8221;) and those with no more than 10 BTC (&#8220;crabs&#8221;), also </span><a class="editor-rtfLink" href="https://cryptopotato.com/massive-spike-in-bitcoin-accumulation-from-retail-investors-after-ftx-collapse/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">bought</span></a><span data-preserver-spaces="true"> significant amounts of bitcoin shortly after the collapse of the once-prominent cryptocurrency exchange. </span></p>
+<p><span data-preserver-spaces="true">Overall, long-term holders have amassed a total of 1.01M BTC over the past 602 days and now possess 14.47M BTC (around 75% of the circulating supply). The figure is just 20K BTC less than the all-time high.</span></p>
+<p><span data-preserver-spaces="true">It is worth mentioning that long-term holders were even more aggressive during the bull run in 2021. They accumulated over 2.4M BTC between April and November 2021, when bitcoin&#8217;s USD valuation was considerably higher than now, peaking at almost $70,000.<br />
+</span></p>
+<figure id="attachment_258594" aria-describedby="caption-attachment-258594" style="width: 695px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-scaled.jpg" data-wpel-link="internal"><img class="wp-image-258594" src="https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-scaled.jpg" alt="Long-Term BTC Holders" width="695" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-300x173.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-1024x590.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-768x442.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-1536x885.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-2048x1179.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Glassnode-50x29.jpg 50w" sizes="(max-width: 695px) 100vw, 695px" /></a><figcaption id="caption-attachment-258594" class="wp-caption-text">Long-Term BTC Holders, Source: Glassnode</figcaption></figure>
+<h2><span data-preserver-spaces="true">Institutional Investors Are Also Flocking</span></h2>
+<p><span data-preserver-spaces="true">As <a href="https://cryptopotato.com/institutional-bitcoin-btc-accumulation-sees-exponential-increase-report/" data-wpel-link="internal">revealed</a> by CryptoQuant, the institutional accumulation of bitcoin has been on the rise, too. The analytics company further outlined that investment firms, hedge funds, private funds, and others seek to join the ecosystem for the long run:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Analyzing the holdings of these funds provides valuable insights into the market dynamics and investor sentiment…Monitoring fund holdings not only provides an understanding of the market sentiment but also highlights the confidence institutional investors have in bitcoin as a long-term asset.&#8221;</span></p></blockquote>
+<p><span data-preserver-spaces="true">One reason behind that enthusiasm could be the long list of financial giants which recently filed to launch a spot BTC ETF in the States. The spree was started by the world&#8217;s largest asset manager &#8211; <a href="https://cryptopotato.com/blackrock-files-bitcoin-spot-etf-application-taps-coinbase/" data-wpel-link="internal">BlackRock</a>. Fidelity Digital Assets, Invesco, WisdomTree, Valkyrie, and more followed suit a few days later, infusing optimism and hope in the entire crypto sector.</span></p>
+<p>The post <a href="https://cryptopotato.com/heres-how-much-of-btcs-circulating-supply-is-owned-by-long-term-holders-data/" rel="nofollow">Here&#8217;s How Much of BTC&#8217;s Circulating Supply Is Owned by Long-Term Holders: Data</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Singapore Requires Crypto Companies to Hold Customer Funds in a Trust (Report)</title>
-		<link>https://cryptopotato.com/singapore-requires-crypto-companies-to-hold-customer-funds-in-a-trust-report/</link>
+		<title>New Crypto Shiba Memu Plans To Be an Unstoppable Marketing Powerhouse</title>
+		<link>https://cryptopotato.com/new-crypto-shiba-memu-plans-to-be-an-unstoppable-marketing-powerhouse/</link>
 		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 21:51:03 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[FTX Exchange]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258353</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/04/Singapore.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/04/Singapore.jpg" length="840" type="image/jpg"/>
+		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 20:35:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258622</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[The MAS will also supposedly prohibit domestic cryptocurrency organizations from offering staking and lending services to retail investors.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The Monetary Authority of Singapore (MAS) will reportedly insist that cryptocurrency firms keep clients&#8217; assets in a designated trust by the end of 2023. </span></p>
-<p><span data-preserver-spaces="true">The step comes several months after the infamous meltdown of FTX, which triggered colossal investor losses. Numerous individuals and entities have blamed the exchange for comingling user funds and scamming customers. </span></p>
-<h2><span data-preserver-spaces="true">The New Requirements</span></h2>
-<p><span data-preserver-spaces="true">As </span><a class="editor-rtfLink" href="https://www.bloomberg.com/news/articles/2023-07-03/singapore-tells-crypto-platforms-to-keep-client-money-in-a-trust" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">reported</span></a><span data-preserver-spaces="true"> by Bloomberg, the Singaporean regulator will enforce the obligation to grant maximum customer protection.</span></p>
-<p>Apart from storing users&#8217; assets in a trust, crypto organizations might be banned from providing lending and staking services to retail investors. It is worth noting that Thailand&#8217;s Securities and Exchange Commission (SEC) has also <a href="https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=10018" data-wpel-link="external" target="_blank">taken</a> a similar measure.</p>
-<p><span data-preserver-spaces="true">The MAS started contemplating those rules in October 2022, a month before<a href="https://cryptopotato.com/the-fall-of-sam-bankman-frieds-crypto-empire-a-timeline-of-ftxs-collapse/" data-wpel-link="internal"> the collapse of FTX</a>, which shocked the entire industry. </span></p>
-<p><span data-preserver-spaces="true">Singapore has recently emerged as a flourishing crypto region, whilst its regulatory framework has attracted multiple firms. The cryptocurrency exchange Gemini </span><a class="editor-rtfLink" href="https://cryptopotato.com/gemini-to-increase-headcount-above-100-in-singapore-amid-hostile-us-regulatory-climate/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">announced</span></a><span data-preserver-spaces="true"> last month that it will increase its workforce in the city-state by over 100 members. </span></p>
-<p><span data-preserver-spaces="true">For his part, Stuart Alderoty &#8211; Chief Legal Officer at Ripple &#8211; </span><a class="editor-rtfLink" href="https://cryptopotato.com/ripple-clo-praises-singapores-regulatory-framework-amid-us-sec-turmoil/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">highlighted</span></a><span data-preserver-spaces="true"> Singapore&#8217;s approach towards the sector, saying it has established a &#8220;workable framework that truly unites consumer protection, market integrity, and innovation.&#8221; </span></p>
-<p><span data-preserver-spaces="true">His comments came shortly after Ripple </span><span data-preserver-spaces="true">obtained</span><span data-preserver-spaces="true"> an in-principle payments license from the MAS. Recall that the enterprise blockchain provider has </span><a class="editor-rtfLink" href="https://cryptopotato.com/ripple-v-sec-the-case-so-far-and-whats-next-for-the-xrp-price/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">a long-going spat</span></a><span data-preserver-spaces="true"> with the SEC in the United States. </span></p>
-<h2><span data-preserver-spaces="true">Crypto Adoption in Singapore Spikes</span></h2>
-<p><span data-preserver-spaces="true">Providing additional security to Singaporean crypto participants sounds reasonable, considering the rising number of locals that have recently joined the ecosystem.</span></p>
-<p><span data-preserver-spaces="true">Independent Reserve </span><a class="editor-rtfLink" href="https://cryptopotato.com/over-40-of-singaporeans-own-crypto-survey/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">estimated</span></a><span data-preserver-spaces="true"> in one of its surveys that 43% of Singapore&#8217;s residents hold some amount of digital assets (a level unseen since the 2021 bull market). </span></p>
-<p><span data-preserver-spaces="true">54% have hopped on the bandwagon to diversify their portfolios, whereas half of the investors who purchased cryptocurrencies in the last year did so following advice from family members, friends, or influenced by social media. Bitcoin is the most popular digital asset in Singapore, with 87% aware of it. Ethereum is second with 51%.</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The rising popularity of altcoins shows that more Singaporeans are beginning to gain more awareness about other cryptocurrencies apart from Bitcoin.</span></p>
-<p><span data-preserver-spaces="true">This is a promising sign for the industry as more investors gain exposure to various types of blockchains and projects that have innovative utility and potential to be adopted more widely for real-world applications and use cases,&#8221; Lasanka Perera – CEO of Independent Reserve Singapore – said.</span></p></blockquote>
-<p>The post <a href="https://cryptopotato.com/singapore-requires-crypto-companies-to-hold-customer-funds-in-a-trust-report/" rel="nofollow">Singapore Requires Crypto Companies to Hold Customer Funds in a Trust (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Shiba Memu’s machine-learning marketing capabilities make it stand out from the pack of other meme coins in the crypto market. Early whispers suggest that it could become one of the most exciting meme coin in Web3, thanks to its doggone impressive in-built ability to promote itself, learn from its successes, and improve its AI marketing [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Shiba Memu’s machine-learning marketing capabilities make it stand out from the pack of other meme coins in the crypto market.</p>
+<p>Early whispers suggest that it could become one of the most exciting meme coin in Web3, thanks to its doggone impressive in-built ability to promote itself, learn from its successes, and improve its AI marketing protocol over time.</p>
+<p>Meme coins always rely on their marketing campaigns to attract investors, so SHMU’s impressive self-promoting functionality could be the reason it rises to the top of the dogpile. For now, the native token will be released for $0.011125 on the first day of the SHMU token presale. It represents an exciting opportunity for all fans of AI and blockchain.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258623" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2.jpg" alt="Picture1" width="602" height="301" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2-300x150.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-2-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<h2>Taking Meme Coins to New Horizons</h2>
+<p>The bull run of 2023 culminated in meme coin mania during the opening weeks of May, as brand new meme coins such as Pepe (PEPE) were skyrocketing. Demand for meme coins seems strong nowadays as speculators are looking for coins with short-term profits to capitalize on a long-term upward move in the crypto market.</p>
+<p>This rapid rise has become common with meme coins. The last instance of a meme coin skyrocketing towards the end of a bull run was in 2021 when Shiba Inu (SHIB) went from a $0 market cap to over $40 billion so rapidly that it surprised everybody.</p>
+<p>The crypto seems to be hungry as a stray dog for high potential memes, and the latest meme coin on the blockchain could take top dog rank away from earlier, less advanced tokens in the crypto market. Shiba Memu is an artificial intelligence meme coin that could take center stage over the coming years, as its automatic marketing protocol gives it a real edge over its competitors.</p>
+<h2>What is Shiba Memu?</h2>
+<p><a href="https://shibamemu.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=cryptopotato" rel="nofollow sponsored noopener" data-wpel-link="external" target="_blank">Shiba Memu</a>, the new dog on the block, combines cutting-edge technologies, <a href="https://www.bbvaopenmind.com/en/technology/artificial-intelligence/blockchain-and-ai-a-perfect-match/" rel="nofollow sponsored noopener" data-wpel-link="external" target="_blank">blockchain and AI</a>, to deliver automated marketing efforts. The protocol can continually promote itself across leading social media networks and interacts with investors directly. Since Shiba Memu uses machine learning algorithms, this dog will become increasingly intelligent.</p>
+<p>The developers are coding the new robo-dog meme coin to seamlessly integrate with artificial intelligence enabling it to learn from successful marketing strategies. It will optimize its performance faster than any human organization, with reduced latency and increased accuracy, as it removes subjectivity from the equation.</p>
+<p>As a high-spec AI-based marketing protocol, Shiba Memu scans the crypto market for mentions of the brand, allowing it to track and optimize its marketing efforts directly in response to investor sentiment. It is programmed to become exponentially more powerful over time, which could lead to impressive price action for the new meme coin.</p>
+<h2>How does Shiba Memu work?</h2>
+<p>Shiba Memu lets users track marketing efforts in real-time via its interactive AI dashboard. The dashboard will display all interactions between Shiba Memu and the blockchain community as it automatically generates press releases, social media content, and other marketing materials.</p>
+<p>Shiba Memu uses an advanced <a href="https://www.bloomberg.com/news/articles/2023-02-01/traders-see-ai-technology-shaping-their-future-jpmorgan-finds?leadSource=uverify%20wall" rel="nofollow sponsored noopener" data-wpel-link="external" target="_blank">natural language processing (NLP) technology</a> that allows it to analyze piles of crypto market data from the internet. As people post updates about their views, Shiba Memu will respond like a good dog with tailored marketing efforts to help influence investor sentiment most effectively.</p>
+<p>Users have the convenience of directly interacting with the Shiba Memu AI through the dashboard. Additionally, investors can provide feedback by posing specific questions and receive intelligent answers, all thanks to the integrated machine learning capabilities. All things considered, Shiba Memu is a cutting-edge AI protocol designed especially to drive awareness of itself all over the internet.</p>
+<h2>SHMU: A Meme Coin Worth Watching</h2>
+<p>With a fascinating use case for the new meme coin and some cutting-edge technologies powering it, Shiba Memu has potential to become a major contender in the meme coin field. The AI protocol could drive price action via automated digital marketing, and its brilliant and responsive design makes it an efficient way to create excitement in the crypto market.</p>
+<p><strong>You can visit Shiba Memu and find out more about its presale </strong><a href="https://shibamemu.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=cryptopotato" rel="nofollow sponsored noopener" data-wpel-link="external" target="_blank"><strong>here</strong></a><strong>.</strong></p>
+<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
+<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
+<p>The post <a href="https://cryptopotato.com/new-crypto-shiba-memu-plans-to-be-an-unstoppable-marketing-powerhouse/" rel="nofollow">New Crypto Shiba Memu Plans To Be an Unstoppable Marketing Powerhouse</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Bittrex Mirrors Coinbase, Requests SEC Lawsuit Dismissal</title>
-		<link>https://cryptopotato.com/bittrex-mirrors-coinbase-requests-sec-lawsuit-dismissal/</link>
+		<title>Understanding Crypto Liquidity Crisis Triggered by SEC&#8217;s Enforcement Actions: Report</title>
+		<link>https://cryptopotato.com/understanding-crypto-liquidity-crisis-triggered-by-secs-enforcement-actions-report/</link>
 		
-		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 20:04:07 +0000</pubDate>
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 20:14:57 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bittrex]]></category>
-		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Kraken]]></category>
 		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258303</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/03/Bittrex_US.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/03/Bittrex_US.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258566</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/05/The_SEC.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/05/The_SEC.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Mere days after Coinbase went on the attack, Bittrex followed suit.
-]]></description>
-            																<content:encoded><![CDATA[<p>Last week, Coinbase filed to dismiss the charges brought against it by the SEC. Motivating its approach, the exchange accused the agency of overreach, stating that crypto assets may not even come under their purview.</p>
-<p>The leading US crypto exchange also accused the SEC of <a href="https://cryptopotato.com/coinbase-files-request-for-dismissal-of-charges/" data-wpel-link="internal">ignoring</a> prior approvals given for the sale of some of the digital assets named in its lawsuit.</p>
-<p>Emboldened by Coinbase’s move, Bittrex has decided to follow suit.</p>
-<h2>Lawsuits and Bankruptcies</h2>
-<p>Although Bittrex is also in court due to bankruptcy procedures, the motion filing for dismissal of charges pertains to a different lawsuit, filed shortly after the company <a href="https://cryptopotato.com/bittrex-receives-wells-notice-from-sec-for-violating-investor-protection-laws/" data-wpel-link="internal">decided</a> to leave America behind. At that point, it had already been under investigation since 2017 and had been in fruitless talks with the SEC since 2022.</p>
-<p>In the end, a Wells notice, followed by a full-blown lawsuit, was filed against Bittrex for listing unregistered securities. However, the firm has now hit back at the SEC, stating that the crypto assets they were sued over are not securities at all.</p>
-<h2>Publicly Traded Crypto Assets Misclassified as Securities</h2>
-<p>According to <a href="https://storage.courtlistener.com/recap/gov.uscourts.wawd.321164/gov.uscourts.wawd.321164.40.0.pdf" data-wpel-link="external" target="_blank">court documents</a>, Bittrex argued that although crypto assets may be considered securities when they launch, they change their status once they are traded on secondary markets. As such, these crypto assets should be classified as commodities.</p>
-<blockquote><p>“Tokens are not a new kind of security; they are different in kind from anything the Commission has ever considered a security. They bear far more resemblance to commodities or property than to the “investments” that were the focus of “Congress’ purpose in enacting the securities laws.”</p></blockquote>
-<p>Furthermore, Bittrex’s legal team argued that even if the court were to find that said crypto assets do, in fact, qualify as securities, the SEC has no right to attempt to regulate them since US Congress has not authorized the agency to do so.</p>
-<p>Bittrex’s legal team has likened the SEC trying to control crypto assets to the FDA’s attempt to control tobacco or the EPA’s experiment to regulate greenhouse gases, both considered as government agency overreach.</p>
-<p>In closing, Bittrex’s legal counsel also pointed to a 2021 <a href="https://www.congress.gov/117/chrg/CHRG-117hhrg44837/CHRG-117hhrg44837.pdf" data-wpel-link="external" target="_blank">declaration</a> by Gary Gensler himself, in which he admitted to Congress that the SEC has no legal framework for cryptocurrencies.</p>
-<p>Whether Coinbase and Bittrex will have any success with these attempts is up for debate – nevertheless, they are clearly indicative of the growing frustration with spur-of-the-moment regulation attempts from the SEC, who seem to prefer lawsuits over good-faith attempts at breaching the gap with crypto platforms.</p>
-<p>The post <a href="https://cryptopotato.com/bittrex-mirrors-coinbase-requests-sec-lawsuit-dismissal/" rel="nofollow">Bittrex Mirrors Coinbase, Requests SEC Lawsuit Dismissal</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Kraken has emerged as a resilient market player while its peer exchanges feel brunt of the SEC enforcement from liquidity standpoint.]]></description>
+            																<content:encoded><![CDATA[<p>The SEC&#8217;s subsequent enforcement actions, first against Ripple and XRP, followed by Binance and Coinbase, have contributed to the sufferings of other crypto exchanges from a liquidity standpoint. There has been a major shift in the CEX landscape that has already faced challenges following the FTX implosion.</p>
+<p>A new report suggested that a slow recovery in liquidity appears to have haunted the second quarter.</p>
+<h2>Kraken: An Outlier</h2>
+<p>The blockchain data provider Kaiko&#8217;s second quarterly report <a href="https://marketing.kaiko.com/whats-driving-bitcoins-rally-1?ecid=AOKeC1ZsxplPoISj8-MxfRcQE_Oll4kxJQNtgSOc4UfLGw-sOayRHTHK0ewe4KlZd97Wv-_Vkdtk&amp;utm_campaign=Research%20newsletter&amp;utm_medium=email&amp;_hsmi=73538787&amp;_hsenc=p2ANqtz--clUrUFJxIVPxodu1nuscIXTUntKydcYxOWaQ_9Yndi4M5iHH8NFvqS2WR95NShuWC2vEJw4FlDz2lHhta_uPd4K_ppg&amp;utm_content=73538787&amp;utm_source=hs_email" target="_blank" rel="noopener" data-wpel-link="external">revealed</a> that spot trading volumes fell sharply during Q2 2023, plunging to the lowest level since 2020. Binance plummeted by approximately 70%. Coinbase, Kraken, OKX, and Huobi also witnessed their respective trading volumes slash by 50% during the same period.</p>
+<p>However, Kraken&#8217;s liquidity has been &#8220;remarkably resilient&#8221; so far. It emerged as one of the very few exchanges that flipped the narrative by increasing market depth since the beginning of the year. Kaiko said the liquidity crisis in the United States is now a significant trend that has affected prices on both Binance.US and Coinbase.</p>
+<p>In the short term, the crypto exchanges in the country could potentially lose market share to their overseas counterpart.</p>
+<p>The report suggests that Kraken stands out in this case because it looks &#8220;quite strong,&#8221; taking liquidity into consideration. On the other hand, overseas platforms such as OKX have managed to amplify market share and liquidity at the expense of Binance.</p>
+<h2>Renewed Optimism</h2>
+<p>A spot Bitcoin ETF has long been viewed as the holy grail for the digital asset industry, as a way to achieve a broader swath of consumers. The SEC, however, has different plans and has so far rejected all prior filings.</p>
+<p>Despite the continued turbulence in the market, institutional clients appeared optimistic, according to the latest survey <a href="https://cryptopotato.com/over-60-of-institutional-investors-bullish-on-crypto-for-next-12-months-survey/" target="_blank" rel="noopener" data-wpel-link="internal">conducted</a> by Binance Research and Binance VIP &amp; Institutional team.</p>
+<p>Over 50% of respondents had a crypto AUM of less than $25 million, and 22.6% had AUM larger than $100 million. 63.5% of respondents expressed confidence in the outlook of crypto for the next year, while 88% said they are positive for the next decade.</p>
+<p>The post <a href="https://cryptopotato.com/understanding-crypto-liquidity-crisis-triggered-by-secs-enforcement-actions-report/" rel="nofollow">Understanding Crypto Liquidity Crisis Triggered by SEC&#8217;s Enforcement Actions: Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>BAYC Has Tanked 90% as NFT Collection Floor Prices Plummet  </title>
-		<link>https://cryptopotato.com/bayc-has-tanked-90-as-nft-collection-floor-prices-plummet/</link>
+		<title>Bitcoin Ordinals Proposal To Reduce Inscription Costs By 90%</title>
+		<link>https://cryptopotato.com/bitcoin-ordinals-proposal-to-reduce-inscription-costs-by-90/</link>
 		
-		<dc:creator><![CDATA[Martin Young]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 18:14:05 +0000</pubDate>
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 18:30:08 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Ordinals]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258662</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/02/NFT_Bitcoin.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/02/NFT_Bitcoin.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Solutions to Bitcoin NFTs’ blockchain bloat are already emerging through a technology called “recursive inscriptions.”]]></description>
+            																<content:encoded><![CDATA[<p><span style="font-weight: 400">Ordinals developers are pioneering ways to make reduce blockchain bloat caused by Bitcoin NFTs, potentially reducing their creation costs by 90%. </span></p>
+<p><span style="font-weight: 400">The latest among these is BRC69 – a new standard proposed by Ordinals launchpad platform Luminex to “optimize the costs of inscribing on Bitcoin using the Ordinals protocol.”</span></p>
+<h2>The BRC69 Standard</h2>
+<p><span style="font-weight: 400">According to Luminex’s GitHub </span><a href="https://github.com/luminexord/brc69" data-wpel-link="external" target="_blank"><span style="font-weight: 400">proposal</span></a><span style="font-weight: 400">, the new standard can not only reduce inscription costs, but also unlocks new on-chain features, such as “pre-reveal collection launching and on-chain reveals.” </span><span style="font-weight: 400"><br />
+</span><span style="font-weight: 400"><br />
+</span><span style="font-weight: 400">This means that NFT collections can use fully on-chain resources to unveil their NFTs, from the pre-reval process to the final reveal of an image and its relevant traits. </span></p>
+<p><span style="font-weight: 400">“This is accomplished by automatically and seamlessly rendering images on the Ordinals explorer, without the need for additional action,” wrote Luminex. </span></p>
+<p><span style="font-weight: 400">BRC69 uses a 4-step process: users inscribe images of their NFT traits on-chain, deploy the collection, compile it, and then mint the assets. </span></p>
+<p><span style="font-weight: 400">The standard builds upon ‘recursive inscriptions’ – a method introduced by Ordinals developers in June that helps work around Bitcoin’s 4MB block size limit. Instead of individually minting thousands of JPEG files onto the blockchain, users can reference content within existing inscriptions of the same collection, and render it later using small amounts of code. </span></p>
+<p><span style="font-weight: 400">According to Luminex, a recursive Ordinals standard will be necessary as Ordinals popularity <a href="https://cryptopotato.com/bitcoin-now-has-over-10-million-ordinals-inscriptions/" data-wpel-link="internal">rises</a>, and Bitcoin block space becomes “increasingly scarce and costly.”  Since popularizing in February, there have been nearly 15 million Ordinals inscriptions on Bitcoin, according to </span><a href="https://dune.com/dgtl_assets/bitcoin-ordinals-analysis" data-wpel-link="external" target="_blank"><span style="font-weight: 400">Dune Analytics</span></a><span style="font-weight: 400">.</span></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">4/ The brilliance of BRC69 lies in its simplicity. Minters only need to inscribe a single line of text instead of a full image.This text allows the final image to be automatically rendered on all ordinals-frontends,using solely on-chain resources, thanks to recursive inscriptions</p>
+<p>&mdash; Luminex (@luminexio) <a href="https://twitter.com/luminexio/status/1675832806839308288?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 3, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Bitcoin’s Blockchain Bloat</h2>
+<p><span style="font-weight: 400">Ordinals have been met with major <a href="https://twitter.com/Pleditor/status/1666621731795083267" data-wpel-link="external" target="_blank">skepticism</a> from some Bitcoiners, who claim the protocol is effectively a bug enabling “spam” on the blockchain. </span></p>
+<p><span style="font-weight: 400">Criticism swelled in early May after the BRC-20 standard rose to prominence – an Ordinals-based system for launching fungible tokens on Bitcoin, alongside NFTs. This led to a swell of meme coins that briefly caused the average Bitcoin transaction fee to </span><a href="https://cryptopotato.com/bitcoins-fees-explode-amid-brc-20-memecoin-mania-miners-benefit/" data-wpel-link="internal"><span style="font-weight: 400">soar</span></a><span style="font-weight: 400"> over $30, raising concerns about the long-term sustainability of Bitcoin as an affordable payments network. </span></p>
+<p><span style="font-weight: 400">Solutions like BRC69 help remedy this issue but also mean fewer fees for miners, which are needed to sustain Bitcoin’s long-term security. </span></p>
+<p><span style="font-weight: 400">Fees have since returned to normal levels but could rise again if another NFT hype wave claims Bitcoin as its host. The network has already become the second most popular blockchain for trading NFTs, according to Crypto Slam </span><a href="https://www.cryptoslam.io/blockchains" data-wpel-link="external" target="_blank"><span style="font-weight: 400">data</span></a><span style="font-weight: 400">.</span></p>
+<p>The post <a href="https://cryptopotato.com/bitcoin-ordinals-proposal-to-reduce-inscription-costs-by-90/" rel="nofollow">Bitcoin Ordinals Proposal To Reduce Inscription Costs By 90%</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Alex The Doge (ALEX) Presale Reports 14 Million Tokens Sold</title>
+		<link>https://cryptopotato.com/alex-the-doge-alex-presale-reports-14-million-tokens-sold/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 17:25:13 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258656</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ALEX_shooting_in_space_3_1688467420KUzLe7is9x.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ALEX_shooting_in_space_3_1688467420KUzLe7is9x.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[Press Release &#8211; Frankfurt, Germany, July 4th, 2023] Alex The Doge (ALEX), a memecoin designed to transform the GameFi ecosystem, has reported strong demand for its presale. The presale, which is currently ongoing, gives the crypto community their first opportunity to purchase ALEX tokens. Following completion of the token sale, ALEX will launch on decentralized [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[Press Release &#8211; Frankfurt, Germany, July 4th, 2023]</strong></p>
+<p><a href="https://alexthedoge.live/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Alex The Doge (ALEX)</a>, a memecoin designed to transform the GameFi ecosystem, has reported strong demand for its presale. The presale, which is currently ongoing, gives the crypto community their first opportunity to purchase ALEX tokens. Following completion of the token sale, ALEX will launch on decentralized exchanges.</p>
+<p>ALEX aims to combine the fun of memecoins with the utility of decentralized finance (DeFi) and play-to-earn gaming. The project has garnered significant attention from crypto enthusiasts, with more than 13.5 million ALEX tokens sold during the presale so far.</p>
+<p>ALEX is built on Polygon, a blockchain network known for its scalability, speed, and security. By leveraging the capabilities of Polygon, ALEX is creating a digital gaming world called the Miracle Verse. This innovative ecosystem will empower users with play-to-earn gaming opportunities, social trading, and DeFi activities. With its gamified approach and extensive suite of products under development, ALEX aims to differentiate itself from other memecoins and gain a foothold in the market.</p>
+<p>The project operates at the intersection of GameFi and SocialFi, the latter term describing the creation of strong communities that are united by shared interests and common goals. An extensive roadmap gives interested parties an idea of what to expect from the ALEX ecosystem as it takes shape, with the launch of the Miracle Verse sure to be an eagerly anticipated event.</p>
+<p>Through combining the fun factor synonymous with memecoins and the utility built into decentralized finance applications, the team behind Alex The Doge believes it has found a winning formula. The completion of the ALEX presale will set the stage for everything that comes next, starting with the token’s DEX debut as Alex The Doge goes live.</p>
+<p><strong>Join the Alex The Doge (ALEX) presale using the links below:</strong></p>
+<ul>
+<li><strong>Website: </strong><a href="https://alexthedoge.live/" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>https://alexthedoge.live/</strong></a></li>
+<li><strong>Telegram: </strong><a href="https://t.me/alexthedoge" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>https://t.me/alexthedoge</strong></a></li>
+<li><strong>Twitter: </strong><a href="https://twitter.com/AlexTheDoge_p2e" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>https://twitter.com/AlexTheDoge_p2e</strong></a></li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/alex-the-doge-alex-presale-reports-14-million-tokens-sold/" rel="nofollow">Alex The Doge (ALEX) Presale Reports 14 Million Tokens Sold</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Justin Bieber&#8217;s BAYC Investment Turns Sour as Paper Losses Mount to $1.24 Million in 18 Months</title>
+		<link>https://cryptopotato.com/justin-biebers-bayc-investment-turns-sour-as-paper-losses-mount-to-1-24-million-in-18-months/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 16:25:40 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[Bored Ape Yacht Club (BAYC)]]></category>
 		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258292</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/06/BAYC_Floor.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/06/BAYC_Floor.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258621</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/02/JustinBieber-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/02/JustinBieber-1.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Crypto markets may have renewed momentum but the same has not happened on the NFT scene as leading collections remain way down from their peaks.]]></description>
-            																<content:encoded><![CDATA[<p>Nonfungible tokens (NFTs) have not recovered anywhere near the levels that crypto markets have. Even the largest collections in the industry, such as Yuga Labs’ Bored Ape Yacht Club, are heavily discounted.</p>
-<p>On July 3, Reflexivity Research co-founder Will Clemente revealed that BAYC was down 90% from its all-time high. Floor prices for the Ape-themed NFTs have slumped over the past few days, falling 23% over the last week.</p>
-<p><a href="https://opensea.io/collection/boredapeyachtclub/analytics" data-wpel-link="external" target="_blank">According</a> to NFT marketplace OpenSea, the floor price for the collection is now just below 30 ETH, or around $58,440. This sounds a lot, but it is the <a href="https://cryptopotato.com/bayc-floor-price-crashes-to-67-eth-lowest-in-8-months/" data-wpel-link="internal">lowest</a> it has been in over a year.</p>
+			            <description><![CDATA[Bored Ape Yacht Club NFTs have tanked significantly in value this month.]]></description>
+            																<content:encoded><![CDATA[<p>Justin Bieber might be iconic on stage, but his investment strategy, at least in terms of NFTs, certainly missed the mark. The famous Canadian pop star paid $1.3 million for a Bored Ape NFT last year, which is now worth only around $59,000.</p>
+<p>Foraying the hyped NFT space during the digital asset bull run seemed like a lucrative and exciting addition to many celebrities&#8217; investment portfolios. However, many who sang the praises of these non-fungible tokens have not managed to steer clear of the troubles that followed.</p>
+<h2>Justin Bieber&#8217;s NFT Losses</h2>
+<p>Bieber&#8217;s tryst with NFTs dates back to January 2022, when the sector was raging with celebrity endorsements. The global pop star invested 500 ETH, which was equivalent to $1.3 million, on BAYC. Eighteen months later, his net paper loss stands at $1.24 million.</p>
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">The Bored Ape Yacht Club NFT collection is now down over 90% from its $600K high <a href="https://t.co/TZVuXFl9UZ" data-wpel-link="external" target="_blank">pic.twitter.com/TZVuXFl9UZ</a></p>
-<p>— Will Clemente (@WClementeIII) <a href="https://twitter.com/WClementeIII/status/1675607114557931522?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 2, 2023</a></p></blockquote>
+<p dir="ltr" lang="en">Justin Bieber spent over $1.3 million on this NFT last year</p>
+<p>It is currently worth $59,000 <a href="https://t.co/LwdNkLyRZU" data-wpel-link="external" target="_blank">pic.twitter.com/LwdNkLyRZU</a></p>
+<p>— Dexerto (@Dexerto) <a href="https://twitter.com/Dexerto/status/1675923552250241029?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 3, 2023</a></p></blockquote>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<h2>NFT Activity Slump</h2>
-<p>However, BAYC remains one of the most popular collections to be traded. According to CryptoSlam, BAYC is the largest one by 30-day trade volume which is reported as $48.8 million in sales.</p>
-<p>In May, <em>CryptoPotato</em> <a href="https://cryptopotato.com/nft-traders-sell-bayc-below-floor-price-to-buy-pepe/" target="_blank" rel="noopener" data-wpel-link="internal">reported</a> that NFT traders were selling BAYC below floor prices to buy PEPE memecoins.</p>
-<p>Nevertheless, a cyber-thief known as “Fake_Phishing182232” manage to pilfer two Apes late last week worth around 70 ETH. On July 1, Peckshield alerted users about the theft of BAYC #8177 and #2330, which were quickly sold by the hacker.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/PeckShieldAlert?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#PeckShieldAlert</a> <a href="https://twitter.com/hashtag/Phishing?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Phishing</a> <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#NFT</a> 2 <a href="https://twitter.com/hashtag/BoredApeYachtClub?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#BoredApeYachtClub</a> #8177 #2330 were stolen by <a href="https://twitter.com/hashtag/Fake_Phishing182232?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Fake_Phishing182232</a> and have been sold for 70.44 <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">$ETH</a> (~$135.4K)<a href="https://t.co/sNGjfDMJfh" data-wpel-link="external" target="_blank">https://t.co/sNGjfDMJfh</a> <a href="https://t.co/Q7SHMjLBaO" data-wpel-link="external" target="_blank">pic.twitter.com/Q7SHMjLBaO</a></p>
-<p>— PeckShieldAlert (@PeckShieldAlert) <a href="https://twitter.com/PeckShieldAlert/status/1675089906232868864?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 1, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>BAYC is not the only NFT collection to see a slump in floor prices.</p>
-<p>According to CoinGecko, NFTs from the Azuki collection have dumped in floor price over the weekend. A massive 63.6% decline of 15.4 ETH to current floor prices of 5.6 ETH has happened on Azuki NFTs over the past week.</p>
-<p>Azukis is currently embroiled in an internal battle between the project’s DAO and its founder known as “Zagabond.”</p>
-<p>CoinGecko is currently <a href="https://www.coingecko.com/en/nft" target="_blank" rel="noopener" data-wpel-link="external">reporting</a> major 24-hour floor price slumps for several prominent NFT collections. Mutant Ape Yacht Club, DeGods, and Elemental have all seen 15-20% declines over the past 24 hours.</p>
-<h2>Crypto Markets Remain Buoyant</h2>
-<p>Contrary to what is going on in the NFT space, cryptocurrency markets remain buoyant during the Monday morning Asian trading session.</p>
-<p>Total capitalization is up 1.1% on the day to $1.25 trillion as BTC and ETH hold on to gains made in June.</p>
-<p><a href="https://cryptopotato.com/bayc-floor-price-crashes-to-67-eth-lowest-in-8-months/" data-wpel-link="internal">Bitcoin</a> has remained in consolidation, so markets are currently being driven by the altcoins such as Litecoin, Polkadot, Bitcoin Cash, and Avalanche.</p>
-<p>The post <a href="https://cryptopotato.com/bayc-has-tanked-90-as-nft-collection-floor-prices-plummet/" rel="nofollow">BAYC Has Tanked 90% as NFT Collection Floor Prices Plummet  </a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>BAYC is a collection of 10,000 Bored Ape NFTs-unique digital collectibles living on the Ethereum blockchain. The once-premier collection saw a massive decline in its floor price that dipped below 30 ETH, <a href="https://cryptopotato.com/bayc-has-tanked-90-as-nft-collection-floor-prices-plummet/" target="_blank" rel="noopener" data-wpel-link="internal">making</a> a multi-year low not seen since October 2021. BAYC&#8217;s current state mirrors a general cooling down of the NFT market. Other prominent players such as MoonBirds, MAYC, Azuki, and Doodles also witnessed declines in value lately.</p>
+<p>Bieber isn&#8217;t the only celeb to have suffered financial damage from his NFT purchases as a result of the turbulent market conditions. Last year, the paper losses of the soccer star Neymar Jr. as well as the renowned rapper Eminem stood at $700,000 and $300,000, respectively.</p>
+<p>American singer and &#8220;Queen of Pop,&#8221; Madonna, also sported big paper losses with her NFTs after purchasing an evil eye ape and then subsequently watching the price go down.</p>
+<h2>Legal Troubles</h2>
+<p>Apart from crashing prices, legal troubles for these celebs caught up. Last December, NFT investors sued the creator of the popular BAYC collection of NFTs and its promoters, including A-listers such as Madonna, Paris Hilton, and Justin Bieber, for allegedly using the celebs who didn&#8217;t disclose they were paid to pump sales to dupe them into buying the collectibles.</p>
+<p>The proposed class-action lawsuit, <a href="https://www.wsj.com/articles/celebrities-who-endorsed-crypto-nfts-land-in-legal-crosshairs-after-investor-losses-11675097150" target="_blank" rel="noopener" data-wpel-link="external">filed</a> in Los Angeles federal court, accused Yuga Labs, Hollywood agent Guy Oseary and MoonPay USA of using their network of prominent musicians, athletes, and celebrities to misleadingly promote and sell Yuga financial products.</p>
+<p>The post <a href="https://cryptopotato.com/justin-biebers-bayc-investment-turns-sour-as-paper-losses-mount-to-1-24-million-in-18-months/" rel="nofollow">Justin Bieber&#8217;s BAYC Investment Turns Sour as Paper Losses Mount to $1.24 Million in 18 Months</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Fraudsters Stole $2.27M Worth NFTs in June: PeckShield</title>
-		<link>https://cryptopotato.com/fraudsters-stole-2-27m-worth-nfts-in-june-peckshield/</link>
+		<title>What’s Behind the Rise of Pepe 2.0 as the Price Continues to Pump and Can These Meme Coins Follow?</title>
+		<link>https://cryptopotato.com/whats-behind-the-rise-of-pepe-2-0-as-the-price-continues-to-pump-and-can-these-meme-coins-follow/</link>
 		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 16:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 15:01:12 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258624</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/wsm_tl_pepe_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/wsm_tl_pepe_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[In the rapidly-evolving crypto market, a new contender has claimed the limelight – Pepe 2.0 ($PEPE2.0). This meme coin, inspired by the original Pepe ($PEPE), has stunned investors with its recent rise and it continues to climb, with its value rocketing 30% in the past 24 hours. As we explore the sudden rise of Pepe [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>In the rapidly-evolving crypto market, a new contender has claimed the limelight – Pepe 2.0 ($PEPE2.0).</p>
+<p>This meme coin, inspired by the original Pepe ($PEPE), has stunned investors with its recent rise and it continues to climb, with its value rocketing 30% in the past 24 hours.</p>
+<p>As we explore the sudden rise of Pepe 2.0, we’ll also delve into the sea of meme coins to uncover which projects might follow in its footsteps.</p>
+<h2>Pepe 2.0 Skyrockets &amp; Outshines Established Meme Coins</h2>
+<p>At the time of writing, $PEPE2.0 is trading at $0.00000005052 – up over 30% in the past day.</p>
+<p>Per <a href="https://coinmarketcap.com/currencies/pepe-2-0/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">CoinMarketCap</a> data, the token boasts a market capitalization of $19.6 million, putting it ahead of more established meme coins like Samoyedcoin ($SAMO) and Vita Inu ($VINU).</p>
+<p>A total of 9,642 unique wallet addresses now hold $PEPE2.0, compared to only 5,410 on June 29, showcasing retail investors&#8217; growing interest.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture10.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258635" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture10.jpg" alt="Picture10" width="602" height="340" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture10.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture10-300x169.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture10-50x28.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Moreover, data from <a href="https://etherscan.io/dex?q=0xfb66321d7c674995dfcc2cb67a30bc978dc862ad#transactions" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Etherscan.io</a> reveals that some big hitters are taking note of the token, with several buy orders worth over $10,000 arriving in the past few hours.</p>
+<p>These figures highlight the escalating demand for $PEPE2.0 and the significant niche it&#8217;s carving for itself in the volatile meme coin market.</p>
+<p>Its popularity is even reflected in the scale of its trading volume, which exceeded $12.9 million over the past 24 hours, according to <a href="https://www.coingecko.com/en/coins/pepe-2-0" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">CoinGecko</a>.</p>
+<p>Clearly, Pepe 2.0’s capacity for consistent growth only seems to be strengthening, suggesting that the best might be yet to come for this budding meme coin.</p>
+<h2>Unraveling the Dynamics Behind Pepe 2.0’s Stellar Ascent</h2>
+<p>Delving into the reasons behind $PEPE2.0’s skyrocketing popularity, several factors stand out.</p>
+<p>First and foremost, the legacy of the original Pepe token plays a significant role in igniting interest in its successor.</p>
+<p>Since $PEPE&#8217;s initial bull run saw the token&#8217;s price explode by over 10,000%, investors are naturally drawn to $PEPE2.0, hoping for a repeat performance.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture9.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258634" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture9.jpg" alt="Picture9" width="602" height="255" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture9.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture9-300x127.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture9-50x21.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Moreover, the current bullish sentiment in the meme coin space offers a productive environment for $PEPE2.0’s surge.</p>
+<p>Data from <a href="https://coincodex.com/cryptocurrencies/sector/meme/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">CoinCodex</a> reveals that the meme coin market is now valued at a whopping $16.2 billion – and is growing larger by the day.</p>
+<p>Thus, the impressive gains from other meme coins have created a sort of &#8220;ripple effect,&#8221; encouraging retail investors to look for the next project that could produce exponential returns.</p>
+<p>Overall, the bullish meme coin market and the original Pepe&#8217;s compelling legacy appear to be providing a solid platform for $PEPE2.0&#8217;s current momentum – which shows no signs of slowing.</p>
+<h2>Can These Meme Coins Mirror Pepe 2.0’s Surge?</h2>
+<p>While Pepe 2.0 has been grabbing headlines, it&#8217;s not the only meme coin poised to make a significant impact in the crypto scene.</p>
+<p>Two other projects, Wall Street Memes and Thug Life, are currently gaining traction.</p>
+<h2>Wall Street Memes Continues to Rise After Raising $12.4m Through Presale</h2>
+<p><a href="https://bs_54c27399.cryptopotato.care/?referrer=whats-behind-the-rise-of-pepe-2-0-as-the-price-continues-to-pump-and-can-these-meme-coins-follow/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Wall Street Memes ($WSM)</a> is harnessing the power of community and the allure of meme culture to create a storm in the crypto space.</p>
+<p>Having already raised an impressive $12.4m during its presale phase, Wall Street Memes is carving a unique path in the market – setting it apart from the hundreds of alternative meme coins that launch each week.</p>
+<p>Wall Street Memes aims to create a community-driven ecosystem centered around standing up to the financial heavyweights on Wall Street.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258633" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.jpg" alt="Picture8" width="602" height="295" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture8-300x147.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture8-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>This plan seems to be working, evidenced by the project’s rapidly growing <a href="https://t.me/wallst_memes" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Telegram channel</a>.</p>
+<p>As Wall Street Memes’ presale nears its end, there’s palpable excitement surrounding the $WSM token’s forthcoming debut on Tier-1 CEXs.</p>
+<p>Investors globally are eager to uncover the potential of $WSM – with several crypto influencers (including <a href="https://twitter.com/RealCryptoJamie" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Crypto Jamie</a>) coming on board as brand ambassadors.</p>
+<p>If the project maintains its momentum post-listing, $WSM could have a stellar second half of 2023.</p>
+<p><a href="https://bs_54c27399.cryptopotato.care/?referrer=whats-behind-the-rise-of-pepe-2-0-as-the-price-continues-to-pump-and-can-these-meme-coins-follow/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Wall Street Memes Presale</strong></a></p>
+<h2>Thug Life Amasses $325,000 Funding in Record Time, 13 Days Left to Buy on Presale</h2>
+<p><a href="https://cryptopotato.care/b_thuglife_33357" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Thug Life ($THUG)</a> is another meme coin quickly garnering attention in the crypto community.</p>
+<p>Billed as a way to &#8220;pimp out your money game,&#8221; $THUG has been experiencing a steady climb in community engagement since launching last week – with more than 2,900 people now following the official <a href="https://twitter.com/thug_life_token" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter account</a>.</p>
+<p>The team behind $THUG is banking on the viral appeal of its unique brand image and the increasing popularity of meme coins to drive its growth.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258632" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7.jpg" alt="Picture7" width="602" height="215" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-300x107.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-50x18.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Also, the team is actively fostering an engaged community – evidenced by the fact that 70% of the total $THUG supply has been set aside for presale investors.</p>
+<p>Like Wall Street Memes, Thug Life&#8217;s price could significantly rise if it continues to resonate with meme coin enthusiasts worldwide.</p>
+<p>All in all, $THUG&#8217;s unique branding and rapidly growing community undoubtedly make it a clear contender for a Pepe 2.0-style surge.</p>
+<p><a href="https://cryptopotato.care/b_thuglife_33357" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Thug Life Presale</strong></a></p>
+<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above sponsored content.</em></p>
+<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
+<p>The post <a href="https://cryptopotato.com/whats-behind-the-rise-of-pepe-2-0-as-the-price-continues-to-pump-and-can-these-meme-coins-follow/" rel="nofollow">What’s Behind the Rise of Pepe 2.0 as the Price Continues to Pump and Can These Meme Coins Follow?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>On-Chain Metrics and Investor Behavior Suggest Signs of a Bull Run: Bitfinex Report</title>
+		<link>https://cryptopotato.com/on-chain-metrics-and-investor-behavior-suggest-signs-of-a-bull-run-bitfinex-report/</link>
+		
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 14:35:53 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Hacking]]></category>
-		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258370</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/12/hack_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Bitcoin (BTC) Price]]></category>
+		<category><![CDATA[Bitfinex]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=258589</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_Bulls.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_Bulls.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[June witnessed a 23% decline in NFT thefts amidst tanking floor prices. ]]></description>
-            																<content:encoded><![CDATA[<p>NFTs continue to attract not only more users but also capture the eyes of fraudulent entities. Web3 threat actors have set their sights on digital collectibles, with millions of funds being lost through different scams and attacks.</p>
-<p>A new report suggested that such thefts in the NFT space declined in June but remain rampant.</p>
-<h2>NFT Theft: June Edition</h2>
-<p>Shedding light into the NFT crime landscape for the month, PeckShield&#8217;s <a href="https://twitter.com/PeckShieldAlert/status/1675705679196336128" target="_blank" rel="noopener" data-wpel-link="external">analysis</a> revealed that fraudsters stole approximately $2.27 million worth of NFTs. Despite this, June saw a 23% decline compared to the previous month, which recorded $2.95 million. This can be attributed to dwindling floor prices.</p>
-<p>The latest figure is also over 85% lower than February&#8217;s high of a whopping $16.2 million.</p>
-<p>The blockchain security firm further identified that half of the stolen NFTs were promptly sold on various marketplaces within a span of three hours of the theft. Prominent NFT marketplaces such as Blur emerged as a hotspot where nearly 86% of ill-gotten funds were sold, followed by OpenSea with 13.76%.</p>
-<p>Meanwhile, the floor prices of NFT collections, such as Bored Ape Yacht Club (BAYC), Otherdeed, Mutant Ape Yacht Club, Azuki Elementals, as well as DeGods, have all <a href="https://nftpricefloor.com/" target="_blank" rel="noopener" data-wpel-link="external">tanked</a> significantly.</p>
-<p>Many whales view the market conditions to be an opportunity to amass more NFTs at low prices. Lookonchain revealed that a whale under the pseudonym &#8220;Machi Big Brother&#8221; raked in 84 Azuki NFTs over the past day to become the second-largest holder.</p>
-<p>In terms of overall exploits in the digital asset industry, June was <a href="https://twitter.com/PeckShieldAlert/status/1674811493613969409" target="_blank" rel="noopener" data-wpel-link="external">ranked</a> the second-highest month this year.  Exploiters managed to pilfer over $92 million across 42 hacks.</p>
-<h2>NFT Exploits and Scams</h2>
-<p>Earlier this year, Nikhil Gopalani, the COO of RTFKT, <a href="https://cryptopotato.com/rtfkts-coo-says-he-lost-his-nfts-in-phishing-attack/" target="_blank" rel="noopener" data-wpel-link="internal">lost</a> $173,000 worth of NFTs from his wallet in an apparent phishing attack. Later investigation pointed out that Gopalani may have accidentally provided confidential information to a hacker who was posing as an Apple representative.</p>
-<p>Phishing, scam projects, stolen and plagiarized NFTs, market manipulation, and rug pulls continue to dominate the NFT space. As reported earlier, more than $100 million worth of NFTs were <a href="https://cryptopotato.com/over-100-million-worth-of-nfts-stolen-over-the-past-year-report/" target="_blank" rel="noopener" data-wpel-link="internal">stolen</a> throughout 2022.</p>
-<p>The post <a href="https://cryptopotato.com/fraudsters-stole-2-27m-worth-nfts-in-june-peckshield/" rel="nofollow">Fraudsters Stole $2.27M Worth NFTs in June: PeckShield</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Pepe Coin (PEPE) and Alex the Doge (ALEX): A Closer Look at Their Presale Impact</title>
-		<link>https://cryptopotato.com/pepe-coin-pepe-and-alex-the-doge-alex-a-closer-look-at-their-presale-impact/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 16:00:32 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258394</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/photo_2023-07-03_14-47-03.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/photo_2023-07-03_14-47-03.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Meme coins have undoubtedly caught the attention of the world outside of cryptocurrencies. Investors were left baffled at the meteoric rise of the likes of Doge, Shiba Inu, and Pepe. While coins like Dogecoin (DOGE) and Pepe Coin (PEPE) have made significant waves in this space, a new contender, Alex The Doge (ALEX), has emerged [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Meme coins have undoubtedly caught the attention of the world outside of cryptocurrencies. Investors were left baffled at the meteoric rise of the likes of Doge, Shiba Inu, and Pepe.</p>
-<p>While coins like Dogecoin (DOGE) and Pepe Coin (PEPE) have made significant waves in this space, a new contender, <a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">Alex The Doge (ALEX)</a>, has emerged with a strong proposition.</p>
-<p><a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">&gt;&gt;&gt;&gt;VISIT $ALEX PRESALE NOW&lt;&lt;&lt;&lt;</a></p>
-<h2>The Rise of Meme Coins</h2>
-<p>Meme coins have gained immense popularity in the world of cryptocurrencies. They leverage the power of meme culture to create a community-driven ecosystem.</p>
-<p>Dogecoin (DOGE) was one of the first meme coins to capture widespread attention and has since become a prominent player in the crypto market. Pepe Coin (PEPE) also entered the scene, drawing inspiration from the iconic Pepe the Frog meme. However, a new meme coin, Alex The Doge (ALEX), is generating significant buzz with its unique approach.</p>
-<h2>Alex The Doge (ALEX) &#8211; A Unique Meme Coin</h2>
-<p><a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">Alex The Doge (ALEX)</a> distinguishes itself from other meme coins by integrating gaming and decentralized finance (DeFi). This unique concept, known as GameFi, provides an immersive play-to-earn experience for users. Inspired by the iconic Sega character &#8220;Alex Kidd,&#8221; Alex The Doge (ALEX) aims to revolutionize the gaming industry by seamlessly merging gaming credits and digital assets.</p>
-<p>The presale impact of Alex The Doge (ALEX) has been remarkable, with more than 6.5 million ALEX tokens sold to date. Unlike many meme coins, Alex The Doge (ALEX) has a well-defined whitepaper, roadmap, and execution strategy in place, instilling confidence in potential investors. The project&#8217;s usability, combined with its strong meme appeal, make it an exciting proposition in the meme coin market.</p>
-<p><a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">&gt;&gt;&gt;&gt;VISIT $ALEX PRESALE NOW&lt;&lt;&lt;&lt;</a></p>
-<h2>Is Alex The Doge (ALEX) the Better Option?</h2>
-<p>When considering the suitability of meme coins for new crypto investors, Alex The Doge (ALEX) stands out as an interesting choice. Unlike Pepe Coin (PEPE), which primarily relies on its meme culture association, Alex The Doge (ALEX) offers a broader range of feature.</p>
-<p>The GameFi aspect of Alex The Doge (ALEX) presents an engaging and potentially profitable experience for users. By creating a play-to-earn platform, Alex The Doge (ALEX) allows users to interact, learn, trade, and play within the Miracle Verse, its digital gaming world. The ALEX token serves as a rewards mechanism within the platform&#8217;s games and also finds utility in social trading and DeFi applications.</p>
-<p>Furthermore, Alex The Doge (ALEX) has a strategic presale approach that sets it apart from other meme coins. The presale event provides early access to potential investors, allowing them to benefit from the token&#8217;s launch. This approach has proven successful for meme coins in the past and indicates the potential for significant growth in the value of the ALEX token.</p>
-<p><a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">&gt;&gt;&gt;&gt;Visit $ALEX PRESALE NOW&lt;&lt;&lt;&lt;</a></p>
-<h2>Conclusion</h2>
-<p>In the realm of meme coins, Alex The Doge (ALEX) emerges as a strong competitor. While Pepe Coin (PEPE) has made its mark with its distinctive meme culture association, Alex The Doge (ALEX) offers a more comprehensive approach.</p>
-<p>With its GameFi concept, Alex The Doge (ALEX) combines gaming and DeFi to create an immersive and potentially profitable experience for users. The presale impact of Alex The Doge (ALEX) has been substantial, reflecting strong community support and confidence.</p>
-<p>For new crypto investors, Alex The Doge (ALEX) presents an interesting option due to its innovative features, and strategic presale approach. As the crypto market continues to evolve, Alex The Doge (ALEX) has positioned itself as a formidable contender in the meme coin space.</p>
-<p>For more information about Alex The Doge (ALEX) presale use the links down below:</p>
-<ul>
-<li>Website: <a href="https://alexthedoge.live/" rel="&quot;nofollow" data-wpel-link="external" target="_blank">https://alexthedoge.live/</a></li>
-<li>Telegram: <a href="https://t.me/alexthedoge" rel="&quot;nofollow" data-wpel-link="external" target="_blank">https://t.me/alexthedoge</a></li>
-<li>Twitter: <a href="https://twitter.com/AlexTheDoge_p2e" rel="&quot;nofollow" data-wpel-link="external" target="_blank">https://twitter.com/AlexTheDoge_p2e</a></li>
-</ul>
-<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
-<p>The post <a href="https://cryptopotato.com/pepe-coin-pepe-and-alex-the-doge-alex-a-closer-look-at-their-presale-impact/" rel="nofollow">Pepe Coin (PEPE) and Alex the Doge (ALEX): A Closer Look at Their Presale Impact</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Will XRP Explode Above $0.5 or Will The Correction Deepen? (Ripple Price Analysis)</title>
-		<link>https://cryptopotato.com/will-xrp-explode-above-0-5-or-will-the-correction-deepen-ripple-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 15:16:48 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[XRP Analysis]]></category>
-		<category><![CDATA[XRPBTC]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[Ripple (XRP) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258418</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[After forming a bearish double-top pattern and undergoing a period of consolidation, Ripple&#8217;s price struggled to break below the 100-day moving average. However, it finally declined below the moving average, reaching $0.44. This decline indicates a bearish outlook for Ripple&#8217;s short-term prospects. Technical Analysis By Shayan AThe Daily Chart Upon analyzing the Daily Chart, it [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>After forming a bearish double-top pattern and undergoing a period of consolidation, Ripple&#8217;s price struggled to break below the 100-day moving average. However, it finally declined below the moving average, reaching $0.44. This decline indicates a bearish outlook for Ripple&#8217;s short-term prospects.</p>
-<h2><strong>Technical Analysis</strong></h2>
-<p><strong>By <a href="http://twitter.com/greatest_trader" data-wpel-link="external" target="_blank">Shayan</a></strong></p>
-<p>A<strong>The Daily Chart</strong></p>
-<p>Upon analyzing the Daily Chart, it becomes evident that Ripple&#8217;s price exhibited high volatility around the crucial resistance level of $0.5. This resulted in the formation of a bearish double-top reversal pattern. Consequently, there has been a significant decline, breaking below the critical support level represented by the 100-day moving average.</p>
-<p>Currently, the price is retracing back to the previously broken level at $0.485, creating a pullback. If it&#8217;s successful, another decline toward the next crucial support region can be anticipated. This region encompasses the substantial support of the 200-day moving average at $0.4328, as well as the static support zone at $0.42.</p>
-<figure id="attachment_258420" aria-describedby="caption-attachment-258420" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-scaled.jpg" data-wpel-link="internal"><img class="wp-image-258420 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-scaled.jpg" alt="xrp_price_chart_0307231" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-1D-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-258420" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3><strong>The 4-Hour Chart</strong></h3>
-<p>Shifting our attention to the 4-hour chart, it is evident that the price has finally dropped below the middle trendline of the ascending channel. Ripple is returning to the broken level at $0.49, forming a pullback.</p>
-<p>Furthermore, during the recent market turmoil, the price has also declined below the ascending trendline (marked in green). It is currently testing it through a pullback at the same level as the middle trendline of the channel.</p>
-<p>Consequently, if both the channel&#8217;s middle trendline and the ascending green trendline reject the price, there is a strong possibility of a cascade toward the static support region at $0.42.</p>
-<figure id="attachment_258421" aria-describedby="caption-attachment-258421" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-scaled.jpg" data-wpel-link="internal"><img class="wp-image-258421 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-scaled.jpg" alt="xrp_price_chart_0307232" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-258421" class="wp-caption-text">Source: TradingVIew</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/will-xrp-explode-above-0-5-or-will-the-correction-deepen-ripple-price-analysis/" rel="nofollow">Will XRP Explode Above $0.5 or Will The Correction Deepen? (Ripple Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>ETH Soars to $2K For the Second Time, Will it Finally Break Through? (Ethereum Price Analysis)</title>
-		<link>https://cryptopotato.com/eth-soars-to-2k-for-the-second-time-will-it-finally-break-through-ethereum-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 15:14:28 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[ETH Analysis]]></category>
-		<category><![CDATA[ETHBTC]]></category>
-		<category><![CDATA[ETHUSD]]></category>
-		<category><![CDATA[Ethereum (ETH) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258414</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily.jpeg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily.jpeg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum&#8217;s price has been trending upward over recent weeks, leading investors to feel optimistic that a new bull market is on the horizon. Yet, there are still key resistance levels to be taken out for ETH to experience a new long-term bullish trend. Technical Analysis By: Edris The Daily Chart On the daily chart, the [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ethereum&#8217;s price has been trending upward over recent weeks, leading investors to feel optimistic that a new bull market is on the horizon. Yet, there are still key resistance levels to be taken out for ETH to experience a new long-term bullish trend.</p>
-<h2>Technical Analysis</h2>
-<p>By: <a href="http://www.twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></p>
-<h3>The Daily Chart</h3>
-<p>On the daily chart, the price has been rallying higher following a decisive rebound from the 200-day moving average, along with a breakout from the 50-day moving average to the upside. The aforementioned 50-day moving average, currently located around the $1,850 mark, has recently supported the price, pushing it to the upside.</p>
-<p>Currently, the $2,200 level is the most likely target in this timeframe. A breakout above the $2,200 level would be instrumental for the market to enter a long-term bullish trend once more.</p>
-<figure id="attachment_258417" aria-describedby="caption-attachment-258417" style="width: 1280px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily.jpeg" data-wpel-link="internal"><img class="wp-image-258417 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily.jpeg" alt="eth_price_chart_0703231" width="1280" height="796" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily.jpeg 1280w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-300x187.jpeg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-1024x637.jpeg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-768x478.jpeg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-50x31.jpeg 50w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-258417" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart</h3>
-<p>Looking at the 4-hour chart, things appear more interesting. Ethereum&#8217;s price has broken out of the large falling wedge pattern, but the $1,920 resistance level has rejected ETH several times. Even so, the cryptocurrency has been held by the higher boundary of the falling wedge and has been trending upwards consistently.</p>
-<p>The $1,920 level is currently getting broken to the upside as the market climbs towards the $2,000 psychological level. Furthermore, while the RSI indicator is presently demonstrating bullish momentum dominance, it is approaching the overbought zone.</p>
-<figure id="attachment_258416" aria-describedby="caption-attachment-258416" style="width: 1280px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H.jpeg" data-wpel-link="internal"><img class="wp-image-258416 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H.jpeg" alt="eth_price_chart_0307232" width="1280" height="796" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H.jpeg 1280w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-300x187.jpeg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-1024x637.jpeg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-768x478.jpeg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-50x31.jpeg 50w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-258416" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<p><span style="font-size: 24px; font-weight: bold;">Sentiment Analysis</span></p>
-<h3>Ethereum Taker Buy Sell Ratio</h3>
-<p>To gain insights into the current market sentiment and determine whether Ethereum is entering a new bull market or continuing the current bear market, it would be valuable to examine the sentiment in the perpetual futures market.</p>
-<p>Analyzing the Taker Buy-Sell Ratio metric, which is smoothed by a 100-day exponential moving average, provides valuable information about the dominance of long or short traders. A ratio above 1 suggests a bullish sentiment, while a ratio below 1 indicates a bearish sentiment.</p>
-<p>Despite the gradual recovery in Ethereum&#8217;s price over the past few months, the Taker Buy-Sell Ratio remains below 1. This suggests that there is ongoing bearish sentiment in the futures market. Some investors may be shorting the market to hedge their spot portfolios, while others are engaging in short-selling for profit, indicating a belief that the bear market is not yet over.</p>
-<p>If this behavior continues among futures traders and the demand in the spot market diminishes, it could lead to selling pressure and a potential bearish reversal shortly.</p>
-<figure id="attachment_258415" aria-describedby="caption-attachment-258415" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-258415 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-scaled.jpg" alt="eth_take_buy_sell_ratio_chart_0307231" width="2560" height="1619" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-300x190.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-1024x647.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-768x486.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-1536x971.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-2048x1295.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-3-2023-50x32.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-258415" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/eth-soars-to-2k-for-the-second-time-will-it-finally-break-through-ethereum-price-analysis/" rel="nofollow">ETH Soars to $2K For the Second Time, Will it Finally Break Through? (Ethereum Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Ethereum Price Heading Towards $2K While YPredict Nears $3 Million</title>
-		<link>https://cryptopotato.com/ethereum-price-heading-towards-2k-while-ypredict-nears-3-million/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 15:09:23 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=258423</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/eth_ypred_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/eth_ypred_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The crypto market had another strong day as the global market capitalization surged by 1%. While Bitcoin continues to trade sideways above $30k, Ethereum is dominating the bull rally. ETH is now up over 4% in the weekly time frame and is close to breaching the $2k price level. The strong inflows into the crypto [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>The crypto market had another strong day as the global market capitalization surged by 1%. While Bitcoin continues to trade sideways above $30k, Ethereum is dominating the bull rally.</p>
-<p>ETH is now up over 4% in the weekly time frame and is close to breaching the $2k price level.</p>
-<p>The strong inflows into the crypto market have boosted other major altcoins, such as Bitcoin Cash and Litecoin as well as newly launched tokens, such as yPredict and Ecoterra.</p>
-<h2><strong>Ethereum Inches Toward $2k </strong></h2>
-<p>Major altcoins are in a state of euphoria, with Ethereum leading the way. Ether has surged 2.3% over the past day, bringing its weekly rally to 4.2%. The token is currently trading at $1,963 and is extremely close to hitting the $2k mark for the second time this year.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258429" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-2.jpg" alt="Picture2" width="602" height="325" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-2.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-2-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-2-50x27.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>ETH is currently displaying bullish strength due to the institutional adoption of crypto, led by Bitcoin. Several TradFi giants such as BlackRock and Fidelity have <a href="https://www.cnbc.com/2023/06/29/fidelity-joins-the-rush-for-a-bitcoin-etf-following-blackrock-ark-invest-and-others.html" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">filed for spot Bitcoin ETF</a>.</p>
-<p>Bloomberg Intelligence shows that various institutions have previously applied for spot Bitcoin trading as many as 30 times, but have been rejected by the SEC. Therefore, an approval from the top market watchdog would likely be incredibly bullish for the entire crypto industry, including Ethereum.</p>
-<p>The crypto market tumbled after SEC officials claimed that the recent filings have been inadequate. However, brokerage firm Bernstein believes that the chances of approval by the SEC are “fairly high” as institutions such as Fidelity are already refiling their applications.</p>
-<p>Ethereum is also enjoying its fair share of institutional attention. A new crypto exchange EDX, backed by giants Charles Schwab, Citadel, and Fidelity, has offered Ethereum trading to its users. The exchange offers trading for only three other crypto assets &#8211; Bitcoin, Bitcoin Cash and Litecoin.</p>
-<p>Experts believe that the sudden institutional attention on Ethereum may be a signal that the token will not be labelled a security by the SEC.</p>
-<p>The market is also exploding due as economic data continues to signal cooling inflation levels. The <a href="https://www.livemint.com/videos/why-the-us-federal-reserve-didn-t-raise-rates-mint-primer-mint-11688360495082.html" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Federal Reserve</a> already paused its interest rate hike last month. If the central bank continues to pivot from its hawkish stance, ETH and other altcoins can see remarkable price growth.</p>
-<h2><strong>Which Altcoins Could Also Surge?</strong></h2>
-<p>The current bull rally has been rewarding for altcoins, especially high-utility projects with enormous real-world value.</p>
-<p>Other altcoins like Bitcoin Cash and Litecoin are pumping, while YPredict and Ecoterra are two presale tokens that are also displaying significant growth.</p>
-<h2><strong>AI-Powered Trading Platform YPredict Nears $3 Million In Presale</strong></h2>
-<p><a href="https://bs_72a7e4de.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">YPredict</a> has emerged as one of the most talked about crypto presales of recent weeks. The token has raised $2.7 million and is close to hitting the $3 million mark.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258428" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-2.jpg" alt="Picture3" width="602" height="352" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-2.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-2-300x175.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-2-50x29.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>$YPRED is currently priced at $0.09 but that will increase by 28% as it moves to the next stage of presale, offering an exciting opportunity for early investors.</p>
-<p>AI-based crypto projects are in high demand &#8211; they have already amassed over $5 billion in market capitalization. YPredict’s wide variety of market tools and ML-based predictive trading can help it become a major player in this space.</p>
-<p>All $YPRED holders are eligible for free-of-cost access to the Predictions platform &#8211; it comprises accurate price models of thousands of crypto assets and securities. Meanwhile, traders can use the Analytics platform to gain valuable market insights through top-notch pattern recognition algorithms, transaction analysis and sentiment analysis.</p>
-<p>The yPredict Marketplace is the company’s flagship platform &#8211; it allows top AI &amp; ML experts to publish accurate and vetted data models. Traders can subscribe to these models and make informed real-time decisions.</p>
-<p>Apart from powering this all-in-one ecosystem, $YPRED also offers lucrative rewards to holders. Investors can earn up to a whopping 45% quarter staking reward and also enjoy exciting discounts while using the yPredict platform.</p>
-<p><a href="https://bs_72a7e4de.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit yPredict Presale</strong></a></p>
-<h2><strong>Exciting Recycle2Earn Token Ecoterra Nears Launch, Is A Tier-1 Listing Next?</strong></h2>
-<p>Top eco-friendly token <a href="https://bs_d432f031.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Ecoterra</a> is another crypto gaining traction and has entered the final stage of its triumphant presale. It has now raised $5.7 million and is well on its way to hitting the targeted $6.7 million.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-258427" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4.jpg" alt="Picture4" width="602" height="395" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-300x197.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-50x33.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Despite the turbulent market conditions, $ECOTERRA has been a fan favourite of crypto investors throughout the presale, likely due to its exciting real-world utility. The Ecoterra project incentivises individuals and corporations to play their role in reversing anthropogenic global warming.</p>
-<p>With the help of blockchain technology and lucrative tokenomics, the project is aiming to create a sustainable circular economy of recycled products.</p>
-<p>Corporations can create a stellar reputation by purchasing recycled raw materials at low cost &#8211; meanwhile, Individuals can earn $ECOTERRA tokens for recycling waste products through the R2E application.</p>
-<p>Companies and individuals can also play a huge role in helping achieve carbon neutrality. They can purchase verified carbon units through Ecoterra’s Carbon Offset Marketplace and reduce their greenhouse gas footprint.</p>
-<p>While the platform accepts payments in Bitcoin, USDT and even fiat, the $ECOTERRA token is the preferred option &#8211; it costs low transaction fees and allows the possibility of staking.</p>
-<p>Due to its high utility, the token is considered a likely candidate for a Tier-1 exchange listing, which could result in a bullish surge. Investors can take advantage of this by purchasing $ECOTERRA through bank cards or by swapping ETH or USDT tokens. The project is also offering a 10% bonus to every user buying the token in the final stage.</p>
-<p><a href="https://bs_d432f031.cryptopotato.care" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Ecoterra Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
-<p>The post <a href="https://cryptopotato.com/ethereum-price-heading-towards-2k-while-ypredict-nears-3-million/" rel="nofollow">Ethereum Price Heading Towards $2K While YPredict Nears $3 Million</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[On-chain data indicates strong buying interest absorbed by limit sell orders, a balance that has formed a zone that could determine BTC’s trajectory.]]></description>
+            																<content:encoded><![CDATA[<p>A new report by the cryptocurrency exchange Bitfinex revealed that the latest on-chain metrics and investor behavior suggest the crypto market may be ready for the next bull run.</p>
+<p>In the weekly edition of the Bitfinex Alpha <a href="https://blog.bitfinex.com/wp-content/uploads/2023/07/Bitfinex-Alpha-61.pdf" data-wpel-link="external" target="_blank">report</a>, the crypto exchange noted that Bitcoin’s Spent Output Profit Ratio (SOPR) and Net Unrealized Profit and Loss (NUPL) indicators have moved into the green, showing that almost all BTC trades have been profitable since the leading asset breached the $29,500 mark.</p>
+<h2>On-Chain Metrics and Investor Behavior</h2>
+<p>As bitcoin’s price <a href="https://cryptopotato.com/bitcoin-taps-31k-on-blackrocks-etf-refiling-aptos-jumps-10-market-watch/" data-wpel-link="internal">hovers</a> around the $30,000 range, the asset’s SOPR has remained above one, showing that market participants are confident in their spot positions and do not have to sell at a loss. They are keen on future price appreciation and <a href="https://cryptopotato.com/institutional-bitcoin-btc-accumulation-sees-exponential-increase-report/" data-wpel-link="internal">believe</a> their positions would either realize partial profits now or hold for higher.</p>
+<p>The SOPR gives insights into the profitability or loss of coins moved on-chain. A SOPR greater than one means that investors are, on average, selling their BTC at a profit. If it is less than one, then they are selling at a loss.</p>
+<p>The SOPR has been above one for roughly two weeks since bitcoin soared past the $29,500 level. This signals that most market participants expect further price appreciation and are unwilling to sell at a loss, like in a bull market.</p>
+<blockquote><p>“This generally keeps the SOPR value &gt; one during bull markets, because there is very little supply coming onto the market at breakeven prices. In both bull and bear markets, the SOPR value tends to find support and resistance at a value of one, thus, a sustained stint above one as we are in now would signal we are in an early bull market stage,” Bitfinex said.</p></blockquote>
+<h2>A Tussle Between Bulls and Bears</h2>
+<p>While Bitcoin’s SOPR hovers above one, the asset’s order flow data suggests a tussle between bullish and bearish sentiments. On-chain data indicates strong buying interest absorbed largely by limit sell orders, a balance that has formed a zone that could determine BTC’s direction in upcoming weeks.</p>
+<p>On the other hand, several on-chain trackers have discovered a significant increase in miners sending bitcoins to exchanges. Such activity is usually seen in two scenarios &#8211; during a bear market capitulation or the early stages of a bull market.</p>
+<p>However, on-chain data indicates the miners’ move is directed at derivative trading activities like using the BTC as collateral for their positions rather than directly selling on spot markets. This prevents any immediate bearish influence on prices.</p>
+<p>The post <a href="https://cryptopotato.com/on-chain-metrics-and-investor-behavior-suggest-signs-of-a-bull-run-bitfinex-report/" rel="nofollow">On-Chain Metrics and Investor Behavior Suggest Signs of a Bull Run: Bitfinex Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
