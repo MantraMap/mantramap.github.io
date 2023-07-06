@@ -560,4 +560,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7552 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1868335 metric#prefetches=145 metric#store-reads=22 metric#store-writes=4 metric#store-hits=155 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=320.62 metric#ms-cache=23.87 metric#ms-cache-avg=0.9547 metric#ms-cache-ratio=7.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7552 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1868335 metric#prefetches=145 metric#store-reads=22 metric#store-writes=4 metric#store-hits=155 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=203.96 metric#ms-cache=16.02 metric#ms-cache-avg=0.6409 metric#ms-cache-ratio=7.9 -->
