@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 07 Jul 2023 02:42:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Jul 2023 03:02:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,96 +29,27 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Nftperp Shuts Down V1 Beta, Promising Thrilling Launch Of V2</title>
-		<link>https://coincu.com/200854-nftperp-shuts-down-v1-beta/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 02:42:01 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<category><![CDATA[nftperp]]></category>
-		<category><![CDATA[Nftperp V2]]></category>
-		<category><![CDATA[perpetual trading]]></category>
-		<category><![CDATA[VNFTP]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200854</guid>
-
-					<description><![CDATA[Nftperp made a significant announcement regarding the closure of its V1 private beta and the upcoming launch of V2 paper trading.<p class="has-text-align-right"><a href="https://coincu.com/200854-nftperp-shuts-down-v1-beta/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Nftperp announces the closure of its V1 private beta after achieving a staggering trading volume of 280,000 ETH.</em></li>
-
-
-
-<li><em>Nftperp plans to sunset V1 in preparation for the highly anticipated launch of V2, dedicating resources to enhance the protocol and provide an improved trading experience.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong><a href="https://coincu.com/181836-nftperp-first-perpetual-futures-dex-nft/" target="_blank" rel="noreferrer noopener">Nftperp</a>, a groundbreaking platform for NFT perpetual trading, has made a significant <a href="https://twitter.com/nftperp/status/1677113298402066435" target="_blank" rel="noreferrer noopener">announcement</a> regarding the closure of its V1 private beta and the upcoming launch of V2 paper trading.</strong></h5>
-
-
-
-<p>After witnessing an impressive trading volume of 280,000 ETH (equivalent to $518,000,000) during the V1 private beta phase, the decision has been made to sunset the closed beta contracts.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-473.png"><img decoding="async" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-473-1024x538.png" alt="Nftperp Shuts Down V1 Beta, Promising Thrilling Launch Of V2" class="wp-image-200861" srcset="https://coincu.com/wp-content/uploads/2023/07/image-473-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-473-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-473-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-473-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-473-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-473.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nftperp Shuts Down V1 Beta, Promising Thrilling Launch Of V2 1"></a></figure></div>
-
-
-<p>To ensure the stability of the protocol and safeguard the interests of users, the V1 contracts have been paused immediately. It is important to note that all user margins (WETH) will be returned, ensuring that no user will experience a loss of their initial collateral or margin.</p>
-
-
-
-<p>The decision to pause the V1 contracts stems from several reasons. Firstly, the insights gathered over the past seven months of the private beta phase have revealed that the V1 vAMM (virtual automated market maker) model is not scalable. Additionally, internal team mistakes related to liquidation logic and accounting errors have resulted in the accrual of bad debt. To address this, the team has decided to step in and backstop the losses.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-474.png"><img decoding="async" loading="lazy" width="1024" height="326" src="https://coincu.com/wp-content/uploads/2023/07/image-474-1024x326.png" alt="Nftperp Shuts Down V1 Beta, Promising Thrilling Launch Of V2" class="wp-image-200863" srcset="https://coincu.com/wp-content/uploads/2023/07/image-474-1024x326.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-474-300x96.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-474-768x245.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-474-1536x490.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-474-750x239.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-474-1140x363.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-474.png 1810w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nftperp Shuts Down V1 Beta, Promising Thrilling Launch Of V2 2"></a></figure></div>
-
-
-<p>The closure of V1 paves the way for the much-anticipated launch of nftperp V2. By pausing the contracts, the platform aims to prevent users from incurring financial losses and losing their funds. Market closure at current prices would have resulted in unfavorable outcomes for users. The team recognizes that allowing a race to exit first would not be a satisfactory resolution for all participants. By identifying user margin deposits precisely, nftperp will refund all users&#8217; collateral to ensure their funds are protected.</p>
-
-
-
-<p>In a positive move, users with negative unrealized PnL (Profit and Loss) will have their unrealized losses waived, receiving their full margin back. On the other hand, users with positive unrealized PnL will receive their margin back along with their pro-rata share of VNFTP tokens, corresponding to their unrealized gains. It&#8217;s worth noting that all position states have been saved as of block timestamp #: 108596965.</p>
-
-
-
-<p>Looking ahead, nftperp is excited about the future prospects of the protocol and the launch of V2. With dedicated resources focused on the next iteration, the team aims to deliver an enhanced trading experience and further advancements in the NFT perpetual trading space.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200854-nftperp-shuts-down-v1-beta/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-2-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Aptos Foundation&#8217;s Twitter Hacked And Posted A Scam Airdrop Link</title>
-		<link>https://coincu.com/200845-aptos-foundations-twitter-hacked-scam-airdrop/</link>
+		<title>Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%</title>
+		<link>https://coincu.com/201021-grayscale-ldo-second-largest-defi-token/</link>
 		
 		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 02:36:01 +0000</pubDate>
-				<category><![CDATA[Scam Alert]]></category>
+		<pubDate>Sat, 08 Jul 2023 03:01:59 +0000</pubDate>
+				<category><![CDATA[Altcoins]]></category>
 		<category><![CDATA[# Cryptocurrencies]]></category>
 		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[airdrop]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Aptos]]></category>
 		<category><![CDATA[Blockchain]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[hacked]]></category>
-		<category><![CDATA[Mo Shaikh]]></category>
-		<category><![CDATA[Scam]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200845</guid>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Defi tokens]]></category>
+		<category><![CDATA[Grayscale]]></category>
+		<category><![CDATA[LDO]]></category>
+		<category><![CDATA[Lido]]></category>
+		<category><![CDATA[stETH]]></category>
+		<category><![CDATA[UNI]]></category>
+		<category><![CDATA[Uniswap]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=201021</guid>
 
-					<description><![CDATA[Aptos Foundation and its CEO, Mo Shaikh, were both hacked early this morning. After attacking, the scammers advertised a fake airdrop.<p class="has-text-align-right"><a href="https://coincu.com/200845-aptos-foundations-twitter-hacked-scam-airdrop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Grayscale added the LDO token to its DeFi fund on July 7 and instantly made it the second-largest token in its fund, behind only UNI.<p class="has-text-align-right"><a href="https://coincu.com/201021-grayscale-ldo-second-largest-defi-token/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -126,416 +57,84 @@
 
 
 <ul>
-<li><em>The official accounts of CEO Mo Shaikh and Aptos Foundation were both hacked early this morning.</em></li>
+<li><em>Lido&#8217;s Token Staking Protocol has been added to Grayscale&#8217;s DeFi Fund.</em></li>
 
 
 
-<li><em>The guys advertised a fake airdrop afterward.</em></li>
+<li><em>LDO&#8217;s proportion in the fund is 19.04%, second only to Uniswap&#8217;s UNI with 45.46%.</em></li>
 
 
 
-<li><em>Aptos Labs was quick to post a warning on Twitter, advising people not to engage with suspicious links.</em></li>
+<li><em>Grayscale said it adjusted the DeFi fund&#8217;s portfolio, selling a certain number of existing tokens by the weight of each token and using the proceeds to buy LDO.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>The Twitter accounts (@Aptos_Network) of the Aptos Foundation and its CEO, Mo Shaikh, were both hacked early this morning. After attacking the official accounts, the scammers quickly advertised a fake airdrop.</strong></h5>
-
-
-
-<p><a href="https://forum.aptoslabs.com/t/aptos-hacked-dont-follow-the-link-scum/277877" target="_blank" rel="noreferrer noopener">Aptos Labs</a> also posted a warning on Twitter, reminding users not to interact with links to fake websites. After checking, the latest tweet by @Aptos_Network was released on July 1st, and the suspected phishing link has been removed.</p>
+<h5 class="wp-block-heading"><strong><a href="https://coincu.com/193834-grayscale-investments-withdrawal-form-10/" target="_blank" rel="noreferrer noopener">Grayscale</a> added the LDO token to its DeFi fund on July 7 and instantly made it the second-largest token in its fund, behind only UNI.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-472.png"><img decoding="async" loading="lazy" width="605" height="591" src="https://coincu.com/wp-content/uploads/2023/07/image-472.png" alt="Aptos Foundation&#039;s Twitter Hacked And Posted A Scam Airdrop Link" class="wp-image-200856" srcset="https://coincu.com/wp-content/uploads/2023/07/image-472.png 605w, https://coincu.com/wp-content/uploads/2023/07/image-472-300x293.png 300w" sizes="(max-width: 605px) 100vw, 605px" title="Aptos Foundation&#039;s Twitter Hacked And Posted A Scam Airdrop Link 3"></a><figcaption class="wp-element-caption">Fake airdrop</figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-514.png"><img decoding="async" width="900" height="506" src="https://coincu.com/wp-content/uploads/2023/07/image-514.png" alt="Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%" class="wp-image-201023" srcset="https://coincu.com/wp-content/uploads/2023/07/image-514.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-514-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-514-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-514-750x422.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04% 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The digital asset manager announced the change on Friday. Lido (LDO) is currently the second largest token in the Grayscale DeFi fund, accounting for 19.04% of it.</p>
+
 
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">We’ve received official communication from Aptos Foundation that <a href="https://twitter.com/Aptos_Network?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@Aptos_Network</a> has been compromised.<br><br>The latest tweet regarding an <a href="https://twitter.com/search?q=%24APT&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$APT</a> airdrop is fraudulent.<br><br>Please DO NOT engage with that tweet or the link provided.</p>&mdash; Aptos Labs (@AptosLabs) <a href="https://twitter.com/AptosLabs/status/1677044666452299776?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 6, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">5/ At the end of the day on July 6, 2023, Grayscale Smart Contract Platform Ex-Ethereum Fund’s Fund Components were a basket of the assets and weightings shown below. <br><br>For details and disclosures, visit: <a href="https://t.co/XcSylOzVld" target="_blank">https://t.co/XcSylOzVld</a><a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$ADA</a> <a href="https://twitter.com/search?q=%24SOL&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$SOL</a> <a href="https://twitter.com/search?q=%24MATIC&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$MATIC</a> <a href="https://twitter.com/search?q=%24DOT&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$DOT</a> <a href="https://twitter.com/search?q=%24AVAX&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$AVAX</a> <a href="https://twitter.com/search?q=%24ATOM&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$ATOM</a> <a href="https://t.co/5rcclUoIya" target="_blank">pic.twitter.com/5rcclUoIya</a></p>&mdash; Grayscale (@Grayscale) <a href="https://twitter.com/Grayscale/status/1677322004179894274?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
 
-<p>Aptos is a new and independent project that focuses on providing the most secure and available blockchain to a large number of users worldwide. Aptos promises to become a layer-1 blockchain, surpassing its two seniors, Ethereum and Solana.</p>
+<p>Grayscale DeFi Fund currently accounts for 45.46% of each token in Uniswap (UNI), 19.04% of Lido (LDO), 11.53% of Aave (Aave), 10.82% of MakerDAO (MKR), and 10.82% of Curve Token DAO (CRV) at 7.03% and Synthetix (SNX) at 6.12%.</p>
 
 
 
-<p>With quality staff and huge funding from big investors, Aptos currently launches devnet and testnet versions, respectively, and has officially launched the Mainnet version right in October 2022. Previously, the project received the attention of large funds and poured capital of up to $350 million in 2022.</p>
+<p>This digital asset manager said it adjusted the DeFi fund&#8217;s portfolio, selling a certain number of existing tokens by the weight of each token and using the proceeds to buy LDO.</p>
 
 
 
-<p>The project aims to bring adoption to web3 and empower the ecosystem of decentralized applications to solve real user problems. Blockchain Aptos can achieve theoretical transaction bandwidth above 150k TPS through parallel implementation. The APT token maintains the Aptos ecosystem.</p>
+<p>&#8220;In accordance with the CoinDesk DeFi Select Index methodology, Grayscale has adjusted the DeFi Fund&#8217;s portfolio by selling certain amounts of the existing Fund Components in proportion to their respective weightings, and using the cash proceeds to purchase Lido (LDO),&#8221; Grayscale said in a company <a href="https://www.globenewswire.com/news-release/2023/07/07/2701070/0/en/Grayscale-Digital-Large-Cap-Fund-Grayscale-DeFi-Fund-and-Grayscale-Smart-Contract-Platform-Ex-Ethereum-Fund-Announce-Rebalancing-of-Funds-for-Second-Quarter-2023.html" target="_blank" rel="noreferrer noopener">release</a>. &#8220;No tokens were removed from the DeFi Fund.&#8221;</p>
+
+
+
+<p>Lido, a liquid staking service, also offers tokens that aim to make staking on Ethereum cheaper. Lido staking ETH (stETH) is its most popular product and the seventh largest cryptocurrency, according to CoinGecko. STETH performing well has made LDO, the governance token linked to Lido, more attractive to investors.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-471.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-471-1024x576.png" alt="Aptos Foundation&#039;s Twitter Hacked And Posted A Scam Airdrop Link" class="wp-image-200855" srcset="https://coincu.com/wp-content/uploads/2023/07/image-471-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-471-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-471-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-471-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-471-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-471.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aptos Foundation&#039;s Twitter Hacked And Posted A Scam Airdrop Link 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-515.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-515-1024x576.png" alt="Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%" class="wp-image-201025" srcset="https://coincu.com/wp-content/uploads/2023/07/image-515-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-515-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-515-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-515-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-515-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-515-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-515.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04% 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>Up to now, the Aptos blockchain has only conducted the only <a href="https://coincu.com/134880-aptos-distribute-over-20-076m-apt-110000/" target="_blank" rel="noreferrer noopener">official airdrop</a> in October 2022 with a huge reward of up to 1000-5000 USD for each participant. The new network only airdrops about 3% of the total 51% of APT tokens given to the community. That leaves up to 480 million $APT tokens that can be used for the next airdrop.</p>
-
-
-
-<p>Taking advantage of the popularity of the network and the excitement of the community about rumors in June that the next airdrop was imminent, the scammers lured investors into fake links. Therefore, investors must be very alert to avoid falling into the trap.</p>
+<p>The DeFi fund is one of the digital asset manager&#8217;s most miniature products, with $3.1 million in assets under management. By comparison, its flagship product, Grayscale Bitcoin Trust (GBTC), has over $18 billion in assets. The DeFi Fund has also been running moderately hot, down more than 73% since its launch in July 2021.</p>
 
 
 
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200845-aptos-foundations-twitter-hacked-scam-airdrop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/201021-grayscale-ldo-second-largest-defi-token/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-66-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-73-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 		<item>
-		<title>FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe</title>
-		<link>https://coincu.com/200835-fbi-targets-kraken-founder/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 02:20:25 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[Jesse Powell]]></category>
-		<category><![CDATA[Kraken]]></category>
-		<category><![CDATA[Verge Center for the Arts]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200835</guid>
-
-					<description><![CDATA[FBI searches home of Kraken founder Jesse Powell in a hacking investigation.<p class="has-text-align-right"><a href="https://coincu.com/200835-fbi-targets-kraken-founder/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>FBI searches home of Kraken founder Jesse Powell in a hacking investigation.</em></li>
-
-
-
-<li><em>Allegations involve interference with nonprofit&#8217;s computer accounts.</em></li>
-
-
-
-<li><em>Powell not charged, lawyer asserts innocence and unrelatedness to the crypto industry.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Jesse Powell, the founder and former CEO of crypto exchange Kraken, has recently come under the scrutiny of federal authorities as the FBI conducted a search of his Los Angeles home earlier this year.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-468.png"><img decoding="async" loading="lazy" width="800" height="533" src="https://coincu.com/wp-content/uploads/2023/07/image-468.png" alt="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe" class="wp-image-200849" srcset="https://coincu.com/wp-content/uploads/2023/07/image-468.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-468-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-468-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-468-750x500.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe 5"></a><figcaption class="wp-element-caption">Kraken founder Jesse Powell</figcaption></figure></div>
-
-
-<p>This investigation is linked to allegations of hacking and cyberstalking involving the Verge Center for the Arts, a nonprofit organization.</p>
-
-
-
-<p>Agents from the Federal Bureau of Investigation (FBI) and the U.S. attorney&#8217;s office for the Northern District of California have been actively investigating Jesse Powell since at least the fall of last year. The Verge Center for the Arts accused Powell of interfering with its computer accounts, including blocking access to emails and other forms of communication.</p>
-
-
-
-<p>According to reports from <em><a href="https://www.nytimes.com/2023/07/06/technology/jesse-powell-kraken-crypto-fbi.html" target="_blank" rel="noreferrer noopener">The New York Times</a></em>, law enforcement agents conducted a search of Powell&#8217;s Brentwood residence, seizing electronic devices as part of their investigation. It is important to note that Powell has not been formally charged with any criminal offenses related to the investigation.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-469.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-469.png" alt="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe" class="wp-image-200850" srcset="https://coincu.com/wp-content/uploads/2023/07/image-469.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-469-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-469-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-469-750x500.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe 6"></a></figure></div>
-
-
-<p>In response to the allegations, Jesse Powell&#8217;s legal counsel, Brandon Fox of Jenner &amp; Block, issued a statement emphasizing that the Verge Center for the Arts had presented a one-sided account and failed to provide the government with the complete picture. Fox stated that Powell &#8220;did nothing wrong&#8221; and asserted that the matter at hand was unrelated to Powell&#8217;s employment or his conduct in the cryptocurrency industry.</p>
-
-
-
-<p>While Jesse Powell stepped down as the CEO of Kraken late last year, he continues to serve as the chairman of the board. Powell&#8217;s involvement with the Sacramento-based arts group, Verge Center for the Arts, dates back to its founding in 2007, although his LinkedIn profile indicates his role as a founder and board member starting from April 2010.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-470.png"><img decoding="async" loading="lazy" width="960" height="540" src="https://coincu.com/wp-content/uploads/2023/07/image-470.png" alt="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe" class="wp-image-200851" srcset="https://coincu.com/wp-content/uploads/2023/07/image-470.png 960w, https://coincu.com/wp-content/uploads/2023/07/image-470-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-470-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-470-750x422.png 750w" sizes="(max-width: 960px) 100vw, 960px" title="FBI Targets Kraken Founder Jesse Powell In Startling Hacking Probe 7"></a></figure></div>
-
-
-<p><a href="https://coincu.com/199312-kraken-requested-irs-for-customer-information/" target="_blank" rel="noreferrer noopener">Kraken</a>, in response to the ongoing investigation, clarified that the matter is separate from the company&#8217;s activities and expressed no indication that prosecutors are examining other potential issues related to Kraken.</p>
-
-
-
-<p>As the legal proceedings unfold, the focus will be on the outcome of the investigation and any official statements from the involved parties or law enforcement agencies. The case has drawn attention within the cryptocurrency industry, highlighting the increased scrutiny faced by high-profile figures and institutions operating in the sector.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200835-fbi-targets-kraken-founder/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-467-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved</title>
-		<link>https://coincu.com/200823-do-kwon-drained-18-73m-usdc-5292-btc-moved/</link>
+		<title>63 Million USDC Related To Multichain Attack Has Been Frozen</title>
+		<link>https://coincu.com/201013-63m-usdc-related-to-multichain-attack-freezes/</link>
 		
 		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 01:52:37 +0000</pubDate>
+		<pubDate>Sat, 08 Jul 2023 02:16:12 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[# Cryptocurrencies]]></category>
 		<category><![CDATA[#Markets]]></category>
 		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[BTC]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[do kwon]]></category>
-		<category><![CDATA[Luna Foundation Guard]]></category>
-		<category><![CDATA[Move]]></category>
-		<category><![CDATA[Terraform Labs]]></category>
-		<category><![CDATA[transfer]]></category>
-		<category><![CDATA[USDC]]></category>
-		<category><![CDATA[withdrawn]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200823</guid>
-
-					<description><![CDATA[Do Kwon moved all 18.73 million USDC holdings to an anonymous address on July 3, same day as the transfer of 5292 BTC to the anonymous wallet.<p class="has-text-align-right"><a href="https://coincu.com/200823-do-kwon-drained-18-73m-usdc-5292-btc-moved/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>On July 3, all 18.73 million USDC was withdrawn from the virtual asset wallet owned by Terraform Labs CEO Do Kwon.</em></li>
-
-
-
-<li><em>Do Kwon&#8217;s associates, who have not been arrested, appear to be trying to make money on a grand scale.</em></li>
-
-
-
-<li><em>On the same day, 5292 BTC (approximately $163 million) from the Luna Foundation Guard (LFG) wallet was also transferred to a new anonymous wallet.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>As reported by Digital Asset, the personal Ethereum wallet address of Terraform Labs CEO Do Kwon<a href="https://www.digitalasset.works/news/articleView.html?idxno=3317" target="_blank" rel="noreferrer noopener"> moved</a> all of his 18.73 million USDC holdings to an anonymous address on July 3. The 1873 USDC withdrawal was confirmed as the largest of all stablecoin transactions that took place in CEO Kwon&#8217;s six wallets.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-463-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-463-1024x576.png" alt="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved" class="wp-image-200832" srcset="https://coincu.com/wp-content/uploads/2023/07/image-463-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-463-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-463-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-463-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-463-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-463.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The suspected anonymous address was created recently, and the first transaction took place on July 3. From July 3 to 5, the unknown address exchanged 18.73 million USDC for other tokens such as WBTC, ETH, stETH, and DAI through Uniswap, and other DEXs were sent to another anonymous wallet address as well as other DeFi projects.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-464.png"><img decoding="async" loading="lazy" width="1024" height="214" src="https://coincu.com/wp-content/uploads/2023/07/image-464-1024x214.png" alt="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved" class="wp-image-200833" srcset="https://coincu.com/wp-content/uploads/2023/07/image-464-1024x214.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-464-300x63.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-464-768x160.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-464-1536x321.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-464-750x157.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-464-1140x238.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-464.png 2034w" sizes="(max-width: 1024px) 100vw, 1024px" title="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved 9"></a><figcaption class="wp-element-caption">Source: <a href="https://etherscan.io/tokentxns?a=0xDa44200196cFb3416bF011EEd608F354804337Ba&amp;p=1" target="_blank" rel="noreferrer noopener">Etherscan </a></figcaption></figure></div>
-
-
-<p>Officials in the virtual asset industry said it appeared that Kwon&#8217;s accomplices, who have yet to be arrested, were attempting to withdraw money on a large scale.</p>
-
-
-
-<p>According to previous news, the LFG wallet held by Do Kwon<a href="https://coincu.com/200127-do-kwon-transfers-163-million-worth-of-bitcoin/" target="_blank" rel="noreferrer noopener"> moved </a>5,292 BTC to the new address on July 3, or about $163 million. Prior to the transfer, the wallet withdrew 351 BTC on May 8.</p>
-
-
-
-<p>LFG Wallet is a Binance wallet of the Luna Foundation, founded by Kwon in January 2021 for the purpose of protecting the price of LUNC (Terra Classic). The wallet holds the most significant amount of Bitcoin among Kwon&#8217;s on-chain assets.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-460.png"><img decoding="async" loading="lazy" width="976" height="549" src="https://coincu.com/wp-content/uploads/2023/07/image-460.png" alt="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved" class="wp-image-200829" srcset="https://coincu.com/wp-content/uploads/2023/07/image-460.png 976w, https://coincu.com/wp-content/uploads/2023/07/image-460-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-460-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-460-750x422.png 750w" sizes="(max-width: 976px) 100vw, 976px" title="Linked Wallet With Do Kwon Drained 18.73M USDC Just In Time 5292 BTC Moved 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>A court in Montenegro has ordered that Do Kwon, a former crypto criminal, and his associate Han Chang-Joon remain in detention for an additional six months while judges review extradition requests from the courts. South Korean prosecutors and a separate extradition request for Kwon from the US authorities as he was accused by prosecutors of a series of fraud-related crimes.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200823-do-kwon-drained-18-73m-usdc-5292-btc-moved/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-65-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8%</title>
-		<link>https://coincu.com/200809-barnbridge-dao-receives-regulatory-attack/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 01:47:58 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[BarnBridge]]></category>
-		<category><![CDATA[Barnbridge DAO]]></category>
-		<category><![CDATA[BOND]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200809</guid>
-
-					<description><![CDATA[BarnBridge DAO finds itself at the center of an investigation by the SEC.<p class="has-text-align-right"><a href="https://coincu.com/200809-barnbridge-dao-receives-regulatory-attack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Barnbridge DAO faces SEC investigation, suspends operations and liquidity pools.</em></li>
-
-
-
-<li><em>Legal counsel advises halting work and compensation related to Barnbridge.</em></li>
-
-
-
-<li><em>Regulatory scrutiny casts uncertainty on the future of Barnbridge and highlights industry challenges.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>In a stunning turn of events, BarnBridge DAO, a decentralized finance (DeFi) platform, finds itself at the center of an investigation by the United States Securities and Exchange Commission (SEC).</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover.webp"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-1024x538.webp" alt="Barnbridge DAO Forced To Halt Operations Amidst SEC Investigating" class="wp-image-200827" srcset="https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-1024x538.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-300x158.webp 300w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-768x403.webp 768w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-1536x806.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-2048x1075.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-750x394.webp 750w, https://coincu.com/wp-content/uploads/2023/07/barnbridge-cover-1140x599.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8% 11"></a></figure></div>
-
-
-<p>The regulatory body is focusing its scrutiny on both <a href="https://coincu.com/148908-barnbridge-dao-migrates-to-arbitrum/" target="_blank" rel="noreferrer noopener">BarnBridge DAO</a> as an entity and the individuals associated with the project. As a result, duly legal counsel of the DAO, Douglas Park, has <a href="https://twitter.com/Barn_Bridge/status/1677110787780018176" target="_blank" rel="noreferrer noopener">advised</a> the immediate closure of existing liquidity pools and a complete halt in all activities related to BarnBridge products.</p>
-
-
-
-<p>The SEC&#8217;s ongoing investigation remains undisclosed and confidential, limiting the information that can be shared publicly. To mitigate potential legal liabilities, compensation for work related to BarnBridge is suspended until further notice. Furthermore, key figures within the project, including Co-Founder Tyler Scott Ward and Troy Murray, have refrained from making any comments regarding the investigation or matters concerning BarnBridge DAO.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-459.png"><img decoding="async" loading="lazy" width="951" height="634" src="https://coincu.com/wp-content/uploads/2023/07/image-459.png" alt="Barnbridge DAO Forced To Halt Operations Amidst SEC Investigating" class="wp-image-200828" srcset="https://coincu.com/wp-content/uploads/2023/07/image-459.png 951w, https://coincu.com/wp-content/uploads/2023/07/image-459-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-459-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-459-750x500.png 750w" sizes="(max-width: 951px) 100vw, 951px" title="Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8% 12"></a></figure></div>
-
-
-<p>BarnBridge DAO has gained recognition for its innovative approach to DeFi, aiming to tokenize risk and revolutionize risk management within the decentralized finance ecosystem. By allowing investors to customize risk exposure through tokenized investments, the platform attracts both risk-averse individuals and traditional financial institutions. However, the SEC&#8217;s investigation has cast a shadow of uncertainty over BarnBridge&#8217;s future prospects.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-458.png"><img decoding="async" loading="lazy" width="1000" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-458.png" alt="Barnbridge DAO Forced To Halt Operations Amidst SEC Investigating" class="wp-image-200826" srcset="https://coincu.com/wp-content/uploads/2023/07/image-458.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-458-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-458-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-458-750x450.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8% 13"></a></figure></div>
-
-
-<p>The ongoing scrutiny of BarnBridge DAO serves as a stark reminder of the increasing regulatory pressure facing the DeFi industry. As decentralized finance continues to gain prominence, compliance with securities regulations becomes a critical consideration for platforms operating in this space.</p>
-
-
-
-<p>Market participants and industry observers will closely monitor developments surrounding the SEC investigation and await official statements from both the regulatory body and BarnBridge DAO. The outcome of this probe will undoubtedly have a significant impact on the future trajectory of BarnBridge and potentially shape the regulatory landscape for the broader DeFi industry.</p>
-
-
-
-<p>Following this news, BOND, the platform&#8217;s token, saw a drop of more than 8% over the past 24 hours.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-466.png"><img decoding="async" loading="lazy" width="1024" height="622" src="https://coincu.com/wp-content/uploads/2023/07/image-466-1024x622.png" alt="Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8%" class="wp-image-200840" srcset="https://coincu.com/wp-content/uploads/2023/07/image-466-1024x622.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-466-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-466-768x466.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-466-1536x933.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-466-2048x1244.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-466-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-466-1140x692.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Barnbridge DAO Receives Regulatory Storm Attack From SEC, BOND Drops More Than 8% 14"></a><figcaption class="wp-element-caption">BOND price chart. <em>Source: TradingView</em></figcaption></figure></div>
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200809-barnbridge-dao-receives-regulatory-attack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-461-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands</title>
-		<link>https://coincu.com/200804-binance-abandons-dutch-market/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 01:20:44 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Coinmerce]]></category>
-		<category><![CDATA[Dutch]]></category>
-		<category><![CDATA[Dutch Central Bank]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[VASP]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200804</guid>
-
-					<description><![CDATA[Binance leaves the Dutch market due to licensing issues, transferring customers to Coinmerce.<p class="has-text-align-right"><a href="https://coincu.com/200804-binance-abandons-dutch-market/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance leaves the Dutch market due to licensing issues, transferring customers to Coinmerce.</em></li>
-
-
-
-<li><em>Coinmerce has become the largest crypto exchange in the Netherlands.</em></li>
-
-
-
-<li><em>Dutch Central Bank monitors the secure transition of the exchange&#8217;s customers to Coinmerce.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Binance, the world&#8217;s largest cryptocurrency exchange, has announced its departure from the Dutch market. This decision comes after Binance failed to secure a virtual asset service provider (VASP) license from the Dutch authority, which certifies compliance with anti-money laundering regulations. Effective from July 17, 2023, the exchange will no longer be available for trading in the Netherlands.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-454.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-454-1024x683.png" alt="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands" class="wp-image-200816" srcset="https://coincu.com/wp-content/uploads/2023/07/image-454-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-454-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-454-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-454-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-454-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-454.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands 15"></a></figure></div>
-
-
-<p>Coinmerce, a registered crypto platform, has stepped in to absorb Binance Netherlands&#8217; customers, assets, and offerings. With this transfer, Coinmerce is <a href="https://coinmerce.io/en/news/binance-offers-dutch-users-switch-to-coinmerce/" target="_blank" rel="noreferrer noopener">poised</a> to become the largest cryptocurrency exchange in the Netherlands in terms of products, assets, and user base. The Dutch Central Bank will oversee the smooth transition of Binance customers to Coinmerce, ensuring a secure and orderly transfer process.</p>
-
-
-
-<p>The decision to exit the Dutch market is part of Binance&#8217;s strategic plan to comply with regulatory requirements and maintain a trusted environment for its users. <a href="https://coincu.com/200786-binance-in-crisis-executives-flee-storms/" target="_blank" rel="noreferrer noopener">Binance</a> will facilitate the transition by referring hundreds of thousands of Dutch users to Coinmerce. The platform will provide a seamless experience for customers to transfer their digital assets from the exchange to their platform.</p>
-
-
-
-<p>Binance&#8217;s regulatory challenges have been escalating in recent weeks, with the <a href="https://coincu.com/196803-binance-failed-to-register-netherlands/" target="_blank" rel="noreferrer noopener">Netherlands</a> being the latest jurisdiction to reject its application for a VASP license. Similar rejections were faced in Germany, where the exchange&#8217;s crypto custody license application was denied. The exchange is committed to ongoing engagement with German authorities to explore potential solutions.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-456.png"><img decoding="async" loading="lazy" width="960" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-456.png" alt="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands" class="wp-image-200818" srcset="https://coincu.com/wp-content/uploads/2023/07/image-456.png 960w, https://coincu.com/wp-content/uploads/2023/07/image-456-300x188.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-456-768x480.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-456-750x469.png 750w" sizes="(max-width: 960px) 100vw, 960px" title="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands 16"></a></figure></div>
-
-
-<p>Coinmerce, on the other hand, has been recognized for its adherence to European laws and regulations, prioritizing a secure and compliant trading environment since its establishment in 2018. The partnership with Binance reinforces Coinmerce&#8217;s commitment to ensuring a trusted platform for the referred users. The transfer process will be simplified and guided by a step-by-step procedure initiated by Binance, allowing for a secure and hassle-free transition.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-457-1024x340.png"><img decoding="async" loading="lazy" width="1024" height="340" src="https://coincu.com/wp-content/uploads/2023/07/image-457-1024x340.png" alt="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands" class="wp-image-200819" srcset="https://coincu.com/wp-content/uploads/2023/07/image-457-1024x340.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-457-300x100.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-457-768x255.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-457-1536x510.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-457-750x249.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-457-1140x379.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-457.png 1602w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Abandons Dutch Market, Coinmerce Becomes Largest Exchange In Netherlands 17"></a></figure></div>
-
-
-<p>The decision by Binance to refer its Dutch customers to Coinmerce underscores its dedication to facilitating uninterrupted trading for its users. Coinmerce&#8217;s status as a registered platform, approved by the central bank, played a significant role in the exchange&#8217;s choice.</p>
-
-
-
-<p>The exchange has <a href="https://coincu.com/109780-binance-was-fined-3-3-million/" target="_blank" rel="noreferrer noopener">faced</a> increased regulatory scrutiny in recent times, including the imposition of fines by the Dutch central bank last year for unauthorized operations. The ongoing regulatory challenges, such as the recent raid on Binance premises in France and charges by U.S. regulators, have further highlighted the intensifying regulatory environment faced by the exchange.</p>
-
-
-
-<p>As the exchange exits the Dutch market, the focus now turns to Coinmerce, which assumes the mantle of the largest crypto exchange in the Netherlands, catering to the needs of a growing user base seeking reliable and compliant trading services in the country.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200804-binance-abandons-dutch-market/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-455-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Multichain Bridge Trouble Again, $130M Assets Withdrawn For Unknown Cause</title>
-		<link>https://coincu.com/200802-multichain-130m-assets-withdrawn-unknown-cause/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 01:12:46 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
 		<category><![CDATA[bridge]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Dogechain]]></category>
-		<category><![CDATA[Fantom]]></category>
-		<category><![CDATA[hacked]]></category>
+		<category><![CDATA[Freezes]]></category>
+		<category><![CDATA[hack]]></category>
 		<category><![CDATA[multichain]]></category>
-		<category><![CDATA[withdrawn]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200802</guid>
+		<guid isPermaLink="false">https://coincu.com/?p=201013</guid>
 
-					<description><![CDATA[Nearly $130 million were withdrawn from the Multichain on the Fantom network, and security firms speculated that this could be a security flaw.<p class="has-text-align-right"><a href="https://coincu.com/200802-multichain-130m-assets-withdrawn-unknown-cause/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Circle has blacklisted three wallet addresses and about $63 million in USDC assets have been frozen, which were involved in the Multichain hack.<p class="has-text-align-right"><a href="https://coincu.com/201013-63m-usdc-related-to-multichain-attack-freezes/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -543,97 +142,95 @@
 
 
 <ul>
-<li><em>Many crypto users discovered that the Multichain cross-chain bridge was transferring large amounts of crypto to the outside world for unknown reasons.</em></li>
+<li><em>Circle has blacklisted three wallet addresses and frozen about 63 million USDC related to the Multichain attack.</em></li>
 
 
 
-<li><em>The incident affects about $130 million in assets on Fantom, Moonriver, and Dogechain chains.</em></li>
+<li><em>The Multichain Bridge has announced an outage and has not given a cause for yesterday&#8217;s problem.</em></li>
 
 
 
-<li><em>Multichain has yet to release any information about the above transfers and asked users to stop using the service in conjunction with revoking approvals.</em></li>
+<li><em>Prior to that, $126 million worth of crypto assets were transferred from multiple cross-chain bridges to third-party wallets.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Nearly $130 million worth of tokens were withdrawn from the Multichain bridge on the Fantom network, and security firms speculated that this could be a security flaw.</strong></h5>
+<h5 class="wp-block-heading"><strong>Security firm <a href="https://twitter.com/peckshield" target="_blank" rel="noreferrer noopener">PeckShield </a>tweeted that Circle has blacklisted three wallet addresses and about $63 million in USDC assets have been frozen, which were involved in the Multichain hack.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-452.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-452-1024x576.png" alt="Multichain Bridge Trouble Again, $130M Assets Withdrawn For Unknown Cause" class="wp-image-200811" srcset="https://coincu.com/wp-content/uploads/2023/07/image-452-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-452-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-452-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-452-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-452-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-452.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Multichain Bridge Trouble Again, $130M Assets Withdrawn For Unknown Cause 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-512.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-512-1024x538.png" alt="63 Million USDC Related to Multichain Attack Has Been Frozen" class="wp-image-201016" srcset="https://coincu.com/wp-content/uploads/2023/07/image-512-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-512-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-512-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-512-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-512-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-512.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="63 Million USDC Related To Multichain Attack Has Been Frozen 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>The tokens transferred include $58 million USDC stablecoin, 1020 WBTC (approximately $30.9 million), 7,200 WETH (approximately $13.7 million), and $4 million DAI stablecoin (valued at around $30.9 million) of the above 4 tokens over $100 million), also includes other tokens such as Chainlink, Curve DAO, YFI, Wootrade Network and almost a quarter of UniDex&#8217;s total supply.</p>
+<p>Circle, the issuer of the popular USDC stablecoin, acted quickly in response to the recent security breach on the Multichain protocol. This decisive move demonstrates Circle&#8217;s commitment to protecting the integrity and security of its stablecoins.</p>
 
 
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/MultichainOrg?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@MultichainOrg</a> you may want to take a look:  <a href="https://t.co/D4GKGpuBtw" target="_blank">https://t.co/D4GKGpuBtw</a> <a href="https://t.co/3qURqGmes8" target="_blank">pic.twitter.com/3qURqGmes8</a></p>&mdash; PeckShield Inc. (@peckshield) <a href="https://twitter.com/peckshield/status/1677031203772289030?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 6, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">So ~$63M USDC (outflow funds from <a href="https://twitter.com/MultichainOrg?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@MultichainOrg</a>) are now frozen <a href="https://t.co/Bu7OY2E6VI" target="_blank">https://t.co/Bu7OY2E6VI</a></p>&mdash; PeckShield Inc. (@peckshield) <a href="https://twitter.com/peckshield/status/1677368853725077521?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
 
-<p>Assets also appear to be moving on Multichain&#8217;s Moonriver bridge, including 4.8 million USDC and 1 million USDT. Dogechain also experienced unusual fund flow. At least 660,000 USDC was sent to the same wallet as Moonriver&#8217;s fund flow.</p>
-
-
-
-<p>Security firm Paidun questions whether this could be related to the addition of support for four tokens (USDC, USDT, WETH, and WBTC) on the LayerZero cross-chain platform, which overlaps but is only partially consistent with the tokens being migrated.</p>
+<p>Following yesterday&#8217;s breach, which led to the mysterious transfer of <a href="https://coincu.com/200802-multichain-130m-assets-withdrawn-unknown-cause/" target="_blank" rel="noreferrer noopener">$126 million</a> worth of crypto assets from Multichain&#8217;s bridge implementations on Fantom and Dogechain to third-party wallets, Circle has listed Blacklisting three wallet addresses is associated with significant outflows from cross-chain bridge platforms.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-453.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-453-1024x512.png" alt="Multichain Bridge Trouble Again, $130M Assets Withdrawn For Unknown Cause" class="wp-image-200813" srcset="https://coincu.com/wp-content/uploads/2023/07/image-453-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-453-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-453-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-453-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-453-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-453-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-453.png 1448w" sizes="(max-width: 1024px) 100vw, 1024px" title="Multichain Bridge Trouble Again, $130M Assets Withdrawn For Unknown Cause 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-513.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-513-1024x576.png" alt="63 Million USDC Related to Multichain Attack Has Been Frozen" class="wp-image-201017" srcset="https://coincu.com/wp-content/uploads/2023/07/image-513-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-513-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-513-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-513-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-513-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-513.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="63 Million USDC Related To Multichain Attack Has Been Frozen 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>LayerZero CEO Bryan Pellegrino responded that the issue had nothing to do with the platform and believed it was a hack targeting Multichain. According to Pellegrino, users of the Multichain bridge can withdraw assets, bringing them to LayerZero.</p>
-
-
-
-<p>However, Igor Igamberdiev, research director at Wintermute, says that this is likely the job of whoever controls Multichain, as Fantom funds are not destroyed when the transaction occurs. Igamberdiev also noted that oddly enough, the wallet that received the bulk of USDC also made a transaction from the old Binance Smart Chain bridge a few hours earlier.</p>
-
-
-
-<p>Earlier today, Bridge Protocol announced that locked assets had been moved irregularly, and users were advised to suspend the use of Multichain services in conjunction with the <a href="https://t.co/fUNafBC0UA" target="_blank" rel="noreferrer noopener">revocation</a> of all approvals chain-related contracts.</p>
+<p>In response to the incident, Multichain took to Twitter from its official account to notify users of the temporary suspension of its services. This notice is intended to provide transparency to users and advise them to only interact with the platform once the situation is resolved.</p>
 
 
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">The lockup assets on the Multichain MPC address have been moved to an unknown address abnormally. <br>The team is not sure what happened and is currently investigating. <br><br>It is recommended that all users suspend the use of Multichain services and revoke all contract approvals…</p>&mdash; Multichain (Previously Anyswap) (@MultichainOrg) <a href="https://twitter.com/MultichainOrg/status/1677096839731097600?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 6, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">The Multichain service stopped currently, and all bridge transactions will be stuck on the source chains. <br><br>There is no confirmed resume time.<br><br>Please don’t use the Multichain bridging service now.</p>&mdash; Multichain (Previously Anyswap) (@MultichainOrg) <a href="https://twitter.com/MultichainOrg/status/1677180114227056641?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
 
-<p>The incident caused great disappointment to the community because the operation of Multichain resumed not long after the incident at the end of May 2023. This project once caused a stir with the news that the CEO <a href="https://coincu.com/191300-multichain-lost-contact-with-ceo/" target="_blank" rel="noreferrer noopener">was arrested </a>by the Chinese police and lost access to the bridges, causing all activities to be stopped.</p>
+<blockquote class="wp-block-quote has-small-font-size">
+<p class="has-black-color has-text-color has-small-font-size">&#8220;The Multichain service is now down, and all bridge transactions will remain stuck on the source chain. No confirmed resumption time. Please do not use the Multichain bridging service at this time.&#8221;</p>
+<cite>They stated.</cite></blockquote>
 
 
 
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200802-multichain-130m-assets-withdrawn-unknown-cause/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p>Affected parties, including Circle and Multichain, are likely working hard to investigate the breach, determine the root cause, and make the necessary improvements to prevent similar incidents in the future. More than 24 hours have passed, but information about the cause of the hack has not been revealed.</p>
+
+
+
+<p>This multi-chain bridge service has recently caused a lot of frustration for users due to incidents and negative information about the project leader. At the end of May, the bridge also stopped working for the reason that there was no access when it lost contact with CEO Zhao Jun. Meanwhile, the project&#8217;s development team and CEO are rumored to have been arrested by Chinese police before.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/201013-63m-usdc-related-to-multichain-attack-freezes/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-64-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-72-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 		<item>
-		<title>CZ Responds To Reports Of 3 Binance Senior Executives Resigning</title>
-		<link>https://coincu.com/200785-cz-responds-reports-3-executives-resigning/</link>
+		<title>3AC Liquidators Can Recover About $1.2 Billion From DCG And BlockFi</title>
+		<link>https://coincu.com/201006-3ac-liquidators-recover-1-2-billion-dcg-blockfi/</link>
 		
 		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 00:51:18 +0000</pubDate>
+		<pubDate>Sat, 08 Jul 2023 01:45:52 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[# Cryptocurrencies]]></category>
 		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Binance Senior Executives]]></category>
+		<category><![CDATA[3AC]]></category>
 		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[Changpeng Zhao]]></category>
+		<category><![CDATA[BlockFi]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[CZ]]></category>
-		<category><![CDATA[denied]]></category>
-		<category><![CDATA[FUD]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200785</guid>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[Genesis]]></category>
+		<category><![CDATA[recover]]></category>
+		<category><![CDATA[Teneo]]></category>
+		<category><![CDATA[Three Arrows Capital]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=201006</guid>
 
-					<description><![CDATA[Binance CEO CZ responded to reports of "three Binance executives resigning" on Twitter. He said the reports about their reasons for leaving were utterly untrue.<p class="has-text-align-right"><a href="https://coincu.com/200785-cz-responds-reports-3-executives-resigning/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[According to CoinDesk, Teneo, the liquidator of Three Arrows Capital (3AC), could attempt to recover around $1.2 billion from DCG and BlockFi.<p class="has-text-align-right"><a href="https://coincu.com/201006-3ac-liquidators-recover-1-2-billion-dcg-blockfi/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -641,243 +238,626 @@
 
 
 <ul>
-<li><em>Binance CEO Changpeng Zhao (CZ) has responded to reports of the departure of 3 senior executives.</em></li>
+<li><em>According to a confidential report, Three Arrows Capital (3AC) liquidator Teneo indicates the potential to recover $1.2 billion from DCG and BlockFi.</em></li>
 
 
 
-<li><em>CZ believes that the reports about their reasons for leaving are entirely untrue.</em></li>
+<li><em>The settlement includes more than $1 billion in &#8220;potential claims&#8221; against DCG and its lending subsidiary Genesis and BlockFi for $220 million.</em></li>
 
 
 
-<li><em>According to reports, their departure is related to the ongoing investigation by the US Department of Justice.</em></li>
+<li><em>Preference claims would come into play if the hedge fund was aware it was making payments that put one or more debts into a better position than other debts.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Binance CEO Changpeng Zhao (CZ) responded to reports of &#8220;three Binance executives resigning&#8221; on Twitter. He said the reports about <a href="https://coincu.com/200786-binance-in-crisis-executives-flee-storms/" target="_blank" rel="noreferrer noopener">their reasons</a> for leaving were utterly untrue.</strong></h5>
+<h5 class="wp-block-heading"><strong>According to <a href="https://www.coindesk.com/business/2023/07/07/three-arrows-capital-liquidator-may-try-to-claw-back-about-12b-from-dcg-blockfi/" target="_blank" rel="noreferrer noopener">CoinDesk</a>, Teneo, the liquidator of Three Arrows Capital (3AC), could attempt to recover around $1.2 billion from DCG and BlockFi.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-450.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-450.png" alt="CZ Responds To Reports Of 3 Binance Senior Executives Resigning" class="wp-image-200797" srcset="https://coincu.com/wp-content/uploads/2023/07/image-450.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-450-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-450-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-450-750x422.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="CZ Responds To Reports Of 3 Binance Senior Executives Resigning 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-510.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-510-1024x576.png" alt="3AC Liquidators Can Recover About $1.2 Billion From DCG And BlockFi" class="wp-image-201008" srcset="https://coincu.com/wp-content/uploads/2023/07/image-510-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-510-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-510-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-510-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-510-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-510.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" title="3AC Liquidators Can Recover About $1.2 Billion From DCG And BlockFi 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>A confidential July 7 report from Teneo, the liquidation firm, which CoinDesk reviewed, says failed crypto hedge fund Three Arrows Capital has a &#8220;potential claim&#8221; worth more than $1 billion with DCG and its lending subsidiary Genesis. The report also states that BlockFi has received a &#8220;preferred payment&#8221; of more than $220 million from 3AC.</p>
+
+
+
+<p>Preference claims would come into play if the hedge fund were aware it made payments that put one or more debts into a better position than other debts. In this case, they concern transactions made by 3AC during what&#8217;s known as the insolvency twilight zone following the collapse of the Terra Luna project earlier in 2022.</p>
+
+
+
+<p>However, with the current situation, the companies involved are all struggling and caught up in a tangle of lawsuits and complaints with different partners.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-511.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-511.png" alt="image 511" class="wp-image-201009" srcset="https://coincu.com/wp-content/uploads/2023/07/image-511.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-511-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-511-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-511-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-511-750x375.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="3AC Liquidators Can Recover About $1.2 Billion From DCG And BlockFi 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>DCG and Genesis, along with founder Barry Silbert, are both embroiled in a lawsuit <a href="https://coincu.com/200998-dcg-has-responses-to-the-lawsuit-from-gemini/" target="_blank" rel="noreferrer noopener">filed</a> yesterday by Gemini CEO Cameron Winklevoss alleging a conspiracy to defraud Genesis creditors following claims of more than $600 million by the company. Gemini stagnates and shows no sign of being met.</p>
+
+
+
+<p>In addition, BlockFi also filed a complaint requesting the recovery of more than $1 billion from FTX/Alameda. However, based on the filing filed by FTX, FTX does not accept BlockFi&#8217;s argument and argues that BlockFi is abusing bankruptcy rules. Accordingly, its bankruptcy plan was also opposed.</p>
+
+
+
+<p>For now, Teneo declined to comment on any payback plans. DCG and BlockFi did not return requests for comment.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/201006-3ac-liquidators-recover-1-2-billion-dcg-blockfi/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-71-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>DCG Has Responses To The Lawsuit From Gemini</title>
+		<link>https://coincu.com/200998-dcg-has-responses-to-the-lawsuit-from-gemini/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Sat, 08 Jul 2023 01:17:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cameron Winklevoss]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DCG]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini Earn]]></category>
+		<category><![CDATA[Genesis]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200998</guid>
+
+					<description><![CDATA[DCG denied Gemini's accusations and argued that CEO Winklevoss was trying to deny responsibility for the Earn program.<p class="has-text-align-right"><a href="https://coincu.com/200998-dcg-has-responses-to-the-lawsuit-from-gemini/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>DCG has officially responded after Gemini co-founder Cameron Winklevoss announced that he had filed a lawsuit against the company and founder Barry Silbert.</em></li>
+
+
+
+<li><em>Silbert&#8217;s company denied Gemini&#8217;s accusations and argued that CEO Winklevoss was trying to deny responsibility for the Earn program.</em></li>
+
+
+
+<li><em>A protracted lawsuit could break out with $1.2 billion of user funds still in storage.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>DCG has issued an <a href="https://twitter.com/DCGco/status/1677346741409173508" target="_blank" rel="noreferrer noopener">official response</a> to the lawsuit filed by Gemini CEO Cameron Winklevoss with disapproval of all allegations.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-508.png"><img decoding="async" loading="lazy" width="1024" height="618" src="https://coincu.com/wp-content/uploads/2023/07/image-508-1024x618.png" alt="DCG Has Responses To The Lawsuit From Gemini" class="wp-image-201002" srcset="https://coincu.com/wp-content/uploads/2023/07/image-508-1024x618.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-508-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-508-768x464.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-508-750x453.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-508-1140x688.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-508.png 1391w" sizes="(max-width: 1024px) 100vw, 1024px" title="DCG Has Responses To The Lawsuit From Gemini 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The back-and-forth between DCG and its &#8220;close&#8221; partner Gemini has been intense since its subsidiary, lending platform Genesis, filed for bankruptcy at the end of January this year. Genesis and Gemini have a partnership through Gemini&#8217;s Earn program, and the bankruptcy left $1.2 billion in Gemini user funds trapped on the platform.</p>
+
+
+
+<p>In response to a recent lawsuit, Silbert&#8217;s company has denied Gemini&#8217;s allegations and said that this is just an advertising ploy by Gemini CEO to escape responsibility from the Earn program and $1.2 billion in user money.</p>
+
 
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">4. More FUD about some departures. Yes, there is turnover (at every company). But the reasons dreamed up by the “news” are completely wrong.<br><br>As an organization that has grown from 30 to 8000 people in 6 years, from 0 to the world’s largest crypto exchange in less than 5 months…</p>&mdash; CZ <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f536.png" alt="🔶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Binance (@cz_binance) <a href="https://twitter.com/cz_binance/status/1677092535871602691?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 6, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="fr" dir="ltr">DCG Statement: <a href="https://t.co/Mz9EMTPgLT" target="_blank">pic.twitter.com/Mz9EMTPgLT</a></p>&mdash; Digital Currency Group (@DCGco) <a href="https://twitter.com/DCGco/status/1677346741409173508?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></figure>
 
 
 
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;More FUD about some departures. Yes, there is turnover (at every company). But the reasons dreamed up by the &#8220;news&#8221; are completely wrong.&#8221;</p>
-</blockquote>
+<p>In addition, DCG also denies all allegations that the company and its employees have any wrongdoing and considers these allegations to be unfounded defamation. This company attempted to negotiate a settlement for Genesis&#8217; bankruptcy, while Gemini was not actively involved in the process. Neither Cameron nor Tyler Winklevoss has appeared in any recent face-to-face meetings.</p>
 
 
 
-<p>CZ said that Binance is always working to protect its employees.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;As markets and the global environment for crypto changes, as our organization evolves, and as personal situations change, there is turnover at every company. We thank all of our ex-team members for their contributions to our growth, and wish them all the best.&#8221;</p>
-</blockquote>
-
-
-
-<p>CZ also confirmed that it will continue to grow and continue to recruit.</p>
-
-
-
-<p>Earlier today, Fortune magazine <a href="https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/" target="_blank" rel="noreferrer noopener">cited </a>three Binance executives who resigned this week as Binance General Counsel Han Ng, Chief Strategy Officer Patrick Hillmann, and Senior Vice President of Compliance. Prime Minister Steven Christie.</p>
+<p>The development is nothing new, but the fact that both companies are blaming each other could lead to a protracted lawsuit. User money still needs to be included while the two sides try to push and give.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-451.png"><img decoding="async" loading="lazy" width="929" height="523" src="https://coincu.com/wp-content/uploads/2023/07/image-451.png" alt="CZ Responds To Reports Of 3 Binance Senior Executives Resigning" class="wp-image-200798" srcset="https://coincu.com/wp-content/uploads/2023/07/image-451.png 929w, https://coincu.com/wp-content/uploads/2023/07/image-451-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-451-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-451-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="CZ Responds To Reports Of 3 Binance Senior Executives Resigning 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-509.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-509-1024x576.png" alt="DCG Has Responses To The Lawsuit From Gemini" class="wp-image-201003" srcset="https://coincu.com/wp-content/uploads/2023/07/image-509-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-509-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-509-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-509-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-509-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-509.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="DCG Has Responses To The Lawsuit From Gemini 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>Reportedly, their departure is related to the reaction of Binance founder Zhao Changpeng to the ongoing investigation by the US Department of Justice. Hillmann later confirmed his departure on Twitter and said he would &#8220;continue to respect and support&#8221; Changpeng Zhao. According to previous news, Matthew Price, Binance&#8217;s senior director of investigations, recently resigned.</p>
+<p>As mentioned in the previous post, on July 7, Gemini co-founder Cameron Winklevoss tweeted that Gemini <a href="https://coincu.com/200982-gemini-files-lawsuit-dcg-for-fraud-conspiracy/" target="_blank" rel="noreferrer noopener">had filed</a> a lawsuit against DCG and founder Barry Silbert. Winklevoss alleges that Barry was not only the mastermind and mastermind of the DCG and Genesis creditor scam but that he was directly and personally involved in this scam.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-507.png"><img decoding="async" loading="lazy" width="900" height="296" src="https://coincu.com/wp-content/uploads/2023/07/image-507.png" alt="DCG Has Responses To The Lawsuit From Gemini" class="wp-image-201001" srcset="https://coincu.com/wp-content/uploads/2023/07/image-507.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-507-300x99.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-507-768x253.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-507-750x247.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="DCG Has Responses To The Lawsuit From Gemini 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Besides, Winklevoss said it was a complicated lie, with DCG not taking losses and not providing actual capital. Barry, DCG, and Genesis conspired to fabricate false financial statements to hide the truth from Gemini and its creditors.</p>
 
 
 
-<p>Binance has been under strain for months amid regulatory investigations that have severed many of its key banking relationships globally.</p>
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200998-dcg-has-responses-to-the-lawsuit-from-gemini/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-70-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Presidential Candidate Robert F. Kennedy Jr. Owns Up To $250K In Bitcoin: Report</title>
+		<link>https://coincu.com/200990-robert-f-kennedy-jr-owns-up-to-250k-in-bitcoin/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 17:32:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Bitcoins]]></category>
+		<category><![CDATA[Regulation #Bitcoin]]></category>
+		<category><![CDATA[Robert F. Kennedy Jr.]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200990</guid>
+
+					<description><![CDATA[Presidential candidate Robert F. Kennedy Jr. holds between $100,001 and $250,000 in Bitcoin, raising concerns about potential conflict of interest for the candidate.<p class="has-text-align-right"><a href="https://coincu.com/200990-robert-f-kennedy-jr-owns-up-to-250k-in-bitcoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
 
 
 
-<p>Despite the difficulties, Binance and Coinbase staged a counter-attack by protesting the charges from the SEC and asserting their compliance with US laws. This is a bright spot, helping exchanges focus on restoring user confidence and proving their credibility.</p>
+<ul>
+<li><em>Robert F. Kennedy Jr. has substantial BTC holdings, despite claiming not to be an investor at a Bitcoin conference in May.</em></li>
 
 
 
-<p>The common point of Binance FUD times is that user assets are massively withdrawn from Binance and other centralized exchanges. Causing the trading volume on CEXs to drop sharply. However, the quick and timely responses of the CEO of Binance can be said to be always quick to stabilize the psychology of users.</p>
+<li><em>Kennedy&#8217;s support for Bitcoin and his financial interest in the digital asset industry has raised questions about his objectivity in policymaking.</em></li>
+</ul>
 
+
+
+<h5 class="wp-block-heading"><strong>Presidential candidate Robert F. Kennedy Jr. holds between $100,001 and $250,000 in Bitcoin, raising concerns about potential conflict of interest for the candidate.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-506.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-506-1024x576.png" alt="Presidential Candidate Robert F. Kennedy Jr. Owns Up To $250K In Bitcoin: Report" class="wp-image-200993" srcset="https://coincu.com/wp-content/uploads/2023/07/image-506-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-506-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-506-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-506-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-506-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-506.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Presidential Candidate Robert F. Kennedy Jr. Owns Up To $250K In Bitcoin: Report 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Presidential candidate Robert F. Kennedy Jr.&#8217;s recent BTC holdings have raised concerns about a potential conflict of interest for the candidate. Despite his statements at a Bitcoin conference in May that he was &#8220;not an investor,&#8221; CNBC uncovered financial records showing that Kennedy holds between $100,001 and $250,000 in BTC. </p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">JUST IN: <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Presidential candidate Robert F. Kennedy Jr. owns up to $250,000 in <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Bitcoin</a>, financial records reveal.</p>&mdash; Watcher.Guru (@WatcherGuru) <a href="https://twitter.com/WatcherGuru/status/1677354012025188353?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The <a href="https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2023/07/07/Candidate_Report_RFK_Jr.pdf" target="_blank" data-type="URL" data-id="https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2023/07/07/Candidate_Report_RFK_Jr.pdf" rel="noreferrer noopener">revelation </a>comes at a time when the digital asset industry is at the forefront of the political sector and has become a key talking point as the 2024 presidential election approaches.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-505.png"><img decoding="async" loading="lazy" width="851" height="326" src="https://coincu.com/wp-content/uploads/2023/07/image-505.png" alt="Presidential Candidate Robert F. Kennedy Jr. Owns Up To $250K In Bitcoin: Report" class="wp-image-200991" srcset="https://coincu.com/wp-content/uploads/2023/07/image-505.png 851w, https://coincu.com/wp-content/uploads/2023/07/image-505-300x115.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-505-768x294.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-505-750x287.png 750w" sizes="(max-width: 851px) 100vw, 851px" title="Presidential Candidate Robert F. Kennedy Jr. Owns Up To $250K In Bitcoin: Report 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Kennedy&#8217;s support for the king of crypto has been notable throughout his campaign, and he has gone as far as accepting the digital asset for campaign donations. However, the news of his substantial BTC holdings has led to questions about his objectivity in policymaking, particularly related to the regulation of the cryptocurrency industry. Kennedy has expressed concerns about government-issued digital assets, but his personal financial interest in Bitcoin could be seen as a potential conflict of interest.</p>
+
+
+
+<p>It is unclear when Kennedy acquired the Bitcoin holdings, and the filing does not specify whether the investment was made by Kennedy himself or a member of his family. The lack of transparency has only added to the concerns raised by this news, highlighting the importance of transparency in political campaigns and policymaking. As the digital asset industry continues to gain mainstream attention and influence, it is crucial that policymakers approach it with an informed and objective perspective.</p>
+
+
+
+<p>The news also emphasizes the need for a clear and concise regulatory framework for the cryptocurrency industry, ensuring that candidates and policymakers alike can operate with clarity and transparency. As the industry becomes more prevalent in the political sphere, policymakers must take a proactive approach to regulation, working to create a fair and level playing field for all participants.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200990-robert-f-kennedy-jr-owns-up-to-250k-in-bitcoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-08T002326.627-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Gemini Files Lawsuit Against DCG For Fraud Conspiracy, DCG Calls It A &#8220;Publicity Stunt&#8221;</title>
+		<link>https://coincu.com/200982-gemini-files-lawsuit-dcg-for-fraud-conspiracy/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 16:40:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[DCG]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini exchange]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200982</guid>
+
+					<description><![CDATA[Gemini has sued DCG and Barry Silbert for a fraud conspiracy against Genesis creditors. DCG calls it a "publicity stunt". Mediation process is ending.<p class="has-text-align-right"><a href="https://coincu.com/200982-gemini-files-lawsuit-dcg-for-fraud-conspiracy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Gemini has filed a lawsuit against Digital Currency Group (DCG) and its founder Barry Silbert for their alleged involvement in a fraud conspiracy against creditors of Genesis, a cryptocurrency lending platform.</em></li>
+
+
+
+<li><em>DCG denies the claims and calls it a &#8220;publicity stunt&#8221; by Cameron Winklevoss to deflect blame from himself and Gemini. The case is expected to be handled under Chapter 11 bankruptcy law.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Gemini has sued DCG and Barry Silbert for a fraud conspiracy against Genesis creditors. DCG calls it a &#8220;publicity stunt&#8221;. Mediation process is ending.</strong></h5>
+
+
+
+<p>Gemini, the cryptocurrency exchange founded by Cameron and Tyler Winklevoss, has sued Digital Currency Group (DCG) and its founder Barry Silbert. Gemini alleges that Silbert and DCG were involved in fraud against creditors of Genesis, a cryptocurrency lending platform that filed for bankruptcy last year. </p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/ Today, <a href="https://twitter.com/Gemini?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@Gemini</a> filed a lawsuit against <a href="https://twitter.com/DCGco?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@DCGco</a> and <a href="https://twitter.com/BarrySilbert?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@BarrySilbert</a> personally in New York court. Barry was not only the architect and mastermind of the DCG and Genesis fraud against creditors, he was directly and personally involved in perpetrating it.</p>&mdash; Cameron Winklevoss (@cameron) <a href="https://twitter.com/cameron/status/1677327395869581316?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>According to the complaint, Silbert and DCG conspired with Genesis to create false financial reports to hide the fact that Genesis was insolvent. DCG responded to the lawsuit by calling it a &#8220;publicity stunt&#8221; by Cameron Winklevoss to deflect blame from himself and Gemini. The mediation process is coming to an end, and the case is expected to be handled under Chapter 11 bankruptcy law.</p>
+
+
+
+<blockquote class="wp-block-quote has-small-font-size">
+<p class="has-small-font-size"><em>This is yet another publicity stunt from Cameron Winklevoss to deflect blame and responsibility from himself and Gemini, which operated the Gemini Earn program. Any suggestion of wrongdoing by DCG or any of its employees is baseless, defamatory, and completely false. From day one, DCG has remained committed to reaching an amicable solution for all parties to the Genesis bankruptcy. </em><br><br><em>Senior DCG leadership has been working around the clock over the course of multiple months in active negotiation with representatives of the Official Unsecured Creditors Committee and Ad Hoc Committee to reach a deal while Gemini&#8217;s leadership was MIA or only issuing press statements. To be clear, neither Cameron nor Tyler Winklevoss have been involved in any of the recent in-person meetings. The mediation process is nearing a close and we expect to bring the Genesis Chapter 11 case to a conclusion soon.</em></p>
+<cite>DCG <a href="https://twitter.com/DCGco/status/1677346741409173508" data-type="URL" data-id="https://twitter.com/DCGco/status/1677346741409173508" target="_blank" rel="noreferrer noopener">responded</a></cite></blockquote>
+
+
+
+<p>Gemini claims that Silbert and DCG were involved in a carefully crafted fraud against creditors of Genesis. When Genesis notified Gemini that it would terminate the Earn program in October 2022, Silbert reached out to set up a meeting to induce Gemini to continue to Earn. He did this knowing that Genesis was massively insolvent. Silbert claimed that Genesis faced only a timing issue, but this was a lie that hid the gaping hole in Genesis’s balance sheet.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-503.png"><img decoding="async" loading="lazy" width="1024" height="498" src="https://coincu.com/wp-content/uploads/2023/07/image-503-1024x498.png" alt="Gemini Files Lawsuit Against DCG For Fraud Conspiracy, DCG Calls It A &quot;Publicity Stunt&quot;" class="wp-image-200985" srcset="https://coincu.com/wp-content/uploads/2023/07/image-503-1024x498.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-503-300x146.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-503-768x374.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-503-1536x748.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-503-750x365.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-503-1140x555.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-503.png 1960w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gemini Files Lawsuit Against DCG For Fraud Conspiracy, DCG Calls It A &quot;Publicity Stunt&quot; 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>When Three Arrows Capital (3AC) collapsed in June 2022, it blew a $1.2 billion hole in Genesis’s balance sheet. Instead of coming clean, Genesis claimed that everything was business as usual because DCG had stepped in to absorb the losses. However, DCG did not absorb any losses or provide real capital. Behind the scenes, DCG wrote Genesis a sham 10-year promissory note with a measly 1% interest rate – worth just a fraction of its $1.1 billion face amount. Genesis was wildly insolvent.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-504.png"><img decoding="async" loading="lazy" width="1024" height="421" src="https://coincu.com/wp-content/uploads/2023/07/image-504-1024x421.png" alt="Gemini Files Lawsuit Against DCG For Fraud Conspiracy, DCG Calls It A &quot;Publicity Stunt&quot;" class="wp-image-200986" srcset="https://coincu.com/wp-content/uploads/2023/07/image-504-1024x421.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-504-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-504-768x315.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-504-1536x631.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-504-750x308.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-504-1140x468.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-504.png 2026w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gemini Files Lawsuit Against DCG For Fraud Conspiracy, DCG Calls It A &quot;Publicity Stunt&quot; 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The fraud extends to the very top, with Silbert and other DCG executives directly involved in these lies and concealing the truth from Gemini and other creditors. According to Cameron Winklevoss, Mark Murphy, then-COO of DCG (and current President), was copied when Genesis disseminated its fake financial reports. He knew that the reports lied about DCG’s financial support for Genesis but did not correct them.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200982-gemini-files-lawsuit-dcg-for-fraud-conspiracy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-07T233859.896-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Huobi&#8217;s Asset Reserve Certificate Skyrockets 53.3%, Linked to Justin Sun and Poloniex</title>
+		<link>https://coincu.com/200974-huobis-asset-reserve-certificate-skyrockets-53-3/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 08:27:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Huobi]]></category>
+		<category><![CDATA[Justin sun]]></category>
+		<category><![CDATA[Poloniex]]></category>
+		<category><![CDATA[TRON]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200974</guid>
+
+					<description><![CDATA[Huobi has recently released its latest asset reserve certificate, providing valuable insights into the company's holdings.<p class="has-text-align-right"><a href="https://coincu.com/200974-huobis-asset-reserve-certificate-skyrockets-53-3/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Huobi&#8217;s BTC asset accumulation has surged by 53.3% since June 1st, with 8,300 BTC added in just one month. </em></li>
+
+
+
+<li><em>The majority of this increase can be attributed to the accumulation of TRC20-BTC, a type of Bitcoin token based on the TRON network.</em></li>
+
+
+
+<li><em>The transfer-in address associated with the increase is closely linked to prominent figures in the crypto industry, including Justin Sun and Poloniex.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Huobi has recently released its latest asset reserve certificate, providing valuable insights into the company&#8217;s holdings.</strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Huobi.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/Huobi-1024x683.jpeg" alt="Huobi" class="wp-image-200977" srcset="https://coincu.com/wp-content/uploads/2023/07/Huobi-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Huobi-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Huobi-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Huobi-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Huobi.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Huobi&#039;s Asset Reserve Certificate Skyrockets 53.3%, Linked to Justin Sun and Poloniex 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The snapshot date for the certificate is July 1st, and the findings reveal a substantial increase in BTC asset accumulation compared to the previous month (June 1st).</p>
+
+
+
+<p>According to the certificate, <a href="https://www.huobi.com/en-us/" target="_blank" data-type="URL" data-id="https://www.huobi.com/en-us/" rel="noreferrer noopener">Huobi</a>&#8216;s BTC asset accumulation has surged by an impressive 53.3% since June 1st. This represents an increase of approximately 8,300 BTC in just one month. The majority of this increase can be attributed to the accumulation of TRC20-BTC, a type of Bitcoin token based on the TRON network.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-502.png"><img decoding="async" loading="lazy" width="1024" height="527" src="https://coincu.com/wp-content/uploads/2023/07/image-502-1024x527.png" alt="image 502" class="wp-image-200976" srcset="https://coincu.com/wp-content/uploads/2023/07/image-502-1024x527.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-502-300x154.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-502-768x395.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-502-1536x791.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-502-750x386.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-502-1140x587.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-502.png 2008w" sizes="(max-width: 1024px) 100vw, 1024px" title="Huobi&#039;s Asset Reserve Certificate Skyrockets 53.3%, Linked to Justin Sun and Poloniex 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Interestingly, the transfer-in address associated with this significant increase in BTC assets is closely linked to prominent figures in the cryptocurrency industry, including Justin Sun, the founder of TRON, and Poloniex, a well-known cryptocurrency exchange.</p>
+
+
+
+<p>The transparency provided by Huobi&#8217;s asset reserve certificate offers valuable insights into the exchange&#8217;s strategies and holdings. Such information can be crucial for investors and market participants seeking to better understand the dynamics of the cryptocurrency market.</p>
+
+
+
+<p>By closely monitoring the movements and holdings of major players like Huobi, investors can gain a deeper understanding of market trends and potential investment opportunities. Additionally, the involvement of influential figures like Justin Sun further adds to the significance of this development.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200974-huobis-asset-reserve-certificate-skyrockets-53-3/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Huobis-Asset-Reserve-Certificate-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Sega&#8217;s COO Describes P2E Games As Boring, Withholds Franchises From Blockchain: Report</title>
+		<link>https://coincu.com/200950-segas-coo-describes-p2e-games-as-boring-withhold/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 08:10:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sega]]></category>
+		<category><![CDATA[Sega Blockchain]]></category>
+		<category><![CDATA[Sega P2E]]></category>
+		<category><![CDATA[Shuji Utsumi]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200950</guid>
+
+					<description><![CDATA[Sega, once a blockchain gaming advocate, withdraws from the industry due to recent developments and described P2E games as boring, as per Bloomberg.<p class="has-text-align-right"><a href="https://coincu.com/200950-segas-coo-describes-p2e-games-as-boring-withhold/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Sega is pulling back from blockchain gaming due to recent developments and the global crypto industry meltdown.</em></li>
+
+
+
+<li><em>Co-Chief Operating Officer Shuji Utsumi described P2E games as boring and stated that the company will withhold its biggest franchises from third-party blockchain gaming projects.</em></li>
+
+
+
+<li><em>The firm will allow external partners to use its lesser-known characters for non-fungible tokens and continue to invest in related projects, but will suspend its plans to develop GameFi in the short term.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Sega, once a blockchain gaming advocate, withdraws from the industry due to recent developments and described P2E games as boring, as per <a href="https://www.bloomberg.com/news/articles/2023-07-06/sega-joins-blockchain-games-pullback-as-crypto-winter-persists#xj4y7vzkg" target="_blank" data-type="URL" data-id="https://www.bloomberg.com/news/articles/2023-07-06/sega-joins-blockchain-games-pullback-as-crypto-winter-persists#xj4y7vzkg" rel="noreferrer noopener">Bloomberg</a>.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-501.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-501.png" alt="Sega&#039;s COO Describes P2E Games As Boring, Withholds Franchises From Blockchain: Report " class="wp-image-200970" srcset="https://coincu.com/wp-content/uploads/2023/07/image-501.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-501-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-501-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-501-750x500.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Sega&#039;s COO Describes P2E Games As Boring, Withholds Franchises From Blockchain: Report 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Sega, a gaming studio known for popular titles such as Sonic The Hedgehog and Yakuza, was once regarded as one of the most ardent supporters of blockchain gaming. However, recent developments suggest that the company is now taking a step back from the industry due to the global crypto industry meltdown.</p>
+
+
+
+<p>In an interview with Bloomberg News, Co-Chief Operating Officer Shuji Utsumi stated that P2E (play-to-earn) games are boring and that the firm will withhold its biggest franchises from third-party blockchain gaming projects to avoid devaluing its content. This decision marks a significant shift for Sega, which previously advocated using blockchain-based technology to boost the appeal of its titles.</p>
+
+
+
+<p>Although Sega will be suspending its plans to develop GameFi in the short term, the company will continue to invest in related projects and allow external partners to use its lesser-known Three Kingdoms and Virtua Fighter characters for non-fungible tokens. The company&#8217;s intent to join the once-red-hot NFT community, first announced in 2021, drew widespread criticism from gamers who viewed crypto technology as bad for the environment.</p>
+
+
+
+<p>Utsumi was also non-committal about employing Web 3.0 technology in what Sega dubs its &#8220;super game&#8221; initiative, a lineup of big-budget online multiplayer games due to roll out from 2026. Sega&#8217;s shift reflects a broader cooling on the concept of web3, a term used to describe an internet built around the blockchain, that once attracted billions of dollars from the likes of Andreessen Horowitz. Peers such as Ubisoft Entertainment SA have also pulled back on their investments in NFT games after drawing criticism amid low interest.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200950-segas-coo-describes-p2e-games-as-boring-withhold/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-07T150746.458-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Vitalik Buterin Unleashes Ordinals and BRC-20 Tokens Against Bitcoin&#8217;s Stagnation</title>
+		<link>https://coincu.com/200957-vitalik-buterin-unleashes-ordinals-and-brc-20/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 08:03:21 +0000</pubDate>
+				<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Bitcoin&#039;s Stagnation]]></category>
+		<category><![CDATA[BRC-20]]></category>
+		<category><![CDATA[BRC-20 Tokens]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Vitalik Buterin]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200957</guid>
+
+					<description><![CDATA[Key Points: Vitalik Buterin, the co-founder of Ethereum, expressed his views on the growing importance of ordinals and the BRC-20 token standard. Buterin sees these developments as a refreshing departure from what he describes as the &#8220;stagnant&#8221; politics prevalent in the Bitcoin ecosystem. According to Buterin, ordinals are revitalizing the culture of taking action and [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/200957-vitalik-buterin-unleashes-ordinals-and-brc-20/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Vitalik Buterin, co-founder of Ethereum, shares his views on the growing importance of ordinals and the BRC-20 token standard in the cryptocurrency space.</em></li>
+
+
+
+<li><em>Buterin highlights the need for layer-2 solutions to improve scalability and efficiency, suggesting that Bitcoin can become more adaptable to future needs by implementing payment channels or sidechains.</em></li>
+
+
+
+<li><em>The adoption of new approaches and standards will shape the future of cryptocurrencies, paving the way for increased adoption and utility in everyday life.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Vitalik Buterin, the co-founder of Ethereum, expressed his views on the growing importance of ordinals and the BRC-20 token standard.</strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-1024x576.webp" alt="Vitalik Buterin Unleashes Ordinals and BRC 20 Tokens Against Bitcoins Stagnation" class="wp-image-200964" srcset="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation-1140x641.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-Against-Bitcoins-Stagnation.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Vitalik Buterin Unleashes Ordinals and BRC-20 Tokens Against Bitcoin&#039;s Stagnation 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Buterin sees these developments as a refreshing departure from what he describes as the &#8220;stagnant&#8221; politics prevalent in the Bitcoin ecosystem.</p>
+
+
+
+<p>According to Buterin, ordinals are revitalizing the culture of taking action and making things happen within the cryptocurrency space. He believes that this new trend represents a significant pushback against the laser-eye movement, which has been a prominent symbol of Bitcoin enthusiasts.</p>
+
+
+
+<p>Buterin emphasized the need for the cryptocurrency community to focus on implementing various layer-2 solutions to enhance scalability and efficiency. He suggested that while Bitcoin&#8217;s base layer is crucial, the best approach would be to explore different methods of improving its performance. By implementing layer-2 solutions, such as payment channels or sidechains, Buterin believes that Bitcoin can become more scalable and adaptable to future needs.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin.webp"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-1024x536.webp" alt="BRC 20 Tokens Against Bitcoin" class="wp-image-200965" srcset="https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-1024x536.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-300x157.webp 300w, https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-768x402.webp 768w, https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-750x393.webp 750w, https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin-1140x597.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/BRC-20-Tokens-Against-Bitcoin.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Vitalik Buterin Unleashes Ordinals and BRC-20 Tokens Against Bitcoin&#039;s Stagnation 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The co-founder of Ethereum&#8217;s remarks come at a time when the broader cryptocurrency ecosystem is actively seeking innovative solutions to address the scalability challenges faced by popular blockchain networks. Layer-2 solutions have emerged as a promising avenue for enhancing transaction throughput and reducing fees on existing blockchains.</p>
+
+
+
+<p>Buterin&#8217;s comments also highlight the ongoing debate between Bitcoin and Ethereum regarding their respective approaches to scalability and functionality. While Bitcoin has primarily focused on being a secure store of value, Ethereum has strived to provide a platform for building decentralized applications and smart contracts. The introduction of ordinals and the <a href="https://www.brc-20.io/" target="_blank" data-type="URL" data-id="https://www.brc-20.io/" rel="noreferrer noopener">BRC-20 token</a> standard could potentially open up new avenues for Bitcoin to expand its capabilities beyond its current scope.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens.png"><img decoding="async" loading="lazy" width="1024" height="575" src="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens.png" alt="Vitalik Buterin Unleashes Ordinals and BRC 20 Tokens" class="wp-image-200967" srcset="https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-768x431.png 768w, https://coincu.com/wp-content/uploads/2023/07/Vitalik-Buterin-Unleashes-Ordinals-and-BRC-20-Tokens-750x421.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Vitalik Buterin Unleashes Ordinals and BRC-20 Tokens Against Bitcoin&#039;s Stagnation 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>As the cryptocurrency industry continues to evolve, the exploration of new technologies and standards is crucial for sustained growth and innovation. By embracing advancements like ordinals and layer-2 solutions, the community can address existing challenges and foster a more dynamic and adaptable ecosystem.</p>
+
+
+
+<p>Vitalik Buterin&#8217;s insights serve as a reminder that progress in the cryptocurrency space relies on constant exploration and a willingness to challenge established norms. The adoption of new approaches and standards will shape the future of cryptocurrencies, paving the way for increased adoption and utility in everyday life.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200957-vitalik-buterin-unleashes-ordinals-and-brc-20/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Multichain Not A Hacker Attack, The Network Is Completely Out Of Control</title>
+		<link>https://coincu.com/200953-multichain-not-a-hacker-attack-out-control/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 07:57:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[attack]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[bridge]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Fantom]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[multi]]></category>
+		<category><![CDATA[MULTI token]]></category>
+		<category><![CDATA[multichain]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=200953</guid>
+
+					<description><![CDATA[Analysis by Loki Zeng states that Multichain is not an attack by hackers when it is discovered that the characteristics of transactions are completely normal.<p class="has-text-align-right"><a href="https://coincu.com/200953-multichain-not-a-hacker-attack-out-control/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>There is analysis that the Multichain bridge has completely lost control. This is not the same as being hacked.</em></li>
+
+
+
+<li><em>Analysis suggests that the cause may be due to some force majeure circumstances. Complete control has been lost, rather than simply being attacked.</em></li>
+
+
+
+<li><em>Asset transfers take a long time, and the receiving addresses are clean.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Analysis by Loki Zeng states that Multichain is not an attack by hackers when it is discovered that the characteristics of transactions are completely normal.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-500-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-500-1024x538.png" alt="Multichain Not a Hacker Attack, The Network Is Completely Out Of Control" class="wp-image-200962" srcset="https://coincu.com/wp-content/uploads/2023/07/image-500-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-500-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-500-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-500-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-500-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-500.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Multichain Not A Hacker Attack, The Network Is Completely Out Of Control 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>According to the analysis, the asset transfer lasted for a long time, a small amount of 2 USDC. This is a test before the assignment. It shows that the transferor has a sustainable transferability that is checked before the transfer.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="zh" dir="ltr">几个特点： <br>1）资产转移持续时间很长，说明转移者并不着急<br>2）资产转移前进行了2USDC的小额测试，其中USDC还转了2币2U，说明转移者有可持续的转移能力  <br>3）每种资产转移到了独立钱包，之后没有进一步行为（如转移到交易所、swap、混币）<br>4）接收钱包是完全干净的，甚至gas都没有</p>&mdash; 0xLoki (@Loki_Zeng) <a href="https://twitter.com/Loki_Zeng/status/1677140750818238465?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Each asset is moved to an independent wallet, and there are no further actions after that (such as moving to an exchange, swapping, or mixing coins). The receiving wallet is completely clean, even without gas.</p>
+
+
+
+<p>Considering the specifications of the MPC, the transferor may have gained complete control of the private key segments that exceed the threshold in some way.</p>
+
+
+
+<p>Besides, the &#8220;Method of Attack&#8221; is straightforward. It is a simple assignment, there is no contract, and there is a test. The attacker may not be a hacker. The assignor has not performed further processing and execution, and the operator may not have absolute discretion.</p>
+
+
+
+<p>Currently, the assets controlled by Multichain MPC&#8217;s multi-signature are completely out of control. Correspondingly, if the owner of the retained portion of the shard holding MPC or other multisig shards exceeds the threshold, all of these assets and contracts can go unchecked.</p>
+
+
+
+<p>As mentioned in the previous article, early this morning, the Multichain bridge once again <a href="https://coincu.com/200802-multichain-130m-assets-withdrawn-unknown-cause/" target="_blank" rel="noreferrer noopener">warned</a> users that $130 million in assets was moved for unknown reasons. This caused many users to criticize the project because it returned to work not long after crashing at the end of June.</p>
+
+
+
+<p>Recently, the Fantom Foundation, which has a close relationship with each other, wanted to break free of influence, claiming that FTM was never released or managed by Multichain, so FTM over wFTM, FTM ERC-20, and Opera will not be affected.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">For the avoidance of doubt,  FTM was never issued or managed by Multichain, so wFTM, FTM ERC-20, and FTM on Opera are not affected.</p>&mdash; Fantom Foundation (@FantomFDN) <a href="https://twitter.com/FantomFDN/status/1677201526643720194?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 7, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Currently, the project only advises users to stop working on the platform and revoke all contracts related to the approval chain. Besides, it does not shed light on the hack and offers a plan for reactivation.</p>
+
+
+
+<p>This causes the MULTI token price to continue falling into the abyss with a 16% drop in the past 24h, currently trading at $2.61.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-499.png"><img decoding="async" loading="lazy" width="1024" height="476" src="https://coincu.com/wp-content/uploads/2023/07/image-499-1024x476.png" alt="Multichain Not a Hacker Attack, The Network Is Completely Out Of Control" class="wp-image-200958" srcset="https://coincu.com/wp-content/uploads/2023/07/image-499-1024x476.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-499-300x140.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-499-768x357.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-499-1536x715.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-499-2048x953.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-499-750x349.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-499-1140x530.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Multichain Not A Hacker Attack, The Network Is Completely Out Of Control 21"></a><figcaption class="wp-element-caption">24h MULTI price chart. Source: <a href="https://coinmarketcap.com/currencies/multichain/" target="_blank" rel="noreferrer noopener">CoinMarketCap</a></figcaption></figure></div>
 
 
 <p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200785-cz-responds-reports-3-executives-resigning/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p class="has-text-align-right"><a href="https://coincu.com/200953-multichain-not-a-hacker-attack-out-control/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-63-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance In Crisis When Executives Flee Regulatory Storms</title>
-		<link>https://coincu.com/200786-binance-in-crisis-executives-flee-storms/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 07 Jul 2023 00:38:34 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[CFTC]]></category>
-		<category><![CDATA[Changpeng Zhao]]></category>
-		<category><![CDATA[CZ]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200786</guid>
-
-					<description><![CDATA[Top executives resign from Binance amid regulatory investigations.<p class="has-text-align-right"><a href="https://coincu.com/200786-binance-in-crisis-executives-flee-storms/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Top executives resign from Binance amid regulatory investigations.</em></li>
-
-
-
-<li><em>The exchange faces multiple regulatory challenges globally.</em></li>
-
-
-
-<li><em>Operations and market share of the exchange are affected by the investigations.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to <em><a href="https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/" target="_blank" rel="noreferrer noopener">Fortune</a></em>, Binance, the renowned cryptocurrency exchange, finds itself in a state of turmoil as key executives step down following CEO Changpeng Zhao&#8217;s handling of the ongoing regulatory investigations.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-449-1024x589.png"><img decoding="async" loading="lazy" width="1024" height="589" src="https://coincu.com/wp-content/uploads/2023/07/image-449-1024x589.png" alt="Binance In Crisis When Executives Flee Regulatory Storms" class="wp-image-200792" srcset="https://coincu.com/wp-content/uploads/2023/07/image-449-1024x589.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-449-300x173.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-449-768x442.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-449-750x431.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-449-1140x656.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-449.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance In Crisis When Executives Flee Regulatory Storms 22"></a></figure></div>
-
-
-<p>The departures of senior figures, including the general counsel, chief strategy officer, and compliance SVP, signify a critical management and strategic crisis for <a href="https://coincu.com/200606-binance-unleashes-wallet-upgrades/" target="_blank" rel="noreferrer noopener">Binance</a>, intensifying the pressure as these units are directly engaged with regulatory matters.</p>
-
-
-
-<p>The resignation of top executives is expected to complicate Binance&#8217;s defense efforts as it faces multiple investigations from regulators worldwide. Notably, the United States Department of Justice has been conducting a probe into alleged attempts by the exchange to deceive regulators, as well as potential money laundering and sanctions violations on its platform.</p>
-
-
-
-<p>&#8220;It&#8217;s true that I am leaving Binance,&#8221; Hillmann <a href="https://twitter.com/PRHillmann/status/1677070523740884992" target="_blank" rel="noreferrer noopener">tweeted</a>, adding that he was departing on good terms and continuing to respect and support Zhao.</p>
-
-
-
-<p>Alongside lawsuits filed by the <a href="https://coincu.com/200007-sec-v-coinbase-2300-crypto-holders-amici-curiae/" target="_blank" rel="noreferrer noopener">Securities and Exchange Commission (SEC)</a> and the Commodity Futures Trading Commission (CFTC), rumors have circulated that the Justice Department is on the verge of issuing criminal charges against both Binance and CEO <a href="https://coincu.com/191314-changpeng-zhao-denies-rumors-of-laying-offs/" target="_blank" rel="noreferrer noopener">Changpeng Zhao</a>.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-1024x727.jpg"><img decoding="async" loading="lazy" width="1024" height="727" src="https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-1024x727.jpg" alt="Binance In Crisis When Executives Flee Regulatory Storms" class="wp-image-200793" srcset="https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-1024x727.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-300x213.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-768x545.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-120x86.jpg 120w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-750x533.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31-1140x809.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-82880353-064135cb483940ff9230420d095b6d31.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance In Crisis When Executives Flee Regulatory Storms 23"></a></figure></div>
-
-
-<p>The regulatory challenges have already taken a toll on the exchange&#8217;s operations. The exchange&#8217;s U.S. business and international trading arm have been significantly impacted, with U.S. regulators suspecting a deep interconnection between the two. The loss of a major European banking partner and the decision to halt trading in U.S. dollars by Binance.US further illustrate the consequences of these investigations.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-1024x683.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-1024x683.jpg" alt="Binance In Crisis When Executives Flee Regulatory Storms" class="wp-image-200790" srcset="https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-2048x1366.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/cz-binance-jpeg-1688485447-9633-1688485490-1140x760.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance In Crisis When Executives Flee Regulatory Storms 24"></a></figure></div>
-
-
-<p>Despite being the largest cryptocurrency exchange globally, Binance has experienced a decline in market share recently. This decline is attributed to the mounting regulatory pressures and the severing of banking relationships, restricting the exchange&#8217;s access to fiat currencies.</p>
-
-
-
-<p>While there have been speculations about potential succession plans and CZ stepping aside to help Binance navigate the storm, CEO Changpeng Zhao has not shown any intention of relinquishing his position. As a prominent figure in the cryptocurrency industry, his decisions and leadership will play a crucial role in shaping the future of the exchange.</p>
-
-
-
-<p>As the situation continues to unfold, it is important to remain updated on the latest developments. Binance&#8217;s response and official statements should be monitored to understand the ongoing impact of these regulatory challenges on the cryptocurrency exchange industry as a whole.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200786-binance-in-crisis-executives-flee-storms/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-448-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal</title>
-		<link>https://coincu.com/200772-founder-of-georgian-co-investment-fund/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 06 Jul 2023 18:03:36 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[George Bachiashvili]]></category>
-		<category><![CDATA[Georgia]]></category>
-		<category><![CDATA[Georgian Co-Investment Fund]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=200772</guid>
-
-					<description><![CDATA[Georgian Co-Investment Fund founder George Bachiashvili was charged with cryptocurrency misappropriation and money laundering.<p class="has-text-align-right"><a href="https://coincu.com/200772-founder-of-georgian-co-investment-fund/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Georgian Co-Investment Fund founder George Bachiashvili was charged with cryptocurrency misappropriation and money laundering.</em></li>
-
-
-
-<li><em>Allegations claim he obtained a substantial amount of Bitcoin through mining in 2015 using raised funds.</em></li>
-
-
-
-<li><em>Bachiashvili could face nine to twelve years in prison; the fund denies involvement.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>George Bachiashvili, the founder of the prominent Georgian Co-Investment Fund, is facing serious charges of cryptocurrency misappropriation and money laundering, as reported by Georgian news outlet <em><a href="https://agenda.ge/en/news/2023/2656" target="_blank" rel="noreferrer noopener">Agenda</a></em>.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-445.png"><img decoding="async" loading="lazy" width="976" height="661" src="https://coincu.com/wp-content/uploads/2023/07/image-445.png" alt="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal" class="wp-image-200781" srcset="https://coincu.com/wp-content/uploads/2023/07/image-445.png 976w, https://coincu.com/wp-content/uploads/2023/07/image-445-300x203.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-445-768x520.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-445-750x508.png 750w" sizes="(max-width: 976px) 100vw, 976px" title="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal 25"></a></figure></div>
-
-
-<p>The Prosecutor&#8217;s Office of Georgia alleges that Bachiashvili, who played a key role in managing the $6 billion private equity fund contributing significantly to the nation&#8217;s GDP, unlawfully obtained a substantial amount of cryptocurrency, particularly <a href="https://coincu.com/200621-bitcoin-waiting-for-the-next-bull-run-at-35500/" target="_blank" rel="noreferrer noopener">Bitcoin</a>, dating back to 2015.</p>
-
-
-
-<p>Investigation findings reveal that Bachiashvili utilized funds personally raised by himself and an undisclosed investor to invest in Bitcoin mining. A foreign firm was contracted for mining services, with the total agreement valued at $6.3 million, with the investor contributing $5 million to the venture.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-447.png"><img decoding="async" loading="lazy" width="929" height="523" src="https://coincu.com/wp-content/uploads/2023/07/image-447.png" alt="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal" class="wp-image-200783" srcset="https://coincu.com/wp-content/uploads/2023/07/image-447.png 929w, https://coincu.com/wp-content/uploads/2023/07/image-447-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-447-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-447-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal 26"></a></figure></div>
-
-
-<p>The Prosecutor&#8217;s Office claims that Bachiashvili later seized the generated profit of 8,253.13 Bitcoins in 2017, amounting to over $39 million. Only a meager $536,900 was reportedly paid to the investor. Bachiashvili allegedly concealed the details of the misappropriated funds, transferring them to various wallets for undisclosed financial operations, enabling him to freely manage and utilize the illegal proceeds. He is a significant person in Georgia, having formed a private equity business that accounts for around 40% of Georgia&#8217;s GDP.</p>
-
-
-
-<p>If found guilty, Bachiashvili could face a prison sentence ranging from nine to twelve years. In response to the charges, the Georgian Co-Investment Fund released a statement clarifying that the organization was not involved in the alleged actions. They further emphasized that Bachiashvili had not served as a director for several years, highlighting a distinction between his individual actions and the activities of the fund.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-446.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-446-1024x683.png" alt="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal" class="wp-image-200782" srcset="https://coincu.com/wp-content/uploads/2023/07/image-446-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-446-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-446-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-446-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-446-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-446.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Founder Of Georgian Co-Investment Fund Charged In Cryptocurrency Scandal 27"></a><figcaption class="wp-element-caption">George Bachiashvili</figcaption></figure></div>
-
-
-<p>As the legal proceedings unfold, the case against George Bachiashvili underscores the significance of cryptocurrency-related crimes and the potential consequences faced by those implicated in such activities.</p>
-
-
-
-<p id="block-7d295410-eaf2-4d33-af6a-507be5cdb25f"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/200772-founder-of-georgian-co-investment-fund/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-444-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Thumb-2023-Foxy-69-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
