@@ -600,4 +600,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7422 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1929464 metric#prefetches=130 metric#store-reads=21 metric#store-writes=4 metric#store-hits=139 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=216.97 metric#ms-cache=19.50 metric#ms-cache-avg=0.8127 metric#ms-cache-ratio=9.0 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7422 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1929464 metric#prefetches=130 metric#store-reads=21 metric#store-writes=4 metric#store-hits=139 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=216.77 metric#ms-cache=16.08 metric#ms-cache-avg=0.6700 metric#ms-cache-ratio=7.4 -->
