@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 11 Jul 2023 12:01:08 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jul 2023 12:30:47 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,50 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Was Multichain A Rug Pull?]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/was-multichain-a-rug-pull</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-hack-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-hack-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-hack-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 11 Jul 2023 12:15:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/was-multichain-a-rug-pull</guid>
+			  <description><![CDATA[<p>Blockchain security and analytics firm Chainalysis has suggested that the multimillion-dollar exploit of the Multichain Protocol could be indicative of a rug pull.&nbsp;</p>
+Multimillion Dollar Exploit Was Inside Job?&nbsp;
+<p>The cross-chain bridge protocol Multichain has fallen victim to a multimillion-dollar exploit that Chainalysis believes is an inside job. The incident, which took place on July 6, 2023, involved unauthorized withdrawals of an unusually large scale and resulted in a staggering loss of around $130 million.&nbsp;</p>
+<p>The aftermath of this exploit has left the blockchain community stunned, as Multichain was once regarded as a promising cross-chain bridge protocol. However, with the suspicion of an inside job, questions arise regarding the integrity and security practices within the organization.</p>
+Hacker Seized MPC Keys&nbsp;
+<p>Chainalysis expressed its suspicions in its July 10th blog post calling the situation &ldquo;a hack or rug pull by insiders.&rdquo; This aligns with the prior claims made by blockchain security firm SlowMist, which also raised the possibility of internal involvement.&nbsp;</p>
+<p>The latter tweeted,&nbsp;</p>
+
+<p>&ldquo;It appears that activity has stopped. However, with multiple bridges all being drained, this looks more like a hack or rug pull and less like a migration. Please do not use and revoke all permission related to Multichain.&rdquo;</p>
+
+<p>Explaining the technical aspects of Multichain's smart contracts, Chainalysis highlighted their use of a multiparty computation (MPC) system, much like a multisignature wallet. The firm suggested that the attacker might have gained control of Multichain's MPC keys to orchestrate this exploit. While acknowledging the chance of external hackers obtaining the keys, experts and analysts are leaning toward an inside job or rug pull due to recent questionable incidents surrounding the protocol.</p>
+Shady Incidents At Multichain
+<p>One prominent example of these incidents happened toward the end of May, when the protocol&rsquo;s CEO, &ldquo;Zhaojun&rdquo; went missing. There was immediate speculation that Chinese authorities had arrested him.</p>
+<p>Additionally, the platform suffered from delayed transactions and various technical problems, leading Binance to withdraw its support for several bridged tokens on July 7.</p>
+<p>As the investigation unfolds, blockchain analysts have uncovered further dubious token movements associated with Multichain. These abnormal outflows included draining token addresses across multiple chains through the Multichain executor address.</p>
+<p>Furthermore, on July 8, stablecoin issuers Circle and Tether took swift action by freezing over $65 million in assets linked to the Multichain exploit. Also, the fact that the exploiter did not bother swapping out the centrally controlled assets like USDC, which can be easily frozen by the issuing company, just adds to the dubious nature of the entire situation.&nbsp;</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.&nbsp;</p>]]></description>
+			  <content:encoded><![CDATA[<p>Blockchain security and analytics firm Chainalysis has suggested that the multimillion-dollar exploit of the Multichain Protocol could be indicative of a rug pull.&nbsp;</p>
+Multimillion Dollar Exploit Was Inside Job?&nbsp;
+<p>The cross-chain bridge protocol Multichain has fallen victim to a multimillion-dollar exploit that Chainalysis believes is an inside job. The incident, which took place on July 6, 2023, involved unauthorized withdrawals of an unusually large scale and resulted in a staggering loss of around $130 million.&nbsp;</p>
+<p>The aftermath of this exploit has left the blockchain community stunned, as Multichain was once regarded as a promising cross-chain bridge protocol. However, with the suspicion of an inside job, questions arise regarding the integrity and security practices within the organization.</p>
+Hacker Seized MPC Keys&nbsp;
+<p>Chainalysis expressed its suspicions in its July 10th blog post calling the situation &ldquo;a hack or rug pull by insiders.&rdquo; This aligns with the prior claims made by blockchain security firm SlowMist, which also raised the possibility of internal involvement.&nbsp;</p>
+<p>The latter tweeted,&nbsp;</p>
+
+<p>&ldquo;It appears that activity has stopped. However, with multiple bridges all being drained, this looks more like a hack or rug pull and less like a migration. Please do not use and revoke all permission related to Multichain.&rdquo;</p>
+
+<p>Explaining the technical aspects of Multichain's smart contracts, Chainalysis highlighted their use of a multiparty computation (MPC) system, much like a multisignature wallet. The firm suggested that the attacker might have gained control of Multichain's MPC keys to orchestrate this exploit. While acknowledging the chance of external hackers obtaining the keys, experts and analysts are leaning toward an inside job or rug pull due to recent questionable incidents surrounding the protocol.</p>
+Shady Incidents At Multichain
+<p>One prominent example of these incidents happened toward the end of May, when the protocol&rsquo;s CEO, &ldquo;Zhaojun&rdquo; went missing. There was immediate speculation that Chinese authorities had arrested him.</p>
+<p>Additionally, the platform suffered from delayed transactions and various technical problems, leading Binance to withdraw its support for several bridged tokens on July 7.</p>
+<p>As the investigation unfolds, blockchain analysts have uncovered further dubious token movements associated with Multichain. These abnormal outflows included draining token addresses across multiple chains through the Multichain executor address.</p>
+<p>Furthermore, on July 8, stablecoin issuers Circle and Tether took swift action by freezing over $65 million in assets linked to the Multichain exploit. Also, the fact that the exploiter did not bother swapping out the centrally controlled assets like USDC, which can be easily frozen by the issuing company, just adds to the dubious nature of the entire situation.&nbsp;</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.&nbsp;</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Ethereum Blockchain Game Pikamoon Raises $3.6m, Final ICO Phase Selling Out Fast]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/ethereum-blockchain-game-pikamoon-raises-36m-final-ico-phase-selling-out-fast</link>
 			  <media:content url="https://app.chainwire.org/storage/uploads/users/Fire_biome_render_16890623225I2PXb63xs.jpg" medium="image" />
@@ -934,94 +978,6 @@ For more information about the Tradecurve presale:
 <p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bullishly above MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Crypto Weekly Roundup: Gemini Sues DCG And More]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/crypto-weekly-roundup-gemini-sues-dcg-and-more</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg" length="528" type="image/jpg" />
-			  <pubDate>Sun, 09 Jul 2023 12:35:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/crypto-weekly-roundup-gemini-sues-dcg-and-more</guid>
-			  <description><![CDATA[<p>Looks like Cameron Winklevoss made good on his promise of pursuing legal action against DCG CEO Barry Silbert after the latter failed to meet his final offer payment of $1.47 million. Let&rsquo;s find out more.&nbsp;</p>
-Bitcoin&nbsp;
-<p>Google Cloud's recently announced a partnership with infrastructure provider Voltage, unveiling a new trajectory for the tech giant's Bitcoin and Lightning ambitions.</p>
-<p>Lightning Labs, the primary Bitcoin Lightning Network development firm, has rolled out a revolutionary set of tools designed for AI applications.</p>
-<p>A recent report by JP Morgan looks to play down the effect that the approval of a Spot Bitcoin ETF might bring to the crypto sector.</p>
-<p>Bitcoin miners have raked in an impressive revenue of $184 million in the second quarter of 2023, breaking previous records.&nbsp;</p>
-<p>Perhaps because of incredibly bullish statements by Blackrock CEO Larry Fink, Bitcoin has set a new yearly high with expectations of going much higher.</p>
-Ethereum
-<p>Ethereum Name Service Labs has announced plans to introduce Layer 2 interoperability for its ENS domains during a community call on June 28.</p>
-DeFi
-<p>In the wake of a series of high-profile security breaches plaguing the DeFi space, a group of Ethereum community members has put forth a new standard, ERC 7265, aiming to enhance the security of DeFi protocols.&nbsp;</p>
-<p>The latest statement from the Uniswap Foundation has claimed that the launch of version 4 of the protocol depends on Ethereum&rsquo;s upcoming Cancun upgrade.&nbsp;</p>
-Altcoins
-<p>The Multichain MPC bridge platform has seen abnormally large outflows, fueling concerns that the platform could be a target for a multi-million dollar exploit.&nbsp;</p>
-<p>Binance no longer supports deposits and withdrawals for several cross-chain bridge tokens linked with the Multichain project.&nbsp;</p>
-<p>Ethereum founder Vitalik Buterin has expressed his sympathy and concerns for Solana and other cryptocurrencies in the context of the SEC&rsquo;s crackdown on the crypto markets.&nbsp;</p>
-Technology
-<p>The Open Network (TON) has announced the release of an on-chain encrypted messaging feature, allowing private messages between TON users.&nbsp;</p>
-Business
-<p>After Cameron Winklevoss penned an open letter threatening litigation against Barry Silbert over the latter&rsquo;s role in the Gemini Earn Program, cryptocurrency exchange Gemini is suing DCG, the parent company of bankrupt crypto broker Genesis.</p>
-<p>A new currency pegged to commodities, particularly gold, will be announced at the BRICS summit on August 22.</p>
-<p>Crypto Exchange Bitfinex has announced that it has recovered some of the stolen assets from the 2016 Bitcoin hack but stated that a considerable number of assets are still yet to be recovered.&nbsp;</p>
-<p>The Indian government has partnered with Polygon and Airchains in order to develop a blockchain-based land ownership system.&nbsp;</p>
-<p>McDermott Will &amp; Emery, the law firm representing Voyager&rsquo;s committee of unsecured creditors, has sent the group a staggering bill of over $5 million for the work it has done between March and May.</p>
-<p>Co-founders of bankrupt crypto hedge fund Three Arrows Capital plan to donate their future earnings from their new venture to creditors who lost money.&nbsp;</p>
-<p>Cryptocurrency exchange LBank has announced the launch of the first unlimited crypto credit card.</p>
-Regulation
-<p>Israel is considering a bill that would exempt foreign residents from capital gains tax on the sale of digital assets and reduce tax on crypto options from 50% to about 25%.&nbsp;</p>
-<p>Investigators from the United States Commodity Futures Trading Commission (CFTC) have concluded that Celsius and its former CEO, Alex Mashinsky broke several US laws.&nbsp;</p>
-<p>The UK parliament has passed a bill that could help the authorities seize and freeze cryptocurrencies used for crime.&nbsp;</p>
-<p>According to a recent report by the FATF, more than half of all UN member countries still need to implement the Travel Rule.</p>
-<p>South Africa&rsquo;s financial regulator has ordered crypto exchanges in the country to apply for licenses before the end of the year to continue operating.</p>
-<p>In an attempt to combat fraud, Belarus is looking to put an end to peer-to-peer crypto exchanges.&nbsp;</p>
-NFT
-<p>Blur founder, Pacman, defends his NFT marketplace against accusations that the platform&rsquo;s strategies crashed the NFT market as the floor price of the Bored Ape Yacht Club NFT collection has dropped to the lowest in the last 20 months.&nbsp;</p>
-<p>Members of the Azuki decentralized autonomous organization have initiated a Snapshot proposal to hold the project&rsquo;s founder accountable over allegations of misconduct.&nbsp;</p>
-Security
-<p>The Poly Network has fallen victim to another exploit after hackers manipulated a smart contract function on the cross-chain bridge protocol. According to security analysts, hackers allegedly leveraged a vulnerability in the smart contract system to mint an unlimited amount of tokens.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></description>
-			  <content:encoded><![CDATA[<p>Looks like Cameron Winklevoss made good on his promise of pursuing legal action against DCG CEO Barry Silbert after the latter failed to meet his final offer payment of $1.47 million. Let&rsquo;s find out more.&nbsp;</p>
-Bitcoin&nbsp;
-<p>Google Cloud's recently announced a partnership with infrastructure provider Voltage, unveiling a new trajectory for the tech giant's Bitcoin and Lightning ambitions.</p>
-<p>Lightning Labs, the primary Bitcoin Lightning Network development firm, has rolled out a revolutionary set of tools designed for AI applications.</p>
-<p>A recent report by JP Morgan looks to play down the effect that the approval of a Spot Bitcoin ETF might bring to the crypto sector.</p>
-<p>Bitcoin miners have raked in an impressive revenue of $184 million in the second quarter of 2023, breaking previous records.&nbsp;</p>
-<p>Perhaps because of incredibly bullish statements by Blackrock CEO Larry Fink, Bitcoin has set a new yearly high with expectations of going much higher.</p>
-Ethereum
-<p>Ethereum Name Service Labs has announced plans to introduce Layer 2 interoperability for its ENS domains during a community call on June 28.</p>
-DeFi
-<p>In the wake of a series of high-profile security breaches plaguing the DeFi space, a group of Ethereum community members has put forth a new standard, ERC 7265, aiming to enhance the security of DeFi protocols.&nbsp;</p>
-<p>The latest statement from the Uniswap Foundation has claimed that the launch of version 4 of the protocol depends on Ethereum&rsquo;s upcoming Cancun upgrade.&nbsp;</p>
-Altcoins
-<p>The Multichain MPC bridge platform has seen abnormally large outflows, fueling concerns that the platform could be a target for a multi-million dollar exploit.&nbsp;</p>
-<p>Binance no longer supports deposits and withdrawals for several cross-chain bridge tokens linked with the Multichain project.&nbsp;</p>
-<p>Ethereum founder Vitalik Buterin has expressed his sympathy and concerns for Solana and other cryptocurrencies in the context of the SEC&rsquo;s crackdown on the crypto markets.&nbsp;</p>
-Technology
-<p>The Open Network (TON) has announced the release of an on-chain encrypted messaging feature, allowing private messages between TON users.&nbsp;</p>
-Business
-<p>After Cameron Winklevoss penned an open letter threatening litigation against Barry Silbert over the latter&rsquo;s role in the Gemini Earn Program, cryptocurrency exchange Gemini is suing DCG, the parent company of bankrupt crypto broker Genesis.</p>
-<p>A new currency pegged to commodities, particularly gold, will be announced at the BRICS summit on August 22.</p>
-<p>Crypto Exchange Bitfinex has announced that it has recovered some of the stolen assets from the 2016 Bitcoin hack but stated that a considerable number of assets are still yet to be recovered.&nbsp;</p>
-<p>The Indian government has partnered with Polygon and Airchains in order to develop a blockchain-based land ownership system.&nbsp;</p>
-<p>McDermott Will &amp; Emery, the law firm representing Voyager&rsquo;s committee of unsecured creditors, has sent the group a staggering bill of over $5 million for the work it has done between March and May.</p>
-<p>Co-founders of bankrupt crypto hedge fund Three Arrows Capital plan to donate their future earnings from their new venture to creditors who lost money.&nbsp;</p>
-<p>Cryptocurrency exchange LBank has announced the launch of the first unlimited crypto credit card.</p>
-Regulation
-<p>Israel is considering a bill that would exempt foreign residents from capital gains tax on the sale of digital assets and reduce tax on crypto options from 50% to about 25%.&nbsp;</p>
-<p>Investigators from the United States Commodity Futures Trading Commission (CFTC) have concluded that Celsius and its former CEO, Alex Mashinsky broke several US laws.&nbsp;</p>
-<p>The UK parliament has passed a bill that could help the authorities seize and freeze cryptocurrencies used for crime.&nbsp;</p>
-<p>According to a recent report by the FATF, more than half of all UN member countries still need to implement the Travel Rule.</p>
-<p>South Africa&rsquo;s financial regulator has ordered crypto exchanges in the country to apply for licenses before the end of the year to continue operating.</p>
-<p>In an attempt to combat fraud, Belarus is looking to put an end to peer-to-peer crypto exchanges.&nbsp;</p>
-NFT
-<p>Blur founder, Pacman, defends his NFT marketplace against accusations that the platform&rsquo;s strategies crashed the NFT market as the floor price of the Bored Ape Yacht Club NFT collection has dropped to the lowest in the last 20 months.&nbsp;</p>
-<p>Members of the Azuki decentralized autonomous organization have initiated a Snapshot proposal to hold the project&rsquo;s founder accountable over allegations of misconduct.&nbsp;</p>
-Security
-<p>The Poly Network has fallen victim to another exploit after hackers manipulated a smart contract function on the cross-chain bridge protocol. According to security analysts, hackers allegedly leveraged a vulnerability in the smart contract system to mint an unlimited amount of tokens.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></content:encoded>
 			</item>
 					
 	</channel>
