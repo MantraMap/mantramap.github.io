@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Tue, 11 Jul 2023 12:48:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jul 2023 13:51:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DeFi Protocol Rodeo Finance Hacked; $1.53M of ETH Stolen</title>
+		<link>https://cryptobriefing.com/defi-protocol-rodeo-finance-hacked-1-53m-of-eth-stolen/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 13:51:44 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=125103</guid>
+
+					<description><![CDATA[Rodeo Finance, a DeFi protocol residing on the Arbitrum blockchain, suffered its second significant exploit on July 11, resulting in a loss of 472 ETH, equating to approximately $888,000 million....]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/10055220/emilytonelli_decentralized_finance_hack_stealing_crypto_tokens_cd5e10a7-ab36-434d-a369-0ee04e86db6b-868x434.png" width="868" height="434" />	</item>
+		<item>
 		<title>Bitcoin ATMs are Numbered As UK Financial Watchdog Cracks Down</title>
 		<link>https://cryptobriefing.com/bitcoin-atms-are-numbered-in-uk/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -450,20 +464,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2020/11/02092419/SEC-justice-libra-cover-838x440.jpg" width="838" height="440" />	</item>
-		<item>
-		<title>Thailand Restricts Crypto Custodial and Lending Services</title>
-		<link>https://cryptobriefing.com/thailand-restricts-crypto-custodial-and-lending-services/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
-		<pubDate>Mon, 03 Jul 2023 14:55:49 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=124878</guid>
-
-					<description><![CDATA[In an effort to strengthen investor protection in the digital asset space, Thailands Securities and Exchange Commission (SEC) has rolled out a fresh set of directives for firms offering digital...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/03104304/emilytonelli_Thailand_with_crypto_symbols_40eb79e7-e0fd-42c6-8f83-a98ff002e74c-868x434.png" width="868" height="434" />	</item>
 	</channel>
 </rss>
