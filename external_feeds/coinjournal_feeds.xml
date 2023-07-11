@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Tue, 11 Jul 2023 13:29:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jul 2023 13:35:41 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rodeo Finance exploited for the second time in a week, $1.53M lost</title>
+		<link>https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/</link>
+					<comments>https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 13:35:41 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/</guid>
+
+					<description><![CDATA[<p>Rodeo Finance is an Arbitrum-based decentralized finance (DeFi) protocol. The hacker manipulated price oracles and executed trades using the manipulated price. The price of Rodeo Finance&#8217;s native token has plunged 54% after the hack. On July 11, the Arbitrum-powered decentralised finance (DeFi) protocol Rodeo Finance was hacked resulting in the loss of 810 Ether (ETH) [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/">Rodeo Finance exploited for the second time in a week, $1.53M lost</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul class="decimal_type">
+<li>Rodeo Finance is an Arbitrum-based decentralized finance (DeFi) protocol.</li>
+<li>The hacker manipulated price oracles and executed trades using the manipulated price.</li>
+<li>The price of Rodeo Finance&rsquo;s native token has plunged 54% after the hack.</li>
+</ul>
+<p>On July 11, the Arbitrum-powered decentralised finance (DeFi) protocol Rodeo Finance was hacked resulting in the loss of 810 Ether (ETH) worth $1.53 million. The DEX was exploited using a code vulnerability in its Oracle.</p>
+<p>Peckshield, a blockchain analytics company, revealed data showing that the exploiter eventually transferred the stolen funds from Arbitrum to <a href="https://coinjournal.net/ethereum/what-is-ethereum/">Ethereum</a> and exchanged 285 ETH for $unshETH. The ETH was subsequently placed on ETH2 staking by the exploiter. Last but not least, the exploiter used Tornado Cash, a well-known mixer service, to route the stolen ETH.</p>
+<h2>Time-Weighted Average Price (TWAP) Orcale manipulation</h2>
+<p>The hacker manipulated the Rodeo&rsquo;s Time-Weighted Average Price (TWAP) Orcale and tampered with the pricing of the ETH.</p>
+<p>The TWAP Oracle is used by DeFi protocols to calculate the average price of assets for a specific time frame to mitigate price fluctuation due to the volatility in the crypto market. However, it is vulnerable to manipulations through artificial skewing of the calculated average prices of assets.</p>
+<p>The exploiter first borrowed a large sum of ETH and then artificially manipulated the price to buy the same asset at a deflated price. Later the hacker returned the loan and made a profit based on the low price after the manipulations.</p>
+<h2>Rodeo&rsquo;s TVL drops significantly</h2>
+<p>Besides causing the Rodeo Finance (RDO) token to tumble 54%, the hack has also caused the total value locked (TVL) in Rodeo to drastically fall.</p>
+<p>Before the hack, the DeFi protocol had $20 million in TVL, but it has since dropped below $500 after the hack.</p>
+<p>This is the second time that Rodeo Finance is being hacked in July 2023. It was hacked again on July 5, 2023, and $89,000 worth of crypto assets were lost due to a vulnerability in its &lsquo;mintProtocolReserves&rsquo; function.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/">Rodeo Finance exploited for the second time in a week, $1.53M lost</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/rodeo-finance-exploited-for-the-second-time-in-a-week-1-53m-lost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Shiba Memu presale: Meet the robot meme dog with a touch of AI genius</title>
 		<link>https://coinjournal.net/news/shiba-memu-presale-meet-the-robot-meme-dog-with-a-touch-of-ai-genius/</link>
 					<comments>https://coinjournal.net/news/shiba-memu-presale-meet-the-robot-meme-dog-with-a-touch-of-ai-genius/#respond</comments>
@@ -420,52 +460,6 @@ info@pikamooncrypto.com</p>
 <p>The post <a rel="nofollow" href="https://coinjournal.net/news/bitcoin-price-forecast-2024-standard-chartered-analyst/">Bitcoin could hit $120,000 by the end of 2024: Standard Chartered</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Former SEC Chair says Bitcoin ETF approval &#8216;hard to resist&#8217;</title>
-		<link>https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/</link>
-					<comments>https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/#respond</comments>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Mon, 10 Jul 2023 20:25:36 +0000</pubDate>
-				<category><![CDATA[Policy and Regulation]]></category>
-		<category><![CDATA[Bitcoin ETF]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[US regulation]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/</guid>
-
-					<description><![CDATA[<p>Jay Clayton shared his opinion during an interview with CNBC on Monday. The former SEC chair says if applicants demonstrate efficacy and have surveillance, it would be hard for the SEC to deny a spot Bitcoin ETF. BlackRock, Fidelity and others have market surveillance agreements with Coinbase. The US Securities and Exchange Commission (SEC) has [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/">Former SEC Chair says Bitcoin ETF approval &#8216;hard to resist&#8217;</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">Jay Clayton shared his opinion during an interview with CNBC on Monday.</li>
-<li dir="ltr">The former SEC chair says if applicants demonstrate efficacy and have surveillance, it would be hard for the SEC to deny a spot Bitcoin ETF.</li>
-<li dir="ltr">BlackRock, Fidelity and others have market surveillance agreements with Coinbase.</li>
-</ul>
-<p dir="ltr">The US Securities and Exchange Commission (SEC) has so far denied all the applications for a spot <a href="https://coinjournal.net/news/tag/bitcoin-etf/">Bitcoin ETF</a> to come before it.</p>
-<p dir="ltr">But now might be the time the regulator gives a seal of approval to the product, former SEC Chair Jay Clayton said on Monday.&nbsp;</p>
-<p dir="ltr">&ldquo;<em>If they&rsquo;re right that the spot market has similar efficacy to the futures market, it would be hard to resist approving a bitcoin ETF</em>,&rdquo; Clayton <a href="https://twitter.com/SquawkCNBC/status/1678381857367289856" rel="noopener noreferrer" target="_blank">told</a> CNBC&rsquo;s Squawk Box.</p>
-<p dir="ltr">
-</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">"I was very skeptical with trading in the <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> market when I was SEC Chair," says Jay Clayton. "But if you can demonstrate that the spot market has similar efficacy to the futures market, it would be hard to resist approving a <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> ETF." <a href="https://t.co/mig05ZUwIL">pic.twitter.com/mig05ZUwIL</a></p>
-<p>&mdash; Squawk Box (@SquawkCNBC) <a href="https://twitter.com/SquawkCNBC/status/1678381857367289856?ref_src=twsrc%5Etfw">July 10, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<h2 dir="ltr">SEC&rsquo;s approval of futures ETFs</h2>
-<p dir="ltr">This is the argument that applicants have put forth, particularly with BlackRock, Fidelity and others taking steps to comply with requirements previously cited as reasons for SEC&rsquo;s disapproval.&nbsp;</p>
-<p dir="ltr">Notably, proposals by the Cboe and Nasdaq have included market surveillance agreements &ndash; the so-called surveillance sharing agreement (SSA) with major cryptocurrency exchange Coinbase.</p>
-<p dir="ltr">Noting this, and the fact that the SEC has approved futures-based ETFs on this basis, Clayton added:</p>
-<p dir="ltr">&ldquo;<em>When the SEC approved a futures-based ETF, they said &lsquo;let&rsquo;s look at the futures market, we see the surveillance, we see the protections in that market for the investor, that are sufficient. We don&rsquo;t see them in the spot market, so we&rsquo;re going to make that distinction&rsquo;. I think what the institutions are arguing is that those distinctions have gone away and that the spot product is now less drag, more efficient for the investor</em>.&rdquo;</p>
-<p dir="ltr">With no delta in regulation and efficacy, the SEC will have to approve a first spot Bitcoin ETF for the US market. As highlighted earlier, Clayton believes it would be &ldquo;hard&rdquo; for SEC to &ldquo;resist&rdquo; a spot ETF any further if applicants prove efficacy.</p>
-<p dir="ltr">As CoinJournal <a href="https://coinjournal.net/news/secs-spot-bitcoin-etf-approval-fairly-high-bernstein/">reported</a> last week, analysts at $650 billion asset manager Bernstein noted that chances of a spot Bitcoin ETF approval are &ldquo;fairly high.&rdquo;</p>
-<p dir="ltr">The crypto market has been largely optimistic of an approval ever since BlackRock filed its proposal in mid-June. The optimism was reflected in the price of Bitcoin rallying after the news to reach a new year-to-date high above $31k last month.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/">Former SEC Chair says Bitcoin ETF approval &#8216;hard to resist&#8217;</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/former-sec-chair-says-bitcoin-etf-approval-hard-to-resist/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
