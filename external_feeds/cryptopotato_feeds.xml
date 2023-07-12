@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Tue, 11 Jul 2023 14:48:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Jul 2023 17:10:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,175 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Arkham May Have Inadvertently Doxxed Many of its Users</title>
+		<link>https://cryptopotato.com/arkham-may-have-inadvertently-doxxed-many-of-its-users/</link>
+		
+		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 23:45:43 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=259813</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Arkham_Dox.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Arkham_Dox.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Arkham recently announced a tool that deanonymizes blockchain users on one hand and was exposed for poor data protection on the other.
+]]></description>
+            																<content:encoded><![CDATA[<p>Arkham Intelligence, a blockchain sleuthing company in the vein of Chainalysis and others, recently announced the release of a platform to deanonymize and trade information pertaining to blockchain users, as well as the release of a new ARKM token to go with it.</p>
+<h2>Snitching as a Service</h2>
+<p>Touted as “the world’s first on-chain intelligence exchange,” Arkham Intelligence will allow users of the service to <a href="https://www.arkhamintelligence.com/announcements/arkham-intel-exchange" data-wpel-link="external" target="_blank">post bounties</a> for any information on blockchain users.</p>
+<blockquote><p>“Our vision for the Intel Exchange is a decentralized intel-to-earn economy powered by smart contracts, in which any sleuth can earn based on their skills &amp; experience. As such, all transactions on the Arkham Marketplace will take place through smart contracts audited by our partner Quantstamp.”</p></blockquote>
+<p>There are no limitations on what kind of information can be requested, although the company did promise to ban spammers and those submitting low-quality information.</p>
+<p>Once the information requested has been uncovered, the person who posted the bounty will have a 90-day exclusivity period to use the newly gleaned information as they see fit. After this period, the info will become a part of Arkham’s public database.</p>
+<p>Naturally, the announcement of a tool that could strip away one of the main things that attract some users to blockchain technology left the crypto community divided, with some <a href="https://twitter.com/hudsonjameson/status/1678384583576891393" data-wpel-link="external" target="_blank">accusing</a> Arkham of trying to become the arbiter of good and evil.</p>
+<p>More cynical users also chimed in, reminding others that this platform could very easily be employed to uncover the identities of whales, who could be targeted online or in real life – much like what happened following the Ledger Wallet <a href="https://cryptopotato.com/ledger-admits-users-data-leaked-amid-the-shopify-incident-in-april-june-2020/" data-wpel-link="internal">leak</a>.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Announcing The World’s First On-Chain Intelligence Exchange</p>
+<p>Buy and sell information on the owner of any blockchain wallet address—anonymously, via smart contract. <a href="https://t.co/4xr7dLvOjp" data-wpel-link="external" target="_blank">pic.twitter.com/4xr7dLvOjp</a></p>
+<p>— Arkham (@ArkhamIntel) <a href="https://twitter.com/ArkhamIntel/status/1678339355314900992?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Meanwhile, Arkham seems to have gotten a head start in the game of deanonymizing the blockchain – starting with its own fans.</p>
+<h2>Doxxing Their Own Userbase</h2>
+<p>Shortly after announcing the launch of its new service, Arkham came under fire for doxing its own users via the referral links for the platform’s waiting list.</p>
+<p>The referral, which was thought to contain a random string of numbers, actually encoded the email address of the user using BASE64 – an encryption algorithm that is trivially easy to <a href="https://www.base64decode.org/" data-wpel-link="external" target="_blank">decode</a>.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">ABSOLUTE LMAO. ALL <a href="https://twitter.com/hashtag/ARKHAM?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#ARKHAM</a> REFERRAL LINKS SHARED ON TWITTER IS DOXXING EVERYONE BECAUSE THE EMAIL IS IN THE REFERRAL URL. <a href="https://twitter.com/inversebrah?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@inversebrah</a><a href="https://t.co/HM6veJOmNp" data-wpel-link="external" target="_blank">https://t.co/HM6veJOmNp</a> -&gt; bkatmis012@gmail.com <a href="https://t.co/1INvtXLEva" data-wpel-link="external" target="_blank">https://t.co/1INvtXLEva</a> <a href="https://t.co/m38VnNMS8k" data-wpel-link="external" target="_blank">pic.twitter.com/m38VnNMS8k</a></p>
+<p>— m4gicpotato ⟁ (@m4gicpotato) <a href="https://twitter.com/m4gicpotato/status/1678462447005618176?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Some users even accused Arkham of doing it on purpose, as a company centered around sleuthing would be unlikely to commit such a huge mistake accidentally.</p>
+<p>The post <a href="https://cryptopotato.com/arkham-may-have-inadvertently-doxxed-many-of-its-users/" rel="nofollow">Arkham May Have Inadvertently Doxxed Many of its Users</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Paradigm Criticizes SEC&#8217;s Actions Against Bittrex in New Amicus Brief Filing</title>
+		<link>https://cryptopotato.com/paradigm-criticizes-secs-actions-against-bittrex-in-new-amicus-brief-filing/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 21:37:48 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bittrex]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Paradigm]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=259794</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/The_SEC.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/The_SEC.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[ Paradigm's amicus brief claims that the SEC has overstepped its jurisdiction.]]></description>
+            																<content:encoded><![CDATA[<p>Crypto investment company Paradigm has filed an amicus brief in the US Securities and Exchange Commission&#8217;s (SEC) case against Bittrex, claiming that the regulator is &#8220;wrongfully attempting to lay claim over crypto secondary markets.&#8221;</p>
+<p>The brief filed on July 7th stated that the case against the US-based crypto exchange should be dismissed. It argued that the SEC cannot support extending the Howey test to determine that secondary market sales are investment contract transactions relies upon an unreasonable use of that test to make its claims.</p>
+<h2>Paradigm&#8217;s Amicus Brief</h2>
+<p>The SEC <a href="https://cryptopotato.com/bittrex-receives-wells-notice-from-sec-for-violating-investor-protection-laws/" target="_blank" rel="noopener" data-wpel-link="internal">charged</a> Bittrex in April for allegedly operating an unregistered securities exchange, broker, and clearing agency just weeks after the crypto exchange <a href="https://cryptopotato.com/bittrex-to-close-operations-in-the-us-due-to-regulatory-hurdles/" target="_blank" rel="noopener" data-wpel-link="internal">announced</a> the termination of its US operations. Two other crypto weights &#8211; Coinbase and Binance &#8211; are also facing similar charges by the SEC.</p>
+<p>Paradigm noted that the claims made by the financial regulator against Bittrex and the other crypto exchanges are &#8220;fundamentally different&#8221; from its many prior cases against token sellers. The previous ones witnessed the SEC exercising its authority to regulate fundraising schemes under the Howey test.</p>
+<p>This, however, changed in the recent cases targeting crypto exchanges. Paradigm argued that the SEC is attempting to expand its authority past the initial fundraising transactions to incorporate &#8220;downstream&#8221; sales of crypto assets.</p>
+<blockquote><p>&#8220;The SEC lacks the authority to regulate secondary markets for crypto assets because they do not involve &#8216;investment contracts&#8217; and are therefore not securities transactions under the agency&#8217;s remit.&#8221;</p></blockquote>
+<p>The investment firm&#8217;s <a href="https://policy.paradigm.xyz/assets/writing/bittrex-41-1.pdf" target="_blank" rel="noopener" data-wpel-link="external">amicus brief</a> claims that even if a crypto asset was first sold in a fundraising transaction, the financial regulator has &#8220;no legal basis&#8221; to argue that the asset itself &#8220;embodies an investment contract, or that secondary market transactions in that asset are investment contract transactions.&#8221;</p>
+<h2>Amicus Brief for Coinbase</h2>
+<p>Paradigm, led by Coinbase co-founder Fred Ehrsam, <a href="https://policy.paradigm.xyz/assets/writing/Coinbase-Amicus-File-Marked.pdf" target="_blank" rel="noopener" data-wpel-link="external">petitioned</a> to file an amicus brief in support of Coinbase in May, a month after the San Francisco-based crypto exchange received a Wells notice from the SEC.</p>
+<p>The investment firm backed the exchange&#8217;s legal action against the agency, claiming that it had &#8220;a strong interest&#8221; in ensuring the financial regulator is held accountable for its delays in the company&#8217;s petitions.</p>
+<p>The filing also criticized the SEC&#8217;s failure to provide clear rules or guidance for digital asset firms in the country.</p>
+<p>The post <a href="https://cryptopotato.com/paradigm-criticizes-secs-actions-against-bittrex-in-new-amicus-brief-filing/" rel="nofollow">Paradigm Criticizes SEC&#8217;s Actions Against Bittrex in New Amicus Brief Filing</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Brazilian CBDC Could Reportedly Allow Government to Freeze or Manipulate Accounts</title>
+		<link>https://cryptopotato.com/brazilian-cbdc-could-reportedly-allow-government-to-freeze-or-manipulate-accounts/</link>
+		
+		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 20:05:28 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Brazil]]></category>
+		<category><![CDATA[CBDC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=259875</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/02/Brazil_Flag.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/02/Brazil_Flag.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The source code for the Brazilian CBDC in testing was analyzed by blockchain dev Pedro Magalhães.
+]]></description>
+            																<content:encoded><![CDATA[<p>Brazil has been developing a CBDC for some time now. If all goes according to plan, the digital Real will be launched sometime in 2024.</p>
+<p>Once launched, it would support retail payments for anyone inclined to use it, backing up the payment with funds in the users’ bank accounts.</p>
+<h2>Planning Ahead</h2>
+<p>The Brazilian CBDC would not, however, interfere with other payment methods common in Brazil, such as Pix.</p>
+<p>According to a <a href="https://cryptopotato.com/brazil-begins-cbdc-pilot-with-public-use-scheduled-for-2024-report/" data-wpel-link="internal">spokesman</a> for the Brazilian government, the decision to push on with the CBDC project was taken in order to open up new avenues for technological improvement. The digital Real could also potentially reduce the cost of credit and other customer-facing financial products, allowing the banks to reach a wider customer base.</p>
+<blockquote><p>“This could reduce the cost of credit, the cost of improving the return on investments. There is a great potential for new service providers, fintech, democratizing access to the market and offering new services.”</p></blockquote>
+<p>Unfortunately, the current iteration of the Brazilian CBDC contains some interesting code that could allow the government to directly interfere with users’ wallets.</p>
+<h2>Possible Attack on Privacy</h2>
+<p>Although there is no shortage of CBDC advocates, many in the tech sphere have long been suspicious of government-backed digital currencies. According to critics, a CBDC removes the beneficial aspects of decentralization and anonymity from cryptocurrencies, essentially transforming them into the same abstract figure shown in your bank balance.</p>
+<p>Digital currencies would therefore subject to fractional lending and similar practices, with no real incentive for consumers to use them.</p>
+<p>An overreaching government, however, would probably be very interested in technology that would keep a permanent and immutable list of financial transactions.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">5/ In addition to operations such as “minting” Real Digital tokens and enabling/disabling target accounts, explained in the documentation, a developer found other functions by applying reverse engineering techniques to the material made available by the Central Bank.</p>
+<p>— Vini Barbosa (@vinibarbosabr) <a href="https://twitter.com/vinibarbosabr/status/1678511787610603523?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>After reviewing the <a href="https://github.com/bacen/pilotord-kit-onboarding" data-wpel-link="external" target="_blank">source code</a> for the digital Real, full-stack developer Pedro Magalhães submitted his <a href="https://www.linkedin.com/posts/pemagalhaes_github-ioralabsrealdigitalsmartcontracts-activity-7082009809549484032-Beqi/?utm_source=share&amp;utm_medium=member_desktop" data-wpel-link="external" target="_blank">findings</a> on LinkedIn.</p>
+<p>According to Magalhães, the source code contains some interesting functions that would allow the government to directly freeze and unfreeze accounts, move, create, and burn CBDC tokens in someone else’s account, and transfer assets on the user&#8217;s behalf.</p>
+<p>Although these functions might only be used in order to help banks offer loans and other financial products to customers or to track down financial crime, there are also much more sinister possibilities.</p>
+<p>For the moment, no comment on the matter has been made by any representative of the Brazilian government.</p>
+<p>The post <a href="https://cryptopotato.com/brazilian-cbdc-could-reportedly-allow-government-to-freeze-or-manipulate-accounts/" rel="nofollow">Brazilian CBDC Could Reportedly Allow Government to Freeze or Manipulate Accounts</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Grayscale Calls Out SEC For Approving Leveraged Bitcoin Futures ETF While Denying Spot</title>
+		<link>https://cryptopotato.com/grayscale-calls-out-sec-for-approving-leveraged-bitcoin-futures-etf-while-denying-spot/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 18:00:06 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin ETF]]></category>
+		<category><![CDATA[Grayscale]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260003</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/09/GrayscaleSEC.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/09/GrayscaleSEC.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The SEC can only end its “unequal” treatment of Bitcoin ETPs by approving Grayscale’s spot ETF, said the company.]]></description>
+            																<content:encoded><![CDATA[<p>Grayscale, the owner of the world’s largest Bitcoin fund, has grown even more frustrated with the U.S. Securities and Exchange Commission (SEC) after the regulator approved a leveraged Bitcoin futures ETF last month.</p>
+<p>The firm has taken its complaint to the court, arguing that the approval strengthens its case that the SEC’s denial of its Bitcoin spot ETF application is “discriminatory.”</p>
+<h2>2X Futures VS Spot: What’s Riskier?</h2>
+<p>In a <a href="https://twitter.com/Grayscale/status/1678431528156794880/photo/1" data-wpel-link="external" target="_blank">letter</a> to the Court of Appeals for the DC Circuit on Monday, Grayscale explained the risks involved with the Volatility Shares’ 2x Bitcoin Strategy ETF (BITX), which the SEC allowed to begin trading on June 27.</p>
+<p>The leverage product, which raised eyebrows in the crypto industry weeks ago, seeks to double the performance of the S&amp;P 500 CME Bitcoin Futures Daily Roll Index each day.</p>
+<p>“As a result, it exposes investors to an even riskier investment product than traditional Bitcoin futures exchange-traded products, which encompass risks related to both the futures and spot bitcoin markets,” Grayscale wrote.</p>
+<p>Since October 2021, the SEC has approved an array of Bitcoin Futures ETFs for public trading, including a <a href="https://cryptopotato.com/grayscale-ceo-the-launch-of-short-bitcoin-etf-is-positive-for-crypto/" data-wpel-link="internal">short-linked</a> ETF last year. At the time, Grayscale CEO Michael Sonnhenshein saw the approval optimistically, believing the SEC was growing more comfortable with Bitcoin-related products across the board.</p>
+<p>Days later, however, the agency denied Grayscale’s filing to convert the Grayscale Bitcoin Trust (OTCMKTS: GBTC) into a spot ETF, arguing that the underlying Bitcoin spot market contains risks of market manipulation that could harm investors.</p>
+<p>Yet according to Grayscale, the recently approved BITX is much riskier: the fund’s registration statement itself states that it “may only be suitable for knowledgable investors,” and that such investors could “potentially lose the full value of their investment within a single day.”</p>
+<h2>The Case Against The SEC</h2>
+<p>The registration statement noted that the ETF invests in CME Bitcoin futures contracts, whose value “depends on, or is derived from, the underlying reference asset” – ie. “bitcoin.”</p>
+<p>One of Grayscale’s core legal arguments against the SEC is that CME Bitcoin Futures – the market with which it intends to form a surveillance-sharing agreement (SSA) for its spot Bitcoin ETF – are directly linked to the Bitcoin spot market.</p>
+<p>While the SEC has argued otherwise, judges overseeing the case appeared more sympathetic to Grayscale’s arguments during <a href="https://cryptopotato.com/judges-scrutinize-sec-during-oral-arguments-in-grayscale-lawsuit/" data-wpel-link="internal">oral arguments</a> in March.</p>
+<p>“The only way to eliminate the SEC’s unequal treatment of bitcoin-based ETPs is to allow proposed spot Bitcoin ETPs like Grayscale’s to begin trading,” concluded the company.</p>
+<p>Bitcoin surged last month after asset management giant BlackRock filed for a Bitcoin spot ETF, stoking optimism that it might be the first to please the SEC. Unlike Grayscale, the company has <a href="https://cryptopotato.com/coinbase-stock-surges-12-as-blackrock-names-it-as-surveillance-partner/" data-wpel-link="internal">confirmed</a> that it will form a SSA with the spot Bitcoin exchange Coinbase.</p>
+<p>Uncertainty around BlackRock’s filing still looms, however: commercial litigator Joe Carlasare <a href="https://cryptopotato.com/will-the-sec-approve-a-bitcoin-spot-etf-in-2023-lawyer-breaks-down-the-odds/" data-wpel-link="internal">told</a> CryptoPotato this month that Coinbase may not be considered adequate by the SEC for detecting market manipulation, since it only comprises ~2% of global Bitcoin trading volume.</p>
+<p>The post <a href="https://cryptopotato.com/grayscale-calls-out-sec-for-approving-leveraged-bitcoin-futures-etf-while-denying-spot/" rel="nofollow">Grayscale Calls Out SEC For Approving Leveraged Bitcoin Futures ETF While Denying Spot</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Algorand&#8217;s Largest DeFi Protocol Shutting Down Operations</title>
+		<link>https://cryptopotato.com/algorands-largest-defi-protocol-shutting-down-operations/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 16:45:50 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=259887</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/algofi_shut_down_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/algofi_shut_down_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Algofi will remain active only on Discord and will shut down all the other social media channels. ]]></description>
+            																<content:encoded><![CDATA[<p>Algorand-based decentralized finance (DeFi) protocol, Algofi, has announced winding down its operations.</p>
+<p>In a statement, Algofi cited a &#8220;confluence of events&#8221; as the reason behind its decision that has rendered it no longer viable to continue building and maintaining the platform to the &#8220;highest standards.&#8221; As a result, the platform will soon transition to withdrawal-only mode.</p>
+<ul>
+<li>The DeFi platform <a href="https://blog.algofi.org/algofi-community-update-3cc989962d57" target="_blank" rel="noopener" data-wpel-link="external">revealed</a> that closing down all the social media platforms associated with the platform except Discord in a bid to ensure &#8220;seamless, unified communication.&#8221;</li>
+<li>The process of winding down the protocol is estimated to take several months.</li>
+<li>In the meantime, the team will work on reducing the collateral factors of the digital asset markets on its platform, enabling liquidity to migrate to other protocols.</li>
+</ul>
+<blockquote><p>&#8220;This is obviously not the outcome any of us on the team or in the community hoped for at the outset of this project. We can’t thank the Algorand community enough for their support throughout this journey and can’t wait to see what comes next for Algorand.&#8221;</p></blockquote>
+<ul>
+<li>Algofi is the largest DeFi hub in Algorand boasting a TVL of $32.36 million and accounting for nearly 55% of the layer 1 ecosystem&#8217;s value.</li>
+<li>According to the latest data compiled by DeFiLlama, TVL hit an all-time high of $134 million earlier in February this year, since then, the figures have gone downhill.</li>
+<li>Zooming out, Algorithm&#8217;s TVL has also <a href="https://defillama.com/chain/Algorand" target="_blank" rel="noopener" data-wpel-link="external">plummetted</a> by over 73% since its peak of $218 million last November to $58.35 million at the time of writing.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/algorands-largest-defi-protocol-shutting-down-operations/" rel="nofollow">Algorand&#8217;s Largest DeFi Protocol Shutting Down Operations</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Mr. Hankey Coin Set for $500k Presale Launch This Week with New Meme Coin Expected to Go Viral</title>
 		<link>https://cryptopotato.com/mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral/</link>
 		
@@ -202,238 +371,6 @@
 <p><span data-preserver-spaces="true">Others like MicroStrategy&#8217;s Executive Chairman &#8211; Michael Saylor &#8211; and Ark Invest&#8217;s CEO &#8211; Cathie Wood &#8211; have </span><a class="editor-rtfLink" href="https://cryptopotato.com/we-see-btc-at-1-million-michael-saylor-and-cathie-wood-at-bitcoin-2022-in-miami/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">predicted</span></a><span data-preserver-spaces="true"> an even brighter future for BTC, suggesting its price could hit $1 million, albeit within a different timeframe.</span></p>
 <p><span data-preserver-spaces="true">Similar to Kiyosaki, Wood opined that the digital asset is a &#8220;huge hedge&#8221; against inflation. She also thinks it could be employed against deflation and counterparty risk.</span></p>
 <p>The post <a href="https://cryptopotato.com/bitcoin-will-explode-to-120k-in-2024-the-us-dollar-will-die-rober-kiyosaki/" rel="nofollow">Bitcoin Will Explode to $120K in 2024, the US Dollar Will Die: Robert Kiyosaki</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Ethereum Tumbles 5% Weekly, Here&#8217;s the Imminent Support to Watch (ETH Price Chart)</title>
-		<link>https://cryptopotato.com/ethereum-tumbles-5-weekly-heres-the-imminent-support-to-watch-eth-price-chart/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 12:47:08 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[ETH Analysis]]></category>
-		<category><![CDATA[ETHBTC]]></category>
-		<category><![CDATA[ETHUSD]]></category>
-		<category><![CDATA[Ethereum (ETH) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259663</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-10-2023-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-10-2023-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum&#8217;s price has been oscillating in a tight range below the $2,000 psychological resistance level, failing to break higher. Yet, several support zones are available for investors to feel confident that the market will not crash. Technical Analysis By: Edris The Daily Chart: On the daily chart, the price has been going through choppy action, [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ethereum&#8217;s price has been oscillating in a tight range below the $2,000 psychological resistance level, failing to break higher. Yet, several support zones are available for investors to feel confident that the market will not crash.</p>
-<h2>Technical Analysis</h2>
-<p>By: Edris</p>
-<h3>The Daily Chart:</h3>
-<p>On the daily chart, the price has been going through choppy action, following the breakout above the $1,800 level and the 50-day moving average around the $1,850 mark.</p>
-<p>The aforementioned moving average is currently providing support for the market. However, in case of a breakdown, the $1,800 level and the 200-day moving average trending around the $1,700 mark are potential support elements for the price to rebound.</p>
-<p>Moreover, the RSI indicator provides little insight into this timeframe, as it has been running flat around the 50% threshold, indicating momentum equilibrium.</p>
-<figure id="attachment_259921" aria-describedby="caption-attachment-259921" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-259921 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-scaled.jpg" alt="eth_price_chart_1107231" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-11-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-259921" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart:</h3>
-<p>Things look a bit clearer on the 4-hour chart, as the price has been rejected from the $1,920 resistance level recently. The short-term support level at the $1,840 mark is currently being tested, holding ETH from dropping further.</p>
-<p>However, there is a high probability for the mentioned level to break down, resulting in a sharp decline toward the $1,760 support zone. On the other hand, if ETH breaks above the $1,920 area, the market will likely enter a bullish phase once more, with the price surging toward the $2,000 level and even higher in the coming weeks.</p>
-<figure id="attachment_259922" aria-describedby="caption-attachment-259922" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-259922 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-scaled.jpg" alt="eth_price_chart_1107232" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-11-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-259922" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h2>Sentiment Analysis</h2>
-<p>By: Edris</p>
-<h3>Ethereum Taker Buy Sell Ratio</h3>
-<p>Ethereum has been consolidating lately, failing to break above the key $2,000 level. While the spot market seems strong, the derivatives market is seemingly responsible for the price&#8217;s failure to rally higher.</p>
-<p>This chart represents the taker buy-sell ratio (with a 100-day exponential moving average applied), which is a useful metric in evaluating the futures market sentiment. Values above 1 indicate aggressive buying pressure; values below 1 are associated with dominant selling pressure.</p>
-<p>Analyzing the chart, it is evident that the metric has once again failed to rise above 1 and is currently on a steep decline. This signal indicates that futures traders are aggressively shorting ETH, as they do not expect the market to break above the $2,000 level.</p>
-<p>The resulting selling pressure is currently preventing the market from continuing its uptrend. However, in case the spot market demand prevails against the futures market supply, a bullish breakout higher would be imminent.</p>
-<figure id="attachment_259666" aria-describedby="caption-attachment-259666" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-259666 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-scaled.jpg" alt="eth_taker_buy_sell_ratio_chart_1107231" width="2560" height="1616" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-300x189.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-1024x646.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-768x485.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-1536x970.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-2048x1293.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-10-2023-50x32.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-259666" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/ethereum-tumbles-5-weekly-heres-the-imminent-support-to-watch-eth-price-chart/" rel="nofollow">Ethereum Tumbles 5% Weekly, Here&#8217;s the Imminent Support to Watch (ETH Price Chart)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Calm Before the Storm? XRP Consolidates Under $0.5 Resistance (Ripple Price Analysis)</title>
-		<link>https://cryptopotato.com/calm-before-the-storm-xrp-consolidates-under-0-5-resistance-ripple-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 12:39:01 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[XRP Analysis]]></category>
-		<category><![CDATA[XRPBTC]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[Ripple (XRP) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259669</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ripple&#8217;s XRP has exhibited turbulent price action and high volatility since early April, leaving traders uncertain about the market’s future direction. However, it is likely that the price will continue to consolidate within the range defined by the 100-day and 200-day moving averages in the medium term. XRP Price Technical Analysis By Shayan The Daily [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ripple&#8217;s XRP has exhibited turbulent price action and high volatility since early April, leaving traders uncertain about the market’s future direction.</p>
-<p>However, it is likely that the price will continue to consolidate within the range defined by the 100-day and 200-day moving averages in the medium term.</p>
-<h2>XRP Price Technical Analysis</h2>
-<p>By Shayan</p>
-<h3>The Daily Chart</h3>
-<p>Taking a look at the daily chart, XRP&#8217;s price underwent a corrective consolidation phase, pulling back towards the 200-day moving average situated at $0.44.</p>
-<p>This retracement occurred after failing to surpass the key resistance region of $0.55. The $0.55 zone holds significant psychological resistance, as it has repeatedly hindered XRP price movements in the past. Notably, there is a considerable amount of supply in this region, indicating aggressive selling pressure.</p>
-<p>Nonetheless, the price is expected to remain within a dynamic range bounded by the resistance level of the 100-day moving average at $0.4828 and the support level of the 200-day moving average at $0.4372 in the short term. Consequently, a breakout from this critical range will likely determine Ripple&#8217;s next move.</p>
-<figure id="attachment_259924" aria-describedby="caption-attachment-259924" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-scaled.jpg" data-wpel-link="internal"><img class="wp-image-259924 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-scaled.jpg" alt="xrp_price_chart_1107231" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-daily-1-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-259924" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart</h3>
-<p>On the 4-hour timeframe, there has been a decline in the price below the mid-boundary of the channel, followed by a retracement and pullback. However, after completing the pullback to the broken level, XRP has started another downward movement, indicating a prevailing bearish sentiment in the market.</p>
-<p>Simultaneously, a descending wedge pattern has formed on the 4-hour timeframe, characterized by white trendlines. This pattern typically suggests a potential bullish move if the XRP price breaks above the upper trendline.</p>
-<p>Therefore, the cryptocurrency seems more likely to continue ranging within the descending wedge pattern until a breakout occurs. In the event of a breakout above the upper threshold, there is a possibility of an attempt toward the $0.55 resistance level.</p>
-<figure id="attachment_259925" aria-describedby="caption-attachment-259925" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-scaled.jpg" data-wpel-link="internal"><img class="wp-image-259925 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-scaled.jpg" alt="xrp_price_chart_1107232" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-2-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-259925" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/calm-before-the-storm-xrp-consolidates-under-0-5-resistance-ripple-price-analysis/" rel="nofollow">Calm Before the Storm? XRP Consolidates Under $0.5 Resistance (Ripple Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>New AI Crypto yPredict Generates Huge Interest &#038; Nears $3M Presale Milestone</title>
-		<link>https://cryptopotato.com/new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 12:09:01 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259905</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ypredict_cover-1.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ypredict_cover-1.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The fields of Web3 and artificial intelligence have been flourishing lately, helping produce an array of exciting crypto startups. Among these, yPredict ($YPRED) is creating quite a buzz with its innovative and ambitious features. Leveraging the power of advanced AI technology, yPredict offers an array of tools to provide crypto analytics, SEO solutions, and much [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>The fields of Web3 and artificial intelligence have been flourishing lately, helping produce an array of exciting crypto startups.</p>
-<p>Among these, <a href="https://bs_72a7e4de.cryptopotato.care/?referrer=new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">yPredict ($YPRED)</a> is creating quite a buzz with its innovative and ambitious features.</p>
-<p>Leveraging the power of advanced AI technology, yPredict offers an array of tools to provide crypto analytics, SEO solutions, and much more.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-9.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259912" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-9.jpg" alt="Picture1" width="602" height="213" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-9.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-9-300x106.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-9-50x18.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<h2>Reinventing SEO Strategies with yPredict’s Backlink Estimator</h2>
-<p>One of the key tools rolled out by yPredict is its AI-powered backlink estimator – a tool designed to revolutionize SEO strategies.</p>
-<p>This marks a significant milestone for yPredict as it expands its scope to offer content solutions for medium to large-scale teams, widening its target audience.</p>
-<p>This backlink estimator feature is trained on over 100 million links, with its main function being to predict the backlink profile needed for a site to rank a specific keyword.</p>
-<p>In turn, this eradicates the guesswork in SEO and allows for more precise strategies.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-11.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259911" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-11.jpg" alt="Picture2" width="602" height="252" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-11.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-11-300x126.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-11-50x21.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Originally launched as a free preview, the backlink estimator garnered over 5,000 requests within the first 24 hours.</p>
-<p>However, after its immediate success, the yPredict team has launched the tool to the masses – with a pricing structure of $99/query, per a recent <a href="https://twitter.com/yPredict_ai/status/1677305434636517376" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Tweet</a> from the official yPredict account.</p>
-<p>Interestingly, those who purchase $YPRED tokens through yPredict&#8217;s ongoing presale will have complete access to the backlink estimator tool and other models the development team has in the pipeline.</p>
-<p>This arrangement has further fueled interest in the yPredict ecosystem, with the project&#8217;s presale rapidly nearing the $3 million funding mark.</p>
-<p>Currently, would-be investors can purchase <a href="https://bs_72a7e4de.cryptopotato.care/?referrer=new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">$YPRED tokens</a> through this presale for just $0.09 &#8211; a discount on the planned exchange listing price.</p>
-<h2>yPredict’s Game-Changing Platform Revolutionizes Crypto Analytics</h2>
-<p>While the SEO tools mark a thrilling expansion of yPredict&#8217;s offerings, the core features of the platform are centered around crypto analytics.</p>
-<p>Per yPredict’s <a href="https://docs.ypredict.ai/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">whitepaper</a>, the platform seeks to be a game changer by offering state-of-the-art AI-powered tools that provide objective insights to traders worldwide.</p>
-<p>The yPredict platform uses machine learning models to analyze colossal amounts of price data, which allows it to identify trends and provide valuable market guidance to users.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-11.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259910" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-11.jpg" alt="Picture3" width="602" height="353" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-11.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-11-300x176.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-11-50x29.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Not only that, but the platform will also provide AI-driven trading signals, automated pattern recognition, and market sentiment analysis.</p>
-<p>yPredict has recently unveiled a beta version of the platform, inviting interested users to explore its capabilities by joining the project’s <a href="https://s.surveyplanet.com/h7p13rld" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">waitlist</a>.</p>
-<p>However, even if users choose not to utilize the yPredict Analytics suite, they can still access the yPredict Predictions platform for free, as long as they hold $YPRED tokens.</p>
-<p>This approach is designed by the yPredict team to make AI-powered crypto and stock price predictions accessible to all, effectively democratizing the process.</p>
-<h2>Alt_Pump_001 Model Unravels the Potential of Altcoins</h2>
-<p><a href="https://bs_72a7e4de.cryptopotato.care/?referrer=new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">yPredict</a> is also making strides by announcing Alt_Pump_001 – an AI-powered model designed to offer insights into the altcoin market.</p>
-<p>This groundbreaking tool equips investors with the means to identify future altcoins that have the potential to surge by 100x or more.</p>
-<p>Despite being available through a subscription model priced at over $1,000 per month, Alt_Pump_001 can be accessed for free by presale buyers who purchase a minimum of $500 in $YPRED.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-5.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259909" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-5.jpg" alt="Picture4" width="602" height="305" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-5.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-5-300x152.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-5-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Naturally, the development of Alt_Pump_001 further underlines the development team’s commitment to leveraging the power of AI to maximize trading outcomes.</p>
-<p>Given the potential of the altcoin market, this tool could be of tremendous value to investors – a fact that has helped prompt an influx of new members into the yPredict <a href="https://t.me/ypredict" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Telegram channel</a>.</p>
-<h2>$YPRED Token Fuels yPredict’s Cutting-Edge Ecosystem</h2>
-<p>As hinted at throughout this article, $YPRED will serve as the core of yPredict’s revolutionary platform.</p>
-<p>This AI utility token will be built using the power of the Polygon blockchain, ensuring it remains fast and secure.</p>
-<p>Alongside being used to access yPredict’s premium features, the token can also be staked to earn monthly rewards.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259908" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-2.jpg" alt="Picture5" width="602" height="252" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-2.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-2-300x126.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-2-50x21.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Not only that, but the development team has structured $YPRED’s tokenomics in such a way as to decrease the chance of a rug pull occurring once it is listed on the open market.</p>
-<p>A whopping 80% of the total $YPRED supply is being made available through the ongoing public presale, with the remaining 20% allocated for liquidity, treasury, and developmental purposes.</p>
-<p>This fair token structure is another key reason yPredict has been generating traction in the market, with high-profile YouTuber Michael Wrubel <a href="https://www.youtube.com/watch?v=KwoCQl5h4qE&amp;t=459s&amp;pp=ygUPeXByZWRpY3QgY3J5cHRv" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">stating</a> that he is “bullish” on the project.</p>
-<p>All in all, yPredict’s combination of AI-powered analytics tools and its revolutionary approach to SEO strategies set the stage for what could be a transformative experience in the world of digital assets.</p>
-<p><a href="https://bs_72a7e4de.cryptopotato.care/?referrer=new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit yPredict Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
-<p>The post <a href="https://cryptopotato.com/new-ai-crypto-ypredict-generates-huge-interest-nears-3m-presale-milestone/" rel="nofollow">New AI Crypto yPredict Generates Huge Interest &#038; Nears $3M Presale Milestone</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>6 Things to Watch in Q3 2023 as Bitcoin Price Almost Doubled Since January</title>
-		<link>https://cryptopotato.com/6-things-to-watch-in-q3-2023-as-bitcoin-price-almost-doubled-since-january/</link>
-		
-		<dc:creator><![CDATA[Wesley Messamore]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 11:53:51 +0000</pubDate>
-				<category><![CDATA[BTCEUR]]></category>
-		<category><![CDATA[BTCGBP]]></category>
-		<category><![CDATA[BTCUSD]]></category>
-		<category><![CDATA[BTCUSDT]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[featured1]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259165</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Bitcoin's price is doing rounds in 2023. As we enter the third quarter for the year, here are six factors worth your consideration.]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin price doubled in the first half of 2023 after melting off the ice of crypto winter in early January. Is it time to take profits, or does this six-month BTC rally have more in store for Q3?</p>
-<blockquote><p>&#8220;With persistent interest rate hikes, weakness in the banking sector and debt ceiling concerns, investors see bitcoin now more than ever as a sovereign, safe haven asset that has held strong and steady in the face of market uncertainty.&#8221; -Alex Adelman, CEO of Bitcoin app Lolli.</p></blockquote>
-<p>Since rallying to $29,900 on June 22, Bitcoin has been trading sideways in a range-bound channel between $30,100 and $31,100. That follows a surge upward from the $25,000 level in the middle of June, the lowest price for the coin since March.</p>
-<p>Before that, Bitcoin price fell in a two-month tumble from the $30,300 level in mid-April.</p>
-<p>Current spot prices happen <a href="https://www.cnbc.com/video/2023/07/06/bitcoin-13-month-high-valkyrie-refiles-spot-bitcoin-etf-crypto-world.html" data-wpel-link="external" target="_blank">to be</a> close to a 13-month high level for Bitcoin. Is the market overheated or gearing up for another rally?</p>
-<p>The following six factors in the Bitcoin price are overall bullish in the Q3 outlook, but they&#8217;re a mixed bag. There are also some headwinds rising for the OG cryptocurrency to weather.</p>
-<h2>Bitcoin ETF Fervor on Wall Street</h2>
-<p>Institutional investors are, by this time, chomping at the bit to get the private keys to blockchain assets into their portfolios. ETF buzz has already pushed Bitcoin&#8217;s price higher, but there&#8217;s room left to rally if anyone&#8217;s SEC application actually gets approved.</p>
-<p>As Forbes <a href="https://www.forbes.com/advisor/investing/cryptocurrency/spot-bitcoin-etf/" data-wpel-link="external" target="_blank">reported</a> near the end of June:</p>
-<blockquote><p>&#8220;The SEC has already approved plenty of Bitcoin ETFs and other types of crypto exchange-traded funds. But so far, the market regulator has only been comfortable greenlighting funds that track cryptocurrency futures or own the stocks of companies with indirect exposure to crypto.&#8221;</p></blockquote>
-<p>Meanwhile, investors on Wall Street are clamoring for a spot Bitcoin ETF. Crypto markets are anxiously awaiting the SEC&#8217;s approval of the first one. Because of market uncertainty over the SEC&#8217;s resistance to a spot ETF, the approval of one would likely cause an immediate reevaluation of the Bitcoin price.</p>
-<p>Here&#8217;s a list of companies that have filed <a href="https://cryptopotato.com/not-just-blackrock-these-companies-have-also-filed-for-spot-bitcoin-etf-in-the-us/" data-wpel-link="internal">spot Bitcoin ETF</a> applications with the SEC. They include BlackRock, Ark Invest Management, Invesco, Fidelity Digital Assets, WisdomTree, and Valkyrie.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259900" src="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1.jpg" alt="bitcoin_binary_cover" width="1201" height="720" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1-50x30.jpg 50w" sizes="(max-width: 1201px) 100vw, 1201px" /></a></p>
-<h2>Bitcoin DeFi, Ordinals, and BTC NFTs</h2>
-<p>Loathe to allow Ethereum, Solara, and Polkadot to have all the fun minting NFTs, some enterprising devs introduced the <a href="https://cryptopotato.com/vitalik-buterin-lauds-bitcoin-ordinals-believes-brc-20-standard-could-revive-stagnancy/" data-wpel-link="internal">BRC-20 standard</a> for minting non-fungible tokens on Bitcoin&#8217;s blockchain earlier this year.</p>
-<p>As a result, Bitcoin has never seen anything like the record daily transaction volume the network serviced last quarter on May 1. That day, the old Satoshi blockchain&#8217;s <a href="https://ycharts.com/indicators/bitcoin_transactions_per_day" data-wpel-link="external" target="_blank">users made</a> 682,281 transactions in a 24-hour period.</p>
-<p>Since then, daily transactions have driven a level of network activity that we haven&#8217;t seen since the first half of 2021 during that year&#8217;s hot crypto bull market.</p>
-<p>Furthermore, this key metric of fundamental value is already on track in July to set another record. On July 9, Bitcoin processed and completed 594,265 transactions.</p>
-<p>Much of this season&#8217;s intense transaction volume consisted of Bitcoin NFT sales. In fact, so-called &#8220;Ordinals&#8221; <a href="https://markets.businessinsider.com/news/currencies/bitcoin-record-daily-transactions-network-ordinals-protocol-cryptocurrency-btc-crypto-2023-5" data-wpel-link="external" target="_blank">made up</a> over half of BTC&#8217;s record-setting total on May 1, at some 54.6%.</p>
-<h2>A Spike in Institutional Interest</h2>
-<p>As time goes on, institutional interest in cryptocurrencies has only increased, not abated. That&#8217;s especially true for blue chips like BTC and ETH.</p>
-<p>The recent launch of the first leveraged Bitcoin Futures ETF on June 27, for example, triggered a wave of on-chain BTC token purchases by funds.</p>
-<p>Starting on June 18th, ahead of the SEC&#8217;s approval of the new 2x leveraged futures product, funds <a href="https://terminal.bytetree.com/bitcoin/flows/" data-wpel-link="external" target="_blank">hoovered up</a> 19,083 BTC over 21 days. At a spot price of $30,500 per 1 BTC, that was an over half-a-billion dollar blitz for institutional investors.</p>
-<p>They didn&#8217;t stop buying up on-chain tokens in June. Bitcoin futures on the Chicago Mercantile Exchange saw contract volumes <a href="https://finance.yahoo.com/news/institutional-interest-spikes-btc-eth-024341255.html" data-wpel-link="external" target="_blank">increase by</a> 28.6% in June to $37.9 billion.</p>
-<p>In another sign of institutional appetite, the Bitcoin futures premium for BTC contracts <a href="https://www.binance.com/en-NG/feed/post/735119" data-wpel-link="external" target="_blank">recently doubled</a> in a week&#8217;s time to 6.4% on July 3 from 3.2%. That&#8217;s a bullish portent for the Bitcoin price, and furthermore, there seems to be more room left for it to rise.</p>
-<p>This could mean reversion, as futures premiums ran low over the past year, but it might indicate healthy demand for open interest in the future Bitcoin price moving forward.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-169779" src="https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1.jpg" alt="bitcoinbull_cover (1)" width="1201" height="720" srcset="https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/02/bitcoinbull_cover-1-50x30.jpg 50w" sizes="(max-width: 1201px) 100vw, 1201px" /></a></p>
-<h2>Bitcoin Fundamentals</h2>
-<blockquote><p>&#8220;The year after Bitcoin halving is usually the bull year.&#8221;<br />
-<em>-Binance CEO Changpeng Zhao, Twitter Spaces (July 5, 2023)</em></p></blockquote>
-<p>BTC daily transaction volume, <a href="https://www.blockchain.com/explorer/charts/hash-rate" data-wpel-link="external" target="_blank">network hash rate</a>, and <a href="https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-stock-to-flow-model/" data-wpel-link="external" target="_blank">stock-to-flow against price</a> numbers are all running at bullish levels and are backed by real momentum going into Q3. This bodes well for a continuing rally.</p>
-<p>Bear markets are for builders, and with the overwhelming enthusiasm for the new Bitcoin products we&#8217;ve seen in H1, it really shows.</p>
-<p>While transaction volume is higher than ever with these new use cases for Bitcoin, most holders of BTC are doing just that. <a href="https://ark-invest.com/wp-content/uploads/2023/07/The-Bitcoin-Monthly-June-2023.pdf" data-wpel-link="external" target="_blank">According to</a> Ark Invest&#8217;s June monthly Bitcoin report, 70% of the BTC supply hasn&#8217;t moved for a year.</p>
-<p>Because Bitcoin is an economic currency (not a financial one) with a limited supply, the BTC economy&#8217;s tightness with the supply over the past 12 months is an indicator of possibly higher prices on crypto exchanges for the precious digital asset.</p>
-<h2>Global Regulatory Hawkishness</h2>
-<p>As the old Wall Street saying goes: Markets abhor uncertainty.</p>
-<p>The unfolding saga of SEC regulation by lawsuit and enforcement against cryptocurrencies has certainly raised a number of questions about the nascent industry&#8217;s future.</p>
-<p>Meanwhile, the IRS is missing in action as the industry and crypto holders await tax rules for digital assets. As Politico <a href="https://www.politico.com/news/2023/06/26/crypto-tax-regulations-00101937" data-wpel-link="external" target="_blank">reported on</a> June 26:</p>
-<blockquote><p>&#8220;The long-awaited IRS tax compliance rules are stuck in an unexplained delay even as the SEC aggressively targets the crypto industry for regulation.&#8221;</p></blockquote>
-<p>Even as Bitcoin and its rivals continue to post ROIs beyond the pale of what investors are accustomed to expecting on stock exchanges (even from high-flying stocks like Tesla and Nvidia), institutions are still cautious to enter the blockchain space because of regulatory ambiguity.</p>
-<p>That&#8217;s a drag on crypto prices across the board, including BTC. Bitcoin is taking some heat from regulators in the U.S. and around the world, but not nearly like its competitors are.</p>
-<p>Most notably, the SEC&#8217;s push to regulate many blockchain tokens as securities has <a href="https://cryptopotato.com/sec-coinbase-and-binance-lawsuits-super-bullish-for-btc-and-eth-opinion/" data-wpel-link="internal">conspicuously left</a> Bitcoin and Ether, among others, out of the hot seat. So, regulatory threats to the Bitcoin price may be balanced by worse threats to some of its competitors.</p>
-<h2>Global Macro Financial Factors</h2>
-<p>Like regulatory concerns for blockchain, global macro factors in crypto prices are a mixed bag for Bitcoin in the next quarter and beyond.</p>
-<p>June&#8217;s pause on months of interest rate hikes by the Federal Reserve and ECB was the most pivotal financial event of the previous quarter.</p>
-<p>BTCUSD markets seemed to love it, or at least not mind it at all, as they rallied from $25,000 in mid-June to above $30,000 in under a week&#8217;s time.</p>
-<p>Relief from rising prices to borrow money to make capital investments in businesses, or buy stocks and cryptocurrencies, is a tailwind for markets. But it seemed to get priced into BTC&#8217;s chart within days, and more interest rate hikes may await markets later this year if the current regime does not whip inflation.</p>
-<p>Meanwhile, analysts are pushing back U.S. recession projections to next year or even projecting a <a href="https://www.bigcountrynewsconnection.com/news/state/washington/washington-state-forecast-predicts-u-s-economic-slowdown-not-recession/article_88042da4-7fdf-5f41-87cd-56cd345a2203.html" data-wpel-link="external" target="_blank">slowdown instead</a> of a recession. On balance, that&#8217;s good news for just about everyone, not the Bitcoin price especially, and not excluding BTC prices.</p>
-<p>But of particular importance to Bitcoin: Energy prices have been falling worldwide for a year. Oil prices <a href="https://markets.businessinsider.com/commodities/oil-price?type=wti" data-wpel-link="external" target="_blank">closed at</a> $121/barrel a year ago. This month, oil closed at $73 on July 10.</p>
-<p>Given the importance of electricity to Bitcoin&#8217;s proof-of-work blockchain, as one of the main costs for miners to deliver the network&#8217;s services, this is very bullish for the oldest cryptocurrency&#8217;s spot prices.</p>
-<p>The post <a href="https://cryptopotato.com/6-things-to-watch-in-q3-2023-as-bitcoin-price-almost-doubled-since-january/" rel="nofollow">6 Things to Watch in Q3 2023 as Bitcoin Price Almost Doubled Since January</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Will ADA Explode Above $0.3 This Week? Three Things to Watch (Cardano Price Analysis)</title>
-		<link>https://cryptopotato.com/will-ada-explode-above-0-3-this-week-three-things-to-watch-cardano-price-analysis/</link>
-		
-		<dc:creator><![CDATA[Duo Nine]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 11:31:21 +0000</pubDate>
-				<category><![CDATA[ADABTC]]></category>
-		<category><![CDATA[ADAUSD]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Price Analysis]]></category>
-		<category><![CDATA[Cardano (ADA) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259834</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55.png" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55.png" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Cardano looks like it&#8217;s about to make a significant move soon. Here are three technical indicators to watch. Key Support levels: $0.26, $0.24 Key Resistance levels: $0.30, $0.32 1. Ascending Triangle The price action of this cryptocurrency has formed a clear ascending triangle, as highlighted in the below chart. This makes a possible breakout above [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p style="text-align: left;">Cardano looks like it&#8217;s about to make a significant move soon. Here are three technical indicators to watch.</p>
-<p><strong>Key Support levels: $0.26, $0.24</strong></p>
-<p><strong>Key Resistance levels: $0.30, $0.32</strong></p>
-<h2>1. Ascending Triangle</h2>
-<p>The price action of this cryptocurrency has formed a clear ascending triangle, as highlighted in the below chart. This makes a possible breakout above the resistance at $0.30 likely. Since the price is being compressed at the apex of this formation, ADA will have to decide fairly soon on the way forward.</p>
-<figure id="attachment_259868" aria-describedby="caption-attachment-259868" style="width: 1826px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01.png" data-wpel-link="internal"><img class="size-full wp-image-259868" src="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01.png" alt="ADAUSDT_2023-07-11_13-24-01" width="1826" height="902" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01.png 1826w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01-300x148.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01-1024x506.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01-768x379.png 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01-1536x759.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-24-01-50x25.png 50w" sizes="(max-width: 1826px) 100vw, 1826px" /></a><figcaption id="caption-attachment-259868" class="wp-caption-text">Chart by TradingView</figcaption></figure>
-<h2>2. MACD Bullish Crossover</h2>
-<p>The 3-day MACD of Cardano shows that a bullish crossover may happen this week. If so, then a breakout above $0.30 becomes more probable. On the daily timeframe, the MACD is already positive, which gives bulls the upper hand right now.</p>
-<figure id="attachment_259867" aria-describedby="caption-attachment-259867" style="width: 1825px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55.png" data-wpel-link="internal"><img class="size-full wp-image-259867" src="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55.png" alt="ADAUSDT_2023-07-11_13-29-55" width="1825" height="902" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55.png 1825w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55-300x148.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55-1024x506.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55-768x380.png 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55-1536x759.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-29-55-50x25.png 50w" sizes="(max-width: 1825px) 100vw, 1825px" /></a><figcaption id="caption-attachment-259867" class="wp-caption-text">Chart by TradingView</figcaption></figure>
-<h2>3. Resistance Under Pressure</h2>
-<p>The resistance at $0.30 has kept ADA from moving higher in June, but in July, it seems this cryptocurrency has a great chance to finally break it. Every time a key resistance is tested by the price, the likelihood of it breaking increases. Currently, the buyers seem as if they&#8217;re about to make a third attempt at moving the price higher.</p>
-<figure id="attachment_259882" aria-describedby="caption-attachment-259882" style="width: 1826px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55.png" data-wpel-link="internal"><img class="size-full wp-image-259882" src="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55.png" alt="ADAUSDT_2023-07-11_13-50-55" width="1826" height="844" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55.png 1826w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55-300x139.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55-1024x473.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55-768x355.png 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55-1536x710.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ADAUSDT_2023-07-11_13-50-55-50x23.png 50w" sizes="(max-width: 1826px) 100vw, 1826px" /></a><figcaption id="caption-attachment-259882" class="wp-caption-text">Chart by TradingView</figcaption></figure>
-<h2>Bias</h2>
-<p>The bias for ADA is neutral right now but can quickly turn bullish as soon if the key resistance is broken.</p>
-<h2>Short-Term Prediction for ADA Price</h2>
-<p>If buyers manage to break above $0.30, then ADA&#8217;s price will quickly move to $0.32 and $0.35, which are the next targets. However, if the breakout fails, then this cryptocurrency has good support at $0.26.</p>
-<p>The post <a href="https://cryptopotato.com/will-ada-explode-above-0-3-this-week-three-things-to-watch-cardano-price-analysis/" rel="nofollow">Will ADA Explode Above $0.3 This Week? Three Things to Watch (Cardano Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
