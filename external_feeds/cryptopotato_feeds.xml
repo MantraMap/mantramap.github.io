@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Wed, 12 Jul 2023 06:20:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Jul 2023 20:24:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,341 +29,359 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Senators Lummis and Gillibrand to Unveil Updated Bill Classifying Crypto Assets as Commodities</title>
-		<link>https://cryptopotato.com/senators-lummis-and-gillibrand-to-unveil-updated-bill-classifying-crypto-assets-as-commodities/</link>
+		<title>ConsenSys Unveils zkEVM Rollup Network &#8216;Linea&#8217;</title>
+		<link>https://cryptopotato.com/consensys-unveils-zkevm-rollup-network-linea/</link>
 		
-		<dc:creator><![CDATA[Martin Young]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 06:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 23:46:53 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<category><![CDATA[United States]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=260039</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/02/Cynthia_lummis_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/02/Cynthia_lummis_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[ConsenSys]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=259976</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Consensys.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Consensys.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Pro-crypto U.S. Senators Lummis and Gillibrand are poised to unveil proposed legislation to determine how crypto assets should be regulated.]]></description>
-            																<content:encoded><![CDATA[<p>On July 12, an amended crypto bill by Senators Cynthia Lummis and Kirsten Gillibrand will be submitted.</p>
-<p>The revamped “Responsible Financial Innovation Act” aims to classify most crypto assets as commodities, similar to gold.</p>
-<p>This would bring them under the umbrella of the Commodities Futures Trading Commission (CFTC) rather than the Securities and Exchange Commission, which is “stifling innovation in financial technologies,” according to the Senators.</p>
-<h2>Crypto Bill Redux</h2>
-<p>The <a href="https://cryptopotato.com/grayscale-calls-out-sec-for-approving-leveraged-bitcoin-futures-etf-while-denying-spot/" data-wpel-link="internal">SEC</a> wants to apply 90-year-old legislation to regulate and treat crypto companies the same as banks and stock exchanges.</p>
-<blockquote><p>“The domestic industries really are trying to comply, for the most part, and they’re just getting the cold shoulder,” said Lummis who added, “That’s not how we regulate in this country,” <a href="https://www.wired.com/story/congress-wants-to-take-back-power-over-crypto/" data-wpel-link="external" target="_blank">according</a> to Wired.</p></blockquote>
-<p>The newly proposed legislation aims to protect investors and prevent the major collapses that crippled the industry in 2022. However, it does not advocate enforcement action, lawsuits, or the demand for exchange asset freezes to hurt investors (which is what the SEC has been doing).</p>
-<p>The report, citing a person with knowledge of the act, explained that the new bill, if passed, would require crypto exchanges to store customer funds in third-party trusts. It would also prevent internal trading by exchanges using their own funds or tokens.</p>
-<p>Furthermore, the CFTC would also have the power to supervise exchange affiliates for potential misdemeanors.</p>
-<p>The act also prohibits “rehypothecation,” which is a practice of financing digital assets already locked up in other loans.</p>
-<p>The legislation has already been passed to the CFTC and SEC for their purview, but <a href="https://cryptopotato.com/cynthia-lummis-says-bidens-30-miner-tax-isnt-going-to-happen/" data-wpel-link="internal">Lummis</a> is concerned that it will get stonewalled.</p>
-<blockquote><p>“After all of our efforts to reach out to them and work with them, I do not want them to come in at the last minute to put their kibosh on this.”</p></blockquote>
-<p>America is already way behind the rest of the world with regard to crypto regulations. As a result, an exodus of talent, innovation, and capital is already underway.</p>
-<h2>Crypto Market Outlook</h2>
-<p>While crypto markets would be buoyed by progressive legislations in the U.S., sentiment and volumes are currently flat.</p>
-<p>Total capitalization remains flat on the day at $1.23 trillion, with very little movement from the high-cap coins over the past 24 hours.</p>
-<p>The post <a href="https://cryptopotato.com/senators-lummis-and-gillibrand-to-unveil-updated-bill-classifying-crypto-assets-as-commodities/" rel="nofollow">Senators Lummis and Gillibrand to Unveil Updated Bill Classifying Crypto Assets as Commodities</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[The company warned users that advertisements of an existing or imminent Linea token sale or drop are scams and the network will instead use ETH as its native currency. ]]></description>
+            																<content:encoded><![CDATA[<p>Ethereum layer-2 ecosystem is heating up with the space seeing yet another entry by ConsenSys, an already established player in the industry. ConsenSys, the firm behind MetaMask, announced the launch of its layer-2 network &#8211; Linea &#8211; to the main Ethereum blockchain this week. It will soon begin onboarding partners as well.</p>
+<p>The new layer-2 scaling solution is a zkEVM rollup network leveraging zero-knowledge proofs while making it an Ethereum Virtual Machine (EVM) equivalent.</p>
+<h2>ConsenSys&#8217;s zkEVM Rollup Network &#8211; Linea</h2>
+<p>ConsenSys is the latest company to ride the growing trend of zkEVM with its new offering Linea that has already witnessed a successful testnet phase with 5.5 million unique wallets conducting more than 46 million transactions. According to the company, Linea has emerged as one of the largest and fastest-growing projects in Goerli.</p>
+<p>Before hitting the mainnet at ETHCC, Linea will begin onboarding its launch partners starting this week.</p>
+<blockquote><p>&#8220;Linea combines the power of zero-knowledge proofs with full Ethereum Virtual Machine (EVM) equivalence, allowing builders to create scalable decentralized applications (dapps) or migrate existing ones without the hassle of changing code or rewriting smart contracts.&#8221;</p></blockquote>
+<p>As per ConsenSys&#8217;s announcement, the alpha release provides faster throughput while lowering the transaction fees up to 15x lower than Ethereum layer-1. The firm also said that the release will allow deeper integrations with its crypto wallet MetaMask.</p>
+<p>Linea will be made available to users next week once partners have had an opportunity to onboard their dApps and infrastructure. The company also confirmed that the network uses Ether as its native currency, which is bridged directly from the Ethereum Mainnet. It urged users to remain cautious about fraudulent advertisements of an existing or imminent Linea token sale or drop.</p>
+<h2>zkEVM Popularity</h2>
+<p>A zkEVM is an EMV-compatible rollup that is secured by zero-knowledge proofs. By pooling in ZKPs with EVM compatibility, zkEVMs offer the security and privacy-preserving features of zk-Rollups while simultaneously enhancing Ethereum interoperability by protecting EVM compatibility. Such a system helps zkEVMs to be interoperable with smart contracts and decentralized applications (dApps) used on Ethereum.</p>
+<p>The first zkEVM to be publicly available was zkSync&#8217;s solution called &#8216;zkSync Era,&#8217; which went live to much fanfare in March. Days later, Polygon announced the final mainnet for its zkEVM product and added subsequent <a href="https://cryptopotato.com/polygon-announces-polygon-bridge-for-its-zero-knowledge-rollup/" target="_blank" rel="noopener" data-wpel-link="internal">optimizations</a> a month later.</p>
+<p>The post <a href="https://cryptopotato.com/consensys-unveils-zkevm-rollup-network-linea/" rel="nofollow">ConsenSys Unveils zkEVM Rollup Network &#8216;Linea&#8217;</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Boxwind Allies With Exinity Group to Streamline Access to Digital Asset Markets</title>
-		<link>https://cryptopotato.com/boxwind-allies-with-exinity-group-to-streamline-access-to-digital-asset-markets/</link>
-		
-		<dc:creator><![CDATA[Chainwire]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 05:19:55 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259907</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Tokenization_2_1689064807qhh50ICb3S.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Tokenization_2_1689064807qhh50ICb3S.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[[PRESS RELEASE &#8211; London, UK, July 11th, 2023] Exinity Group, the global fintech business dedicated to providing investors with the freedom to succeed in digital markets, announced its entering into a strategic, long-term partnership with Boxwind, the digital exchange platform for cryptocurrency traders. Together, Boxwind and Exinity Group will transform the digital asset trading landscape, [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; London, UK, July 11th, 2023]</strong></p>
-<p><a href="https://group.exinity.com" target="_blank" rel="nofollow noopener" data-wpel-link="external">Exinity Group</a>, the global fintech business dedicated to providing investors with the freedom to succeed in digital markets, announced its entering into a strategic, long-term partnership with <a href="https://boxwind.com" target="_blank" rel="nofollow noopener" data-wpel-link="external">Boxwind</a>, the digital exchange platform for cryptocurrency traders.</p>
-<p>Together, Boxwind and Exinity Group will transform the digital asset trading landscape, empowering ambitious individuals to participate in investing opportunities and explore new asset classes across markets. By combining Boxwind’s innovative asset trading technology with Exinity’s world-class investing products, the partners will enable a new generation of investors to discover financial freedom and grow their wealth.</p>
-<p>Boxwind is the creator of a digital asset trading platform, providing hassle-free onboarding, instant spot trading and secure asset storage. It promises to redefine the way users can trade, buy, hold and invest digital assets. With its user-friendly interface and advanced features, Boxwind paves the way for individuals to secure their financial future.</p>
-<p>With its innovative trading and investing products, Exinity Group has emerged as a pivotal player that’s revolutionizing access to economic opportunities in developing nations across Asia, the Middle East and Africa. It merges its proprietary trading platforms with original concepts to attract users seeking alternative financial solutions beyond traditional finance.</p>
-<p>A global wealth engine backed by decades of experience in trading and investment, Exinity is the home of successful retail businesses, including Alpari International and ForexTime (FTXM). Its birth can be traced back to the beginnings of the Forex trading industry and the founding of Alpari Group back in 1998. Through its pioneering MetaTrader platform, Alpari rapidly expanded to hold a significant presence in the world’s financial markets, joined by its sister brand FXTM in 2011. Together, Exinity’s brands have become a force to be reckoned with in the online trading space, trusted by more than two million clients in 180 countries.</p>
-<p>The integration of Exinity&#8217;s proprietary technology with Boxwind’s novel digital asset trading platform is designed to appeal to a new generation of customers seeking to explore alternative financial solutions beyond traditional products.</p>
-<h2>About Boxwind</h2>
-<p><a href="https://boxwind.com" target="_blank" rel="nofollow noopener" data-wpel-link="external">Boxwind</a> is a digital exchange platform that plans to revolutionize the way users trade, buy and hold cryptocurrency. We provide easy access to digital assets that can empower everyone on their journey to financial freedom.</p>
-<h2>About Exinity Group</h2>
-<p><a href="https://group.exinity.com" target="_blank" rel="nofollow noopener" data-wpel-link="external">Exinity Group</a> is a global fintech business dedicated to providing a new generation with the freedom to succeed. From our roots in FX brokerage, we’re creating and developing a unique range of innovative trading and investing products, using proprietary platforms and original concepts to attract new customers who want the freedom financial independence can bring &#8211; but for whom traditional products don’t appeal.</p>
-<p>Exinity focuses on the developing economies of Asia, the Middle East and Africa, huge markets served by a highly motivated, customer-focused and creative workforce operating out of four strategic centers.</p>
-<p>The post <a href="https://cryptopotato.com/boxwind-allies-with-exinity-group-to-streamline-access-to-digital-asset-markets/" rel="nofollow">Boxwind Allies With Exinity Group to Streamline Access to Digital Asset Markets</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Singapore&#8217;s Investment Giant Temasek Pauses Crypto Efforts, Cites Regulatory Uncertainty</title>
-		<link>https://cryptopotato.com/singapores-investment-giant-temasek-pauses-crypto-efforts-cites-regulatory-uncertainty/</link>
+		<title>Former FTX Exec Under Investigation for Possible Violations of Campaign Finance Law (Report)</title>
+		<link>https://cryptopotato.com/former-ftx-exec-under-investigation-for-possible-violations-of-campaign-finance-law-report/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 03:45:53 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 22:03:50 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[FTX Exchange]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259898</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/07/Singapore-min.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/07/Singapore-min.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260069</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/12/ftx_legal_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/12/ftx_legal_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[The entity might change its stance should watchdogs implement "the right regulatory framework," CEO Sipahimalani said.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Rohit Sipahimalani &#8211; Chief Executive Officer of the Singaporean state-owned conglomerate Temasek &#8211; said the entity is currently not interested in cryptocurrency investments due to the lack of regulatory clarity. </span></p>
-<p><span data-preserver-spaces="true">The company had a bad experience with the digital asset sector, losing $275 million when FTX collapsed.</span></p>
-<h2><span data-preserver-spaces="true">A Possible Re-Entry With Appropriate Rules</span></h2>
-<p><span data-preserver-spaces="true">CEO Sipahimalani </span><a class="editor-rtfLink" href="https://www.cnbc.com/2023/07/11/temasek-says-its-not-looking-to-invest-in-crypto-firms-right-now.html" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">claimed</span></a><span data-preserver-spaces="true"> in a recent interview that there is &#8220;a lot of regulatory uncertainty&#8221; in the cryptocurrency sector, which makes it &#8220;very difficult&#8221; for Temasek to join the ecosystem with another investment. </span></p>
-<p><span data-preserver-spaces="true">On the other hand, he assured that the company will re-think its position should regulators impose a comprehensive regulatory framework on the industry:</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;If you have the right regulatory framework, and we are comfortable with it, and you have the right investment opportunity, there&#8217;s no reason for us not to look at it.&#8221;<br />
-</span></p></blockquote>
-<figure id="attachment_259954" aria-describedby="caption-attachment-259954" style="width: 400px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani.jpg" data-wpel-link="internal"><img class="wp-image-259954" src="https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani.jpg" alt="Rohit Sipahimalani" width="400" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani.jpg 500w, https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani-300x300.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani-100x100.jpg 100w, https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani-239x239.jpg 239w, https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani-50x50.jpg 50w, https://cryptopotato.com/wp-content/uploads/2023/07/Rohit-Sipahimalani-45x45.jpg 45w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption id="caption-attachment-259954" class="wp-caption-text">Rohit Sipahimalani, Source: The Org</figcaption></figure>
-<p><span data-preserver-spaces="true">It is worth mentioning that the Monetary Authority of Singapore has taken some steps to ensure maximum protection for local crypto participants. The watchdog <a href="https://cryptopotato.com/singapore-requires-crypto-companies-to-hold-customer-funds-in-a-trust-report/" data-wpel-link="internal">plans</a> to ban digital asset organizations from offering lending and staking services to retail investors. It might also insist that such firms hold customers’ assets in a designated trust by the end of 2023.</span></p>
-<p>Temasek was among the numerous entities that parted with a considerable amount of money due to its interaction with the once-prominent crypto exchange FTX. The company, which has almost $500 billion of assets under management, invested $275 million in FTX and <a class="editor-rtfLink" href="https://cryptopotato.com/singapores-temasek-says-ftx-investment-now-worth-nothing/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">lost</span></a><span data-preserver-spaces="true"> everything due to the latter&#8217;s demise in November last year. </span></p>
-<p><span data-preserver-spaces="true">Sipahimalani explained that the FTX investment was part of Temasek&#8217;s early-stage strategy, where it distributed funds in &#8220;new disruptive technologies to see what&#8217;s around the corner.&#8221; </span></p>
-<p><span data-preserver-spaces="true">The CEO also revealed that the company conducted proper due diligence when considering the move and went ahead since the marketplace &#8220;had good technology, was gaining market share, and showed a willingness to engage with regulators and be licensed.&#8221;</span></p>
-<h2><span data-preserver-spaces="true">Taking Responsibility</span></h2>
-<p><span data-preserver-spaces="true">The unsuccessful interaction in FTX has harmed the reputation of the Singaporean state-owned conglomerate. As such, the team and senior manager who approved the investment have <a href="https://cryptopotato.com/temasek-slashes-pay-for-executives-who-recommended-investing-in-ftx-report/" data-wpel-link="internal">taken</a> full responsibility and had their annual compensations cut down:</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The investment team and senior management, who are ultimately responsible for investment decisions made, took collective accountability and had their compensation reduced.&#8221;</span></p></blockquote>
-<p><span data-preserver-spaces="true">Temasek did not reveal the exact deducted amount or whether other employees&#8217; bonuses or salaries have been decreased. </span></p>
-<p><span data-preserver-spaces="true">The lengthy list of companies that suffered losses due to investing in FTX also includes the world&#8217;s largest asset manager &#8211; </span><a class="editor-rtfLink" href="https://cryptopotato.com/the-worlds-largest-asset-manager-was-also-exposed-to-ftx/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">BlackRock</span></a><span data-preserver-spaces="true">, the venture capital firm &#8211; Sequoia Capital, the crypto technology investment company &#8211; Paradigm, the Japanese Softbank, and many more.</span></p>
-<p>The post <a href="https://cryptopotato.com/singapores-investment-giant-temasek-pauses-crypto-efforts-cites-regulatory-uncertainty/" rel="nofollow">Singapore&#8217;s Investment Giant Temasek Pauses Crypto Efforts, Cites Regulatory Uncertainty</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[This is Salame's second dispute with the American authorities after the FBI raided his home in April.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">US prosecutors have reportedly targeted Ryan Salame &#8211; ex-CEO of FTX&#8217;s Bahamian subsidiary &#8211; over a possible breach of the law when donating funds to his then-girlfriend&#8217;s political campaign in 2022. </span></p>
+<p><span data-preserver-spaces="true">Previous sources have informed that Michelle Bond (the woman in question) has received at least $400,000 in consulting fees from FTX Digital Markets &#8211; the entity that Salame ran. According to The New York Times, the American personally donated $1.5 million to the GMI super PAC (a newly-formed committee that supported crypto-friendly candidates), which in turn used some of the funds to popularize Bond&#8217;s campaign.</span></p>
+<h2><span data-preserver-spaces="true">Salame Takes Another Punch</span></h2>
+<p><span data-preserver-spaces="true">As <a href="https://www.wsj.com/articles/former-ftx-executive-linked-to-campaign-finance-probe-of-new-york-gop-race-c2b50252" data-wpel-link="external" target="_blank">reported</a> by The Wall Street Journal, Federal prosecutors in Manhattan have launched an investigation against Salame to examine the donations that he handed to his then-girlfriend Michelle Bond. She ran for the Republican nomination for a congressional seat in New York last year. </span></p>
+<p><span data-preserver-spaces="true">FTX executives, including the former CEO Sam Bankman-Fried, have made generous donations to politicians from both the Democratic and Republican parties prior to the collapse of the exchange.<br />
+</span></p>
+<p><span data-preserver-spaces="true">Despite the probe, the pair was not accused of wrongdoing. Their lawyers and the US Attorney&#8217;s office in Manhattan have not yet spoken on the matter. </span></p>
+<p><span data-preserver-spaces="true">The FBI has also put Salame under its radar, <a href="https://cryptopotato.com/former-ftx-boss-ryan-salames-house-raided-by-the-fbi-report/" data-wpel-link="internal">raiding</a> his house in Potomac, Maryland, at the end of April. The exact reason behind the search remained unclear. However, some speculations emerged claiming it could be connected to the <a href="https://cryptopotato.com/the-fall-of-sam-bankman-frieds-crypto-empire-a-timeline-of-ftxs-collapse/" data-wpel-link="internal">FTX crash </a>that shook the entire crypto industry in November 2022. </span></p>
+<p><span data-preserver-spaces="true">Salame took a central role in the scandal after he </span><a class="editor-rtfLink" href="https://www.bloomberg.com/news/articles/2022-12-15/ftx-executive-ryan-salame-tipped-off-bahamian-regulators-to-possible-fraud?in_source=embedded-checkout-banner" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">told</span></a><span data-preserver-spaces="true"> the Bahamian regulators that the once-prominent platform might have misappropriated billions of dollars in customers&#8217; funds and transferred them to Alameda Research.</span></p>
+<h2><span data-preserver-spaces="true">The Investigation Has no Relation to SBF</span></h2>
+<p><span data-preserver-spaces="true">The coverage further informed that the most recent probe against Salame is being treated separately from the case against SBF. </span></p>
+<p><span data-preserver-spaces="true">Numerous regulators and authorities have accused the former CEO of conducting several crimes, such as wire fraud and conspiracy to commit money laundering. However, he has <a href="https://cryptopotato.com/sam-bankman-fried-pleads-not-guilty-trial-date-set/" data-wpel-link="internal">pleaded</a> not guilty and refused to be blamed as the main culprit behind the meltdown of the company he founded.</span></p>
+<p><span data-preserver-spaces="true">SBF spent a brief time in a Bahamian jail before being deported to the USA. The American magistrates <a href="https://cryptopotato.com/sam-bankman-fried-released-on-a-250m-bail-can-stay-at-parents-house/" data-wpel-link="internal">allowed</a> him to live with his parents until the trial on October 2 under a whopping $250 million bond. He could receive a 115-year prison sentence if found guilty.</span></p>
+<p>The post <a href="https://cryptopotato.com/former-ftx-exec-under-investigation-for-possible-violations-of-campaign-finance-law-report/" rel="nofollow">Former FTX Exec Under Investigation for Possible Violations of Campaign Finance Law (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Arkham May Have Inadvertently Doxxed Many of its Users</title>
-		<link>https://cryptopotato.com/arkham-may-have-inadvertently-doxxed-many-of-its-users/</link>
-		
-		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 23:45:43 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259813</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Arkham_Dox.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Arkham_Dox.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Arkham recently announced a tool that deanonymizes blockchain users on one hand and was exposed for poor data protection on the other.
-]]></description>
-            																<content:encoded><![CDATA[<p>Arkham Intelligence, a blockchain sleuthing company in the vein of Chainalysis and others, recently announced the release of a platform to deanonymize and trade information pertaining to blockchain users, as well as the release of a new ARKM token to go with it.</p>
-<h2>Snitching as a Service</h2>
-<p>Touted as “the world’s first on-chain intelligence exchange,” Arkham Intelligence will allow users of the service to <a href="https://www.arkhamintelligence.com/announcements/arkham-intel-exchange" data-wpel-link="external" target="_blank">post bounties</a> for any information on blockchain users.</p>
-<blockquote><p>“Our vision for the Intel Exchange is a decentralized intel-to-earn economy powered by smart contracts, in which any sleuth can earn based on their skills &amp; experience. As such, all transactions on the Arkham Marketplace will take place through smart contracts audited by our partner Quantstamp.”</p></blockquote>
-<p>There are no limitations on what kind of information can be requested, although the company did promise to ban spammers and those submitting low-quality information.</p>
-<p>Once the information requested has been uncovered, the person who posted the bounty will have a 90-day exclusivity period to use the newly gleaned information as they see fit. After this period, the info will become a part of Arkham’s public database.</p>
-<p>Naturally, the announcement of a tool that could strip away one of the main things that attract some users to blockchain technology left the crypto community divided, with some <a href="https://twitter.com/hudsonjameson/status/1678384583576891393" data-wpel-link="external" target="_blank">accusing</a> Arkham of trying to become the arbiter of good and evil.</p>
-<p>More cynical users also chimed in, reminding others that this platform could very easily be employed to uncover the identities of whales, who could be targeted online or in real life – much like what happened following the Ledger Wallet <a href="https://cryptopotato.com/ledger-admits-users-data-leaked-amid-the-shopify-incident-in-april-june-2020/" data-wpel-link="internal">leak</a>.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Announcing The World’s First On-Chain Intelligence Exchange</p>
-<p>Buy and sell information on the owner of any blockchain wallet address—anonymously, via smart contract. <a href="https://t.co/4xr7dLvOjp" data-wpel-link="external" target="_blank">pic.twitter.com/4xr7dLvOjp</a></p>
-<p>— Arkham (@ArkhamIntel) <a href="https://twitter.com/ArkhamIntel/status/1678339355314900992?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Meanwhile, Arkham seems to have gotten a head start in the game of deanonymizing the blockchain – starting with its own fans.</p>
-<h2>Doxxing Their Own Userbase</h2>
-<p>Shortly after announcing the launch of its new service, Arkham came under fire for doxing its own users via the referral links for the platform’s waiting list.</p>
-<p>The referral, which was thought to contain a random string of numbers, actually encoded the email address of the user using BASE64 – an encryption algorithm that is trivially easy to <a href="https://www.base64decode.org/" data-wpel-link="external" target="_blank">decode</a>.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">ABSOLUTE LMAO. ALL <a href="https://twitter.com/hashtag/ARKHAM?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#ARKHAM</a> REFERRAL LINKS SHARED ON TWITTER IS DOXXING EVERYONE BECAUSE THE EMAIL IS IN THE REFERRAL URL. <a href="https://twitter.com/inversebrah?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@inversebrah</a><a href="https://t.co/HM6veJOmNp" data-wpel-link="external" target="_blank">https://t.co/HM6veJOmNp</a> -&gt; bkatmis012@gmail.com <a href="https://t.co/1INvtXLEva" data-wpel-link="external" target="_blank">https://t.co/1INvtXLEva</a> <a href="https://t.co/m38VnNMS8k" data-wpel-link="external" target="_blank">pic.twitter.com/m38VnNMS8k</a></p>
-<p>— m4gicpotato ⟁ (@m4gicpotato) <a href="https://twitter.com/m4gicpotato/status/1678462447005618176?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Some users even accused Arkham of doing it on purpose, as a company centered around sleuthing would be unlikely to commit such a huge mistake accidentally.</p>
-<p>The post <a href="https://cryptopotato.com/arkham-may-have-inadvertently-doxxed-many-of-its-users/" rel="nofollow">Arkham May Have Inadvertently Doxxed Many of its Users</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Paradigm Criticizes SEC&#8217;s Actions Against Bittrex in New Amicus Brief Filing</title>
-		<link>https://cryptopotato.com/paradigm-criticizes-secs-actions-against-bittrex-in-new-amicus-brief-filing/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 21:37:48 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bittrex]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[Paradigm]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259794</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/The_SEC.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/The_SEC.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[ Paradigm's amicus brief claims that the SEC has overstepped its jurisdiction.]]></description>
-            																<content:encoded><![CDATA[<p>Crypto investment company Paradigm has filed an amicus brief in the US Securities and Exchange Commission&#8217;s (SEC) case against Bittrex, claiming that the regulator is &#8220;wrongfully attempting to lay claim over crypto secondary markets.&#8221;</p>
-<p>The brief filed on July 7th stated that the case against the US-based crypto exchange should be dismissed. It argued that the SEC cannot support extending the Howey test to determine that secondary market sales are investment contract transactions relies upon an unreasonable use of that test to make its claims.</p>
-<h2>Paradigm&#8217;s Amicus Brief</h2>
-<p>The SEC <a href="https://cryptopotato.com/bittrex-receives-wells-notice-from-sec-for-violating-investor-protection-laws/" target="_blank" rel="noopener" data-wpel-link="internal">charged</a> Bittrex in April for allegedly operating an unregistered securities exchange, broker, and clearing agency just weeks after the crypto exchange <a href="https://cryptopotato.com/bittrex-to-close-operations-in-the-us-due-to-regulatory-hurdles/" target="_blank" rel="noopener" data-wpel-link="internal">announced</a> the termination of its US operations. Two other crypto weights &#8211; Coinbase and Binance &#8211; are also facing similar charges by the SEC.</p>
-<p>Paradigm noted that the claims made by the financial regulator against Bittrex and the other crypto exchanges are &#8220;fundamentally different&#8221; from its many prior cases against token sellers. The previous ones witnessed the SEC exercising its authority to regulate fundraising schemes under the Howey test.</p>
-<p>This, however, changed in the recent cases targeting crypto exchanges. Paradigm argued that the SEC is attempting to expand its authority past the initial fundraising transactions to incorporate &#8220;downstream&#8221; sales of crypto assets.</p>
-<blockquote><p>&#8220;The SEC lacks the authority to regulate secondary markets for crypto assets because they do not involve &#8216;investment contracts&#8217; and are therefore not securities transactions under the agency&#8217;s remit.&#8221;</p></blockquote>
-<p>The investment firm&#8217;s <a href="https://policy.paradigm.xyz/assets/writing/bittrex-41-1.pdf" target="_blank" rel="noopener" data-wpel-link="external">amicus brief</a> claims that even if a crypto asset was first sold in a fundraising transaction, the financial regulator has &#8220;no legal basis&#8221; to argue that the asset itself &#8220;embodies an investment contract, or that secondary market transactions in that asset are investment contract transactions.&#8221;</p>
-<h2>Amicus Brief for Coinbase</h2>
-<p>Paradigm, led by Coinbase co-founder Fred Ehrsam, <a href="https://policy.paradigm.xyz/assets/writing/Coinbase-Amicus-File-Marked.pdf" target="_blank" rel="noopener" data-wpel-link="external">petitioned</a> to file an amicus brief in support of Coinbase in May, a month after the San Francisco-based crypto exchange received a Wells notice from the SEC.</p>
-<p>The investment firm backed the exchange&#8217;s legal action against the agency, claiming that it had &#8220;a strong interest&#8221; in ensuring the financial regulator is held accountable for its delays in the company&#8217;s petitions.</p>
-<p>The filing also criticized the SEC&#8217;s failure to provide clear rules or guidance for digital asset firms in the country.</p>
-<p>The post <a href="https://cryptopotato.com/paradigm-criticizes-secs-actions-against-bittrex-in-new-amicus-brief-filing/" rel="nofollow">Paradigm Criticizes SEC&#8217;s Actions Against Bittrex in New Amicus Brief Filing</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Brazilian CBDC Could Reportedly Allow Government to Freeze or Manipulate Accounts</title>
-		<link>https://cryptopotato.com/brazilian-cbdc-could-reportedly-allow-government-to-freeze-or-manipulate-accounts/</link>
-		
-		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 20:05:28 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Brazil]]></category>
-		<category><![CDATA[CBDC]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259875</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/02/Brazil_Flag.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/02/Brazil_Flag.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The source code for the Brazilian CBDC in testing was analyzed by blockchain dev Pedro Magalhães.
-]]></description>
-            																<content:encoded><![CDATA[<p>Brazil has been developing a CBDC for some time now. If all goes according to plan, the digital Real will be launched sometime in 2024.</p>
-<p>Once launched, it would support retail payments for anyone inclined to use it, backing up the payment with funds in the users’ bank accounts.</p>
-<h2>Planning Ahead</h2>
-<p>The Brazilian CBDC would not, however, interfere with other payment methods common in Brazil, such as Pix.</p>
-<p>According to a <a href="https://cryptopotato.com/brazil-begins-cbdc-pilot-with-public-use-scheduled-for-2024-report/" data-wpel-link="internal">spokesman</a> for the Brazilian government, the decision to push on with the CBDC project was taken in order to open up new avenues for technological improvement. The digital Real could also potentially reduce the cost of credit and other customer-facing financial products, allowing the banks to reach a wider customer base.</p>
-<blockquote><p>“This could reduce the cost of credit, the cost of improving the return on investments. There is a great potential for new service providers, fintech, democratizing access to the market and offering new services.”</p></blockquote>
-<p>Unfortunately, the current iteration of the Brazilian CBDC contains some interesting code that could allow the government to directly interfere with users’ wallets.</p>
-<h2>Possible Attack on Privacy</h2>
-<p>Although there is no shortage of CBDC advocates, many in the tech sphere have long been suspicious of government-backed digital currencies. According to critics, a CBDC removes the beneficial aspects of decentralization and anonymity from cryptocurrencies, essentially transforming them into the same abstract figure shown in your bank balance.</p>
-<p>Digital currencies would therefore subject to fractional lending and similar practices, with no real incentive for consumers to use them.</p>
-<p>An overreaching government, however, would probably be very interested in technology that would keep a permanent and immutable list of financial transactions.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">5/ In addition to operations such as “minting” Real Digital tokens and enabling/disabling target accounts, explained in the documentation, a developer found other functions by applying reverse engineering techniques to the material made available by the Central Bank.</p>
-<p>— Vini Barbosa (@vinibarbosabr) <a href="https://twitter.com/vinibarbosabr/status/1678511787610603523?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 10, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>After reviewing the <a href="https://github.com/bacen/pilotord-kit-onboarding" data-wpel-link="external" target="_blank">source code</a> for the digital Real, full-stack developer Pedro Magalhães submitted his <a href="https://www.linkedin.com/posts/pemagalhaes_github-ioralabsrealdigitalsmartcontracts-activity-7082009809549484032-Beqi/?utm_source=share&amp;utm_medium=member_desktop" data-wpel-link="external" target="_blank">findings</a> on LinkedIn.</p>
-<p>According to Magalhães, the source code contains some interesting functions that would allow the government to directly freeze and unfreeze accounts, move, create, and burn CBDC tokens in someone else’s account, and transfer assets on the user&#8217;s behalf.</p>
-<p>Although these functions might only be used in order to help banks offer loans and other financial products to customers or to track down financial crime, there are also much more sinister possibilities.</p>
-<p>For the moment, no comment on the matter has been made by any representative of the Brazilian government.</p>
-<p>The post <a href="https://cryptopotato.com/brazilian-cbdc-could-reportedly-allow-government-to-freeze-or-manipulate-accounts/" rel="nofollow">Brazilian CBDC Could Reportedly Allow Government to Freeze or Manipulate Accounts</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Grayscale Calls Out SEC For Approving Leveraged Bitcoin Futures ETF While Denying Spot</title>
-		<link>https://cryptopotato.com/grayscale-calls-out-sec-for-approving-leveraged-bitcoin-futures-etf-while-denying-spot/</link>
+		<title>LBRY Token Crashes 14% After Company Firm Behind Project Announces Shutdown</title>
+		<link>https://cryptopotato.com/lbry-token-crashes-14-after-company-firm-behind-project-announces-shutdown/</link>
 		
 		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 18:00:06 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 21:10:45 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin ETF]]></category>
-		<category><![CDATA[Grayscale]]></category>
 		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=260003</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/09/GrayscaleSEC.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/09/GrayscaleSEC.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260266</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/12/Lawsuit-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/12/Lawsuit-min.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[The SEC can only end its “unequal” treatment of Bitcoin ETPs by approving Grayscale’s spot ETF, said the company.]]></description>
-            																<content:encoded><![CDATA[<p>Grayscale, the owner of the world’s largest Bitcoin fund, has grown even more frustrated with the U.S. Securities and Exchange Commission (SEC) after the regulator approved a leveraged Bitcoin futures ETF last month.</p>
-<p>The firm has taken its complaint to the court, arguing that the approval strengthens its case that the SEC’s denial of its Bitcoin spot ETF application is “discriminatory.”</p>
-<h2>2X Futures VS Spot: What’s Riskier?</h2>
-<p>In a <a href="https://twitter.com/Grayscale/status/1678431528156794880/photo/1" data-wpel-link="external" target="_blank">letter</a> to the Court of Appeals for the DC Circuit on Monday, Grayscale explained the risks involved with the Volatility Shares’ 2x Bitcoin Strategy ETF (BITX), which the SEC allowed to begin trading on June 27.</p>
-<p>The leverage product, which raised eyebrows in the crypto industry weeks ago, seeks to double the performance of the S&amp;P 500 CME Bitcoin Futures Daily Roll Index each day.</p>
-<p>“As a result, it exposes investors to an even riskier investment product than traditional Bitcoin futures exchange-traded products, which encompass risks related to both the futures and spot bitcoin markets,” Grayscale wrote.</p>
-<p>Since October 2021, the SEC has approved an array of Bitcoin Futures ETFs for public trading, including a <a href="https://cryptopotato.com/grayscale-ceo-the-launch-of-short-bitcoin-etf-is-positive-for-crypto/" data-wpel-link="internal">short-linked</a> ETF last year. At the time, Grayscale CEO Michael Sonnhenshein saw the approval optimistically, believing the SEC was growing more comfortable with Bitcoin-related products across the board.</p>
-<p>Days later, however, the agency denied Grayscale’s filing to convert the Grayscale Bitcoin Trust (OTCMKTS: GBTC) into a spot ETF, arguing that the underlying Bitcoin spot market contains risks of market manipulation that could harm investors.</p>
-<p>Yet according to Grayscale, the recently approved BITX is much riskier: the fund’s registration statement itself states that it “may only be suitable for knowledgable investors,” and that such investors could “potentially lose the full value of their investment within a single day.”</p>
-<h2>The Case Against The SEC</h2>
-<p>The registration statement noted that the ETF invests in CME Bitcoin futures contracts, whose value “depends on, or is derived from, the underlying reference asset” – ie. “bitcoin.”</p>
-<p>One of Grayscale’s core legal arguments against the SEC is that CME Bitcoin Futures – the market with which it intends to form a surveillance-sharing agreement (SSA) for its spot Bitcoin ETF – are directly linked to the Bitcoin spot market.</p>
-<p>While the SEC has argued otherwise, judges overseeing the case appeared more sympathetic to Grayscale’s arguments during <a href="https://cryptopotato.com/judges-scrutinize-sec-during-oral-arguments-in-grayscale-lawsuit/" data-wpel-link="internal">oral arguments</a> in March.</p>
-<p>“The only way to eliminate the SEC’s unequal treatment of bitcoin-based ETPs is to allow proposed spot Bitcoin ETPs like Grayscale’s to begin trading,” concluded the company.</p>
-<p>Bitcoin surged last month after asset management giant BlackRock filed for a Bitcoin spot ETF, stoking optimism that it might be the first to please the SEC. Unlike Grayscale, the company has <a href="https://cryptopotato.com/coinbase-stock-surges-12-as-blackrock-names-it-as-surveillance-partner/" data-wpel-link="internal">confirmed</a> that it will form a SSA with the spot Bitcoin exchange Coinbase.</p>
-<p>Uncertainty around BlackRock’s filing still looms, however: commercial litigator Joe Carlasare <a href="https://cryptopotato.com/will-the-sec-approve-a-bitcoin-spot-etf-in-2023-lawyer-breaks-down-the-odds/" data-wpel-link="internal">told</a> CryptoPotato this month that Coinbase may not be considered adequate by the SEC for detecting market manipulation, since it only comprises ~2% of global Bitcoin trading volume.</p>
-<p>The post <a href="https://cryptopotato.com/grayscale-calls-out-sec-for-approving-leveraged-bitcoin-futures-etf-while-denying-spot/" rel="nofollow">Grayscale Calls Out SEC For Approving Leveraged Bitcoin Futures ETF While Denying Spot</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[LBRY wasn’t forced to shutter operations, but has been compelled to pay a fine and stop issuing unregistered securities.]]></description>
+            																<content:encoded><![CDATA[<p>LBRY Inc – the firm responsible for developing the LBRY protocol – has announced it will close operations after receiving a final judgment in its case with the U.S. Securities and Exchange Commission (SEC) on Tuesday.</p>
+<p>Since the announcement, LBRY token (LBC) has collapsed 14% in value.</p>
+<ul>
+<li>A federal judge sided with the SEC in <a href="https://www.dropbox.com/scl/fi/tn88lu25f8xg96algkj60/SEC-v-LBRY-Final-Judgment.pdf?dl=0&amp;rlkey=la5au9jor0ev4ae0qcq9uwao2" data-wpel-link="external" target="_blank">ruling</a> that LBRY violated Section 5 of the Securities Act of 1933 in its issuance of LBC.</li>
+<li>As such, it has permanently restrained and enjoined from further issuance of any “security” unless registered with the commission in advance.</li>
+<li>LBRY is also required to pay a $111,614 fee for its violation within the next thirty days. This is a massive <a href="https://cryptopotato.com/sec-knocks-lbrys-22-million-fine-down-to-111k/" data-wpel-link="internal">reduction</a> from the SEC’s original fee request, which was $22 million</li>
+<li>Over Twitter, LBRY confirmed that it will be completely winding down its operations, with the community free to decide how to make use of its LBC token.</li>
+</ul>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">The final judgement in SEC vs LBRY is out.</p>
+<p>In accordance with the court&#39;s order and our promises, we expect to spend the next several months winding LBRY Inc. down entirely.</p>
+<p>As to what happens to LBRY from here, well, that&#39;s up to you. <a href="https://t.co/cU8O3nATT6" data-wpel-link="external" target="_blank">pic.twitter.com/cU8O3nATT6</a></p>
+<p>&mdash; LBRY <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@LBRYcom) <a href="https://twitter.com/LBRYcom/status/1678866789407551489?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 11, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<ul>
+<li>LBRY is a decentralized content platform known for its video-sharing platform, Odyssey. The platform leveraged LBC as the internal currency with which creators could charge viewers for streaming their content, or earn tips.</li>
+<li>Throughout the case, the SEC noted that one of LBRY’s explicitly stated uses for LBC was to “financially support its operations,” which is one of the hallmarks of a security under the Howey Test.</li>
+<li>Ultimately, Judge Paul Barbadoro <a href="https://cryptopotato.com/sec-wins-case-against-lbry-what-does-it-mean-for-ripple/" data-wpel-link="internal">ruled</a> in November that “no reasonable trier of fact could reject the SEC’s contention that LBRY offered LBC as a security.”</li>
+<li>The case is thought to set a dangerous precedent for other crypto creators, who fear their token issuance models may have been illegal in the SEC’s view.</li>
+<li>In June, the agency alleged that multiple top cryptos were securities in a lawsuit against Coinbase, including Cardano (ADA), Solana (SOL) and Polygon (MATIC).</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/lbry-token-crashes-14-after-company-firm-behind-project-announces-shutdown/" rel="nofollow">LBRY Token Crashes 14% After Company Firm Behind Project Announces Shutdown</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Algorand&#8217;s Largest DeFi Protocol Shutting Down Operations</title>
-		<link>https://cryptopotato.com/algorands-largest-defi-protocol-shutting-down-operations/</link>
+		<title>Dump Incoming? US Government Moves Another 9,000 BTC From Silk Road</title>
+		<link>https://cryptopotato.com/dump-incoming-us-government-moves-another-9000-btc-from-silk-road/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 20:20:46 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260261</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/09/UnitedStates.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/09/UnitedStates.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The Department of Justice (DOJ) appears to be continuing its 50,000 BTC sale that began earlier this year. ]]></description>
+            																<content:encoded><![CDATA[<p>Blockchain data shows that the Department of Justice (DOJ) is moving another massive batch of seized Bitcoin (BTC) connected to Silk Road – the defunct darknet marketplace launched by Ross Ulbricht in 2011.</p>
+<p>The government has already confirmed plans to sell its Silk Road-related BTC throughout the year, meaning the latest transfers could signal its intention to soon dump more.</p>
+<h2>Silk Road Sale: Round 2</h2>
+<p>As <a href="https://twitter.com/WuBlockchain/status/1679132502886162436" data-wpel-link="external" target="_blank">tweeted</a> by Wu Blockchain on Wednesday, two Silk Road BTC addresses suspected to have been seized by the Justice Department moved over 9,825 BTC in aggregate in the past 24 hours. The <a href="https://www.oklink.com/btc/address/bc1qmxjefnuy06v345v6vhwpwt05dztztmx4g3y7wp?tab=commonTx" data-wpel-link="external" target="_blank">first</a> moved ~825 BTC, while the <a href="https://www.oklink.com/btc/address/bc1qe7nk2nlnjewghgw4sgm0r89zkjzsurda7z4rdg" data-wpel-link="external" target="_blank">second</a> moved ~9000 BTC.</p>
+<p>Previous movements from these wallets were seen in March when the second wallet <a href="https://www.oklink.com/btc/tx/d43068e021701606724af16aeb8197a3530021d45a16d5b830b465da6c5ce9e6" data-wpel-link="external" target="_blank">sent</a> over 9,800 BTC to Coinbase, where it was later sold. Both addresses now hold 0 BTC, with the remaining ~30,174 BTC from Silk Road sitting at a <a href="https://www.oklink.com/btc/address/bc1qf2yvj48mzkj7uf8lc2a9sa7w983qe256l5c8fs" data-wpel-link="external" target="_blank">third address</a>, from which they still haven’t moved.</p>
+<p>The 9,825 BTC moved on Wednesday are currently worth $300 million – up roughly 50% in value from September 7, when the department initially announced that it had <a href="https://cryptopotato.com/us-doj-seized-over-50000-btc-related-to-silk-road/" data-wpel-link="internal">seized</a> the 51,351 BTC. At the time, the DOJ indicted James Zhong for hacking Silk Road back in 2012 and creating nine accounts to hide his identity and trigger the release of all Bitcoin from the marketplace</p>
+<p>The government later <a href="https://www.forbes.com/sites/brandonkochkodin/2023/03/31/us-government-sells-bitcoin-seized-from-silk-road-case-netting-over-215-million/?sh=48f164492888" data-wpel-link="external" target="_blank">announced</a> that it sold 9,861 BTC on March 14, 2023, for an average price of $21,877. Many in the crypto community mocked the government following the reveal given that Bitcoin’s price had already surged roughly 25% since the actual sale and that it had paid $215,000 in transaction fees alone.</p>
+<p>The DOJ’s only financial seizure larger than Silk Road relates to another crypto hack. Early last year, authorities claimed 119,754 BTC related to the 2016 Bitfinex hack, worth $3.6 billion at the time.</p>
+<h2>Total Bitcoin Held By USG</h2>
+<p>In total, data from <a href="https://studio.glassnode.com/metrics?a=BTC&amp;c=native&amp;m=distribution.BalanceUsGovernment&amp;resolution=24h" data-wpel-link="external" target="_blank">Glassnode</a> shows that the government held 204,013 BTC prior to its most recent wallet transfers. This makes it the largest known individual holder of Bitcoin (excluding exchanges and custodians that hold BTC on behalf of thousands of customers).</p>
+<p>It’s unclear if an upcoming BTC sale with heavily impact the market. Data from CoinGecko shows that Bitcoin’s daily trading volume is over $12.7 billion, meaning the market may be able to absorb the sale without significant trouble.</p>
+<p>It’s also unclear if the coins will be sold all at once or in smaller batches over the course of a few weeks, the latter of which would have an even smaller impact. In a Glassnode <a href="https://insights.glassnode.com/the-week-onchain-week-28-2023/?utm_campaign=woc_28__2023&amp;utm_medium=woc_newsletter&amp;utm_source=email" data-wpel-link="external" target="_blank">report</a> this week, the firm explained that Bitcoin’s price had formed a “firm foundation” under $30,000 based on the number of coins traded in that price region.</p>
+<p>The post <a href="https://cryptopotato.com/dump-incoming-us-government-moves-another-9000-btc-from-silk-road/" rel="nofollow">Dump Incoming? US Government Moves Another 9,000 BTC From Silk Road</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Alex The Doge (ALEX) Presale Attracts Strong Community Interest</title>
+		<link>https://cryptopotato.com/alex-the-doge-alex-presale-attracts-strong-community-interest/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 18:59:28 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260246</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Alex_gamefi_banner_16891634719Ivvd8V7pI.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Alex_gamefi_banner_16891634719Ivvd8V7pI.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[Press Release &#8211; Frankfurt, Germany, July 12th, 2023] The presale for memecoin Alex The Doge (ALEX) is currently live, and has seen strong demand from the crypto community already. The presale offers a chance to participate in the ALEX ecosystem from the outset and to stake a claim in the MiracleVerse. Built on Polygon&#8217;s blockchain, [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[Press Release &#8211; Frankfurt, Germany, July 12th, 2023]</strong></p>
+<p>The presale for memecoin <a href="https://alexthedoge.live/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Alex The Doge</a> (ALEX) is currently live, and has seen strong demand from the crypto community already. The presale offers a chance to participate in the ALEX ecosystem from the outset and to stake a claim in the MiracleVerse.</p>
+<p>Built on Polygon&#8217;s blockchain, which provides speed, scalability, and security, Alex The Doge integrates DeFi i to allow value to transfer throughout the ecosystem and provide liquidity for trading and gaming.</p>
+<p>The cryptocurrency has a unique use case that is focused on the gaming industry. The Alex The Doge (ALEX) team has created a gaming world called the MiracleVerse, where gamers can participate in challenges and earn tokens with monetary value outside the ecosystem. The platform will unite communities via cross-chain compatibility and integrate popular gaming services into the platform to improve interoperability in gaming.</p>
+<p>The ALEX team is focused on improving the user experience compared to other P2E projects and meme tokens, with the focal point being the smooth transition between gaming credits and digital assets to be used within the everyday world.</p>
+<p>The presale offers 349,190,374 ALEX tokens for purchase with a starting price of 0.0084 USD. Following the presale, ALEX will be available on the Uniswap v3 platform for trading. Community members will need to include a compatible Polygon receiving address to ensure tokens are airdropped to their account on launch.</p>
+<p>The ALEX team is striving to optimize user experience and create a fluid transition between gaming, social, and trading. Users will be able to join social trading groups on the ALEX platform, bridging the gap between diverse trading communities and introducing ALEX to multiple crypto and gaming groups.</p>
+<p>ALEX&#8217;s unique features, including cross-chain compatibility and the MiracleVerse, set it apart from other P2E gaming platforms. The community is excited about the opportunity to join the ALEX presale and participate in the future of MiracleVerse.</p>
+<p><strong>About ALEX</strong></p>
+<p><a href="https://alexthedoge.live/" target="_blank" rel="nofollow noopener" data-wpel-link="external">ALEX</a> is the newest Doge on the block, Welcome to the future of Play-To-Earn Gaming and Social-Fi! Alex The Doge is a community project with a focal point on the end user experience, ALEX will revolutionize P2E gaming and expand our ecosystem to alternative gaming communities using cross-chain compatibility and creating a fluid transition between gaming credits and digital assets.</p>
+<p><strong>For more information about Alex The Doge (ALEX) presale: </strong><a href="https://alexthedoge.live/" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>Website</strong></a><strong> | </strong><a href="https://t.me/alexthedoge" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>Telegram</strong></a><strong> |</strong> <a href="https://twitter.com/AlexTheDoge_p2e" target="_blank" rel="nofollow noopener" data-wpel-link="external"><strong>Twitter</strong></a></p>
+<p>The post <a href="https://cryptopotato.com/alex-the-doge-alex-presale-attracts-strong-community-interest/" rel="nofollow">Alex The Doge (ALEX) Presale Attracts Strong Community Interest</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Struct Finance Transforms DeFi Landscape on Avalanche With the Launch of Tranche-based BTC.B-USDC Vaults</title>
+		<link>https://cryptopotato.com/struct-finance-transforms-defi-landscape-on-avalanche-with-the-launch-of-tranche-based-btc-b-usdc-vaults/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 18:56:11 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260226</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/BTC_USDC_1689175623JHb650OWHh.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/BTC_USDC_1689175623JHb650OWHh.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[Press Release &#8211; Tortola, British Virgin Islands, July 12th, 2023] In its ongoing journey to reshape the crypto investing landscape, Struct Finance, a DeFi platform that enables investors to engage with tailored interest rate products linked to digital assets, is thrilled to announce the launch of the BTC.B-USDC Vaults. The tranche-based BTC.B-USDC Interest Rate Product [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[Press Release &#8211; Tortola, British Virgin Islands, July 12th, 2023]</strong></p>
+<p>In its ongoing journey to reshape the crypto investing landscape, Struct Finance, a DeFi platform that enables investors to engage with tailored interest rate products linked to digital assets, is thrilled to announce the launch of the BTC.B-USDC Vaults.</p>
+<p>The tranche-based BTC.B-USDC Interest Rate Product was made possible by effectively leveraging Avalanche’s BTC.B (Bridged Bitcoin) for DeFi applications. The new vault beautifully complements Struct Finance’s Genesis USDC Vaults, heralding an exciting era in DeFi yield opportunities. Struct Finance built the new vault on top of GMX&#8217;s Liquidity Provider Token (GLP) to generate predictable yields for BTC in the form of fixed returns, and USDC in the form of variable returns, while still leveraging a secure asset and minimizing volatility and exposure to other risks.</p>
+<p>“Our BTC.B-USDC Vaults represent an innovative application of Bitcoin in DeFi. We&#8217;re taking full advantage of Avalanche&#8217;s Bridged Bitcoin (BTC.B) to bring about a fresh wave of opportunities in the digital asset space,” said Ersin Dalkali, the Co-founder of Struct Finance.</p>
+<p>While Bitcoin continues to dominate the market, its inherent lack of a DeFi layer has traditionally made native yield generation quite challenging. Avalanche has unlocked new possibilities for Bitcoin in DeFi with BTC.B (Bridged Bitcoin). Unlike WBTC that relied on centralized bridges, BTC.B is minted via Avalanche Core — a decentralized bridge — and can be trustlessly bridged across networks using the Layer Zero bridge.</p>
+<p>At present, Bitcoin investments in prominent lending pools yield between 0.2–0.5%. Even the stable swap pools offering wBTC-BTC.B products only manage to deliver returns of about 2%. Struct’s BTC.B-USDC product shatters these limitations, offering significantly higher yields.</p>
+<p>The purpose of BTC.B is to empower BTC holders to explore DeFi opportunities on the Avalanche blockchain, without the need to acquire secondary tokens or rely on centralized bridges. BTC.B represents BTC coins transferred to the Avalanche blockchain in the form of ERC-20 tokens. With over 6000 BTC bridged and a fully diluted value of $180 million, BTC.B is carving a niche for itself in the crypto arena.</p>
+<p>The Bitcoin ETF applications by BlackRock, WisdomTree, and Invesco – three of the world’s leading asset managers – are not just a mere submission. It is a signal that the traditional financial realm is ready to embrace Bitcoin on a new level. Recently, the US Securities and Exchange Commission (SEC) gave the green light to a 2X leveraged Bitcoin ETF, sparking an enthusiastic wave of speculation and anticipation for approval of a spot Bitcoin ETF.</p>
+<h2>Delta hedging</h2>
+<p>Amid the highly volatile crypto industry, Struct Finance’s Interest Rate Products allow anyone to split and repackage the risk of any yield-bearing DeFi assets in different parts to fit their risk profile through an innovative process called “tranching.” Every Interest Rate Product is a single vault split into two portions, or tranches that have different return configurations:</p>
+<ol>
+<li>A Fixed-return Tranche for conservative investors looking for consistent returns</li>
+<li>A Variable-return Tranche for investors with a higher risk appetite seeking superior returns</li>
+</ol>
+<p>The yield from the underlying asset flows into the fixed tranche first to ensure predictable returns. The remainder is then allocated to the variable tranche, which gets enhanced exposure to the underlying yield-bearing asset. Compared to the fixed tranche, the variable tranche might accrue more yield, less yield, or no yield.</p>
+<p>As part of its BTC.B-USDC Vaults, Struct Finance has implemented a unique approach to managing investment risk: delta hedging. While the fixed tranche takes center stage with its high yield, the variable side of the product offers an additional layer of intriguing complexity and potential.</p>
+<p>Upon deployment of funds into the vault, the BTC.B in the fixed tranche gets converted into GMX’s GLP token, setting up a position that’s short Bitcoin against GLP and contributing a negative delta. In contrast, the USDC on the variable side is converted into GLP, which inherently carries a positive delta.</p>
+<p>This innovative delta-hedged product design achieves a fine balance between the positive and negative delta forces. It results in a robust strategy that allows investors to confidently navigate the crypto market’s inherent volatility.</p>
+<p>This artful interplay of the fixed and variable sides within the vaults opens the doors for investors to tap into the potential of Bitcoin investments like never before. By catering to a diverse range of risk appetites, Struct Finance ensures that both retail and institutional investors can tailor their strategies to maximize their returns, regardless of market conditions.</p>
+<h2>About Struct Finance</h2>
+<p>Struct Finance is at the forefront of the DeFi revolution, with a vision to transform the design and utility of financial products. It empowers users to design their own financial instruments, harnessing the power of tokenized, yield-bearing positions to unlock a world of diverse investment opportunities. Moreover, its cutting-edge financial products adopt a tranche-based system, smartly distributing yield between different investor classes. This balanced approach guarantees a steady yield for risk-averse investors while also offering the prospect of heightened returns to the more adventurous. Initially available on Avalanche, Struct Finance plans to go multichain in the near future.</p>
+<p><strong>For more information, visit</strong>: <a href="https://www.struct.fi/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Website</a>  |  <a href="https://twitter.com/structfinance" target="_blank" rel="nofollow noopener" data-wpel-link="external">Twitter</a>  |  <a href="https://discord.gg/kngan3PD" target="_blank" rel="nofollow noopener" data-wpel-link="external">Discord</a>  |  <a href="https://t.me/struct_finance_announcements" target="_blank" rel="nofollow noopener" data-wpel-link="external">Telegram</a></p>
+<p class="ql-align-center"><strong>Disclaimer: This release is for informational purposes only and should not be construed as financial promotion.</strong></p>
+<p>The post <a href="https://cryptopotato.com/struct-finance-transforms-defi-landscape-on-avalanche-with-the-launch-of-tranche-based-btc-b-usdc-vaults/" rel="nofollow">Struct Finance Transforms DeFi Landscape on Avalanche With the Launch of Tranche-based BTC.B-USDC Vaults</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Litecoin&#8217;s Social Chatter Intensfies to New Yearly Peak Ahead of Halving: Data</title>
+		<link>https://cryptopotato.com/litecoins-social-chatter-intensfies-to-new-yearly-peak-ahead-of-halving-data/</link>
 		
 		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 16:45:50 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 18:14:45 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259887</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/algofi_shut_down_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/algofi_shut_down_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[LTCBTC]]></category>
+		<category><![CDATA[LTCUSD]]></category>
+		<category><![CDATA[Litecoin Halving]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260134</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/02/Litecoin.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/02/Litecoin.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Algofi will remain active only on Discord and will shut down all the other social media channels. ]]></description>
-            																<content:encoded><![CDATA[<p>Algorand-based decentralized finance (DeFi) protocol, Algofi, has announced winding down its operations.</p>
-<p>In a statement, Algofi cited a &#8220;confluence of events&#8221; as the reason behind its decision that has rendered it no longer viable to continue building and maintaining the platform to the &#8220;highest standards.&#8221; As a result, the platform will soon transition to withdrawal-only mode.</p>
+			            <description><![CDATA[After the much-anticipated halving, miners will receive just 6.25 LTC per block.]]></description>
+            																<content:encoded><![CDATA[<p>Litecoin (LTC) search trend has hit a new yearly peak, according to the blockchain analytic platform, IntoTheBlock. The upcoming halving event &#8211; which is currently set for August 2nd &#8211; is likely to be a key driver for the heightened interest.</p>
+<p>Halving events have been known to generate tremendous interest in the days leading up to the fact, as they increase the scarcity, which typically boots the value. Hence, the chatter around the crypto asset intensifying is a given.</p>
 <ul>
-<li>The DeFi platform <a href="https://blog.algofi.org/algofi-community-update-3cc989962d57" target="_blank" rel="noopener" data-wpel-link="external">revealed</a> that closing down all the social media platforms associated with the platform except Discord in a bid to ensure &#8220;seamless, unified communication.&#8221;</li>
-<li>The process of winding down the protocol is estimated to take several months.</li>
-<li>In the meantime, the team will work on reducing the collateral factors of the digital asset markets on its platform, enabling liquidity to migrate to other protocols.</li>
+<li>ITB&#8217;s latest <a href="https://twitter.com/intotheblock/status/1679077427903971328" target="_blank" rel="noopener" data-wpel-link="external">data</a> depicts a rising search trend for Litecoin amidst what experts consider the longest bear market in the history of the crypto industry.</li>
+<li>In fact, its price spikes in the past couple of weeks have <a href="https://twitter.com/santimentfeed/status/1676645794089439233" target="_blank" rel="noopener" data-wpel-link="external">coincided</a> with peaks in social activity volume.</li>
+<li>Such a trend is common, especially ahead of halving, and if history repeats, the crypto asset is poised for a more upward breakout.</li>
+<li>Data suggest that its market cap <a href="https://twitter.com/coinfeeds_ai/status/1676746993773977600" target="_blank" rel="noopener" data-wpel-link="external">increased</a> by nearly 3x nine months following the last halving in 2019. With the crypto markets maturing, the upcoming halving could exert even more upward price pressure.</li>
+<li>For one, Litecoin re-entered the top 10 digital assets by market cap in July. Over the past month alone, it has gained over 26%. The crypto asset was currently trading at $97.05, up by more than 37% YTD.</li>
+<li>The current price trajectory, coupled with <a href="https://cryptopotato.com/13-of-all-litecoin-ltc-in-circulation-unmoved-for-5-years-report/" target="_blank" rel="noopener" data-wpel-link="internal">increased</a> holding behavior demonstrated by long-term LTC holders, signals a potential acceleration in the crypto asset&#8217;s price.</li>
+<li>Meanwhile, the network activity has been picking up all year and more significantly since the beginning of April.</li>
+<li>The <a href="https://cryptopotato.com/not-just-bitcoin-ordinals-are-now-on-litecoin/" target="_blank" rel="noopener" data-wpel-link="internal">introduction</a> of LTC 20 &#8211; an experimental standard of NFTs &#8211; could be another catalyst for such a trend.</li>
+<li>The LTC-20 standard has attracted more than 90,000 users, inscribing over a million ordinals.</li>
 </ul>
-<blockquote><p>&#8220;This is obviously not the outcome any of us on the team or in the community hoped for at the outset of this project. We can’t thank the Algorand community enough for their support throughout this journey and can’t wait to see what comes next for Algorand.&#8221;</p></blockquote>
-<ul>
-<li>Algofi is the largest DeFi hub in Algorand boasting a TVL of $32.36 million and accounting for nearly 55% of the layer 1 ecosystem&#8217;s value.</li>
-<li>According to the latest data compiled by DeFiLlama, TVL hit an all-time high of $134 million earlier in February this year, since then, the figures have gone downhill.</li>
-<li>Zooming out, Algorithm&#8217;s TVL has also <a href="https://defillama.com/chain/Algorand" target="_blank" rel="noopener" data-wpel-link="external">plummetted</a> by over 73% since its peak of $218 million last November to $58.35 million at the time of writing.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/algorands-largest-defi-protocol-shutting-down-operations/" rel="nofollow">Algorand&#8217;s Largest DeFi Protocol Shutting Down Operations</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>The post <a href="https://cryptopotato.com/litecoins-social-chatter-intensfies-to-new-yearly-peak-ahead-of-halving-data/" rel="nofollow">Litecoin&#8217;s Social Chatter Intensfies to New Yearly Peak Ahead of Halving: Data</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Mr. Hankey Coin Set for $500k Presale Launch This Week with New Meme Coin Expected to Go Viral</title>
-		<link>https://cryptopotato.com/mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral/</link>
+		<title>How This Dogecoin Trade Made a Crypto Investor a Millionaire: Could These Meme Coins Explode Next?</title>
+		<link>https://cryptopotato.com/how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next/</link>
 		
 		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 14:48:19 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 18:11:03 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259982</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/mr_hankey_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/mr_hankey_cover.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260227</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/hankey_thuglife_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/hankey_thuglife_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[FOMO and hype are already building around a brand new meme project, Mr. Hankey Coin, which is set for an ICO launch on July 13. Momentum is gathering around the shitcoin based on the beloved South Park Christmas deity, who first appeared in season one of the sitcom back in 1997 and has since become [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>FOMO and hype are already building around a brand new meme project, Mr. Hankey Coin, which is set for an ICO launch on July 13.</p>
-<p>Momentum is gathering around the shitcoin based on the beloved South Park Christmas deity, who first appeared in season one of the sitcom back in 1997 and has since become one of its most beloved characters.</p>
-<p>The <a href="https://cryptopotato.care/b_misterhankey_34322?referrer=mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">$HANKEY presale</a> could be as soon as 6pm UTC on July 13, with the project to reveal full details and the exact timing of the launch on their social media channels.</p>
-<p>The secretive launch and experience of the team &#8211; rumored to have been behind previously viral meme coins like $SPONGE &#8211; has only increased excitement for the token.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.png" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259985" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.png" alt="Picture8" width="936" height="304" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture8.png 936w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture8-300x97.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture8-768x249.png 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture8-50x16.png 50w" sizes="(max-width: 936px) 100vw, 936px" /></a></p>
-<h2>$HANKEY Tokenomics &#8211; Low Hard Cap and Large Liquidity</h2>
-<p>The <a href="https://cryptopotato.care/b_misterhankey_34322?referrer=mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">$HANKEY ICO</a> will not only have a secret drop but is also launching with an extremely limited supply that is intended to get investors scrambling for tokens.</p>
-<p>Only 400 million tokens have been made available, with a hard cap of just $500,000, which the team expects to be bought up by the time the weekend starts.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259984" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2.jpg" alt="Picture7" width="936" height="754" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2.jpg 936w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2-300x242.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2-768x619.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture7-2-50x40.jpg 50w" sizes="(max-width: 936px) 100vw, 936px" /></a></p>
-<p>That presale allocation is 40% of the max supply of just 1 billion tokens, with another 40% available for the liquidity pool when it launches on decentralized exchanges.</p>
-<p>This combination of a small hard cap, huge FOMO, and high liquidity is positioning the token for a potential increase soon after its DEX launch as orders fly in and the wider market apes into a position.</p>
-<p>With liquidity expected to be locked at launch, there is also no chance of a rug pull.</p>
-<p>Crypto analysts are already expecting big things of $HANKEY because of its fair launch, short ICO, the hype already building around it, and the name recognition of one of South Park’s favorite creations.</p>
-<p>With similarly themed shitcoins exploding every week, <a href="https://www.youtube.com/watch?v=7aRT6sH4zBw" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">one analyst has already predicted the project to quickly 10x</a> due to the growing anticipation over the launch.</p>
-<h2>Large Marketing Budget and Experienced Team</h2>
-<p>The remaining supply has been allocated to its marketing budget (10%), team and development (5%) and centralized exchange liquidity (5%).</p>
-<p>As mentioned above, there are growing rumors that the team has previously been involved with the likes of $SPONG, a token that exploded over 100x in price during the meme coin frenzy earlier this year.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-259983" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1.jpg" alt="Picture6" width="936" height="506" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1.jpg 936w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-1-50x27.jpg 50w" sizes="(max-width: 936px) 100vw, 936px" /></a></p>
-<p>They have allocated a large marketing budget to the project and their contacts in Web3 have already seen results as the project becomes a name on the lips of serious investors across the space.</p>
-<p>It is already being featured in numerous crypto news websites and even heavily visited data aggregators such as DEXTools and CoinGecko.</p>
-<p>The team is also set to use its contacts to have $HANKEY listed on as many centralized exchanges as possible in as quick a time as possible &#8211; the expected volume from the launch will help in that task.</p>
-<h2>Growing Community and First Access to ICO Drop</h2>
-<p>The Mr Hankey Coin community is rapidly growing as FOMO builds and potential investors get excited by the new coin. While the presale is not yet live, investors can join now to get notified of the drop date and secure their place.</p>
-<p>Its social media following will also be the first place to reveal crucial details on the launch time, with investors needing to follow its <a href="https://twitter.com/MrHankeythecoin" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter page</a> and <a href="https://t.me/MrHankeyOfficial" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Telegram channel</a> to receive the news and act quickly.</p>
-<p>The project has also put together a <a href="https://mrhankey.vip/wp-content/uploads/2023/07/Brownpaper.pdf" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">whitepaper &#8211; or brownpaper</a> &#8211; so potential investors can dig a bit deeper into the project ahead of the anticipated July 13 launch.</p>
-<p><a href="https://cryptopotato.care/b_misterhankey_34322?referrer=mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Mr Hankey Coin Website</strong></a></p>
+			            <description><![CDATA[Dogecoin ($DOGE) remains the most talked-about meme coin in the crypto market – and for good reason. The coin has made fortunes for numerous astute investors, and the tale of one trader, in particular, has caught people&#8217;s interest. However, with Dogecoin’s heyday seemingly behind it, meme coin enthusiasts are now seeking out alternative coins with [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Dogecoin ($DOGE) remains the most talked-about meme coin in the crypto market – and for good reason.</p>
+<p>The coin has made fortunes for numerous astute investors, and the tale of one trader, in particular, has caught people&#8217;s interest.</p>
+<p>However, with Dogecoin’s heyday seemingly behind it, meme coin enthusiasts are now seeking out alternative coins with colossal price potential – and Mr. Hankey Coin ($HANKEY) and Thug Life ($THUG) have emerged as viable candidates in this regard.</p>
+<h2>Reddit User Becomes Crypto Millionaire by Betting on Dogecoin</h2>
+<p>Dogecoin needs no introduction, as the coin’s exponential price increase in 2021 was what sparked the meme coin niche into life.</p>
+<p>Between January and May 2021, $DOGE exploded by over 7,500%, marking the first time meme-based crypto had gained mainstream attention.</p>
+<p>The remarkable surge in Dogecoin&#8217;s value captured the public&#8217;s imagination and fueled a frenzy of interest and speculation.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-13.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-260237" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-13.jpg" alt="Picture2" width="602" height="288" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-13.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-13-300x144.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-13-50x24.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Amidst this frenzy, many crypto traders emerged and seized the opportunity presented by the coin&#8217;s rising value.</p>
+<p>One of these traders, Glauber Contessoto, made a fortune investing in Dogecoin by using his life savings to purchase $DOGE.</p>
+<p>According to a 2021 <a href="https://www.nytimes.com/2021/05/14/technology/hes-a-dogecoin-millionaire-and-hes-not-selling.html" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">article</a> from The New York Times, Contessoto&#8217;s decision to invest his life savings in Dogecoin drew skepticism from friends and family members, but it paid off immensely.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-13.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-260236" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-13.jpg" alt="Picture3" width="602" height="296" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-13.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-13-300x148.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-13-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Contessoto’s first investment amounted to around $250,000 and was made in February 2021, just before $DOGE took off.</p>
+<p>At the time, $DOGE was trading for just $0.045, yet Contessoto believed in the inherent price potential of the coin, thanks to discussions on platforms like Reddit.</p>
+<p>Within two months, Contessoto’s investment soared, turning him into a crypto millionaire.</p>
+<p>At the peak of Dogecoin’s rally, Contessoto’s $DOGE holdings amounted to a staggering $3 million – representing a 12x return on his initial investment.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-260235" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7.jpg" alt="Picture4" width="602" height="611" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7-296x300.jpg 296w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7-100x100.jpg 100w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7-50x50.jpg 50w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture4-7-45x45.jpg 45w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>Interestingly, Contessoto claimed he would sell when $DOGE reached $1, highlighting his unwavering support for the coin.</p>
+<p>Unfortunately, this price point was not achieved. Dogecoin&#8217;s value crashed throughout the second half of 2021, leaving many HODLers (including Contessoto) out of pocket.</p>
+<p>However, the good news for the so-called &#8220;Dogecoin millionaire&#8221; is that he has now carved out a niche on social media, boasting a <a href="https://twitter.com/ProTheDoge?s=20" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter audience</a> of over 280,000 people.</p>
+<p>Ultimately, Contessoto’s story serves as a testament to the unpredictable nature of the crypto market and its incredible potential.</p>
+<h2>Which Meme Coins Could Explode Next?</h2>
+<p>While Dogecoin&#8217;s remarkable rise captivated the world, it is not the only meme coin that has seen such huge gains, with Pepe being one of the most recent examples.</p>
+<p>Other meme coins, like Mr. Hankey Coin and Thug Life, have also emerged &#8211; aiming to ride the wave of internet culture and provide similar investment opportunities.</p>
+<h2>Mr. Hankey Coin Generating Huge Excitement Ahead of ICO This Week</h2>
+<p><a href="https://cryptopotato.care/b_misterhankey_34322?referrer=how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Mr. Hankey Coin ($HANKEY)</a> is a fresh entrant into the meme coin universe that’s generating huge hype before it’s even launched. It draws inspiration from the beloved South Park character that shares its name and is embracing the shitcoin status.</p>
+<p>$HANKEY’s social media traction in the past few days has been remarkable – within just 24 hours of being launched, the Mr. Hankey Coin <a href="https://twitter.com/MrHankeythecoin" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter account</a> saw a whopping 4,300 people become followers.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-3.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-260234" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-3.jpg" alt="Picture5" width="602" height="259" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-3.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-3-300x129.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture5-3-50x22.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>This impressive response underscores the viral potential that $HANKEY has, which is bolstered even further by the fact that the creators are gearing up to launch a limited-time presale phase on 13 July.</p>
+<p>During this presale phase, 40% of the total $HANKEY supply will be made available, with a modest hard cap of $500,000.</p>
+<p>This was a key ingredient in Dogecoin’s success story – and it seems that $HANKEY is taking a leaf from that playbook. There are also rumors that the team behind Mr. Hankey Coin is the same behind the $SPONGE token, which rose over 100x earlier this year.</p>
+<p>Prominent crypto YouTuber Jacob Bury has even taken note of Mr. Hankey Coin’s debut, <a href="https://www.youtube.com/watch?v=rxL79EydSMI" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">expressing</a> that it could be the next “10x potential meme coin”. All in all, although $HANKEY may be at the beginning of its journey, the growing enthusiasm around the token indicates it&#8217;s already making its mark.</p>
+<p>The exact drop time has not yet been announced, but interested traders can join the presale now to get notified and ensure they don’t miss out</p>
+<p><a href="https://cryptopotato.care/b_misterhankey_34322?referrer=how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Mr. Hankey Coin Presale</strong></a></p>
+<h2>High-Flying Meme Coin Thug Life Raises Over $1.1m &amp; Looks Set to Go Viral</h2>
+<p>Another meme coin that has the potential to provide exponential returns is <a href="https://cryptopotato.care/b_thuglife_33357?referrer=how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Thug Life ($THUG)</a>.</p>
+<p>Harnessing the power of hip-hop nostalgia, this fresh addition to the meme coin niche is already piquing the interest of traders worldwide.</p>
+<p>$THUG’s recently-launched presale has already generated over $1.1 million within just two weeks, highlighting the hype around the token.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-2.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-260233" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-2.jpg" alt="Picture6" width="602" height="413" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-2.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-2-300x206.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture6-2-50x34.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<p>With the presale set to conclude in under five days, or once the hard cap of $2.05 million is hit, there’s now a rush as investors clamor to get their hands on $THUG before its open market debut.</p>
+<p>Importantly, 70% of the total 4.2 billion $THUG supply has been earmarked for presale investors, with tokens priced at just $0.0007.</p>
+<p>Not only that, but Thug Life’s <a href="https://thuglifetoken.com/assets/documents/whitepaper.pdf" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">whitepaper</a> notes that 15% of the supply will be used for community rewards – which could include giveaways and token airdrops.</p>
+<p>This attractive tokenomics setup has helped foster a strong community base right from the get-go, with nearly 4,000 people now following the official <a href="https://twitter.com/thug_life_token" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter page</a>.</p>
+<p>Given its significant following and rapidly increasing presale investment, the signs that Thug Life could be the next meme coin to explode are undoubtedly promising.</p>
+<p><a href="https://cryptopotato.care/b_thuglife_33357?referrer=how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Thug Life Presale</strong></a></p>
 <p><em>Disclaimer: The above article is sponsored content, and it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
 <p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
-<p>The post <a href="https://cryptopotato.com/mr-hankey-coin-set-for-500k-presale-launch-this-week-with-new-meme-coin-expected-to-go-viral/" rel="nofollow">Mr. Hankey Coin Set for $500k Presale Launch This Week with New Meme Coin Expected to Go Viral</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>The post <a href="https://cryptopotato.com/how-this-dogecoin-trade-made-a-crypto-investor-a-millionaire-could-these-meme-coins-explode-next/" rel="nofollow">How This Dogecoin Trade Made a Crypto Investor a Millionaire: Could These Meme Coins Explode Next?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>New ATH: Bitcoin&#8217;s Unmoved Supply Peaks Amid Institutional Interest (Bitfinex Report)</title>
-		<link>https://cryptopotato.com/new-ath-bitcoins-unmoved-supply-peaks-amid-institutional-interest-bitfinex-report/</link>
+		<title>Bitcoin Price Hits ATH Against EGP on Binance Amid Egypt&#8217;s Economic Crisis</title>
+		<link>https://cryptopotato.com/bitcoin-price-hits-ath-against-egp-on-binance-amid-egypts-economic-crisis/</link>
 		
-		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
-		<pubDate>Tue, 11 Jul 2023 13:58:02 +0000</pubDate>
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 16:42:52 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Binance]]></category>
 		<category><![CDATA[Bitcoin]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=259805</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/10/bitcoin_cover-6.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/10/bitcoin_cover-6.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Coinbase]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260179</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/06/egypt_bitcoin-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/06/egypt_bitcoin-min.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[According to the report, the unmoved BTC has led to a decrease in liquidity for bitcoin traders.]]></description>
-            																<content:encoded><![CDATA[<p>Leading crypto exchange Bitfinex released its latest Bitfinex Alpha report, a weekly publication that offers on-chain data and insights into the dynamic crypto market. This week&#8217;s document found that the amount of unmoved bitcoin has reached its highest point.</p>
-<p>The report further highlights an intriguing development in liquidity trends. Bitcoin liquidity has experienced a decrease, while that of Tether USDT has witnessed a noteworthy increase.</p>
-<h2>Bitcoin&#8217;s Unmoved Supply Hits ATH</h2>
-<p><a href="https://blog.bitfinex.com/wp-content/uploads/2023/07/Bitfinex-Alpha-62.pdf" data-wpel-link="external" target="_blank">Bitfinex Alpha</a> attributes the surge in unmoved bitcoin to the growing interest of institutional investors in the digital asset.</p>
-<p>Citing data from Ark Invest, an investment firm headed by the renowned <a href="https://cryptopotato.com/cathie-wood-reiterates-her-1-million-bitcoin-bet/" data-wpel-link="internal">Cathie Wood</a>, the paper stated that about 70% of BTC&#8217;s circulating supply has been unmoved for at least a year, the highest ever recorded.</p>
-<p>The increasing involvement of these big players indicates strong bullish sentiment and unwavering confidence in bitcoin&#8217;s long-term prospects.</p>
-<p>According to the report, the BTC balance held on over-the-counter (OTC) desks, which serves as a reliable indicator of institutional activity, reached a one-year high in June. The balance surged by an impressive 60% by the end of the third quarter. This growth suggests that institutions and large investors are actively embracing the cryptocurrency as an attractive investment option.</p>
-<p>The researchers also found that the bitcoin holdings of crypto-related hedge funds, investment firms, and private funds have significantly increased as institutional investors accumulate BTC at the current price level.</p>
-<h2>Derivatives Traders Dominating the Market</h2>
-<p>However, per the report, there has been a notable surge in Bitcoin Open Interest, exceeding a substantial 38% increase since the initial spot Bitcoin ETF <a href="https://cryptopotato.com/not-just-blackrock-these-companies-have-also-filed-for-spot-bitcoin-etf-in-the-us/" data-wpel-link="internal">filing</a> by the world&#8217;s largest asset manager BlackRock.</p>
-<p>This rise indicates a potential shift in market dynamics, with derivatives traders potentially exerting greater influence on the current momentum, dethroning spot traders.</p>
-<p>Bitfinex researchers caution that increased positions in futures contracts typically indicate short-term downward pressure on BTC&#8217;s price. As such, traders should monitor the trend closely, as it could impact market performance in the short run.</p>
-<h2>A Decreased Bitcoin Liquidity</h2>
-<p>The report also found that there has been a decline in bitcoin&#8217;s liquidity, contrasted with a substantial increase in the liquidity of Tether USDT, the largest stablecoin in the market. The decreased BTC liquidity aligns with the trend of long-term bitcoin holdings, as outlined in the publication.</p>
-<blockquote><p>The researchers shed light on the development, stating, &#8220;As more investors hold onto their Bitcoin, less of it is available for trading, leading to decreased liquidity. This trend of &#8216;HODLing&#8217; is often perceived as a testament to the confidence placed in Bitcoin&#8217;s long-term value, despite temporary market fluctuations.&#8221;</p></blockquote>
-<p>However, it is worth noting that insufficient liquidity can give rise to increased price volatility. When less BTC is available for trading, price changes can become more drastic, which may pose risks for traders.</p>
-<p>The post <a href="https://cryptopotato.com/new-ath-bitcoins-unmoved-supply-peaks-amid-institutional-interest-bitfinex-report/" rel="nofollow">New ATH: Bitcoin&#8217;s Unmoved Supply Peaks Amid Institutional Interest (Bitfinex Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[The depreciation of the Egyptian pound against the US dollar is the main reason for the development.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Egypt is yet another country that currently copes with severe financial difficulties and galloping inflation, which have harmed the local currency. As such, the price of bitcoin against EGP has surged notably lately, exceeding 1,200,000 EGP on Binance, which is a record high.</span></p>
+<p><span data-preserver-spaces="true">It is worth mentioning that the valuation is not that high on other cryptocurrency exchanges, such as Coinbase.</span></p>
+<h2><span data-preserver-spaces="true">The Outcome of the Monetary Disruption</span></h2>
+<p><span data-preserver-spaces="true">Despite Egypt&#8217;s GDP gradually growing in the past years, the standard of living in the country has been on a downtrend, with high inflation decreasing the purchasing power of the national currency.</span></p>
+<p><span data-preserver-spaces="true">Some experts claim the financial problems started after the bloody <a href="https://en.wikipedia.org/wiki/2011_Egyptian_revolution" data-wpel-link="external" target="_blank">2011 revolution</a> when approximately two million people flooded the streets protesting against the reign of President Hosni Mubarak. Egypt entered a turbulent political period in the following years, unable to sustain a stable government until 2014.</span></p>
+<p><span data-preserver-spaces="true">The COVID-19 global pandemic and the military conflict between Russia and Ukraine are other factors that worsened the issues. Egypt depends on imported wheat and grain from the Black Sea region, and logically, those deliveries have been interrupted. </span></p>
+<p><span data-preserver-spaces="true">The condition of the Egyptian pound is quite worrying since it has depreciated by nearly 40% against the US dollar in the last year. The decline has prompted locals to convert their savings into foreign currency or seek alternative investment options like cryptocurrencies.</span></p>
+<p><span data-preserver-spaces="true">The domestic currency has shrunk so much that the price of bitcoin measured in EGP has reached an all-time high on some cryptocurrency exchanges, such as Binance and Changelly.<br />
+</span></p>
+<figure id="attachment_260197" aria-describedby="caption-attachment-260197" style="width: 645px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Binance.png" data-wpel-link="internal"><img class="wp-image-260197" src="https://cryptopotato.com/wp-content/uploads/2023/07/Binance.png" alt="BTC Against EGP" width="645" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Binance.png 737w, https://cryptopotato.com/wp-content/uploads/2023/07/Binance-300x186.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Binance-50x31.png 50w" sizes="(max-width: 645px) 100vw, 645px" /></a><figcaption id="caption-attachment-260197" class="wp-caption-text">BTC Against EGP, Source: Binance</figcaption></figure>
+<p><span data-preserver-spaces="true">The previous record was in mid-November 2021, when the primary cryptocurrency reached its highest valuation against all fiat currencies, including the greenback, at $69,000.</span></p>
+<p><span data-preserver-spaces="true">It is worth mentioning that other crypto platforms display different prices. Coinbase, for one, <a href="https://www.coinbase.com/price/bitcoin" data-wpel-link="external" target="_blank">shows</a> that one BTC is currently worth around 950,336 EGP. </span></p>
+<h2><span data-preserver-spaces="true">Similar Situation in Other Countries</span></h2>
+<p><span data-preserver-spaces="true">The trends are similar in Turkey and Argentina, where residents also have to cope with record inflation and monetary chaos. Bitcoin is currently worth around 806,000 TRY on <a href="https://www.binance.com/en/price/bitcoin" data-wpel-link="external" target="_blank">Binance</a></span><a class="editor-rtfLink" href="https://www.binance.com/en/price/bitcoin" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">, </span></a><span data-preserver-spaces="true">close to the ATH measured a few days ago. </span></p>
+<p><span data-preserver-spaces="true">Turkish residents have shown an increasing interest in digital assets over the years. Some have </span><a class="editor-rtfLink" href="https://cryptopotato.com/turkey-residents-turn-to-crypto-amid-another-lira-collapse-report/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">converted</span></a><span data-preserver-spaces="true"> their funds to the stablecoin USDT as a protection against the never-ending depreciation of the lira. Ebru Güven – university lecturer and former banker &#8211; explained in detail:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Investing in stablecoins allows people to keep the value of their wealth; it&#8217;s one of the ways to hold on to some value when inflation is this high. This is the only motivation for people to buy stablecoins right now.&#8221;</span></p></blockquote>
+<p><span data-preserver-spaces="true">Some Argentines have also lost their trust in the peso. The political calamity that has reigned in the South American nation for decades, the three-digit inflation rate marked earlier this year, and many more problems have triggered a huge appetite for crypto. Similar to the Turks, Argentines have </span><a class="editor-rtfLink" href="https://cryptopotato.com/argentines-embrace-crypto-following-resignation-of-economy-minister/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">shifted</span></a><span data-preserver-spaces="true"> their focus to the world&#8217;s largest stablecoin &#8211; USDT.</span></p>
+<p>The post <a href="https://cryptopotato.com/bitcoin-price-hits-ath-against-egp-on-binance-amid-egypts-economic-crisis/" rel="nofollow">Bitcoin Price Hits ATH Against EGP on Binance Amid Egypt&#8217;s Economic Crisis</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>COIN Shares Climb 10% After Cboe Included Coinbase in Amended BTC ETF Applications</title>
+		<link>https://cryptopotato.com/coin-shares-climb-10-after-cboe-included-coinbase-in-amended-btc-etf-applications/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 15:07:29 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin ETF]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=260052</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/11/Coinbase.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/11/Coinbase.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The last time COIN shares were trading at nearly $90 was 11 months ago.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Coinbase&#8217;s shares spiked to almost $90 following the news that exchange operator Cboe Global Markets filed amended applications of three spot BTC exchange-traded funds, adding surveillance-sharing agreements with Coinbase.</span></p>
+<p><span data-preserver-spaces="true">The US Securities and Exchange Commission has yet to decide on the launch of such a product. It remains unknown whether the lawsuit filed against Coinbase by the watchdog will affect its final ruling.</span></p>
+<h2><span data-preserver-spaces="true">Rising to Almost One-Year High</span></h2>
+<p><span data-preserver-spaces="true">Cboe Global Markets &#8211; an American company that owns the Chicago Board Options Exchange &#8211; mimicked Nasdaq&#8217;s move and </span><a class="editor-rtfLink" href="https://www.reuters.com/technology/cboe-exchange-partner-with-coinbase-bitcoin-market-surveillance-etf-push-2023-07-11/" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">filed</span></a><span data-preserver-spaces="true"> applications to list and trade shares of three spot BTC ETFs, including one by Fidelity Digital Assets. Just like the online global marketplace, Cboe added the US-based crypto exchange as a surveillance partner.</span></p>
+<p><span data-preserver-spaces="true">The exchange&#8217;s shares reacted positively to the development, surging by 10% and exceeding $90 at one point. The last time COIN traded that high was in August 2022.<br />
+</span></p>
+<figure id="attachment_260055" aria-describedby="caption-attachment-260055" style="width: 769px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/COIN.png" data-wpel-link="internal"><img class="wp-image-260055" src="https://cryptopotato.com/wp-content/uploads/2023/07/COIN.png" alt="COIN Price" width="769" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/COIN.png 540w, https://cryptopotato.com/wp-content/uploads/2023/07/COIN-300x156.png 300w, https://cryptopotato.com/wp-content/uploads/2023/07/COIN-50x26.png 50w" sizes="(max-width: 769px) 100vw, 769px" /></a><figcaption id="caption-attachment-260055" class="wp-caption-text">COIN Price, Source: Yahoo Finance</figcaption></figure>
+<p><span data-preserver-spaces="true">Possible approval of a spot BTC ETF in the USA might fuel an additional price rally for Coinbase&#8217;s stocks. The world&#8217;s largest asset managers &#8211; </span><a class="editor-rtfLink" href="https://cryptopotato.com/us-sec-files-a-lawsuit-against-coinbase-day-after-suing-binance/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">BlackRock</span></a><span data-preserver-spaces="true">, Invesco, Valkyrie, and other finance giants have aspirations to do the same.</span></p>
+<p><span data-preserver-spaces="true">The SEC, though, has started a legal battle against Coinbase, <a href="https://cryptopotato.com/us-sec-files-a-lawsuit-against-coinbase-day-after-suing-binance/" data-wpel-link="internal">accusing</a> the marketplace of violating several rules and offering trading services with alleged unregistered securities, such as MATIC, SOL, and ADA. The spat between the entities might play a role in the Commission&#8217;s final decision.</span></p>
+<p><span data-preserver-spaces="true">Some experts argued that the SEC should greenlight a spot BTC ETF if the interested firms prove the safety of the product. Such is the former Chairman of the securities regulator &#8211; Jay Clayton &#8211; who recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/approving-a-spot-btc-etf-would-be-hard-to-resist-former-sec-chair-says/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">described</span></a><span data-preserver-spaces="true"> the recent filing spree as an &#8220;incredible development.&#8221;</span></p>
+<h2><span data-preserver-spaces="true">Ark Invest Saw a Selling Opportunity</span></h2>
+<p><span data-preserver-spaces="true">The global asset manager spearheaded by the crypto proponent Cathie Wood &#8211; Ark Invest &#8211; <a href="https://markets.businessinsider.com/news/etf/cathie-wood-s-ark-offloads-12m-worth-of-bitcoin-linked-stock-amid-10-rally-on-cboe-tie-up-1032439975" data-wpel-link="external" target="_blank">sold</a> 135,152 COIN shares for approximately $12 million. </span></p>
+<p><span data-preserver-spaces="true">This is rather unusual for the company, which tends to accumulate Coinbase shares instead of disposing of them. It </span><a class="editor-rtfLink" href="https://cryptopotato.com/cathie-woods-ark-invest-buys-9-2m-worth-of-coinbases-coin-amid-price-drops/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">bought</span></a><span data-preserver-spaces="true"> $9.2 million worth of COIN in February and </span><a class="editor-rtfLink" href="https://cryptopotato.com/buying-the-dip-cathie-woods-ark-invest-buys-21-6m-worth-of-coinbases-coin-amid-sec-lawsuit/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">added</span></a><span data-preserver-spaces="true"> another $21.6 million shortly after the SEC filed its lawsuit against the exchange last month.</span></p>
+<p><span data-preserver-spaces="true">Ark Invest has also joined the spot BTC ETF race. It recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/cathie-woods-ark-amends-bitcoin-spot-etf-application-to-copy-blackrock/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">modified</span></a><span data-preserver-spaces="true"> its filing, saying it will enter a surveillance sharing agreement (SSA) with &#8220;an operator of a United States-based spot trading platform for Bitcoin.&#8221;</span></p>
+<p><span data-preserver-spaces="true">CEO Wood </span><a class="editor-rtfLink" href="https://cryptopotato.com/as-race-for-spot-btc-etf-hots-up-ceo-cathie-wood-says-ark-invest-is-first-in-the-queue/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">shared</span></a><span data-preserver-spaces="true"> an optimistic view, believing her entity will be the first to receive the long-awaited approval from the SEC.</span></p>
+<p>The post <a href="https://cryptopotato.com/coin-shares-climb-10-after-cboe-included-coinbase-in-amended-btc-etf-applications/" rel="nofollow">COIN Shares Climb 10% After Cboe Included Coinbase in Amended BTC ETF Applications</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>

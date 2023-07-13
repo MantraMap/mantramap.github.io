@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Wed, 12 Jul 2023 07:10:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Jul 2023 03:10:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,828 +29,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>New York Prosecutor Goes After Hacker Behind $9M Solana Exchange Heist</title>
-		<link>https://coincu.com/201919-new-york-hacker-behind-9m-solana-exchange-heist/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 07:09:54 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[New York Prosecutor]]></category>
-		<category><![CDATA[SOL]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[Solana Exchange]]></category>
-		<category><![CDATA[Solana Exchange Heist]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201919</guid>
-
-					<description><![CDATA[A former security engineer for an international technology firm has been arrested and charged for allegedly using a smart contract bug to steal $9 million in cryptocurrency from a Solana-based decentralized crypto exchange. <p class="has-text-align-right"><a href="https://coincu.com/201919-new-york-hacker-behind-9m-solana-exchange-heist/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>A former security engineer was arrested and charged with stealing $9M in crypto by exploiting a smart contract bug in a Solana-based DEX.</em></li>
-
-
-
-<li><em>The &#8220;first-ever criminal case&#8221; involving a smart contract attack on a DEX.</em></li>
-
-
-
-<li><em>Exploiter laundered stolen funds through a &#8220;series of complex transfers on the blockchain.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>A former security engineer for an international technology firm has been arrested and charged for allegedly using a smart contract bug to steal $9 million in cryptocurrency from a Solana-based decentralized crypto exchange. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-714.png"><img decoding="async" width="1024" height="582" src="https://coincu.com/wp-content/uploads/2023/07/image-714-1024x582.png" alt="image 714" class="wp-image-201926" srcset="https://coincu.com/wp-content/uploads/2023/07/image-714-1024x582.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-714-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-714-768x437.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-714-750x427.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-714.png 1104w" sizes="(max-width: 1024px) 100vw, 1024px" title="New York Prosecutor Goes After Hacker Behind $9M Solana Exchange Heist 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The attack happened in July 2022, and the United States Attorney for the Southern District of New York Damian Williams has recently announced the first-ever criminal case involving an attack on a smart contract operated by a decentralized exchange (DEX). According to Williams, the accused, Shakeeb Ahmed, used his expertise to defraud the exchange and its users and steal approximately $9 million in cryptocurrency.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">U.S. Attorney Damian Williams announces the first-ever criminal case involving an attack on a smart contract operated by a decentralized cryptocurrency exchange <a href="https://t.co/j3JPv2L612" target="_blank">pic.twitter.com/j3JPv2L612</a></p>&mdash; US Attorney SDNY (@SDNYnews) <a href="https://twitter.com/SDNYnews/status/1678780204062490626?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 11, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>The attack was carried out by exploiting a vulnerability in the exchange&#8217;s smart contracts to generate inflated fees with flash loans. These were then withdrawn and laundered through a series of complex transfers on the blockchain where Ahmed swapped cryptocurrencies, hopped across different crypto blockchains, and used overseas crypto exchanges. </p>
-
-
-
-<figure class="wp-block-image size-large is-style-default"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-715-1024x577.png" alt="image 715" class="wp-image-201937" srcset="https://coincu.com/wp-content/uploads/2023/07/image-715-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-715-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-715-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-715-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-715.png 1062w" sizes="(max-width: 1024px) 100vw, 1024px" title="New York Prosecutor Goes After Hacker Behind $9M Solana Exchange Heist 2"><figcaption>New York Prosecutor Goes After Hacker Behind $9M Solana Exchange Heist 4</figcaption></figure>
-
-
-
-<p>Although Williams did not disclose the DEX that was exploited in July, previous reporting from Cointelegraph reveals that an unknown hacker exploited Solana-based liquidity protocol<a href="https://www.crema.finance/" target="_blank" data-type="URL" data-id="https://www.crema.finance/" rel="noreferrer noopener"> Crema Finance</a> on July 2, 2022, stealing $9.6 million in cryptocurrency. The exploiter later returned most of the funds but was allowed to keep $1.6 million as a white hat bounty.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1.jpeg"><img decoding="async" loading="lazy" width="980" height="552" src="https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1.jpeg" alt="New York Prosecutor Goes After Hacker Behind 9M Solana Exchange Heist 1" class="wp-image-201929" srcset="https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1.jpeg 980w, https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1-768x433.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-Behind-9M-Solana-Exchange-Heist-1-750x422.jpeg 750w" sizes="(max-width: 980px) 100vw, 980px" title="New York Prosecutor Goes After Hacker Behind $9M Solana Exchange Heist 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Ahmed decided to return all of the stolen funds except for $1.5 million on condition the crypto exchange did not refer the attack to law enforcement. However, none of these actions covered the defendant’s tracks or fooled law enforcement, and they certainly didn’t stop the United States Attorney&#8217;s Office or its law enforcement partners from following the money. As a result, Ahmed was arrested in New York and has been indicted on charges of wire fraud and money laundering related to the attack of the Solana-based DEX in July 2022, making this a landmark case in the world of decentralized finance.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201919-new-york-hacker-behind-9m-solana-exchange-heist/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/New-York-Prosecutor-Goes-After-Hacker-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Senior Security Engineer Charged With $9M Cryptocurrency Theft From DEX</title>
-		<link>https://coincu.com/201909-senior-security-engineer-charged-with-9m/</link>
-		
-		<dc:creator><![CDATA[Thana]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 06:29:54 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Crema Finance]]></category>
-		<category><![CDATA[Dex]]></category>
-		<category><![CDATA[DEX Scam]]></category>
-		<category><![CDATA[Shakeeb Ahmed]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201909</guid>
-
-					<description><![CDATA[Shakeeb Ahmed, a senior security engineer, was charged with stealing $9M in cryptocurrency. Is this hack related to the Crema Finance hack last year?<p class="has-text-align-right"><a href="https://coincu.com/201909-senior-security-engineer-charged-with-9m/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Shakeeb Ahmed, a senior security engineer, is charged with stealing $9M in cryptocurrency from a decentralized exchange.</em></li>
-
-
-
-<li><em>It is unclear which exchange was targeted, but the hack may relate to last year&#8217;s Crema Finance hack.</em></li>
-
-
-
-<li><em>Ahmed communicated with the exchange, offering to return the stolen funds in exchange for not being reported to law enforcement.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Shakeeb Ahmed, a senior security engineer, was <a href="https://www.justice.gov/usao-sdny/pr/former-security-engineer-international-technology-company-arrested-defrauding" target="_blank" data-type="URL" data-id="https://www.justice.gov/usao-sdny/pr/former-security-engineer-international-technology-company-arrested-defrauding" rel="noreferrer noopener">charged </a>with stealing $9M in cryptocurrency. Is this hack related to the Crema Finance hack last year?</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-711.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-711-1024x512.png" alt="Senior Security Engineer Charged With $9M Cryptocurrency Theft From DEX" class="wp-image-201911" srcset="https://coincu.com/wp-content/uploads/2023/07/image-711-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-711-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-711-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-711-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-711-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-711-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-711.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Senior Security Engineer Charged With $9M Cryptocurrency Theft From DEX 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The United States has announced the first criminal case involving an attack on a smart contract operated by a decentralized exchange. Shakeeb Ahmed, a 34-year-old engineer from New York, has been charged with wire fraud and money laundering, each of which carries a maximum sentence of 20 years in prison. </p>
-
-
-
-<p>According to the indictment, Ahmed used his expertise to defraud the exchange and allegedly stole $9 million in crypto on July 2-3, 2022. He then allegedly used different blockchains, including privacy coin Monero and overseas crypto exchanges to hide the trace of the funds. Ahmed made an agreement with the DEX to return all of the stolen funds except for $1.5 million.</p>
-
-
-
-<p>Though the DEX has not been named in the indictment, it may be related to the Solana-based liquidity protocol Crema Finance hack that happened at that time last year, when a thief made away with $9 million in digital assets in a flash loan attack but then returned most of the cash. Days after the attack, Ahmed allegedly made internet searches for &#8220;defi hack&#8221; and looking for information on how to flee the United States, cross borders with crypto, and buy citizenship elsewhere, according to the Department of Justice.</p>
-
-
-
-<p>A DEX is a digital asset exchange that allows users to trade tokens without a middleman. Unlike centralized, major crypto exchanges like Binance or Coinbase, anyone can use a DEX and start trading without having to follow know-your-customer (KYC) protocols such as providing a name, address, or ID.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201909-senior-security-engineer-charged-with-9m/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-12T132603.909-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Acala Emissions And Burn Upgrade August 15 If Vote Passes</title>
-		<link>https://coincu.com/201888-acala-emissions-burn-upgrade-august-15/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 04:06:00 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[ACA token]]></category>
-		<category><![CDATA[burn token]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[upgrade]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201888</guid>
-
-					<description><![CDATA[Acala emissions and burn upgrade is targeted to be on Aug 15 provided the community vote is passed.<p class="has-text-align-right"><a href="https://coincu.com/201888-acala-emissions-burn-upgrade-august-15/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The Acala network is upgrading emissions and burning ACA tokens in the direction of future development.</em></li>
-
-
-
-<li><em>The upgrade is targeted for August 15 if the vote passes.</em></li>
-
-
-
-<li><em>The upgrade will optimize network growth, sustainability, and safety by enhancing ACA utility and ACA owner engagement.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to the <a href="https://coincu.com/130884-acala-operations-full-resuming/" target="_blank" rel="noreferrer noopener">Acala Network</a> has grown beyond the original ACA scope, which had limited utility to support new development based on newly built infrastructure and protocols.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-710.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-710-1024x682.png" alt="Acala Network ACA Emissions And Burn Upgrade August 15 If Vote Passes" class="wp-image-201893" srcset="https://coincu.com/wp-content/uploads/2023/07/image-710-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-710-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-710-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-710-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-710-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-710.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Acala Emissions And Burn Upgrade August 15 If Vote Passes 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The <a href="https://wiki.acala.network/acala-exodus-upgrade" target="_blank" rel="noreferrer noopener">Exodus upgrade</a> aims to bring together stakeholders, participants in the Acala ecosystem, network infrastructure and protocol functions, and ACA as a utility and security element of the Acala Network. It will optimize network growth, sustainability, and safety by enhancing ACA utility and ACA holders&#8217; participation.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ExodusUpgrade?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#ExodusUpgrade</a> in progress<br><br>ACA emissions and burn upgrade is targeted to be on Aug 15 provided the community vote is passed<br><br>The upgrade will optimize for network growth, sustainability &amp; safety by boosting ACA utility such as staking, aligning incentives and as securing element <a href="https://t.co/zXG5QBiFWq" target="_blank">pic.twitter.com/zXG5QBiFWq</a></p>&mdash; Acala (@AcalaNetwork) <a href="https://twitter.com/AcalaNetwork/status/1678955311561076737?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 12, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>The goals of the Acala Exodus Upgrade:</p>
-
-
-
-<ul>
-<li>Provide a path forward for aUSD with options to exit existing positions or continue to ride with Acala&#8217;s growth.</li>
-
-
-
-<li>Build the liquidity layer of web3 finance, including LSDFi-focused Universal Asset Hub that has sustainable and captive liquidity.</li>
-
-
-
-<li>Upgrade ACA to boost ACA utility and support sustainable network growth.</li>
-</ul>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-709.png"><img decoding="async" loading="lazy" width="900" height="506" src="https://coincu.com/wp-content/uploads/2023/07/image-709.png" alt="Acala Network ACA Emissions And Burn Upgrade August 15 If Vote Passes" class="wp-image-201892" srcset="https://coincu.com/wp-content/uploads/2023/07/image-709.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-709-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-709-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-709-750x422.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Acala Emissions And Burn Upgrade August 15 If Vote Passes 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Following are the new ACA utilities in addition to the existing ones, such as being used as transaction fees, voting in governance proposals, implementing pallets, and more.</p>
-
-
-
-<ul>
-<li>Staking ACA</li>
-
-
-
-<li>Ecosystem Token Contribution can be used through Staking ACA</li>
-
-
-
-<li>Vote to distribute emissions to liquidity pools and dApps</li>
-
-
-
-<li>A portion (e.g. 20% through governance) of ACA staking can be used as mitigation in the event of a shortage in Acala-derived protocols</li>
-</ul>
-
-
-
-<p>Acala will have a total of 100 million ACA emissions per year, limited to 6 years after approval by the board. 50% of emissions will be dedicated to ACA staking and 50% dedicated to profit farming for the liquidity pool, dApps built on Universal Asset Hub (UAH), and other avenues to help build liquidity and application.</p>
-
-
-
-<p>Part of the unused exhaust gas will be burned periodically, e.g. 1% of monthly unused emissions, part of network fees accumulated over a period of time will also be burned, for example, accrued network fees will be recorded every six months, and 20% will be burned through administration. This overtime could cause the ACA to deflate.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201888-acala-emissions-burn-upgrade-august-15/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-5-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance Launched A Exciting New Batch Of Dual Investment Products</title>
-		<link>https://coincu.com/201875-binance-launched-batch-of-dual-investment/</link>
+		<title>Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet</title>
+		<link>https://coincu.com/202247-circle-cuts-workforce/</link>
 		
 		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 03:44:24 +0000</pubDate>
+		<pubDate>Thu, 13 Jul 2023 03:10:09 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Arkham]]></category>
-		<category><![CDATA[ARKM]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Binance Launchpad]]></category>
-		<category><![CDATA[Buy Low]]></category>
-		<category><![CDATA[dual investment]]></category>
-		<category><![CDATA[Sell High]]></category>
-		<category><![CDATA[Settlement Dates]]></category>
-		<category><![CDATA[Target Prices]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201875</guid>
-
-					<description><![CDATA[Binance has introduced an exciting range of Dual Investment products, offering updated Target Prices and Settlement Dates.<p class="has-text-align-right"><a href="https://coincu.com/201875-binance-launched-batch-of-dual-investment/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance introduces Dual Investment products with updated Target Prices and Settlement Dates.</em></li>
-
-
-
-<li><em>Users can buy low or sell high, earning high rewards regardless of market direction.</em></li>
-
-
-
-<li><em>Dual Investment offers a diverse selection of assets, zero trading fees, and a personalized trading experience for users.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Binance, the world&#8217;s leading cryptocurrency exchange, has <a href="https://www.binance.com/en/support/announcement/new-dual-investment-products-launched-2023-07-12-5d612814fce344b3aa9720543ac4204f" target="_blank" rel="noreferrer noopener">introduced</a> an exciting range of Dual Investment products, offering updated Target Prices and Settlement Dates.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-706.png"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-706-1024x577.png" alt="Binance Launched A Exciting New Batch Of Dual Investment Products" class="wp-image-201882" srcset="https://coincu.com/wp-content/uploads/2023/07/image-706-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-706-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-706-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-706-750x423.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-706-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-706.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Launched A Exciting New Batch Of Dual Investment Products 8"></a></figure></div>
-
-
-<p>Users can now take advantage of Binance&#8217;s innovative Sell High or Buy Low products to enhance their trading experience and maximize potential rewards.</p>
-
-
-
-<p>Dual Investment has gained significant popularity since its inception, empowering users to buy or sell cryptocurrencies at their desired prices while earning attractive rewards, regardless of market direction. <a href="https://coincu.com/201599-binance-delists-these-altcoin-pairs-from-spot/" target="_blank" rel="noreferrer noopener">Binance</a> has expanded its selection of crypto assets available for Dual Investment, providing a wider range of options for users to choose from.</p>
-
-
-
-<p>The key benefits of utilizing Dual Investment include the ability to Buy Low or Sell High, earning high rewards irrespective of market direction, a diverse selection of assets, and zero trading fees upon achieving the target price and filling the Buy Low or Sell High product.</p>
-
-
-
-<p>To participate, users can subscribe to Dual Investment products on a first-come, first-served basis. Detailed information on the updated Target Prices and Settlement Dates can be found through the provided link.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-708-1024x573.png"><img decoding="async" loading="lazy" width="1024" height="573" src="https://coincu.com/wp-content/uploads/2023/07/image-708-1024x573.png" alt="Binance Launched A Exciting New Batch Of Dual Investment Products" class="wp-image-201886" srcset="https://coincu.com/wp-content/uploads/2023/07/image-708-1024x573.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-708-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-708-768x430.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-708-1536x859.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-708-750x420.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-708-1140x638.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-708.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Launched A Exciting New Batch Of Dual Investment Products 9"></a></figure></div>
-
-
-<p>The Dual Investment feature empowers users to select their desired price and date in the future, ensuring a personalized trading experience without incurring any fees. By subscribing to Dual Investment products, users can enjoy rewards on popular cryptocurrencies while aligning their investment strategies with their specific goals.</p>
-
-
-
-<p>For those looking to accumulate high rewards on their cryptocurrency holdings or sell the Deposit Currency at a higher price in the future, the &#8220;Sell High&#8221; option is suitable. On the other hand, users seeking to accumulate high rewards on stablecoin holdings or purchase a cryptocurrency at a lower price in the future can choose the &#8220;Buy Low&#8221; option.</p>
-
-
-
-<p>As Coincu <a href="https://coincu.com/201234-binance-launch-the-32nd-launchpad-arkham-arkm/" target="_blank" rel="noreferrer noopener">reported</a>, Binance Launchpad previously announced the launch of its 32nd project, Arkham (ARKM), and plans to launch a token sale using the Launchpad subscription model. The token sale will commence on July 11, 2023, with the recording of user BNB balances, and will last six days until July 17, 2023.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201875-binance-launched-batch-of-dual-investment/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-707-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Manta Network Launches EVM Manta Pacific With Outstanding Improvements</title>
-		<link>https://coincu.com/201871-manta-network-launches-evm-manta-pacific/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 03:30:19 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Binance.US]]></category>
+		<category><![CDATA[blockchain.com]]></category>
+		<category><![CDATA[CFTC]]></category>
+		<category><![CDATA[Circle]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[EVM]]></category>
-		<category><![CDATA[manta network]]></category>
-		<category><![CDATA[Manta Pacific]]></category>
-		<category><![CDATA[modular]]></category>
-		<category><![CDATA[ZK]]></category>
-		<category><![CDATA[ZK applications]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201871</guid>
-
-					<description><![CDATA[Manta Network introduces Manta Pacific, an EVM-native execution layer built for mass adoption of ZK applications.<p class="has-text-align-right"><a href="https://coincu.com/201871-manta-network-launches-evm-manta-pacific/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Manta Network launches EVM native modular execution layer, Manta Pacific.</em></li>
-
-
-
-<li><em>Manta Pacific will provide powerful scalability, and ultra-low gas fees, and enable the development of new ZK applications directly using Solidity.</em></li>
-
-
-
-<li><em>With the launch of Manta Pacific, Manta Network is evolving into a multi-module platform.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Manta Network introduces <a href="https://mantanetwork.medium.com/manta-launches-manta-pacific-the-modular-ecosystem-for-zk-applications-21ad62e9b9b3" target="_blank" rel="noreferrer noopener">Manta Pacific</a>, an EVM-native execution layer built for mass adoption of ZK applications.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-704.png"><img decoding="async" loading="lazy" width="1024" height="699" src="https://coincu.com/wp-content/uploads/2023/07/image-704-1024x699.png" alt="Manta Network Launches EVM Manta Pacific With Outstanding Improvements" class="wp-image-201876" srcset="https://coincu.com/wp-content/uploads/2023/07/image-704-1024x699.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-704-300x205.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-704-768x525.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-704-750x512.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-704-1140x779.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-704.png 1325w" sizes="(max-width: 1024px) 100vw, 1024px" title="Manta Network Launches EVM Manta Pacific With Outstanding Improvements 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>According to the official documentation, Manta Pacific is an OP Stack Layer 2 solution built on top of the Ethereum ecosystem and uses Celestia to provide data. Manta Pacific differentiates itself from existing approaches by giving native aggregation for zk applications using universal circuits, enabling new ZK use cases and a supporting ecosystem to support their development.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/ Today we announced Manta Pacific, an EVM-native execution layer built for mass adoption of ZK applications.<br><br>Here&#39;s a glimpse into my journey to modularity:<a href="https://t.co/r8DISEJ2KL" target="_blank">https://t.co/r8DISEJ2KL</a></p>&mdash; victorji.eth (<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f531.png" alt="🔱" class="wp-smiley" style="height: 1em; max-height: 1em;" />,<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f531.png" alt="🔱" class="wp-smiley" style="height: 1em; max-height: 1em;" />) (@victorJi15) <a href="https://twitter.com/victorJi15/status/1678819719309062159?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 11, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>By leveraging the available data layer offered by Celestia, the first modular consensus and data network, harnessing cutting-edge technology developed by p0x labs and in partnership with leading RaaS company Caldera, Manta Pacific has built an accessible ZK development environment modularly.</p>
-
-
-
-<p>It leverages Manta&#8217;s universal circuits and ZK interface with on-chain integration and easy integration into web2 applications, Celestia&#8217;s data availability layer for security and low gas fees, and Caldera&#8217;s modified OP Stack scalability. Together, Manta Pacific will enable the development of the next generation of ZK applications.</p>
-
-
-
-<p>Notable features of Manta Pacific include:</p>
-
-
-
-<ul>
-<li>Manta Pacific Offers Programmable ZK as EVM native L2</li>
-
-
-
-<li>Manta&#8217;s universal circuit allows easy ZK application development using only Solidity</li>
-
-
-
-<li>Leveraging Celestia for data availability and OP Stack for scalability, Manta Pacific provides high scalability and low transaction fees for ZK applications.</li>
-</ul>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-705-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-705-1024x538.png" alt="Manta Network Launches EVM Manta Pacific With Outstanding Improvements" class="wp-image-201877" srcset="https://coincu.com/wp-content/uploads/2023/07/image-705-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-705-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-705-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-705-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-705-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-705.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Manta Network Launches EVM Manta Pacific With Outstanding Improvements 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>With the launch of Manta Pacific, <a href="https://coincu.com/190372-manta-network-review/" target="_blank" rel="noreferrer noopener">Manta Network</a> is evolving into a multi-module platform. Manta Pacific will reap the benefits of modular DA and deliver a multi-chain experience for developers and users.</p>
-
-
-
-<p>The universal circuits that Manta Pacific offers will be accessible to Solidity and Rust developers without learning new programming languages or understanding cryptography; instead, courses can be called directly into existing applications to enhance and unlock new features through ZK.</p>
-
-
-
-<p>Manta Network is a layer 1 blockchain built on Polkadot&#8217;s Substrate framework. Manta Network&#8217;s vision is to create a privacy smart contract platform. To achieve that, the project uses zk-SNARK to provide anonymity, high throughput, and cross-chain interoperability.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201871-manta-network-launches-evm-manta-pacific/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-4-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Layer 2 Mantle Plans To Invest 200,000 ETH In LPs To Grow Profit Realized</title>
-		<link>https://coincu.com/201860-mantle-plans-to-invest-200000-eth/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 03:13:11 +0000</pubDate>
-				<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[Dex]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Layer 2]]></category>
-		<category><![CDATA[LSD]]></category>
-		<category><![CDATA[Mantle Economics Committee]]></category>
-		<category><![CDATA[Mantle Governance]]></category>
-		<category><![CDATA[Mantle Network]]></category>
-		<category><![CDATA[stETH]]></category>
-		<category><![CDATA[wstETH]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201860</guid>
-
-					<description><![CDATA[Mantle Governance is engaging in significant discussions regarding the management of LSD and ETH Staking proposals.<p class="has-text-align-right"><a href="https://coincu.com/201860-mantle-plans-to-invest-200000-eth/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Mantle Governance considers proposals for Mantle Economics Committee to manage LSD and ETH Staking proposals.</em></li>
-
-
-
-<li><em>MEC would make conservative allocation decisions for the treasury assets and operate independently from asset custody.</em></li>
-
-
-
-<li><em>The committee would evaluate strategies, negotiate terms, and prioritize risk management, strengthening governance within the ecosystem.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Mantle Governance, an entity responsible for overseeing treasury management within the <a href="https://coincu.com/164751-mantle-network-layer-2-network/" target="_blank" rel="noreferrer noopener">Mantle</a> ecosystem, is <a href="https://forum.mantle.xyz/t/discussion-mantle-economics-committee-and-eth-staking-strategies/7548" target="_blank" rel="noreferrer noopener">engaging</a> in significant discussions regarding the management of LSD and ETH Staking proposals.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-702-1024x535.png"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/image-702-1024x535.png" alt="Layer 2 Mantle Plans To Invest 200,000 ETH In LPs To Grow Profit Realized" class="wp-image-201868" srcset="https://coincu.com/wp-content/uploads/2023/07/image-702-1024x535.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-702-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-702-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-702-750x392.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-702-1140x596.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-702.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Layer 2 Mantle Plans To Invest 200,000 ETH In LPs To Grow Profit Realized 12"></a></figure></div>
-
-
-<p>In an effort to streamline decision-making processes and address time-sensitive matters, a proposal has been put forth to establish a specialized sub-governance body known as the Mantle Economics Committee (MEC). This committee would operate under the guidance of the governance, focusing on minor details and making conservative allocation decisions for Mantle Treasury assets.</p>
-
-
-
-<p>The primary objective of the proposed MEC would be to assess and determine the allocation of treasury assets in a risk-averse manner. This committee would serve as a dedicated decision-making body, separate from asset custody responsibilities. By creating this specialized committee, proponents aim to enhance the efficiency and effectiveness of decision-making processes, facilitate commercial negotiations, and uphold checks and balances among existing entities.</p>
-
-
-
-<p>The proposal encompasses several key aspects that will be voted upon by the community. Furthermore, it seeks to authorize the Mantle LSD and <a href="https://coincu.com/197517-lido-proposes-a-40k-eth-from-mantle/" target="_blank" rel="noreferrer noopener">Lido ETH</a> staking strategies, allowing a combined allowance of up to 200,000 ETH. The committee would be empowered to engage in commercial negotiations, determine the timing and scale of strategy entries and exits, and prioritize risk management and principal protection.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-703.png"><img decoding="async" loading="lazy" width="1024" height="563" src="https://coincu.com/wp-content/uploads/2023/07/image-703-1024x563.png" alt="Layer 2 Mantle Plans To Invest 200,000 ETH In LPs To Grow Profit Realized" class="wp-image-201869" srcset="https://coincu.com/wp-content/uploads/2023/07/image-703-1024x563.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-703-300x165.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-703-768x422.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-703-1536x845.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-703-2048x1126.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-703-750x413.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-703-1140x627.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Layer 2 Mantle Plans To Invest 200,000 ETH In LPs To Grow Profit Realized 13"></a></figure></div>
-
-
-<p>The MEC would hold several responsibilities, including periodic review of strategies, making recommendations for modifications to approved strategies and allowances, and making decisions on strategy entries and exits within the approved limits. The committee will evaluate strategies based on factors such as Mantle product synergy, technical risks, commercial risks, and economic risks, with a preference for battle-tested on-chain applications.</p>
-
-
-
-<p>Additionally, the committee would negotiate commercial terms for strategies, emphasizing principal protection mechanisms, lower fees, and flexible commitment durations. Risk management and the protection of the treasury assets would remain paramount in all committee actions and decisions.</p>
-
-
-
-<p>The approved strategies and allowances, as outlined in the proposal, would focus on ETH Staking and LSD. Specific positions include Lido stETH and/or wstETH, Mantle LSD mntETH, direct staking with Tier-1 node operators for Mantle LSD during the ramp-up phase, and the construction of (w)stETH-ETH and mntETH-ETH LP pairs on Ethereum L1 and Mantle L2 DEXes.</p>
-
-
-
-<p>To ensure sound internal governance, the proposed Economics Committee would adopt a highly conservative approach to risk management. Its membership, internal governance rules, and authorized strategies and allowances could be modified at any time by the governance.</p>
-
-
-
-<p>The proposal highlights the community&#8217;s ongoing commitment to robust governance and risk management within the ecosystem. By establishing the MEC, stakeholders aim to foster informed decision-making, ensure responsible allocation of treasury assets, and further strengthen the foundations of the network.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201860-mantle-plans-to-invest-200000-eth/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-701-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Russia Became The Largest Country To Adopt CBDC After Effective August 1</title>
-		<link>https://coincu.com/201854-russia-adopt-cbdc-after-effective-august-1/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 02:51:24 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[Bank of Russia]]></category>
-		<category><![CDATA[CBDC]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[digital ruble]]></category>
-		<category><![CDATA[law]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201854</guid>
-
-					<description><![CDATA[Russia has passed a law introducing the digital ruble and is expected to take effect on August 1, after President Putin approves it.<p class="has-text-align-right"><a href="https://coincu.com/201854-russia-adopt-cbdc-after-effective-august-1/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Russia has passed a law introducing a digital ruble.</em></li>
-
-
-
-<li><em>Once approved by President Vladimir Putin, the law will come into force in less than a month, on August 1, 2023.</em></li>
-
-
-
-<li><em>If passed, it would be the largest country to adopt a central bank digital currency (CBDC) officially.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The State Duma, the lower house of the Russian parliament, <a href="https://tass.com/economy/1645423" target="_blank" rel="noreferrer noopener">adopted </a>in the second and third readings a law that creates the basis for the introduction of the digital ruble and the implementation of non-cash payments using the digital ruble.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-699.png"><img decoding="async" loading="lazy" width="600" height="400" src="https://coincu.com/wp-content/uploads/2023/07/image-699.png" alt="Russia Became The Largest Country To Adopt CBDC After Effective August 1" class="wp-image-201861" srcset="https://coincu.com/wp-content/uploads/2023/07/image-699.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-699-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="Russia Became The Largest Country To Adopt CBDC After Effective August 1 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The law defines the terms &#8220;digital ruble platform,&#8221; &#8220;digital ruble platform rules&#8221;, &#8220;digital ruble platform participant&#8221;, &#8220;digital ruble platform user&#8221;, and &#8220;digital account wallet.&#8221;</p>
-
-
-
-<p>The law sets out requirements for the operation of the digital ruble platform, the procedure for opening, maintaining, and closing a digital account, and access to the digital ruble platform.</p>
-
-
-
-<p>Features of digital ruble account agreements, and digital ruble transfers are also clearly regulated. According to the document, attracting digital rubles in contributions (deposits) is impossible. Non-residents have access to the digital ruble platform through the digital ruble platform participants who are authorized banks or foreign banks who are the coin platform participants&#8217; digital rubles.</p>
-
-
-
-<p>By law, the<a href="https://coincu.com/191810-russian-bank-launches-cryptocurrency-cross/" target="_blank" rel="noreferrer noopener"> Bank of Russia </a>will be the operator of the digital ruble platform. The law will go into effect on August 1, 2023, and is currently awaiting the approval of President Vladimir Putin.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-700.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-700-1024x576.png" alt="Russia Became The Largest Country To Adopt CBDC After Effective August 1" class="wp-image-201862" srcset="https://coincu.com/wp-content/uploads/2023/07/image-700-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-700-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-700-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-700-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-700-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-700.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Russia Became The Largest Country To Adopt CBDC After Effective August 1 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>If Putin signs the law, it will officially make Russia the largest country to adopt a central bank digital currency (CBDC).</p>
-
-
-
-<p>Driven by technological advancements and the growth of contactless payments, Central Bank Digital Currencies &#8211; CBDCs &#8211; a form of the official cryptocurrency of a country &#8211; promise to become the next factor in changing the landscape of the banking and payment industry worldwide. Now 93% of central banks have expressed interest in exploring CBDCs of some kind, according to a 2022 survey by the Bank for International Settlements.</p>
-
-
-
-<p>Eighty-six banks responded to that survey, but 130 countries have launched, are exploring, or have canceled CBDC programs as of June, according to the Atlantic Council&#8217;s CBDC tracker.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201854-russia-adopt-cbdc-after-effective-august-1/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-3-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Aptos Considering New Upgrade With Staking Rewards Will Fall 1.5% Annually</title>
-		<link>https://coincu.com/201838-aptos-considering-new-upgrade/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 02:12:06 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[AIP-21]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Aptos]]></category>
-		<category><![CDATA[Fungible Assets]]></category>
-		<category><![CDATA[layer 1]]></category>
-		<category><![CDATA[Move Objects]]></category>
-		<category><![CDATA[Staking Rewards]]></category>
-		<category><![CDATA[v1.5 upgrade]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201838</guid>
-
-					<description><![CDATA[Aptos network to vote on upgrade for fungible asset standards and improved functionality.<p class="has-text-align-right"><a href="https://coincu.com/201838-aptos-considering-new-upgrade/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Aptos network to vote on upgrade for fungible asset standards and improved functionality.</em></li>
-
-
-
-<li><em>The upgrade aims to support tokenized real estate and other asset classes on the blockchain.</em></li>
-
-
-
-<li><em>Backend improvements and a reduction in staking rewards are included in the proposed upgrade.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The Aptos network, a promising Layer 1 blockchain facilitating decentralized infrastructure for internet-based economies, is set to undergo a crucial vote on a significant upgrade. </strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-697.png"><img decoding="async" loading="lazy" width="1024" height="560" src="https://coincu.com/wp-content/uploads/2023/07/image-697-1024x560.png" alt="Aptos Considering New Upgrade With Staking Rewards Will Fall 1.5% Annually" class="wp-image-201847" srcset="https://coincu.com/wp-content/uploads/2023/07/image-697-1024x560.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-697-300x164.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-697-768x420.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-697-750x410.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-697-1140x624.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-697.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aptos Considering New Upgrade With Staking Rewards Will Fall 1.5% Annually 16"></a></figure></div>
-
-
-<p>The <a href="https://governance.aptosfoundation.org/proposal/26" target="_blank" rel="noreferrer noopener">proposed upgrade</a>, known as v1.5, encompasses a series of new features and enhancements that will shape the future of the <a href="https://coincu.com/183135-aptos-launches-new-delegated-staking/" target="_blank" rel="noreferrer noopener">Aptos</a> blockchain and its capabilities.</p>
-
-
-
-<p>One key aspect of the upgrade, outlined in <a href="https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-21.md" target="_blank" rel="noreferrer noopener">AIP-21</a> (Aptos Improvement Proposal), focuses on the creation of new standards for fungible assets. This development is deemed essential for handling on-chain asset classes such as tokenized real estate and tokenized securities. While Aptos already supported on-chain token issuance, the existing standards were insufficient to accommodate innovative features like ownership restrictions. </p>
-
-
-
-<p>AIP-21 aims to establish a standard for Fungible Assets (FA) using Move Objects. This framework allows any on-chain asset represented as an object to be expressed as a fungible asset, enabling the representation of a single object through multiple distinct yet interchangeable units of ownership.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-698-1024x457.png"><img decoding="async" loading="lazy" width="1024" height="457" src="https://coincu.com/wp-content/uploads/2023/07/image-698-1024x457.png" alt="Aptos Considering New Upgrade With Staking Rewards Will Fall 1.5% Annually" class="wp-image-201848" srcset="https://coincu.com/wp-content/uploads/2023/07/image-698-1024x457.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-698-300x134.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-698-768x343.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-698-1536x685.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-698-750x335.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-698-1140x508.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-698.png 2020w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aptos Considering New Upgrade With Staking Rewards Will Fall 1.5% Annually 17"></a></figure></div>
-
-
-<p>The upgrade encompasses other advancements as well, targeting backend services to enhance node behavior tracking, enable node restoration from cloud backups, and filter out duplicate transactions from blocks. Furthermore, a developer-focused proposal within the upgrade aims to facilitate the development of cryptographic applications using Move, the coding language specific to the Aptos blockchain.</p>
-
-
-
-<p>As part of the upgrade, there will be a reduction in staking rewards, decreasing by 1.5% annually. This adjustment will slightly limit the payouts to token stakers who contribute their assets to ensure the network&#8217;s security.</p>
-
-
-
-<p>The vote on the v1.5 upgrade represents a crucial moment for the Aptos network, signifying its commitment to evolving and meeting the demands of the burgeoning decentralized ecosystem. By introducing robust standards for fungible assets and implementing various functional improvements, Aptos aims to foster the seamless integration of tokenized real estate, securities, and other asset classes within its blockchain infrastructure.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201838-aptos-considering-new-upgrade/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-696-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>FTX Opens Inquiry Gate For Creditors, FTT Price Volatile</title>
-		<link>https://coincu.com/201829-ftx-opens-inquiry-gate-creditors-ftt-volatile/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 02:07:45 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[bankrupt]]></category>
-		<category><![CDATA[claim]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[FTT]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[individual customers]]></category>
-		<category><![CDATA[price]]></category>
-		<category><![CDATA[pump]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201829</guid>
-
-					<description><![CDATA[After a long wait, the FTX exchange has announced an electronic portal that allows users with money to file for property claims.<p class="has-text-align-right"><a href="https://coincu.com/201829-ftx-opens-inquiry-gate-creditors-ftt-volatile/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Bankruptcy crypto exchange FTX has announced a portal that allows users with cash to file claims.</em></li>
-
-
-
-<li><em>Those who wish to claim assets on the exchange must provide the required evidence to prove ownership of the assets on the platform.</em></li>
-
-
-
-<li><em>The price of FTT is up 15% in the last 24 hours, currently delivering at $1.6.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>After a long wait, the FTX exchange has announced an <a href="https://t.co/1Bxl95pu10" target="_blank" rel="noreferrer noopener">electronic portal</a> that allows users with money to file for property claims.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-695.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-695-1024x576.png" alt="FTX Opens Inquiry Gate For Creditors, FTT Price Volatile" class="wp-image-201841" srcset="https://coincu.com/wp-content/uploads/2023/07/image-695-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-695-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-695-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-695-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-695-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-695-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-695.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="FTX Opens Inquiry Gate For Creditors, FTT Price Volatile 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Sam Bankman-Fried&#8217;s bankrupt cryptocurrency exchange has officially launched its customer claims portal. According to the website information, individual customers can access their account information and then submit an application to be included in the crypto exchange&#8217;s Chapter 11 bankruptcy proceedings. The site will be open to customers with accounts at FTX.com, FTX US, Blockfolio, FTX EU, FTX JP and Liquid.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">FTX claims now online at <a href="https://t.co/1Bxl95pu10" target="_blank">https://t.co/1Bxl95pu10</a> <a href="https://t.co/Dz2HziBeXu" target="_blank">pic.twitter.com/Dz2HziBeXu</a></p>&mdash; FTX 2.0 Coalition (@AFTXcreditor) <a href="https://twitter.com/AFTXcreditor/status/1678804722096930818?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 11, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>A screenshot of the website shows that the person who wants to claim assets on FTX must provide evidence to prove that they own money on the exchange, including:</p>
-
-
-
-<ul>
-<li>Account holder identification information and identity verification;</li>
-
-
-
-<li>Information about transaction history;</li>
-
-
-
-<li>Verify account balance by submitting proof to FTX takeover &#8211; with balance as of 09:00 PM on 11/11/2022 (when this exchange announced bankruptcy).</li>
-</ul>
-
-
-
-<p>According to information from users, the website seems to be limited in the geographical area that can be accessed or is overloaded, so there is an access error condition.</p>
-
-
-
-<p>Previously, the exchange had planned to <a href="https://coincu.com/199738-ftx-announces-to-launch-customer-claims-portal/" target="_blank" rel="noreferrer noopener">open</a> a website for users to provide information proving their possession of money on the exchange, with the intention of launching on July 3 and 4. However, the exchange suddenly reversed the above decision and did not provide a specific time anymore.</p>
-
-
-
-<p>Faced with the news that the portal requires the asset to be opened, the FTT native token once skyrocketed from $1.43 to $1.79 and is now at $1.60, up 15% in the last 24 hours.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="438" src="https://coincu.com/wp-content/uploads/2023/07/image-694-1024x438.png" alt="FTX Opens Inquiry Gate For Creditors, FTT Price Volatile" class="wp-image-201837" srcset="https://coincu.com/wp-content/uploads/2023/07/image-694-1024x438.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-694-300x128.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-694-768x328.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-694-1536x657.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-694-2048x876.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-694-750x321.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-694-1140x488.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="FTX Opens Inquiry Gate For Creditors, FTT Price Volatile 19"><figcaption class="wp-element-caption">24h FTT price chart. Source: CoinMarketCap</figcaption></figure></div>
-
-
-<p>The exchange also issued a warning to users about fraudulent links and noted that the deadline for customers to file complaints has been set at 4 p.m. ET on September 29, 2023. No preference is given based on when the request was submitted and the request must be submitted by the deadline.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">(4/4) As a reminder, the Customer Bar Date for customers to file a claim has been set for September 29, 2023, at 4 PM ET. There is NO priority given based on the timing of filing claims, and claims must simply be filed by the deadline.</p>&mdash; FTX (@FTX_Official) <a href="https://twitter.com/FTX_Official/status/1678938253829758978?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 12, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Last month, a US court said this exchange&#8217;s customers had until September 29 to file lawsuits. The deadline for calculating a customer&#8217;s account balance is November 11, 2022.</p>
-
-
-
-<p>In the past time, there have been many signals showing that FTX is about to reopen the trading platform under a new name, just waiting for a unit to take charge of this activity. FTX Japan, which is an almost stable branch during the bankruptcy process of the head office, has also <a href="https://coincu.com/200607-ftx-postponing-sale-ftx-japan-reboot-process/" target="_blank" rel="noreferrer noopener">stopped selling</a> plans to try to reopen. This branch in Japan has refunded 80% of users&#8217; funds.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201829-ftx-opens-inquiry-gate-creditors-ftt-volatile/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target</title>
-		<link>https://coincu.com/201824-tim-draper-still-very-optimistic-on-bitcoin/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Wed, 12 Jul 2023 01:37:57 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[BTC]]></category>
-		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Crypto.com]]></category>
+		<category><![CDATA[Layoffs]]></category>
 		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[Tim Draper]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=201824</guid>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202247</guid>
 
-					<description><![CDATA[Tim Draper stands by his $250,000 BTC price prediction, possibly by 2025.<p class="has-text-align-right"><a href="https://coincu.com/201824-tim-draper-still-very-optimistic-on-bitcoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Circle, the stablecoin issuer, has announced staff reductions and a focus on core business activities to improve its balance sheet.<p class="has-text-align-right"><a href="https://coincu.com/202247-circle-cuts-workforce/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -858,70 +54,834 @@
 
 
 <ul>
-<li><em>Tim Draper stands by his $250,000 BTC price prediction, possibly by 2025.</em></li>
+<li><em>Circle, the stablecoin issuer, has announced staff reductions and a focus on core business activities to improve its balance sheet.</em></li>
 
 
 
-<li><em>Recent SEC actions driving entrepreneurs away from the U.S. are seen as a factor impacting BTC&#8217;s price.</em></li>
+<li><em>The layoffs at Circle follow similar moves by other cryptocurrency companies in response to challenging market conditions and regulatory pressures.</em></li>
 
 
 
-<li><em>Draper emphasizes BTC&#8217;s value as a future mainstream currency with transparent blockchain operations.</em></li>
+<li><em>Circle continues to prioritize key areas of focus and has recently appointed a former chairman of the CFTC as its new chief legal officer.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Renowned investor Tim Draper remains resolute in his belief that Bitcoin (BTC) will eventually reach $250,000, albeit with a revised timeline.</strong></h5>
+<h5 class="wp-block-heading"><strong>Circle, the stablecoin issuer, has made staff reductions and ended investments in non-core activities in an effort to strengthen its balance sheet. The company&#8217;s actions come as a response to the challenging environment faced by the cryptocurrency sector, which has experienced declining prices and reduced investor confidence.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-691.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/image-691-1024x614.png" alt="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target" class="wp-image-201832" srcset="https://coincu.com/wp-content/uploads/2023/07/image-691-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-691-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-691-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-691-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-691-1140x684.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-691.png 1340w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target 20"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-2.jpg"><img decoding="async" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-2-1024x682.jpg" alt="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet" class="wp-image-202262" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-2-1024x682.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/1x-1-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet 1"></a></figure></div>
 
 
-<p>Although Draper&#8217;s <a href="https://coincu.com/149257-tim-draper-predicts-bitcoin-reach-250000/" target="_blank" rel="noreferrer noopener">previous prediction</a> for June 2023 did not materialize, the billionaire venture capitalist asserts that BTC&#8217;s ascent to the target price might take a bit longer, potentially happening by 2025.</p>
+<p>Several other cryptocurrency firms have also announced layoffs this year, including Coinbase Global, Chainalysis, and Gemini. The industry suffered significant losses in 2022, with over a trillion dollars wiped out.</p>
 
 
 
-<p>Speaking on <a href="https://www.bloomberg.com/news/videos/2023-07-11/bitcoin-is-here-to-stay-tim-draper-says-video" target="_blank" rel="noreferrer noopener">Bloomberg TV</a>, Draper reaffirmed his optimistic outlook, emphasizing that BTC is here to stay despite recent regulatory actions against crypto companies by the <a href="https://coincu.com/201434-paradigm-sec-exceeds-statutory-jurisdiction/" target="_blank" rel="noreferrer noopener">U.S. Securities and Exchange Commission (SEC)</a>. According to Draper, these enforcement measures have forced entrepreneurs out of the United States, resulting in a negative impact on BTC&#8217;s price.</p>
+<p>In an email shared with <em><a href="https://www.coindesk.com/business/2023/07/12/circle-cuts-workforce-ends-certain-non-core-activities-will-continue-hiring-globally/" target="_blank" rel="noreferrer noopener">CoinDesk</a></em>, Circle&#8217;s spokesperson emphasized the company&#8217;s commitment to maintaining a strong balance sheet by focusing on core business activities and execution. They mentioned that while some non-core investments have been reduced or terminated, new areas for investment have been identified, and the company continues to hire in key areas globally.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-787-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-787-1024x538.png" alt="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet" class="wp-image-202264" srcset="https://coincu.com/wp-content/uploads/2023/07/image-787-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-787-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-787-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-787-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-787-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-787.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet 2"></a></figure></div>
+
+
+<p>The layoffs at <a href="https://coincu.com/200703-circle-released-web3-services/" target="_blank" rel="noreferrer noopener">Circle</a> reflect a broader trend of staff reductions occurring within the cryptocurrency industry. Earlier this year, in January, crypto trading platform Blockchain.com announced a 28% reduction in its workforce due to significant headwinds faced by the crypto sector. Similarly, crypto exchange Crypto.com decreased its global workforce by 20%, citing economic headwinds and unforeseeable industry events.</p>
+
+
+
+<p>In June, Binance.US, a leading crypto exchange, <a href="https://coincu.com/195587-binanceus-fires-50-employees/" target="_blank" rel="noreferrer noopener">laid off</a> approximately 50 employees in response to allegations of securities law violations made by the Securities and Exchange Commission (SEC) <a href="https://coincu.com/196743-binanceus-market-share-falling-seriously/" target="_blank" rel="noreferrer noopener">against</a> its parent company, Binance.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-786.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-786-1024x576.png" alt="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet" class="wp-image-202263" srcset="https://coincu.com/wp-content/uploads/2023/07/image-786-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-786-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-786-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-786-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-786-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-786.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Circle Cuts Workforce To Focus On Core Activities And Strong Balance Sheet 3"></a></figure></div>
+
+
+<p>Another notable player in the space, blockchain analytics provider Nansen, announced in May that it would be reducing its staff by 30% after years of rapid expansion. The CEO of Nansen at the time described the previous year as &#8220;brutal&#8221; for the crypto sector.</p>
+
+
+
+<p>In addition to the staffing changes, Circle recently made headlines with the appointment of Heath Tarbert, the former chairman of the Commodity Futures Trading Commission (CFTC), as its new chief legal officer in June. This appointment reflects Circle&#8217;s focus on regulatory compliance and underscores the company&#8217;s commitment to navigating the evolving landscape of the crypto industry.</p>
+
+
+
+<p>These developments reflect the ongoing adjustments and challenges within the cryptocurrency industry as companies navigate market fluctuations and regulatory pressures.</p>
+<p class="has-text-align-right"><a href="https://coincu.com/202247-circle-cuts-workforce/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-785-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio</title>
+		<link>https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 02:55:56 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202239</guid>
+
+					<description><![CDATA[Binance Labs has committed to investing $15 million in Xterio and publisher that connects online and free-to-play games to games.<p class="has-text-align-right"><a href="https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Binance Labs&#8217; long-term strategy with web game Xterio with $15 million investment</em></li>
+
+
+
+<li><em>Xterio will use the funds raised to accelerate the development of Xterio-incubated games and integrate artificial intelligence (AI) in its technology development.</em></li>
+
+
+
+<li><em>This substantial capital commitment confirms Binance Labs&#8217; long-term vision for Web3 gaming and recognizes Xterio as the leading Web3 gaming platform.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong><a href="https://coincu.com/199249-binance-labs-incubation-season-6-starts/" target="_blank" rel="noreferrer noopener">Binance Labs</a>, the venture capital and incubator arm of Binance, <a href="https://www.binance.com/en/blog/ecosystem/binance-labs-commits-$15-million-into-xterio-ecosystem-to-expand-its-game-development-capabilities-in-ai-and-web3-1674838563596230735" target="_blank" rel="noreferrer noopener">has committed </a>to investing $15 million in Xterio, the leading Web3 gaming platform, and publisher that connects online and free-to-play games to games. Internal and third-party players are currently in development. The company plans to use this investment for further technology and game development, including AI integration and the launch of its tokens.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-783.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-783-1024x576.png" alt="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio" class="wp-image-202252" srcset="https://coincu.com/wp-content/uploads/2023/07/image-783-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-783-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-783-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-783-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-783-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-783-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-783.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Xterio Foundation is founded in Switzerland with a Council and a group of technology and entertainment leaders with an in-depth free game experience. Its mission is to develop, publish and distribute high-quality Web2 and Web3 games and interactive entertainment.</p>
+
+
+
+<p>The founding executive team includes seasoned leaders from FunPlus, Electronic Arts, Activision Blizzard, Krafton, Jam City, and NetEase, providing expertise in developing and publishing social games High-grossing free-to-play on PC and mobile devices.</p>
+
+
+
+<p>&#8220;This substantial capital commitment confirms Binance Labs&#8217; long-term vision for Web3 gaming and recognizes Xterio as a leading, globally influential Web3 gaming platform,&#8221; Michael Tong, co-founder of Xterio, said.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-784.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-784-1024x576.png" alt="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio" class="wp-image-202254" srcset="https://coincu.com/wp-content/uploads/2023/07/image-784-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-784-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-784-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-784-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-784-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-784.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Xterio plans to use the investment to expand its AI capabilities, develop AI-driven interactive experiences, and solve AI-origin issues in Web3. Currently, Xterio is developing an AI toolkit that creates production-quality, style-appropriate 2D and 3D content while providing an &#8220;emotional engine for artificial intelligence&#8221;.</p>
+
+
+
+<p>Binance Labs defines Web3 as the next generation of the Internet, with interconnected digital information in a decentralized way and publicly owned by users, enabled by blockchain technology. The platform has always affirmed that it will give its best support to help startups have the opportunity to develop.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-6-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games</title>
+		<link>https://coincu.com/202234-google-play-now-changes-policy/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 02:44:18 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Axie Infinity: Origins]]></category>
+		<category><![CDATA[Contests]]></category>
+		<category><![CDATA[digital assets]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[Joseph Mills]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Real-Money Gambling]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202234</guid>
+
+					<description><![CDATA[Google Play announces policy change allowing developers to incorporate digital assets, including NFTs, into their apps and games.<p class="has-text-align-right"><a href="https://coincu.com/202234-google-play-now-changes-policy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Google Play announces policy change allowing developers to incorporate digital assets, including NFTs, into their apps and games.</em></li>
+
+
+
+<li><em>Developers must disclose the presence of blockchain elements and be transparent about tokenized digital assets to users.</em></li>
+
+
+
+<li><em>The new policy aims to support innovation, user engagement, and loyalty through unique NFT rewards while ensuring a safe and trusted experience on the platform.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Google Play, the app store for Android smartphone users, has <a href="https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html" target="_blank" rel="noreferrer noopener">announced</a> a significant policy change that will allow developers to incorporate digital assets, including non-fungible tokens (NFTs), into their apps and games. The move aims to support developers&#8217; ambitions by enabling them to expand their blockchain-based offerings on the platform.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-780.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-780-1024x576.png" alt="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games" class="wp-image-202240" srcset="https://coincu.com/wp-content/uploads/2023/07/image-780-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-780-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-780-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-780-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-780-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-780.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games 6"></a></figure></div>
+
+
+<p>Under the new policy, companies offering the ability to buy, sell, or earn tokenized assets must clearly disclose the presence of blockchain elements within their apps. The transparency requirement ensures that users are aware of the tokenized digital assets within the app and prohibits developers from promoting or glamorizing potential earnings from playing or trading activities.</p>
+
+
+
+<p>Google Play&#8217;s group product manager, Joseph Mills, emphasized the importance of balancing innovation and user protection. The updated policy allows partners to reimagine traditional games by integrating user-owned content and leveraging unique NFT rewards to enhance user loyalty.</p>
 
 
 
 <blockquote class="wp-block-quote">
-<p class="has-small-font-size">“I wasn’t really expecting for the U.S. bureaucracy to be this aggressive and I thought that maybe they would be recognizing that they got to compete with the rest of the world. They&#8217;ve got to provide a platform from which entrepreneurs can flourish, and by having this regulation by enforcement that the SEC has been professing and driving, it&#8217;s really driving all the great entrepreneurs out, and I think that that has hurt the Bitcoin price,” he admitted.</p>
+<p class="has-small-font-size">&#8220;Google Play hosts a variety of blockchain related apps, and we know that our partners are excited to expand on these offerings to create more engaging and immersive digital experiences with tokenized digital assets such as NFTs. Like with any emerging technology, we must balance innovation with our responsibility to protect users. So, we’ve spoken with developers about responsibly supporting those opportunities while continuing to provide a safe, transparent, and trusted experience for everyone.&#8221;</p>
 </blockquote>
 
 
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-693.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-693.png" alt="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target" class="wp-image-201834" srcset="https://coincu.com/wp-content/uploads/2023/07/image-693.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-693-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-693-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-693-750x500.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target 21"></a></figure></div>
 
-
-<p>While Draper expressed surprise at the aggressive stance of U.S. bureaucracy, he believes in the long-term value of <a href="https://coincu.com/201568-bitcoin-price-plummets-below-31k/" target="_blank" rel="noreferrer noopener">Bitcoin</a> and its underlying technology. He envisions a future where BTC becomes a mainstream currency, facilitating business operations, employee payments, supplier transactions, and even tax payments, all conducted on the blockchain. Draper highlights the benefits of a decentralized and transparent system, eliminating the need for traditional accounting and auditing practices.</p>
-
-
-
-<blockquote class="wp-block-quote has-small-font-size">
-<p class="has-small-font-size">&#8220;It&#8217;s a great system, it&#8217;s great currency, it&#8217;s a great way to operate. I can&#8217;t wait until I can raise a fund all in Bitcoin, invest it all in Bitcoin, have my portfolio companies all pay their employees and suppliers all in Bitcoin and have taxes all paid in Bitcoin, and have the waterfall all fall into people&#8217;s Bitcoin wallets. Because then there&#8217;s no accounting, there&#8217;s no auditing, there&#8217;s no bookkeeping, it&#8217;s all done on the blockchain. It&#8217;s all honest and it&#8217;s all straight,&#8221; Draper said.</p>
-</blockquote>
+<p>However, apps that violate Google Play&#8217;s Real-Money Gambling, Games, and Contests policy or fail to meet eligibility requirements cannot accept payments for chances to win assets, including NFTs. This includes mechanisms such as &#8220;loot boxes&#8221; that offer randomized blockchain-based items with purchases.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-692.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-692-1024x576.png" alt="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target" class="wp-image-201833" srcset="https://coincu.com/wp-content/uploads/2023/07/image-692-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-692-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-692-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-692-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-692-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-692-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-692.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tim Draper Still Very Optimistic On Bitcoin With $250,000 Price Target 22"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-781.png"><img decoding="async" loading="lazy" width="1024" height="565" src="https://coincu.com/wp-content/uploads/2023/07/image-781-1024x565.png" alt="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games" class="wp-image-202242" srcset="https://coincu.com/wp-content/uploads/2023/07/image-781-1024x565.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-781-300x166.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-781-768x424.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-781-750x414.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-781-1140x629.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-781.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games 7"></a><figcaption class="wp-element-caption">Axie Infinity: Origins on Google Play</figcaption></figure></div>
 
 
-<p>Draper&#8217;s early recognition of the significance of Bitcoin dates back to 2013 when he purchased 30,000 BTC following the infamous collapse of the Mt. Gox crypto exchange. Despite the market challenges faced during the recent crypto winter, Draper remained steadfast, urging industry participants to persevere and continue working towards the realization of blockchain&#8217;s potential.</p>
+<p>Google expects users to start experiencing in-app and game experiences leveraging digital assets later this summer. A select group of developers is currently testing the new policy before its wider rollout to all developers on Google Play later this year.</p>
 
 
 
-<p>While the specific timeline may have shifted, Draper&#8217;s conviction in BTC&#8217;s future resilience and ability to reach new price heights remains steadfast. With a target of $250,000 by 2025, Draper stands as one of the prominent voices advocating for the continued growth and adoption of the world&#8217;s largest cryptocurrency.</p>
+<p>While Google is embracing the integration of digital assets, including NFTs, within apps, Apple has been more cautious and slower to adopt similar functionalities on its iPhone platform.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-782.png"><img decoding="async" loading="lazy" width="900" height="500" src="https://coincu.com/wp-content/uploads/2023/07/image-782.png" alt="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games" class="wp-image-202244" srcset="https://coincu.com/wp-content/uploads/2023/07/image-782.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-782-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-782-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-782-750x417.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Google Play Now Changes Policy, Allowing Digital Assets In Apps And Games 8"></a></figure></div>
+
+
+<p>Google&#8217;s updated policy reflects a shift in attitude towards Web3 technologies. The company has recently allowed the decentralized data storage app ArDrive Mobile and the popular blockchain game <a href="https://coincu.com/159728-axie-infinity-launches-origins-2/" target="_blank" rel="noreferrer noopener">Axie Infinity: Origins</a> to be listed on <a href="https://coincu.com/184094-nba-top-shot-apple-store-google-play/" target="_blank" rel="noreferrer noopener">Google Play</a>. Additionally, Google Cloud launched an initiative in April 2023 to support Web3 developers in accelerating their startups.</p>
+
+
+
+<p>With these changes, Google Play aims to foster innovation in the blockchain space while ensuring a safe, transparent, and trusted experience for all users.</p>
 
 
 
 <p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/201824-tim-draper-still-very-optimistic-on-bitcoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202234-google-play-now-changes-policy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-690-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-779-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities</title>
+		<link>https://coincu.com/202226-digitex-futures-founder-default-judgment/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 18:26:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Adam Todd]]></category>
+		<category><![CDATA[Blockster Holdings Limited Corporation]]></category>
+		<category><![CDATA[CFTC]]></category>
+		<category><![CDATA[DGTX]]></category>
+		<category><![CDATA[Digitex Futures]]></category>
+		<category><![CDATA[Digitex Limited]]></category>
+		<category><![CDATA[Digitex Software Limited]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202226</guid>
+
+					<description><![CDATA[CFTC obtained a default judgment against Adam Todd and his companies for operating an illegal digital asset exchange called Digitex Futures.<p class="has-text-align-right"><a href="https://coincu.com/202226-digitex-futures-founder-default-judgment/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>CFTC obtained a default judgment against Adam Todd and his companies for operating an illegal digital asset exchange Digitex Futures.</em></li>
+
+
+
+<li><em>Todd and his companies attempted to manipulate the price of the native token DGTX and offered futures transactions without proper registration.</em></li>
+
+
+
+<li><em>The judgment bans Todd and his companies from trading in CFTC-regulated markets and imposes significant penalties</em>.</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>In a recent development, the U.S. District Court for the Southern District of Florida has <a href="https://www.cftc.gov/PressRoom/PressReleases/8748-23" target="_blank" rel="noreferrer noopener">issued</a> a default judgment against Florida resident Adam Todd and his affiliated companies &#8211; Digitex LLC, Digitex Limited, Digitex Software Limited, and Blockster Holdings Limited Corporation.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="https://coincu.com/wp-content/uploads/2023/07/CFTC_detail.jpg"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-1024x683.jpg" alt="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities" class="wp-image-202227" width="1024" height="683" srcset="https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/CFTC_detail.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities 9"></a></figure></div>
+
+
+<p>The judgment comes as a result of their involvement in illegal activities related to their digital asset exchange, operating under the name &#8220;Digitex Futures.&#8221;</p>
+
+
+
+<p>The court ruling states that Todd and his companies attempted to manipulate the price of their native token, DGTX, engaged in illegal futures transactions, failed to register with the Commodity Futures Trading Commission (CFTC) and neglected to implement essential compliance measures such as a customer information program, know your customer policies, and anti-money laundering procedures.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-777.png"><img decoding="async" loading="lazy" width="1000" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-777.png" alt="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities" class="wp-image-202230" srcset="https://coincu.com/wp-content/uploads/2023/07/image-777.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-777-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-777-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-777-750x450.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities 10"></a></figure></div>
+
+
+<p>As a result, the court has permanently enjoined Todd and his companies from trading in any CFTC-regulated markets and from registering with the CFTC. Additionally, Todd has been ordered to pay $3,912,220 in disgorgement and a civil monetary penalty of $11,736,660. This judgment effectively resolves the CFTC&#8217;s enforcement action against Todd and Digitex Futures.</p>
+
+
+
+<p>Ian McGinley, the Director of the CFTC&#8217;s Division of Enforcement, highlighted the importance of the ruling, stating:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">&#8220;This order resolves yet another action against an individual and digital asset exchange illegally offering futures contracts to U.S. customers. The order finds that Todd attempted to manipulate Digitex&#8217;s native utility token, DGTX, by allegedly &#8216;pumping&#8217; the token&#8217;s price through the use of a computerized bot. This case demonstrates that regardless of the technology used, the CFTC will aggressively use its well-established authority to ensure entities are lawfully registered and to address the manipulation of commodities in interstate commerce.&#8221;</p>
+</blockquote>
+
+
+
+<p>The case against Todd and Digitex Futures originated from a complaint filed by the <a href="https://coincu.com/200430-cftc-sue-celsius-and-former-ceo-earlier-month/" target="_blank" rel="noreferrer noopener">CFTC</a> on September 30, 2022. The complaint alleged that between May 2020 and May 2022, Todd and his company operated a digital asset derivatives exchange from Florida, targeting U.S. customers despite being subject to U.S. regulation.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-778-1024x768.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-778-1024x768.png" alt="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities" class="wp-image-202231" srcset="https://coincu.com/wp-content/uploads/2023/07/image-778-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-778-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-778-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-778-1536x1152.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-778-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-778-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-778.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Digitex Futures Founder Hits With Default Judgment By CFTC For Illegal Activities 11"></a><figcaption class="wp-element-caption">Adam Todd</figcaption></figure></div>
+
+
+<p>The CFTC charged Todd with attempting to manipulate DGTX, the native token of the Digitex Futures exchange. Todd&#8217;s alleged actions included artificially inflating the price of DGTX through the use of a bot and engaging in large over-the-counter purchases from third-party exchanges. These manipulative practices were intended to boost the price of DGTX, benefiting the Digitex &#8220;treasury&#8221; despite the potential trading losses incurred.</p>
+
+
+
+<p>The court&#8217;s judgment affirms the CFTC&#8217;s claims of attempted manipulation and other charges related to the interstate commerce of commodities.</p>
+
+
+
+<p>While the CFTC cautions that victims may not recover their lost funds due to insufficient assets held by wrongdoers, it remains committed to protecting customers and holding wrongdoers accountable for their actions.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202226-digitex-futures-founder-default-judgment/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-776-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>9,800 Bitcoin Tied To Silk Road Moving To New Wallet</title>
+		<link>https://coincu.com/202219-9800-bitcoin-tied-to-silk-road/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 17:35:02 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[DOJ]]></category>
+		<category><![CDATA[James Zhong]]></category>
+		<category><![CDATA[Silk Road]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202219</guid>
+
+					<description><![CDATA[The US Department of Justice (DOJ) has transferred 9,825 Bitcoin linked to the Silk Road darknet marketplace to new addresses in two transactions.<p class="has-text-align-right"><a href="https://coincu.com/202219-9800-bitcoin-tied-to-silk-road/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>The US Department of Justice (DOJ) has transferred 9,825 Bitcoin linked to the Silk Road darknet marketplace to new addresses in two transactions.</em></li>
+
+
+
+<li><em>The DOJ previously sold 9,800 BTC to Coinbase for $215 million and plans to sell the remaining balance of over 40,000 Bitcoins in multiple installments this year.</em></li>
+
+
+
+<li><em>There is controversy surrounding the transfers as the assets may potentially be moved back to their original wallets under new addresses, and the transactions are currently experiencing confirmation delays due to insufficient transaction fees of only $8.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Around 9,800 Bitcoin (BTC) linked to the Silk Road are in transit. It would be the biggest transfer of funds associated with the now-defunct darknet marketplace in months.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-774.png"><img decoding="async" loading="lazy" width="900" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-774.png" alt="9,800 Bitcoin Tied To Silk Road Moving To New Wallet" class="wp-image-202221" srcset="https://coincu.com/wp-content/uploads/2023/07/image-774.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-774-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-774-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-774-750x500.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="9,800 Bitcoin Tied To Silk Road Moving To New Wallet 12"></a></figure></div>
+
+
+<p>According to on-chain statistics, the US Department of Justice (DOJ) confiscated 9,825 Bitcoin worth $302 million in connection with the defunct darknet marketplace Silk Road which were relocated to different addresses earlier today, July 12.</p>
+
+
+
+<p>According to the <a href="https://blockchair.com/bitcoin/transaction/7dcbeff9e6da0f4ec5133d2f8b6fbe8bb73e05c5ddc8f5e410d408f8150e02ca" target="_blank" rel="noreferrer noopener">Blockchair dashboard</a>, the BTC was transmitted to new addresses in two transactions<a href="https://blockchair.com/bitcoin/address/bc1qe7nk2nlnjewghgw4sgm0r89zkjzsurda7z4rdg" target="_blank" rel="noreferrer noopener">.</a></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-1024x487.png"><img decoding="async" loading="lazy" width="1024" height="487" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-1024x487.png" alt="9,800 Bitcoin Tied To Silk Road Moving To New Wallet" class="wp-image-202220" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-1024x487.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-300x143.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-768x365.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-1536x730.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-750x357.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02-1140x542.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-13-at-00.25.02.png 1964w" sizes="(max-width: 1024px) 100vw, 1024px" title="9,800 Bitcoin Tied To Silk Road Moving To New Wallet 13"></a></figure></div>
+
+
+<p>A total of 8,200 Bitcoin are being moved to new wallets. The remaining monies are being transferred to new wallets, and there is some controversy about whether this constitutes as formally migrating since these assets may be transferred back to their original wallets under new addresses.</p>
+
+
+
+<p>The first transaction sends 0.01 BTC to the wallet 361yog, but the second sends 506 BTC to a different address. These monies come from two wallets, the most important of which is this one.</p>
+
+
+
+<p>Yet, US goverment <a href="https://coincu.com/177726-u-s-government-to-sell-41500-bitcoin/" target="_blank" rel="noreferrer noopener">sold</a> 9,800 BTC straight to the US-based site Coinbase in March for $21,800 each token, making $215 million. The authorities indicated intentions at the moment to sell the over 40,000 Bitcoin balance in four installments this calendar year.</p>
+
+
+
+<p>The <a href="https://coincu.com/196794-explosive-twist-cryptoquant-ceo-silk-road/" target="_blank" rel="noreferrer noopener">Silk Road Bitcoin</a> refers to the more than 50,000 BTC confiscated from <a href="https://coincu.com/181499-silk-road-hacker-received-one-year-jail/" target="_blank" rel="noreferrer noopener">James Zhong</a> by the US authorities in 2022. Zhong hacked the dark web marketplace to steal cash in 2012, and it took almost a decade for the authorities to retrieve the stolen assets.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-775.png"><img decoding="async" loading="lazy" width="1024" height="667" src="https://coincu.com/wp-content/uploads/2023/07/image-775-1024x667.png" alt="9,800 Bitcoin Tied To Silk Road Moving To New Wallet" class="wp-image-202222" srcset="https://coincu.com/wp-content/uploads/2023/07/image-775-1024x667.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-775-300x196.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-775-768x500.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-775-750x489.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-775-1140x743.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-775.png 1223w" sizes="(max-width: 1024px) 100vw, 1024px" title="9,800 Bitcoin Tied To Silk Road Moving To New Wallet 14"></a></figure></div>
+
+
+<p>The Department of Justice&#8217;s outstanding Silk Road transactions are presently encountering a confirmation delay, which might be caused by insufficient transaction costs.</p>
+
+
+
+<p>The DOJ seems to have set aside a pittance of $8 in fees for these transactions. Bitcoin blocks are processed once every 10 minutes on average.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202219-9800-bitcoin-tied-to-silk-road/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-12-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack</title>
+		<link>https://coincu.com/202211-fantom-foundation-using-axelar-layerzero/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 17:06:11 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Axelar]]></category>
+		<category><![CDATA[Fantom Foundation]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[LayerZero]]></category>
+		<category><![CDATA[multichain]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202211</guid>
+
+					<description><![CDATA[The Fantom Foundation is exploring alternate chains to fuel its operations because of the persistent interruption of the Multichain protocol caused by hackers.<p class="has-text-align-right"><a href="https://coincu.com/202211-fantom-foundation-using-axelar-layerzero/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>The Fantom Foundation is facing persistent interruptions and security problems with the Multichain protocol, leading to substantial financial losses and concerns for users.</em></li>
+
+
+
+<li><em>As a response, the foundation is exploring alternative chains such as Axelar and LayerZero as network bridging technologies to reduce reliance on Multichain.</em></li>
+
+
+
+<li><em>Recent exploits resulting in significant fund transfers have prompted Multichain to temporarily cease operations, while the absence of Multichain&#8217;s CEO has raised suspicions of an inside job.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The Fantom Foundation is <a href="https://twitter.com/FantomFDN/status/1679103844628721664" target="_blank" rel="noreferrer noopener">exploring</a> alternate chains to fuel its operations because of the persistent interruption of the Multichain protocol caused by hackers and force majeure.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-770.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-770-1024x512.png" alt="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack" class="wp-image-202214" srcset="https://coincu.com/wp-content/uploads/2023/07/image-770-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-770-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-770-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-770-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-770-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-770-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-770-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-770.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" title="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack 15"></a></figure></div>
+
+
+<p>After a number of security problems involving the Multichain bridge in which huge sums of crypto assets were transferred under questionable circumstances in two distinct events, the Fantom Foundation is taking strong action. The foundation acknowledged the tough situation that the current Multichain breach had placed Liquidity Providers (LPs), token holders, and general protocol users in.</p>
+
+
+
+<p>The Fantom Foundation officially acknowledged the canonical bridge within the network. It serves as a reminder to the community of the ecosystem&#8217;s variety and adaptability in terms of infrastructure.</p>
+
+
+
+<p>The development prompted the foundation to recommend Axelar and LayerZero as alternate network bridging technologies. It was also said that Axelar and LayerZero are gaining momentum as a result of the <a href="https://coincu.com/201729-multichain-record-265-million-withdrawn-9-chains/" target="_blank" rel="noreferrer noopener">Multichain</a> issues.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">&#8220;In light of the current events, the Fantom Foundation is taking a hands-on approach toward reducing the network&#8217;s reliance on any one particular solution for bridging and liquidity. With this, the Foundation will look to seed both Axelar and LayerZero issued asset pools directly with the bridges themselves to encourage protocol liquidity and confidence.&#8221;</p>
+</blockquote>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-772.png"><img decoding="async" loading="lazy" width="700" height="361" src="https://coincu.com/wp-content/uploads/2023/07/image-772.png" alt="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack" class="wp-image-202216" srcset="https://coincu.com/wp-content/uploads/2023/07/image-772.png 700w, https://coincu.com/wp-content/uploads/2023/07/image-772-300x155.png 300w" sizes="(max-width: 700px) 100vw, 700px" title="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack 16"></a></figure></div>
+
+
+<p>A possible exploit earlier this month resulted in the transfer of $125 million, followed by another transfer of $103 million in various assets. After the first outflow, Multichain advised users to stop using the project and cancel contract permissions, however, a significant quantity of assets remained on the network.</p>
+
+
+
+<p><a href="https://coincu.com/200938-fantom-foundation-ftm-unaffected-multichains/" target="_blank" rel="noreferrer noopener">Fantom Foundation</a> said that it is currently awaiting an official announcement from Multichain as well as instructions on its future moves. Remember that the most recent breach discovered by Arkham Intelligence resulted in the theft of around $125 million in various tokens from the Multichain Bridge. The company immediately ceased operations in order to mitigate the devastation caused by this exploit.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-773-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-773-1024x576.png" alt="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack" class="wp-image-202217" srcset="https://coincu.com/wp-content/uploads/2023/07/image-773-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-773-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-773-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-773-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-773-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-773-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-773.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Fantom Foundation Using Axelar, LayerZero Bridge Solutions After Multichain Hack 17"></a></figure></div>
+
+
+<p>The foundation recognized Multichain&#8217;s higher share as the major bridge that supports consumers inside its ecosystem. This situation is growing intolerable, and the protocol has said that it will look for alternate options.</p>
+
+
+
+<p>Some experts are becoming more concerned about an inside job. The <a href="https://coincu.com/191300-multichain-lost-contact-with-ceo/" target="_blank" rel="noreferrer noopener">absence</a> of Multichain&#8217;s CEO, whose whereabouts are unknown, has fanned concerns.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202211-fantom-foundation-using-axelar-layerzero/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-771-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>U.S. CPI Rate Seen Falling At 3.1% In June, BTC Price Holds Firm</title>
+		<link>https://coincu.com/202205-cpi-3-1-in-btc-price-holds-firm/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 12:54:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[#Bitcoin]]></category>
+		<category><![CDATA[CPI]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[US CPI]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202205</guid>
+
+					<description><![CDATA[In a promising development, the latest data on the Consumer Price Index (CPI) in the United States brings positive news for the economy.<p class="has-text-align-right"><a href="https://coincu.com/202205-cpi-3-1-in-btc-price-holds-firm/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>US CPI Maintains Stability: The annual rate of CPI in the United States remained unadjusted seasonally at 3% in June, indicating a steady and controlled inflationary environment.</em></li>
+
+
+
+<li><em>Positive Economic Outlook: The stable CPI rate reflects favorable economic conditions in the US, instilling confidence in businesses, investors, and consumers.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>In a promising development, the latest data on the Consumer Price Index (CPI) in the United States brings positive news for the economy.</strong></h5>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-1024x538.jpeg"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-1024x538.jpeg" alt="U.S. CPI Rate Seen Falling At 3.1% In June, BTC Price Holds Firm
+" class="wp-image-202207" srcset="https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-1024x538.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-300x158.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-768x403.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-750x394.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11-1140x599.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-cpi-inflation-11.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="U.S. CPI Rate Seen Falling At 3.1% In June, BTC Price Holds Firm 18"></a><figcaption class="wp-element-caption"> </figcaption></figure>
+
+
+
+<p>In June, the annual rate of CPI remained unadjusted seasonally at 3%, marking the smallest increase since March 2021. This figure defied expectations of 3.10%, outperforming the previous value of 4%.</p>
+
+
+
+<p>Moreover, the annual rate of core CPI in the US for June stood at 4.8%, the lowest since November 2021. This reading exceeded expectations of 5% and marked a decline from the previous value of 5.3%. These numbers indicate a stabilization of price levels and suggest steady economic growth in the country.</p>
+
+
+
+<p>Additionally, the monthly <a href="https://coincu.com/194802-cpi-expectations-btc-price-slight-recovery/">CPI </a>rate in the US, seasonally adjusted, showed a modest increase of 0.2% in June, slightly below the anticipated 0.30%. However, it was an improvement over the previous value of 0.10%. This suggests a controlled inflationary environment, providing further confidence in the stability of the US economy.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113.jpeg"><img decoding="async" loading="lazy" width="1000" height="667" src="https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113.jpeg" alt="U.S. CPI Rate Seen Falling At 3.1% In June, BTC Price Holds Firm
+" class="wp-image-202208" srcset="https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113.jpeg 1000w, https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/hero-image-marketbeat-435113-750x500.jpeg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="U.S. CPI Rate Seen Falling At 3.1% In June, BTC Price Holds Firm 19"></a><figcaption class="wp-element-caption"> </figcaption></figure>
+
+
+
+<p>In tandem with this positive economic news, the price of Bitcoin (BTC) experienced a slight uptick, reaching $30,800 USD. This demonstrates the resilience of the cryptocurrency market and its ability to respond to favorable economic indicators.</p>
+
+
+
+<p>The stable CPI figures reflect well on the US economy, indicating a healthy balance between supply and demand. This data brings reassurance to businesses, investors, and consumers, fostering an environment of economic confidence.</p>
+
+
+
+<p>As the US economy continues to show signs of resilience and stability, market participants are encouraged to analyze the CPI data and adjust their strategies accordingly. Understanding the evolving economic landscape can inform decisions regarding investment, savings, and financial planning.</p>
+
+
+
+<p>In conclusion, the latest CPI figures in the United States present a positive outlook, with stable annual rates and a controlled monthly increase. These numbers signify a robust and balanced economic growth trajectory, supporting confidence in the US market. The concurrent rise in BTC price further highlights the positive sentiment among investors and the cryptocurrency community.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202205-cpi-3-1-in-btc-price-holds-firm/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-12-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>EBA Drives Regulatory Standards For Asset Reference Token Under MiCAR</title>
+		<link>https://coincu.com/202199-eba-regulatory-asset-reference-token-micar/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 12:34:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[EBA]]></category>
+		<category><![CDATA[MiCA Regulation]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202199</guid>
+
+					<description><![CDATA[On July 12, the EBA announced its consultations on draft technical standards under the "Encrypted Assets Market Regulation" (MiCAR), demonstrating its commitment to fairness and consumer protection in the crypto market.<p class="has-text-align-right"><a href="https://coincu.com/202199-eba-regulatory-asset-reference-token-micar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>EBA Initiates Consultations on ART Standards: The European Banking Authority (EBA) has begun consultations on draft technical standards under MiCAR, aimed at ensuring fair and consistent handling of complaints from asset reference token (ART) holders.&nbsp;</em></li>
+
+
+
+<li><em>By encouraging preparatory action, the EBA aims to minimize disruptive business model adjustments and promote regulatory convergence, ultimately enhancing consumer protection in the crypto market.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>On July 12, the EBA announced its consultations on draft technical standards under the &#8220;Encrypted Assets Market Regulation&#8221; (MiCAR), demonstrating its commitment to fairness and consumer protection in the crypto market.</strong></h5>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/EBA-newsite.jpeg"><img decoding="async" loading="lazy" width="618" height="300" src="https://coincu.com/wp-content/uploads/2023/07/EBA-newsite.jpeg" alt="EBA Drives Regulatory Standards For Asset Reference Token Under MiCAR
+" class="wp-image-202201" srcset="https://coincu.com/wp-content/uploads/2023/07/EBA-newsite.jpeg 618w, https://coincu.com/wp-content/uploads/2023/07/EBA-newsite-300x146.jpeg 300w" sizes="(max-width: 618px) 100vw, 618px" title="EBA Drives Regulatory Standards For Asset Reference Token Under MiCAR 20"></a><figcaption class="wp-element-caption"> </figcaption></figure>
+
+
+
+<p>The EBA&#8217;s release of the consultation paper on draft Regulatory Technical Standards (RTS) for processing procedures is a strong indication of its intention to ensure efficient and consistent handling of complaints from asset reference token (ART) holders and other concerned parties. The draft RTSs are set to create a framework that guarantees prompt resolution and fair treatment for all stakeholders involved.</p>
+
+
+
+<p>Additionally, the EBA has opened consultations on two sets of draft Regulatory Technical Standards (RTS) and a set of Implementing Technical Standards (ITS). These address the authorization of ART issuers and the criteria for assessing acquisitions related to the market regulation of cryptoassets (MiCAR). By establishing clear and transparent guidelines, the EBA aims to regulate the access to the ART market within the European Union, enabling a level playing field for aspiring issuers and individuals seeking influence.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-1024x576.jpeg" alt="EBA Drives Regulatory Standards For Asset Reference Token Under MiCAR
+" class="wp-image-202202" srcset="https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1_Qs8EkblxMdeMHrALUxflhA.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="EBA Drives Regulatory Standards For Asset Reference Token Under MiCAR 21"></a><figcaption class="wp-element-caption"> </figcaption></figure>
+
+
+
+<p>Furthermore, the <a href="https://coincu.com/191269-eba-raises-vigilance-against-crypto/">EBA</a> has issued a statement emphasizing the importance of timely compliance with MiCAR regulations for financial institutions and businesses involved in Asset Reference Token (ART) or Electronic Money Token (EMT) activities. By encouraging proactive measures and preparedness, the organization seeks to minimize potential disruptions and abrupt adjustments to business models. This approach not only promotes regulatory convergence but also safeguards consumer interests, fostering a stable and secure environment.</p>
+
+
+
+<p>The EBA&#8217;s commitment to driving regulatory standards for ARTs under MiCAR underscores its dedication to fostering a well-regulated and consumer-friendly crypto market. These initiatives aim to ensure fairness, transparency, and accountability, establishing a solid foundation for the future of encrypted assets in the European Union.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+
+
+
+<p></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202199-eba-regulatory-asset-reference-token-micar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-11-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Solana Is Now Out Of Bear Price Zone, Next Target Will Be $26.5</title>
+		<link>https://coincu.com/202186-solana-is-now-out-of-bear-price-zone/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 11:35:12 +0000</pubDate>
+				<category><![CDATA[Altcoins]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[price]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[SOL]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202186</guid>
+
+					<description><![CDATA[Solana (SOL) has experienced a positive trend reversal and has shown no signs of weakening in both short- and long-term time horizons.<p class="has-text-align-right"><a href="https://coincu.com/202186-solana-is-now-out-of-bear-price-zone/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Solana (SOL) has experienced a positive trend reversal and has shown no signs of weakening in both short- and long-term time horizons.</em></li>
+
+
+
+<li><em>Solana is a high-performance blockchain platform designed for decentralized applications (dApps), known for its fast transaction speeds and unique consensus technique called Proof-of-History.</em></li>
+
+
+
+<li><em>While SOL&#8217;s trading volume has decreased, its current bullish effect is still evident, with the price holding steady at $22 after bouncing off the $20 resistance.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The price of Solana (SOL) broke out from short-term resistance, showing that the price has initiated a positive trend reversal.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-768.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-768-1024x538.png" alt="image 768" class="wp-image-202196" srcset="https://coincu.com/wp-content/uploads/2023/07/image-768-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-768-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-768-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-768-1536x806.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-768-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-768-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-768.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="Solana Is Now Out Of Bear Price Zone, Next Target Will Be $26.5 22"></a></figure></div>
+
+
+<p>Since its June 10 low, the SOL price has been on a rip and shows no indications of weakening in either the long- or short-term time horizons.</p>
+
+
+
+<p><a href="https://coincu.com/200894-solana-has-managed-to-regain-20/" target="_blank" rel="noreferrer noopener">Solana</a> is a high-performance blockchain platform designed to handle decentralized applications (dApps) and crypto projects while minimizing latency and security risks. Solana&#8217;s protocol employs a novel Proof-of-History consensus technique in addition to the more classic Proof-of-Stake model, allowing it to execute transactions at breakneck rates that few other blockchains can match.</p>
+
+
+
+<p>As a result, after events related to FTX or FUD from the US Securities and Exchange Commission, SOL is still the token in the top 10 coins with the largest capitalization in the crypto market at the moment.</p>
+
+
+
+<p>Solana&#8217;s trading volume has <a href="https://coinmarketcap.com/currencies/solana/" target="_blank" rel="noreferrer noopener">decreased</a> relative to yesterday at $357,068,860. However, the current bullish effect is still evident. SOL is holding steady at $22 after bouncing off the $20 resistance.</p>
+
+
+
+<p>One thing to note is that the 61.8% Fib level at $21.2 is also one of the psychological extremes that SOL has crossed, showing that the bulls are quite strong at the moment.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-767.png"><img decoding="async" loading="lazy" width="1024" height="623" src="https://coincu.com/wp-content/uploads/2023/07/image-767-1024x623.png" alt="image 767" class="wp-image-202193" srcset="https://coincu.com/wp-content/uploads/2023/07/image-767-1024x623.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-767-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-767-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-767-1536x934.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-767-2048x1246.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-767-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-767-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Solana Is Now Out Of Bear Price Zone, Next Target Will Be $26.5 23"></a><figcaption class="wp-element-caption">SOL price chart. <em>Source: TradingView</em></figcaption></figure></div>
+
+
+<p>While Solana has made a relatively steady upward wave from its low in early June, investors still need to watch for more good signals to join.</p>
+
+
+
+<p>Of course, selling now is a relatively risky option, as Bitcoin&#8217;s bullish momentum doesn&#8217;t show much, but altcoins are on the cusp of a recovery, signaling a possible uptrend.</p>
+
+
+
+<p>The area we should consider could be the $20 support or the nearest psychological contention between the bulls and the bears at $21.2. This can be the optimal choice for short-term trades.</p>
+
+
+
+<p>Potentially, the Fib %78.6 area at $23.4 is the nearest resistance, if SOL crosses this mark, our next target is $26.5.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202186-solana-is-now-out-of-bear-price-zone/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Solana-Is-Now-Out-Of-Bear-Price-Zone-Next-Target-Will-Be-26.5-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Polygon 2.0 Takes Crypto to the Next Level, Says FalconX</title>
+		<link>https://coincu.com/202187-polygon-2-0-takes-crypto-to-the-next-level/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 11:26:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[FalconX]]></category>
+		<category><![CDATA[MATIC]]></category>
+		<category><![CDATA[MATIC Investors]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<category><![CDATA[Polygon 2.0]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202187</guid>
+
+					<description><![CDATA[Polygon is showing signs of a comeback this month after a poor performance in the previous months.<p class="has-text-align-right"><a href="https://coincu.com/202187-polygon-2-0-takes-crypto-to-the-next-level/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Polygon&#8217;s MATIC token is up 12% in July, outperforming BTC and ETH.</em></li>
+
+
+
+<li><em>MATIC&#8217;s strong performance is linked to speculation around the upcoming Polygon 2.0 network update.</em></li>
+
+
+
+<li><em>Polygon Labs is collaborating to establish a &#8220;value layer&#8221; and improve tokenomics and governance for Polygon 2.0.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Polygon is showing signs of a comeback this month after a poor performance in the previous months.</strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-765.png"><img decoding="async" loading="lazy" width="1024" height="508" src="https://coincu.com/wp-content/uploads/2023/07/image-765-1024x508.png" alt="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX" class="wp-image-202190" srcset="https://coincu.com/wp-content/uploads/2023/07/image-765-1024x508.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-765-300x149.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-765-768x381.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-765-1536x762.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-765-2048x1016.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-765-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-765-750x372.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-765-1140x566.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The native token of the Ethereum scaling network has shown a 12% increase in July as of Tuesday afternoon, while Bitcoin remained flat and Ether saw a decline of 3.2%. Meanwhile, cryptocurrencies tied to layer-2 solutions Arbitrum and Optimism saw respective declines of 3.5% and 8.9% over the same period.</p>
+
+
+
+<p>Industry experts speculate that MATIC’s comparatively strong performance could be attributed to a major network update, <a href="https://polygon.technology/roadmap" target="_blank" rel="noopener">Polygon 2.0</a>. This major upgrade, which is labeled as a “vision for unlimited scalability and unified liquidity, powered by Zero-Knowledge technology,” per the&nbsp;<a href="https://polygon.technology/roadmap" target="_blank" rel="noopener">project’s roadmap</a>, is the most relevant technical announcement in the industry at the moment. FalconX research note&#8217;s head of research, David Lawant, stated that “We expect MATIC to keep closing its gap versus peers as more details of the upgrade roadmap become more apparent to the market.”</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-764.png"><img decoding="async" loading="lazy" width="900" height="400" src="https://coincu.com/wp-content/uploads/2023/07/image-764.png" alt="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX" class="wp-image-202189" srcset="https://coincu.com/wp-content/uploads/2023/07/image-764.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-764-300x133.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-764-768x341.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-764-750x333.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Polygon Labs collaborated with developers, researchers, node operators, validators and other stakeholders to establish the upgrade roadmap, which is expected to be implemented in several phases. The first phase is geared towards establishing what’s dubbed a “value layer,” which mirrors how the “<a href="https://polygon.technology/blog/introducing-polygon-2-0-the-value-layer-of-the-internet" target="_blank" rel="noopener">rest of the internet operates</a>.” Other architectural overhauls, including a&nbsp;validium, are intended to reduce costs and boost transaction throughput. There are also plans to revamp tokenomics and governance processes.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-766.png"><img decoding="async" loading="lazy" width="1024" height="477" src="https://coincu.com/wp-content/uploads/2023/07/image-766-1024x477.png" alt="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX" class="wp-image-202191" srcset="https://coincu.com/wp-content/uploads/2023/07/image-766-1024x477.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-766-300x140.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-766-768x357.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-766-1536x715.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-766-2048x953.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-766-750x349.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-766-1140x531.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Polygon 2.0 Takes Crypto to the Next Level, Says FalconX 26"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Despite MATIC&#8217;s recent gains, it still has a ways to catch up as it is down 3.2% over the year to date, underperforming against BTC, ETH, ARB, and Solana, all of which are up more than a third. However, with the beginning of the implementation of Polygon 2.0, MATIC could potentially catch up to its peers and become a leading cryptocurrency in the market.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202187-polygon-2-0-takes-crypto-to-the-next-level/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Polygon-2.0-Takes-Crypto-to-the-Next-Level-Says-FalconX-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
