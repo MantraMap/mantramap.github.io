@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Mon, 17 Jul 2023 11:17:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jul 2023 11:42:07 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>zkSync unveils new proof system dubbed Boojum</title>
+		<link>https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/</link>
+					<comments>https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/#respond</comments>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 11:42:06 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/</guid>
+
+					<description><![CDATA[<p>Boojum upgrade is live as zkSync Era transitions to a new STARK-powered proof system. The new proof system is designed to power world-class performance on regular consumer-grade hardware. zkSync is rolling out the feature in phases as it tests out its security and functionality. zkSync Era, a zero knowledge (ZK) proofs layer 2 protocol for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/">zkSync unveils new proof system dubbed Boojum</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">Boojum upgrade is live as zkSync Era transitions to a new STARK-powered proof system.</li>
+<li dir="ltr">The new proof system is designed to power world-class performance on regular consumer-grade hardware.</li>
+<li dir="ltr">zkSync is rolling out the feature in phases as it tests out its security and functionality.</li>
+</ul>
+<p dir="ltr">zkSync Era, a zero knowledge (ZK) proofs layer 2 protocol for <a href="https://coinjournal.net/ethereum/">Ethereum</a>, has announced its high-performance proof system called Boojum.</p>
+<p dir="ltr">According to the team, the upgrade is not only to scale network performance but also significantly improve on its overall decentralisation by allowing for the use of consumer-grade hardware.</p>
+<p dir="ltr">
+</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Say hello to Boojum &#128075;: zkSync Era&rsquo;s new high-performance proof system for radical decentralization. Boojum is an upgrade that will transition zkSync Era to a STARK-powered proof system, providing world-class performance on consumer-grade hardware.</p>
+<p>&#128161;&nbsp;Learn more:&hellip; <a href="https://t.co/1GrwJ5Y07A">pic.twitter.com/1GrwJ5Y07A</a></p>
+<p>&mdash; zkSync &#8718; (@zksync) <a href="https://twitter.com/zksync/status/1680820952991408129?ref_src=twsrc%5Etfw">July 17, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2 dir="ltr">New zkSync Era upgrade</h2>
+<p dir="ltr">Boojum is a Rust-based arithmetization and constraint library that zkSync is transitioning to from its SNARK-based prover system. The protocol noted in an<a href="https://zksync.mirror.xyz/HJ2Pj45EJkRdt5Pau-ZXwkV2ctPx8qFL19STM5jdYhc" rel="noopener noreferrer" target="_blank">&nbsp;<u>announcement</u></a> on Monday that the new proof system will power the platform&rsquo;s upgraded version of ZK circuits.</p>
+<p dir="ltr">While zkSync Era can currently process over 100 transactions per second (TPS), Boojum is expected to considerably bump this up. On top of that, the team targets near-real-time and cheap transactions.</p>
+<p dir="ltr">&ldquo;<em>Our current SNARK-based system, while effective for today, won&rsquo;t scale to the high-volume, near real-time transactions the ZK Stack, where zkSync Era operates as a Hyperchain, aims to support in the coming years. The future we imagine for these systems is one in which proofs are generated and verified cheaply and quickly, allowing for fast finality and interoperability between Hyperchains</em>,&rdquo; the zkSync Era team wrote.</p>
+<p dir="ltr">In terms of reducing hardware requirements, Boojum will allow for GPU provers with as little as 16 GB of RAM. The move to have such a low barrier is crucial to supporting an increasingly decentralised ecosystem.</p>
+<p dir="ltr">Today&rsquo;s rollout of Boojum upgrade will incorporate a phased out integration into mainnet. While live on the mainnet, the upgrade&rsquo;s first implementation is in &ldquo;shadow mode&rdquo;. It means the team will run the new proof system in tandem with the current one.</p>
+<p dir="ltr">However, while Boojum will be in testing mode, &ldquo;shadow proofs&rdquo; will be generated and verified from real production data on Mainnet blocks. zkSync will continually work on the ecosystem to fine-tune the upgrade&rsquo;s functionality as it moves closer to full migration.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/">zkSync unveils new proof system dubbed Boojum</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/zksync-unveils-new-proof-system-dubbed-boojum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Kalima Secures $10 Million Investment Commitment and Announces Private Sale and DEX Listing</title>
 		<link>https://coinjournal.net/news/kalima-secures-10-million-investment-commitment-and-announces-private-sale-and-dex-listing/</link>
 					<comments>https://coinjournal.net/news/kalima-secures-10-million-investment-commitment-and-announces-private-sale-and-dex-listing/#respond</comments>
@@ -403,51 +446,6 @@ benrogers@prestlabs.io</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://coinjournal.net/news/binance-recently-laid-off-1000-employees-report/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>BlackRock CEO says crypto will transcend international currencies</title>
-		<link>https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/</link>
-					<comments>https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/#respond</comments>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Fri, 14 Jul 2023 17:44:20 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Bitcoin ETF]]></category>
-		<category><![CDATA[ETF]]></category>
-		<category><![CDATA[gold]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/</guid>
-
-					<description><![CDATA[<p>BlackRock CEO Larry Fink believes crypto is an international asset that can transcend any global currency. Fink did not talk about Bitcoin specifically, noting he&#8217;s prohibited by virtue of BlackRock&#8217;s spot ETF filing. In his interview with CNBC on Friday, Fink mentioned how gold ETF changed the gold investing market. BlackRock CEO Larry Fink has [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/">BlackRock CEO says crypto will transcend international currencies</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">BlackRock CEO Larry Fink believes crypto is an international asset that can transcend any global currency.</li>
-<li dir="ltr">Fink did not talk about Bitcoin specifically, noting he&rsquo;s prohibited by virtue of BlackRock&rsquo;s spot ETF filing.</li>
-<li dir="ltr">In his interview with CNBC on Friday, Fink mentioned how gold ETF changed the gold investing market.</li>
-</ul>
-<p dir="ltr">BlackRock CEO Larry Fink has yet again shared bullish remarks about <a href="https://coinjournal.net/cryptocurrencies/">cryptocurrencies</a>, noting in an <a href="https://twitter.com/SquawkStreet/status/1679860599780519943" rel="noopener noreferrer" target="_blank">interview</a> with CNBC&rsquo;s Squawk on the Street on Friday that crypto has the capacity to transcend any international currency.</p>
-<p dir="ltr">According to the BlackRock CEO, who recently commented on the potential of Bitcoin as digital gold and an international investment asset, repeated the viewpoint in his latest remarks. In particular, he pointed to the global demand for crypto as something that signifies its potential.</p>
-<p dir="ltr">
-</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">Crypto is an international asset and will transcend any one currency valuation, <a href="https://twitter.com/search?q=%24BLK&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BLK</a> CEO Larry Fink tells <a href="https://twitter.com/jimcramer?ref_src=twsrc%5Etfw">@jimcramer</a>, <a href="https://twitter.com/carlquintanilla?ref_src=twsrc%5Etfw">@carlquintanilla</a> &amp; <a href="https://twitter.com/davidfaber?ref_src=twsrc%5Etfw">@davidfaber</a> <a href="https://t.co/o1G3D6pfqF">pic.twitter.com/o1G3D6pfqF</a></p>
-<p>&mdash; Squawk on the Street (@SquawkStreet) <a href="https://twitter.com/SquawkStreet/status/1679860599780519943?ref_src=twsrc%5Etfw">July 14, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<h2 dir="ltr">Fink on ETFs and crypto&rsquo;s international appeal</h2>
-<p dir="ltr">BlackRock filed for a spot <a href="https://coinjournal.net/news/tag/bitcoin-etf/">Bitcoin ETF</a> last month and together with Fidelity Investments, Ark Invest and others, are convinced they have done everything required to have the SEC approve the first such ETF for the US market.</p>
-<p dir="ltr">The $9 trillion asset manager&rsquo;s recent outlook of crypto investing, and what its entry into the spot ETF market could mean for the broader industry continues to trigger positive vibes a month since its initial SEC filing.</p>
-<p dir="ltr">Fink said:</p>
-<p dir="ltr"><em>&ldquo;I</em><em>&nbsp;can&rsquo;t talk about Bitcoin because we have a SEC filing and I&rsquo;m prohibited, but I can talk about crypto in general and what we have done. We believe we have a responsibility to democratise investing. And we have done a great job and the role of ETFs in the world is transforming investing. I think we&rsquo;re only at the beginning of that</em>.&rdquo;</p>
-<p dir="ltr">The BlackRock chief then noted that ETFs industry is set to grow into a multiple trillion dollar market as the fixed income market expands. He also highlighted what has been achieved since the gold ETF debut 20 years ago, especially in democratising gold investing and bringing down the cost of transactions for physical gold.</p>
-<p dir="ltr">An ETF will democratise the crypto investing space in the same way, Fink opined, adding that BlackRock&rsquo;s clients have over the last five years continually asked about crypto&rsquo;s role. He says he believes crypto is an &ldquo;international asset.&rdquo;</p>
-<p dir="ltr">&ldquo;<em>It has differentiating value versus other assets. But more importantly, because it is so international, it&rsquo;s going to transcend any one currency and currency valuation</em>.&rdquo;</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/">BlackRock CEO says crypto will transcend international currencies</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/blackrock-ceo-says-crypto-will-transcend-international-currencies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
