@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Mon, 17 Jul 2023 03:44:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jul 2023 06:30:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,768 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Is UniSat&#8217;s brc20-swap Truly Decentralized? OKX CEO Questions Its Function</title>
+		<link>https://coincu.com/203264-unisats-brc20-swap-truly-decentralized-okx-ceo/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 06:30:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[BRC20]]></category>
+		<category><![CDATA[brc20-swap]]></category>
+		<category><![CDATA[UniSat]]></category>
+		<category><![CDATA[UniSat Marketplace]]></category>
+		<category><![CDATA[UniSat Wallet]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203264</guid>
+
+					<description><![CDATA[UniSat Wallet launches brc20-swap, the first-ever native swap on Bitcoin mainnet utilizing brc20 protocol. UniSat encourages community feedback and participation in testing.<p class="has-text-align-right"><a href="https://coincu.com/203264-unisats-brc20-swap-truly-decentralized-okx-ceo/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>UniSat Wallet announced the launch of brc20-swap, a native swap on the Bitcoin mainnet utilizing the brc20 protocol.</em></li>
+
+
+
+<li><em>The swap is designed to be simple to understand and permissionless to join, with source code, APIs, and docs available for developers.</em></li>
+
+
+
+<li><em>UniSat encourages community feedback and will invite individuals to participate in experimental testing, using metrics like UniSat Points to determine eligibility.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>UniSat Wallet launches brc20-swap, the first-ever native swap on Bitcoin mainnet utilizing brc20 protocol. UniSat encourages community feedback and participation in testing.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1092.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1092-1024x576.png" alt="Is UniSat&#039;s brc20-swap Truly Decentralized? OKX CEO Questions Its Function" class="wp-image-203283" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1092-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1092-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1092-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1092-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1092-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1092.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Is UniSat&#039;s brc20-swap Truly Decentralized? OKX CEO Questions Its Function 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>UniSat Wallet recently announced the launch of brc20-swap, which they claim to be the first-ever Ordinals native swap that runs on the Bitcoin mainnet and utilizes the brc20 protocol. However, <a href="https://coincu.com/201712-okx-launches-brc20-s-a-new-staking-mechanism/" target="_blank" data-type="URL" data-id="https://coincu.com/201712-okx-launches-brc20-s-a-new-staking-mechanism/" rel="noreferrer noopener">some </a>have questioned whether this function is a centralized swap, as the current Bitcoin network does not support smart contracts, making it difficult to achieve a fully decentralized DEX Swap.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today, we&#39;re proud to announce brc20-swap, <br><br>the first-ever Ordinals native swap, floating on top of bitcoin mainnet, utilizing brc20 protocol as its underlying asset infrastructure. <br><br>(1/12) <a href="https://t.co/PpEU9Js3OG" target="_blank">pic.twitter.com/PpEU9Js3OG</a></p>&mdash; UniSat Wallet &#8211; Store, Inscribe and Search. (@unisat_wallet) <a href="https://twitter.com/unisat_wallet/status/1680555419347894278?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 16, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>UniSat has been receiving proposals from various teams and individuals who are eager to extend the capabilities of brc20. They are enthusiastic about supporting these innovations and aim to make the UniSat brc20 indexer highly competitive in this space. Supporting these ideas aligns with their commitment to pushing the boundaries of brc20 itself and showcasing its full flexibility and extensibility.</p>
+
+
+
+<p>brc20-swap is designed to be simple to understand and permissionless to join. Anyone should be able to deploy a new trading pair and then add liquidity to a given swap, just like deploying and minting a classic brc20. While there may be some complexities involved, it&#8217;s designed to be convenient for developers to deploy a service instance of brc20-swap independently. UniSat will provide source code, APIs, and docs to help users build swaps based on this one.</p>
+
+
+
+<p>OKX CEO Star Xu questioned whether this function is a centralized swap. Since the current Bitcoin network does not support smart contracts, achieving a fully decentralized DEX Swap isn&#8217;t easy.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Is it a centralized swap? <a href="https://t.co/cK8bxtbJzR" target="_blank">https://t.co/cK8bxtbJzR</a></p>&mdash; Star (@star_okx) <a href="https://twitter.com/star_okx/status/1680766423768129536?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 17, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><a href="https://twitter.com/unisat_wallet/status/1680556477700882433" target="_blank" data-type="URL" data-id="https://twitter.com/unisat_wallet/status/1680556477700882433" rel="noreferrer noopener">UniSat </a>encourages people to reply to their tweets and values their input. They plan to send inviting inscriptions to individuals for participation in the experimental testing phase of brc20-swap soon. </p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203264-unisats-brc20-swap-truly-decentralized-okx-ceo/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-17T132900.597-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Market Overview (July 10th to July 16th): Discover the Latest Crypto Market Buzz</title>
+		<link>https://coincu.com/203213-market-overview-july-10th-to-july-16th/</link>
+		
+		<dc:creator><![CDATA[Tommy]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 06:27:16 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[AI advancements]]></category>
+		<category><![CDATA[Altcoins]]></category>
+		<category><![CDATA[Binance Launchpad]]></category>
+		<category><![CDATA[Bitcoin ETFs]]></category>
+		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[macroeconomic updates]]></category>
+		<category><![CDATA[Market Overview]]></category>
+		<category><![CDATA[market predictions]]></category>
+		<category><![CDATA[regulatory concerns]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203213</guid>
+
+					<description><![CDATA[Get the latest insights into the crypto industry with news on Binance's launchpad, macroeconomic trends, and market predictions. Discover the impact of recent developments on BNB, regulatory challenges, interest rates, AI advancements, Bitcoin ETFs, and more.<p class="has-text-align-right"><a href="https://coincu.com/203213-market-overview-july-10th-to-july-16th/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points </strong></p>
+
+
+
+<ul>
+<li>Binance: Scandal involving leaked user emails after the launch of Launchpad &#8211; Arkham. Binance layoffs and suspension of support for bridging tokens.</li>
+
+
+
+<li>Macroeconomic: Recent reports suggest that inflation may be cooling down, which could lead to potential announcements regarding interest rates. </li>
+
+
+
+<li>Market Overview prediction: Stablecoins continue to experience losses, mining companies&#8217; involvement is leading to faster selling of BTC, exchange volume is decreasing, and money flow into funds has increased but not significantly.</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Stay up-to-date with the latest developments in the crypto world, including Binance&#8217;s launchpad launch, macroeconomic updates, and predictions for the week ahead. Gain market overview insights and make informed decisions in the cryptocurrency industry.</strong></h5>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="733" height="489" data-id="203255" src="https://coincu.com/wp-content/uploads/2023/07/image-1087.png" alt="image 1087" class="wp-image-203255" title="Market Overview (July 10th to July 16th): Discover the Latest Crypto Market Buzz 2"><figcaption class="wp-element-caption">Market Overview</figcaption></figure>
+</figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Binance has faced multiple challenges</strong></h2>
+
+
+
+<p>Launchpool&#8217;s continuous release has caused a slight increase in the price of $BNB. The most recent release,<a href="https://coincu.com/201234-binance-launch-the-32nd-launchpad-arkham-arkm/" data-type="URL" data-id="https://coincu.com/201234-binance-launch-the-32nd-launchpad-arkham-arkm/" target="_blank" rel="noreferrer noopener"> Launchpad &#8211; Arkham</a>, was followed by a scandal involving <a href="https://coincu.com/203179-arkham-airdrop-issues-are-genuine-user/" target="_blank" data-type="URL" data-id="https://coincu.com/203179-arkham-airdrop-issues-are-genuine-user/" rel="noreferrer noopener">leaked user emails </a>after Arkham announced the airdrop of ARKM tokens.</p>
+
+
+
+<p>In other news related to Binance, the company <a href="https://coincu.com/202996-binance-fired-1000-people-report/" target="_blank" data-type="URL" data-id="https://coincu.com/202996-binance-fired-1000-people-report/" rel="noreferrer noopener">has laid off </a>more than 1000 employees. Additionally, Binance has suspended support for 8 bridging tokens with Multichain, causing the price of MULTI to drop. <a href="https://coincu.com/202911-multichain-ceo-disappears-with-user-assets/" target="_blank" data-type="URL" data-id="https://coincu.com/202911-multichain-ceo-disappears-with-user-assets/" rel="noreferrer noopener">Multichain has officially announced its shutdown</a>, along with news that the CEO was arrested. It is not yet clear why the CEO was arrested, but it is likely that users&#8217; money will be difficult to retrieve.</p>
+
+
+
+<p>On a more positive note, a recent report revealed that Binance offers a platform for Indian traders to exchange cryptocurrencies for rupees, working similar to an escrow service. The cryptocurrency exchange holds the user&#8217;s digital assets until the buyer and seller agree on the transaction and the funds have been transferred. However, this strategy has attracted the attention of the <a href="https://coincu.com/201752-reserve-bank-of-india-13million-cbdc/" target="_blank" data-type="URL" data-id="https://coincu.com/201752-reserve-bank-of-india-13million-cbdc/" rel="noreferrer noopener">Reserve Bank of India</a> (RBI). </p>
+
+
+
+<p>Regulators are currently assessing whether local traders may be breaking foreign exchange and money laundering rules. Despite these regulatory concerns, Indian crypto enthusiasts appear to be flocking to Binance. Amid a stifling environment due to high taxes and fear of backlash from the RBI, local traders find Binance&#8217;s rupee transactions an attractive alternative.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Macroeconomic</strong></h2>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1081.png"><img decoding="async" loading="lazy" width="781" height="926" data-id="203230" src="https://coincu.com/wp-content/uploads/2023/07/image-1081.png" alt="Market Overview" class="wp-image-203230" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1081.png 781w, https://coincu.com/wp-content/uploads/2023/07/image-1081-253x300.png 253w, https://coincu.com/wp-content/uploads/2023/07/image-1081-768x911.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1081-750x889.png 750w" sizes="(max-width: 781px) 100vw, 781px" title="Market Overview (July 10th to July 16th): Discover the Latest Crypto Market Buzz 3"></a><figcaption class="wp-element-caption">Macroeconomic &#8211; Market Overview</figcaption></figure>
+</figure>
+
+
+
+<p>The latest market overview reports indicate that both the CPI and PPI figures have exceeded expectations, suggesting that inflation may be cooling down. This is a positive signal for the economy and could potentially lead to announcements regarding interest rates on July 26th. </p>
+
+
+
+<p>While it&#8217;s still too early to predict the exact outcome, this news is certainly encouraging for those who have been following the market overview closely. It&#8217;s worth noting that any changes to interest rates can have a significant impact on the overall economic landscape, which is why investors and analysts alike are keeping a close eye on these developments.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Last week’s highlights big news</strong></h2>
+
+
+
+<p>The cryptocurrency world is abuzz with news, and there are many interesting developments to keep an eye on market overview. For example, Elon Musk has founded an AI company called xAI, which is expected to benefit the AI segment. In addition, the SEC has begun reviewing Bitcoin ETF Spot applications by major players such as BlackRock, VanEck, Fidelity, Wisdomtree, and Ivesco. </p>
+
+
+
+<p>Meanwhile, the US Department of Justice has moved nearly $302.2 million worth of Bitcoin to a newly created wallet address, which is part of the BTC confiscated from Silk Road Hacker. In addition, <a href="https://coincu.com/202599-ripple-wins-against-sec/" target="_blank" data-type="URL" data-id="https://coincu.com/202599-ripple-wins-against-sec/" rel="noreferrer noopener">Ripple has won a lawsuit</a>, and a series of altcoins considered by the SEC to be securities, including SOL, MATIC, and ATOM, are expected to benefit. Finally, the first spot <a href="https://coincu.com/202409-europes-first-bitcoin-etf-finally-launches/" target="_blank" data-type="URL" data-id="https://coincu.com/202409-europes-first-bitcoin-etf-finally-launches/" rel="noreferrer noopener">Bitcoin ETF in Europe</a> is expected to launch in July 2023 after a one-year delay, while Jacobi Asset Management&#8217;s Bitcoin ETF is expected to go live this month, overseen and backed by Fidelity Digital Assets.</p>
+
+
+
+<p>FTX opens its gates to prepare for the application process to <a href="https://twitter.com/FTX_Official/status/1678938250658869248?s=20" data-type="URL" data-id="https://twitter.com/FTX_Official/status/1678938250658869248?s=20" target="_blank" rel="noreferrer noopener">reclaim assets</a>. It is not known how long this process will take or how much users will get back the assets left on the exchange, but at least this is a pretty positive sign for the victims of the FTX bankruptcy event. The price of $FTT increased sharply after this news. FTX Portal is open again, if you are being held at FTX, you can fill out the application</p>
+
+
+
+<h2 class="wp-block-heading"><strong>This week’s prediction</strong></h2>
+
+
+
+<p>BTC.D has increased from 39% to 52% since September last year. The current market overview trend is focused on $BTC rather than altcoins. This means that altcoin holders may suffer losses if $BTC drops even slightly. However, this is a positive sign for the overall market overview, as $BTC must rise significantly for new investors to enter the market. Most people enter the crypto market through $BTC, which is the most liquid and traded asset. A strong bull run will only occur when the macroeconomic situation is favorable and new money is invested.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1078.png"><img decoding="async" loading="lazy" width="1024" height="475" data-id="203227" src="https://coincu.com/wp-content/uploads/2023/07/image-1078-1024x475.png" alt="Market Overview" class="wp-image-203227" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1078-1024x475.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1078-300x139.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1078-768x356.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1078-750x348.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1078-1140x529.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1078.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Market Overview (July 10th to July 16th): Discover the Latest Crypto Market Buzz 4"></a><figcaption class="wp-element-caption">Source: TradingView – Market Cap BTC Dominance</figcaption></figure>
+</figure>
+
+
+
+<ul>
+<li>The MPI (digger&#8217;s position) indicator shows an increase, indicating the involvement of mining companies. This is leading to faster than usual selling of $BTC. In general, exchange volume is still decreasing.</li>
+
+
+
+<li>Over the past two weeks, money flow into funds has gradually increased, but it is not yet comparable to the amount from the entire year. Besides, Stablecoins continue to experience losses.</li>
+
+
+
+<li>It can be observed that since November 2022, major fluctuations are mainly due to news related to created stablecoins, rather than natural growth (such as good macro and money flow).</li>
+</ul>
+
+
+
+<p>The discharge team has mostly disappeared, but the expected influx of new cash flow has not arrived yet. This influx can be considered as fuel for the train to run smoothly. In order to operate smoothly, the train requires a lot of fuel. Currently, the strategy is to slow down and hold onto assets. The market overview cannot rebound immediately. When trading altcoins, individuals should exercise caution. Most current altcoins are expected to decrease by at least 10% when $BTC drops 1-2%.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to DYOR before investing.</em></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>This week’s prediction</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203213-market-overview-july-10th-to-july-16th/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-26-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>MakerDAO Dominates with $122 Million In MKR Holdings</title>
+		<link>https://coincu.com/203262-makerdao-dominates-with-122-million-in-mkr/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 05:13:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[MakerDAO]]></category>
+		<category><![CDATA[MKR]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203262</guid>
+
+					<description><![CDATA[Key Points: According to Ember, MakerDAO Lianchuang Rune has been actively acquiring MKR coins since November 2022, resulting in a significant accumulation of holdings. The monitoring data reveals that the two addresses associated with MKR Lianchuang Rune currently possess a combined total of 123,893 MKR coins, equivalent to approximately $122 million USD. This remarkable figure [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/203262-makerdao-dominates-with-122-million-in-mkr/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>MakerDAO Lianchuang Rune has accumulated 123,893 MKR coins, equivalent to $122M USD, accounting for 12.6% of total MKR circulation.</em></li>
+
+
+
+<li><em>Sale proceeds of LDO coins were used to purchase MKR coins.</em></li>
+
+
+
+<li><em>Confidence in the MakerDAO ecosystem: Increased MKR holdings by MakerDAO Lianchuang Rune may have significant implications for project governance and overall market dynamics.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to Ember, MakerDAO Lianchuang Rune has been actively acquiring MKR coins since November 2022, resulting in a significant accumulation of holdings.</strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings.jpg"><img decoding="async" loading="lazy" width="1024" height="611" src="https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-1024x611.jpg" alt="MakerDAO Dominates with 122 Million in MKR Holdings" class="wp-image-203270" srcset="https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-1024x611.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-300x179.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-768x458.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-750x448.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings-1140x680.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-in-MKR-Holdings.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="MakerDAO Dominates with $122 Million In MKR Holdings 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The monitoring data reveals that the two addresses associated with <a href="https://makerdao.com/en/" target="_blank" data-type="URL" data-id="https://makerdao.com/en/" rel="noreferrer noopener">MKR </a>Lianchuang Rune currently possess a combined total of 123,893 MKR coins, equivalent to approximately $122 million USD. This remarkable figure accounts for 12.6% of the total MKR circulation, which stands at 977,631 MKR.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="zh" dir="ltr">MakerDAO 联创 Rune 自 2022/11 开始抛售 <a href="https://twitter.com/search?q=%24LDO&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$LDO</a> 用于回购 <a href="https://twitter.com/search?q=%24MKR&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$MKR</a> 以来，总共卖出了多少 LDO 和回购了多少 MKR ？<br><br>• 2022/11-2023/4，累计出售 1,357 万 LDO($26.14M)，出售均价 $1.92；<br><br>• 2022/11-2023/7，累计买进 32,637 MKR($23.95M)，买入均价 $734。<br>回购 MKR 资金全部来自于出售 LDO… <a href="https://t.co/VyypO5Pbib" target="_blank">https://t.co/VyypO5Pbib</a> <a href="https://t.co/IEh7bt0Isp" target="_blank">pic.twitter.com/IEh7bt0Isp</a></p>&mdash; 余烬 (@EmberCN) <a href="https://twitter.com/EmberCN/status/1680776617608765440?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 17, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Ember&#8217;s analysis further illustrates the timeline and details of the transactions. From November 2022 to April 2023, a total of 13.57 million LDO (Liquid Doge) coins were sold, generating approximately $26.14 million USD in revenue. The average selling price during this period amounted to $1.92 USD per LDO coin. Subsequently, between November 2022 and July 2023, MKR Lianchuang Rune purchased 32,637 MKR coins, amounting to a value of approximately $23.95 million USD. The average purchase price for MKR coins was $734 USD.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1090.png"><img decoding="async" loading="lazy" width="1024" height="387" src="https://coincu.com/wp-content/uploads/2023/07/image-1090-1024x387.png" alt="image 1090" class="wp-image-203269" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1090-1024x387.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1090-300x113.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1090-768x290.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1090-1536x581.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1090-2048x774.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1090-750x284.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1090-1140x431.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="MakerDAO Dominates with $122 Million In MKR Holdings 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>What sets MakerDAO Lianchuang Rune&#8217;s accumulation strategy apart is its funding source. The proceeds from the sale of LDO coins were utilized to finance the purchase of MKR coins. This approach not only allowed MKR Lianchuang Rune to bolster its MKR holdings but also ensured a sustainable and self-reliant financial strategy.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1091.png"><img decoding="async" loading="lazy" width="953" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1091-953x1024.png" alt="image 1091" class="wp-image-203271" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1091-953x1024.png 953w, https://coincu.com/wp-content/uploads/2023/07/image-1091-279x300.png 279w, https://coincu.com/wp-content/uploads/2023/07/image-1091-768x825.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1091-1429x1536.png 1429w, https://coincu.com/wp-content/uploads/2023/07/image-1091-750x806.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1091-1140x1225.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1091.png 1872w" sizes="(max-width: 953px) 100vw, 953px" title="MakerDAO Dominates with $122 Million In MKR Holdings 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The accumulation of such a substantial MKR coin holding by MakerDAO Lianchuang Rune indicates their confidence in the future prospects and potential of the MakerDAO ecosystem. As one of the leading decentralized finance platforms, MKR has been gaining traction and recognition within the crypto community. The increased MKR holdings by MakerDAO Lianchuang Rune may have significant implications for the project&#8217;s governance, decision-making, and overall market dynamics.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203262-makerdao-dominates-with-122-million-in-mkr/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/MakerDAO-Dominates-with-122-Million-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Binance Introduces New Feature For Enhanced Fund Management</title>
+		<link>https://coincu.com/203245-binance-introduces-new-feature/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 05:04:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Arbitrum One]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[BNB smart chain]]></category>
+		<category><![CDATA[ERC-20]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Fund management]]></category>
+		<category><![CDATA[multiple deposit addresses]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203245</guid>
+
+					<description><![CDATA[Binance enables multiple deposit addresses for enhanced fund management.<p class="has-text-align-right"><a href="https://coincu.com/203245-binance-introduces-new-feature/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Binance now enables multiple deposit addresses for enhanced fund management.</em></li>
+
+
+
+<li><em>Ethereum network tokens and alternative networks are initially supported.</em></li>
+
+
+
+<li><em>Users can generate up to 20 deposit addresses per network, improving flexibility and participation in airdrops.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Leading cryptocurrency exchange Binance has <a href="https://www.binance.com/en/support/announcement/users-can-now-deposit-via-multiple-deposit-addresses-on-binance-for-enhanced-efficiency-038e355854bc47a29fee9f60f20abdee" target="_blank" rel="noreferrer noopener">responded</a> to user feedback by launching a new feature that allows users to obtain multiple deposit addresses for a single network. </strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1089.png"><img decoding="async" loading="lazy" width="1024" height="549" src="https://coincu.com/wp-content/uploads/2023/07/image-1089-1024x549.png" alt="Binance Introduces New Feature For Enhanced Fund Management" class="wp-image-203260" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1089-1024x549.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1089-300x161.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1089-768x412.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1089-750x402.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1089.png 1108w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Introduces New Feature For Enhanced Fund Management 8"></a></figure></div>
+
+
+<p>This new functionality aims to provide users with greater flexibility and efficiency in managing their funds on the Binance platform. Alongside this feature, Binance has also introduced a deposit address book function to facilitate the seamless management of multiple deposit addresses.</p>
+
+
+
+<p>The introduction of multiple deposit addresses on the exchange is particularly beneficial for &#8220;airdrop hunters,&#8221; a term referring to users who actively seek out and participate in token airdrops. This feature has been previously launched on other centralized exchanges (CEXs), and its implementation on Binance is the platform&#8217;s competition and user experience.</p>
+
+
+
+<p>Originally, this feature supported multiple deposit addresses for tokens on the Ethereum network (ERC-20) and Ethereum alternative networks like Arbitrum One and BNB Smart Chain. <a href="https://coincu.com/203073-representative-emerges-in-binance-lawsuit/" target="_blank" rel="noreferrer noopener">Binance</a> plans to expand this functionality to include more blockchains in the future, providing users with a wider range of options.</p>
+
+
+
+<p>Each user can generate up to 20 deposit addresses for each supported network, and Binance will regularly review this limit to determine if adjustments are necessary. This periodic evaluation ensures that Binance maintains an optimal balance between user convenience and platform stability.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-3-1024x683.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-3-1024x683.jpg" alt="Binance Introduces New Feature For Enhanced Fund Management" class="wp-image-203266" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-3-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3-1536x1025.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/1x-1-3.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Introduces New Feature For Enhanced Fund Management 9"></a></figure></div>
+
+
+<p>To get started with the multiple deposit addresses features, users can follow a simple process. First, they need to visit the &#8220;Deposit Crypto&#8221; page on the Binance website or tap on the [Deposit] option in the Binance mobile app. From there, they can select the desired network to view a complete list of available deposit addresses. Users have the option to claim a new deposit address or manage their deposit address book, providing them with full control over their funds.</p>
+
+
+
+<p>Binance continues to enhance its platform and address user needs, further solidifying its position as a leading cryptocurrency exchange. The flexibility and convenience provided by multiple deposit addresses empower users to manage their funds efficiently, streamlining their trading and investment activities.</p>
+
+
+
+<p>With this latest feature, the exchange aims to provide an exceptional trading experience while prioritizing user satisfaction. Especially in the recent context that the market share of the exchange has been <a href="https://coincu.com/200786-binance-in-crisis-executives-flee-storms/" target="_blank" rel="noreferrer noopener">reduced</a> because of legal issues with the US government.</p>
+
+
+
+<p>Recently, the exchange has successfully <a href="https://coincu.com/203199-binance-integrate-btc-on-lightning-network/" target="_blank" rel="noreferrer noopener">integrated</a> BTC on Lightning Network, and the deposit and withdrawal function has gone live. This initiative aims to leverage Lightning Network’s second-layer solution to enable faster and cheaper Bitcoin transactions.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203245-binance-introduces-new-feature/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1088-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Ripple&#8217;s Legal Victory: Haun Ventures CEO Foregoes SEC Appeal</title>
+		<link>https://coincu.com/203248-ripples-haun-ventures-ceo-foregoes-sec-appeal/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 04:56:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[haun ventures]]></category>
+		<category><![CDATA[Haun Ventures CEO]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203248</guid>
+
+					<description><![CDATA[A federal prosecutor who turned into the CEO of a venture capital fund investing in cryptocurrencies recently stated that the United States Securities and Exchange Commission (SEC) may not file an immediate appeal against the Ripple case ruling. <p class="has-text-align-right"><a href="https://coincu.com/203248-ripples-haun-ventures-ceo-foregoes-sec-appeal/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>US securities regulator may not appeal recent Ripple case ruling due to &#8220;current confusion&#8221; and risk of jeopardizing future enforcement actions.</em></li>
+
+
+
+<li><em>SEC is currently suing Binance and Coinbase for alleged violations of securities laws.</em></li>
+
+
+
+<li><em>Crypto commentators and lawmakers call for Congress to provide legal clarity to the cryptocurrency industry in light of the recent Ripple case ruling.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>A federal prosecutor who turned into the CEO of a venture capital fund investing in cryptocurrencies recently stated that the United States Securities and Exchange Commission (SEC) may not file an immediate appeal against the Ripple case ruling. </strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal.webp"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-1024x768.webp" alt="Haun Ventures CEO Foregoes SEC Appeal" class="wp-image-203250" srcset="https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-1024x768.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-300x225.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-768x576.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-1536x1152.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-2048x1536.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-750x563.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Haun-Ventures-CEO-Foregoes-SEC-Appeal-1140x855.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Legal Victory: Haun Ventures CEO Foregoes SEC Appeal 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>According to her, the SEC is currently benefitting from the lack of legal clarity regarding the classification of cryptocurrencies and that losing an appeal could have serious implications on future enforcement actions.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Some non-legal advice musings on the Ripple decision, including two main takeaways:<br><br>1/ The Court drew a reasonable line and overall it&#39;s a good outcome for the industry. For other suits w/ the SEC, we believe the Supreme Court’s “major questions doctrine” will play a larger…</p>&mdash; Kathryn Haun (@katie_haun) <a href="https://twitter.com/katie_haun/status/1680328987510292483?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 15, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>On July 13, Judge Torres granted a partial summary judgment in favor of Ripple Labs, regarding XRP&#8217;s status as a security. While some commentators warned that an appeal from the SEC was possible, the CEO of <a href="https://www.haun.co/" target="_blank" data-type="URL" data-id="https://www.haun.co/" rel="noreferrer noopener">Haun Ventures</a>, Katie Haun, has expressed her doubts about it. She believes that the SEC will most likely remain quiet, as it benefits from the current confusion surrounding the classification of cryptocurrencies. She also stated that losing these issues on appeal would jeopardize the SEC&#8217;s entire enforcement agenda. Therefore, an immediate appeal seems unlikely.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1024x576.webp" alt="Ripples Legal Victory" class="wp-image-203251" srcset="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1140x641.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Legal Victory: Haun Ventures CEO Foregoes SEC Appeal 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Brad Garlinghouse, the CEO of Ripple Labs, also believes that it may take years before the SEC lodges an appeal. He stated that an appeal by the SEC would only reinforce Judge Torres’ decision that XRP is not a security. Jeremy Hogan, a U.S. lawyer and Ripple commentator, believes that the SEC will launch an appeal after the trial between SEC and Ripple ends, which is scheduled for early 2024.</p>
+
+
+
+<p>The SEC is currently suing crypto exchanges Binance and Coinbase over alleged violations of securities laws. Some believe that the recent Ripple case ruling, while not a binding precedent, could have an impact on the outcome of these cases.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-1024x576.jpg" alt="Ripples Legal Victory 1" class="wp-image-203252" srcset="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Legal Victory: Haun Ventures CEO Foregoes SEC Appeal 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Meanwhile, many crypto commentators and lawmakers have called for Congress to take action and provide legal clarity to the cryptocurrency industry. Brian Quintenz, former commissioner of the Commodity Futures Trading Commission and now head of policy for venture capital fund a16z crypto, stated that the recent Ripple court ruling only results in more uncertainty for entrepreneurs and builders. U.S. Senator Cynthia Lummis said that the ruling underscores the urgent need for Congress to establish a clear and comprehensive regulatory framework for the cryptocurrency industry.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203248-ripples-haun-ventures-ceo-foregoes-sec-appeal/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ripples-Legal-Victory-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Hackers Steal Over 200 Ethereum In Smart Contract Breach</title>
+		<link>https://coincu.com/203223-hackers-steal-over-200-ethereum-smart-contract/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 04:38:20 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Ethscriptions]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Smart Contract Breach]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203223</guid>
+
+					<description><![CDATA[According to its creator, a new protocol which enables people to create and share digital objects on Ethereum and makes use of transaction "calldata" to write non-financial data to the network's blockchain has encountered a major setback. <p class="has-text-align-right"><a href="https://coincu.com/203223-hackers-steal-over-200-ethereum-smart-contract/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>A new protocol that lets people create and share digital objects on Ethereum, Ethscriptions, experienced a major hack on its main marketplace. </em></li>
+
+
+
+<li><em>The theft affected about 123 individual addresses and resulted in the loss of around 202 ethscriptions. </em></li>
+
+
+
+<li><em>The protocol&#8217;s creator claimed responsibility for the failure, and the Ethscriptions.com marketplace will be relaunched once necessary changes are made to the protocol itself.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to its creator, a new protocol which enables people to create and share digital objects on Ethereum and makes use of transaction &#8220;calldata&#8221; to write non-financial data to the network&#8217;s blockchain has encountered a major setback. </strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach.jpeg"><img decoding="async" loading="lazy" width="900" height="562" src="https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach.jpeg" alt="Hackers Steal Over 200 Ethereum in Smart Contract Breach" class="wp-image-203238" srcset="https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach.jpeg 900w, https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach-300x187.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach-768x480.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-in-Smart-Contract-Breach-750x468.jpeg 750w" sizes="(max-width: 900px) 100vw, 900px" title="Hackers Steal Over 200 Ethereum In Smart Contract Breach 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Ethscriptions, which was launched last month by Tom Lehman, co-founder and former CEO of <a href="http://genius.com/" target="_blank" rel="noopener">Genius.com</a>, is a novel method to create Ethereum assets. Although the Ethscriptions&#8217; protocol itself and other applications that tap the technology haven&#8217;t been compromised, a significant number of Ethscriptions listed on <a href="http://ethscriptions.com/" target="_blank" rel="noopener">Ethscriptions.com</a> have been stolen, as per Lehman&#8217;s tweet on Friday.</p>
+
+
+
+<p>He said, &#8220;About 123 individual addresses lost a total of about 202 ethscriptions in this exploit. Any young protocol will have bumpy landings, but this is definitely not what I meant.&#8221; It is uncertain how much was lost in terms of value connected to the exploit. Nevertheless, according to data from NFT marketplace OpenSea, some inscriptions have sold for as much as 5 Ethereum, which equates to around $9,600 in the past month.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><a href="https://t.co/ZcR9HKlexS" target="_blank">https://t.co/ZcR9HKlexS</a> Marketplace Security Incident Update<br><br>In this Tweet I’m going to walk you through how the exploit happened and what we are doing about it.<br><br>First, to be clear, this was not a vulnerability in the Ethscriptions Protocol. This was a vulnerability in one… <a href="https://t.co/i5Q0W2PRMQ" target="_blank">pic.twitter.com/i5Q0W2PRMQ</a></p>&mdash; Middlemarch (@dumbnamenumbers) <a href="https://twitter.com/dumbnamenumbers/status/1679259067833786374?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 12, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Lehman lamented the theft of Ethscription #56 as &#8220;brutal,&#8221; pointing to the rarity often ascribed to earlier artifacts. Moreover, the exploit has a particular sting because it was meant to serve as an example that other marketplaces building out support for Ethscriptions could lean on. &#8220;The purpose of the marketplace was basically to help show other people how to create marketplaces and help build an ecosystem,&#8221; he said. &#8220;Unfortunately, we fell on our face in that area.&#8221;</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1083.png"><img decoding="async" loading="lazy" width="1024" height="294" src="https://coincu.com/wp-content/uploads/2023/07/image-1083-1024x294.png" alt="image 1083" class="wp-image-203236" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1083-1024x294.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1083-300x86.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1083-768x220.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1083-1536x441.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1083-750x215.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1083-1140x327.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1083.png 1644w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hackers Steal Over 200 Ethereum In Smart Contract Breach 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Lehman took responsibility for the failure and explained that the exploit could be traced to a smart contract that he and Indelible Labs co-founder Michael Hirsch created. A snippet of code allowed people to withdraw Ethscriptions that they didn&#8217;t own from the marketplace. &#8220;Part of the challenge with this new protocol is that you save a bunch of money from limiting the use of smart contract storage, but then you have to be more strategic surrounding how you use contracts in cases like marketplaces,&#8221; he said. &#8220;You have to figure out a way to either give smart contracts information or make it so smart contracts don’t need that information.&#8221;</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1084.png"><img decoding="async" loading="lazy" width="1024" height="338" src="https://coincu.com/wp-content/uploads/2023/07/image-1084-1024x338.png" alt="image 1084" class="wp-image-203237" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1084-1024x338.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1084-300x99.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1084-768x254.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1084-1536x508.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1084-750x248.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1084-1140x377.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1084.png 1640w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hackers Steal Over 200 Ethereum In Smart Contract Breach 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Lehman said that the <a href="http://ethscriptions.com/" target="_blank" rel="noopener">Ethscriptions.com</a> marketplace would be relaunched once necessary changes are made to the protocol itself, and he has been in touch with many of those impacted by the exploit. He praised them as &#8220;the earliest adopters&#8221; of the Ethscriptions protocol on Twitter.</p>
+
+
+
+<p>Ethscriptions are distinct compared to traditional NFTs, stored in transaction-level data as opposed to being tokens issued on Ethereum by smart contracts, like in the case of the ERC-721 token standard. According to a Dune Analytics dashboard, around 474,000 Ethscriptions have been created so far. The protocol&#8217;s emergence follows Ordinals&#8217; popularity, which is used for creating NFT-like assets on Bitcoin and has led to a new wave of experimentation with crypto&#8217;s oldest coin. Lehman drew attention to the exploit on July 14, and a disclaimer about the impacted state of the marketplace remains on <a href="http://ethscriptions.com/" target="_blank" rel="noopener">Ethscriptions.com</a> days later. A warning on the website reads, &#8220;There is an issue with the marketplace contract! Withdraw your Ethscriptions and do not create new listings!&#8221;</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203223-hackers-steal-over-200-ethereum-smart-contract/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Hackers-Steal-Over-200-Ethereum-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Pudgy Penguins Supports OTC Trading With New Platform Pudgy Swap</title>
+		<link>https://coincu.com/203209-pudgy-penguins-supports-otc-trading/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 04:33:37 +0000</pubDate>
+				<category><![CDATA[NFT]]></category>
+		<category><![CDATA[NFT trading]]></category>
+		<category><![CDATA[OTC Trading]]></category>
+		<category><![CDATA[Pudgy Penguins]]></category>
+		<category><![CDATA[Pudgy Swap]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203209</guid>
+
+					<description><![CDATA[Pudgy Penguins launches Pudgy Swap, a peer-to-peer trading engine for NFTs, powered by Flip.xyz.<p class="has-text-align-right"><a href="https://coincu.com/203209-pudgy-penguins-supports-otc-trading/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Pudgy Penguins launches Pudgy Swap, a peer-to-peer trading engine for NFTs, powered by Flip.xyz.</em></li>
+
+
+
+<li><em>Pudgy Swap allows Huddle members to trade single and multi-assets with zero fees and royalties.</em></li>
+
+
+
+<li><em>The platform enables direct communication, message sharing, and transparent transaction tracking, enhancing the trading experience within the Pudgy Penguins community.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong><a href="https://coincu.com/192124-pudgy-penguins-review/" target="_blank" rel="noreferrer noopener">Pudgy Penguins</a>, a popular NFT project, has <a href="https://twitter.com/pudgypenguins/status/1680687833336430593" target="_blank" rel="noreferrer noopener">made</a> an exciting announcement regarding the launch of Pudgy Swap, an innovative peer-to-peer trading engine designed specifically for all things Pudgy Penguins.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1077.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1077-1024x538.png" alt="NFT project PudgyPenguins launches OTC trading solution Pudgy Swap, zero fees and royalties" class="wp-image-203226" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1077-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1077-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1077-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1077-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1077-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1077.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pudgy Penguins Supports OTC Trading With New Platform Pudgy Swap 16"></a></figure></div>
+
+
+<p>Powered by Flip.xyz, Pudgy Swap offers a seamless platform for Huddle members to engage in peer-to-peer trading, facilitating both single-asset and multi-asset swaps.</p>
+
+
+
+<p>The standout feature of Pudgy Swap is its zero fees and zero royalties, making it an enticing proposition for traders within the Pudgy Penguins community. Users can easily add messages and generate publicly shareable links to send to their trading partners or friends. Notably, if the trading partner possesses a Flip account, the trade offer notification will appear directly in their app inbox, streamlining the communication process.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1076.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1076-1024x538.png" alt="NFT project PudgyPenguins launches OTC trading solution Pudgy Swap, zero fees and royalties" class="wp-image-203225" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1076-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1076-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1076-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1076-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1076-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1076.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pudgy Penguins Supports OTC Trading With New Platform Pudgy Swap 17"></a></figure></div>
+
+
+<p>Trading partners have the flexibility to accept or counter trade offers, fostering a collaborative and user-friendly trading experience. Upon completion of the swap, the details of the transaction will be shared with the user&#8217;s account, ensuring transparency and keeping the Huddle informed of ongoing trading activities.</p>
+
+
+
+<p>In addition to traditional exchange-based trading, the announcement highlights the importance of Over-the-Counter (OTC) markets, where buyers and sellers can engage directly without the need for an intermediary trading platform. OTC markets have traditionally catered to large-scale traders, particularly those seeking to transact substantial amounts of cryptocurrency or illiquid assets.</p>
+
+
+
+<p>However, OTC markets have evolved to encompass a wide range of valuable assets that may not be available for trading on conventional platforms. This includes items such as project allocations, Discord accounts, exchange accounts, verifications, whitelists, and more. The flexibility and usefulness of OTC trading have been explored extensively in previous articles, showcasing its significance within the digital asset ecosystem.</p>
+
+
+
+<p>To illustrate the OTC trading experience, the example of 2TOP OTC, one of the prominent Telegram-based OTC trading platforms, is highlighted. The platform adheres to specific rules for trade offers, with nuances such as limitations on the number of daily messages per user to maintain a clutter-free and efficient trading environment.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1082-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1082-1024x576.png" alt="NFT project PudgyPenguins launches OTC trading solution Pudgy Swap, zero fees and royalties" class="wp-image-203233" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1082-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1082-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1082-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1082-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1082-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1082.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pudgy Penguins Supports OTC Trading With New Platform Pudgy Swap 18"></a></figure></div>
+
+
+<p>The introduction of Pudgy Swap by Pudgy Penguins underscores the project&#8217;s commitment to enhancing the trading experience for its vibrant community. With its user-friendly interface, zero fees, and intuitive features, Pudgy Swap aims to empower Huddle members by providing a secure and efficient peer-to-peer trading platform.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203209-pudgy-penguins-supports-otc-trading/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1085-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Arbitrum Will Support Account Abstraction Endpoints With The AIP-2 Being Approved</title>
+		<link>https://coincu.com/203207-arbitrum-will-support-account-abstraction/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 04:06:17 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[AIP-2]]></category>
+		<category><![CDATA[ARB]]></category>
+		<category><![CDATA[Arbitrum]]></category>
+		<category><![CDATA[Arbitrum DAO]]></category>
+		<category><![CDATA[Arbitrum One]]></category>
+		<category><![CDATA[Circle]]></category>
+		<category><![CDATA[Nova]]></category>
+		<category><![CDATA[USDC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203207</guid>
+
+					<description><![CDATA[AIP-2 proposal with overwhelming support to activate account abstraction endpoints on Arbitrum One and Nova has passed.<p class="has-text-align-right"><a href="https://coincu.com/203207-arbitrum-will-support-account-abstraction/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>AIP-2 proposal with overwhelming support to activate account abstraction endpoints on Arbitrum One and Nova has passed.</em></li>
+
+
+
+<li><em>Ethereum introduces eth_sendRawTransactionConditional endpoint for L2 sequencers to cater to ERC-4337 bundlers.</em></li>
+
+
+
+<li><em>Offchain Labs implements the endpoint in Nitro v.2.0.14, addressing issues related to in-account storage changes during transaction validation and execution.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to Tally, the AIP-2 proposal, which <a href="https://www.tally.xyz/gov/arbitrum/proposal/71941171835710778457735937894689629320431683601089057868136768380925169329077" target="_blank" rel="noreferrer noopener">aimed</a> to activate support for account abstraction endpoints on Arbitrum One and Nova, has passed.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1073-1024x410.png"><img decoding="async" loading="lazy" width="1024" height="410" src="https://coincu.com/wp-content/uploads/2023/07/image-1073-1024x410.png" alt="Arbitrum Will Support Account Abstraction Endpoints With The AIP-2 Being Approved" class="wp-image-203217" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1073-1024x410.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1073-300x120.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1073-768x307.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1073-750x300.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1073-1140x456.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1073.png 1170w" sizes="(max-width: 1024px) 100vw, 1024px" title="Arbitrum Will Support Account Abstraction Endpoints With The AIP-2 Being Approved 19"></a></figure></div>
+
+
+<p>The voting support rate reached an overwhelming 99.95%, indicating strong community consensus. The proposal, put forth by Ethereum researchers, introduces a new RPC endpoint called eth_sendRawTransactionConditional, designed to address the specific needs of ERC-4337 bundlers in the L2 sequencer environment.</p>
+
+
+
+<p>Offchain Labs played a crucial role in the development, testing, and incorporation of necessary adjustments into Nitro v.2.0.14. This version, now live on the <a href="https://coincu.com/187828-arbitrum-arb-sees-surge-in-whale/" target="_blank" rel="noreferrer noopener">Arbitrum</a> testnet, supports the proposed endpoint for the Arbitrum sequencer. The AIP recommends the activation of support for this endpoint on the Arbitrum One and Nova mainnets by the <a href="https://coincu.com/186913-arbitrum-daos-new-proposal/" target="_blank" rel="noreferrer noopener">Arbitrum DAO</a>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1074.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1074-1024x538.png" alt="Arbitrum Will Support Account Abstraction Endpoints With The AIP-2 Being Approved" class="wp-image-203218" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1074-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1074-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1074-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1074-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1074-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1074.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Arbitrum Will Support Account Abstraction Endpoints With The AIP-2 Being Approved 20"></a></figure></div>
+
+
+<p>The motivation behind the proposal stems from EIP-4337, which introduced a split between validation and execution in the bundling process of L2 transactions. However, this separation posed potential issues for bundlers as the delay between transaction submission and inclusion could lead to changes in smart contract account storage, invalidating the transactions. To mitigate this risk, the new eth_sendRawTransactionConditional endpoint allows users to specify valid ranges for block heights and timestamps, enabling sequencers to reject transactions that do not meet inclusion criteria during the early validation phase.</p>
+
+
+
+<p>The proposal aligns with the DAO&#8217;s constitutional value of maintaining harmony with the broader Ethereum ecosystem. The eth_sendRawTransactionConditional endpoint, developed by the Ethereum Foundation, addresses the implications of EIP-4337 for layer 2 sequencers. Active exploration and development of similar endpoints in various EVM layer 2 solutions further highlight the need for such functionalities in sequencer/bundler interactions.</p>
+
+
+
+<p>The Arbitrum community&#8217;s values of social and technical inclusion are also upheld through this proposal, as it enables one of the core features of account abstraction, offering improved user experience and other benefits.</p>
+
+
+
+<p>The specifications for implementation can be found in PR #1474 on Github, which documents the development, testing, and review stages conducted by Offchain Labs. Key adjustments were made to the checks performed before transactions reached the sequencer, including a configuration value change to the load balancer, allowing conditional transactions with up to 1,000 slots. Additionally, to prevent potential DOS attacks, the Arbitrum sequencer&#8217;s pre-check was updated to include a backward-looking validity check, ensuring transactions only execute if they met their own conditions prior to submission.</p>
+
+
+
+<p>The implementation process primarily involves changing the load balancer configuration value, building upon the work already accomplished by Offchain Labs.</p>
+
+
+
+<p>With the overwhelming support received, the implementation of the eth_sendRawTransactionConditional endpoint on the Arbitrum One and Nova mainnets brings enhanced functionality and security to the ecosystem, aligning with the broader Ethereum ecosystem&#8217;s trajectory and promoting a sustainable decentralized future.</p>
+
+
+
+<p>Circle, the company responsible for the USD Coin stablecoin, recently said that its Cross-Chain Transfer Protocol is currently <a href="https://coincu.com/198229-circle-now-supports-cctp-for-arbitrum/" target="_blank" rel="noreferrer noopener">running</a> on Arbitrum. CCTP enables the transfer of USDC between blockchain networks by burning native USDC on the originating chain and minting an equal amount on the receiving chain.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203207-arbitrum-will-support-account-abstraction/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1075-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Binance Successfully Integrate BTC On Lightning Network To Improve Quality</title>
 		<link>https://coincu.com/203199-binance-integrate-btc-on-lightning-network/</link>
 		
@@ -71,7 +833,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1071.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1071-1024x576.png" alt="Binance Successfully Integrate BTC On Lightning Network To Improve Quality" class="wp-image-203211" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1071-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1071-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1071-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1071-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1071-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1071.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Successfully Integrate BTC On Lightning Network To Improve Quality 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1071.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1071-1024x576.png" alt="Binance Successfully Integrate BTC On Lightning Network To Improve Quality" class="wp-image-203211" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1071-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1071-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1071-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1071-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1071-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1071.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Successfully Integrate BTC On Lightning Network To Improve Quality 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Binance&#8217;s plan to integrate Bitcoin Lightning Network marks a significant step forward in enhancing its services. Users can expect faster withdrawals and reduced fees, allowing for more seamless crypto transactions.</p>
@@ -86,7 +848,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1072.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1072-1024x538.png" alt="Binance Successfully Integrate BTC On Lightning Network To Improve Quality" class="wp-image-203212" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1072-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1072-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1072-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1072-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1072-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1072.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Successfully Integrate BTC On Lightning Network To Improve Quality 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1072.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1072-1024x538.png" alt="Binance Successfully Integrate BTC On Lightning Network To Improve Quality" class="wp-image-203212" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1072-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1072-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1072-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1072-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1072-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1072.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Successfully Integrate BTC On Lightning Network To Improve Quality 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Binance users will benefit from this integration, as it will reduce transaction execution times and lower transaction fees. Lightning Network has the potential to revolutionize the way users interact with cryptocurrencies, making the process smoother and more user-friendly.</p>
@@ -143,7 +905,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203200" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1068-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1068-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1068-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1068-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1068.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203200" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1068-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1068-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1068-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1068-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1068-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1068.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 23"></a></figure></div>
 
 
 <p>This move comes after approximately 30 million PRIMATE tokens, accounting for 20% of the total circulating supply, were stolen from Benji&#8217;s market maker wallet. By launching BENJI, Benji Bananas aims to fortify its ecosystem and provide a secure foundation for its community.</p>
@@ -154,7 +916,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1024x576.jpg" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203202" srcset="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 4"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1024x576.jpg" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203202" srcset="https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/0de4af_2187dedc6442417291e9881d15dd434amv2.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 24"></a></figure></div>
 
 
 <p>To facilitate a smooth transition, the Benji team has already taken a snapshot of PRIMATE token balances in wallets and liquidity pools at the time of the announcement. PRIMATE holders are advised to refrain from transferring their tokens, except for those held in liquidity pools. In light of the upcoming token swap, Huobi, the centralized exchange where PRIMATE is traded, will temporarily halt PRIMATE trading.</p>
@@ -211,7 +973,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1070.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1070-1024x576.png" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203204" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1070-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1070-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1070-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1070-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1070.png 1067w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 5"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1070.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1070-1024x576.png" alt="Benji Bananas Introduces New Token In Response To The Latest Security Breach" class="wp-image-203204" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1070-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1070-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1070-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1070-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1070.png 1067w" sizes="(max-width: 1024px) 100vw, 1024px" title="Benji Bananas Introduces New Token In Response To The Latest Security Breach 25"></a></figure></div>
 
 
 <p>The Benji team has provided comprehensive instructions for PRIMATE token holders, emphasizing the importance of not moving their PRIMATE tokens until the swap process commences. Additionally, a detailed guide explaining the steps required to execute the token swap has been made available, and support will be provided to assist those in need of guidance.</p>
@@ -229,784 +991,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1069-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Token Unlocks This Week Worth About $60M, Featured With APE And AXS</title>
-		<link>https://coincu.com/203193-token-unlocks-this-week-worth-60m-ape-axs/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 02:48:21 +0000</pubDate>
-				<category><![CDATA[Altcoins]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[AXS]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[unlock]]></category>
-		<category><![CDATA[unlock tokens]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203193</guid>
-
-					<description><![CDATA[Token Unlocks data shows that 8 crypto projects will unlock tokens this week, with a total issuance value of around $60 million.<p class="has-text-align-right"><a href="https://coincu.com/203193-token-unlocks-this-week-worth-60m-ape-axs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Token Unlocks data shows that eight crypto projects will unlock tokens this week, with a total issuance value of around $60 million.</em></li>
-
-
-
-<li><em>About $31.67 million worth of APE and about $21.62 million worth of AXS will be unlocked this week.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Token Unlocks data shows that 8 crypto projects will unlock tokens this week, with a total issuance value of around $60 million.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1067.png"><img decoding="async" loading="lazy" width="1024" height="418" src="https://coincu.com/wp-content/uploads/2023/07/image-1067-1024x418.png" alt="Token Unlocks This Week Worth About $60M, Featured With APE And AXS" class="wp-image-203195" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1067-1024x418.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1067-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1067-768x313.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1067-1536x627.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1067-750x306.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1067-1140x465.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1067.png 1927w" sizes="(max-width: 1024px) 100vw, 1024px" title="Token Unlocks This Week Worth About $60M, Featured With APE And AXS 6"></a><figcaption class="wp-element-caption">Source: <a href="https://token.unlocks.app/" target="_blank" rel="noreferrer noopener">Token Unlocks</a></figcaption></figure></div>
-
-
-<p>Altcoins are currently receiving more public attention than last month due to positive signs from <a href="https://coincu.com/203108-ripple-ceo-rejoices-landmark-court-ruling/" target="_blank" rel="noreferrer noopener">Ripple’s</a> revolt against a formidable opponent like the SEC. This is a big win for XRP and for altcoins. It can be said that XRP is being watched because it is a token that is more centralized in nature than other coins, so if XRP can win the SEC, other coins may have a chance.</p>
-
-
-
-<p>Unlocks are scheduled for projects:</p>
-
-
-
-<ul>
-<li>The ApeCoin APE token unlocked 15.6 million shards (approximately US$31.67 million) at 7:00 am on July 17, representing 1.56% of the total supply;</li>
-
-
-
-<li>150 million Arkham tokens, ARKM, will be unlocked at 7:00 am on July 18, representing 15% of the total supply;</li>
-
-
-
-<li>X2Y2 token X2Y2 will unlock 37.5 million pieces (approximately $970,000) at 10:47 pm on July 18, representing 3.75% of the total supply;</li>
-
-
-
-<li>154,380 Euler tokens (approximately $370,000) will be unlocked at 9:22 pm on July 19, representing 0.568% of the total supply;</li>
-
-
-
-<li>1inch of 1INCH tokens will unlock 364,290 pieces (approximately $150,000) at 7:00 am on July 20, about 0.024% of the total supply;</li>
-
-
-
-<li>SPACE ID Token ID will unlock 15.15 million shards (approximately $4.06 million) at 7:00 am on July 22, representing 0.758% of the total supply;</li>
-
-
-
-<li>The Axie Infinity token AXS will unlock 3.43 million shards (approximately $21.62 million) at 8:10 pm on July 22, representing 1.27% of the total supply;</li>
-
-
-
-<li>The Cartesi CTSI token will unlock $1.54 million (approximately $240,000) at 11:00 am on July 23, representing 0.154 percent of the total supply.</li>
-</ul>
-
-
-
-<p>Token distribution is an important process in the token management of a blockchain project. Token distribution is important to many stakeholders, including investors, teams, users, and the community. However, it also has some risks such as token inflation and token price drop due to the sudden sale of unlocked tokens.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203193-token-unlocks-this-week-worth-60m-ape-axs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Fantom Can&#8217;t Promise Anything With Stablecoins In Multichain Failure</title>
-		<link>https://coincu.com/203187-fantom-cant-promise-with-stablecoins-multichain/</link>
-		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 02:08:45 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[Circle]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Stablecoins]]></category>
-		<category><![CDATA[Tether]]></category>
-		<category><![CDATA[USDC]]></category>
-		<category><![CDATA[USDT]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203187</guid>
-
-					<description><![CDATA[Fantom Foundation worried users when it responded to the Multichain problem in Telegram with its helplessness before it happened on Multichain.<p class="has-text-align-right"><a href="https://coincu.com/203187-fantom-cant-promise-with-stablecoins-multichain/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The Fantom Foundation said it is contacting Circle and Tether to see if the platform can do anything with the frozen funds.</em></li>
-
-
-
-<li><em>The platform says it can&#8217;t promise anything in advance, and there&#8217;s probably nothing more that can be done about this incident.</em></li>
-
-
-
-<li><em>Previously, Fantom had to <a href="https://coincu.com/203008-fantom-freezes-60m-usdc-2m-usdt-multichain/" target="_blank" rel="noreferrer noopener">freeze</a> over $60 million USDC and more than $2 million USDT after Multichain announced its shutdown due to the arrest of its CEO.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Fantom Foundation worried users when it responded to the Multichain problem in Telegram with its helplessness before it happened on Multichain.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1065.png"><img decoding="async" loading="lazy" width="747" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1065-747x1024.png" alt="Fantom Can&#039;t Promise Anything With Stablecoins In Multichain Failure" class="wp-image-203189" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1065-747x1024.png 747w, https://coincu.com/wp-content/uploads/2023/07/image-1065-219x300.png 219w, https://coincu.com/wp-content/uploads/2023/07/image-1065-768x1053.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1065-750x1029.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1065.png 1012w" sizes="(max-width: 747px) 100vw, 747px" title="Fantom Can&#039;t Promise Anything With Stablecoins In Multichain Failure 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;That being said, among other things, we&#8217;re in touch with Circle and Tether to see if something can be done with the frozen funds. There&#8217;s no promises and it might even not be possible to do anything, so keep this info as it is. We&#8217;re also trying to understand better what happened and what&#8217;s going on with multichain.&#8221;</p>
-</blockquote>
-
-
-
-<p>In earlier news, Fantom founder Andre Cronje responded to a user question on the forum that the failure of Multichain was a &#8220;severe blow&#8221;.</p>
-
-
-
-<p>All options are currently being explored, and working with relevant organizations to recover assets, possibly even using Foundation funds. No confirmation can be made until more data is available.</p>
-
-
-
-<p>However, the foundation said it will not ignore it and will do what it can to compensate people. In addition, Fantom will continue to work with Circle, Tether, TrueUSD, Binance, and more for native distribution and consider the synthesis of native bridging infrastructure.</p>
-
-
-
-<p>As more verifiable information becomes available, Fantom will recommend an action plan. Andre Cronje also stated that the foundation and all employees are exposed to these assets.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1066.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-1066-1024x512.png" alt="Fantom Can&#039;t Promise Anything With Stablecoins In Multichain Failure" class="wp-image-203190" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1066-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1066-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1066-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1066-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1066-2048x1024.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1066-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-1066-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1066-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Fantom Can&#039;t Promise Anything With Stablecoins In Multichain Failure 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The incident started late last week after Multichain officially <a href="https://twitter.com/MultichainOrg/status/1679768407628185600" target="_blank" rel="noreferrer noopener">issued</a> a shutdown notice due to their CEO Zhao Jun being arrested by the Chinese police. This fact was hidden, but before that, many users in China spread in the community. The reason given by the platform for not informing users is due to the influence of legal regulations during the investigation.</p>
-
-
-
-<p>After receiving the information, Fantom Foundation made an announcement immediately contacting stablecoin issuers to freeze over $60 million USDC and over $2 million USDT on their Multichain wallet.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203187-fantom-cant-promise-with-stablecoins-multichain/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-21-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Arkham Airdrop Issues: Are Genuine Users Affected By Sybil Terms?</title>
-		<link>https://coincu.com/203179-arkham-airdrop-issues-are-genuine-user/</link>
-		
-		<dc:creator><![CDATA[Thana]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 15:10:43 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Arkham]]></category>
-		<category><![CDATA[Arkham Airdrop]]></category>
-		<category><![CDATA[Arkham Intelligence]]></category>
-		<category><![CDATA[Sybil Terms]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203179</guid>
-
-					<description><![CDATA[Twitter users reported issues with Arkham airdrop, as many users couldn't submit their wallet addresses before the deadline. The team disqualified some accounts for Sybil attacks, raising concerns about genuine users.<p class="has-text-align-right"><a href="https://coincu.com/203179-arkham-airdrop-issues-are-genuine-user/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Many users were unable to submit their wallet addresses for Arkham</em> <em>airdrop, despite raising tickets and submitting their account information.</em></li>
-
-
-
-<li><em>The Arkham</em> <em>team disqualified some accounts for Sybil attacks, which raised concerns about whether genuine users were affected by the terms and conditions.</em></li>
-
-
-
-<li><em>Some reported the issues and questioned whether there was a mistake, as they claimed they did not cheat or create multiple accounts.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Twitter users reported issues with Arkham</strong> <strong>airdrop, as many users couldn&#8217;t submit their wallet addresses before the deadline. The team disqualified some accounts for Sybil attacks, raising concerns about genuine users.</strong></h5>
-
-
-
-<p>Recently, a Twitter account known as GA Crypto tweeted about issues with the Arkham team&#8217;s airdrop. The team requested that users submit their wallet addresses before July 16th to receive the airdrop. </p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f50a.png" alt="🔊" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/ArkhamIntel?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@ArkhamIntel</a> <a href="https://twitter.com/hashtag/Arkham?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Arkham</a> Airdrop Update <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png" alt="🥁" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f628.png" alt="😨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Arkhma Team is saying Submit address until 16th July otherwise you&#39;ll not get any Airdrop <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f621.png" alt="😡" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f620.png" alt="😠" class="wp-smiley" style="height: 1em; max-height: 1em;" />But many of us are unable to submit address cuz there is no option to submit <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f613.png" alt="😓" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f972.png" alt="🥲" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>We already Raised ticket on their discord &amp; Submit… <a href="https://t.co/7R5dU2fSvS" target="_blank">pic.twitter.com/7R5dU2fSvS</a></p>&mdash; GA Crypto (@GNAirdrops) <a href="https://twitter.com/GNAirdrops/status/1680459295371014144?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 16, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>However, many users were unable to submit their addresses as there was no option provided. Despite raising tickets on Discord and submitting their account information, users still could not submit their addresses.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1064.png"><img decoding="async" loading="lazy" width="448" height="823" src="https://coincu.com/wp-content/uploads/2023/07/image-1064.png" alt="Arkham Airdrop Issues: Are Genuine Users Affected By Sybil Terms?" class="wp-image-203183" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1064.png 448w, https://coincu.com/wp-content/uploads/2023/07/image-1064-163x300.png 163w" sizes="(max-width: 448px) 100vw, 448px" title="Arkham Airdrop Issues: Are Genuine Users Affected By Sybil Terms? 9"></a><figcaption class="wp-element-caption"><em>Screenshot from one of GA Crypto Followers</em></figcaption></figure></div>
-
-
-<p>According to the Arkham team, the initial airdrop snapshot was taken on July 8th. Sybil attackers, farmers, referrers of inactive users, and other accounts trying to game the system were flagged and are, therefore, ineligible to claim the airdrop. </p>
-
-
-
-<p>GA Crypto responded by questioning whether genuine users were also being affected by the Sybil Terms &amp; Conditions. They <a href="https://twitter.com/PdcDemon/status/1680511804605100033" target="_blank" data-type="URL" data-id="https://twitter.com/PdcDemon/status/1680511804605100033" rel="noreferrer noopener">believed </a>that there must be some mistake and that they did not cheat or create multiple accounts.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f-1f3fb.png" alt="🙏🏻" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thanks for your Reply By we are Spreading about you via Our youtube channel and Twitter since March 2023<br><br>And I&#39;m Not Eligible to submit, Is this right that Genuine users are also part of this Sybil Terms &amp; Condition <br><br>I believe that there must be some mistake &amp; I Believe that…</p>&mdash; GA Crypto (@GNAirdrops) <a href="https://twitter.com/GNAirdrops/status/1680506162666430464?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 16, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Binance Launchpad <a href="https://coincu.com/201234-binance-launch-the-32nd-launchpad-arkham-arkm/" data-type="URL" data-id="https://coincu.com/201234-binance-launch-the-32nd-launchpad-arkham-arkm/" target="_blank" rel="noreferrer noopener">announced </a>an Arkham token sale: 1 ARKM = 0.05 USD. The snapshot of BNB holdings is from 08:00 am on July 11 to 08:00 am on July 17 (Eastern Eighth District time). The Launchpad hard cap is set at 2,500,000 USD, with a hard cap per user of 15,000 USD (300,000 ARKM). The total token supply is set at 1,000,000,000 ARKM, with 50,000,000 ARKM (5% of total token supply) allocated to Binance Launchpad.</p>
-
-
-
-<p>On Tuesday, July 18, the airdrop will go live. To claim, enter the Ethereum address into the platform’s dashboard. Airdrops may only be obtained through the platform and cannot be obtained otherwise.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203179-arkham-airdrop-issues-are-genuine-user/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-16T220917.766-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>UniSat Wallet Launches brc20-swap: Native Swap Platform Allows Users To Grow Liquidity</title>
-		<link>https://coincu.com/203171-unisat-wallet-brc20-swap-native-swap-liquidity/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 14:03:07 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[BRC-20]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[UniSat]]></category>
-		<category><![CDATA[UniSat Wallet]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203171</guid>
-
-					<description><![CDATA[UniSat Wallet, the Bitcoin Inscription Wallet, has recently unveiled its native Swap platform called brc20-swap. <p class="has-text-align-right"><a href="https://coincu.com/203171-unisat-wallet-brc20-swap-native-swap-liquidity/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Bitcoin Inscription Wallet UniSat Wallet introduces its native Swap platform, brc20-swap, allowing users to deploy new trading pairs and enhance liquidity.</em></li>
-
-
-
-<li><em>UniSat Wallet provides open-source code, API access, and documentation to support developers in building their own Swap platforms based on brc20-swap, promoting innovation and customization within the ecosystem.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>UniSat Wallet, the Bitcoin Inscription Wallet, has recently unveiled its native Swap platform called brc20-swap.</strong>&nbsp;</h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-1024x576.jpeg" alt="UniSat Wallet Launches brc20-swap: Native Swap Platform Allows Users to Grow Liquidity" class="wp-image-203174" srcset="https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/F1KIE53aEAEWIES.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="UniSat Wallet Launches brc20-swap: Native Swap Platform Allows Users To Grow Liquidity 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The announcement, made on July 16, revealed that any user can now deploy new trading pairs on brc20-swap, thereby enhancing liquidity within the platform. Designed to ensure technical compatibility with existing brc20 variants, brc20-swap aims to streamline the trading experience for developers and users alike.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Today, we&#39;re proud to announce brc20-swap, <br><br>the first-ever Ordinals native swap, floating on top of bitcoin mainnet, utilizing brc20 protocol as its underlying asset infrastructure. <br><br>(1/12) <a href="https://t.co/PpEU9Js3OG" target="_blank">pic.twitter.com/PpEU9Js3OG</a></p>&mdash; UniSat Wallet &#8211; Store, Inscribe and Search. (@unisat_wallet) <a href="https://twitter.com/unisat_wallet/status/1680555419347894278?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 16, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>With the launch of brc20-swap, UniSat Wallet aims to empower developers by providing them with the ability to independently deploy instances of the brc20-swap service. UniSat Wallet is committed to supporting developers in this endeavor by offering comprehensive resources such as source code, API access, and documentation. These resources enable developers to build their own Swap platforms based on the brc20-swap foundation, fostering innovation and customization within the ecosystem.</p>
-
-
-
-<p>The introduction of brc20-swap showcases the platform&#8217;s dedication to facilitating seamless and efficient trading experiences for its users. By allowing users to deploy new trading pairs and add liquidity to the Swap platform, <a href="https://coincu.com/201063-unisat-launch-nft-marketplace-next-week/">UniSat Wallet </a>enhances the flexibility and accessibility of the ecosystem.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1043-1.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/image-1043-1-1024x614.png" alt="UniSat Wallet Launches brc20-swap: Native Swap Platform Allows Users to Grow Liquidity" class="wp-image-203173" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1043-1-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1-768x460.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1-1536x921.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1-1140x683.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1043-1.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="UniSat Wallet Launches brc20-swap: Native Swap Platform Allows Users To Grow Liquidity 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The technical compatibility of brc20-swap with existing brc20 variants ensures smooth integration for developers, minimizing complexities and reducing the barriers to entry for building Swap platforms. UniSat Wallet&#8217;s commitment to providing open-source code, API support, and comprehensive documentation further encourages developers to leverage brc20-swap and create tailored Swap platforms to meet specific needs.</p>
-
-
-
-<p>As UniSat Wallet continues to evolve and refine its offerings, the launch of brc20-swap demonstrates its commitment to empowering users and developers within the cryptocurrency community. By enabling users to deploy new trading pairs and facilitating the independent development of Swap platforms, UniSat Wallet contributes to the growth and innovation of the broader crypto ecosystem.</p>
-
-
-
-<p>As the brc20-swap platform gains traction and attracts more users and developers, UniSat Wallet anticipates further advancements and refinements that will enhance the overall trading experience and contribute to the maturation of the cryptocurrency landscape.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203171-unisat-wallet-brc20-swap-native-swap-liquidity/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-18-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>zkSync&#8217;s NFT Airdrop: Expanding Access For 169,365 Users After EthCC Success</title>
-		<link>https://coincu.com/203165-zksyncs-169365-users-ethcc-success/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 11:59:34 +0000</pubDate>
-				<category><![CDATA[Airdrop]]></category>
-		<category><![CDATA[airdrop]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Zksync]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203165</guid>
-
-					<description><![CDATA[zkSync, in response to community feedback regarding the randomness of their LIBERTAS OMNIBUS NFT airdrop, clarified the distribution plan. <p class="has-text-align-right"><a href="https://coincu.com/203165-zksyncs-169365-users-ethcc-success/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>zkSync clarifies that the initial LIBERTAS OMNIBUS NFT airdrop targets the top 10,000 users among 179,365 qualified community members, while the remaining users will be eligible for a multi-stage distribution process after EthCC.</em></li>
-
-
-
-<li><em>Following community feedback, zkSync addresses concerns by expanding eligibility for LIBERTAS OMNIBUS NFTs, ensuring more users have the opportunity to receive them through a fair and inclusive distribution process.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>zkSync, in response to community feedback regarding the randomness of their LIBERTAS OMNIBUS NFT airdrop, clarified the distribution plan.&nbsp;</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r.jpeg"><img decoding="async" loading="lazy" width="820" height="492" src="https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r.jpeg" alt="zkSync&#039;s NFT Airdrop: Expanding Access For 169,365 Users After EthCC Success" class="wp-image-203167" srcset="https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r.jpeg 820w, https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r-300x180.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r-768x461.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/FrqwQSiXgAU5q4r-750x450.jpeg 750w" sizes="(max-width: 820px) 100vw, 820px" title="zkSync&#039;s NFT Airdrop: Expanding Access For 169,365 Users After EthCC Success 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The airdrop is initially targeted at the top 10,000 users among the 179,365 qualified community members. The remaining 169,365 users will have the opportunity to receive LIBERTAS OMNIBUS NFTs through a multi-stage process following EthCC.</p>
-
-
-
-<p>In an official tweet on July 16, zkSync addressed concerns raised by the community regarding the randomness of the NFT airdrop. They explained that the airdrop was designed for the first 10,000 qualified community members and acknowledged that the selection process could be perceived as lacking randomness. To accommodate the remaining eligible users, a multi-stage distribution process will be implemented after EthCC.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-1024x576.png" alt="zkSync&#039;s NFT Airdrop: Expanding Access For 169,365 Users After EthCC Success" class="wp-image-203168" srcset="https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/bf3b3e1492c856572587612ace8e823d92adbcbc.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="zkSync&#039;s NFT Airdrop: Expanding Access For 169,365 Users After EthCC Success 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Earlier, <a href="https://coincu.com/203089-zksync-launched-new-nft-project/">zkSync</a> launched the LIBERTAS OMNIBUS experimental NFT project and airdropped it to 10,000 early NFT users on their mainnet. The project is a collaboration between zkSync developer Matter Labs and community project Summon. The announcement expressed gratitude to the 179,365 active community members who provided valuable guidance on NFT usage within 113 days of the mainnet launch.</p>
-
-
-
-<p>During the initial phase of the experiment, a selection of &#8220;kindness&#8221; was shared with 10,000 randomly chosen anonymous users from the community, who received the NFTs as part of the airdrop.</p>
-
-
-
-<p>zkSync&#8217;s LIBERTAS OMNIBUS NFT project aims to explore the potential of NFTs within their ecosystem. While the initial airdrop was limited to a specific number of users, the subsequent multi-stage distribution process will provide an opportunity for more community members to participate and receive the LIBERTAS OMNIBUS NFTs.</p>
-
-
-
-<p>As the project progresses and additional details are unveiled during EthCC, zkSync continues to engage with the community and demonstrate their commitment to inclusivity and fair distribution practices.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203165-zksyncs-169365-users-ethcc-success/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-17-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Hong Kong Student Arrested For Masterminding $10M Crypto Scam</title>
-		<link>https://coincu.com/203161-hong-kong-student-arrested-for-masterminding-10m/</link>
-		
-		<dc:creator><![CDATA[Thana]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 10:46:07 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[hong kong]]></category>
-		<category><![CDATA[Hong Kong government]]></category>
-		<category><![CDATA[Scam]]></category>
-		<category><![CDATA[scam alert]]></category>
-		<category><![CDATA[scam crypto]]></category>
-		<category><![CDATA[scammers]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203161</guid>
-
-					<description><![CDATA[Hong Kong police recently arrested six people, including a postsecondary student, suspected of participating in a cross-border syndicate that laundered over HK$100 million (US$12.7 million) in illegal funds using cryptocurrency. <p class="has-text-align-right"><a href="https://coincu.com/203161-hong-kong-student-arrested-for-masterminding-10m/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Hong Kong police arrest six in cross-border syndicate that laundered over HK$100 million with cryptocurrency.</em></li>
-
-
-
-<li><em>Syndicate used e-wallet accounts to trade digital coins and set up bank accounts in mainland China to collect crime proceeds.</em></li>
-
-
-
-<li><em>Suspects detained for suspicion of conspiracy to launder crime proceeds and defraud.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Hong Kong police <a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3227679/hong-kong-student-among-6-arrested-police-clamp-down-cross-border-syndicate-laundering-hk100-million" target="_blank" data-type="URL" data-id="https://www.scmp.com/news/hong-kong/law-and-crime/article/3227679/hong-kong-student-among-6-arrested-police-clamp-down-cross-border-syndicate-laundering-hk100-million" rel="noreferrer noopener">recently </a>arrested six people, including a postsecondary student, suspected of participating in a cross-border syndicate that laundered over HK$100 million (US$12.7 million) in illegal funds using cryptocurrency. </strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1062.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1062-1024x683.png" alt="Hong Kong Student Arrested For Masterminding $10M Crypto Scam" class="wp-image-203162" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1062-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1062-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1062-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1062-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1062.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hong Kong Student Arrested For Masterminding $10M Crypto Scam 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The student was believed to have helped the group launder illegal funds by using e-wallet accounts to trade digital coins, concealing the origins and flow of the crime proceeds. The digital coins were ultimately transferred to e-wallet accounts overseas to evade detection. The syndicate set up bank accounts in mainland China to collect crime proceeds generated through various scams. </p>
-
-
-
-<p>Members then used debit cards to launder illegal funds by purchasing valuables such as gold ornaments and watches in Hong Kong, which were later resold. The group bought digital coins as an extra layer of transactions to conceal the flow of illegal funds. The Hong Kong police began investigating the syndicate in late April after receiving intelligence and cooperated with their mainland Chinese counterparts.</p>
-
-
-
-<p>The six suspects, aged 22 to 36, were arrested in a series of raids across the city on Thursday. They included the alleged ringleader, two core members, and an employee at a watch shop. The student was one of the two alleged core members, while the other two were accused of helping the syndicate use bank cards to make purchases in the city. The group was detained on suspicion of conspiracy to launder crime proceeds and defraud. </p>
-
-
-
-<p>Officers seized more than HK$1 million in cash and valuables such as watches and gold ornaments, along with debit cards, during the operation. The suspects were still in police custody as of Friday afternoon, and the investigation was ongoing. Senior Inspector Chu Ming-man of the Hong Kong Island anti-triad squad urged young people to be extra vigilant when taking on summer jobs and reminded merchants to verify the authenticity of buyers&#8217; identities and bank cards.</p>
-
-
-
-<p>In Hong Kong, money laundering is punishable by up to 14 years in jail and a HK$5 million fine. Officers from the financial intelligence and investigation bureau also arrested 18 residents on Thursday in a separate operation in a crackdown on a criminal syndicate that laundered more than HK$46 million in illegal funds through over 110 bank accounts. </p>
-
-
-
-<p>The illegal funds were generated from 54 cases of deception that occurred since December, including telephone deception, internet love scams, online investment fraud, and email swindles. The suspects, consisting of 11 men and seven women aged 23 to 61, were still being held for questioning as of Friday afternoon.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203161-hong-kong-student-arrested-for-masterminding-10m/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-16T174506.249-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>XRP Security Or Not? Former SEC Official Reveals Shaky Ground</title>
-		<link>https://coincu.com/203157-xrp-security-or-not-former-sec-official-reveals/</link>
-		
-		<dc:creator><![CDATA[Thana]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 10:25:53 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[XRP]]></category>
-		<category><![CDATA[XRP community]]></category>
-		<category><![CDATA[XRP Holders]]></category>
-		<category><![CDATA[XRP lawsuit]]></category>
-		<category><![CDATA[xrp price]]></category>
-		<category><![CDATA[XRP tokens]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203157</guid>
-
-					<description><![CDATA[The Ripple lawsuit has been a hot topic. The court ruled XRP was a security when sold to institutional investors, but not to the public on exchanges.<p class="has-text-align-right"><a href="https://coincu.com/203157-xrp-security-or-not-former-sec-official-reveals/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The SEC sued Ripple Labs for an unregistered securities offering of over $1.3 billion in XRP.</em></li>
-
-
-
-<li><em>The Ripple decision categorized XRP sales into three categories and ruled XRP was a security when sold to institutional investors, but not to the public on exchanges.</em></li>
-
-
-
-<li><em>The decision has sparked controversy and raises questions about the classification of tokens as securities and SEC protection for retail investors.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The Ripple lawsuit has been a hot topic. The court <a href="https://www.linkedin.com/pulse/ripple-decision-cause-crypto-celebration-momentarily-best-stark/" target="_blank" data-type="URL" data-id="https://www.linkedin.com/pulse/ripple-decision-cause-crypto-celebration-momentarily-best-stark/" rel="noreferrer noopener">ruled </a>XRP was a security when sold to institutional investors, but not to the public on exchanges.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1061.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1061-1024x576.png" alt="XRP Security Or Not? Former SEC Official Reveals Shaky Ground" class="wp-image-203158" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1061-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1061-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1061-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1061-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1061-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1061.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="XRP Security Or Not? Former SEC Official Reveals Shaky Ground 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>On December 22, 2020, the SEC sued Ripple Labs Inc. for conducting an unregistered securities offering of over $1.3 billion in XRP, Ripple&#8217;s native token. The lawsuit has been a hot topic in the cryptocurrency community, with many wondering whether XRP should be classified as a security.</p>
-
-
-
-<p>Former SEC official John Reed Stark said that the <a href="https://coincu.com/202656-xrp-price-surges-by-80-as-us-judge-rules/" target="_blank" data-type="URL" data-id="https://coincu.com/202656-xrp-price-surges-by-80-as-us-judge-rules/" rel="noreferrer noopener">XRP </a>decision resides on shaky ground, the SEC is likely for appeal and will likely result in reversal. In the Ripple decision, the Court breaks down the Ripple offering into three categories and rules separately on each category: &#8220;Institutional sales,&#8221; &#8220;Programmatic sales,&#8221; and &#8220;Other Sales.&#8221;</p>
-
-
-
-<p>With respect to category one, Ripple&#8217;s Institutional Sales of XRP to sophisticated individuals and entities pursuant to written contracts, the court held that XRP was a security when it was sold to institutional investors and thereby constituted an unlawful sale of securities. Those investors are therefore entitled to rescission, and Ripple must pay a penalty for the violation. The court also held that a jury will be needed to decide whether Ripple executives aided and abetted Ripple&#8217;s unregistered issuance.</p>
-
-
-
-<p>With respect to category two, sales of XRP to the public (whom the Judge refers to as &#8220;programmatic buyers&#8221; on digital asset exchanges), the court held that XRP was no longer a security when the institutional investors or Ripple sold the XRP anonymously to exchanges because there was no actual privity between exchange customers and Ripple.</p>
-
-
-
-<p>With respect to category three, &#8220;Other Distributions,&#8221; the Court concluded that Ripple&#8217;s Other Distributions did not constitute the offer and sale of investment contracts.</p>
-
-
-
-<p>The Ripple decision is troubling on multiple fronts. The SEC&#8217;s position was that this was a traditional application of Howey, but the Ripple decision seems anathema to the SEC&#8217;s mission and authority. Moreover, the Ripple decision appears to declare that if any crypto-issuer sells their tokens through an exchange, then securities regulations do not apply because exchange customers are presumed to not know anything about the crypto-issuer.</p>
-
-
-
-<p>The Ripple Court seems to hold that if an issuer does not know who is buying their token and the purchasers do not know who is selling the token, then the token is not a security, even though the issuer used the proceeds from the original, initial sales of the token to fund the issuer&#8217;s operations.</p>
-
-
-
-<p>The Ripple decision grants full SEC protection and all remedies that go along with SEC violations to institutional investors, but retail investors are not granted any SEC protection at all. This seems backward to say the least. The Ripple Court appears to distinguish the IPO and trading of Apple from the ICO and trading of a token.</p>
-
-
-
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203157-xrp-security-or-not-former-sec-official-reveals/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-16T172441.508-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Weekly Top Crypto News (July 10 – July 16)</title>
-		<link>https://coincu.com/203141-weekly-top-crypto-news-july-10-july-16/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sun, 16 Jul 2023 08:12:57 +0000</pubDate>
-				<category><![CDATA[Crypto Recap]]></category>
-		<category><![CDATA[AAVE]]></category>
-		<category><![CDATA[Arkham]]></category>
-		<category><![CDATA[base]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Celsius Network]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[GHO]]></category>
-		<category><![CDATA[Grayscale]]></category>
-		<category><![CDATA[Lido]]></category>
-		<category><![CDATA[Linea]]></category>
-		<category><![CDATA[MATIC]]></category>
-		<category><![CDATA[multichain]]></category>
-		<category><![CDATA[PoL]]></category>
-		<category><![CDATA[Polygon]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[XRP]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203141</guid>
-
-					<description><![CDATA[The ongoing legal dispute between Ripple and the SEC has had a notable impact on the entire crypto industry.<p class="has-text-align-right"><a href="https://coincu.com/203141-weekly-top-crypto-news-july-10-july-16/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<h5 class="wp-block-heading"><strong>In the second week of July, there was a significant surge in the <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer noopener">crypto market</a> following news that Ripple&#8217;s XRP coin had received a favorable ruling from a U.S. court regarding its securities status. While a final judgment has not been reached, this development is considered positive in the ongoing legal dispute between Ripple and the SEC, and it has had a notable impact on the entire crypto industry, resulting in a market-wide increase in prices. Here, let&#8217;s review this week&#8217;s top crypto news with Coincu!</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1060-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1060-1024x683.png" alt="Weekly Top Crypto News (July 10 – July 16)" class="wp-image-203154" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1060-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1060-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1060-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1060-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1060-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1060.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Weekly Top Crypto News (July 10 – July 16) 16"></a></figure></div>
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Ripple Wins Against SEC After 3 Years Of Lawsuit Led To XRP Surges Over 30%</h2>
-
-
-
-<p>Judge Analisa Torres rules in favor of Ripple Labs, stating that XRP is not a security in the case brought by the SEC. The court recognizes the sale of XRP as not constituting investment solicitation, extending the ruling to institutional sales by Ripple. After more than three years, the company secured a major win in the legal battle, but further proceedings are expected as the court prepares for the next hearing.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="wX4UUZYEPp"><a href="https://coincu.com/202599-ripple-wins-against-sec/">Ripple Wins Against SEC After 3 Years Of Lawsuit Led To XRP Surges Over 30%</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Ripple Wins Against SEC After 3 Years Of Lawsuit Led To XRP Surges Over 30%&#8221; &#8212; CoinCu News" src="https://coincu.com/202599-ripple-wins-against-sec/embed/#?secret=A3yzVgjAA9#?secret=wX4UUZYEPp" data-secret="wX4UUZYEPp" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Binance Has Fired Over 1,000 People In Recent Weeks: Report</h2>
-
-
-
-<p>Binance has laid off more than 1,000 employees worldwide in recent weeks. The layoffs, which could range from 1,500 to 3,000 employees worldwide, last until the end of the year. The cause is speculated to be that the world’s leading exchange is struggling in a legal battle with the SEC.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="cre4Hy429d"><a href="https://coincu.com/202996-binance-fired-1000-people-report/">Binance Has Fired Over 1,000 People In Recent Weeks: Report</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Binance Has Fired Over 1,000 People In Recent Weeks: Report&#8221; &#8212; CoinCu News" src="https://coincu.com/202996-binance-fired-1000-people-report/embed/#?secret=Y80h2yYRzy#?secret=cre4Hy429d" data-secret="cre4Hy429d" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Polygon Proposed Upgrade: MATIC to POL Token for Superior Scalability and Security</h2>
-
-
-
-<p>Polygon plans to upgrade its native token, MATIC, to a new asset called POL as part of the Polygon 2.0 roadmap. The upgrade aims to enhance scalability and security by enabling POL to validate transactions across multiple chains within the ecosystem. The migration process from MATIC to POL is expected to be straightforward, with a grace period of four years for token holders to complete the transition.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="w7WTkqQxa2"><a href="https://coincu.com/202510-polygon-unveils-proposed-upgrade/">Polygon Proposed Upgrade: MATIC to POL Token for Superior Scalability and Security</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Polygon Proposed Upgrade: MATIC to POL Token for Superior Scalability and Security&#8221; &#8212; CoinCu News" src="https://coincu.com/202510-polygon-unveils-proposed-upgrade/embed/#?secret=WGAiKRBW9p#?secret=w7WTkqQxa2" data-secret="w7WTkqQxa2" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Former CEO Of Celsius Network Arrested As Company Faces Collapse And SEC Lawsuit</h2>
-
-
-
-<p>Former Celsius Network CEO arrested amid company collapse and SEC lawsuit. The collapse of TerraUSD stablecoin and regulatory challenges contribute to Celsius Network&#8217;s downfall. The crypto industry faces financial strain and increased regulatory scrutiny.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="wOkz4hGZgt"><a href="https://coincu.com/202559-former-ceo-of-celsius-network-arrested/">Former CEO Of Celsius Network Arrested As Company Faces Collapse And SEC Lawsuit</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Former CEO Of Celsius Network Arrested As Company Faces Collapse And SEC Lawsuit&#8221; &#8212; CoinCu News" src="https://coincu.com/202559-former-ceo-of-celsius-network-arrested/embed/#?secret=ukV4LI34mi#?secret=wOkz4hGZgt" data-secret="wOkz4hGZgt" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%</h2>
-
-
-
-<p>Lido’s Token Staking Protocol has been added to Grayscale’s DeFi Fund. LDO’s proportion in the fund is 19.04%, second only to Uniswap’s UNI with 45.46%. Grayscale said it adjusted the DeFi fund’s portfolio, selling a certain number of existing tokens by the weight of each token and using the proceeds to buy LDO.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="FBSEjmozZy"><a href="https://coincu.com/201021-grayscale-ldo-second-largest-defi-token/">Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Grayscale Turns LDO Into Second Largest Defi Token In Its Fund With 19.04%&#8221; &#8212; CoinCu News" src="https://coincu.com/201021-grayscale-ldo-second-largest-defi-token/embed/#?secret=ZGEXy7UmCv#?secret=FBSEjmozZy" data-secret="FBSEjmozZy" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Multichain CEO Disappears With User Assets</h2>
-
-
-
-<p>Multichain CEO Zhao Jun was taken away by Chinese police, leaving the project in crisis. Multichain team maintaining the project to best of their abilities with limited resources. User assets were transferred abnormally, and the police also took away the sister of Zhao Jun.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="oi1zV1R0Yg"><a href="https://coincu.com/202911-multichain-ceo-disappears-with-user-assets/">Multichain CEO Disappears With User Assets &#8211; What Happens Next?</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Multichain CEO Disappears With User Assets &#8211; What Happens Next?&#8221; &#8212; CoinCu News" src="https://coincu.com/202911-multichain-ceo-disappears-with-user-assets/embed/#?secret=7BiuxkYqua#?secret=oi1zV1R0Yg" data-secret="oi1zV1R0Yg" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Arkham Responds To Accusations Of Government Affiliation, User Privacy Concerns</h2>
-
-
-
-<p>Blockchain company Arkham Intel denies government ties amid backlash over Intel Exchange platform. Concerns were raised about privacy and data misuse with the trading of crypto wallet information. The company refutes data leakage allegations and launches ARKM tokens through ICO on Binance Launchpad.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="BZgVUGcyBq"><a href="https://coincu.com/201767-arkham-responds-to-accusations/">Arkham Responds To Accusations Of Government Affiliation, User Privacy Concerns</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Arkham Responds To Accusations Of Government Affiliation, User Privacy Concerns&#8221; &#8212; CoinCu News" src="https://coincu.com/201767-arkham-responds-to-accusations/embed/#?secret=jX4gn6hx04#?secret=BZgVUGcyBq" data-secret="BZgVUGcyBq" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Layer 2 Linea Mainnet Alpha To Launch Next Week, Officially Competing With L2s</h2>
-
-
-
-<p>Consensys is preparing to launch the mainnet alpha of its Linea network, a Layer 2 solution built on Ethereum, which enables faster transaction speeds and reduced costs through zkEVM rollups. Linea aims to provide a cost-effective alternative for Ethereum developers and users, with transaction prices up to 15 times lower than Ethereum Layer 1. The network has garnered significant interest during its testnet period, with millions of wallets participating in transactions.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="eqpem3DJpI"><a href="https://coincu.com/201743-linea-mainnet-alpha-to-launch-next-week/">Layer 2 Linea Mainnet Alpha To Launch Next Week, Officially Competing With L2s</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Layer 2 Linea Mainnet Alpha To Launch Next Week, Officially Competing With L2s&#8221; &#8212; CoinCu News" src="https://coincu.com/201743-linea-mainnet-alpha-to-launch-next-week/embed/#?secret=6BDO4aR03K#?secret=eqpem3DJpI" data-secret="eqpem3DJpI" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Coinbase&#8217;s Layer 2 Base Now Launches Mainnet For Builders</h2>
-
-
-
-<p>Coinbase&#8217;s Base mainnet is now open for builders, allowing them to deploy their projects and prepare for the platform&#8217;s general availability in August. Builders joining during this phase will receive a Genesis Builder NFT to commemorate their participation. Base provides support and a range of tools, including node providers, smart wallet infrastructure, block explorers, data indexers, and developer tooling, to facilitate the development process.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="QGp7glwa6w"><a href="https://coincu.com/202647-coinbase-base-now-launches-mainnet-for-builders/">Coinbase&#8217;s Layer 2 Base Now Launches Mainnet For Builders</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Coinbase&#8217;s Layer 2 Base Now Launches Mainnet For Builders&#8221; &#8212; CoinCu News" src="https://coincu.com/202647-coinbase-base-now-launches-mainnet-for-builders/embed/#?secret=1h7gF6vgfq#?secret=QGp7glwa6w" data-secret="QGp7glwa6w" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Aave Unleashes GHO, The Revolutionary Decentralized Stablecoin Redefining DeFi</h2>
-
-
-
-<p>Aave launches GHO on Ethereum mainnet, enabling users to mint the decentralized stablecoin. GHO is governed by the Aave DAO, ensuring transparency and community-driven decision-making. GHO introduces innovative features like collateralized borrowing, productive collateral, and multi-collateral support, revolutionizing the decentralized finance ecosystem.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="mskK8ibCkm"><a href="https://coincu.com/203080-aave-unleashes-gho/">Aave Unleashes GHO, The Revolutionary Decentralized Stablecoin Redefining DeFi</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Aave Unleashes GHO, The Revolutionary Decentralized Stablecoin Redefining DeFi&#8221; &#8212; CoinCu News" src="https://coincu.com/203080-aave-unleashes-gho/embed/#?secret=5HqNZlFarO#?secret=mskK8ibCkm" data-secret="mskK8ibCkm" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203141-weekly-top-crypto-news-july-10-july-16/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1059-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
