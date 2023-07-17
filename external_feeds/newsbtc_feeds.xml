@@ -13,7 +13,7 @@
 	<atom:link href="https://www.newsbtc.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.newsbtc.com/</link>
 	<description>Bitcoin &#38; Cryptocurrency News Today</description>
-	<lastBuildDate>Mon, 17 Jul 2023 14:15:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jul 2023 15:21:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>zkSync Unveils Boojum Upgrade: The Ultimate Solution For Scalability And Security?</title>
+		<link>https://www.newsbtc.com/news/blockchain/zksync-unveils-boojum-upgrade-the-ultimate-solution-for-scalability-and-security/</link>
+		
+		<dc:creator><![CDATA[Ronaldo Marquez]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 16:30:53 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[blockchain technology]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[zkSync]]></category>
+		<guid isPermaLink="false">https://www.newsbtc.com/?p=542973</guid>
+
+					<description><![CDATA[zkSync, a blockchain network that aims to make digital self-ownership universally accessible, has announced a major cryptographic upgrade to its proof system.  The upgrade involves transitioning to a new STARK-based proof system called Boojum, which, according to the announcement, offers world-class proving performance and reduces hardware requirements for decentralization. zkSync Era Moves To Boojum Boojum is a Rust-based arithmetization and constraint library that implements the upgraded version of the ZK circuits for zkSync Era and the ZK Stack. The library offers several compelling properties, including PLONK-style arithmetization. PLONK-style arithmetization refers to the use of PLONK (Permutation-based Linear-based SNARKs for transparent, universal, and upgradable proofs) as the underlying zero-knowledge proof system.  PLONK is a relatively new proof system that provides several advantages over previous systems, such as Sonic and Halo. Specifically, PLONK is designed to be more transparent, universal, and upgradeable, making it a good choice for zkSync&#8217;s upgraded proof system. Related Reading: Celsius Is Selling, More Pain For BNB, LINK, And SNX? According to the announcement, the move to a STARK-based proof system represents a dramatic performance improvement and will help ensure low latency for finality and support for increased levels of activity on zkSync Era and other ZK Stack-based systems.  The GPU provers used for Boojum require just 16 GB (GygaByte) of RAM, a significant reduction from the hundreds of GBs of RAM needed by prevalent proof systems.  By reducing the amount of RAM required to run the GPU provers from hundreds of GBs to just 16 GB, zkSync will be able to use cheaper machines for increased horizontal scalability. This will likely have a positive impact on the cost of using zkSync. This means that more people will be able to participate in the network and contribute to its decentralization, ultimately leading to a healthier and more robust network. Furthermore, to ensure a smooth transition, zkSync is running the new proof system alongside the existing one in a testing phase called mainnet shadow mode.  The network is generating and verifying &#8220;shadow proofs&#8221; for Mainnet blocks to further test and optimize the system with real production data from zkSync Era&#8217;s user activity. This testing is being done off-chain to find edge cases and bugs, and to continue reviewing the implementation. zkSync is also open-sourcing the Boojum codebase to allow anyone to use the new proofs and verify them using a command-line interface (CLI) tool.  Related Reading: Polkadot (DOT) Price Momentum Builds As Open Interest Climbs – Details The network is confident that Boojum and its commitment to innovation and user-first design are the next steps forward for a more secure, scalable, and efficient zkEVM. However, according to the announcement, the migration to the new proof system will only happen after further audits and security reviews are completed. Overall, the move to Boojum is a significant step towards a future of user-powered, decentralized proof generation. The increased performance and reduced hardware requirements will help zkSync and other ZK Stack-based systems achieve greater scalability and accessibility, making digital self-ownership more accessible to everyone. Featured image from Unsplash, chart from TradingView.com ]]></description>
+										<content:encoded><![CDATA[<p>zkSync, a blockchain network that aims to make digital self-ownership universally accessible, has <a href="https://zksync.mirror.xyz/HJ2Pj45EJkRdt5Pau-ZXwkV2ctPx8qFL19STM5jdYhc" target="_blank" rel="noopener nofollow">announced </a>a major cryptographic upgrade to its proof system. </p>
+<p>The upgrade involves transitioning to a new STARK-based proof system called Boojum, which, according to the announcement, offers world-class proving performance and reduces hardware requirements for decentralization.</p>
+<h2>zkSync Era Moves To Boojum</h2>
+<p>Boojum is a Rust-based arithmetization and constraint library that implements the upgraded version of the ZK circuits for zkSync Era and the ZK Stack. The library offers several compelling properties, including PLONK-style arithmetization.</p>
+<p>PLONK-style arithmetization refers to the use of PLONK (Permutation-based Linear-based SNARKs for transparent, universal, and upgradable proofs) as the underlying zero-knowledge proof system. </p>
+<p>PLONK is a relatively new proof system that provides several advantages over previous systems, such as Sonic and Halo. Specifically, PLONK is designed to be more transparent, universal, and upgradeable, making it a good choice for zkSync&#8217;s upgraded proof system.</p>
+
+<p>According to the announcement, the move to a STARK-based proof system represents a dramatic performance improvement and will help ensure low latency for finality and support for increased levels of activity on zkSync Era and other ZK Stack-based systems. </p>
+<p>The GPU provers used for Boojum require just 16 GB (GygaByte) of RAM, a significant reduction from the hundreds of GBs of RAM needed by prevalent proof systems. </p>
+<p>By reducing the amount of RAM required to run the GPU provers from hundreds of GBs to just 16 GB, zkSync will be able to use cheaper machines for increased horizontal scalability. This will likely have a positive impact on the cost of using zkSync.</p>
+<p>This means that more people will be able to participate in the network and contribute to its decentralization, ultimately leading to a healthier and more robust network.</p>
+<p>Furthermore, to ensure a smooth transition, zkSync is running the new proof system alongside the existing one in a testing phase called mainnet shadow mode. </p>
+<p>The network is generating and verifying &#8220;shadow proofs&#8221; for Mainnet blocks to further test and optimize the system with real production data from zkSync Era&#8217;s user activity. This testing is being done off-chain to find edge cases and bugs, and to continue reviewing the implementation.</p>
+<p>zkSync is also open-sourcing the Boojum codebase to allow anyone to use the new proofs and verify them using a command-line interface (CLI) tool. </p>
+
+<p>The network is confident that Boojum and its commitment to innovation and user-first design are the next steps forward for a more secure, scalable, and efficient zkEVM. </p>
+<p>However, according to the announcement, the migration to the new proof system will only happen after further audits and security reviews are completed.</p>
+<p>Overall, the move to Boojum is a significant step towards a future of user-powered, decentralized proof generation. The increased performance and reduced hardware requirements will help zkSync and other ZK Stack-based systems achieve greater scalability and accessibility, making digital self-ownership more accessible to everyone.</p>
+<img decoding="async" class="size-large" src="https://www.tradingview.com/x/8QtCNAZV/" alt="zkSync" width="1814" height="858" loading="lazy"/>
+<p>Featured image from Unsplash, chart from TradingView.com </p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://www.newsbtc.com/wp-content/uploads/2023/07/hitesh-choudhary-JNxTZzpHmsI-unsplash-460x259.jpg" width="460" height="259" />	</item>
+		<item>
 		<title>Bitcoin Miners Selling Again, Will Price Crash Again?</title>
 		<link>https://www.newsbtc.com/bitcoin-news/bitcoin-miners-selling-again-will-price-crash-again/</link>
 		
@@ -405,52 +445,5 @@
 		
 		
 		<media:content medium="image" url="https://www.newsbtc.com/wp-content/uploads/2023/07/IMAGE_1671014556-460x259.jpg" width="460" height="259" />	</item>
-		<item>
-		<title>USTC Surprises With Nearly 60% Rally &#8211; What’s Going On?</title>
-		<link>https://www.newsbtc.com/news/ustc-surprises-with-nearly-60-rally-whats-going-on/</link>
-		
-		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 06:22:44 +0000</pubDate>
-				<category><![CDATA[Cryptocurrency Market News]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Stablecoins]]></category>
-		<category><![CDATA[TerraUSD Classic]]></category>
-		<category><![CDATA[USTC]]></category>
-		<guid isPermaLink="false">https://www.newsbtc.com/?p=542871</guid>
-
-					<description><![CDATA[The value and popularity of TerraUSD Classic, or USTC, the algorithmic stablecoin of the Terra Classic (LUNC) ecosystem, have skyrocketed recently. Today, the stablecoin makes a surprise rally, sparking a great deal of interest among investors and cryptocurrency aficionados. The sharp growth in USTC could be an indication of a sharp rise in demand and emphasizes the market&#8217;s rising confidence in this stablecoin. Data from crypto market tracker Coingecko shows USTC trading at $0.0186, notching a 24-hour increase in value of 21.4%. In the last seven days, the stablecoin registered an impressive 58% rally, causing its trading volume to balloon to a solid 409%. Source: Coingecko USTC Organic Growth Pushes Stablecoin Up Despite the fact that the causes of this upswing are yet unknown, the recent spike in USTC&#8217;s value shows organic growth. &#8220;Organic growth&#8221; refers to the increase in value of USTC that occurs naturally, without the influence of external factors or artificial means. Related Reading: Dogecoin Engagement Fails To Impress, Raising Concerns About Broader Interest It suggests that the growth is the result of the company&#8217;s internal operations, strategies, and market dynamics, rather than being driven by external factors such as acquisitions, mergers, or financial manipulations. After it was de-pegged more than a year ago, USTC saw a huge price decline. Since USTC is a stablecoin with a 1:1 tie to the USD, its price should always be $1. The stablecoin has since traded at lower prices, reaching a 52-week high of $0.06 during that time. There are signs, nevertheless, that USTC could revisit the $1 level and recoup its worth. Total market cap of cryptocurrencies as of today stood at $1.17 trillion. Chart: TradingView.com The TerraUSD Classic de-pegging caused major difficulties for the larger digital currency ecosystem, and its effects are still being felt today. A few Web3.0 firms with exposure to its parent company Terraform Labs went out of business in addition to the more than 99% decline in price of its linked cryptocurrency, Terra Classic. Related Reading: BNB Chain Inks New Record With Soaring User Activity – A Boost For Price? The implosion of FTX Derivatives Exchange was finally driven by the bankruptcies of Celsius Network and Voyager Digital, which prolonged the crypto winter even further. Meanwhile, in order to expand supply and rekindle interest in the stablecoin, the Terra Classic community is launching projects like staking and burning LUNC tokens while also working to improve infrastructure. Source: Coingecko Will The Terra Classic Stablecoin Retest $1? There is growing consensus that the TerraUSD Classic token is steadily approaching a retesting of the significant $1 price level. Among investors and enthusiasts alike, this strong rising trend has spurred new optimism. As the TerraUSD Classic token gains momentum, it boosts community members&#8217; faith in its capability to uphold its pegged value and function as a dependable digital asset. The community may become excited and eager in anticipation of a probable retest of the $1 price level, which would improve the outlook for TerraUSD Classic&#8217;s long-term prospects. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from Analytics Insight]]></description>
-										<content:encoded><![CDATA[<p>The value and popularity of TerraUSD Classic, or USTC, the algorithmic stablecoin of the Terra Classic (LUNC) ecosystem, have skyrocketed recently.</p>
-<p>Today, the stablecoin makes a surprise rally, sparking a great deal of interest among investors and cryptocurrency aficionados.</p>
-<p>The sharp growth in USTC could be an indication of a sharp rise in demand and emphasizes the market&#8217;s rising confidence in this stablecoin.</p>
-<p>Data from crypto market tracker Coingecko shows <a href="https://www.coingecko.com/?page=2" target="_blank" rel="noopener nofollow">USTC trading at $0.0186</a>, notching a 24-hour increase in value of 21.4%. In the last seven days, the stablecoin registered an impressive 58% rally, causing its trading volume to balloon to a solid 409%.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-542874" src="https://www.newsbtc.com/wp-content/uploads/2023/07/USTC.png" alt="" width="1136" height="62" srcset="https://www.newsbtc.com/wp-content/uploads/2023/07/USTC.png 1136w, https://www.newsbtc.com/wp-content/uploads/2023/07/USTC-460x25.png 460w, https://www.newsbtc.com/wp-content/uploads/2023/07/USTC-860x47.png 860w, https://www.newsbtc.com/wp-content/uploads/2023/07/USTC-768x42.png 768w, https://www.newsbtc.com/wp-content/uploads/2023/07/USTC-750x41.png 750w" sizes="(max-width: 1136px) 100vw, 1136px"/></p>
-
-<h2><strong>USTC Organic Growth Pushes Stablecoin Up</strong></h2>
-<p>Despite the fact that the causes of this upswing are yet unknown, the recent spike in USTC&#8217;s value shows <a href="https://thegww.com/huge-surge-in-value-and-trading-volume-of-terrausd-classic-delights-investors/" target="_blank" rel="noopener nofollow">organic growth.</a></p>
-<p>&#8220;Organic growth&#8221; refers to the increase in value of USTC that occurs naturally, without the influence of external factors or artificial means.</p>
-
-<p>It suggests that the growth is the result of the company&#8217;s internal operations, strategies, and market dynamics, rather than being driven by external factors such as acquisitions, mergers, or financial manipulations.</p>
-<p>After it was de-pegged more than a year ago, USTC saw a huge price decline. Since USTC is a stablecoin with a 1:1 tie to the USD, its price should always be $1.</p>
-<p>The stablecoin has since traded at lower prices, reaching a 52-week high of $0.06 during that time. There are signs, nevertheless, that USTC could revisit the $1 level and recoup its worth.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full" src="https://www.tradingview.com/x/t3Q7AuiJ/" width="2475" height="1187"/></p>
-
-<p>The TerraUSD Classic de-pegging caused major difficulties for the larger digital currency ecosystem, and its effects are still being felt today.</p>
-<p>A few Web3.0 firms with exposure to its parent company Terraform Labs went out of business in addition to the more than 99% decline in price of its linked cryptocurrency, Terra Classic.</p>
-
-<p>The implosion of FTX Derivatives Exchange was finally driven by the bankruptcies of Celsius Network and Voyager Digital, which prolonged the crypto winter even further.</p>
-<p>Meanwhile, in order to expand supply and rekindle interest in the stablecoin, the Terra Classic community is launching projects like staking and burning LUNC tokens while also working to improve infrastructure.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-542877" src="https://www.newsbtc.com/wp-content/uploads/2023/07/a-99.png" alt="" width="745" height="478" srcset="https://www.newsbtc.com/wp-content/uploads/2023/07/a-99.png 745w, https://www.newsbtc.com/wp-content/uploads/2023/07/a-99-460x295.png 460w" sizes="(max-width: 745px) 100vw, 745px"/></p>
-
-<h2><strong>Will The Terra Classic Stablecoin Retest $1?</strong></h2>
-<p>There is growing consensus that the TerraUSD Classic token is steadily approaching a retesting of the significant $1 price level. Among investors and enthusiasts alike, this strong rising trend has spurred new optimism.</p>
-<p>As the TerraUSD Classic token gains momentum, it boosts community members&#8217; faith in its capability to uphold its pegged value and function as a dependable digital asset.</p>
-<p>The community may become excited and eager in anticipation of a probable retest of the $1 price level, which would improve the outlook for TerraUSD Classic&#8217;s long-term prospects.</p>
-<p><em>(This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk).</em></p>
-<p><em>Featured image from Analytics Insight</em></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image" url="https://www.newsbtc.com/wp-content/uploads/2023/07/a-98-460x261.png" width="460" height="261" />	</item>
 	</channel>
 </rss>

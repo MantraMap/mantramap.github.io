@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Mon, 17 Jul 2023 15:29:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jul 2023 16:52:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,259 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chainlink&#8217;s New Protocol Is Now Live For Seamless Blockchain Interaction</title>
+		<link>https://coincu.com/203471-chainlink-new-protocol-is-now-live/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 16:52:16 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Avalanche]]></category>
+		<category><![CDATA[CCIP]]></category>
+		<category><![CDATA[Chainlink]]></category>
+		<category><![CDATA[Cross-Chain Interoperability Protocol]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[optimism]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203471</guid>
+
+					<description><![CDATA[Chainlink's Cross-Chain Interoperability Protocol (CCIP) goes live on multiple blockchains.<p class="has-text-align-right"><a href="https://coincu.com/203471-chainlink-new-protocol-is-now-live/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Chainlink&#8217;s Cross-Chain Interoperability Protocol (CCIP) goes live on multiple blockchains.</em></li>
+
+
+
+<li><em>CCIP enables decentralized finance protocols and SWIFT connectivity for international transfers.</em></li>
+
+
+
+<li><em>The protocol also offers simplified token transfers and an ARM Network for added security.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Chainlink&#8217;s Cross-Chain Interoperability Protocol (CCIP) is now live for early-access users on multiple blockchains, including Avalanche, Ethereum, Optimism, and Polygon.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1147.png"><img decoding="async" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203475" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1147-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1147-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1536x865.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1147-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1147.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 1"></a></figure></div>
+
+
+<p>The protocol, <a href="https://blog.chain.link/ccip-mainnet-early-access/" target="_blank" rel="noreferrer noopener">designed</a> to facilitate cross-chain applications and services, has been tested by partners such as Aave and Synthetix and is now transitioning to mainnet general availability.</p>
+
+
+
+<p>On July 20, all developers will be able to access CCIP through five testnets: Arbitrum Goerli, Avalanche Fuji, Ethereum Sepolia, Optimism Goerli, and Polygon Bombay.</p>
+
+
+
+<p>CCIP allows for seamless interoperability between different blockchains, enabling decentralized finance protocols and other applications to adopt cross-chain functionality. It has been a key element in Chainlink&#8217;s partnership with SWIFT, the global banking network used for international money transfers, which plans to connect with various blockchains using CCIP.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1148.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203476" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1148-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1148-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1148-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1148-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1148.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 2"></a></figure></div>
+
+
+<p>The protocol offers simplified and programmable token transfers, making it easier for tokens to be securely transferred and managed across different chains. Simplified Token Transfers provide a plug-and-play solution with audited token pool contracts, handling tasks such as burning, minting, locking, and unlocking tokens across chains while ensuring token sponsors retain control over their Token Pool contract. This enhances the security and composability of native tokens within protocols.</p>
+
+
+
+<p>Programmable Token Transfers enable additional instructions to be included with token transfers, allowing for actions such as swapping or staking assets upon arrival at the destination chain. This ensures that tokens can be utilized immediately according to predefined instructions, enhancing the efficiency and functionality of cross-chain transactions.</p>
+
+
+
+<p>To ensure the integrity and security of cross-chain operations, Chainlink has implemented an Active Risk Management (ARM) Network. The ARM Network acts as an independent layer that continuously monitors and validates the behavior of the primary CCIP network. It utilizes a separate implementation of the Chainlink node software in Rust, providing client diversity and minimizing external dependencies to prevent supply chain attacks.</p>
+
+
+
+<p>Chainlink&#8217;s CCIP aims to solve the challenge of interoperability in the blockchain ecosystem, allowing applications and protocols to seamlessly interact across different chains. By providing simplified and programmable token transfers, along with an independent security layer through the ARM Network, CCIP offers a robust and secure cross-chain solution for the decentralized finance space and beyond.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1149.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203477" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1149-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1149-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1149-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1149-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 3"></a><figcaption class="wp-element-caption">CCIP enables Synthetix to securely transfer tokens across different blockchains through a burn-and-mint model. <em>Source: Chainlink</em></figcaption></figure></div>
+
+
+<p>As CCIP moves towards wider adoption, Chainlink is actively working on payment models to support the monetization and long-term sustainability of its services. These models aim to reduce payment friction for users and provide a greater amount of fees to support Chainlink&#8217;s service providers. Additionally, as Chainlink Staking expands, a portion of user fees for services like CCIP will be directed to stakers, enhancing the crypto-economic security of the network.</p>
+
+
+
+<p>With the launch of CCIP on multiple blockchains and the growing adoption by leading protocols, Chainlink is further solidifying its position as a key player in the blockchain interoperability space. The protocol&#8217;s ability to facilitate cross-chain applications and services opens up new possibilities for decentralized finance and other blockchain-based ecosystems, fostering innovation and collaboration across different networks.</p>
+
+
+
+<p>As Coincu <a href="https://coincu.com/198659-chainlink-data-feeds-go-live-on-celo/" target="_blank" rel="noreferrer noopener">reported</a>, Chainlink data streams are now available on the Celo mainnet, allowing developers to construct powerful DeFi apps by providing access to crucial data and services. This advancement is likely to significantly alter the DeFi ecosystem by providing additional chances for developers to implement creative solutions. Additionally, integrating Chainlink data feeds into Celo&#8217;s blockchain would improve platform security by guaranteeing that data is securely delivered straight to the blockchain.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203471-chainlink-new-protocol-is-now-live/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1146-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects</title>
+		<link>https://coincu.com/203460-zachxbt-exposes-canadian-scammer/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 16:23:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Crypto Theft]]></category>
+		<category><![CDATA[Discord]]></category>
+		<category><![CDATA[Orbiter Finance]]></category>
+		<category><![CDATA[Pika Protocol]]></category>
+		<category><![CDATA[Scam]]></category>
+		<category><![CDATA[Soup]]></category>
+		<category><![CDATA[ZachXBT]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203460</guid>
+
+					<description><![CDATA[Twitter sleuth ZachXBT exposes Canadian phishing scammer "Soup" for orchestrating multi-million dollar theft from crypto projects.<p class="has-text-align-right"><a href="https://coincu.com/203460-zachxbt-exposes-canadian-scammer/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Crypto sleuth ZachXBT</em> <em>exposes Canadian scammer &#8220;Soup&#8221; for orchestrating multi-million dollar theft from crypto projects.</em></li>
+
+
+
+<li><em>Scammer used fake Discord servers and phishing tactics to steal assets from projects like Orbiter Finance and Pika Protocol.</em></li>
+
+
+
+<li><em>Investigation reveals Soup&#8217;s involvement in the scams, including profiting from stolen funds and showing little remorse for his actions.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Twitter sleuth ZachXBT exposes Canadian phishing scammer &#8220;Soup&#8221; for orchestrating multi-million dollar theft from crypto projects.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1144.png"><img decoding="async" loading="lazy" width="1024" height="558" src="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203465" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1144-300x164.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1144-768x419.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1144-750x409.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1144.png 1040w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 4"></a></figure></div>
+
+
+<p>ZachXBT, a renowned online detective with a large Twitter following, has unveiled the alleged activities of a Canadian scammer known as &#8220;Soup.&#8221; In a series of tweets, he accuses Soup of playing a key role in stealing millions of dollars in assets through fake Discord servers and phishing tactics.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">11/ Soup admits to having profited $1M himself while his partners have profited even more<br><br>He seems to show little remorse for his actions after financially harming projects and people<br><br>Additional info about Soup has been shared with victims so legal action can hopefully be taken <a href="https://t.co/fSvx4GDb1Z" target="_blank">pic.twitter.com/fSvx4GDb1Z</a></p>&mdash; ZachXBT (@zachxbt) <a href="https://twitter.com/zachxbt/status/1680919021292593155?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 17, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>According to ZachXBT, Soup impersonated an engineer from Decrypt, a popular media outlet, to lure unsuspecting victims to a fake Decrypt Discord server. Collaborating with other scammers, Soup targeted individuals associated with crypto projects like Orbiter Finance and Pika Protocol.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1142.png"><img decoding="async" loading="lazy" width="1024" height="720" src="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203462" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1142-300x211.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1142-768x540.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1142-750x527.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1142-1140x802.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1142.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 5"></a></figure></div>
+
+
+<p>In May, Pika Protocol&#8217;s Discord server fell victim to a compromise orchestrated by scammers. By posting a malicious link in the server&#8217;s announcements channel, they managed to steal over $220,000. A similar pattern emerged with Orbiter Finance, where scammers used a phishing attack to access a team member&#8217;s Discord token and subsequently siphoned off more than $760,000.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1143.png"><img decoding="async" loading="lazy" width="1024" height="711" src="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203464" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1143-300x208.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1143-768x533.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1143-750x521.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1143-1140x792.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1143.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 6"></a></figure></div>
+
+
+<p><a href="https://coincu.com/196353-jeffrey-huang-refuted-zachxbts-allegations/" target="_blank" rel="noreferrer noopener">ZachXBT</a> further alleges that Soup, who inadvertently revealed his wallet address (0x21bc8046245880e9d3ec5ed808048a93518e933a), profited significantly from these illicit activities. Soup reportedly confessed to having made around $1 million, while his partners profited even more. Despite the financial harm inflicted on projects and individuals, Soup appears to show little remorse.</p>
+
+
+
+<p>Following <a href="https://twitter.com/zachxbt/status/1678384917657296898" target="_blank" rel="noreferrer noopener">previous investigations</a> into crypto-related crimes, including allegations against YouTuber Blue, ZachXBT has established a reputation as a crypto crime fighter. After being sued by Jeffrey Huang, also known as <a href="https://coincu.com/196939-machi-big-brother-stated-zachxbt-framed/" target="_blank" rel="noreferrer noopener">Machi Big Brother</a>, for making allegations about &#8220;pump and dump&#8221; schemes, ZachXBT <a href="https://coincu.com/196101-the-war-between-jeffrey-huang-zachxbt/" target="_blank" rel="noreferrer noopener">received</a> substantial donations for legal defense.</p>
+
+
+
+<p>ZachXBT has shared additional information about Soup with the victims in the hope that legal action can be taken against the scammer. The exposed activities shed light on the ongoing challenges posed by phishing scams within the crypto community and the importance of remaining vigilant against such threats.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203460-zachxbt-exposes-canadian-scammer/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1145-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Elizabeth Warren Raises Concerns Over Tesla&#8217;s Use Of Social Media: Report</title>
+		<link>https://coincu.com/203459-elizabeth-warren-raises-concerns-over-teslas-use/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 16:18:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Elizabeth Warren]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[elon musk twitter]]></category>
+		<category><![CDATA[Sen. Elizabeth Warren]]></category>
+		<category><![CDATA[Senator Elizabeth Warren]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Tesla CEO]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Twitter CEO]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203459</guid>
+
+					<description><![CDATA[US Senator Elizabeth Warren requests SEC to investigate Tesla's connection to Twitter, raising concerns about conflicts of interest and possible violations of securities laws.<p class="has-text-align-right"><a href="https://coincu.com/203459-elizabeth-warren-raises-concerns-over-teslas-use/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>US Senator Elizabeth Warren has written a letter to the SEC requesting an investigation into Tesla&#8217;s connection to Twitter.</em></li>
+
+
+
+<li><em>Warren raises concerns about potential conflicts of interest, misappropriation of corporate assets, and negative impacts to Tesla shareholders.</em></li>
+
+
+
+<li><em>The letter calls for a probe into Tesla&#8217;s board of directors regarding the lack of independence from Musk and possible violations of securities laws and exchange rules.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>US Senator Elizabeth Warren requests SEC to investigate Tesla&#8217;s connection to Twitter, raising concerns about conflicts of interest and possible violations of securities laws.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1141.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png" alt="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report" class="wp-image-203461" width="973" height="957" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1141-300x295.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1141-768x756.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1141-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-1141-750x738.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1141-1140x1122.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1141.png 1392w" sizes="(max-width: 973px) 100vw, 973px" title="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report 7"></a><figcaption class="wp-element-caption">Source: <a href="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" target="_blank" data-type="URL" data-id="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" rel="noreferrer noopener">Watcher.Guru</a></figcaption></figure></div>
+
+
+<p>US Senator Elizabeth Warren has sent a letter to the US Securities and Exchange Commission (SEC) to request an investigation into Elon Musk&#8217;s Tesla&#8217;s connection to Twitter. The letter raises concerns over potential conflicts of interest, misappropriation of corporate assets, and negative impacts to Tesla shareholders. Warren specifically calls for a probe into Tesla&#8217;s board of directors regarding the lack of independence from Musk and possible violations of securities laws and exchange rules.</p>
+
+
+
+<p>The nine-page letter was sent on Monday to SEC chair Gary Gensler. Warren&#8217;s concerns echo similar ones she expressed to Tesla Chair Robyn Denholm in 2022. She notes that the inaction and incomplete disclosures raise questions about possible violations of securities laws and exchange rules, which fall under the SEC&#8217;s jurisdiction.</p>
+
+
+
+<p>Warren expressed concern about Tesla&#8217;s use of employees from Tesla and SpaceX to aid the social media platform, stating that it could represent possible violations of state and federal labor laws. She also stated that Tesla had failed to properly inform shareholders of how the two companies would work in connection.</p>
+
+
+
+<p>Although a new Twitter CEO has been appointed, Warren believes that Musk still maintains control as the CTO and executive chairman of Tesla. Thus, maintaining the conflict of interest.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203459-elizabeth-warren-raises-concerns-over-teslas-use/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-17T231458.939-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
 		<title>Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit</title>
 		<link>https://coincu.com/203450-archblock-founder-claims-justin-sun-secret-tusd/</link>
 		
@@ -66,7 +319,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg" alt="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit" class="wp-image-203455" srcset="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg" alt="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit" class="wp-image-203455" srcset="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>While the cryptocurrency community was taken aback by the revelation, some skeptics argue that the claim comes as no surprise given Sun&#8217;s reputation in the industry.</p>
@@ -83,7 +336,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1139.png"><img decoding="async" loading="lazy" width="1024" height="482" src="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png" alt="image 1139" class="wp-image-203452" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1139-300x141.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1139-768x361.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1139-750x353.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1139.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1139.png"><img decoding="async" loading="lazy" width="1024" height="482" src="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png" alt="image 1139" class="wp-image-203452" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1139-300x141.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1139-768x361.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1139-750x353.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1139.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The lawsuit further accuses Sun of manipulating the cryptocurrency market through his undisclosed acquisition of TUSD. By secretly amassing a significant amount of the stablecoin, Sun would have had the power to influence its value and potentially manipulate other related markets. This revelation, if substantiated, could have far-reaching implications for the entire cryptocurrency ecosystem.</p>
@@ -94,7 +347,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1140.png"><img decoding="async" loading="lazy" width="385" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png" alt="image 1140" class="wp-image-203453" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png 385w, https://coincu.com/wp-content/uploads/2023/07/image-1140-113x300.png 113w, https://coincu.com/wp-content/uploads/2023/07/image-1140.png 546w" sizes="(max-width: 385px) 100vw, 385px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1140.png"><img decoding="async" loading="lazy" width="385" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png" alt="image 1140" class="wp-image-203453" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png 385w, https://coincu.com/wp-content/uploads/2023/07/image-1140-113x300.png 113w, https://coincu.com/wp-content/uploads/2023/07/image-1140.png 546w" sizes="(max-width: 385px) 100vw, 385px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>However, it is important to note that Justin Sun and his legal team have not yet responded to the allegations. Until the evidence is presented and thoroughly examined, it is crucial to approach the situation with caution and maintain a neutral standpoint.</p>
@@ -136,7 +389,7 @@
 
 
 
-<li><em><img decoding="async" src="https://coincu.com/2f365c45-5eb4-4805-888e-05c5574425b6" alt="&#x1f4b0;" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 4">Features include &#8220;better prices&#8221; by aggregating liquidity sources, gas-free swapping, protection against MEV, and no cost for failed transactions.</em></li>
+<li><em><img decoding="async" src="https://coincu.com/2f365c45-5eb4-4805-888e-05c5574425b6" alt="&#x1f4b0;" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 11">Features include &#8220;better prices&#8221; by aggregating liquidity sources, gas-free swapping, protection against MEV, and no cost for failed transactions.</em></li>
 
 
 
@@ -149,7 +402,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png" alt="UniswapX" class="wp-image-203444" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/UniswapX.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png" alt="UniswapX" class="wp-image-203444" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/UniswapX.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>This new protocol has been designed to allow trading across automated market makers (AMMs) and other liquidity sources. The details of this project were released through a press release, while Uniswap Labs CEO, Hayden Adams, was scheduled to make an announcement about it on Monday at the EthCC conference in Paris.</p>
@@ -160,7 +413,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg"><img decoding="async" loading="lazy" width="800" height="800" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg" alt="UniswapX 1" class="wp-image-203445" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-300x300.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-150x150.jpeg 150w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-768x768.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-75x75.jpeg 75w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-350x350.jpeg 350w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-750x750.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg"><img decoding="async" loading="lazy" width="800" height="800" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg" alt="UniswapX 1" class="wp-image-203445" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-300x300.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-150x150.jpeg 150w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-768x768.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-75x75.jpeg 75w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-350x350.jpeg 350w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-750x750.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Uniswap has announced that in the coming months, UniswapX will expand to gas-free cross-chain swaps. UniswapX will initially be launched in &#8220;opt-in beta&#8221; on the Uniswap Labs interface for the main Ethereum network, with plans to expand to other chains and the Uniswap wallet &#8220;in the near future&#8221;. However, the company has not yet announced when a final version of UniswapX will be available.</p>
@@ -171,7 +424,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png"><img decoding="async" loading="lazy" width="800" height="600" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png" alt="UniswapX 2" class="wp-image-203446" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-750x563.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png"><img decoding="async" loading="lazy" width="800" height="600" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png" alt="UniswapX 2" class="wp-image-203446" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-750x563.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Fillers will cover the gas fees on behalf of swappers, which removes the need for swappers to own a blockchain&#8217;s native network token, such as ETH or MATIC, to participate in trading. This also removes any financial responsibility for unsuccessful transactions. According to Uniswap, fillers incorporate gas fees into overall swap prices. They also have the option to reduce transaction costs by aggregating multiple orders, thereby fostering a competitive environment for achieving the most favorable price.</p>
@@ -234,7 +487,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1024x683.webp" alt="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows" class="wp-image-203441" srcset="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1140x760.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small.webp 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows 8"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1024x683.webp" alt="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows" class="wp-image-203441" srcset="https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small-1140x760.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_1708749826_small.webp 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows 15"></a></figure></div>
 
 
 <p>This marks a continuation of a strong trend, with the last four weeks seeing a cumulative inflow of $742 million, the highest since the final quarter of 2021. Bitcoin remains the dominant asset, attracting the majority of inflows, while Ethereum faced outflows despite its recent price appreciation. Let&#8217;s delve into the details of the latest investment trends.</p>
@@ -253,7 +506,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1138.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1138.png" alt="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows" class="wp-image-203442" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1138.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1138-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1138-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1138-750x422.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows 9"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1138.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1138.png" alt="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows" class="wp-image-203442" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1138.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1138-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1138-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1138-750x422.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Dominates As Digital Asset Investment Products Record $742M Inflows 16"></a></figure></div>
 
 
 <p>Trading volumes on investment products remained robust, exceeding the year average of $1.4 billion and reaching $2.3 billion last week. These volumes accounted for a larger proportion of total crypto volumes, representing 11% compared to the average of 2%.</p>
@@ -299,7 +552,7 @@
 
 
 
-<li><em><img decoding="async" src="https://coincu.com/c1831690-e681-40d9-8b2a-a98c8462054b" alt="&#x1f4a5;" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 10">Shockwaves in the industry: XRP&#8217;s triumph over Bitcoin and capture of a fifth of the multi-billion-dollar market in days after being recognized as a nonsecurity sent shockwaves in the industry.</em></li>
+<li><em><img decoding="async" src="https://coincu.com/c1831690-e681-40d9-8b2a-a98c8462054b" alt="&#x1f4a5;" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 17">Shockwaves in the industry: XRP&#8217;s triumph over Bitcoin and capture of a fifth of the multi-billion-dollar market in days after being recognized as a nonsecurity sent shockwaves in the industry.</em></li>
 
 
 
@@ -312,7 +565,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1136.png"><img decoding="async" loading="lazy" width="1024" height="552" src="https://coincu.com/wp-content/uploads/2023/07/image-1136-1024x552.png" alt="image 1136" class="wp-image-203433" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1136-1024x552.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1136-300x162.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1136-768x414.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1136-750x404.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1136-1140x615.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1136.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1136.png"><img decoding="async" loading="lazy" width="1024" height="552" src="https://coincu.com/wp-content/uploads/2023/07/image-1136-1024x552.png" alt="image 1136" class="wp-image-203433" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1136-1024x552.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1136-300x162.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1136-768x414.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1136-750x404.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1136-1140x615.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1136.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>This groundbreaking development is credited to the recent court ruling that declared XRP as a non-security, which sent shockwaves through the industry. According to a report by smart data portal<a href="https://www.kaiko.com/" target="_blank" data-type="URL" data-id="https://www.kaiko.com/" rel="noreferrer noopener"> Kaiko</a>, XRP has been responsible for a staggering 21% of all crypto trade volume since the ruling.</p>
@@ -329,7 +582,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market.jpg"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1024x768.jpg" alt="Bitcoin Overthrown XRP Takes Command Claims 20 of Crypto Market" class="wp-image-203435" srcset="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1024x768.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-300x225.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-768x576.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-750x563.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1140x855.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market.jpg"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1024x768.jpg" alt="Bitcoin Overthrown XRP Takes Command Claims 20 of Crypto Market" class="wp-image-203435" srcset="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1024x768.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-300x225.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-768x576.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-750x563.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market-1140x855.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-Overthrown-XRP-Takes-Command-Claims-20-of-Crypto-Market.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin Overthrown: XRP Takes Command, Claims 20% of Crypto Market 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Just a day before this monumental achievement, based on the same Kaiko data, that XRP had climbed to become the third largest digital asset by trading volume. This upward trend was fueled by investors&#8217; anticipation that the lawsuit would soon be resolved, and their expectations proved accurate.</p>
@@ -372,11 +625,11 @@
 
 
 
-<li><em><img decoding="async" src="https://coincu.com/7fee4046-4f26-4305-8180-6fc9e5bb3f4b" alt="&#x1f4ca;" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 13">Celsius still holds over $180M worth of altcoins, including $106.28M worth of CEL tokens.</em></li>
+<li><em><img decoding="async" src="https://coincu.com/7fee4046-4f26-4305-8180-6fc9e5bb3f4b" alt="&#x1f4ca;" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 20">Celsius still holds over $180M worth of altcoins, including $106.28M worth of CEL tokens.</em></li>
 
 
 
-<li><em><img decoding="async" src="https://coincu.com/e9cdcdc1-1ccb-4799-8ea0-6e3b5b2935ca" alt="&#x1f468;&#x200d;&#x2696;" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 14">Celsius co-founder faces charges from SEC and other regulatory agencies.</em></li>
+<li><em><img decoding="async" src="https://coincu.com/e9cdcdc1-1ccb-4799-8ea0-6e3b5b2935ca" alt="&#x1f468;&#x200d;&#x2696;" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 21">Celsius co-founder faces charges from SEC and other regulatory agencies.</em></li>
 </ul>
 
 
@@ -385,14 +638,14 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX.webp"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1024x577.webp" alt="Celsius FalconX OKX" class="wp-image-203427" srcset="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1024x577.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-768x433.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1536x865.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-750x423.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1140x642.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX.webp 1640w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX.webp"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1024x577.webp" alt="Celsius FalconX OKX" class="wp-image-203427" srcset="https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1024x577.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-768x433.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1536x865.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-750x423.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX-1140x642.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Celsius-FalconX-OKX.webp 1640w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The bulk of the funds were sent to the cryptocurrency brokerage firm, FalconX. The company received $8.46 million worth of Chainlink (LINK), $7.71 million in Synthetix (SNX), and $3.06 million in BNB. In addition, other assets sent to FalconX include $2.1 million worth of 1INCH, $1.87 million in 0x Protocol’s ZRX token, and $718,000 worth of FTX’s native token, FTT.</p>
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1134.png"><img decoding="async" loading="lazy" width="1024" height="381" src="https://coincu.com/wp-content/uploads/2023/07/image-1134-1024x381.png" alt="Celsius Transfers $24M Altcoin Treasure to FalconX, OKX" class="wp-image-203425" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1134-1024x381.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1134-300x112.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1134-768x286.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1134-750x279.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1134-1140x425.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1134.png 1203w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1134.png"><img decoding="async" loading="lazy" width="1024" height="381" src="https://coincu.com/wp-content/uploads/2023/07/image-1134-1024x381.png" alt="Celsius Transfers $24M Altcoin Treasure to FalconX, OKX" class="wp-image-203425" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1134-1024x381.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1134-300x112.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1134-768x286.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1134-750x279.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1134-1140x425.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1134.png 1203w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The bankrupt lender also transferred roughly $235,000 worth of ShibaSwap’s BONE to the OKX exchange. These transactions were corroborated by blockchain investigator Lookonchain, who added that FalconX was depositing the altcoins to Binance. These transactions appear to be the on-chain evidence that the lender is looking to liquidate the digital assets for Bitcoin (BTC) and Ethereum (ETH) in line with its recent court approval.</p>
@@ -403,7 +656,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1135.png"><img decoding="async" loading="lazy" width="1024" height="362" src="https://coincu.com/wp-content/uploads/2023/07/image-1135-1024x362.png" alt="Celsius Transfers $24M Altcoin Treasure to FalconX, OKX" class="wp-image-203426" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1135-1024x362.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1135-300x106.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1135-768x271.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1135-1536x543.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1135-750x265.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1135-1140x403.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1135.png 1828w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1135.png"><img decoding="async" loading="lazy" width="1024" height="362" src="https://coincu.com/wp-content/uploads/2023/07/image-1135-1024x362.png" alt="Celsius Transfers $24M Altcoin Treasure to FalconX, OKX" class="wp-image-203426" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1135-1024x362.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1135-300x106.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1135-768x271.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1135-1536x543.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1135-750x265.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1135-1140x403.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1135.png 1828w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Transfers $24M Altcoin Treasure To FalconX, OKX 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Blockchain analytical firm Kaiko warned on June 10 that Celsius could have trouble liquidating some of its altcoins because of liquidity issues. The firm highlighted how liquidity for CEL is almost non-existent and how the liquidations of other assets could exert pressure on the crypto market.</p>
@@ -464,7 +717,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1689537158523.webp"><img decoding="async" loading="lazy" width="1024" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/1689537158523-1024x1024.webp" alt="DeFi Startup Ethena Raises $6 Million Led By Dragonfly" class="wp-image-203422" srcset="https://coincu.com/wp-content/uploads/2023/07/1689537158523-1024x1024.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-300x300.webp 300w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-150x150.webp 150w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-768x768.webp 768w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-1536x1536.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-75x75.webp 75w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-350x350.webp 350w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-750x750.webp 750w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-1140x1140.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/1689537158523.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi Startup Ethena Raises $6 Million Led By Dragonfly 18"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1689537158523.webp"><img decoding="async" loading="lazy" width="1024" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/1689537158523-1024x1024.webp" alt="DeFi Startup Ethena Raises $6 Million Led By Dragonfly" class="wp-image-203422" srcset="https://coincu.com/wp-content/uploads/2023/07/1689537158523-1024x1024.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-300x300.webp 300w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-150x150.webp 150w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-768x768.webp 768w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-1536x1536.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-75x75.webp 75w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-350x350.webp 350w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-750x750.webp 750w, https://coincu.com/wp-content/uploads/2023/07/1689537158523-1140x1140.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/1689537158523.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi Startup Ethena Raises $6 Million Led By Dragonfly 25"></a></figure></div>
 
 
 <p>Inspired by an article by <a href="https://coincu.com/192844-arthur-hayes-investors-to-join-the-btc/" target="_blank" rel="noreferrer noopener">Arthur Hayes</a>, Ethena aims to create a stablecoin called USDe that is backed by derivatives. The stablecoin will maintain its peg to the US dollar by using collateral from users to hedge price exposure through shorting <a href="https://coincu.com/202925-ethereum-rejects-2000-price-zone/" target="_blank" rel="noreferrer noopener">Ethereum</a> using perpetual swaps. This mechanism, known as &#8220;delta-neutral&#8221; stability, ensures that any gains or losses from Ethereum and perpetual swaps are offset, enabling the stablecoin to maintain a constant peg of $1.</p>
@@ -479,7 +732,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1133.png"><img decoding="async" loading="lazy" width="1000" height="563" src="https://coincu.com/wp-content/uploads/2023/07/image-1133.png" alt="DeFi Startup Ethena Raises $6 Million Led By Dragonfly" class="wp-image-203423" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1133.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-1133-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1133-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1133-750x422.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DeFi Startup Ethena Raises $6 Million Led By Dragonfly 19"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1133.png"><img decoding="async" loading="lazy" width="1000" height="563" src="https://coincu.com/wp-content/uploads/2023/07/image-1133.png" alt="DeFi Startup Ethena Raises $6 Million Led By Dragonfly" class="wp-image-203423" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1133.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-1133-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1133-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1133-750x422.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DeFi Startup Ethena Raises $6 Million Led By Dragonfly 26"></a></figure></div>
 
 
 <p>The project intends to mitigate the risks associated with existing fiat-based stablecoins, such as custodial and regulatory risks shifted onto users. Ethena&#8217;s stablecoin also aims to address issues of overcollateralization and capital efficiency by breaking ties with external banking infrastructure.</p>
@@ -529,7 +782,7 @@
 
 
 
-<li><em><img decoding="async" src="https://coincu.com/8586069e-1bad-4052-9c36-168d7fe8c8f5" alt="&#x1f680;" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 20">Nil Foundation&#8217;s zero-knowledge builder zkLLVM allows developers to use popular coding languages such as C++ to build Ethereum chains and applications.</em></li>
+<li><em><img decoding="async" src="https://coincu.com/8586069e-1bad-4052-9c36-168d7fe8c8f5" alt="&#x1f680;" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 27">Nil Foundation&#8217;s zero-knowledge builder zkLLVM allows developers to use popular coding languages such as C++ to build Ethereum chains and applications.</em></li>
 
 
 
@@ -542,21 +795,21 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1129.png"><img decoding="async" loading="lazy" width="547" height="379" src="https://coincu.com/wp-content/uploads/2023/07/image-1129.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203415" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1129.png 547w, https://coincu.com/wp-content/uploads/2023/07/image-1129-300x208.png 300w" sizes="(max-width: 547px) 100vw, 547px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1129.png"><img decoding="async" loading="lazy" width="547" height="379" src="https://coincu.com/wp-content/uploads/2023/07/image-1129.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203415" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1129.png 547w, https://coincu.com/wp-content/uploads/2023/07/image-1129-300x208.png 300w" sizes="(max-width: 547px) 100vw, 547px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The marketplace will enable developers to use popular coding languages like C++ to build Ethereum chains and applications, bypassing the need to learn new programming languages. The Nil Foundation&#8217;s zero-knowledge builder, zkLLVM, which was unveiled earlier this year, is an essential tool for developers who want to build Ethereum chains and applications without worrying about learning new programming languages. This partnership will enable them to leverage their skills while building a decentralized marketplace for cryptography and outsourced proof generation.</p>
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1130.png"><img decoding="async" loading="lazy" width="225" height="225" src="https://coincu.com/wp-content/uploads/2023/07/image-1130.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203416" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1130.png 225w, https://coincu.com/wp-content/uploads/2023/07/image-1130-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-1130-75x75.png 75w" sizes="(max-width: 225px) 100vw, 225px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1130.png"><img decoding="async" loading="lazy" width="225" height="225" src="https://coincu.com/wp-content/uploads/2023/07/image-1130.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203416" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1130.png 225w, https://coincu.com/wp-content/uploads/2023/07/image-1130-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-1130-75x75.png 75w" sizes="(max-width: 225px) 100vw, 225px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Michael Gao, Fabric CEO, said that cryptography has a problem. Every day, new protocols, coins, and projects emerge, and the public continues to associate blockchain technology with speculation and a lack of real-world application. The partnership between Nil Foundation and Fabric Cryptography aims to overcome this problem by introducing a new marketplace for cryptography and outsourced proof generation. This marketplace will facilitate faster, more scalable, more private, and interoperable zero-knowledge computing and help developers and proof generators to leverage their skills.</p>
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1131.png"><img decoding="async" loading="lazy" width="200" height="200" src="https://coincu.com/wp-content/uploads/2023/07/image-1131.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203417" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1131.png 200w, https://coincu.com/wp-content/uploads/2023/07/image-1131-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-1131-75x75.png 75w" sizes="(max-width: 200px) 100vw, 200px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1131.png"><img decoding="async" loading="lazy" width="200" height="200" src="https://coincu.com/wp-content/uploads/2023/07/image-1131.png" alt="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization" class="wp-image-203417" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1131.png 200w, https://coincu.com/wp-content/uploads/2023/07/image-1131-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-1131-75x75.png 75w" sizes="(max-width: 200px) 100vw, 200px" title="Fabric Cryptography and Nil Foundation Disrupt Centralized Marketplaces with Decentralization 30"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Mikhail Komarov, Nil Foundation&#8217;s founder, believes that developers will appreciate the hardware-accelerated performance of zkLLVM circuits for proving computations. Proof generators can also enjoy enhanced profitability with Fabric&#8217;s VPU on the Proof Market. This partnership will enable developers and proof generators to leverage their skills while building a decentralized marketplace for cryptography and outsourced proof generation. Nil Foundation and Fabric Cryptography hope that this partnership will help to overcome the issues associated with blockchain technology and help to move the industry forward.</p>
@@ -570,249 +823,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-1-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>FSB Empowers G20 with Cutting-Edge Crypto Framework for Financial Transformation</title>
-		<link>https://coincu.com/203404-fsb-empowers-g20-cutting-edge-crypto-framework/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 14:21:12 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Cutting-Edge Crypto Framework]]></category>
-		<category><![CDATA[Financial Stability Board]]></category>
-		<category><![CDATA[Financial Transformation]]></category>
-		<category><![CDATA[FSB]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203404</guid>
-
-					<description><![CDATA[The Financial Stability Board (FSB) has published a set of recommendations for international crypto regulation that will inform the G20 this September. <p class="has-text-align-right"><a href="https://coincu.com/203404-fsb-empowers-g20-cutting-edge-crypto-framework/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The Financial Stability Board (FSB) issues its set of recommendations for international crypto regulation that will inform the G20 this September. The framework seeks to address the risks of crypto to global financial stability.</em></li>
-
-
-
-<li><em>The Financial Stability Board</em> <em> believes that crypto activities must be regulated exactly how their traditional finance counterparts are regulated, regardless of how crypto firms market their products. This includes safeguarding client assets and cracking down on complex corporate structures that lead to conflicts of interest.</em></li>
-
-
-
-<li><em>The FSB stresses the importance of cross-border cooperation in regulating crypto activities, including information sharing and monitoring cross-border issues. </em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The <a href="https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/" target="_blank" data-type="URL" data-id="https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/" rel="noreferrer noopener">Financial Stability Board</a> (FSB) has published a set of recommendations for international crypto regulation that will inform the G20 this September. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-1024x576.jpeg" alt="FSB Global Regulatory Framework for Crypto asset Activities 1" class="wp-image-203408" srcset="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-1.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="FSB Empowers G20 with Cutting-Edge Crypto Framework for Financial Transformation 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The FSB is a global finance regulator that seeks to address the risks of crypto to global financial stability. The recommendations are based on the principle of “same activity, same risk, same regulation.” In essence, the Financial Stability Board believes that crypto activities must be regulated exactly how their traditional finance counterparts are regulated, regardless of how crypto firms market their products.</p>
-
-
-
-<p>To ensure the safeguarding of client assets, the Financial Stability Board recommends that client assets are segregated from a firm’s own assets. The FSB points to national authorities to require that crypto-asset service providers maintain adequate safeguarding of customer assets and protect ownership rights, including in insolvency. This is an important aspect of crypto regulation that can help ensure that clients are not left in the dark when it comes to their own assets.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3.jpg"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-1024x538.jpg" alt="FSB Global Regulatory Framework for Crypto asset Activities 3" class="wp-image-203409" srcset="https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-1024x538.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-300x158.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-768x403.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-750x394.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3-1140x599.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/FSB-Global-Regulatory-Framework-for-Crypto-asset-Activities-3.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="FSB Empowers G20 with Cutting-Edge Crypto Framework for Financial Transformation 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The FSB is concerned about the practice of certain crypto exchanges, such as Binance, that “combine multiple functions.” In traditional finance, certain functions need to be carried out by different entities to avoid fraud. In crypto, it’s common for firms to act as a jack of all trades, which leads to some firms not being transparent about their governance structures. The FSB believes that setting up complex affiliate corporate structures that finance each other leads to “acute conflicts of interest” as well as increases the risk of contagion. To solve this problem, the finance regulator has recommended that crypto exchanges and their affiliates be subject to “legal separation of certain functions” by authorities.</p>
-
-
-
-<p>The FSB has also provided recommendations for ‘global stablecoins’ within the framework. The FSB believes that issuers should safely store and report data, have robust risk management guidelines, and otherwise comply with regulators. The FSB believes that global stablecoin issuers should need official approval before operating in a certain jurisdiction. This is an important aspect of crypto regulation as it can help prevent fraud and other illegal activities.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation.jpg"><img decoding="async" loading="lazy" width="810" height="476" src="https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation.jpg" alt="FSB Empowers G20 with Cutting Edge Crypto Framework for Financial Transformation" class="wp-image-203410" srcset="https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation.jpg 810w, https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation-300x176.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation-768x451.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge-Crypto-Framework-for-Financial-Transformation-750x441.jpg 750w" sizes="(max-width: 810px) 100vw, 810px" title="FSB Empowers G20 with Cutting-Edge Crypto Framework for Financial Transformation 26"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The importance of cross-border cooperation has been stressed by the FSB, as some countries enforce stricter crypto regulations than others. The FSB is vague on how it hopes to achieve this but said that its recommendations “have been strengthened on information sharing, including about the level of compliance of activities spanning multiple jurisdictions, especially those in jurisdictions that have not implemented international standards.”</p>
-
-
-
-<p>The FSB is working together with the IMF to deliver a joint report to the G20 in September. This will combine macroeconomic and monetary issues stemming from crypto (compiled by the IMF) with the FSB’s work on regulation. By the end of 2025, the FSB hopes to conduct a review of how these recommendations have been implemented “at the jurisdictional level.” Until then, the finance regulator will be focusing on ways to improve cross-border coordination. This includes engaging with more jurisdictions to get them onboard and monitoring cross-border issues in crypto as they occur.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203404-fsb-empowers-g20-cutting-edge-crypto-framework/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/FSB-Empowers-G20-with-Cutting-Edge--1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Circle&#8217;s USDC Suffers $100M Loss As USDT Dominates Market</title>
-		<link>https://coincu.com/203389-circles-usdc-suffers-100m-loss-as-usdt-dominates/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 14:06:28 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Circle]]></category>
-		<category><![CDATA[USDT]]></category>
-		<category><![CDATA[USDT Dominates]]></category>
-		<category><![CDATA[USDT Dominates Market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203389</guid>
-
-					<description><![CDATA[USDC is currently facing a series of declines, which is causing concerns about its ability to maintain its position. <p class="has-text-align-right"><a href="https://coincu.com/203389-circles-usdc-suffers-100m-loss-as-usdt-dominates/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>USDC supply is decreasing as redemptions soar to $1.4 billion in a week, leading to concerns about its resilience and future standing.</em></li>
-
-
-
-<li><img decoding="async" src="https://coincu.com/3df62f4f-e925-45ce-968a-a988f12b9672" alt="&#x1f4ca;" title="Circle&#039;s USDC Suffers $100M Loss As USDT Dominates Market 27"><em>Over the past year, Tether has consolidated its leading position, with a surge of approximately $17.8 billion in USDT circulation.</em></li>
-
-
-
-<li><em><img decoding="async" src="https://coincu.com/37998de6-35b7-480f-a73a-9f2ab41ee1aa" alt="&#x1f4c8;" title="Circle&#039;s USDC Suffers $100M Loss As USDT Dominates Market 28">Tether&#8217;s dominance has substantially grown, currently standing at over 7%, while USDC&#8217;s market dominance has dipped below 5% and presently hovering around 2.3%.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>USDC is currently facing a series of declines, which is causing concerns about its ability to maintain its position. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market.jpg"><img decoding="async" loading="lazy" width="810" height="524" src="https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market.jpg" alt="Circles USDC Suffers 100M Loss As USDT Dominates Market" class="wp-image-203394" srcset="https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market.jpg 810w, https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market-300x194.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market-768x497.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss-As-USDT-Dominates-Market-750x485.jpg 750w" sizes="(max-width: 810px) 100vw, 810px" title="Circle&#039;s USDC Suffers $100M Loss As USDT Dominates Market 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The recent developments surrounding Circle&#8217;s USDC stablecoin have brought to light a significant decrease of approximately $100 million in its circulating supply over the past week. This downward trajectory has persisted for a year, and it has resulted in a substantial reduction of approximately $28 billion in USDC&#8217;s market capitalization.</p>
-
-
-
-<p>Although the reduction in USDC circulation during the previous week is striking, it is not an isolated event. Over the past month, a significant $4.6 billion has been redeemed, while a comparatively lower $3.6 billion in new stablecoins has been issued. These developments prompt questions about the stablecoin&#8217;s resilience and raise doubts about its future standing.</p>
-
-
-
-<p>One of the primary reasons for this decline is the surge in USD Coin redemptions, which reached a substantial $1.4 billion within a seven-day period, as reported by Circle. This trend has been going on for a while, and it raises concerns about the stablecoin&#8217;s ability to maintain its peg to the US dollar.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1123.png"><img decoding="async" loading="lazy" width="850" height="478" src="https://coincu.com/wp-content/uploads/2023/07/image-1123.png" alt="image 1123" class="wp-image-203390" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1123.png 850w, https://coincu.com/wp-content/uploads/2023/07/image-1123-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1123-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1123-750x422.png 750w" sizes="(max-width: 850px) 100vw, 850px" title="Circle&#039;s USDC Suffers $100M Loss As USDT Dominates Market 30"></a><figcaption class="wp-element-caption"> <em>USDC Circulating Supply. Source: <a href="https://glassnode.com/" target="_blank" rel="noreferrer noopener">Glassnode</a></em></figcaption></figure></div>
-
-
-<p>In March alone, the supply of USDC experienced a contraction of $10 billion, primarily due to investor concerns regarding Circle&#8217;s exposure to a Silicon Valley bank, which triggered a temporary disruption in the stablecoin&#8217;s peg to the US dollar. Although the disruption was short-lived and USDC&#8217;s value temporarily dropped to $0.97, the subsequent loss in market share has endured.</p>
-
-
-
-<p>While the supply of USDC has been diminishing, its primary competitor Tether has been making significant strides over the past year, consolidating its leading position. On-chain data indicates an impressive surge of approximately $17.8 billion in USDT circulation throughout the past year, with the majority of this growth occurring in 2023. Moreover, in the same week that USD Coin&#8217;s supply decreased by $100 million, the total amount of USDT in circulation expanded by $22 million.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1124.png"><img decoding="async" loading="lazy" width="850" height="478" src="https://coincu.com/wp-content/uploads/2023/07/image-1124.png" alt="image 1124" class="wp-image-203391" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1124.png 850w, https://coincu.com/wp-content/uploads/2023/07/image-1124-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1124-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1124-750x422.png 750w" sizes="(max-width: 850px) 100vw, 850px" title="Circle&#039;s USDC Suffers $100M Loss As USDT Dominates Market 31"></a><figcaption class="wp-element-caption"><em>USDT Circulating Supply. Source: <a href="https://glassnode.com/" target="_blank" rel="noreferrer noopener">Glassnode</a></em></figcaption></figure></div>
-
-
-<p>USDT&#8217;s dominance has witnessed substantial growth in recent months, currently standing at over 7%. Over the course of the past year, Tether&#8217;s supply as a percentage of the total market capitalization has consistently surpassed 8%. In contrast, USDC&#8217;s market dominance dipped below 5% in January and has not recovered since, presently hovering around 2.3%.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203389-circles-usdc-suffers-100m-loss-as-usdt-dominates/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Circles-USDC-Suffers-100M-Loss--1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Lens Protocol Announces V2 Release With Web3 Experience Supports</title>
-		<link>https://coincu.com/203388-lens-protocol-announces-v2-release/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 14:04:58 +0000</pubDate>
-				<category><![CDATA[Web 3]]></category>
-		<category><![CDATA[ERC-20]]></category>
-		<category><![CDATA[ERC-6551]]></category>
-		<category><![CDATA[Lens Protocol]]></category>
-		<category><![CDATA[Lens Protocol V2]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Open Actions]]></category>
-		<category><![CDATA[Web3]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203388</guid>
-
-					<description><![CDATA[Lens Protocol introduces V2 release, bringing greater control and flexibility to developers and integrators.<p class="has-text-align-right"><a href="https://coincu.com/203388-lens-protocol-announces-v2-release/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Lens Protocol introduces V2 release, bringing greater control and flexibility to developers and integrators.</em></li>
-
-
-
-<li><em>Open Actions enable external smart contract actions on Lens publications, including cross-chain actions with oracle support.</em></li>
-
-
-
-<li><em>V2 features enhanced composability, improved profile security and introduces native Quoted Publications for increased engagement.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Lens Protocol, a well-regarded blockchain project in the developer community, has <a href="https://mirror.xyz/lensprotocol.eth/-hJH-2IYSe56rK7IEdwSI17hUWt-paTyAs1r4Zes0uQ" target="_blank" rel="noreferrer noopener">made</a> a significant announcement regarding the release of Lens Protocol V2. This latest version brings even greater control and flexibility to builders, integrators, and individuals exploring web3-powered experiences.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1125.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-1125-1024x512.png" alt="Lens Protocol Announces V2 Release With Web3 Experience Supports" class="wp-image-203393" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1125-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1125-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1125-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1125-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-1125-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1125-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1125.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lens Protocol Announces V2 Release With Web3 Experience Supports 32"></a></figure></div>
-
-
-<p>Lens Protocol V1, launched without a user interface, served as a catalyst for creativity, inspiring the development of community-built social media applications like Lenster, Orb, Buttrfly, and others. Building on this success, Lens Protocol V2 introduces several notable features and enhancements that aim to expand the protocol&#8217;s capabilities and further bridge the gap between self-custodial crypto wallets and traditional payment methods.</p>
-
-
-
-<p>One of the key advancements in V2 is the introduction of Open Actions, which allows users and developers to enable any external smart contract action on a Lens publication. This feature empowers users to bring their own smart contracts, including those from different blockchains, and integrate them seamlessly with <a href="https://coincu.com/193278-lens-protocol-raises-15-million/" target="_blank" rel="noreferrer noopener">Lens</a>. For instance, users can perform actions such as minting NFTs directly on Lens, buying and selling ERC-20 tokens or NFTs, joining decentralized autonomous organizations (DAOs), and even making donations using Gitcoin.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-1024x576.jpeg" alt="Lens Protocol Announces V2 Release With Web3 Experience Supports" class="wp-image-203397" srcset="https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-1536x864.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-2048x1152.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/F1Oo0TaaUAAeHLj-1140x641.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lens Protocol Announces V2 Release With Web3 Experience Supports 33"></a></figure></div>
-
-
-<p>Furthermore, V2 expands the scope of Open Actions to include cross-chain actions with oracle support. This means that users can execute actions on multiple chains, including Ethereum and layer 2 solutions. By enabling cross-chain interactions, Lens Protocol opens up new possibilities for users to leverage their self-custodial assets across different blockchain networks.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1126.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1126-1024x576.png" alt="Lens Protocol Announces V2 Release With Web3 Experience Supports" class="wp-image-203395" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1126-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1126-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1126-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1126-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1126-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1126-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1126-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lens Protocol Announces V2 Release With Web3 Experience Supports 34"></a></figure></div>
-
-
-<p>In addition to Open Actions, Lens Protocol V2 reintroduces the power of composability through the integration of profiles with the ERC-6551 token standard. This enhancement enables the value generated from &#8220;mints&#8221; and &#8220;collects&#8221; to be accrued to profiles rather than solely to the owner&#8217;s address. This feature gives NFTs their own social relationships, voice, and monetization opportunities. For instance, a CryptoKitty can own a <a href="https://coincu.com/203038-lens-protocol-profiles-nft-drops/" target="_blank" rel="noreferrer noopener">Lens profile</a>, follow other CryptoKitties, and publish content, creating a unique value chain for the NFT and its associated profile.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1127-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1127-1024x576.png" alt="Lens Protocol Announces V2 Release With Web3 Experience Supports" class="wp-image-203398" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1127-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1127-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1127-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1127-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1127-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1127-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1127-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lens Protocol Announces V2 Release With Web3 Experience Supports 35"></a></figure></div>
-
-
-<p>V2 also brings improvements to the following architecture, transitioning from a relationship between a profile and a wallet to a relationship between profiles themselves. This change means that all social actions, such as following, occur directly between profiles. Moreover, users can now transfer their handles without transferring their profiles, thanks to the introduction of Open Namespaces. This feature tokenizes both handles and profiles as NFTs, allowing for easy handle transfers while retaining ownership of the associated profile.</p>
-
-
-
-<p>Lens Protocol V2 prioritizes security enhancements as well. The Profile Guardian, introduced through LIP-4, strengthens profile security and mitigates the risk of phishing profile takeovers. Additionally, V2 introduces native Quoted Publications, which foster greater engagement and establish a simplified standard for implementation throughout the protocol.</p>
-
-
-
-<p>With these advancements, Lens Protocol aims to expand the overall Web3 community and create a seamless and interconnected ecosystem. By providing support for external smart contract actions, enabling cross-chain compatibility, enhancing profile functionality, and fostering composability, Lens Protocol V2 demonstrates its commitment to empowering developers, integrators, and users to fully leverage the potential of web3-powered experiences.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203388-lens-protocol-announces-v2-release/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1128-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
