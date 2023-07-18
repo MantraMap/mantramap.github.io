@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Tue, 18 Jul 2023 02:51:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2023 03:13:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,164 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neon EVM Now Supports Ethereum Applications On Solana Blockchain</title>
+		<link>https://coincu.com/203512-neon-evm-now-supports-ethereum-on-solana/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 03:13:29 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[dApp]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[EVM]]></category>
+		<category><![CDATA[Neon evm]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203512</guid>
+
+					<description><![CDATA[Neon Labs has launched the Neon EVM, allowing developers to write Ethereum applications on the Solana blockchain.<p class="has-text-align-right"><a href="https://coincu.com/203512-neon-evm-now-supports-ethereum-on-solana/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Neon Labs has launched the Neon EVM, allowing developers to write Ethereum applications on the Solana blockchain.</em></li>
+
+
+
+<li><em>Neon EVM enables the deployment of Ethereum Virtual Machine (EVM) code on Solana, bridging the gap between Ethereum and Solana&#8217;s computing models.</em></li>
+
+
+
+<li><em>This integration offers cost-effectiveness and efficiency by leveraging Solana&#8217;s high throughput capabilities, reducing transaction costs for Ethereum dApps.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong><a href="https://coincu.com/151205-neon-labs-begins-the-transition-to-mainnet/" target="_blank" rel="noreferrer noopener">Neon Labs</a>, a blockchain developer, has <a href="https://twitter.com/Neon_EVM/status/1681013436593979395" target="_blank" rel="noreferrer noopener">introduced</a> the Neon EVM, a computing environment that allows developers to write Ethereum applications on top of the Solana blockchain.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1165-1024x576.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1165-1024x576.png" alt="Neon EVM Now Supports Ethereum Applications On Solana Blockchain" class="wp-image-203532" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1165-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1165-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1165-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1165-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1165-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1165.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Neon EVM Now Supports Ethereum Applications On Solana Blockchain 1"></a></figure></div>
+
+
+<p>This innovative solution enables the deployment of <a href="https://coincu.com/140343-neon-labs-plans-to-release-evm/" target="_blank" rel="noreferrer noopener">Ethereum Virtual Machine (EVM)</a> code on Solana, a feat that was previously not possible. Neon EVM aims to integrate seamlessly with Solana&#8217;s high throughput capabilities, offering developers the opportunity to leverage the native functionality of Solana and reduce operational costs.</p>
+
+
+
+<p>The Neon EVM smart contract, built on Solana&#8217;s blockchain, processes wrapped Ethereum transactions, combining the robustness of Ethereum&#8217;s decentralized application (dApp) environment with Solana&#8217;s highly efficient infrastructure. Developers can now deploy Ethereum dApps directly on the <a href="https://coincu.com/202186-solana-is-now-out-of-bear-price-zone/" target="_blank" rel="noreferrer noopener">Solana</a> network, benefiting from Solana&#8217;s technical capabilities with minimal code adjustments.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1167.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1167-1024x576.png" alt="Neon EVM Now Supports Ethereum Applications On Solana Blockchain" class="wp-image-203534" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1167-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1167-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1167-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1167-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1167-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1167.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Neon EVM Now Supports Ethereum Applications On Solana Blockchain 2"></a></figure></div>
+
+
+<p>Traditionally, achieving cost-effectiveness for Ethereum Virtual Machine dApps involved using rollups or sidechains. The introduction of Neon EVM on Solana presents a layer 2 alternative, enabling significant savings in transaction costs.</p>
+
+
+
+<p>While Ethereum&#8217;s average transaction fee is around $2, using layer 2 solutions can bring costs down to $0.5-$0.1. In contrast, Solana boasts an average transaction fee of just 0.00001 SOL (~$0.0002) per transaction, offering remarkable savings of 10,000x. The effectiveness of Neon EVM has been validated through early Devnet tests.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1168.png"><img decoding="async" loading="lazy" width="1024" height="618" src="https://coincu.com/wp-content/uploads/2023/07/image-1168-1024x618.png" alt="Neon EVM Now Supports Ethereum Applications On Solana Blockchain" class="wp-image-203535" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1168-1024x618.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1168-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1168-768x464.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1168-1536x927.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1168-2048x1236.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1168-750x453.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1168-1140x688.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Neon EVM Now Supports Ethereum Applications On Solana Blockchain 3"></a></figure></div>
+
+
+<p>Marina Guryeva, director of Neon Foundation, expressed excitement about the launch on the Solana Mainnet. The development team is currently conducting extensive tests and will present real-world data to showcase the potential of this solution.</p>
+
+
+
+<p>Additionally, the launch has facilitated the establishment of the Neon Decentralized Autonomous Organization (DAO), a community that will play a pivotal role in shaping the future of the Neon EVM project.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203512-neon-evm-now-supports-ethereum-on-solana/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1166-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>SAI.TECH Ignites HEATNUC&#8217;s SMR Vision for Clean Power</title>
+		<link>https://coincu.com/203515-sai-tech-ignites-heatnucs-smr-vision-clean-power/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 02:52:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin mining company]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203515</guid>
+
+					<description><![CDATA[Bitcoin mining company SAI made a groundbreaking announcement today, revealing that its subsidiary, HEATNUC, has successfully secured seed round financing. <p class="has-text-align-right"><a href="https://coincu.com/203515-sai-tech-ignites-heatnucs-smr-vision-clean-power/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Bitcoin mining company SAI&#8217;s subsidiary, HEATNUC, has secured seed round financing for developing third-generation modular nuclear reactors and fourth-generation small modular reactors (SMRs).</em></li>
+
+
+
+<li><em>The company&#8217;s focus on modular nuclear reactors marks a significant step toward sustainable energy. These reactors provide reliable electricity with a smaller carbon footprint, and their development aligns with the global shift towards sustainable practices.</em></li>
+
+
+
+<li><em>By incorporating nuclear power, SAI aims to revolutionize the energy-intensive process of Bitcoin mining, ensuring a greener future for the cryptocurrency industry.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Bitcoin mining company <a href="https://sai.tech/" target="_blank" data-type="URL" data-id="https://sai.tech/" rel="noreferrer noopener">SAI</a> made a groundbreaking announcement today, revealing that its subsidiary, HEATNUC, has successfully secured seed round financing. </strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power.png"><img decoding="async" loading="lazy" width="574" height="572" src="https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power.png" alt="SAI.TECH Ignites HEATNUCs SMR Vision for Clean Power" class="wp-image-203520" srcset="https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power.png 574w, https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-Vision-for-Clean-Power-350x350.png 350w" sizes="(max-width: 574px) 100vw, 574px" title="SAI.TECH Ignites HEATNUC&#039;s SMR Vision for Clean Power 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The funds will be utilized to spearhead the development of third-generation modular nuclear reactors, while also strategically planning for fourth-generation small modular reactors (SMRs). This ambitious endeavor aims to address the long-term demand for stable and clean power resources.</p>
+
+
+
+<p>HEATNUC&#8217;s focus on modular nuclear reactors marks a significant step forward in the field of sustainable energy. By harnessing the power of nuclear technology, these reactors can provide a reliable source of electricity while minimizing the carbon footprint associated with traditional energy generation methods. This development comes at a crucial time when industries worldwide are increasingly prioritizing sustainable practices.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company-.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company--1024x683.jpeg" alt="Bitcoin mining company" class="wp-image-203521" srcset="https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company--1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company--300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company--768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company--750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Bitcoin-mining-company-.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="SAI.TECH Ignites HEATNUC&#039;s SMR Vision for Clean Power 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>SAI recognizes the immense potential of cryptocurrencies like Bitcoin, as well as the environmental concerns associated with their mining. By embracing nuclear power, the company aims to revolutionize the energy-intensive process of Bitcoin mining. The utilization of modular reactors will enhance the overall efficiency and sustainability of the mining operations, ensuring a greener future for the cryptocurrency industry.</p>
+
+
+
+<p>Moreover, HEATNUC&#8217;s strategic planning for fourth-generation SMRs showcases their commitment to continuous innovation. These advanced reactors offer improved safety features, enhanced efficiency, and greater flexibility compared to previous generations. By incorporating SMRs into their long-term vision, SAI aims to position itself as a pioneer in the adoption of cutting-edge nuclear technologies.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1164.png"><img decoding="async" loading="lazy" width="1024" height="799" src="https://coincu.com/wp-content/uploads/2023/07/image-1164-1024x799.png" alt="image 1164" class="wp-image-203524" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1164-1024x799.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1164-300x234.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1164-768x599.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1164-750x585.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1164-1140x889.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1164.png 1168w" sizes="(max-width: 1024px) 100vw, 1024px" title="SAI.TECH Ignites HEATNUC&#039;s SMR Vision for Clean Power 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The successful seed round financing is expected to bolster HEATNUC&#8217;s research and development efforts, enabling them to accelerate the deployment of their modular nuclear reactors. The company plans to collaborate with leading experts in the field and leverage their expertise to optimize the design and functionality of these reactors.</p>
+
+
+
+<p>SAI&#8217;s commitment to sustainable energy aligns with the global shift towards a greener and more environmentally conscious future. By investing in nuclear power, the company not only strives to meet the increasing demand for clean energy but also demonstrates its dedication to reducing the ecological impact of Bitcoin mining.</p>
+
+
+
+<p>As HEATNUC advances its research and development, the world eagerly anticipates the implementation of these innovative nuclear reactors. With their potential to transform the Bitcoin mining industry and contribute to a more sustainable energy landscape, HEATNUC&#8217;s endeavors have the power to reshape the way we think about cryptocurrencies and environmental responsibility.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203515-sai-tech-ignites-heatnucs-smr-vision-clean-power/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/SAI.TECH-Ignites-HEATNUCs-SMR-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit</title>
 		<link>https://coincu.com/203514-binance-terminates-sponsorship-with-argentina/</link>
 		
@@ -69,7 +227,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1161.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1161-1024x576.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203516" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1161-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1161-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1161-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1161-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1161-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1161.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 1"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1161.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1161-1024x576.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203516" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1161-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1161-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1161-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1161-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1161-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1161.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 7"></a></figure></div>
 
 
 <p>The sponsorship agreement between the exchange and Argentina was signed in early 2022 for a period of five years. The exact value of the agreement was not disclosed. As part of the deal, Binance&#8217;s logo was set to appear on the team&#8217;s training jerseys and stadiums during friendlies featuring Argentina.</p>
@@ -86,7 +244,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1162.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-1162-1024x768.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203518" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1162-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1162-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1162-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1162-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1162-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1162.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 2"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1162.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-1162-1024x768.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203518" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1162-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1162-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1162-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1162-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1162-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1162.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 8"></a></figure></div>
 
 
 <p>This termination of sponsorship comes at a challenging time for Binance. The exchange has faced regulatory and legal challenges globally, resulting in <a href="https://coincu.com/202996-binance-fired-1000-people-report/" target="_blank" rel="noreferrer noopener">recent layoffs</a> of over 1,000 employees. The <a href="https://coincu.com/203495-binance-cuts-benefits-and-employees/" target="_blank" rel="noreferrer noopener">declining profits</a> of the company have also led to the cessation of certain employee benefits.</p>
@@ -101,7 +259,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1163.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1163.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203519" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1163.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1163-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1163-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1163-750x500.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 3"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1163.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1163.png" alt="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit" class="wp-image-203519" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1163.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1163-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1163-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1163-750x500.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Terminates Sponsorship Deal With Argentina Amid Falling Profit 9"></a></figure></div>
 
 
 <p>These developments have impacted the exchange&#8217;s market share, particularly in the US, where its <a href="https://coincu.com/197963-binanceus-lost-as-judge-rejects-its-accusations/" target="_blank" rel="noreferrer noopener">Binance.US</a> platform has lost a banking partner, limiting its ability to handle USD transactions. The exchange has also reportedly laid off a significant number of employees, although Binance CEO Changpeng Zhao has disputed the accuracy of the reported figures.</p>
@@ -159,7 +317,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1158.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1158-1024x576.png" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203507" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1158-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1158-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1158-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1158-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1158-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1158.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 4"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1158.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1158-1024x576.png" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203507" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1158-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1158-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1158-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1158-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1158-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1158.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 10"></a></figure></div>
 
 
 <p>As Coincu <a href="https://coincu.com/202996-binance-fired-1000-people-report/" target="_blank" rel="noreferrer noopener">reported</a>, the company recently made headlines for laying off over 1,000 employees, and now it has been revealed that Binance is also reducing employee benefits as part of its cost-cutting measures.</p>
@@ -174,7 +332,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1024x683.jpg" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203509" srcset="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-768x513.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1140x761.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 5"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1024x683.jpg" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203509" srcset="https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-768x513.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1-1140x761.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/sec-building-photo-via-cbs-news-1575973250383720490692-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 11"></a></figure></div>
 
 
 <p>During a company meeting on its sixth anniversary, Binance CEO Changpeng Zhao, also known as CZ, <a href="https://twitter.com/cz_binance/status/1679951762906595330" target="_blank" rel="noreferrer noopener">assured</a> employees that the exchange remains profitable and has not been impacted by the SEC lawsuit. However, he cautioned that additional layoffs could occur every three to six months, and he expressed uncertainty about when the cut benefits would be reinstated.</p>
@@ -185,7 +343,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203510" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1160-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1160-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1160-750x499.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1160-1140x759.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1160.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 6"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png" alt="Binance Cuts Benefits Of Employees Amid Regulatory Challenge" class="wp-image-203510" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1160-1024x682.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1160-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1160-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1160-750x499.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1160-1140x759.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1160.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Cuts Benefits Of Employees Amid Regulatory Challenge 12"></a></figure></div>
 
 
 <p>Binance&#8217;s regulatory struggles have not been limited to the United States. The exchange has faced challenges in Europe, leading to its exit from certain markets due to regulatory hurdles. These issues have contributed to a decline in Binance&#8217;s market dominance and raised questions about its ability to navigate the evolving regulatory landscape.</p>
@@ -244,7 +402,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-4.jpg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1024x682.jpg" alt="1x 1 4" class="wp-image-203499" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1024x682.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 7"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-4.jpg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1024x682.jpg" alt="1x 1 4" class="wp-image-203499" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1024x682.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/1x-1-4.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 13"></a></figure></div>
 
 
 <p>Last week, Ripple <a href="https://coincu.com/202599-ripple-wins-against-sec/" target="_blank" rel="noreferrer noopener">achieved</a> a partial victory as the court ruled that institutional sales of the XRP tokens violated federal securities laws, while sales on exchanges and programmatic sales did not qualify as the sale of securities. The ruling was based on the SEC&#8217;s inability to establish that speculative investors had a reasonable expectation of profits from the efforts of others.</p>
@@ -263,7 +421,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1157.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1157-1024x576.png" alt="image 1157" class="wp-image-203501" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1157-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1157-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1157-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1157-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1157-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1157-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1157.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 8"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1157.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1157-1024x576.png" alt="image 1157" class="wp-image-203501" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1157-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1157-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1157-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1157-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1157-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1157-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1157.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 14"></a></figure></div>
 
 
 <p>When questioned about the SEC&#8217;s regulatory approach, Gensler highlighted that the SEC has engaged in rulemaking, including notice and comment rulemaking and special purpose broker-dealer licensing. He also acknowledged the existence of the European Union&#8217;s Markets in Crypto Assets (MiCA) regulatory framework, which emphasizes rulemaking.</p>
@@ -274,7 +432,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png" alt="image 1156" class="wp-image-203500" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1156-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1156-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1156-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1156-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1156.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 9"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png" alt="image 1156" class="wp-image-203500" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1156-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1156-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1156-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1156-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1156-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1156.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gary Gensler Feeling Disappointed About The Court&#039;s Judgment In Ripple Lawsuit 15"></a></figure></div>
 
 
 <p>The ruling&#8217;s nuanced differentiation between private sales to accredited investors and programmatic sales to exchanges has raised concerns among experts, including former SEC official <a href="https://coincu.com/203157-xrp-security-or-not-former-sec-official-reveals/" target="_blank" rel="noreferrer noopener">John Reed Stark</a>. Stark believes the ruling is on &#8220;shaky ground&#8221; and anticipates an appeal. He criticized the ruling&#8217;s potential creation of a new category of &#8220;quasi-securities&#8221; dependent on investor sophistication, deeming it counter-intuitive and inconsistent with SEC case law.</p>
@@ -339,7 +497,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1153.png"><img decoding="async" loading="lazy" width="978" height="733" src="https://coincu.com/wp-content/uploads/2023/07/image-1153.png" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203489" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1153.png 978w, https://coincu.com/wp-content/uploads/2023/07/image-1153-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1153-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1153-750x562.png 750w" sizes="(max-width: 978px) 100vw, 978px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 10"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1153.png"><img decoding="async" loading="lazy" width="978" height="733" src="https://coincu.com/wp-content/uploads/2023/07/image-1153.png" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203489" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1153.png 978w, https://coincu.com/wp-content/uploads/2023/07/image-1153-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1153-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1153-750x562.png 750w" sizes="(max-width: 978px) 100vw, 978px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 16"></a></figure></div>
 
 
 <p>With its platform Customers Bank Instant Token (CBIT), the bank offers 24/7 payments for its crypto clients, similar to Silvergate Capital&#8217;s now-closed Silvergate Exchange Network. The closures of Silvergate and Signature Bank left little competition for Customers Bank, positioning it as a leading player in the market.</p>
@@ -354,7 +512,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203490" srcset="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-2048x1152.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1140x641.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 11"></a><figcaption class="wp-element-caption">Customers Bank CEO Sam Sidhu</figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203490" srcset="https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-2048x1152.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/sam-sidhu-1140x641.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 17"></a><figcaption class="wp-element-caption">Customers Bank CEO Sam Sidhu</figcaption></figure></div>
 
 
 <p>The US regulatory environment surrounding the crypto industry has become more stringent, with increased scrutiny from the US Securities and Exchange Commission (SEC) and warnings from bank industry regulators about the risks of doing business with the crypto sector. As a result, Customers Bank is cautious about openly promoting its crypto business and is focused on managing risk and ensuring regulatory compliance.</p>
@@ -365,7 +523,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1154.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1154-1024x683.png" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203491" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1154-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1154-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1154-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1154-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1154-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1154.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 12"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1154.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1154-1024x683.png" alt="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry" class="wp-image-203491" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1154-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1154-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1154-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1154-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1154-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1154.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" title="Customers Bank Now Emerges As Favorite Banking Partner For US Crypto Industry 18"></a></figure></div>
 
 
 <p>While the bank&#8217;s role as a banking partner for the crypto industry brings attention from regulators, the bank believes it has measures in place to manage risk effectively. It holds CBIT deposits in US currency and spreads large deposits among multiple banks to ensure FDIC coverage for its depositors.</p>
@@ -423,7 +581,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1.jpg"><img decoding="async" loading="lazy" width="1024" height="587" src="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1024x587.jpg" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203481" srcset="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1024x587.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-300x172.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-768x440.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1536x881.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-2048x1174.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-750x430.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1140x654.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 13"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1.jpg"><img decoding="async" loading="lazy" width="1024" height="587" src="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1024x587.jpg" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203481" srcset="https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1024x587.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-300x172.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-768x440.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1536x881.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-2048x1174.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-750x430.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/fca-scaled-1-1140x654.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 19"></a></figure></div>
 
 
 <p>The proposed guidance aims to modernize the information provided by firms when advertising financial products or services online, taking into account the evolving landscape of social media advertising in the financial industry.</p>
@@ -442,7 +600,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1151.png"><img decoding="async" loading="lazy" width="900" height="500" src="https://coincu.com/wp-content/uploads/2023/07/image-1151.png" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203483" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1151.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-1151-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1151-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1151-750x417.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 14"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1151.png"><img decoding="async" loading="lazy" width="900" height="500" src="https://coincu.com/wp-content/uploads/2023/07/image-1151.png" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203483" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1151.png 900w, https://coincu.com/wp-content/uploads/2023/07/image-1151-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1151-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1151-750x417.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 20"></a></figure></div>
 
 
 <p>Starting from October 8, the FCA will implement several measures, including banning incentives for investing in cryptocurrencies such as &#8220;refer a friend&#8221; bonuses. Firms will be required to provide clear risk warnings and introduce a mandatory 24-hour cooling-off period to allow first-time investors sufficient time to make informed investment decisions.</p>
@@ -453,7 +611,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203484" srcset="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 15"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg" alt="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions" class="wp-image-203484" srcset="https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/facebook-icon-iStock-1217817947-scaled-e1627623376195.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Financial Conduct Authority Plans To Strengthen Regulations On Crypto Promotions 21"></a></figure></div>
 
 
 <p>The consultation on the new social media guidance will be conducted over the next eight weeks. This initiative aligns with the FCA&#8217;s commitment to reducing harm and establishing higher standards within the financial industry.</p>
@@ -516,7 +674,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1147.png"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203475" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1147-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1147-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1536x865.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1147-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1147.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 16"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1147.png"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203475" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1147-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1147-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1147-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1536x865.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1147-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1147-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1147.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 22"></a></figure></div>
 
 
 <p>The protocol, <a href="https://blog.chain.link/ccip-mainnet-early-access/" target="_blank" rel="noreferrer noopener">designed</a> to facilitate cross-chain applications and services, has been tested by partners such as Aave and Synthetix and is now transitioning to mainnet general availability.</p>
@@ -531,7 +689,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1148.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203476" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1148-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1148-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1148-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1148-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1148.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 17"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1148.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203476" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1148-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1148-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1148-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1148-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1148-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1148.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 23"></a></figure></div>
 
 
 <p>The protocol offers simplified and programmable token transfers, making it easier for tokens to be securely transferred and managed across different chains. Simplified Token Transfers provide a plug-and-play solution with audited token pool contracts, handling tasks such as burning, minting, locking, and unlocking tokens across chains while ensuring token sponsors retain control over their Token Pool contract. This enhances the security and composability of native tokens within protocols.</p>
@@ -550,7 +708,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1149.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203477" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1149-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1149-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1149-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1149-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 18"></a><figcaption class="wp-element-caption">CCIP enables Synthetix to securely transfer tokens across different blockchains through a burn-and-mint model. <em>Source: Chainlink</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1149.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png" alt="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction" class="wp-image-203477" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1149-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1149-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1149-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1149-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1149-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1149-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chainlink&#039;s New Protocol Is Now Live For Seamless Blockchain Interaction 24"></a><figcaption class="wp-element-caption">CCIP enables Synthetix to securely transfer tokens across different blockchains through a burn-and-mint model. <em>Source: Chainlink</em></figcaption></figure></div>
 
 
 <p>As CCIP moves towards wider adoption, Chainlink is actively working on payment models to support the monetization and long-term sustainability of its services. These models aim to reduce payment friction for users and provide a greater amount of fees to support Chainlink&#8217;s service providers. Additionally, as Chainlink Staking expands, a portion of user fees for services like CCIP will be directed to stakers, enhancing the crypto-economic security of the network.</p>
@@ -613,7 +771,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1144.png"><img decoding="async" loading="lazy" width="1024" height="558" src="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203465" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1144-300x164.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1144-768x419.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1144-750x409.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1144.png 1040w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 19"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1144.png"><img decoding="async" loading="lazy" width="1024" height="558" src="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203465" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1144-1024x558.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1144-300x164.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1144-768x419.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1144-750x409.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1144.png 1040w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 25"></a></figure></div>
 
 
 <p>ZachXBT, a renowned online detective with a large Twitter following, has unveiled the alleged activities of a Canadian scammer known as &#8220;Soup.&#8221; In a series of tweets, he accuses Soup of playing a key role in stealing millions of dollars in assets through fake Discord servers and phishing tactics.</p>
@@ -630,14 +788,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1142.png"><img decoding="async" loading="lazy" width="1024" height="720" src="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203462" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1142-300x211.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1142-768x540.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1142-750x527.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1142-1140x802.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1142.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 20"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1142.png"><img decoding="async" loading="lazy" width="1024" height="720" src="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203462" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1142-1024x720.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1142-300x211.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1142-768x540.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1142-750x527.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1142-1140x802.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1142.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 26"></a></figure></div>
 
 
 <p>In May, Pika Protocol&#8217;s Discord server fell victim to a compromise orchestrated by scammers. By posting a malicious link in the server&#8217;s announcements channel, they managed to steal over $220,000. A similar pattern emerged with Orbiter Finance, where scammers used a phishing attack to access a team member&#8217;s Discord token and subsequently siphoned off more than $760,000.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1143.png"><img decoding="async" loading="lazy" width="1024" height="711" src="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203464" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1143-300x208.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1143-768x533.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1143-750x521.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1143-1140x792.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1143.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 21"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1143.png"><img decoding="async" loading="lazy" width="1024" height="711" src="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png" alt="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects" class="wp-image-203464" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1143-1024x711.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1143-300x208.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1143-768x533.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1143-750x521.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1143-1140x792.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1143.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZachXBT Exposes Canadian Scammer For Multi-Million Dollar Theft From Crypto Projects 27"></a></figure></div>
 
 
 <p><a href="https://coincu.com/196353-jeffrey-huang-refuted-zachxbts-allegations/" target="_blank" rel="noreferrer noopener">ZachXBT</a> further alleges that Soup, who inadvertently revealed his wallet address (0x21bc8046245880e9d3ec5ed808048a93518e933a), profited significantly from these illicit activities. Soup reportedly confessed to having made around $1 million, while his partners profited even more. Despite the financial harm inflicted on projects and individuals, Soup appears to show little remorse.</p>
@@ -702,7 +860,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1141.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png" alt="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report" class="wp-image-203461" width="973" height="957" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1141-300x295.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1141-768x756.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1141-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-1141-750x738.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1141-1140x1122.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1141.png 1392w" sizes="(max-width: 973px) 100vw, 973px" title="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report 22"></a><figcaption class="wp-element-caption">Source: <a href="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" target="_blank" data-type="URL" data-id="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" rel="noreferrer noopener">Watcher.Guru</a></figcaption></figure></div>
+<figure class="aligncenter size-large is-resized"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1141.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png" alt="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report" class="wp-image-203461" width="973" height="957" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1141-1024x1008.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1141-300x295.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1141-768x756.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1141-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-1141-750x738.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1141-1140x1122.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1141.png 1392w" sizes="(max-width: 973px) 100vw, 973px" title="Elizabeth Warren Raises Concerns Over Tesla&#039;s Use Of Social Media: Report 28"></a><figcaption class="wp-element-caption">Source: <a href="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" target="_blank" data-type="URL" data-id="https://twitter.com/WatcherGuru/status/1680954502352863234/photo/1" rel="noreferrer noopener">Watcher.Guru</a></figcaption></figure></div>
 
 
 <p>US Senator Elizabeth Warren has sent a letter to the US Securities and Exchange Commission (SEC) to request an investigation into Elon Musk&#8217;s Tesla&#8217;s connection to Twitter. The letter raises concerns over potential conflicts of interest, misappropriation of corporate assets, and negative impacts to Tesla shareholders. Warren specifically calls for a probe into Tesla&#8217;s board of directors regarding the lack of independence from Musk and possible violations of securities laws and exchange rules.</p>
@@ -728,166 +886,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-17T231458.939-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit</title>
-		<link>https://coincu.com/203450-archblock-founder-claims-justin-sun-secret-tusd/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 15:27:18 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Archblock Founder]]></category>
-		<category><![CDATA[Justin sun]]></category>
-		<category><![CDATA[TrueUSD]]></category>
-		<category><![CDATA[TUSD]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203450</guid>
-
-					<description><![CDATA[The founder of Archblock, a prominent blockchain technology company, has filed a lawsuit alleging that Justin Sun, the founder of Tron and CEO of BitTorrent, was the secret acquirer of TrueUSD (TUSD). <p class="has-text-align-right"><a href="https://coincu.com/203450-archblock-founder-claims-justin-sun-secret-tusd/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The founder of Archblock alleges Justin Sun, founder of Tron, secretly acquired TrueUSD stablecoin.</em></li>
-
-
-
-<li><em>Sun is accused of manipulating the crypto market by covertly amassing TUSD, potentially influencing its value and related markets.</em></li>
-
-
-
-<li><em>Allegations raise concerns about Sun&#8217;s transparency and integrity, sparking intense discussions within the crypto community.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The founder of Archblock, a prominent blockchain technology company, has filed a lawsuit alleging that Justin Sun, the founder of Tron and CEO of BitTorrent, was the secret acquirer of TrueUSD (TUSD). </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg" alt="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit" class="wp-image-203455" srcset="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun-Was-Secret-TUSD-Acquirer-In-Lawsuit.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>While the cryptocurrency community was taken aback by the revelation, some skeptics argue that the claim comes as no surprise given Sun&#8217;s reputation in the industry.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer in Lawsuit (Not exactly a shocker) <a href="https://t.co/ybTPmSOmtk" target="_blank">pic.twitter.com/ybTPmSOmtk</a></p>&mdash; db (@tier10k) <a href="https://twitter.com/tier10k/status/1680959101814161409?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 17, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>According to the lawsuit, the founder of <a href="https://www.archblock.com/" target="_blank" data-type="URL" data-id="https://www.archblock.com/" rel="noreferrer noopener">Archblock</a>, whose identity remains undisclosed, asserts that Sun acquired TUSD, a popular stablecoin, through covert means. The lawsuit alleges that Sun utilized various entities and individuals to carry out the acquisition, deliberately concealing his involvement. If proven true, such actions would raise serious concerns about Sun&#8217;s transparency and integrity within the cryptocurrency space.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1139.png"><img decoding="async" loading="lazy" width="1024" height="482" src="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png" alt="image 1139" class="wp-image-203452" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1139-1024x482.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1139-300x141.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1139-768x361.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1139-750x353.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1139.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The lawsuit further accuses Sun of manipulating the cryptocurrency market through his undisclosed acquisition of TUSD. By secretly amassing a significant amount of the stablecoin, Sun would have had the power to influence its value and potentially manipulate other related markets. This revelation, if substantiated, could have far-reaching implications for the entire cryptocurrency ecosystem.</p>
-
-
-
-<p>Although these allegations are yet to be proven in a court of law, they have sparked intense discussions within the crypto community. Many individuals argue that Sun&#8217;s past controversies, including the canceled lunch with Warren Buffett and allegations of plagiarism, have already cast doubt on his credibility. As such, the claims made in the lawsuit do not come as a complete shock to those who have been following his career closely.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1140.png"><img decoding="async" loading="lazy" width="385" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png" alt="image 1140" class="wp-image-203453" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1140-385x1024.png 385w, https://coincu.com/wp-content/uploads/2023/07/image-1140-113x300.png 113w, https://coincu.com/wp-content/uploads/2023/07/image-1140.png 546w" sizes="(max-width: 385px) 100vw, 385px" title="Archblock Founder Claims Justin Sun Was Secret TUSD Acquirer In Lawsuit 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>However, it is important to note that Justin Sun and his legal team have not yet responded to the allegations. Until the evidence is presented and thoroughly examined, it is crucial to approach the situation with caution and maintain a neutral standpoint.</p>
-
-
-
-<p>This lawsuit serves as a reminder of the need for transparency and accountability within the cryptocurrency industry. As the market continues to mature, investors and users alike expect leaders and influencers to uphold the highest ethical standards. Should the allegations against Justin Sun be proven true, it would undoubtedly have a significant impact on his reputation and potentially reshape the way he is perceived within the crypto community.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203450-archblock-founder-claims-justin-sun-secret-tusd/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Archblock-Founder-Claims-Justin-Sun--1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities</title>
-		<link>https://coincu.com/203440-uniswapx-launches-empowering-traders/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 15:16:46 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[AMM Capabilities]]></category>
-		<category><![CDATA[Uniswap]]></category>
-		<category><![CDATA[UniswapX]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203440</guid>
-
-					<description><![CDATA[Uniswap recently announced the launch of a new blockchain protocol called "UniswapX". <p class="has-text-align-right"><a href="https://coincu.com/203440-uniswapx-launches-empowering-traders/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Uniswap launches &#8220;UniswapX&#8221; &#8211; a new blockchain protocol for trading across automated market makers and liquidity sources.</em></li>
-
-
-
-<li><em><img decoding="async" src="https://coincu.com/2f365c45-5eb4-4805-888e-05c5574425b6" alt="&#x1f4b0;" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 26">Features include &#8220;better prices&#8221; by aggregating liquidity sources, gas-free swapping, protection against MEV, and no cost for failed transactions.</em></li>
-
-
-
-<li><em>UniswapX will expand to gas-free cross-chain swaps in the coming months. Fillers cover gas fees, fostering a competitive environment for achieving the most favorable price.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Uniswap recently announced the launch of a new blockchain protocol called &#8220;UniswapX&#8221;. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png" alt="UniswapX" class="wp-image-203444" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/UniswapX.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 27"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>This new protocol has been designed to allow trading across automated market makers (AMMs) and other liquidity sources. The details of this project were released through a press release, while Uniswap Labs CEO, Hayden Adams, was scheduled to make an announcement about it on Monday at the EthCC conference in Paris.</p>
-
-
-
-<p>According to DefiLlama, Uniswap currently has around $3.8 billion of collateral or &#8220;total value locked&#8221;. Uniswap has stated that<a href="https://uniswap.org/" target="_blank" data-type="URL" data-id="https://uniswap.org/" rel="noreferrer noopener"> UniswapX</a> addresses many of the problems that are faced by on-chain trading and self-custody swapping. The features of UniswapX include &#8220;better prices&#8221; through the aggregation of liquidity sources. The press release also claims that UniswapX offers gas-free swapping, protection against maximal extractive value (MEV), and no cost for failed transactions.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg"><img decoding="async" loading="lazy" width="800" height="800" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg" alt="UniswapX 1" class="wp-image-203445" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-1.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-300x300.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-150x150.jpeg 150w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-768x768.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-75x75.jpeg 75w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-350x350.jpeg 350w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-1-750x750.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Uniswap has announced that in the coming months, UniswapX will expand to gas-free cross-chain swaps. UniswapX will initially be launched in &#8220;opt-in beta&#8221; on the Uniswap Labs interface for the main Ethereum network, with plans to expand to other chains and the Uniswap wallet &#8220;in the near future&#8221;. However, the company has not yet announced when a final version of UniswapX will be available.</p>
-
-
-
-<p>Liquidity pools are a lifeline for swappers looking to execute trades on DEXs, but these pools can sometimes dry up. UniswapX aims to solve this problem by engaging with third-party fillers that can fill swaps directly or route users to appropriate AMM pools. These third-party fillers will have to compete with Uniswap itself, which will help to drive down prices for traders.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png"><img decoding="async" loading="lazy" width="800" height="600" src="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png" alt="UniswapX 2" class="wp-image-203446" srcset="https://coincu.com/wp-content/uploads/2023/07/UniswapX-2.png 800w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/UniswapX-2-750x563.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="UniswapX Launches: Empowering Traders with Next-Level Cross-AMM Capabilities 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Fillers will cover the gas fees on behalf of swappers, which removes the need for swappers to own a blockchain&#8217;s native network token, such as ETH or MATIC, to participate in trading. This also removes any financial responsibility for unsuccessful transactions. According to Uniswap, fillers incorporate gas fees into overall swap prices. They also have the option to reduce transaction costs by aggregating multiple orders, thereby fostering a competitive environment for achieving the most favorable price.</p>
-
-
-
-<p>Uniswap has promised that UniswapX will help to thwart MEV – a scheme that is usually loathed by swappers. This is done by allowing network operators to capitalize on their ability to preview queued transactions.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203440-uniswapx-launches-empowering-traders/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/UniswapX-Launches-Empowering-Traders-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
 	</channel>
 </rss>
