@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Tue, 18 Jul 2023 13:10:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2023 13:24:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,39 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Axelar Launches &#8216;Interchain Token Service&#8217; to Enable ERC-20 Interoperability Across Multiple Chains</title>
+		<link>https://cryptopotato.com/axelar-launches-interchain-token-service-to-enable-erc-20-interoperability-across-multiple-chains/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 13:24:19 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=261207</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/BF96E01E-A9E6-4DE2-8D63-1200683FF351_1689623265WmJUCIbIt9.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/BF96E01E-A9E6-4DE2-8D63-1200683FF351_1689623265WmJUCIbIt9.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[PRESS RELEASE &#8211; Paris, France, July 18th, 2023] Sushi to deploy Interchain Tokens, powered by new Axelar product suite delivering cross-chain fungibility and customization.  Axelar, the blockchain interoperability leader, is announcing the launch of Interchain Token Service (ITS), a product suite that extends tokens cross-chain, preserving their native functionality and allowing teams to easily manage [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; Paris, France, July 18th, 2023]</strong></p>
+<p><em><strong>Sushi to deploy Interchain Tokens, powered by new Axelar product suite delivering cross-chain fungibility and customization. </strong></em></p>
+<p class="ql-align-justify"><a href="https://axelar.network/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Axelar</a>, the blockchain interoperability leader, is announcing the launch of <a href="https://axelar.network/its" target="_blank" rel="nofollow noopener" data-wpel-link="external">Interchain Token Service (ITS)</a>, a product suite that extends tokens cross-chain, preserving their native functionality and allowing teams to easily manage supply and features.</p>
+<p class="ql-align-justify">ERC-20 tokens have unlocked powerful interoperability between Ethereum-based applications. In a similar way, Interchain Token Service creates Interchain Tokens that unlock new possibilities for interconnected applications spanning all EVM-compatible ecosystems. Sushi, the popular decentralized exchange (DEX) &amp; automated market maker (AMM), is among the first deployment partners to embrace Interchain Tokens.</p>
+<p class="ql-align-justify">Interchain Token Service delivers:</p>
+<ul>
+<li>Fungibility: Wrapped versions on connected chains are fungible with one another.</li>
+<li>Custom functionality: Custom tokens keep their features, cross-chain.</li>
+<li>Low overhead: Smart contracts and developer tools automate complex developer tasks.</li>
+</ul>
+<p class="ql-align-justify">Sushi will employ Interchain Token Service to give SUSHI, its native token, seamless interoperability across multiple chains. To start, Interchain SUSHI tokens will be interoperable across Arbitrum, Ethereum, Optimism and Polygon. Sushi will manage its multichain deployments with minimal overhead, deploying and updating Interchain Tokens with a single click.</p>
+<p class="ql-align-justify">Traditionally, in order for Web3 applications to reach multiple blockchain ecosystems, they would rely on <a href="https://axelar.network/blog/cross-chain-bridges-benefits-limitations-risks" target="_blank" rel="nofollow noopener" data-wpel-link="external">bridged versions</a> of their tokens: risky, limited in function and nonfungible with each other. <a href="https://axelar.network/blog/blockchain-interoperability-how-to-achieve-it-securely" target="_blank" rel="nofollow noopener" data-wpel-link="external">Alternatively</a>, they may deploy copies of the native token on multiple chains, incurring significant developer overhead. Using the Axelar network&#8217;s full-stack interoperability, Interchain Token Service delivers smart contracts and developer tools that automate away this overhead: developers can manage Interchain Tokens with the click of a button.</p>
+<blockquote><p>&#8220;Axelar&#8217;s Interchain Token Service unlocks a more seamless, interchain experience for Sushi users,&#8221; said Sushi&#8217;s head chef, Jared Grey. &#8220;Currently, there are many bridged versions of $SUSHI – lacking fungibility, carrying bridge risk. With Interchain Tokens, Sushi can achieve true cross-chain interoperability, simply and securely.&#8221;</p></blockquote>
+<blockquote><p>Sergey Gorbunov, co-founder of Axelar, highlighted the significance of Interchain Tokens. &#8220;With Interchain Token Service, we are empowering developers to unlock the full potential of their tokens and extend their reach across multiple chains,&#8221; he said. &#8220;This new extension of Axelar&#8217;s secure and programmable interoperability layer will be the catalyst to a more connected and inclusive blockchain economy.&#8221;</p></blockquote>
+<p class="ql-align-justify">Read more and <a href="https://axelar.network/its" target="_blank" rel="nofollow noopener" data-wpel-link="external">explore the Legend of Interchain</a>. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2 class="ql-align-justify">About Axelar</h2>
+<p class="ql-align-justify">Axelar is the full-stack interoperability layer for Web3. The network enables blockchain as a new kind of development platform, integrating diverse networks into a seamless “Internet of blockchains.” Axelar is programmable and decentralized, secured by a proof-of-stake token, AXL. Application users access any digital asset or application with one click. Developers work with a simple API and access an ecosystem of tools and service providers.</p>
+<h2 class="ql-align-justify">About Sushi</h2>
+<p class="ql-align-justify">Sushi is building a decentralized, comprehensive DeFi ecosystem complete with AMM, cross-chain capabilities, NFT artist platform and more. Follow our socials to keep up with our product launches and find out more on how you can make the most of your cryptocurrency assets with Sushi’s secure and powerful DeFi tools!</p>
+<p>The post <a href="https://cryptopotato.com/axelar-launches-interchain-token-service-to-enable-erc-20-interoperability-across-multiple-chains/" rel="nofollow">Axelar Launches &#8216;Interchain Token Service&#8217; to Enable ERC-20 Interoperability Across Multiple Chains</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Has Ripple (XRP) Won or Will the SEC Appeal: What&#8217;s Next?</title>
 		<link>https://cryptopotato.com/has-ripple-xrp-won-or-will-the-sec-appeal-what-will-happen-next/</link>
 		
@@ -357,34 +390,6 @@
 <blockquote><p><span data-preserver-spaces="true">&#8220;I&#8217;m going to do it before I go and buy myself another car before I go and buy myself another watch before I go and buy myself expensive clothing or anything. I&#8217;m going to live on the bare minimum until every last soul is paid back.&#8221;</span></p></blockquote>
 <p><span data-preserver-spaces="true">On the other hand, Pleterski&#8217;s lawyer claimed that the information from the video should not be taken for granted as his client might have been forced to say those things by his kidnappers. Moreover, the alleged crypto scammer has insisted he is innocent. </span></p>
 <p>The post <a href="https://cryptopotato.com/burned-investor-accused-of-kidnapping-and-assaulting-ontarios-crypto-king-report/" rel="nofollow">Burned Investor Accused of Kidnapping and Assaulting Ontario&#8217;s &#8216;Crypto King&#8217; (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Aave&#8217;s Lens Protocol V2 Introduces New Features to its Web3 Social App</title>
-		<link>https://cryptopotato.com/aaves-lens-protocol-v2-introduces-new-features-to-its-web3-social-app/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 21:01:01 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Aave]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=260952</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/LENS_protocol.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/LENS_protocol.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Lens Protocol's latest version has introduced a blocking feature for its users. ]]></description>
-            																<content:encoded><![CDATA[<p>Aave Companies announced the launch of the second iteration of Lens Protocol on July 17th, designed to serve as a social layer for Web3. The new version aims to bring even greater control to builders and integrators as well as people exploring Web3-powered experiences.</p>
-<p>The first version of Lens Protocol was purposely built and launched without a user interface. The V2, on the other hand, comes with a codebase that&#8217;s entirely rewritten, refactored, and optimized.</p>
-<h2>Lens V2: Spotlight on Monetization</h2>
-<p>The main goal of such a move is to allow easy composability and configurability that delivers an improved user experience, support new social use cases, and shared monetization opportunities that benefit all Web3 social networking stakeholders be it users, creatives, applications, and algorithms, not just individually but collectively as a ecosystem.</p>
-<p>The monetization layer now expands to encompass all Web3 applications and profiles, creating opportunities among individuals, applications, algorithms, and protocols. Users, applications, and algorithms are now integral components of the monetization chain, allowing them to mutually reward and incentivize collaborative work, fostering the spirit of collaboration within web3.</p>
-<p>Following the development, Stani Kulechov, Founder of Lens Protocol, commented,</p>
-<blockquote><p>&#8220;Lens Protocol V2 takes decentralized social media and monetization opportunities to a new level. Providing maximum flexibility for builders, V2 enables new types of social engagements and monetization relationships, where all stakeholders can share in the value of social networks – both individually and collectively as an ecosystem.&#8221;</p></blockquote>
-<h2>Other Features</h2>
-<p>In terms of new features, V2 will introduce &#8216;open actions&#8217; that seek to enable developers to deploy new activities on Lens, expanding the different ways that people can interact with content and creators in Web3. These actions can be integrated into both existing and future consumer-facing applications.</p>
-<p>Lens Protocol V2 adopts an open model, rewarding valuable actions at each stage of the value chain to establish a sustainable ecosystem for content creators, applications, algorithms, and even external protocols.</p>
-<p>The latest iteration has also implemented a new standard known as ERC-6551 for user profiles. This standard allows Lens profiles to possess their own wallets, housing ERC-721 tokens and other non-fungible tokens (NFTs). Consequently, ERC-6551-powered Lens profiles enable NFTs the capability to execute actions.</p>
-<p>In a bid to ensure trust and security, V2 will let users block a profile from commenting, mirroring, collecting, or conducting any open action.</p>
-<p>The post <a href="https://cryptopotato.com/aaves-lens-protocol-v2-introduces-new-features-to-its-web3-social-app/" rel="nofollow">Aave&#8217;s Lens Protocol V2 Introduces New Features to its Web3 Social App</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
