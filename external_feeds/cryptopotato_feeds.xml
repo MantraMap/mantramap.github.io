@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Tue, 18 Jul 2023 10:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2023 10:55:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chainlink’s Cross-Chain Protocol Goes Live</title>
+		<link>https://cryptopotato.com/chainlinks-cross-chain-protocol-goes-live/</link>
+		
+		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 10:55:23 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Chainlink]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=261145</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/09/Chainlink.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/09/Chainlink.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The firm behind LINK hopes to close the gap between traditional banks using their oracle system and other blockchains.
+]]></description>
+            																<content:encoded><![CDATA[<p>Chainlink, a leading project focusing on the use of oracles to bring real-world data onto the blockchain and use it for business purposes, has been working on a way to bring its hard-earned, reputable data to partnered projects for quite some time now.</p>
+<p>After a long wait, the devs at Chainlink announced the launch of CCIP, the Chainlink Cross-Chain Interoperability Protocol.</p>
+<p>For now, CCIP is available on the mainnets of target protocols only in an invitation-based early access system – but not for long.</p>
+<h2>Testnet Availability Coming Soon</h2>
+<p>CCIPs mainnet launch on the Ethereum, Polygon, Avalanche, and Optimism blockchains is already in use by the teams at Synthetix and BGD Labs, who are using the Chainlink network to get around the limitations of traditional cross-chain bridges.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">1/ The Chainlink Cross-Chain Interoperability Protocol (CCIP) has officially launched on Avalanche, Ethereum, Optimism, and Polygon mainnets.<a href="https://twitter.com/hashtag/LinkTheWorld?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#LinkTheWorld</a> <a href="https://t.co/SdLVyaapg3" data-wpel-link="external" target="_blank">pic.twitter.com/SdLVyaapg3</a></p>
+<p>— Chainlink (@chainlink) <a href="https://twitter.com/chainlink/status/1680970793331613697?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 17, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>For non-partnered projects, CCIP will be made available on the testnets of these blockchains on the 20th of July. In the meantime, devs looking to integrate their dApps with Chainlink can sign up for early access and get vetted on the project&#8217;s website.</p>
+<h2>Setting New Standards</h2>
+<p>According to Chainlink co-founder and acting CEO Sergey Nazarov, the project hopes that CCIP will become the new gold standard for cross-chain interoperability. In a press release celebrating the launch, he likened CCIP to the TCP/IP standard that made the Internet as we know it possible.</p>
+<blockquote><p>“Just like key standards such as TCP/IP remade a fragmented early internet into the single global internet we all know and use today, we are making CCIP to connect the fragmented public blockchain landscape and the growing bank chain ecosystem into a single Internet of Contracts.”</p></blockquote>
+<p>However, Nazarov also <a href="https://blog.chain.link/ccip-mainnet-early-access/" data-wpel-link="external" target="_blank">stressed</a> that he and his team hope that other devs will find ways to improve the infrastructure he and his team built.</p>
+<p>In order to facilitate further development of the protocol, Chainlink gives developers the option to build their own cross-chain solutions on top of CCIP using Arbitrary Messaging and Simplified Token Transfers – both of which will be backed up by the data that has so far enabled over $8 trillion worth of value to be moved on-chain.</p>
+<p>Devs who use CCIP will also benefit from the Active Risk Management Network (ARM), a lightweight, independent network created specifically to add an extra layer of security to CCIP.</p>
+<blockquote><p>“ARM is a separate, independent network that continually monitors and validates the behavior of the primary CCIP network, providing an additional layer of security by independently verifying cross-chain operations. The ARM Network utilizes a separate, minimal Rust implementation of the Chainlink node software.”</p></blockquote>
+<p>The surprise announcement prompted an increase in the market value of LINK. The price of Chainlink’s proprietary token has <a href="https://cryptopotato.com/chainlink-jumps-7-on-cross-chain-news-bitcoin-slipped-to-18-day-low-market-watch/" data-wpel-link="internal">risen</a> by over 6% within the past 24 hours, according to CoinGecko, compounding a steady increase in value over the past month.</p>
+<p>The post <a href="https://cryptopotato.com/chainlinks-cross-chain-protocol-goes-live/" rel="nofollow">Chainlink’s Cross-Chain Protocol Goes Live</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Stake-to-Earn BTC20 Token Presale Goes Live, Aims to Repeat Bitcoin Bull Run</title>
 		<link>https://cryptopotato.com/stake-to-earn-btc20-token-presale-goes-live-aims-to-repeat-bitcoin-bull-run/</link>
 		
@@ -351,45 +386,6 @@
 <p>“Altcoins, Solana, Polygon and Litecoin saw minor inflows of between US$0.5m, US$0.5m and US$.3m respectively,” the report added</p>
 <p>Solana (SOL) and Polygon (MATIC) suffered last month after the SEC alleged that both assets were unregistered securities in its lawsuit against Coinbase. However, a positive outcome for <a href="https://cryptopotato.com/xrp-surpasses-bitcoin-in-terms-of-trading-volume-following-ripple-v-sec-win/" data-wpel-link="internal">XRP</a> in Ripple’s lawsuit with the SEC last week has such coins making a comeback.</p>
 <p>The post <a href="https://cryptopotato.com/bitcoin-investment-products-attract-highest-inflows-since-2021/" rel="nofollow">Bitcoin Investment Products Attract Highest Inflows Since 2021</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Canadian Phishing Scammer Exposed For Stealing Over $1 Million In Crypto And NFTs</title>
-		<link>https://cryptopotato.com/canadian-phishing-scammer-exposed-for-stealing-over-1-million-in-crypto-and-nfts/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 17:44:24 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Crypto Scams]]></category>
-		<category><![CDATA[NFT]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=261077</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2018/04/hacker-3342696_640.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2018/04/hacker-3342696_640.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[ZachXBT has exposed another remorseless crypto and NFT scammer and is sharing information with victims to take possible legal action against the culprit.]]></description>
-            																<content:encoded><![CDATA[<p>Popular on-chain sleuth ZachXBT has unmasked another crypto scammer responsible for stealing millions of dollars in digital assets using sophisticated phishing attacks.</p>
-<p>The thief’s targets included the discord services for DeFi projects such as Orbiter Finance and Pika Protocol.</p>
-<h2>Impersonation and Confiscation</h2>
-<p>In a Twitter thread <a href="https://twitter.com/zachxbt/status/1680918931442368515" data-wpel-link="external" target="_blank">published</a> on Monday, ZachXBT explained that the attacker, Soup (aka Dan) enacted his scam by impersonating Luke Hamlton – an employee for the crypto media outlet Decrypt.</p>
-<p>In collaboration with other Scammers, Soup lured members of various crypto project teams into joining a fake Decrypt Discord server. He then tricked them into submitting KYC information as part of a fake application and interview process, only to later embed phishing attack in an “elaborate attempt to steal their Discord token.”</p>
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">2/ Soup creates fake <a href="https://twitter.com/decryptmedia?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@decryptmedia</a> websites and poses as Luke Hamilton (a real Decrypt employee)</p>
-<p>He works with other scammers to approach team members of crypto projects to trick them into joining a fake Decrypt Discord server in an elaborate attempt to steal their Discord token <a href="https://t.co/Oe6mX2zFk1" data-wpel-link="external" target="_blank">pic.twitter.com/Oe6mX2zFk1</a></p>
-<p>&mdash; ZachXBT (@zachxbt) <a href="https://twitter.com/zachxbt/status/1680918940019556353?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 17, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>A Discord token is an alphanumeric string acting representing a user’s login credentials, giving them access to any servers they own or are a part of.</p>
-<p>The scammer compromised the Pika Protocol Discord server on May 30, 2023, posting a malicious link in the announcements channel, allowing them to <a href="https://etherscan.io/address/0x2162b6caa174b90416090bd4a87e7d08f7027c48" data-wpel-link="external" target="_blank">steal</a> $220,000 in crypto. In a private DM, Dan admitted to receiving 15% of the scammers’ profits.</p>
-<p>The following day, the scammers attacked Orbiter Finance, using a malicious link to steal another $760,000. Soup confessed to receiving 30% of the stolen funds, of which 7.5 ETH was identified in one of his <a href="https://etherscan.io/address/0x2162b6caa174b90416090bd4a87e7d08f7027c48" data-wpel-link="external" target="_blank">known addresses</a>.</p>
-<p>Soup spent some of the proceeds from his crimes on exclusive five-figure Roblox items.</p>
-<p>ZachXBT added that Soup was involved in the theft of Mutant Ape Yacht Club (MAYC NFT #21080 last year. In collaboration with his scamming partner, Faint, the two minted a fake MAYC and offered to trade it to a victim for the real MAYC, which the victim <a href="https://twitter.com/LakeShowTJ/status/1571506608861249538" data-wpel-link="external" target="_blank">accepted</a>.</p>
-<p>Soup also stole Cryptopunk #6983 in January of this year.</p>
-<blockquote><p>“Soup admits to having profited $1M himself while his partners have profited even more,” wrote ZachXBT. “He seems to show little remorse for his actions after financially harming projects and people.”</p></blockquote>
-<h2>Connection to Blue</h2>
-<p>ZachXBT was able to track down one of Soup’s addresses after the scammer accidentally revealed it when proving that the ENS address purplelobster.eth was controlled by Blue – another scammer <a href="https://cryptopotato.com/youtuber-turned-nft-scammer-on-chain-sleuth-investigates-1-5-million-crypto-thief/" data-wpel-link="internal">exposed</a> by ZachXBT last week. Blue sent soup $25 worth of ETH at the time.</p>
-<p>Blue, a former YouTuber turned NFT scammer, also had connections to Monkey Drainer, known for stealing over $24 million in digital collectibles and boasting about his thefts online. In some of his recent phishing attacks, Blue took, over $200,000 in crypto and NFTs from addresses yancy.eth and LoveMake.eth.</p>
-<blockquote><p>“It’s disgusting to see these phishing scammers show zero remorse and spend the funds on tasteless items,” said ZachXBT at the time.</p></blockquote>
-<p>The post <a href="https://cryptopotato.com/canadian-phishing-scammer-exposed-for-stealing-over-1-million-in-crypto-and-nfts/" rel="nofollow">Canadian Phishing Scammer Exposed For Stealing Over $1 Million In Crypto And NFTs</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
