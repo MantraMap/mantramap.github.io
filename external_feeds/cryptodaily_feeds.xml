@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 18 Jul 2023 20:21:34 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 18 Jul 2023 20:36:13 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,50 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Oasis Network Launches Sapphire Privacy Blockchain $ROSE]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/oasis-network-launches-sapphire-privacy-blockchain-rose</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/oasis-network-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/oasis-network-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/oasis-network-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 18 Jul 2023 20:15:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/oasis-network-launches-sapphire-privacy-blockchain-rose</guid>
+			  <description><![CDATA[<p class="md-end-block md-p">Oasis Network, developers of privacy-centric blockchain products, has announced the launch of Sapphire, a privacy-focused Ethereum Virtual Machine (EVM)-compatible blockchain.</p>
+<p class="md-end-block md-p">The chain makes use of Oasis's privacy layer, and aims to offer a more secure platform for existing decentralized apps across EVM networks, eliminating the need for cross-chain swaps.</p>
+Sapphire: A New Dawn for Web3 Development
+<p class="md-end-block md-p">Sapphire represents an exciting development for privacy-focused Web3 development. With its unique privacy-first features, it is set to significantly enhance the security of dApps on any EVM network. </p>
+<p class="md-end-block md-p">Oasis Foundation Director Jernej Kos explained how the Oasis Privacy Layer (OPL) and Sapphire work in harmony to bolster the functionality of DApps. Specifically, he outlined how DApps can incorporate various features of Sapphire without migrating to the Oasis blockchain.</p>
+
+<p class="md-end-block md-p">"Being fully EVM-compatible means that developers can build private smart contracts in an environment that they are already familiar with," Kos stated.</p>
+
+<p class="md-end-block md-p">Sapphire's full compatibility with EVM environments also bolsters cross-chain Web3 development, providing a confidential voting mechanism for decentralized autonomous organization (DAO) smart contracts, for instance. The outcome of such confidential voting can then be conveyed to the core DAO contract on a different chain.</p>
+Unlocking the Power of Privacy
+<p class="md-end-block md-p">The majority of DApps built on the Oasis blockchain are privacy-centric, and this trend is reflected in the tools and platforms developed within the Oasis ecosystem. Sapphire's release is expected to drive the development of privacy-enabled blockchain games, confidential decentralized exchanges, private voting systems, sealed-bid auctions, and key management tools, among other applications.</p>
+<p class="md-end-block md-p">Sapphire employs Oasis' proprietary privacy technology that relies on a secure computing technology known as a Trusted Execution Environment (TEE), which serves as a secure enclave for smart contract execution. During execution, encrypted data is fed into the Secure Enclave alongside the smart contract, where it's decrypted and processed. The data is then re-encrypted before it leaves the Secure Enclave, ensuring that user data remains confidential and isn't disclosed to node operators or application developers.</p>
+A Gateway to Familiarity and Interoperability
+<p class="md-end-block md-p">Sapphire offers a familiar environment for blockchain developers due to its EVM compatibility. User-facing tools like the Web3 gateway, wallets, and block explorers are already familiar to many, and developers will recognize tools such as Solidity/Vyper, Hardhat/Truffle, and Web3.js/Ethers. Developers can port their DApps to Sapphire within minutes and start using its privacy technology and built-in functions such as Random Number Generation (RNG), signing, and encryption.</p>
+<p class="md-end-block md-p">The launch of Sapphire on testnet marks an important milestone in Oasis's roadmap. Oasis has already planned a mainnet deployment for later this year and is encouraging developers to utilize the testnet to familiarize themselves with Sapphire's capabilities. In an effort to cultivate a vibrant developer community around Sapphire, Oasis plans to host its first Sapphire Hackathon in September.</p>
+<p class="md-end-block md-p">Sapphire&rsquo;s inception offers a more privacy-focused era for Web3 development, enabling developers to incorporate enhanced security features into their DApps without compromising the familiarity of their build environment. The privacy capabilities offered by Sapphire represent an essential step in the pursuit of a more secure and private Web3 environment, advancing the blockchain industry's progress towards widespread Web3 adoption.</p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p">Oasis Network, developers of privacy-centric blockchain products, has announced the launch of Sapphire, a privacy-focused Ethereum Virtual Machine (EVM)-compatible blockchain.</p>
+<p class="md-end-block md-p">The chain makes use of Oasis's privacy layer, and aims to offer a more secure platform for existing decentralized apps across EVM networks, eliminating the need for cross-chain swaps.</p>
+Sapphire: A New Dawn for Web3 Development
+<p class="md-end-block md-p">Sapphire represents an exciting development for privacy-focused Web3 development. With its unique privacy-first features, it is set to significantly enhance the security of dApps on any EVM network. </p>
+<p class="md-end-block md-p">Oasis Foundation Director Jernej Kos explained how the Oasis Privacy Layer (OPL) and Sapphire work in harmony to bolster the functionality of DApps. Specifically, he outlined how DApps can incorporate various features of Sapphire without migrating to the Oasis blockchain.</p>
+
+<p class="md-end-block md-p">"Being fully EVM-compatible means that developers can build private smart contracts in an environment that they are already familiar with," Kos stated.</p>
+
+<p class="md-end-block md-p">Sapphire's full compatibility with EVM environments also bolsters cross-chain Web3 development, providing a confidential voting mechanism for decentralized autonomous organization (DAO) smart contracts, for instance. The outcome of such confidential voting can then be conveyed to the core DAO contract on a different chain.</p>
+Unlocking the Power of Privacy
+<p class="md-end-block md-p">The majority of DApps built on the Oasis blockchain are privacy-centric, and this trend is reflected in the tools and platforms developed within the Oasis ecosystem. Sapphire's release is expected to drive the development of privacy-enabled blockchain games, confidential decentralized exchanges, private voting systems, sealed-bid auctions, and key management tools, among other applications.</p>
+<p class="md-end-block md-p">Sapphire employs Oasis' proprietary privacy technology that relies on a secure computing technology known as a Trusted Execution Environment (TEE), which serves as a secure enclave for smart contract execution. During execution, encrypted data is fed into the Secure Enclave alongside the smart contract, where it's decrypted and processed. The data is then re-encrypted before it leaves the Secure Enclave, ensuring that user data remains confidential and isn't disclosed to node operators or application developers.</p>
+A Gateway to Familiarity and Interoperability
+<p class="md-end-block md-p">Sapphire offers a familiar environment for blockchain developers due to its EVM compatibility. User-facing tools like the Web3 gateway, wallets, and block explorers are already familiar to many, and developers will recognize tools such as Solidity/Vyper, Hardhat/Truffle, and Web3.js/Ethers. Developers can port their DApps to Sapphire within minutes and start using its privacy technology and built-in functions such as Random Number Generation (RNG), signing, and encryption.</p>
+<p class="md-end-block md-p">The launch of Sapphire on testnet marks an important milestone in Oasis's roadmap. Oasis has already planned a mainnet deployment for later this year and is encouraging developers to utilize the testnet to familiarize themselves with Sapphire's capabilities. In an effort to cultivate a vibrant developer community around Sapphire, Oasis plans to host its first Sapphire Hackathon in September.</p>
+<p class="md-end-block md-p">Sapphire&rsquo;s inception offers a more privacy-focused era for Web3 development, enabling developers to incorporate enhanced security features into their DApps without compromising the familiarity of their build environment. The privacy capabilities offered by Sapphire represent an essential step in the pursuit of a more secure and private Web3 environment, advancing the blockchain industry's progress towards widespread Web3 adoption.</p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Chainlink Debuts CCIP Across Multiple Mainnets $LINK]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/chainlink-debuts-ccip-across-multiple-mainnets-link</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/chainlink-ccip-h.jpg" medium="image" />
@@ -850,88 +894,6 @@ Donald Lim, COO of DITO CME, joined Jack Vinijtrongjit in a panel discussion abo
 <p>&nbsp;</p>
 Contact
 <p>CEOJack Vinijtrongjitpartnership@aag.ventures</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[BRISE Outshines ETH, BNB, SOL, with Usual Price Gains, as Listing on 10 Major Exchanges Nears]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/brise-outshines-eth-bnb-sol-with-usual-price-gains-as-listing-on-10-major-exchanges-nears</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/brise-outshines-eth-bnb-sol-with-usual-price-gains-as-listing.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/brise-outshines-eth-bnb-sol-with-usual-price-gains-as-listing.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/brise-outshines-eth-bnb-sol-with-usual-price-gains-as-listing.jpg" length="528" type="image/jpg" />
-			  <pubDate>Mon, 17 Jul 2023 15:15:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Adrian Barkley]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/brise-outshines-eth-bnb-sol-with-usual-price-gains-as-listing-on-10-major-exchanges-nears</guid>
-			  <description><![CDATA[<table style="width: 675px;">
-<tbody>
-<tr>
-<td class="s8" style="width: 665px;">
-
-● Bitgert celebrates its second anniversary by listing its BRISE on ten exchanges.
-● The platform also introduces a meme character for BRISE to bring a new level of fun and engagement to the community.
-● While BRISE maintained over 16% over the week, ETH and BNB barely had single-digit gains.
-
-</td>
-</tr>
-</tbody>
-</table>
-<p class="s5">BRISE, the native token of the Bitgert crypto platform, has recently led the crypto market with phenomenal price gains. In a report that captured the eventful week performance of BRISE, it was reported that the coin gained over 30%, pushing its crypto market cap to over $103 million.</p>
-<p class="s5">Contrasting the positive growth of BRISE, other major cryptocurrencies like Ethereum (ETH), Binance Coin (BNB), Solana (SOL), and Cardano (ADA) experienced losses in the last 24 hours. According to data from CoinMarketCap, while BRISE maintained over 16% upward trajectory over the past seven days, ETH and BNB barely had single-digit gains.</p>
-<p class="s5">Additionally, BRISE has climbed three steps up the ranking of the most significant coins within two weeks, gaining more than $3 million in market cap. The interest in the coin can be attributed to exciting development, celebrations, and collaborations around Bitgert.</p>
-<p class="s5">In a recent tweet, the project announced the listing of its token, BRISE, on ten major crypto exchanges, inviting the community to join in this significant milestone.</p>
-<p class="s5">&nbsp;</p>
-
-<p dir="ltr" lang="en">🎉 Celebrating our 2nd anniversary which happened on 7th July 2023! 🎂 As part of the festivities, we're thrilled to announce the listing of our token on 10 major crypto exchanges. Join us in this milestone moment! 🚀#BRISE #bitgert pic.twitter.com/YA8viNIzCE</p>
-&mdash; Bitgert - $BRISE (@bitgertbrise) July 11, 2023
-<p>
-
-</p>
-<p class="s5">The image shared in the tweet provided a timeline of the exchange listings scheduled throughout August. The first listing will come on August 1, with subsequent ones coming within about four days intervals until August 30.</p>
-<p class="s5">Adding more fun and engagement to its ecosystem, Bitgert introduced a meme character for its native token, BRISE. It expressed enthusiasm for the new level of entertainment that the character would bring, promising comical posts and community engagements.</p>
-
-<p dir="ltr" lang="en">🚨Big news alert🚨 We've created our very own meme character for #BRISE! Get ready for a whole new level of fun as we spice things up with hilarious announcements and community interactions.Guess the meme character and let us know in comments. pic.twitter.com/vOnJPiQVWp</p>
-&mdash; Bitgert - $BRISE (@bitgertbrise) July 14, 2023
-<p>
-
-</p>
-<p class="s5">The community was invited to participate in the guessing game and share their guesses in the comments.</p>
-<p class="s5">Furthermore, the platform has partnered with ChangeNow to allow users to purchase BRISE using fiat currency, enhancing accessibility for investors. Additionally, the NFT platform NFTFeed is integrated into the Bitgert ecosystem to provide liquidity to the NFT market. Similarly, &nbsp;the partnership with the gaming platform Lifty.io expanded Bitgert's reach into the gaming sector.</p>
-<p class="s5">While BRISE currently has a market share of around $103 million, the team asked the crypto community to prepare for a multi-billion market capitalization shortly.</p>
-<p class="s5">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<table style="width: 675px;">
-<tbody>
-<tr>
-<td class="s8" style="width: 665px;">
-
-● Bitgert celebrates its second anniversary by listing its BRISE on ten exchanges.
-● The platform also introduces a meme character for BRISE to bring a new level of fun and engagement to the community.
-● While BRISE maintained over 16% over the week, ETH and BNB barely had single-digit gains.
-
-</td>
-</tr>
-</tbody>
-</table>
-<p class="s5">BRISE, the native token of the Bitgert crypto platform, has recently led the crypto market with phenomenal price gains. In a report that captured the eventful week performance of BRISE, it was reported that the coin gained over 30%, pushing its crypto market cap to over $103 million.</p>
-<p class="s5">Contrasting the positive growth of BRISE, other major cryptocurrencies like Ethereum (ETH), Binance Coin (BNB), Solana (SOL), and Cardano (ADA) experienced losses in the last 24 hours. According to data from CoinMarketCap, while BRISE maintained over 16% upward trajectory over the past seven days, ETH and BNB barely had single-digit gains.</p>
-<p class="s5">Additionally, BRISE has climbed three steps up the ranking of the most significant coins within two weeks, gaining more than $3 million in market cap. The interest in the coin can be attributed to exciting development, celebrations, and collaborations around Bitgert.</p>
-<p class="s5">In a recent tweet, the project announced the listing of its token, BRISE, on ten major crypto exchanges, inviting the community to join in this significant milestone.</p>
-<p class="s5">&nbsp;</p>
-
-<p dir="ltr" lang="en">🎉 Celebrating our 2nd anniversary which happened on 7th July 2023! 🎂 As part of the festivities, we're thrilled to announce the listing of our token on 10 major crypto exchanges. Join us in this milestone moment! 🚀#BRISE #bitgert pic.twitter.com/YA8viNIzCE</p>
-&mdash; Bitgert - $BRISE (@bitgertbrise) July 11, 2023
-<p>
-
-</p>
-<p class="s5">The image shared in the tweet provided a timeline of the exchange listings scheduled throughout August. The first listing will come on August 1, with subsequent ones coming within about four days intervals until August 30.</p>
-<p class="s5">Adding more fun and engagement to its ecosystem, Bitgert introduced a meme character for its native token, BRISE. It expressed enthusiasm for the new level of entertainment that the character would bring, promising comical posts and community engagements.</p>
-
-<p dir="ltr" lang="en">🚨Big news alert🚨 We've created our very own meme character for #BRISE! Get ready for a whole new level of fun as we spice things up with hilarious announcements and community interactions.Guess the meme character and let us know in comments. pic.twitter.com/vOnJPiQVWp</p>
-&mdash; Bitgert - $BRISE (@bitgertbrise) July 14, 2023
-<p>
-
-</p>
-<p class="s5">The community was invited to participate in the guessing game and share their guesses in the comments.</p>
-<p class="s5">Furthermore, the platform has partnered with ChangeNow to allow users to purchase BRISE using fiat currency, enhancing accessibility for investors. Additionally, the NFT platform NFTFeed is integrated into the Bitgert ecosystem to provide liquidity to the NFT market. Similarly, &nbsp;the partnership with the gaming platform Lifty.io expanded Bitgert's reach into the gaming sector.</p>
-<p class="s5">While BRISE currently has a market share of around $103 million, the team asked the crypto community to prepare for a multi-billion market capitalization shortly.</p>
-<p class="s5">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
 	</channel>
