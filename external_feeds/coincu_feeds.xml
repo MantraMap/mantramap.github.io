@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Tue, 18 Jul 2023 14:44:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jul 2023 15:22:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility</title>
+		<link>https://coincu.com/203697-dune-unleashes-new-features/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 15:22:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[Data Uploads]]></category>
+		<category><![CDATA[Dune]]></category>
+		<category><![CDATA[Folders]]></category>
+		<category><![CDATA[Query API Endpoints]]></category>
+		<category><![CDATA[Query Scheduler]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=203697</guid>
+
+					<description><![CDATA[Dune introduces new features aimed at enhancing collaboration and data accessibility.<p class="has-text-align-right"><a href="https://coincu.com/203697-dune-unleashes-new-features/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Dune introduces new features aimed at enhancing collaboration and data accessibility.</em></li>
+
+
+
+<li><em>The features include Folders for organizing team content, Data Uploads to integrate off-chain data, Dashboard and Query Scheduler for up-to-date data delivery, and Query API Endpoints for programmatically managing queries.</em></li>
+
+
+
+<li><em>Its goal is to revolutionize how professional teams work with crypto data, streamlining collaboration, automating tasks, and maximizing insights. Additional teams-focused features and support resources are planned for the future.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Dune, a crypto data platform, has <a href="https://twitter.com/DuneAnalytics/status/1681287918868987905" target="_blank" rel="noreferrer noopener">announced</a> the launch of several new features aimed at improving collaboration and user experience. </strong></h5>
+
+
+
+<p>These features include Folders, Data Uploads, Dashboard and Query Scheduler, and Query API Endpoints, all designed to streamline data workstreams and foster seamless collaboration among teams.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1200.png"><img decoding="async" width="960" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-1200.png" alt="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility" class="wp-image-203702" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1200.png 960w, https://coincu.com/wp-content/uploads/2023/07/image-1200-300x188.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1200-768x480.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1200-750x469.png 750w" sizes="(max-width: 960px) 100vw, 960px" title="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility 1"></a></figure></div>
+
+
+<p>One of the key additions is the Folders feature, which allows teams to organize their queries and dashboards in a structured manner. Previously, content was presented as a flat list, posing challenges for teams with extensive content repositories. Folders are private and can only be accessed by team members, ensuring privacy for collaboration while still allowing external visitors to access a team&#8217;s public content. The number of folders available varies based on the plan, with Plus teams having the ability to create up to ten folders and Premium teams up to fifty.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1197.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1197-1024x576.png" alt="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility" class="wp-image-203699" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1197-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1197-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1197-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1197-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1197-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1197-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1197.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility 2"></a></figure></div>
+
+
+<p>The Data Uploads feature enables users to integrate off-chain data with Dune&#8217;s existing data catalog. By sending static files like CSVs to Dune, users can create queryable tables and enhance their data analysis. This integration opens up new possibilities for analysts to add rich context to their crypto data analytics and analyze insights within the broader macro trends and events. It brings forth a new wave of data innovation and expands the capabilities of Dune&#8217;s community of creators.</p>
+
+
+
+<p>The Dashboard and Query Scheduler empowers users to schedule queries and dashboards to run periodically, providing them with the most up-to-date data as per their business needs. This flexibility allows users to save time by automating regular query updates on dashboards, enabling more sophisticated analysis. Users can estimate the credits consumed with each refresh and have control over the frequency of data updates.</p>
+
+
+
+<p>For Plus and Premium teams, the Query API Endpoints feature enables the creation, reading, updating, and archiving of queries programmatically outside of the Dune IDE. This enhancement enhances interoperability, facilitates the building of complex workflows, and enables better query management on platforms like Github.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1198.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1198-1024x576.png" alt="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility" class="wp-image-203700" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1198-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1198-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1198-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1198-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1198-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1198-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1198.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Dune Unleashes New Features For Enhanced Collaboration And Data Accessibility 3"></a></figure></div>
+
+
+<p>Dune&#8217;s commitment to supporting teams is evident in their future plans, as they aim to roll out additional teams-focused features and provide support resources such as tutorials and guides. Their goal is to revolutionize how professional teams work with crypto data and unlock the full potential of insights within the industry.</p>
+
+
+
+<p>With these new features, <a href="https://coincu.com/188780-dune-analytics-review-the-most-powerful-on-chain-data-analytics-platform/" target="_blank" rel="noreferrer noopener">Dune</a> is paving the way for improved collaboration, streamlined workflows, and more efficient data analysis. By focusing on accessibility and user feedback, Dune aims to empower teams and ensure they can derive maximum value from their crypto data endeavors.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/203697-dune-unleashes-new-features/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1199-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Bitcoin ETF May Not Bring The New Hype As The Sector Expects</title>
 		<link>https://coincu.com/203690-bitcoin-etf-may-not-bring-the-new-hype/</link>
 		
@@ -68,7 +152,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/bitcoin.jpeg"><img decoding="async" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/bitcoin-1024x682.jpeg" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203692" srcset="https://coincu.com/wp-content/uploads/2023/07/bitcoin-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/bitcoin.jpeg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 1"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/bitcoin.jpeg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/bitcoin-1024x682.jpeg" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203692" srcset="https://coincu.com/wp-content/uploads/2023/07/bitcoin-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/bitcoin-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/bitcoin.jpeg 1688w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 4"></a></figure></div>
 
 
 <p>Advocates of a US spot ETF believe it would attract a significant influx of investors, potentially generating over $50 billion in demand. This optimism was reignited by recent applications from <a href="https://coincu.com/197722-blackrocks-bitcoin-etf-bid-could-ignite-15t/" target="_blank" rel="noreferrer noopener">BlackRock</a>, leading to a 20% rally in Bitcoin since mid-June.</p>
@@ -83,7 +167,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203693" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1195-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1195-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1195-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1195-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1195.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 2"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203693" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1195-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1195-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1195-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1195-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1195-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1195.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 5"></a></figure></div>
 
 
 <p>Analysts at Bloomberg Intelligence estimate that if crypto exchange-traded products accounted for 1% of all Canadian ETF assets, a similar trend in the US would suggest a potential asset value of approximately $54 billion. This context is significant considering the $137 billion currently held in US commodity ETFs.</p>
@@ -98,7 +182,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png"><img decoding="async" loading="lazy" width="1024" height="624" src="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203694" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1196-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1196-768x468.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1196-1536x936.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1196-2048x1247.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1196-750x457.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1196-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 3"></a><figcaption class="wp-element-caption">BTC price chart. <em>Source: TradingView</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png"><img decoding="async" loading="lazy" width="1024" height="624" src="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png" alt="Bitcoin ETF May Not Bring The New Hype As The Sector Expects" class="wp-image-203694" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1196-1024x624.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1196-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1196-768x468.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1196-1536x936.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1196-2048x1247.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1196-750x457.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1196-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitcoin ETF May Not Bring The New Hype As The Sector Expects 6"></a><figcaption class="wp-element-caption">BTC price chart. <em>Source: TradingView</em></figcaption></figure></div>
 
 
 <p>What little uncertainty there was about the outcome of the Fed&#8217;s policy-setting Federal Open Market Committee (FOMC) meeting next week has been largely removed, with traders now pricing in a 97.3% likelihood of another 25 basis point rate rise, according to the <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html" target="_blank" rel="noreferrer noopener">CME FedWatch Tool</a>.</p>
@@ -156,7 +240,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1192.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/image-1192-1024x614.png" alt="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target" class="wp-image-203686" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1192-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1192-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1192-768x460.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1192-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1192-1140x683.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1192.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target 4"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1192.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/image-1192-1024x614.png" alt="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target" class="wp-image-203686" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1192-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1192-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1192-768x460.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1192-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1192-1140x683.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1192.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target 7"></a></figure></div>
 
 
 <p>CoinFund CEO Jake Brukhman revealed that the firm received more interest than expected, leading to a higher fundraising amount. The investment focus will be on early-stage crypto startups operating at the intersection of cryptocurrency and artificial intelligence (AI).</p>
@@ -175,7 +259,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-scaled.jpg"><img decoding="async" loading="lazy" width="1006" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1006x1024.jpg" alt="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target" class="wp-image-203688" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1006x1024.jpg 1006w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-295x300.jpg 295w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-768x782.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1509x1536.jpg 1509w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-2012x2048.jpg 2012w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-75x75.jpg 75w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-750x763.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1140x1160.jpg 1140w" sizes="(max-width: 1006px) 100vw, 1006px" title="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target 5"></a><figcaption class="wp-element-caption">CoinFund&#8217;s Cofounder and CEO Jake Brukhman (left) &#8211; Cofounder and CIO Alex Felix (right). <em>Source: CoinFund</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-scaled.jpg"><img decoding="async" loading="lazy" width="1006" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1006x1024.jpg" alt="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target" class="wp-image-203688" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1006x1024.jpg 1006w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-295x300.jpg 295w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-768x782.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1509x1536.jpg 1509w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-2012x2048.jpg 2012w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-75x75.jpg 75w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-750x763.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-1-1140x1160.jpg 1140w" sizes="(max-width: 1006px) 100vw, 1006px" title="CoinFund Raises $158 Million For Crypto And AI Startups, Exceeding Fundraising Target 8"></a><figcaption class="wp-element-caption">CoinFund&#8217;s Cofounder and CEO Jake Brukhman (left) &#8211; Cofounder and CIO Alex Felix (right). <em>Source: CoinFund</em></figcaption></figure></div>
 
 
 <p>Approximately 90% of CoinFund&#8217;s deals involve tokens, and the firm remains optimistic about the industry&#8217;s potential to merge with traditional finance in a regulated manner. The company aims to bridge the gap between the crypto space and traditional finance rather than creating a parallel universe.</p>
@@ -229,7 +313,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09.png"><img decoding="async" loading="lazy" width="1024" height="646" src="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1024x646.png" alt="StarkNet Achieves Milestone: TVL Surpasses $100 Million With Record TPS And Reduced Latency" class="wp-image-203682" srcset="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1024x646.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-300x189.png 300w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-768x485.png 768w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-750x473.png 750w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1140x719.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" title="StarkNet&#039;s TVL Surpasses $100 Million With Record TPS And Reduced Latency 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09.png"><img decoding="async" loading="lazy" width="1024" height="646" src="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1024x646.png" alt="StarkNet Achieves Milestone: TVL Surpasses $100 Million With Record TPS And Reduced Latency" class="wp-image-203682" srcset="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1024x646.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-300x189.png 300w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-768x485.png 768w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-750x473.png 750w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09-1140x719.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.09.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" title="StarkNet&#039;s TVL Surpasses $100 Million With Record TPS And Reduced Latency 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>This marks a remarkable 34.5% increase since the launch of StarkNet&#8217;s mainnet v0.12.0 on July 12. In addition, StarkNet has achieved a record-breaking daily average Transactions Per Second (TPS) of 3.29. The introduction of v0.12.0 has also led to substantial reductions in latency and transaction time, improving the overall efficiency of the network.</p>
@@ -244,7 +328,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17.png"><img decoding="async" loading="lazy" width="1024" height="739" src="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1024x739.png" alt="StarkNet Achieves Milestone: TVL Surpasses $100 Million With Record TPS And Reduced Latency" class="wp-image-203683" srcset="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1024x739.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-300x217.png 300w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-768x554.png 768w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1536x1109.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-2048x1478.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-120x86.png 120w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-750x541.png 750w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1140x823.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="StarkNet&#039;s TVL Surpasses $100 Million With Record TPS And Reduced Latency 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17.png"><img decoding="async" loading="lazy" width="1024" height="739" src="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1024x739.png" alt="StarkNet Achieves Milestone: TVL Surpasses $100 Million With Record TPS And Reduced Latency" class="wp-image-203683" srcset="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1024x739.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-300x217.png 300w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-768x554.png 768w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1536x1109.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-2048x1478.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-120x86.png 120w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-750x541.png 750w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-18-luc-20.56.17-1140x823.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="StarkNet&#039;s TVL Surpasses $100 Million With Record TPS And Reduced Latency 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>As StarkNet continues to iterate and refine its technology, the Ethereum community can anticipate further advancements in Layer 2 solutions. These developments will not only enhance the scalability of the Ethereum network but also contribute to a more seamless and efficient blockchain ecosystem.</p>
@@ -313,7 +397,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg"><img decoding="async" loading="lazy" width="800" height="450" src="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg" alt="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto Assets And Stablecoins" class="wp-image-203676" srcset="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-750x422.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg"><img decoding="async" loading="lazy" width="800" height="450" src="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg" alt="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto Assets And Stablecoins" class="wp-image-203676" srcset="https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_2002007354-800x450-1-750x422.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>These discussions also involved exploring potential policy responses on a global scale. Notably, G20 members expressed their support for the high-level recommendations put forth by the Financial Stability Board (FSB) concerning crypto asset activities and global stablecoin arrangements.</p>
@@ -328,7 +412,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg"><img decoding="async" loading="lazy" width="600" height="400" src="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg" alt="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto Assets And Stablecoins" class="wp-image-203677" srcset="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg"><img decoding="async" loading="lazy" width="600" height="400" src="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg" alt="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto Assets And Stablecoins" class="wp-image-203677" srcset="https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/2023_2img25_Feb_2023_PTI02_25_2023_000290A-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Indian Finance Minister: G20 Members Embrace FSB&#039;s Recommendations On Crypto 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>By embracing these recommendations, G20 members demonstrate their commitment to fostering an environment that balances innovation and investor protection within the crypto asset space. The discussions held among G20 members underscore the significance of international collaboration in addressing the evolving nature of the crypto ecosystem and developing robust regulatory measures.</p>
@@ -396,7 +480,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg"><img decoding="async" loading="lazy" width="1024" height="686" src="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg" alt="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption " class="wp-image-203668" srcset="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/3412124-300x201.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/3412124-768x515.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/3412124-750x503.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/3412124-1140x764.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/3412124.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption  10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg"><img decoding="async" loading="lazy" width="1024" height="686" src="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg" alt="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption " class="wp-image-203668" srcset="https://coincu.com/wp-content/uploads/2023/07/3412124-1024x686.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/3412124-300x201.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/3412124-768x515.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/3412124-750x503.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/3412124-1140x764.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/3412124.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption  13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Leveraging the strengths and solutions offered by opBNB, Hooked Protocol aims to contribute valuable insights, foster an open ecosystem, and bolster user experience to drive the mass adoption of Web3 technologies.</p>
@@ -411,7 +495,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Hooked.001.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1024x683.jpeg" alt="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption " class="wp-image-203669" srcset="https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001.jpeg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption  11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Hooked.001.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1024x683.jpeg" alt="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption " class="wp-image-203669" srcset="https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Hooked.001.jpeg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hooked Protocol Announces Deployment To opBNB, Driving Web3 Adoption  14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>By deploying to opBNB, Hooked Protocol seeks to leverage these comprehensive optimizations and infrastructure to create a seamless and engaging user experience. The integration will enable Hooked Protocol to tap into opBNB&#8217;s user base and ecosystem, fostering educational and social interactions within the Web3 space.</p>
@@ -481,7 +565,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png"><img decoding="async" loading="lazy" width="1019" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png" alt="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8%" class="wp-image-203662" srcset="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png 1019w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-768x772.png 768w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-750x753.png 750w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1140x1145.png 1140w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI.png 1289w" sizes="(max-width: 1019px) 100vw, 1019px" title="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8% 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png"><img decoding="async" loading="lazy" width="1019" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png" alt="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8%" class="wp-image-203662" srcset="https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1019x1024.png 1019w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-768x772.png 768w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-750x753.png 750w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI-1140x1145.png 1140w, https://coincu.com/wp-content/uploads/2023/07/mSL79807PI.png 1289w" sizes="(max-width: 1019px) 100vw, 1019px" title="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8% 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>According to CoinGecko&#8217;s latest report on the cryptocurrency industry in the second quarter of 2023, spot trading volumes on the top ten centralized cryptocurrency exchanges (CEX) totaled $1.42 trillion, marking a significant decrease of 43.2% compared to the first quarter. Despite some signs of recovery in Q1, transaction volumes failed to sustain an upward trend in Q2.</p>
@@ -492,7 +576,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png"><img decoding="async" loading="lazy" width="1022" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png" alt="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8%" class="wp-image-203663" srcset="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png 1022w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-768x769.png 768w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-350x350.png 350w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-750x751.png 750w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1140x1142.png 1140w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj.png 1303w" sizes="(max-width: 1022px) 100vw, 1022px" title="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8% 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png"><img decoding="async" loading="lazy" width="1022" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png" alt="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8%" class="wp-image-203663" srcset="https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1022x1024.png 1022w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-768x769.png 768w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-350x350.png 350w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-750x751.png 750w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj-1140x1142.png 1140w, https://coincu.com/wp-content/uploads/2023/07/tucYk0W8Tj.png 1303w" sizes="(max-width: 1022px) 100vw, 1022px" title="CoinGecko Q2 Report: CEX Spot Trading Volumes Decline by 43.2%, DEX By 30.8% 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>As reported by CoinGecko, in the second quarter of 2023, <a href="https://coincu.com/201909-senior-security-engineer-charged-with-9m/">decentralized exchanges</a> (DEX) saw a decline in spot trading volumes, which totaled $155 billion, down by 30.8% compared to the first quarter. Despite this decline, Uniswap maintained its position as the largest DEX, holding a dominant market share of 70% in May.</p>
@@ -568,7 +652,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5.webp"><img decoding="async" loading="lazy" width="1024" height="717" src="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1024x717.webp" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203652" srcset="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1024x717.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-300x210.webp 300w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-768x538.webp 768w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1536x1075.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-750x525.webp 750w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1140x798.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 14"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5.webp"><img decoding="async" loading="lazy" width="1024" height="717" src="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1024x717.webp" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203652" srcset="https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1024x717.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-300x210.webp 300w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-768x538.webp 768w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1536x1075.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-750x525.webp 750w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5-1140x798.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/marathon_digital_07acbf75d5.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 17"></a></figure></div>
 
 
 <p>The lawsuit, <a href="https://www.courtlistener.com/docket/67570049/1/hood-v-thiel/" target="_blank" rel="noreferrer noopener">filed</a> in the United States District Court of Nevada on July 8, accuses CEO Fred Thiel and other top executives of breaching fiduciary duties, engaging in unjust enrichment, and wasting corporate assets.</p>
@@ -591,7 +675,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-scaled.jpeg"><img decoding="async" loading="lazy" width="1024" height="681" src="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1024x681.jpeg" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203653" srcset="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1024x681.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-768x511.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1536x1022.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-2048x1362.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-750x499.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1140x758.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 15"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-scaled.jpeg"><img decoding="async" loading="lazy" width="1024" height="681" src="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1024x681.jpeg" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203653" srcset="https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1024x681.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-768x511.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1536x1022.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-2048x1362.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-750x499.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/106712515-16007873142020-09-22t143206z_1581279302_rc2q3j9agyz1_rtrmadp_0_usa-sec-whistleblowers-1-1140x758.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 18"></a></figure></div>
 
 
 <p>Despite these legal hurdles, Marathon CEO Fred Thiel expressed optimism in May about the company&#8217;s strategy to reduce its net loss. The goal was to decrease the net loss from $12.9 million ($0.12 per share) in Q1 2022 to $7.2 million ($0.05 per share) in the current year.</p>
@@ -610,7 +694,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1191.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-1191.png" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203654" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1191.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1191-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1191-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1191-750x563.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 16"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1191.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-1191.png" alt="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach" class="wp-image-203654" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1191.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1191-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1191-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1191-750x563.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shareholders Of Marathon Digital To Launch Legal Battle With Allegations Of Breach 19"></a></figure></div>
 
 
 <p>Marathon Digital Holdings faces a complex period due to legal disputes with shareholders, regulatory scrutiny from the SEC, and the prevalence of fraudulent activities. These factors will significantly impact the company&#8217;s future trajectory as it navigates the competitive landscape of the cryptocurrency mining industry.</p>
@@ -662,7 +746,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1188.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1188-1024x576.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203640" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1188-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1188-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1188-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1188-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1188-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1188.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 17"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1188.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1188-1024x576.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203640" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1188-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1188-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1188-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1188-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1188-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1188.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 20"></a></figure></div>
 
 
 <p>1INCH serves as the governance token for the decentralized exchange (DEX) aggregator, <a href="https://coincu.com/166829-1inch-the-parser-incentive-1-5-mil-inch/" target="_blank" rel="noreferrer noopener">1inch Network</a>. The protocol, built on Ethereum, aims to enhance trading liquidity and reduce slippage by aggregating liquidity from multiple decentralized exchanges.</p>
@@ -681,14 +765,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06.png"><img decoding="async" loading="lazy" width="1024" height="612" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1024x612.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203641" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1024x612.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-768x459.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1536x918.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-2048x1223.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-750x448.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1140x681.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 18"></a><figcaption class="wp-element-caption"><em>Source: Santiment</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06.png"><img decoding="async" loading="lazy" width="1024" height="612" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1024x612.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203641" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1024x612.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-768x459.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1536x918.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-2048x1223.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-750x448.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.56.06-1140x681.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 21"></a><figcaption class="wp-element-caption"><em>Source: Santiment</em></figcaption></figure></div>
 
 
 <p>As the chart reveals, the price of 1INCH has steadily climbed over the past week, culminating in a remarkable surge of over 80%. The altcoin&#8217;s primary declining trendline is marked, and the current focus for the bulls is to overcome this resistance level.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1187.png"><img decoding="async" loading="lazy" width="1024" height="622" src="https://coincu.com/wp-content/uploads/2023/07/image-1187-1024x622.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203636" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1187-1024x622.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1187-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1187-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1187-1536x933.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1187-2048x1244.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1187-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1187-1140x693.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 19"></a><figcaption class="wp-element-caption">1INCH price chart. <em>Source: <a href="https://www.tradingview.com/chart/1EribfXh/?symbol=BINANCE%3A1INCHUSDT" target="_blank" rel="noreferrer noopener">TradingView</a></em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1187.png"><img decoding="async" loading="lazy" width="1024" height="622" src="https://coincu.com/wp-content/uploads/2023/07/image-1187-1024x622.png" alt="1inch Network Token Drops More Than 35% After Recent Hype" class="wp-image-203636" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1187-1024x622.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1187-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1187-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1187-1536x933.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1187-2048x1244.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1187-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1187-1140x693.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="1inch Network Token Drops More Than 35% After Recent Hype 22"></a><figcaption class="wp-element-caption">1INCH price chart. <em>Source: <a href="https://www.tradingview.com/chart/1EribfXh/?symbol=BINANCE%3A1INCHUSDT" target="_blank" rel="noreferrer noopener">TradingView</a></em></figcaption></figure></div>
 
 
 <p>In terms of technical analysis, 1inch Network&#8217;s price is currently trading near a resistance level, with support at around $0.35 and resistance at approximately $0.6. This positioning suggests the possibility of selling pressures ahead, as the token&#8217;s price may be becoming overextended.</p>
@@ -750,7 +834,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png"><img decoding="async" loading="lazy" width="1024" height="684" src="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203623" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1186-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1186-768x513.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1186-750x501.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1186-1140x761.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1186.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 20"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png"><img decoding="async" loading="lazy" width="1024" height="684" src="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203623" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1186-1024x684.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1186-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1186-768x513.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1186-750x501.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1186-1140x761.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1186.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 23"></a></figure></div>
 
 
 <p>The <a href="https://www.reddit.com/r/CryptoCurrency/comments/151a5t2/the_reddit_tos_has_been_changed_and_verified" target="_blank" rel="noreferrer noopener">change</a> in Reddit&#8217;s policy regarding the distribution of reward points was revealed through a tweet by the unofficial Twitter account dedicated to r/CryptoCurrency Moons. According to the <a href="https://twitter.com/unofficalMoons/status/1680551451385364482" target="_blank" rel="noreferrer noopener">tweet</a>, Coins, and Rewards, two bonus mechanisms in the Web2 format, will be removed, while the platform will retain <a href="https://coincu.com/136796-reddits-collectible-nft-avatars/" target="_blank" rel="noreferrer noopener">Collectible Avatars</a> and Community Points mechanics. This alteration aims to simplify the platform&#8217;s structure, and further details regarding the new direction for awarding will be announced in the coming months.</p>
@@ -765,7 +849,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png"><img decoding="async" loading="lazy" width="1024" height="624" src="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203620" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1184-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1184-768x468.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1184-1536x935.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1184-2048x1247.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1184-750x457.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1184-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 21"></a><figcaption class="wp-element-caption">MOON price chart. <em>Source: TradingView</em></figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png"><img decoding="async" loading="lazy" width="1024" height="624" src="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203620" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1184-1024x624.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1184-300x183.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1184-768x468.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1184-1536x935.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1184-2048x1247.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1184-750x457.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1184-1140x694.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 24"></a><figcaption class="wp-element-caption">MOON price chart. <em>Source: TradingView</em></figcaption></figure></div>
 
 
 <p>Similarly, Bricks, the token rewarded for contributions in the r/Fortnite subreddit, <a href="https://www.coingecko.com/en/coins/brick" target="_blank" rel="noreferrer noopener">experienced</a> a significant increase in value, surging by 360% in just two days. The reasons behind this surge are linked to the speculation surrounding impending changes on the social network.</p>
@@ -780,7 +864,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png"><img decoding="async" loading="lazy" width="1024" height="570" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203621" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-750x417.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1140x634.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39.png 1398w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 22"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png"><img decoding="async" loading="lazy" width="1024" height="570" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png" alt="Reddit Community Tokens Skyrocket Over 300% In Just Two Days" class="wp-image-203621" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1024x570.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-750x417.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39-1140x634.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-16.06.39.png 1398w" sizes="(max-width: 1024px) 100vw, 1024px" title="Reddit Community Tokens Skyrocket Over 300% In Just Two Days 25"></a></figure></div>
 
 
 <p>As <a href="https://coincu.com/194304-reddit-crypto-communities/" target="_blank" rel="noreferrer noopener">Reddit</a> continues to navigate changes in its product orientation, the volatility of Moons and Bricks demonstrates the impact these alterations have on the value and trading activity of community tokens. The future of Reddit&#8217;s awarding system remains uncertain, but the recent developments highlight the evolving landscape of social networks and their efforts to provide value to their user communities.</p>
@@ -794,105 +878,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Reddit-Community-Tokens-Skyrocket-Over-300-percent-In-Just-Two-Days-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera</title>
-		<link>https://coincu.com/203585-shinhan-bank-scb-techx-complete-stablecoin-pilot/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Tue, 18 Jul 2023 08:34:51 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[DLT]]></category>
-		<category><![CDATA[EVM]]></category>
-		<category><![CDATA[Hedera Network]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[proof-of-concept]]></category>
-		<category><![CDATA[SCB TechX]]></category>
-		<category><![CDATA[Shinhan Bank]]></category>
-		<category><![CDATA[Stablecoin]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=203585</guid>
-
-					<description><![CDATA[Shinhan Bank, SCB TechX have completed a successful proof-of-concept pilot for stablecoin remittance on the Hedera open-source network.<p class="has-text-align-right"><a href="https://coincu.com/203585-shinhan-bank-scb-techx-complete-stablecoin-pilot/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Shinhan Bank, SCB TechX, and a major financial institution in Taiwan have completed a successful proof-of-concept pilot for stablecoin remittance on the Hedera open-source network.</em></li>
-
-
-
-<li><em>The pilot achieved real-time settlement and foreign exchange rate integration across multiple currencies, showcasing the potential for efficient cross-border payments.</em></li>
-
-
-
-<li><em>The use of stablecoins offers a low-cost and reliable method for transferring value across borders, increasing financial inclusion and accessibility for underserved communities.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Shinhan Bank, SCB TechX, and a major financial institution in Taiwan have <a href="https://hedera.com/blog/shinhan-bank-scb-techx-successfully-pilot-stablecoin-remittances-on-the-hedera-network" target="_blank" rel="noreferrer noopener">announced</a> the successful completion of a proof-of-concept (PoC) pilot for stablecoin remittance. This pilot was conducted on the efficient and eco-friendly Hedera open-source public network.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1180-1024x614.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/image-1180-1024x614.png" alt="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera" class="wp-image-203606" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1180-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1180-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1180-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1180-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1180-1140x684.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1180.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera 23"></a></figure></div>
-
-
-<p>During the pilot, real-time settlement and foreign exchange (FX) rate integration was achieved across the Thai Baht (THB), New Taiwan dollar (NTD), and South Korean won (KRW). The PoC, which is EVM-compatible, allows any EVM-based stablecoin issuers to participate using the framework in the future.</p>
-
-
-
-<p>This PoC builds upon <a href="https://coincu.com/125948-shinhan-card-launches-blockchain/" target="_blank" rel="noreferrer noopener">Shinhan Bank</a>&#8216;s previous work in stablecoin international remittances, demonstrating progress in the pursuit of efficient and cost-effective cross-border payments.</p>
-
-
-
-<p>Byunghee Kim, Chief of the Blockchain division at Shinhan Bank, expressed satisfaction with the partnership with Hedera and highlighted the importance of stablecoins for facilitating cross-border remittances. He emphasized how stablecoins offer a low-cost and reliable way to transfer value, contributing to financial inclusion and accessibility for underserved communities.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">&#8220;The successful completion of this second PoC marks an important step forward in our efforts to make cross-border payments faster, cheaper, and more accessible to people around the world.&#8221;</p>
-</blockquote>
-
-
-
-<p>SCB TechX also emphasized the potential of stablecoins in increasing financial inclusion and improving access to financial services for individuals and businesses in underserved communities.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1182.png"><img decoding="async" loading="lazy" width="1024" height="344" src="https://coincu.com/wp-content/uploads/2023/07/image-1182-1024x344.png" alt="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera" class="wp-image-203610" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1182-1024x344.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1182-300x101.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1182-768x258.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1182-1536x516.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1182-750x252.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1182-1140x383.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1182.png 1720w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera 24"></a></figure></div>
-
-
-<p>This announcement is a significant milestone for the financial industry as more banks and financial institutions recognize the transformative potential of blockchain and distributed ledger technology (DLT) in cross-border payments.</p>
-
-
-
-<p>Using stablecoins as a solution, banks can leverage an intermediary currency such as a dollar stablecoin to eliminate the need for maintaining accounts worldwide. This approach reduces costs by providing liquidity between local currencies and the dollar, streamlining the payment process.</p>
-
-
-
-<p>The scalability of public blockchains and DLT is a challenge for stablecoins. <a href="https://coincu.com/172960-hedera-upgraded-the-mainnet/" target="_blank" rel="noreferrer noopener">Hedera</a>, with its EVM smart contracts, can handle 300 transactions per second. For transactions that do not require smart contracts, Hedera&#8217;s native token service can scale up to 10,000 transactions per second. The platform is also working on a hybrid version that uses smart contracts for stablecoin management by the issuer instead of every transaction.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1183.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1183-1024x538.png" alt="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera" class="wp-image-203611" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1183-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1183-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1183-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1183-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1183-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1183.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shinhan Bank, SCB TechX Successfully Complete Second Stablecoin Pilot On Hedera 25"></a></figure></div>
-
-
-<p>Stablecoin usage has predominantly been for crypto transactions and P2P payments. The average cost of remittances worldwide is around 6%, but it varies significantly across jurisdictions. Low-cost networks like Hedera enable transactions at a fraction of a cent, reducing the overall payment costs.</p>
-
-
-
-<p>Hedera has introduced a stablecoin accelerator program and plans to open-source major components of the software required for launching stablecoins, further promoting innovation in this space.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/203585-shinhan-bank-scb-techx-complete-stablecoin-pilot/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Shinhan-Bank-SCB-TechX-Successfully-Complete-Second-Stablecoin-Pilot-On-Hedera-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
