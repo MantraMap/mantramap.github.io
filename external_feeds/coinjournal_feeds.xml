@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Fri, 21 Jul 2023 12:02:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 14:54:38 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neon EVM Launches on Solana Mainnet</title>
+		<link>https://coinjournal.net/news/neon-evm-launches-on-solana-mainnet/</link>
+		
+		<dc:creator><![CDATA[Ben Myers]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 14:54:38 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/?p=147120</guid>
+
+					<description><![CDATA[<p>[PARIS] &#8211; July 17, 2023 &#8211; During ETHCC23, Neon EVM launched on the Solana Mainnet to help close the gap between the different programming, computing, and memory models of Ethereum and Solana, bringing a low-friction solution to allow EVM dApps to settle to Solana. The Neon EVM program is a smart contract on the Solana [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/neon-evm-launches-on-solana-mainnet/">Neon EVM Launches on Solana Mainnet</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><b>[PARIS] &ndash; July 17, 2023 &ndash;</b><span style="font-weight: 400"> During ETHCC23,</span><a href="https://neonevm.org/" target="_blank" rel="nofollow noopener noreferrer"> <b>Neon EVM</b></a><span style="font-weight: 400"> launched on the Solana Mainnet to help close the gap between the different programming, computing, and memory models of Ethereum and Solana, bringing a low-friction solution to allow EVM dApps to settle to Solana.</span></p>
+<p><span style="font-weight: 400">The Neon EVM program is a smart contract on the Solana blockchain. It accepts wrapped Ethereum-like transactions and processes them on Solana.</span></p>
+<p><span style="font-weight: 400">Previously, when EVM dApps wanted to leverage low-cost solutions, they had to use a rollup or sidechain. By using Solana as the settlement layer, an EVM is well-placed to outcompete such L2 solutions. The average transaction fee for sending ETH on the Ethereum network is ~$2. The L2s offer between</span><a href="https://l2fees.info/" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">$0.5&ndash;$0.1</span></a><span style="font-weight: 400">, a saving of 4&ndash;20 times. In comparison, Solana&rsquo;s average transaction fees are ~0.00001 SOL ($0.0002) per transaction, 10,000 times saving. Initial tests of Neon EVM in Devnet demonstrate that the protocol</span><a href="https://medium.com/neon-labs/neon-synthetic-load-test-report-d53212711556" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">translates these optimizations in practice</span></a><span style="font-weight: 400">.</span></p>
+<p><span style="font-weight: 400">&ldquo;We are very excited to see Neon EVM live on Solana Mainnet,&rdquo; says </span><b>Marina Guryeva, Director of Neon Foundation</b><span style="font-weight: 400">. &ldquo;Once we repeat these tests in production, we will present the figures based on real-world data.&rdquo;</span></p>
+<p><span style="font-weight: 400">With the launch of Neon EVM on the Solana Mainnet, the Neon DAO is activated to begin participating in, and influencing the future development of, Neon EVM.</span></p>
+<p><b>About Neon EVM</b></p>
+<p><span style="font-weight: 400">Neon EVM is an Ethereum Virtual Machine operating as a smart contract on Solana. It gives developers the power to directly deploy Ethereum dApps with minimal reconfiguration to the code, while benefiting from Solana&rsquo;s technical advantages. It is built with security, decentralization, and sustainability as core tenants. For more information about Neon EVM and future updates, visit</span><a rel="nofollow noopener noreferrer"> <span style="font-weight: 400">NeonEVM.org</span></a><span style="font-weight: 400"> and connect with the community on</span><a href="https://twitter.com/Neon_EVM" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">Twitter</span></a><span style="font-weight: 400"> or</span><a href="https://discord.gg/neonevm" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">Discord</span></a><span style="font-weight: 400">.</span></p>
+<p><span style="font-weight: 400">&nbsp;</span><b>Links and resources:</b></p>
+<ul>
+<li><span style="font-weight: 400">Find the Neon EVM community on</span><a href="https://twitter.com/Neon_EVM" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">Twitter</span></a><span style="font-weight: 400"> or</span><a href="https://discord.gg/neonevm" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">Discord</span></a></li>
+<li><span style="font-weight: 400">To choose a public RPC endpoint, see</span><a href="https://chainlist.org/?chain=245022926&amp;testnets=true&amp;search=Neon+EVM" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">ChainList</span></a></li>
+<li><span style="font-weight: 400">For a high-level overview of the technical architecture and features of Neon EVM, the whitepaper is available at</span><a href="https://neonevm.org/whitepaper.pdf" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">NeonEVM.org/whitepaper.pdf</span></a></li>
+<li><span style="font-weight: 400">View Neon </span><span style="font-weight: 400">EVM</span><span style="font-weight: 400"> transactions settled to Solana with the</span><a href="https://neonscan.org" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">NeonScan</span></a><span style="font-weight: 400"> or</span><a href="https://neon-mainnet.blockscout.com/" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">BlockScout</span></a><span style="font-weight: 400"> explorers.</span></li>
+<li><span style="font-weight: 400">IRL: Epic Layer 2 Day, an event for researchers, developers, and enthusiasts dedicated to Ethereum L2 Scaling, see:</span> <a href="https://lu.ma/l2paris" target="_blank" rel="nofollow noopener noreferrer"> <span style="font-weight: 400">lu.ma/l2paris</span></a></li>
+</ul>
+<p><span style="font-weight: 400">&nbsp;</span></p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/neon-evm-launches-on-solana-mainnet/">Neon EVM Launches on Solana Mainnet</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Crypto price prediction: XDC Network, Polkadot, dYdX</title>
 		<link>https://coinjournal.net/news/crypto-price-prediction-xdc-network-polkadot-dydx/</link>
 					<comments>https://coinjournal.net/news/crypto-price-prediction-xdc-network-polkadot-dydx/#respond</comments>
@@ -385,51 +420,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://coinjournal.net/news/kuwait-bans-all-crypto-activities-including-mining/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>UK&#8217;s FCA launches a permanent digital sandbox</title>
-		<link>https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/</link>
-					<comments>https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/#respond</comments>
-		
-		<dc:creator><![CDATA[Hassan Maishera]]></dc:creator>
-		<pubDate>Thu, 20 Jul 2023 14:11:42 +0000</pubDate>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/</guid>
-
-					<description><![CDATA[<p>Key takeaways FCA&#8217;s digital sandbox is set to launch on August 1st. The sandbox will serve as a testing environment for firms before rolling out their products. UK&#8217;s financial regulator launches a digital sandbox The U.K. Financial Conduct Authority (FCA) announced on Thursday, July 20th, that it will launch a digital sandbox. The regulator said [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/">UK&#8217;s FCA launches a permanent digital sandbox</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p dir="ltr">Key takeaways</p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">FCA&rsquo;s digital sandbox is set to launch on August 1st.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">The sandbox will serve as a testing environment for firms before rolling out their products.</p>
-</li>
-</ul>
-<h2 dir="ltr">UK&rsquo;s financial regulator launches a digital sandbox</h2>
-<p dir="ltr">The U.K. Financial Conduct Authority (FCA) <a href="https://www.fca.org.uk/news/news-stories/launch-permanent-digital-sandbox" rel="noopener noreferrer" target="_blank">announced</a> on Thursday, July 20th, that it will launch a digital sandbox.</p>
-<p dir="ltr">The regulator said the permanent digital sandbox will be made available on August 1st, 2023, opening up the platform to an even broader range of innovative businesses, start-ups and data providers.</p>
-<p dir="ltr">The platform will serve as a testing environment for firms to see how their products would perform at an early stage of development.&nbsp;</p>
-<p dir="ltr">This&nbsp;<a href="https://coinjournal.net/news/"><u>latest cryptocurrency news</u></a> comes nearly three years after the regulator launched the sandbox on a trial basis. The FCA said the sandbox would also be available to data providers and would offer firms access to data sets, application program interfaces (API) and data security protection.</p>
-<p dir="ltr">The FCA said;</p>
-<p dir="ltr"><em>&ldquo;Until now, the platform has only been available temporarily to those participating in pilots and TechSprints.</em></p>
-<p dir="ltr"><em>The Digital Sandbox works to foster innovation and growth &ndash; more than half of the previous Small to Medium Enterprise participants in the pilots and TechSprints made positive developments, including launching new products, securing funding and partnerships, or receiving industry awards or recognitions.&rdquo;</em></p>
-<h2 dir="ltr">The digital sandbox provides data security protection</h2>
-<p dir="ltr">The regulatory agency pointed out that its digital sandbox has numerous features that would benefit developers. The sandbox&rsquo;s integrated development environment allows experimentation while safeguarding the data assets on the platform.&nbsp;</p>
-<p dir="ltr">Furthermore, developers would have access to over 200 synthetic, public or anonymised data sets and over 1000 APIs to enable testing and validation of technology solutions.</p>
-<p dir="ltr">The observation deck feature allows interested parties such as regulators, incumbents and others&#8239;to observe in-flight testing at a technical level.&#8239;Finally, the FCA believes that the sandbox could promote diversity of thought, share learnings and foster an ecosystem between teams, observers and mentors.</p>
-<p dir="ltr">Former Economic Secretary John Glen rolled out the plans for the sandbox in 2022 with the aim of making the UK a cryptocurrency innovation hub. Previously, the sandbox was available only during pilots and TechSprints, which brought people from the financial industry together to address industry challenges.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/">UK&#8217;s FCA launches a permanent digital sandbox</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/uks-fca-launches-a-permanent-digital-sandbox/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
