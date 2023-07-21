@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 21 Jul 2023 12:09:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 14:22:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,1205 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Optimism To Launch ZKPs To Boost Cross-Chain Communication</title>
+		<link>https://coincu.com/204801-optimism-to-launch-zkps/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 14:19:04 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[mina protocol]]></category>
+		<category><![CDATA[O(1) Labs]]></category>
+		<category><![CDATA[OP Mainnet]]></category>
+		<category><![CDATA[optimism]]></category>
+		<category><![CDATA[Optimism Foundation]]></category>
+		<category><![CDATA[RISC Zero]]></category>
+		<category><![CDATA[ZKPs]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204801</guid>
+
+					<description><![CDATA[Optimism is making strides in improving cross-chain communication with the integration of zero-knowledge proofs (ZKPs).<p class="has-text-align-right"><a href="https://coincu.com/204801-optimism-to-launch-zkps/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Optimism is adding zero-knowledge proofs (ZKPs) to enable secure and efficient cross-chain communication between its Layer 2 solution and Ethereum.</em></li>
+
+
+
+<li><em>The ZKPs will be provided by O(1) Labs and RISC Zero, enhancing security and reducing latency in the network.</em></li>
+
+
+
+<li><em>Optimism aims to improve its ecosystem&#8217;s performance and compatibility with existing systems, paving the way for more accessible development using Solidity and EVM.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The Ethereum Layer 2 scaling solution, Optimism, is making strides in improving cross-chain communication with the integration of zero-knowledge proofs (ZKPs). The initiative aims to enable secure and efficient communication between layers and directly between OP chains, enhancing privacy and security in blockchain transactions.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1498.png"><img decoding="async" width="840" height="630" src="https://coincu.com/wp-content/uploads/2023/07/image-1498.png" alt="Optimism To Launch ZKPs To Boost Cross-Chain Communication" class="wp-image-204811" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1498.png 840w, https://coincu.com/wp-content/uploads/2023/07/image-1498-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1498-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1498-750x563.png 750w" sizes="(max-width: 840px) 100vw, 840px" title="Optimism To Launch ZKPs To Boost Cross-Chain Communication 1"></a></figure></div>
+
+
+<p><a href="https://coincu.com/192902-optimisms-layer-2-network-upgrade-faster/" target="_blank" rel="noreferrer noopener">Optimism</a> recently <a href="https://github.com/ethereum-optimism/ecosystem-contributions/issues/61" target="_blank" rel="noreferrer noopener">shared</a> that they will be moving forward with proposals from O(1) Labs and RISC Zero, both offering innovative solutions to bring ZKPs to the platform. ZKPs are cryptographic concepts that allow one party to prove the truth of a statement to another party without revealing any additional information. This implementation will revamp Optimism&#8217;s tech stack, ensuring faster and more secure transactions.</p>
+
+
+
+<p>RISC Zero&#8217;s proposal seeks to upgrade Optimism&#8217;s existing fault protocol, using ZKPs to validate state changes on the platform. Users can prove the correctness of state changes with ZKPs, while also challenging any incorrect state changes with supporting proofs.</p>
+
+
+
+<p>On the other hand, O(1) Labs, known for incubating the <a href="https://coincu.com/179253-mina-protocol-launched-its-roadmap/" target="_blank" rel="noreferrer noopener">Mina Protocol</a>, is proposing a new fault-proof solution using Kimchi, a ZK-proof system used in Mina. This solution allows efficient proof of correct transaction execution, which is then used to update the Ethereum network&#8217;s state via smart contracts, enhancing performance, security, and compatibility.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1500-1024x540.png"><img decoding="async" loading="lazy" width="1024" height="540" src="https://coincu.com/wp-content/uploads/2023/07/image-1500-1024x540.png" alt="Optimism To Launch ZKPs To Boost Cross-Chain Communication" class="wp-image-204813" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1500-1024x540.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1500-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1500-768x405.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1500-750x396.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1500.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism To Launch ZKPs To Boost Cross-Chain Communication 2"></a></figure></div>
+
+
+<p>The incorporation of ZKPs will enhance Optimism&#8217;s cross-chain communication capabilities by bolstering security, decreasing latency, and making the platform more affordable and efficient. The Optimism Foundation is actively working with O(1) Labs and RISC Zero to finalize the project and set detailed expectations.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1499.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1499-1024x683.png" alt="Optimism To Launch ZKPs To Boost Cross-Chain Communication" class="wp-image-204812" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1499-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1499-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1499-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1499-1536x1024.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1499-2048x1366.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1499-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1499-1140x760.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism To Launch ZKPs To Boost Cross-Chain Communication 3"></a></figure></div>
+
+
+<p>The addition of ZKPs to Optimism&#8217;s layer 2 solution signifies a major milestone in the platform&#8217;s development, providing a more versatile and secure environment for users and developers alike. The move aligns with the growing trend of improving compatibility between various blockchain ecosystems and paves the way for more efficient and accessible blockchain interactions.</p>
+
+
+
+<p>The project&#8217;s name has been changed to <a href="https://coincu.com/197566-optimism-rebranded-op-mainnet-superchain/" target="_blank" rel="noreferrer noopener">OP Mainnet</a> to reflect the goal of creating a &#8220;superchain&#8221; network of several Layer 2 blockchains.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204801-optimism-to-launch-zkps/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1497-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Celsius Network: A Story Of Greed And Deception By CEO And Lawyer</title>
+		<link>https://coincu.com/204802-celsius-network-a-story-of-greed-and-deception/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 13:56:26 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Alex Mashinsky]]></category>
+		<category><![CDATA[Celsius]]></category>
+		<category><![CDATA[Celsius chapter 11 bankruptcy]]></category>
+		<category><![CDATA[Celsius Network]]></category>
+		<category><![CDATA[Celsius Network LLC]]></category>
+		<category><![CDATA[Roni Cohen-Pavon]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204802</guid>
+
+					<description><![CDATA[Discover the dark side of Celsius Network as CEO and lawyer stand accused of scamming customers, as per Bloomberg. <p class="has-text-align-right"><a href="https://coincu.com/204802-celsius-network-a-story-of-greed-and-deception/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Mashinsky and Cohen-Pavon charged with defrauding Celsius customers.</em></li>
+
+
+
+<li><em>Cohen-Pavon accused of manipulating Celsius&#8217;s token.</em></li>
+
+
+
+<li><em>Executives allegedly profited millions from scheme.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Discover the dark side of Celsius Network as CEO and lawyer stand accused of scamming customers, as per <a href="https://www.bloomberg.com/news/articles/2023-07-21/celsius-lawyer-fixed-mashinsky-s-problems-until-both-got-charged?utm_campaign=socialflow-organic&amp;utm_content=crypto&amp;utm_source=twitter&amp;utm_medium=social" target="_blank" data-type="URL" data-id="https://www.bloomberg.com/news/articles/2023-07-21/celsius-lawyer-fixed-mashinsky-s-problems-until-both-got-charged?utm_campaign=socialflow-organic&amp;utm_content=crypto&amp;utm_source=twitter&amp;utm_medium=social" rel="noreferrer noopener">Bloomberg</a>. </strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1495-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-1495-1024x683.png" alt="Celsius Network: A Story Of Greed And Deception By CEO And Lawyer" class="wp-image-204804" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1495-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1495-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1495-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1495-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1495-1140x760.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1495.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Celsius Network: A Story Of Greed And Deception By CEO And Lawyer 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Former Celsius CEO Alex Mashinsky was arrested in July and charged with defrauding customers at the now-bankrupt crypto lender. His former colleague, Celsius’s chief revenue officer, and longtime lawyer Roni Cohen-Pavon have also been charged with aiding in some of Mashinsky’s alleged crimes. </p>
+
+
+
+<p>Prosecutors allege that Cohen-Pavon was key to one of Mashinsky’s schemes, manipulating Celsius’s native token CEL to mislead customers and line the executives’ pockets. While Mashinsky was the public face of Celsius, Cohen-Pavon operated behind the scenes. He allegedly took home $3.6 million from selling his CEL holdings, while Mashinsky allegedly pocketed $42 million.</p>
+
+
+
+<p>Cohen-Pavon had a strong interest in crypto and helped architect the Celsius initial coin offering in 2018. In 2020, he allegedly helped craft a doomed deal with the decentralized finance app KeyFi, which compounded Celsius’s financial woes. Despite concerns about Celsius internally, Mashinsky used his weekly Q&amp;As to create a much rosier picture for customers. For instance, he claimed the ICO was a huge success. Celsius raised $50 million, Mashinsky claimed and sold all the CEL tokens it had offered. But in reality, prosecutors say, Celsius underperformed, raising only $32 million and failing to sell one-third of its tokens.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1496.png"><img decoding="async" loading="lazy" width="600" height="340" src="https://coincu.com/wp-content/uploads/2023/07/image-1496.png" alt="Celsius Network: A Story Of Greed And Deception By CEO And Lawyer" class="wp-image-204805" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1496.png 600w, https://coincu.com/wp-content/uploads/2023/07/image-1496-300x170.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="Celsius Network: A Story Of Greed And Deception By CEO And Lawyer 5"></a><figcaption class="wp-element-caption">Cohen-Pavon</figcaption></figure></div>
+
+
+<p>By early 2021, Mashinsky discovered a sizable hole in Celsius’s balance sheet, partly from using customer deposits to purchase CEL. Prosecutors say he kept the problem under wraps and handpicked Cohen-Pavon to oversee Celsius’s frenzied CEL purchases on the open market. Publicly, Celsius claimed to buy CEL to meet its promise of customer rewards. Still, prosecutors allege it was buying well above that amount to prop up the price of the cryptocurrency artificially.</p>
+
+
+
+<p>Cohen-Pavon was still on the payroll after the company filed for bankruptcy, and he was even in line to receive up to $239,000 to help restructure the company, according to documents in the bankruptcy case. He wasn’t placed on administrative leave until after the US Attorney’s office in Manhattan announced charges against him and Mashinsky. Celsius attorney Christopher S. Koenig said during a bankruptcy hearing days after the arrests that Cohen-Pavon would be fired “in short order.”</p>
+
+
+
+<p>While announcing charges against Cohen-Pavon, US Attorney Damian Williams wouldn’t say whether the office would seek his extradition. Israel has historically erred against extraditing its citizens to face charges in other jurisdictions, said Michael Zweiback, an attorney who worked on two cases involving extradition with Israel as a federal prosecutor. In 2007, the country changed its treaty with the US to send its citizens to America if any prison sentence is served back in Israel, but Zweiback says the process is still difficult.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204802-celsius-network-a-story-of-greed-and-deception/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-21T205348.222-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>EthCC 2023 Recap: 8 Notable Big Announcements</title>
+		<link>https://coincu.com/204721-ethcc-2023-recap-8-notable-big-announcements/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 13:40:33 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Chainlink]]></category>
+		<category><![CDATA[EthCC]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Gnosis]]></category>
+		<category><![CDATA[Lens Protocol]]></category>
+		<category><![CDATA[Linea]]></category>
+		<category><![CDATA[Mantle Network]]></category>
+		<category><![CDATA[Solang]]></category>
+		<category><![CDATA[Starknet]]></category>
+		<category><![CDATA[UniswapX]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204721</guid>
+
+					<description><![CDATA[During EthCC 2023, the Ethereum ecosystem showcased its remarkable strength through a series of significant project unveilings and breakthrough updates.<p class="has-text-align-right"><a href="https://coincu.com/204721-ethcc-2023-recap-8-notable-big-announcements/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<h5 class="wp-block-heading"><strong>The Paris-based Ethereum Community Conference (EthCC) took place this week, attracting over 5,000 attendees and featuring more than 350 speakers. EthCC is renowned as the largest annual European Ethereum event with a strong focus on technology and community engagement, offering participants three days of conferences, networking, and learning opportunities.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1494-1024x609.png"><img decoding="async" loading="lazy" width="1024" height="609" src="https://coincu.com/wp-content/uploads/2023/07/image-1494-1024x609.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204799" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1494-1024x609.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1494-300x178.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1494-768x457.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1494-1536x913.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1494-750x446.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1494-1140x678.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1494.png 1554w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 6"></a></figure></div>
+
+
+<p>During <a href="https://www.ethcc.io/" target="_blank" rel="noreferrer noopener">EthCC 2023</a>, the Ethereum ecosystem showcased its remarkable strength through a series of significant project unveilings and breakthrough updates. Eight game-changing announcements stood out, further solidifying Ethereum&#8217;s position in the blockchain space.</p>
+
+
+
+<p>For those who missed the event, here&#8217;s a comprehensive recap of the major advancements and highlights that graced this year&#8217;s EthCC, demonstrating the continued growth and innovation within the Ethereum community.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Lens Protocol launches V2 version with many new features</h2>
+
+
+
+<p>Lens Protocol, the decentralized social networking platform on Polygon, is gearing up for its highly-anticipated <a href="https://coincu.com/203388-lens-protocol-announces-v2-release/" target="_blank" rel="noreferrer noopener">V2 upgrade</a>, introducing a range of new functionalities. Among the exciting features is &#8220;Open Actions,&#8221; enabling external smart contracts to interact with live Lens posts. This innovation opens up possibilities for users to create NFTs on OpenSea using content from Lens publications.</p>
+
+
+
+<p>The Lens team is committed to improving compatibility and optimizing product module structure by incorporating Web3 applications, thus enhancing interactivity within the platform. The integration of the ERC-6551 token standard allows NFT holders to attach various assets and seamlessly interact with applications.</p>
+
+
+
+<p>A significant change in V2 is that NFT ownership is no longer limited to wallet addresses; it can now be associated with profile pictures. This advancement has implications in the metaverse, where, for instance, users can program a piece of land to control their profile picture on Lens and interact with other land users.</p>
+
+
+
+<p>The Lens Protocol successfully raised $15 million USD in June 2023, further solidifying its position in the decentralized social networking space. Recently, the team also announced the beta version of Bonsai, a layer-3 scaling solution designed to handle high transaction volumes with minimal overhead. Additionally, Lens has implemented Momoka, a scaling solution enabling off-chain storage of transaction data while ensuring validation occurs on-chain.</p>
+
+
+
+<p>With these game-changing upgrades and innovations, the Lens Protocol is poised to revolutionize the decentralized social networking landscape and offer its users a more immersive and interactive experience.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1485.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1485-1024x576.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204740" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1485-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1485-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1485-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1485-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1485-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1485-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1485-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 7"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Uniswap introduces a new DEX Aggregator solution called UniswapX</h2>
+
+
+
+<p>Uniswap, the world&#8217;s largest decentralized crypto exchange, has introduced its latest open-source protocol, <a href="https://coincu.com/203440-uniswapx-launches-empowering-traders/" target="_blank" rel="noreferrer noopener">UniswapX</a>, designed to revolutionize trading across automated market makers (AMMs) and various liquidity sources. Founder Hayden Adams made the announcement at the EthCC conference in Paris.</p>
+
+
+
+<p>UniswapX aims to address common pain points of on-chain trading and self-custody swapping. The protocol&#8217;s key features include &#8220;better prices&#8221; achieved by aggregating liquidity sources, gas-free swapping, protection against the maximal extractable value (MEV), and zero costs for failed transactions.</p>
+
+
+
+<p>The system also introduces a process known as &#8220;Dutch orders,&#8221; in which the price of a trade order steadily decreases until it is filled. It also provides gas-free transactions, no-cost unsuccessful transactions, and MEV protection.</p>
+
+
+
+<p>UniswapX is currently in opt-in beta on the Uniswap Labs interface for Ethereum, with plans to expand to other chains and the Uniswap wallet in the near future. Notably, the protocol introduces a third entity called &#8220;Filler,&#8221; responsible for using on-chain liquidity to support swaps. Users can now place orders off-chain without consuming gas, and Fillers will cover the gas fees to fulfill these trading orders.</p>
+
+
+
+<p>The new protocol also offers protection against MEV activity, enhancing transaction prices without being vulnerable to attacks like sandwich trades. To make operations more convenient, Fillers will utilize a Transaction Relay layer when routing orders onto the on-chain.</p>
+
+
+
+<p>UniswapX&#8217;s design includes a transaction fee re-sharing feature, pending approval through a Uniswap vote in the future.</p>
+
+
+
+<p>Adams emphasized the immutability of UniswapX, assuring that the code cannot be altered or moved, and Uniswap Labs will not possess the authority to modify or suspend smart contracts. Users will retain full control of their wallet balance when executing swap operations.</p>
+
+
+
+<p>With its innovative features and commitment to user empowerment, UniswapX is set to further solidify Uniswap&#8217;s position as a leading force in the decentralized exchange landscape.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1486.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1486-1024x576.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204741" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1486-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1486-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1486-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1486-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1486-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1486-1140x642.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1486.png 1999w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 8"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Chainlink announced the official launch of the Cross-Chain Interoperability Protocol</h2>
+
+
+
+<p>Chainlink, the leading oracle solution, has officially <a href="https://coincu.com/203471-chainlink-new-protocol-is-now-live/" target="_blank" rel="noreferrer noopener">launched</a> its Cross-Chain Interoperability Protocol (CCIP) on several blockchain networks, including Avalanche, Ethereum, Optimism, and Polygon. CCIP is designed to enable seamless and secure interaction between different chains, allowing users to transfer tokens and data between blockchains with minimal slippage and maximum security.</p>
+
+
+
+<p>The protocol leverages Chainlink&#8217;s oracle technology, providing a unified interface for cross-chain communication. It operates under a &#8216;lock and mint&#8217; or &#8216;burn and release&#8217; mechanism, allowing users to move tokens from one chain to another and trigger smart contract logic on the chain using random data commands.</p>
+
+
+
+<p>One of the significant features of CCIP is its locked gas fee payment mechanism, ensuring transaction execution regardless of network congestion or gas price increases. It offers scalability and is considered future-proof, with plans to expand to other chains in the near future.</p>
+
+
+
+<p>CCIP brings several utilities to the blockchain ecosystem, including cross-chain swaps, cross-chain deposits to open liquidity positions, and cross-chain lending to mortgage assets and borrow stablecoins in other chains. Additionally, CCIP includes an extra layer of risk management to detect potential vulnerabilities in cross-chain activities.</p>
+
+
+
+<p>Another notable improvement of CCIP is its integration with SWIFT, a cross-border payment system, bridging the gap between traditional assets and digital assets.</p>
+
+
+
+<p>Currently, CCIP is available on two DeFi platforms, Aave and Synthetix, with other DeFi projects encouraged to integrate the protocol. Furthermore, Chainlink plans to support CCIP on various testnets, including Arbitrum Goerli, Avalanche Fuji, Ethereum Sepolia, Optimism Goerli, and Polygon Mumbai. The protocol&#8217;s successful deployment across multiple networks marks a significant milestone in enhancing interoperability and expanding the utility of decentralized finance.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1488-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1488-1024x576.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204744" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1488-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1488-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1488-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1488-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1488-2048x1153.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1488-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1488-1140x642.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 9"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Starknet announces Appchains framework</h2>
+
+
+
+<p>Starknet, an Ethereum Layer 2 solution, has <a href="https://coincu.com/204036-starknet-starknet-appchains-performance/" target="_blank" rel="noreferrer noopener">unveiled</a> &#8220;appchain,&#8221; a framework that empowers developers to create application-specific blockchains within Starknet. This innovative project aligns with the rising trend of modular networks in the Layer 2 ecosystem, seen in projects like Optimism, Polygon, zkSync, and Arbitrum.</p>
+
+
+
+<p>Appchain refers to blockchains designed exclusively for individual Dapp applications, processing transactions solely for that application rather than sharing them across the entire ecosystem. This marks a significant development in Ethereum&#8217;s scaling roadmap.</p>
+
+
+
+<p>Starknet&#8217;s app chains utilize STARK proofs technology to ensure security and are programmed in StarkWare&#8217;s Cairo language.</p>
+
+
+
+<p>The introduction of appchains has been a long-awaited need in the blockchain space and is now receiving the attention it deserves. Other major layer-2 solutions on Ethereum have also initiated similar child blockchain-building toolkit initiatives, following Optimism&#8217;s OP Stack, Arbitrum Orbit, zkSync Era&#8217;s ZK Stack, and Polygon Supernets.</p>
+
+
+
+<p>Using Starknet Stack, the native developer toolkit of Starknet&#8217;s ecosystem, developers can create these appchains, leveraging STARK proofs to enhance security. The toolkit&#8217;s core component is Cairo, a programming language developed by the StarkWare team, akin to Rust.</p>
+
+
+
+<p>Appchains offer enhanced performance, as evidenced by Starknet&#8217;s recent v0.12.0 upgrade on the mainnet, which reported amplified network performance.</p>
+
+
+
+<p>An intriguing aspect of appchains is their ability to support features not present on Starknet&#8217;s main network, such as custom fee market logic and consensus mechanisms. This flexibility empowers developers to tailor their application&#8217;s configurations and functionalities, providing greater control over their projects.</p>
+
+
+
+<p>Starknet&#8217;s introduction of appchains represents a significant milestone in the blockchain landscape, increasing developers&#8217; capacity for customization and making the ecosystem more versatile and adaptable to specific application requirements. This move signifies a key step towards a more decentralized, diversified, and performance-oriented blockchain environment.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1487.png"><img decoding="async" loading="lazy" width="1000" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-1487.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204743" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1487.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-1487-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1487-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1487-750x450.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="EthCC 2023 Recap: 8 Notable Big Announcements 10"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Gnosis launches self-managed Visa debit card</h2>
+
+
+
+<p>Gnosis, a prominent player in the blockchain industry, has made significant strides in the world of digital payments with the introduction of two groundbreaking products. Meet Gnosis Pay, the world&#8217;s first decentralized payment network, and the innovative <a href="https://coincu.com/203382-gnosis-card-now-available/" target="_blank" rel="noreferrer noopener">Gnosis Card</a>, a Visa-certified, self-custodial debit card. These products are set to redefine how traditional and web3 economies integrate seamlessly.</p>
+
+
+
+<p>Gnosis Pay empowers web3 developers to incorporate conventional payment systems, like Visa, into their platforms within a decentralized framework. This breakthrough solution bridges the gap between traditional and blockchain-based transactions, offering users unparalleled flexibility and convenience.</p>
+
+
+
+<p>The revolutionary Gnosis Card complements Gnosis Pay as the first of its kind, a Visa-certified, self-custodial debit card that directly links to users&#8217; on-chain wallets. With the Gnosis Card, users can effortlessly spend their digital assets at any Visa-accepting merchant, harnessing the advantages of blockchain technology alongside traditional payment systems.</p>
+
+
+
+<p>To ensure optimal performance and scalability, Gnosis Pay relies on a custom Layer 2 solution built on the Gnosis chain. This advanced technology empowers the platform to handle a high volume of transactions securely and efficiently.</p>
+
+
+
+<p>With Gnosis Pay and the Gnosis Card, users can unlock a multitude of benefits and possibilities. Gnosis Pay enables individuals to seamlessly bring their digital assets into the traditional economy, allowing for smooth transactions across various payment systems. Meanwhile, the Gnosis Card offers users the ultimate level of control, securely managing funds directly from their on-chain wallets.</p>
+
+
+
+<p>The Gnosis Pay infrastructure is characterized by its security and openness, providing a transparent and trustworthy payment network. Moreover, Gnosis Pay has achieved full compliance with EU regulations, thanks to strategic partnerships and comprehensive banking and payment licenses.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1489-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1489-1024x538.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204771" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1489-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1489-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1489-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1489-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1489-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1489.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 11"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Mantle Network launches alpha mainnet version</h2>
+
+
+
+<p>Mantle Network, the Ethereum Layer 2 blockchain, has <a href="https://coincu.com/203354-mantle-network-launched-its-mainnet-alpha/" target="_blank" rel="noreferrer noopener">made</a> a significant stride by officially launching its alpha mainnet at the Ethereum Community Conference (EthCC) in Paris. This milestone comes after an intensive six-month period of development and testing, during which the network processed an impressive 14 million transactions on-chain.</p>
+
+
+
+<p>The launch was further fortified by Mantle Network&#8217;s merger with BitDAO in May, integrating BitDAO&#8217;s treasury and governance framework with the network. With this merger, Mantle now enjoys robust financial backing, boasting one of the largest crypto coffers, valued at over $2.4 billion.</p>
+
+
+
+<p>One of the notable features of Mantle Network is its design, allowing for quick upgrades through the swapping of modular components. This approach opens the doors for embracing the latest Ethereum innovations, such as account abstraction. Account abstraction enables wallets to function similarly to smart contracts, enabling them to handle more complex tasks automatically.</p>
+
+
+
+<p>Mantle Network&#8217;s alpha mainnet launch has already garnered support from various partners, including blockchain game accelerator Game7, web game launcher HyperPlay, and blockchain education initiative EduDAO. Moreover, infrastructure providers and dApps such as Ankr, Bullieverse, Covalent, LayerZero, and The Graph have also contributed to the network, adding to its strength and potential for growth.</p>
+
+
+
+<p>The launch of Mantle Network&#8217;s alpha mainnet represents an exciting development in the Ethereum ecosystem, providing new possibilities for scalability and adoption of the latest innovations in blockchain technology. With strong financial backing and a network of esteemed partners, Mantle Network is poised to significantly impact the Layer 2 blockchain landscape.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1490-1024x535.png"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/image-1490-1024x535.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204784" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1490-1024x535.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1490-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1490-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1490-750x392.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1490-1140x596.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1490.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 12"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Linea launches alpha mainnet version</h2>
+
+
+
+<p>Consensys, a leading blockchain development company, has made a significant stride with the launch of the alpha mainnet version of its Layer 2 solution called Linea. This launch comes after a successful 3-month testing period, during which Linea garnered impressive traction, with more than 5.5 million wallets performing over 46 million transactions on Ethereum&#8217;s Goerli testnet. Such activity solidifies Linea&#8217;s position as one of the most active projects on the testnet.</p>
+
+
+
+<p>The mainnet alpha phase of Linea promises to elevate user experience by introducing an ecosystem of over 100 protocols, partners, and decentralized applications. To achieve this, Linea incorporates some notable upgrades, including the utilization of new infrastructure technology, a dynamic fee mechanism, and integration of batch trading. These enhancements enable Linea to significantly reduce transaction costs, making it approximately 15 times cheaper compared to Ethereum.</p>
+
+
+
+<p>Initially, Linea will be accessible to partners on the project&#8217;s test network. However, during the EthCC conference from July 17 to 20, the platform will be opened to the public, offering broader accessibility to users.</p>
+
+
+
+<p>The launch of Linea&#8217;s alpha mainnet version showcases Consensys&#8217; commitment to advancing Layer 2 solutions and enhancing the scalability and user experience on the Ethereum blockchain. As Linea opens up to a wider audience, it is expected to bring more efficiency and affordability to blockchain transactions, further contributing to the growth and adoption of decentralized applications and protocols.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl.jpg"><img decoding="async" loading="lazy" width="1024" height="581" src="https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-1024x581.jpg" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204791" srcset="https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-1024x581.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-300x170.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-768x436.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-1536x872.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-750x426.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl-1140x647.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/FsUDjmDWIAISBzl.jpg 1720w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 13"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Solana Labs releases Solang to improve compatibility with Ethereum</h2>
+
+
+
+<p>Solana Labs has taken a significant step in enhancing developer accessibility by releasing <a href="https://coincu.com/204093-solana-labs-introduces-solang-a-new-compiler/" target="_blank" rel="noreferrer noopener">Solang</a>, a new compiler aimed at facilitating the migration of Ethereum Virtual Machine (EVM) developers to the Solana environment. With Solang, developers familiar with Solidity, Ethereum&#8217;s primary smart contract programming language, now have a tool that enables them to learn and write applications on the Solana network.</p>
+
+
+
+<p>This launch comes closely after the Neon EVM&#8217;s announcement of a similar tool, indicating a growing focus on improving compatibility between Solana and existing Ethereum development practices.</p>
+
+
+
+<p>Solang offers several key features, including compatibility with Solidity version 0.8 of Ethereum and seamless integration of Solana SPL tokens with Solidity. Moreover, it allows EVM frameworks on Solana to access crucial network features.</p>
+
+
+
+<p>Traditionally, smart contract development on Solana has revolved around using languages like Rust or C. However, with the introduction of Solang, the team is emphasizing a shift towards making development more accessible through Solidity and EVM. This move is expected to attract more Ethereum developers to the Solana ecosystem, bolstering cross-chain collaboration and fostering greater innovation in the decentralized finance space.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1492-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-1492-1024x538.png" alt="EthCC 2023 Recap: 8 Notable Big Announcements" class="wp-image-204792" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1492-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1492-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1492-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1492-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1492-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1492.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="EthCC 2023 Recap: 8 Notable Big Announcements 14"></a></figure></div>
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204721-ethcc-2023-recap-8-notable-big-announcements/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1493-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos</title>
+		<link>https://coincu.com/204623-spacefi-defi-hub-on-the-zksync-era-and-evmos/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 13:37:48 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Dex]]></category>
+		<category><![CDATA[Launchpad]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[SpaceFi]]></category>
+		<category><![CDATA[zkSync Era]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204623</guid>
+
+					<description><![CDATA[SpaceFi integrating Evmos and ZkSync, and its products include DEX, NFT, Launchpad, and Spacebase will have new products like Game and Social Network in the future. <p class="has-text-align-right"><a href="https://coincu.com/204623-spacefi-defi-hub-on-the-zksync-era-and-evmos/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<h5 class="wp-block-heading"><strong>SpaceFi is a cross-chain platform that connects Cosmos and the Ethereum Layer 2 ecosystem. It is currently integrating Evmos and ZkSync, and its products include DEX, NFT, Launchpad, and Spacebase will have new products like Game and Social Network in the future. So let&#8217;s learn all about the SpaceFi project through the article below.</strong></h5>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is SpaceFi?</h2>
+
+
+
+<p><a href="https://app.spacefi.io/#/home" target="_blank" rel="noreferrer noopener">SpaceFi</a> is a DeFi platform with many active products, such as DEX, NFT, Launchpad, etc. integrated in one platform to help users more convenient with DeFi transactions. SpaceFi is currently built on Evmos blockchain and layer 2 zkSync, in the future will develop in other EVM chains like Celo.</p>
+
+
+
+<p>SpaceFi is deployed on<a href="https://coincu.com/203301-zksync-era-introduced-boojum/" target="_blank" rel="noreferrer noopener"> zkSync Era</a>, and also runs separately on Evmos as an exploration in Cosmos ecosystem.</p>
+
+
+
+<ul>
+<li>zkSync is a Layer 2 scaling solution on Ethereum that offers low gas and fast transactions, without compromising on security. It&#8217;s a scaling and privacy engine for Ethereum, based on zero-knowledge proof technology.</li>
+
+
+
+<li>Evmos is the EVM hub on Cosmos. It will not only bring EVM developers into Cosmos eco, but also works with Celestia to bring modular and interoperable cross-chain solutions to EVM ecosystem.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1467-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1467-1024x576.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204689" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1467-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1467-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1467-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1467-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1467.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>SpaceFi has shaped the project as a DeFi Hub with various features in one platform such as DEX, NFT, Launchpad, and Community Space (Spacebase), this creates a certain convenience for users when there is no need to move and manipulate many different projects.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Products of SpaceFi</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>DEX</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1468-1024x643.png"><img decoding="async" loading="lazy" width="1024" height="643" src="https://coincu.com/wp-content/uploads/2023/07/image-1468-1024x643.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204690" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1468-1024x643.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1468-300x188.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1468-768x482.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1468-750x471.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1468.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>A decentralized exchange on SpaceFi that works on Evmos and zkSync. Users can swap tokens and provide liquidity through the SpaceFi DEX. Currently, SpaceFi is the chain with the 7th most significant number of TVLs in the zkSync Era ecosystem, reaching $7.91 million.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1457-1024x288.png"><img decoding="async" loading="lazy" width="1024" height="288" src="https://coincu.com/wp-content/uploads/2023/07/image-1457-1024x288.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204661" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1457-1024x288.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1457-300x85.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1457-768x216.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1457-1536x433.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1457-2048x577.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1457-750x211.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1457-1140x321.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>You can swap, and add/remove liquidity. Also, the mining transaction is in the plan. 1/3 of the transaction fee will be used to redeem STAR tokens. SpaceSwap transaction fee will be used for LP rewards, buyback-and-burn, NFTs dividends, etc. Traders can also receive transaction fee mining rewards.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Farming</strong></h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1469-1024x960.png"><img decoding="async" loading="lazy" width="1024" height="960" src="https://coincu.com/wp-content/uploads/2023/07/image-1469-1024x960.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204691" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1469-1024x960.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1469-300x281.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1469-768x720.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1469-750x703.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1469.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>With Space Farms, you can earn SPACE rewards by staking single coin, LP tokens (liquidity pool), NFTs and etc. Each farm pool has its own APR depending on the value of the staked tokens, the reward weight and the price of SPACE.</p>
+
+
+
+<p>In single pool you can bet STAR earn $STAR. In the LP pool, you can bet different liquidity to earn $STAR. In the NFT pool you can bet NFT planet to earn $STAR.</p>
+
+
+
+<p>These farming pools will have different rules. For example, if user unstake token within 30 days, user will lose 50% of his total reward. This lost reward will be returned to the DAO and NFT pool for platform development.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>NFT</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1470-1024x984.png"><img decoding="async" loading="lazy" width="1024" height="984" src="https://coincu.com/wp-content/uploads/2023/07/image-1470-1024x984.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204693" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1470-1024x984.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1470-300x288.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1470-768x738.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1470-750x721.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1470.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Planet NFT is a card in the SpaceFi ecosystem, carrying a large number of assets and interests with differentiated functions and values, and also has more application scenarios in Space DAO and Game in the future. The current benefits of NFT are mainly:</p>
+
+
+
+<ul>
+<li>You can mint a Common Planet NFT or use a Common Planet NFT to mint a Unique Planet NFT and an exclusive STAR Sign NFT, receiving a 105% -150% multiplier with each minting.</li>
+
+
+
+<li>You can stake Planet NFT to farm SPACE tokens, getting higher rewards than regular farming.</li>
+
+
+
+<li>You can get various rewards for NFT holders, including minting fees, transaction fees, space base fees, and validators&#8217; commissions.</li>
+
+
+
+<li>You can sell Planet NFT for a premium for scarcity.</li>
+
+
+
+<li>You can use Planet NFT to post proposals and vote when SpaceFi governance is launched.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Starter</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1471-1024x516.png"><img decoding="async" loading="lazy" width="1024" height="516" src="https://coincu.com/wp-content/uploads/2023/07/image-1471-1024x516.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204694" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1471-1024x516.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1471-300x151.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1471-768x387.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1471-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-1471-750x378.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1471.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Starter is the Launchpad for projects in the ecosystem. Users can stake USDT, ETH or LP Token of SPACE-USDC to be allocated slots to buy tokens of projects participating in Launchpad.</p>
+
+
+
+<p>There will be two loops in the Launchpad including:</p>
+
+
+
+<ul>
+<li>Public: All users can join</li>
+
+
+
+<li>Private: Only whitelisted wallet addresses can participate.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Spacebase</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1472.png"><img decoding="async" loading="lazy" width="1024" height="467" src="https://coincu.com/wp-content/uploads/2023/07/image-1472-1024x467.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204695" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1472-1024x467.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1472-300x137.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1472-768x350.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1472-750x342.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1472.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Spacebase is the on-chain community of caches. You can use STAR to create a space base, 90% of STARs are burned and 10% of STARs are allocated to NFT bounties and DAO funds. Both creators and members can get more rewards as they earn coins on the farm.</p>
+
+
+
+<p>To create a room, users need a SPACE token, by default the room will have a maximum of 10 participants. If you want to increase the number of members of the room, the creator needs to pay the corresponding SPACE token.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>SPACE Bridge</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1475-1024x311.png"><img decoding="async" loading="lazy" width="1024" height="311" src="https://coincu.com/wp-content/uploads/2023/07/image-1475-1024x311.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204699" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1475-1024x311.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1475-300x91.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1475-768x233.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1475-1536x467.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1475-2048x623.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1475-750x228.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1475-1140x347.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>SPACE Bridge is specially designed for transferrin SPACE/xSPACE/Planet NFT between different chains, currently Evmos and zkSync Era.</p>
+
+
+
+<p><strong>Transfer Rate</strong></p>
+
+
+
+<p>When chains transfer transfer SPACE/xSPACE, there&#8217;ll be a bridge fee (5%, adjustable), marked as Transfer Rate, to maintain the balance of different. Planet NFT won&#8217;t. An amount of SPACE will be charged as the gas fee for bridging. The token in the original chain will be burned and a corresponding amount of token will be issued in the target chain as native token.</p>
+
+
+
+<p><strong>Burn and Bonus</strong></p>
+
+
+
+<p>90% of bridge fee will be burned and 10% will be allocated to NFT Bonus (70%) &amp; DAO (30%) in the original chain.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Validator</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1474-1024x573.png"><img decoding="async" loading="lazy" width="1024" height="573" src="https://coincu.com/wp-content/uploads/2023/07/image-1474-1024x573.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204698" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1474-1024x573.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1474-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1474-768x429.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1474-750x419.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1474.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>SpaceFi community co-built a validator on Evmos named spacefi.io. We encourage the community to participate in Evmos and zkSync ecosystem building and governance. There&#8217;ll be delegator points for stakers, based on staked amount, time and number of voting.</p>
+
+
+
+<p>spacefi.io validator has a co-building and sharing mechanism for stakers and SpaceFi community.</p>
+
+
+
+<ul>
+<li>For Delegators: there will be extra airdrop, WL and NFT as incentive.</li>
+
+
+
+<li>For SpaceFi community: 50% of validator commission will be redistributed to planet NFT holders, community contributors, buyback and burning $STAR.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Tokenomics</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>SPACE</strong></h3>
+
+
+
+<p>SPACE is the utility and governance token of SpaceFi. The Max Supply of SPACE token is 50M on zkSync Era mainnet, with an initial supply of 10M SPACE at genesis for incentive, IDO and strategic reserves. This will balance early contributors and future development needs to pursue long-term benefits with the community.</p>
+
+
+
+<p>SPACE Token has a &#8216;thirdening&#8217; allocation schedule, with the distribution of tokens to the market according to a deflationary mechanism. In particular, with each passing year, the amount of SPACE Token distributed out will be reduced by one third (a deflationary mechanism similar to Bitcoin Halving).</p>
+
+
+
+<p>Token Allocation:</p>
+
+
+
+<ul>
+<li>80%, to the community
+<ul>
+<li>70%, allocated to mining rewards, for liquidity rewards, staking, trading mining, etc.</li>
+
+
+
+<li>10%, allocated to DAO treasury, through governance, for ecological construction, strategic cooperation, etc.</li>
+</ul>
+</li>
+
+
+
+<li>20%, to the dev team</li>
+</ul>
+
+
+
+<p>If certain individuals on the initial development team are no longer part of the network, the community may choose to reclaim any unpublished tokens and redirect them to the new program.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>xSPACE TOKEN</strong></h3>
+
+
+
+<p>xSPACE is a non-transferable escrow management token, converted with a 1:1 SPACE key with a 30-day non-binding term. If you choose to unlink xSPACE immediately, 50% of SPACE will be converted back and the remaining 50% will be burned.</p>
+
+
+
+<p>It can be earned from farming or converting SPACE directly. xSPACE can be staked on the farm to earn more xSPACE and used in future SpaceFi administration.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>xEVMOS TOKEN</strong></h3>
+
+
+
+<p>Evmos was approved on January 25, 2023 to grant 1 million EVMOS to SpaceFi as a liquidity incentive.</p>
+
+
+
+<p>As in the proposal, the project will launch a non-tradable reward token, xEVMOS, which is 1:1 converted from EVMOS issued by the Evmos community team. The reward earned on the farm is xEVMOS, which can be converted back to EVMOS with a 30-day non-union period.</p>
+
+
+
+<p>Users can also choose to immediately unlink xEVMOS, which will only convert back to 50% in EVMOS. The remaining 50% will be sent back to the requested EVMOS multi-signature address, which can make the offer last longer.</p>
+
+
+
+<p>With xEVMOS, we are able to reduce reward spending and dumping while maintaining an attractive APR and incentivizing long-term holders. The liquidity offer can last for more than 90 days if some users choose to unlink xEVMOS immediately.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Roadmap</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1476-1024x583.png"><img decoding="async" loading="lazy" width="1024" height="583" src="https://coincu.com/wp-content/uploads/2023/07/image-1476-1024x583.png" alt="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos" class="wp-image-204700" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1476-1024x583.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1476-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1476-768x437.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1476-1536x874.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1476-2048x1166.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1476-750x427.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1476-1140x649.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SpaceFi Review: Popular DeFi Hub On The zkSync Era And Evmos 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<h3 class="wp-block-heading"><strong>Q3/2023</strong></h3>
+
+
+
+<p><strong>Product:&nbsp;</strong></p>
+
+
+
+<ul>
+<li>Points System</li>
+
+
+
+<li>Stable Swap</li>
+
+
+
+<li>New products in Launchpad</li>
+
+
+
+<li>More value to Planet NFT and xSPACE</li>
+
+
+
+<li>UX/UI improvements</li>
+</ul>
+
+
+
+<p><strong>Operation:</strong></p>
+
+
+
+<ul>
+<li>Liquidity Growth</li>
+
+
+
+<li>Trading Campaign</li>
+
+
+
+<li>Introduce LSD assets</li>
+
+
+
+<li>Listing potential projects on Launchpad</li>
+</ul>
+
+
+
+<p><strong>Ecosystem:</strong></p>
+
+
+
+<p>Expand in more main zk-rollups: #scroll , #linea , etc.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Q4/2023</strong></h3>
+
+
+
+<p><strong>Product:</strong></p>
+
+
+
+<ul>
+<li>DEX aggregator</li>
+
+
+
+<li>Research on L2s cross-chain</li>
+
+
+
+<li>Explore the governance module</li>
+</ul>
+
+
+
+<p><strong>Operation:</strong></p>
+
+
+
+<ul>
+<li>Liquidity Growth</li>
+
+
+
+<li>Trading Campaign</li>
+
+
+
+<li>Listing potential projects on Launchpad</li>
+</ul>
+
+
+
+<p><strong>Ecosystem:</strong></p>
+
+
+
+<ul>
+<li>Build more ecological partners</li>
+
+
+
+<li>Incubation and Investment</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
+
+
+
+<p>SpaceFi is connecting the Cosmos and Ethereum Layer2 ecosystems, exploring on-chain solutions and interoperability of assets. As a first step, SpaceFi will start from DEX+NFT+Starter+Spacebase, aiming to become a tool in the Evmos ecosystem. It will then launch on the zkSync mainnet and other EVM chains in the future.</p>
+
+
+
+<p>Space has created a fully integrated system that strives to create sustainable chemistry between the products. In the Space universe, you can earn DeFi rewards through liquidity mining, trading mining or minting Star tokens into NFTs for higher revenue, transaction fee dividends, premium trading, and governance rights, etc. At the same time, you can also create a Spacebase, invite fans and friends to join, both sides get additional rewards. Space will also be on the Starter platform to incubate and support outstanding ecological projects, and jointly build Space.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204623-spacefi-defi-hub-on-the-zksync-era-and-evmos/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-46-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Binance France&#8217;s Audited Financial Statements Reveals €1bn In Crypto Assets</title>
+		<link>https://coincu.com/204781-binance-frances-audited-financial-statements/</link>
+		
+		<dc:creator><![CDATA[Thana]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 13:29:04 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[binance chain]]></category>
+		<category><![CDATA[Binance France]]></category>
+		<category><![CDATA[CZ binance]]></category>
+		<category><![CDATA[RSM]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204781</guid>
+
+					<description><![CDATA[Binance France's first audited financial statements reveal €1bn in crypto assets on behalf of French residents and a €4M loss due to regulatory hurdles. RSM Paris audited the statements.<p class="has-text-align-right"><a href="https://coincu.com/204781-binance-frances-audited-financial-statements/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Binance France held approximately €1bn in crypto assets on behalf of its French resident users and recorded a €4M loss in 2022 due to regulatory hurdles.</em></li>
+
+
+
+<li><em>The audited financial statements were audited by RSM Paris, which was chosen due to its strong reputation, global presence, and team of 57,000 people.</em></li>
+
+
+
+<li><em>Binance France&#8217;s income primarily consists of trading fees and the company projects that it will be profitable in its 2023 accounts with a combined 12 months of income and expenses.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Binance France&#8217;s first audited financial <a href="https://www.binance.com/fr/blog/ecosystem/binance-france-publishes-2022-accounts--what-do-they-say-and-faq-7753651850896626460" target="_blank" data-type="URL" data-id="https://www.binance.com/fr/blog/ecosystem/binance-france-publishes-2022-accounts--what-do-they-say-and-faq-7753651850896626460" rel="noreferrer noopener">statements </a>reveal €1bn in crypto assets on behalf of French residents and a €4M loss due to regulatory hurdles. RSM Paris audited the statements.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1491.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1491-1024x576.png" alt="Binance France&#039;s Audited Financial Statements Reveals €1bn In Crypto Assets" class="wp-image-204786" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1491-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1491-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1491-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1491-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1491-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1491.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance France&#039;s Audited Financial Statements Reveals €1bn In Crypto Assets 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Binance France recently published its first audited financial statements covering a 14-month period from November 8, 2021, to December 31, 2022. The statements revealed that Binance France held approximately €1bn in crypto assets on behalf of its French resident users and 7M USDT on its own account. </p>
+
+
+
+<p>The company also recorded a €4M loss in 2022 due to the accounts covering 14 months of expenses but only six months of revenue. Binance France only received revenue after it was able to serve users on receipt of regulatory approval from the AMF, approximately halfway through 2022. Meanwhile, the firm incurred operating costs starting in November 2021. The audited financial statements were audited by RSM Paris.</p>
+
+
+
+<p>Binance France&#8217;s income primarily consists of trading fees, and the company projects that it will be in profit in its 2023 accounts with a combined 12 months of income and expenses. The audited financial statements also revealed that the company&#8217;s operating expenses of €14m consisted of staff costs and related payroll charges, marketing expenses, professional fees, administrative expenses, and taxes.</p>
+
+
+
+<p>Binance France&#8217;s financial year started in November 2021, when the company was established and ended in December 2022. Financial reporting for 2023 will cover January to December. The company&#8217;s VASP registration was granted in May 2022, and French resident users signed new terms and conditions in July 2022, becoming clients of Binance France. The entity started to receive the revenues generated from these clients in its accounts. In contrast, expenses (including the costs associated with its registration) started from the creation of Binance France in November 2021.</p>
+
+
+
+<p>Binance chose RSM as its independent auditors due to the firm&#8217;s strong reputation, global presence, and a team of 57,000 people. Local laws and regulations generally drive audit requirements, and any Binance entity required to be audited complies with its obligations. Binance France is not the only Binance entity that has been audited.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204781-binance-frances-audited-financial-statements/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-2023-07-21T202717.052-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>IOST Node And Sigma Partnered To Launch The Cross-chain Bridge Sigma-Bridge</title>
+		<link>https://coincu.com/204779-iost-node-sigma-partnered-sigma-bridge/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 13:28:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[cross-chain bridge]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[IOST]]></category>
+		<category><![CDATA[market]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204779</guid>
+
+					<description><![CDATA[Sigma, an IOST node partner, has unveiled its groundbreaking cross-chain bridge, Sigma-Bridge. <p class="has-text-align-right"><a href="https://coincu.com/204779-iost-node-sigma-partnered-sigma-bridge/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>IOST node partner Sigma launches Sigma-Bridge for fast cross-chain transactions.</em></li>
+
+
+
+<li><em>Sigma-Bridge enables asset transfers between major compatible networks, promoting scalability.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Sigma, an IOST node partner, has unveiled its groundbreaking cross-chain bridge, Sigma-Bridge.&nbsp;</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/be22423f-shutterstock_2082933175.jpeg"><img decoding="async" loading="lazy" width="620" height="403" src="https://coincu.com/wp-content/uploads/2023/07/be22423f-shutterstock_2082933175.jpeg" alt="IOST Node And Sigma Partnered To Launch The Cross-chain Bridge Sigma-Bridge" class="wp-image-204782" srcset="https://coincu.com/wp-content/uploads/2023/07/be22423f-shutterstock_2082933175.jpeg 620w, https://coincu.com/wp-content/uploads/2023/07/be22423f-shutterstock_2082933175-300x195.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px" title="IOST Node And Sigma Partnered To Launch The Cross-chain Bridge Sigma-Bridge 26"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The cutting-edge tool facilitates rapid asset transactions and contract calls between major networks. Initially devised to enable seamless conversions between IOST and ETH assets, Sigma-Bridge has expanded its capabilities to support asset transfers across various ecosystems like IOST Node and Binance Smart Chain (BSC).</p>
+
+
+
+<p>Sigma has ambitious plans to further enhance Sigma-Bridge by integrating it with other high-performance mainstream public chains such as Layer2, Optimism, Arbitrum, and zkSync. This expansion will include support for multiple types of tokens, fostering a robust multi-chain ecology. The ultimate objective is to bolster the scalability, security, and interoperability of the IOST Node public chain.</p>
+
+
+
+<p>With the launch of Sigma-Bridge, Sigma aims to revolutionize cross-chain transactions and bridge the gap between diverse blockchain networks. This new tool promises to unlock a host of possibilities, making it easier and faster for users to move assets and execute smart contracts between different platforms.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw.jpeg"><img decoding="async" loading="lazy" width="1024" height="572" src="https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-1024x572.jpeg" alt="IOST Node And Sigma Partnered To Launch The Cross-chain Bridge Sigma-Bridge" class="wp-image-204783" srcset="https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-1024x572.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-300x168.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-768x429.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-750x419.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw-1140x637.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1_PB3QEGugFQYMo_MVj65ZVw.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="IOST Node And Sigma Partnered To Launch The Cross-chain Bridge Sigma-Bridge 27"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The introduction of Sigma-Bridge marks a significant milestone in the ongoing development of <a href="https://coincu.com/44854-iost-works-with-unics-institute-for-the-future-to-empower-women-in-the-blockchain/">IOST</a>&#8216;s ecosystem. As more networks and tokens become compatible with the bridge, it will pave the way for a seamless and interconnected blockchain landscape. Sigma&#8217;s dedication to improving the user experience and driving innovation in the crypto space is evident in this latest advancement.</p>
+
+
+
+<p>As the crypto industry continues to evolve, cross-chain interoperability has emerged as a critical area of focus. Sigma&#8217;s initiative to expand Sigma-Bridge to support multiple mainstream public chains demonstrates its commitment to meeting the growing demands of the blockchain community.</p>
+
+
+
+<p>The launch of Sigma-Bridge has the potential to reshape the way assets are transferred and contracts are executed across different blockchain networks. By promoting a more interconnected and efficient ecosystem, Sigma is playing a key role in driving the adoption and integration of blockchain technology in various industries. As Sigma-Bridge continues to expand its reach, it is poised to become a pivotal tool in the world of cross-chain transactions and decentralized finance.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204779-iost-node-sigma-partnered-sigma-bridge/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-3-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Conic Finance Investigates Vulnerability After $3.2 Million Attack on ETH Omnipool</title>
+		<link>https://coincu.com/204773-conic-finance-3-2-million-attack-on-eth-omnipool/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 12:58:59 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[market]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204773</guid>
+
+					<description><![CDATA[On July 21, Conic Finance provided an update on the recent attack it faced, which resulted in a loss of approximately $3.2 million. <p class="has-text-align-right"><a href="https://coincu.com/204773-conic-finance-3-2-million-attack-on-eth-omnipool/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Conic Finance investigates $3.2 million attack on ETH Omnipool, disabling deposits to address vulnerability.</em></li>
+
+
+
+<li><em>PeckShield identifies new CurveLPOracleV2 contract as root cause, emphasizing the need for security audits in DeFi.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>On July 21, Conic Finance provided an update on the recent attack it faced, which resulted in a loss of approximately $3.2 million.&nbsp;</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO.jpeg"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-1024x538.jpeg" alt="Conic Finance Investigates Vulnerability After $3.2 Million Attack on ETH Omnipool" class="wp-image-204775" srcset="https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-1024x538.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-300x158.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-768x403.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-750x394.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO-1140x599.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/cB7IRtUO.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Conic Finance Investigates Vulnerability After $3.2 Million Attack on ETH Omnipool 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The platform disabled ETH Omnipool deposits on its frontend while the team continues to investigate the root cause of the vulnerability. They are also in communication with relevant parties to address the issue.</p>
+
+
+
+<p>Blockchain security organization PeckShield conducted an analysis of the attack and identified the new CurveLPOracleV2 contract as the root cause. According to their preliminary findings, the attack was related to read-only reentrancy issues in the contract. Interestingly, PeckShield&#8217;s audit had previously flagged similar issues, but the newly launched CurveLPOracleV2 contract was not included in the scope of the audit.</p>
+
+
+
+<p>Conic Finance is actively working on resolving the situation and has taken measures to prevent further exploitation. However, as a precautionary step, they have temporarily disabled <a href="https://coincu.com/204250-bankless-report-ethereum-q2-revenue-plunges-33-3/">ETH</a> Omnipool deposits on the frontend to safeguard user funds.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/hacker.jpeg"><img decoding="async" loading="lazy" width="1000" height="520" src="https://coincu.com/wp-content/uploads/2023/07/hacker.jpeg" alt="Conic Finance Investigates Vulnerability After $3.2 Million Attack on ETH Omnipool" class="wp-image-204776" srcset="https://coincu.com/wp-content/uploads/2023/07/hacker.jpeg 1000w, https://coincu.com/wp-content/uploads/2023/07/hacker-300x156.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/hacker-768x399.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/hacker-750x390.jpeg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Conic Finance Investigates Vulnerability After $3.2 Million Attack on ETH Omnipool 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The incident highlights the importance of thorough security audits and constant vigilance in the DeFi space. It also emphasizes the significance of including all relevant contracts in security assessments to prevent potential vulnerabilities.</p>
+
+
+
+<p>As Conic Finance continues its investigation and collaborates with relevant stakeholders, users are advised to stay updated on the platform&#8217;s official communications for further developments and security updates. Investors and users should remain cautious and refrain from making any deposits or transactions until the issue is fully resolved.</p>
+
+
+
+<p>Despite this setback, the DeFi community&#8217;s response to such incidents is a testament to its resilience and commitment to addressing security challenges. As the investigation progresses, the incident is likely to spark further discussions about security best practices in the rapidly evolving DeFi landscape.</p>
+
+
+
+<p>Overall, Conic Finance&#8217;s prompt action in addressing the vulnerability and conducting a thorough investigation reflects the commitment of DeFi platforms to safeguarding user assets and maintaining trust in the ecosystem. However, users must remain vigilant and exercise caution while the situation unfolds.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204773-conic-finance-3-2-million-attack-on-eth-omnipool/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-2-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Bank Of France Finds Wholesale CBDC Improves Cross-Border Payments</title>
+		<link>https://coincu.com/204766-bank-of-france-cbdc-cross-border-payments/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 12:38:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[CBDC]]></category>
+		<category><![CDATA[Central Bank of France]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[wholesale CBDC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=204766</guid>
+
+					<description><![CDATA[The Bank of France released a report on the successful testing of wholesale Central Bank Digital Currency (wCBDC) on distributed ledger technology (DLT). <p class="has-text-align-right"><a href="https://coincu.com/204766-bank-of-france-cbdc-cross-border-payments/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Bank of France&#8217;s wholesale CBDC (wCBDC) testing with DLT shows promising results for cross-border payments.</em></li>
+
+
+
+<li><em>The experiments demonstrate the feasibility of wCBDC issuance and highlight the importance of international cooperation and interoperability for a successful wholesale CBDC framework.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The Bank of France released a report on the successful testing of wholesale Central Bank Digital Currency (wCBDC) on distributed ledger technology (DLT).&nbsp;</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/banque-de-france.jpeg"><img decoding="async" loading="lazy" width="1024" height="634" src="https://coincu.com/wp-content/uploads/2023/07/banque-de-france-1024x634.jpeg" alt="Bank Of France Finds Wholesale CBDC Improves Cross-Border Payments" class="wp-image-204768" srcset="https://coincu.com/wp-content/uploads/2023/07/banque-de-france-1024x634.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/banque-de-france-300x186.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/banque-de-france-768x476.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/banque-de-france-750x464.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/banque-de-france-1140x706.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/banque-de-france.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bank Of France Finds Wholesale CBDC Improves Cross-Border Payments 30"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The Bank of France&#8217;s testing of wholesale CBDC (wCBDC) using distributed ledger technology (DLT) has shown promising results. The experiments, launched in March 2020, included 12 tests that demonstrated the operational feasibility of issuing wCBDC directly on DLT. Three models were tested: interoperability, distribution, and integration. These models covered financial tokenization and cross-border transactions, offering valuable insights.</p>
+
+
+
+<p>Key conclusions from the experiments include the benefits of wCBDC as a complement to retail CBDC, ensuring the stability and convertibility of central bank money. International cooperation and public-private partnerships are vital to creating a globally inclusive and interoperable wholesale CBDC framework.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2.jpeg"><img decoding="async" loading="lazy" width="800" height="446" src="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2.jpeg" alt="Bank Of France Finds Wholesale CBDC Improves Cross-Border Payments" class="wp-image-204769" srcset="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2.jpeg 800w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2-300x167.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2-768x428.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-2-750x418.jpeg 750w" sizes="(max-width: 800px) 100vw, 800px" title="Bank Of France Finds Wholesale CBDC Improves Cross-Border Payments 31"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Interoperability is crucial for seamless data and transaction exchange between DLT-based and conventional infrastructures. Climate concerns have highlighted the need for energy-efficient solutions in designing wCBDCs. Technological advancements offer central banks various means to maintain control over their wholesale CBDC while remaining technologically neutral and adopting common standards.</p>
+
+
+
+<p>DLT can enhance straight-through processing of trade and post-trade activities, contributing to overall financial stability. Continued experiments at domestic and international levels are essential for further analysis and the development of an operational framework through a learning-by-doing approach. <a href="https://coincu.com/203975-societe-generales-granted-license-crypto-service/">The Bank of France</a> plans to support the Eurosystem and explore cross-border payment improvements based on these findings.</p>
+
+
+
+<p>The report also highlights the importance of energy-efficient solutions and continued experiments to advance the operational framework for wholesale CBDCs. The results of the wCBDC experiment indicate promising prospects for using distributed ledger technology to improve cross-border payments and establish a more efficient and inclusive wholesale CBDC ecosystem. As the exploration continues, it may pave the way for transformative changes in the global financial landscape.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/204766-bank-of-france-cbdc-cross-border-payments/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-1-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
 		<title>Ripple&#8217;s Thriving Growth: UK &#038; Ireland Licenses, 75% Workforce Increase</title>
 		<link>https://coincu.com/204760-ripples-uk-ireland-75-workforce/</link>
 		
@@ -62,7 +1261,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1.jpeg"><img decoding="async" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1024x682.jpeg" alt="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase" class="wp-image-204762" srcset="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1.jpeg"><img decoding="async" loading="lazy" width="1024" height="682" src="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1024x682.jpeg" alt="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase" class="wp-image-204762" srcset="https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1024x682.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/tai-xuong-1.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase 32"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Recently, Ripple&#8217;s European managing director, Sendi Young, disclosed that the company has applied for an encryption license with the UK Financial Conduct Authority (FCA) and a payments license in Ireland.</p>
@@ -77,7 +1276,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254.jpeg"><img decoding="async" loading="lazy" width="1024" height="676" src="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1024x676.jpeg" alt="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase" class="wp-image-204763" srcset="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1024x676.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-300x198.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-768x507.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-750x495.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1140x752.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254.jpeg"><img decoding="async" loading="lazy" width="1024" height="676" src="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1024x676.jpeg" alt="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase" class="wp-image-204763" srcset="https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1024x676.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-300x198.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-768x507.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-750x495.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254-1140x752.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/GettyImages-1365598845-1a74cc67896a4d058dea8f78a7065254.jpeg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ripple&#039;s Thriving Growth: UK &amp; Ireland Licenses, 75% Workforce Increase 33"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Despite its expansion efforts in Europe, <a href="https://coincu.com/203962-ripple-jumps-over-10/">Ripple</a> emphasizes that the US remains its global hub and there are no indications of a shift in that status. The expansion in Europe is seen as a strategic move to better serve customers and engage with the growing crypto and blockchain community in the region.</p>
@@ -146,7 +1345,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png"><img decoding="async" loading="lazy" width="800" height="400" src="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png" alt="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration" class="wp-image-204756" srcset="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png 800w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-750x375.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png"><img decoding="async" loading="lazy" width="800" height="400" src="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png" alt="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration" class="wp-image-204756" srcset="https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking.png 800w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/Wormhole-Bridge-Attacker-Converts-USD-157-Million-ETH-into-Staking-750x375.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration 34"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>This innovative gateway connects liquidity and users from over 20 diverse blockchains to any Cosmos application chain, setting a precedent in the industry. The Wormhole Gateway aims to simplify token integration for developers and users, fostering liquidity growth and fortifying the Cosmos ecosystem.</p>
@@ -157,7 +1356,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg" alt="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration" class="wp-image-204757" srcset="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1.jpeg 1260w" sizes="(max-width: 1024px) 100vw, 1024px" title="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg" alt="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration" class="wp-image-204757" srcset="https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Cosmos-1260x709-1.jpeg 1260w" sizes="(max-width: 1024px) 100vw, 1024px" title="Wormhole Launches Groundbreaking Gateway For Seamless Cosmos Application Chain Integration 35"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p><a href="https://coincu.com/196020-wormhole-review/">Wormhole</a>&#8216;s pioneering approach sets a new standard for blockchain interoperability, enabling smooth and efficient token transfers between diverse Cosmos chains. The Gateway&#8217;s integration capability is expected to drive greater adoption of the Cosmos ecosystem and attract more developers and users seeking streamlined access to its various applications.</p>
@@ -195,687 +1394,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-4-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Compound Team Deposits $1.5M COMP Into Coinbase Wallet</title>
-		<link>https://coincu.com/204723-compound-team-deposits-1-5m-comp-into-coinbase/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 10:18:04 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[Coinbase wallet]]></category>
-		<category><![CDATA[COMP]]></category>
-		<category><![CDATA[Compound]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204723</guid>
-
-					<description><![CDATA[Key Points: Data from Lookonchain monitoring has sent shockwaves through the crypto community as it uncovered a significant transaction involving a giant whale address related to the Compound team. Approximately two hours ago, the address made a bold move by depositing a staggering 20,000 COMP tokens into Coinbase, amounting to a jaw-dropping US$1.5 million in [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/204723-compound-team-deposits-1-5m-comp-into-coinbase/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>A Compound team-linked whale address deposited 20,000 COMP tokens, valued at $1.5 million, into Coinbase. </em></li>
-
-
-
-<li><em>The transaction raises questions about potential implications for both Compound and Coinbase, and the motives behind the massive deposit. </em></li>
-
-
-
-<li><em>The deposit signifies a significant shift in strategy for the address and may hint at possible bullish sentiments or innovative investment strategies.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Data from Lookonchain monitoring has sent shockwaves through the crypto community as it uncovered a significant transaction involving a giant whale address related to the <a href="https://compound.finance/" target="_blank" data-type="URL" data-id="https://compound.finance/" rel="noreferrer noopener">Compound</a> team. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet.png"><img decoding="async" loading="lazy" width="900" height="500" src="https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet.png" alt="Compound Team Deposits 1.5M COMP Into Coinbase Wallet" class="wp-image-204729" srcset="https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet.png 900w, https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet-750x417.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Compound Team Deposits $1.5M COMP Into Coinbase Wallet 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Approximately two hours ago, the address made a bold move by depositing a staggering 20,000 COMP tokens into Coinbase, amounting to a jaw-dropping US$1.5 million in value.</p>
-
-
-
-<p>The transaction has sparked intense speculation, with industry observers closely analyzing the motives behind the massive deposit. The involvement of a Compound team-linked address has only added to the intrigue, raising questions about the potential implications for both Compound and Coinbase.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">A whale related to the Compound team deposited 20,000 <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$COMP</a> ($1.5M) to <a href="https://twitter.com/hashtag/Coinbase?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Coinbase</a> 2 hrs ago. <br><br>And the whale currently has 402,462 <a href="https://twitter.com/search?q=%24COMP&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$COMP</a> ($29.8M) on <a href="https://twitter.com/hashtag/Compound?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Compound</a>.<a href="https://t.co/fZNr8QVDwG" target="_blank">https://t.co/fZNr8QVDwG</a> <a href="https://t.co/olZT5yAFRH" target="_blank">pic.twitter.com/olZT5yAFRH</a></p>&mdash; Lookonchain (@lookonchain) <a href="https://twitter.com/lookonchain/status/1682315050902749184?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 21, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>As of now, the address holds an impressive stash of 402,462 COMP tokens, totaling an astonishing approximate value of $29.8 million on the Compound platform. Such a substantial holding demonstrates the whale address&#8217;s commanding presence in the Compound ecosystem and its influence on the platform&#8217;s dynamics.</p>
-
-
-
-<p>The deposit into Coinbase signifies a significant shift in strategy for the address, signaling a potential diversification of its portfolio or a strategic move to leverage the assets on a different platform. With the crypto market constantly evolving, large transactions of this nature often hint at possible bullish sentiments or innovative investment strategies.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1483.png"><img decoding="async" loading="lazy" width="1024" height="479" src="https://coincu.com/wp-content/uploads/2023/07/image-1483-1024x479.png" alt="image 1483" class="wp-image-204725" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1483-1024x479.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1483-300x140.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1483-768x359.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1483-1536x718.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1483-2048x958.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1483-750x351.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1483-1140x533.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Compound Team Deposits $1.5M COMP Into Coinbase Wallet 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The transaction has piqued the interest of traders and investors, who eagerly await the market&#8217;s response to this notable move. The ripple effects of such a significant deposit are bound to be felt across the crypto landscape, as it may impact both COMP and Coinbase&#8217;s trading volumes and market sentiment.</p>
-
-
-
-<p>The Compound team has been at the forefront of driving DeFi adoption, and this latest transaction further cements their position as key players in the decentralized finance space. The move could potentially have far-reaching implications for the growth and adoption of the Compound protocol, as well as the broader DeFi ecosystem.</p>
-
-
-
-<p>As the crypto community continues to monitor the situation, analysts and enthusiasts alike are on high alert for any further developments from the whale address and the impact it may have on the crypto market.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1484.png"><img decoding="async" loading="lazy" width="1024" height="504" src="https://coincu.com/wp-content/uploads/2023/07/image-1484-1024x504.png" alt="image 1484" class="wp-image-204726" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1484-1024x504.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1484-300x148.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1484-768x378.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1484-1536x757.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1484-750x369.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1484-1140x562.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1484.png 2018w" sizes="(max-width: 1024px) 100vw, 1024px" title="Compound Team Deposits $1.5M COMP Into Coinbase Wallet 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>While the transaction has caused a stir, it also serves as a reminder of the dynamic and ever-changing nature of the crypto industry. Traders and investors must remain vigilant, closely monitoring market movements and staying informed about significant transactions that could shape the future of the digital asset landscape.</p>
-
-
-
-<p>The deposit of 20,000 COMP tokens, valued at $1.5 million, into Coinbase by a Compound team-linked whale address has captivated the crypto community. As the market reacts to this move, it underscores the importance of data monitoring platforms in providing crucial insights to investors and stakeholders. As the crypto space evolves, staying informed and vigilant is paramount to making informed decisions in this dynamic and exciting industry.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204723-compound-team-deposits-1-5m-comp-into-coinbase/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Compound-Team-Deposits-1.5M-COMP-Into-Coinbase-Wallet-1-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>a16z Crypto Empowers 17 Representatives With 10.5 Million Tokens In 3rd Token Entrustment Plan</title>
-		<link>https://coincu.com/204719-a16z-17-10-5-million-tokens-in-3rd/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 10:14:11 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204719</guid>
-
-					<description><![CDATA[a16z crypto launched the third token entrustment plan, entrusting a total of 8 million OP and 2.5 million UNI to 17 representatives.<p class="has-text-align-right"><a href="https://coincu.com/204719-a16z-17-10-5-million-tokens-in-3rd/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>a16z crypto empowers 17 representatives with 10.5 million tokens in its third Token Delegation Program.</em></li>
-
-
-
-<li><em>The program aims to promote community-driven decision-making and decentralization within the crypto ecosystem.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>a16z crypto launched the third token entrustment plan, entrusting a total of 8 million OP and 2.5 million UNI to 17 representatives.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/generic.jpeg"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/generic.jpeg" alt="a16z Crypto Empowers 17 Representatives With 10.5 Million Tokens In 3rd Token Entrustment Plan" class="wp-image-204731" srcset="https://coincu.com/wp-content/uploads/2023/07/generic.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/generic-300x158.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/generic-768x404.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/generic-750x394.jpeg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="a16z Crypto Empowers 17 Representatives With 10.5 Million Tokens In 3rd Token Entrustment Plan 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>In a major development, a16z crypto has unveiled the third phase of its Token Delegation Program, entrusting a total of 8 million OP and 2.5 million UNI tokens to 17 representatives. The program aims to empower community leaders, startups, and professionals, giving them full autonomy to make decisions through voting.</p>
-
-
-
-<p>The program&#8217;s third phase introduces 17 delegates, with 8 Optimism representatives receiving 8 million OP tokens and 9 Uniswap representatives receiving 2.5 million UNI tokens. This strategic move underscores a16z crypto&#8217;s commitment to decentralization and democratizing the decision-making process within the crypto ecosystem.</p>
-
-
-
-<p>The chosen representatives will play a vital role in shaping the future direction of the projects and platforms they represent, showcasing a16z crypto&#8217;s dedication to fostering active participation and engagement from key stakeholders in the crypto space. The firm&#8217;s token entrustment plan is seen as a progressive step towards a more decentralized and inclusive crypto landscape.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/shutterstock_725383297-1.jpeg"><img decoding="async" loading="lazy" width="700" height="489" src="https://coincu.com/wp-content/uploads/2023/07/shutterstock_725383297-1.jpeg" alt="a16z Crypto Empowers 17 Representatives With 10.5 Million Tokens In 3rd Token Entrustment Plan" class="wp-image-204732" srcset="https://coincu.com/wp-content/uploads/2023/07/shutterstock_725383297-1.jpeg 700w, https://coincu.com/wp-content/uploads/2023/07/shutterstock_725383297-1-300x210.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" title="a16z Crypto Empowers 17 Representatives With 10.5 Million Tokens In 3rd Token Entrustment Plan 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The Token Delegation Program reflects <a href="https://coincu.com/201514-a16z-sends-5-9m-mkr-transfer-to-coinbase/">a16z</a> crypto&#8217;s belief in the importance of community-driven decision-making and its commitment to supporting projects that prioritize transparency and user participation. By empowering delegates with full voting autonomy, a16z crypto ensures that the community&#8217;s voice remains at the forefront of important project decisions.</p>
-
-
-
-<p>This latest token entrustment plan follows a series of successful initiatives by the firm to promote decentralized governance and engagement. With the increasing importance of community input in the crypto industry, the Token Delegation Program seeks to foster collaboration and innovation among representatives from diverse backgrounds.</p>
-
-
-
-<p>As the crypto space continues to evolve, a16z crypto&#8217;s approach to empowering representatives and promoting decentralized governance is expected to serve as a model for other industry players. By involving community leaders, startups, and professionals in decision-making processes, a16z crypto is actively shaping a more inclusive and participatory crypto ecosystem.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204719-a16z-17-10-5-million-tokens-in-3rd/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>South Korea Is Developing Phase 2 Of Virtual Asset User Protection Act</title>
-		<link>https://coincu.com/204688-south-korea-is-developing-phase-2-act/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:55:19 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Financial Services Commission]]></category>
-		<category><![CDATA[FSC]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<category><![CDATA[Virtual Asset]]></category>
-		<category><![CDATA[Virtual Asset User Protection Act]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204688</guid>
-
-					<description><![CDATA[South Korea's Financial Services Commission (FSC) is making significant strides in the regulation of cryptocurrencies by developing a stablecoin regulatory regime.<p class="has-text-align-right"><a href="https://coincu.com/204688-south-korea-is-developing-phase-2-act/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>South Korea&#8217;s Financial Services Commission is developing a stablecoin regulatory regime and reviewing efforts to establish a virtual asset disclosure system.</em></li>
-
-
-
-<li><em>The Virtual Asset User Protection Act passed by the National Assembly is a &#8220;first step bill&#8221; focusing on investor protection, with plans for a &#8220;Phase 2 Act&#8221; to be developed based on the Financial Services Commission&#8217;s recommendations.</em></li>
-
-
-
-<li><em>The review aims to address conflicts of interest in virtual asset issuance, establish regulatory systems for different virtual asset types, and study global regulatory trends for comprehensive market discipline.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>South Korea&#8217;s Financial Services Commission (FSC) is making significant strides in the regulation of cryptocurrencies by developing a stablecoin regulatory regime and establishing a virtual asset disclosure system. The move comes as the country seeks to bolster investor protection and enhance the oversight of the rapidly evolving virtual asset market.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1480.png"><img decoding="async" loading="lazy" width="960" height="556" src="https://coincu.com/wp-content/uploads/2023/07/image-1480.png" alt="South Korea Is Developing Phase 2 Of Virtual Asset User Protection Act" class="wp-image-204715" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1480.png 960w, https://coincu.com/wp-content/uploads/2023/07/image-1480-300x174.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1480-768x445.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1480-750x434.png 750w" sizes="(max-width: 960px) 100vw, 960px" title="South Korea Is Developing Phase 2 Of Virtual Asset User Protection Act 10"></a></figure></div>
-
-
-<p>According to <em><a href="https://www.news1.kr/articles/?5116454" target="_blank" rel="noreferrer noopener">News1</a></em>, the recently passed <a href="https://coincu.com/199125-south-korea-passed-important-crypto-act/" target="_blank" rel="noreferrer noopener">Virtual Asset User Protection Act</a>, hailed as a &#8220;first step bill,&#8221; emphasizes safeguarding the interests of investors in the cryptocurrency space. Building upon this initial legislation, the FSC is now focusing on formulating the &#8220;Phase 2 Act,&#8221; which will encompass a comprehensive set of regulations related to the issuance of virtual assets and the regulatory framework governing different types of cryptocurrencies.</p>
-
-
-
-<p>To ensure a robust regulatory framework, the FSC has initiated a research service to review opinions and suggestions put forward by the National Assembly regarding virtual assets. The objective is to identify areas of improvement and legislative considerations to bolster the regulatory system surrounding cryptocurrencies.</p>
-
-
-
-<p>One of the critical aspects being examined is the issue of conflicts of interest that may arise during the issuance and distribution of virtual assets by cryptocurrency operators. By addressing these potential conflicts head-on, the FSC aims to create an environment that is more transparent, accountable, and secure for both investors and market participants.</p>
-
-
-
-<p>In terms of the specific types of virtual assets, the FSC is planning to establish a regulatory system that caters to the nuances and characteristics of different cryptocurrencies. This will include stablecoins, which are digital assets pegged to a stable reserve, as well as security tokens and utility tokens, each with unique features that necessitate appropriate regulatory oversight.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1482.png"><img decoding="async" loading="lazy" width="680" height="411" src="https://coincu.com/wp-content/uploads/2023/07/image-1482.png" alt="South Korea Is Developing Phase 2 Of Virtual Asset User Protection Act" class="wp-image-204717" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1482.png 680w, https://coincu.com/wp-content/uploads/2023/07/image-1482-300x181.png 300w" sizes="(max-width: 680px) 100vw, 680px" title="South Korea Is Developing Phase 2 Of Virtual Asset User Protection Act 11"></a></figure></div>
-
-
-<p>The regulatory system will also encompass virtual asset evaluation businesses, advisory businesses, and public disclosure businesses. By bringing these entities within the regulatory purview, the FSC intends to enhance transparency and accountability in the cryptocurrency market.</p>
-
-
-
-<p>Additionally, the <a href="https://coincu.com/201600-south-korea-accounting-standards/" target="_blank" rel="noreferrer noopener">FSC</a> is exploring the possibility of creating a system that can provide integrated market prices and comprehensive disclosures in line with relevant regulations. Such a system will contribute to a more transparent and efficient market, benefitting investors and stakeholders alike.</p>
-
-
-
-<p>Moreover, in the event of unforeseen incidents or accidents in the cryptocurrency space, the FSC is contemplating regulations that can shift the burden of proof. This approach, similar to the Electronic Financial Transaction Act, aims to establish clear accountability and responsibility in case of any adverse occurrences.</p>
-
-
-
-<p>Notably, the FSC is keeping a keen eye on global legislative and regulatory trends concerning virtual assets. Through a comprehensive study of the approaches and methods adopted by major countries and international organizations, the FSC intends to learn from global best practices and align <a href="https://coincu.com/202403-south-korea-moves-to-security-tokens/">South Korea</a>&#8216;s regulatory requirements accordingly.</p>
-
-
-
-<p>The FSC&#8217;s proactive stance in developing a stablecoin regulatory regime and advancing the regulatory framework for cryptocurrencies reflects the country&#8217;s commitment to fostering a well-regulated and secure virtual asset market. As the cryptocurrency market continues to evolve, ensuring investor protection and market integrity remains a top priority for South Korea&#8217;s financial authorities. The development of a robust regulatory framework is expected to contribute to the sustainable growth and maturity of the virtual asset ecosystem in the country.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204688-south-korea-is-developing-phase-2-act/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/South-Korea-Is-Developing-Phase-2-Of-Virtual-Asset-User-Protection-Act-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Ethereum Shapella Upgrade Spurs 26% Increase in ETH and Validator</title>
-		<link>https://coincu.com/204702-ethereum-shapella-upgrade-spurs-26-increase/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:47:38 +0000</pubDate>
-				<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[ETH]]></category>
-		<category><![CDATA[Ethereum Shapella Upgrade]]></category>
-		<category><![CDATA[Shapella Upgrade]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204702</guid>
-
-					<description><![CDATA[Bitwise has just unveiled its highly anticipated crypto market report for Q2 2023, the report sheds light on the impact of the recent "Shapella" upgrade, particularly on the number of committed Ethereum and validators in the crypto space. <p class="has-text-align-right"><a href="https://coincu.com/204702-ethereum-shapella-upgrade-spurs-26-increase/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Ethereum&#8217;s popularity is on the rise following the &#8220;Shapella&#8221; upgrade.</em></li>
-
-
-
-<li><em>Committed ETH has increased by 26.37%, indicating growing investor confidence.</em></li>
-
-
-
-<li><em>Validator numbers have also surged by 26.63%, ensuring network efficiency and security.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Bitwise has just unveiled its highly anticipated crypto market report for Q2 2023, the report sheds light on the impact of the recent &#8220;Shapella&#8221; upgrade, particularly on the number of committed Ethereum and validators in the crypto space. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade-.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--1024x576.webp" alt="Ethereum Shapella Upgrade" class="wp-image-204711" srcset="https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade--1140x641.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade-.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ethereum Shapella Upgrade Spurs 26% Increase in ETH and Validator 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Since the <a href="https://s3.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Crypto-Market-Quarterly-Review-Q2-2023.pdf" target="_blank" data-type="URL" data-id="https://s3.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Crypto-Market-Quarterly-Review-Q2-2023.pdf" rel="noreferrer noopener">upgrade&#8217;s implementation in April 2023</a>, the market has witnessed a remarkable surge, further solidifying the importance of Ethereum in the blockchain ecosystem.</p>
-
-
-
-<p>According to Bitwise&#8217;s findings, the number of committed ETH has experienced a substantial increase of 26.37% since the introduction of the &#8220;Shapella&#8221; upgrade. This boost indicates a growing confidence among investors in Ethereum&#8217;s capabilities and potential for long-term growth. The ability to withdraw committed ETH has proven to be a game-changer, attracting more participants to lock their assets and contribute to the network&#8217;s stability and security.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1478.png"><img decoding="async" loading="lazy" width="1024" height="643" src="https://coincu.com/wp-content/uploads/2023/07/image-1478-1024x643.png" alt="image 1478" class="wp-image-204708" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1478-1024x643.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1478-300x188.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1478-768x482.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1478-750x471.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1478-1140x716.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1478.png 1210w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ethereum Shapella Upgrade Spurs 26% Increase in ETH and Validator 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Notably, the number of validators has also soared by 26.63% during the same period. Validators play a crucial role in ensuring the integrity and efficiency of the Ethereum network. With the upgrade&#8217;s new features and incentives, more individuals and organizations have been encouraged to become validators, bolstering the network&#8217;s overall decentralization and resilience.</p>
-
-
-
-<p>The &#8220;Shapella&#8221; upgrade has proven to be a strategic move by the Ethereum development community. Its positive effects on committed ETH and validator numbers underscore the successful execution of the upgrade&#8217;s objectives. As a result, Ethereum has maintained its position as a dominant force in the ever-evolving cryptocurrency market.</p>
-
-
-
-<p>Bitwise&#8217;s report showcases the growing importance of Ethereum and highlights its significance as a key player in the crypto ecosystem. With the increased commitment of ETH and growing validator numbers, Ethereum&#8217;s network has become more robust and sustainable.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1479.png"><img decoding="async" loading="lazy" width="1024" height="709" src="https://coincu.com/wp-content/uploads/2023/07/image-1479-1024x709.png" alt="image 1479" class="wp-image-204710" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1479-1024x709.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1479-300x208.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1479-768x531.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1479-750x519.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1479-1140x789.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1479.png 1208w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ethereum Shapella Upgrade Spurs 26% Increase in ETH and Validator 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Investors and enthusiasts alike eagerly anticipate the continued growth of Ethereum and its potential to drive innovations in the decentralized finance (DeFi) and non-fungible token (NFT) spaces. The surge in committed ETH and validators aligns with the broader narrative of crypto adoption, indicating that investors are increasingly recognizing the value and potential of blockchain technology.</p>
-
-
-
-<p>As the crypto market evolves, Bitwise&#8217;s insightful report serves as a valuable resource for investors, providing key metrics and analysis to make informed decisions. The data-driven analysis and comprehensive insights presented in the Q2 2023 report equip market participants with the knowledge necessary to navigate the ever-changing crypto landscape with confidence.</p>
-
-
-
-<p>Bitwise&#8217;s Q2 2023 crypto market report paints a positive outlook for Ethereum&#8217;s growth and the wider crypto market. The &#8220;Shapella&#8221; upgrade has proven to be a catalyst for progress, fostering increased commitment of ETH and bolstering the number of validators. With the crypto space poised for continued development, the surge in Ethereum&#8217;s popularity signifies a promising future for blockchain technology and its applications.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204702-ethereum-shapella-upgrade-spurs-26-increase/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ethereum-Shapella-Upgrade-Spurs-26-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance&#8217;s H1 2023 Report Reveals Crypto Market Resilience And Promising Developments</title>
-		<link>https://coincu.com/204647-binances-h1-2023-report-crypto-market/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:42:11 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204647</guid>
-
-					<description><![CDATA[Binance, a leading cryptocurrency exchange, has released its H1 2023 report, highlighting the crypto market's resilience despite challenges. <p class="has-text-align-right"><a href="https://coincu.com/204647-binances-h1-2023-report-crypto-market/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance&#8217;s H1 2023 Report shows crypto market resilience: Despite challenges, crypto market capitalization ends the first half positively, with Bitcoin&#8217;s dominance and price performance standing out.</em></li>
-
-
-
-<li><em>Promising developments in DeFi and NFTs: Liquid staking and DEX migration drive DeFi growth, while NFTs see increased trading volume, though floor prices decline.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Binance, a leading cryptocurrency exchange, has released its H1 2023 report, highlighting the crypto market&#8217;s resilience despite challenges.&nbsp;</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/PAF3M6.jpeg"><img decoding="async" loading="lazy" width="834" height="464" src="https://coincu.com/wp-content/uploads/2023/07/PAF3M6.jpeg" alt="Binance&#039;s H1 2023 Report Reveals Crypto Market Resilience And Promising Developments" class="wp-image-204679" srcset="https://coincu.com/wp-content/uploads/2023/07/PAF3M6.jpeg 834w, https://coincu.com/wp-content/uploads/2023/07/PAF3M6-300x167.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/PAF3M6-768x427.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/PAF3M6-750x417.jpeg 750w" sizes="(max-width: 834px) 100vw, 834px" title="Binance&#039;s H1 2023 Report Reveals Crypto Market Resilience And Promising Developments 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The crypto market capitalization ended the period on a positive note, showing signs of recovery. Bitcoin&#8217;s dominance reached its highest level since April 2021, with an impressive year-to-date price performance of over 87%, outperforming many traditional financial investments. The emergence of Ordinals and Inscriptions has energized the Bitcoin ecosystem, promising continued development and innovation in the coming months.</p>
-
-
-
-<p>The first half saw significant developments in Layer 1 networks, with Ethereum&#8217;s liquid staking reaching new heights, giving rise to LSTfi. BNB Chain focused on scalability, while Solana and Tron made notable strides in their respective ecosystems. Avalanche and Cosmos also advanced through subnets, partnerships, and shared economic security models.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/istockphoto-1326770854-612x612-1.jpeg"><img decoding="async" loading="lazy" width="612" height="408" src="https://coincu.com/wp-content/uploads/2023/07/istockphoto-1326770854-612x612-1.jpeg" alt="Binance&#039;s H1 2023 Report Reveals Crypto Market Resilience And Promising Developments" class="wp-image-204686" srcset="https://coincu.com/wp-content/uploads/2023/07/istockphoto-1326770854-612x612-1.jpeg 612w, https://coincu.com/wp-content/uploads/2023/07/istockphoto-1326770854-612x612-1-300x200.jpeg 300w" sizes="(max-width: 612px) 100vw, 612px" title="Binance&#039;s H1 2023 Report Reveals Crypto Market Resilience And Promising Developments 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>In the Layer 2 space, optimistic rollups remained dominant, while ZK rollups achieved new heights with the launch of fully functional zkEVMs. The industry witnessed a convergence of major players around the concept of networks of blockchains, such as L3s, Superchains, and Hyperchains.</p>
-
-
-
-<p>The stablecoin sector underwent significant reshaping, with USDT experiencing a remarkable 25.8% increase in market share YTD, leading it to break away from the major trio of stablecoins.</p>
-
-
-
-<p>DeFi demonstrated remarkable growth, driven by the ascent of liquid staking and user migration to DEXes. However, DeFi&#8217;s dominance experienced a slight decline compared to the overall crypto market.</p>
-
-
-
-<p>NFTs saw higher trading volume in H1 2023, driven by increased activity on the Blur marketplace. However, NFT collections&#8217; floor prices declined YTD, underperforming the broader crypto market.</p>
-
-
-
-<p>Gaming-related tokens experienced positive price trends, benefiting from the market recovery. Over 67% of games are built on <a href="https://coincu.com/204375-binance-shorter-deposit-eth-arbitrum-optimism/">BNB Chain</a>, Ethereum, and Polygon.</p>
-
-
-
-<p>According to Binancee&#8217;s report the first half witnessed a decline in overall crypto deal activities and venture capital funding. Infrastructure projects attracted the most investments, followed by gaming/entertainment and DeFi.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204647-binances-h1-2023-report-crypto-market/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Copy-of-Final-Thumb-1-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Warning: Ripple CTO Exposes Fake XRP Site Endangering Investors!</title>
-		<link>https://coincu.com/204672-ripple-cto-exposes-fake-xrp-site-endangering/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:31:17 +0000</pubDate>
-				<category><![CDATA[Scam Alert]]></category>
-		<category><![CDATA[Fake XRP]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[Ripple CTO]]></category>
-		<category><![CDATA[XRP]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204672</guid>
-
-					<description><![CDATA[David Schwartz, the Chief Technical Officer (CTO) of Ripple Labs Inc, has recently taken to Twitter to warn cryptocurrency enthusiasts about a fraudulent website attempting to form an affiliation with the XRP coin. <p class="has-text-align-right"><a href="https://coincu.com/204672-ripple-cto-exposes-fake-xrp-site-endangering/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Ripple&#8217;s CTO, David Schwartz, warns of a fake website &#8220;<a href="http://holdxrp.com/" target="_blank" rel="noopener">holdxrp.com</a>&#8221; that is trying to form an affiliation with XRP. </em></li>
-
-
-
-<li><em>The fake airdrop announcement features a phishing link that could exploit user&#8217;s funds. XRP community members need to be vigilant as many scams have been linked to Ripple as a whole. </em></li>
-
-
-
-<li><em>Bad actors exist in crypto, so announcements that do not come from verified Ripple platforms should be ignored.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>David Schwartz, the Chief Technical Officer (CTO) of Ripple Labs Inc, has recently taken to Twitter to warn cryptocurrency enthusiasts about a fraudulent website attempting to form an affiliation with the XRP coin. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-1024x576.webp" alt="Ripple CTO Exposes Fake XRP Site Endangering Investors" class="wp-image-204683" srcset="https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors-1140x641.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site-Endangering-Investors.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Warning: Ripple CTO Exposes Fake XRP Site Endangering Investors! 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>His warning was directed towards a website called &#8220;<a href="http://holdxrp.com/" target="_blank" rel="noopener">holdxrp.com</a>&#8220;, which he identified as a scam site, and urged users to be very careful.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">CAUTION: holdxrp . com is a scam site.</p>&mdash; David &quot;JoelKatz&quot; Schwartz (@JoelKatz) <a href="https://twitter.com/JoelKatz/status/1682277705801400320?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 21, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Although not recommended, a visit to the website shows an interface that is similar to Medium and features an announcement of a fake airdrop. The announcement contains a blog post from Brad Garlinghouse, the CEO of Ripple Labs Inc, and has surprisingly received over 5,000 claps, which is possibly an attempt to make the website appear more legitimate. However, the announcement contains phishing links that may cause users to lose their funds. The site creators even impersonated industry experts like BitBoy Crypto, Carl from the Moon, and Crypto Rover to comment on the post, further displaying their fraudulent behavior.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1466.png"><img decoding="async" loading="lazy" width="748" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/image-1466-748x1024.png" alt="image 1466" class="wp-image-204685" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1466-748x1024.png 748w, https://coincu.com/wp-content/uploads/2023/07/image-1466-219x300.png 219w, https://coincu.com/wp-content/uploads/2023/07/image-1466-768x1052.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1466-750x1027.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1466.png 1080w" sizes="(max-width: 748px) 100vw, 748px" title="Warning: Ripple CTO Exposes Fake XRP Site Endangering Investors! 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Scams related to XRP and Ripple have been increasing since Judge Analisa Torres declared that secondary sales of the cryptocurrency are not securities. Many bad actors are taking advantage of the high social interest in the token by creating fake airdrops and giveaways to lure unsuspecting community members. While David Schwartz has been warning about these types of scams for some time, it is worth noting that genuine XRP-linked Twitter accounts have also been calling for boycotts of fraudulent websites.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204672-ripple-cto-exposes-fake-xrp-site-endangering/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ripple-CTO-Exposes-Fake-XRP-Site--1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions</title>
-		<link>https://coincu.com/204669-thodex-founder-faces-prison/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:26:33 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Faruk Fatih Özer]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[Thodex]]></category>
-		<category><![CDATA[Turkey]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204669</guid>
-
-					<description><![CDATA[Thodex founder sentenced to 7 months for document failure.<p class="has-text-align-right"><a href="https://coincu.com/204669-thodex-founder-faces-prison/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Thodex founder sentenced to 7 months for document failure.</em></li>
-
-
-
-<li><em>The Turkish crypto exchange collapse leaves $2 billion in losses.</em></li>
-
-
-
-<li><em>Özer maintains innocence and faces fraud accusations.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The founder and former CEO of Thodex, Faruk Fatih Özer, has been sentenced to seven months and 15 days in prison for failing to submit requested documents during his trial.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1462.png"><img decoding="async" loading="lazy" width="865" height="486" src="https://coincu.com/wp-content/uploads/2023/07/image-1462.png" alt="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions" class="wp-image-204676" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1462.png 865w, https://coincu.com/wp-content/uploads/2023/07/image-1462-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1462-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1462-750x421.png 750w" sizes="(max-width: 865px) 100vw, 865px" title="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions 19"></a></figure></div>
-
-
-<p>Thodex, once a prominent cryptocurrency exchange in Türkiye, abruptly shut down, leaving investors with approximately $2 billion in lost cryptocurrencies.</p>
-
-
-
-<p><a href="https://coincu.com/182770-thodex-founder-arrested-in-turkey/" target="_blank" rel="noreferrer noopener">Özer</a>, who had previously been detained and later fled to Albania, was apprehended and deported back to Türkiye following a Red Notice by Interpol. Throughout the trial, Özer maintained his innocence but failed to provide the requested documents to the Tax Inspection Board.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1465.png"><img decoding="async" loading="lazy" width="929" height="523" src="https://coincu.com/wp-content/uploads/2023/07/image-1465.png" alt="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions" class="wp-image-204682" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1465.png 929w, https://coincu.com/wp-content/uploads/2023/07/image-1465-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1465-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1465-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions 20"></a></figure></div>
-
-
-<p>He argued that he was not the official representative of Thodex during the specified period and, therefore could not present the requested books. Özer claimed that a trustee had been appointed to manage the business on his behalf during that time.</p>
-
-
-
-<p>Initially, Özer <a href="https://coincu.com/121107-thodex-ceo-faces-extradition/" target="_blank" rel="noreferrer noopener">faced</a> potential charges of &#8220;smuggling&#8221; under the Tax Procedure Law, which could have led to a five-year prison sentence. However, the court initially sentenced him to one year and six months, which was later reduced to seven months and 15 days, taking into account factors such as Özer’s social relations and conduct during the trial.</p>
-
-
-
-<p>Apart from tax-related charges, Özer also faces accusations of defrauding Thodex investors, and a hearing on these claims is pending.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1464.png"><img decoding="async" loading="lazy" width="1024" height="695" src="https://coincu.com/wp-content/uploads/2023/07/image-1464-1024x695.png" alt="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions" class="wp-image-204678" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1464-1024x695.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1464-300x204.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1464-768x521.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1464-1536x1042.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1464-2048x1389.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1464-750x509.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1464-1140x773.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Thodex Founder Faces Prison Sentence Over Missing Documents And Lost Billions 21"></a></figure></div>
-
-
-<p>As the legal proceedings continue, the case of Faruk Fatih Özer and Thodex serves as a reminder of the complexities surrounding cryptocurrency regulation and taxation. It highlights the need for transparency, accountability, and robust regulatory frameworks to protect investors and ensure the integrity of digital asset exchanges.</p>
-
-
-
-<p>In a related context, a recent study by Swedish crypto tax firm Divly <a href="https://divly.com/en/guides/global-crypto-tax-report" target="_blank" rel="noreferrer noopener">revealed</a> that a vast majority of crypto investors, approximately 99.5%, did not pay taxes in 2022. While some countries like Finland and <a href="https://coincu.com/203830-australian-regulator-cancels-ftx-license/" target="_blank" rel="noreferrer noopener">Australia</a> had a small percentage of crypto investors fulfilling their tax obligations, the report acknowledged the limitations of using search volume data to estimate the actual number of crypto taxpayers.</p>
-
-
-
-<p>Notwithstanding these developments, Özer’s legal troubles are far from done, as he is still accused of scamming Thodex investors and is awaiting a hearing to answer these claims. The entrepreneur maintains his innocence and claims that the accused have set him up.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204669-thodex-founder-faces-prison/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1463-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>iZUMi Finance Launches iZiSwap On Linea Mainnet</title>
-		<link>https://coincu.com/204652-izumi-finance-iziswap-linea-mainnet/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Fri, 21 Jul 2023 09:17:56 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[iZUMi Finance]]></category>
-		<category><![CDATA[Linea Mainnet]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=204652</guid>
-
-					<description><![CDATA[iZUMi Finance has successfully launched its DEX product, iZiSwap, on the Linea mainnet, introducing the first AMM-driven on-chain order book transaction service within the Linea ecosystem. <p class="has-text-align-right"><a href="https://coincu.com/204652-izumi-finance-iziswap-linea-mainnet/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>iZUMi Finance launches iZiSwap on Linea mainnet: Introduces the first AMM-driven on-chain order book transaction service, garnering impressive TVL and user traction.</em></li>
-
-
-
-<li><em>Linea by ConsenSys: A developer-friendly zero-knowledge proof Ethereum Layer 2 network, empowering innovation in the decentralized finance ecosystem.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>iZUMi Finance has successfully launched its DEX product, iZiSwap, on the Linea mainnet, introducing the first AMM-driven on-chain order book transaction service within the Linea ecosystem.&nbsp;</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36.png"><img decoding="async" loading="lazy" width="1024" height="534" src="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-1024x534.png" alt="iZUMi Finance Launches iZiSwap on Linea Mainnet" class="wp-image-204671" srcset="https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-1024x534.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-1536x801.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-2048x1069.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-750x391.png 750w, https://coincu.com/wp-content/uploads/2023/07/Anh-chup-Man-hinh-2023-07-21-luc-15.46.36-1140x595.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="iZUMi Finance Launches iZiSwap On Linea Mainnet 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>During the Linea testnet phase, iZUMi Finance garnered impressive traction, with over 200,000 independent interactive addresses and 366,000 transaction records. The TVL (Total Value Locked) of iZUMi Finance on the Linea mainnet has already surpassed $1 million, and as the official Launch Partner for Linea, the platform is set to roll out enticing incentive activities for early liquidity providers (LPs) and traders during the mainnet phase.</p>
-
-
-
-<p>Linea, developed by ConsenSys, is a zero-knowledge proof Ethereum Layer 2 network, distinguished by its developer-friendly environment. iZUMi Finance has marked a significant milestone with the successful launch of its flagship DEX product, iZiSwap, on the Linea mainnet. Notably, this deployment introduces the very first AMM-driven on-chain order book transaction service within the Linea ecosystem, a feat poised to revolutionize DeFi trading experiences.</p>
-
-
-
-<p>During the earlier Linea testnet stage,<a href="https://coincu.com/191711-izumi-finance-review/"> iZUMi Finance</a> made waves, amassing an impressive user base of more than 200,000 independent interactive addresses and facilitating a remarkable 366,000 transaction records. Now, the TVL of iZUMi Finance on the Linea mainnet has already reached a remarkable $1 million, underscoring its growing popularity and investor confidence.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Linea-zkEVM.jpeg"><img decoding="async" loading="lazy" width="680" height="340" src="https://coincu.com/wp-content/uploads/2023/07/Linea-zkEVM.jpeg" alt="iZUMi Finance Launches iZiSwap on Linea Mainnet" class="wp-image-204670" srcset="https://coincu.com/wp-content/uploads/2023/07/Linea-zkEVM.jpeg 680w, https://coincu.com/wp-content/uploads/2023/07/Linea-zkEVM-300x150.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Linea-zkEVM-360x180.jpeg 360w" sizes="(max-width: 680px) 100vw, 680px" title="iZUMi Finance Launches iZiSwap On Linea Mainnet 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>As Linea&#8217;s official Launch Partner, iZUMi Finance is all set to commemorate this momentous occasion with a series of enticing incentive activities. Early liquidity providers (LPs) and traders can expect exciting rewards and benefits during the mainnet phase, further catalyzing the platform&#8217;s growth and fostering a vibrant community.</p>
-
-
-
-<p>Linea, developed by renowned blockchain firm ConsenSys, distinguishes itself with its developer-friendly architecture. As a zero-knowledge proof Ethereum Layer 2 network, Linea empowers developers to explore new horizons and build innovative solutions for the decentralized finance ecosystem.</p>
-
-
-
-<p>With the successful launch of iZiSwap on Linea&#8217;s mainnet, iZUMi Finance is poised to make waves in the DeFi landscape, offering traders and LPs unparalleled on-chain trading experiences and further fueling the adoption of decentralized finance solutions.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/204652-izumi-finance-iziswap-linea-mainnet/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/iZUMi-Finance-Launches-iZiSwap-On-Linea-Mainnet-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
