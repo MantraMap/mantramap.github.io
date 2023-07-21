@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Fri, 21 Jul 2023 15:23:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2023 15:44:18 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Wormhole launches a Cosmos appchain called Gateway</title>
+		<link>https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/</link>
+					<comments>https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/#respond</comments>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 15:44:18 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cosmos News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/</guid>
+
+					<description><![CDATA[<p>Gateway is a Cosmos-powered appchain. It is designed to allow for access to unified liquidity in the Cosmos ecosystem. Decentralized messaging protocol Wormhole has released its application-specific blockchain dubbed Wormhole Gateway. The appchain is powered by the Cosmos SDK, and aims at broadening access and liquidity with the blockchain platform&#8217;s ecosystem. Wormhole Foundation, which announced [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/">Wormhole launches a Cosmos appchain called Gateway</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">Gateway is a Cosmos-powered appchain.</li>
+<li dir="ltr">It is designed to allow for access to unified liquidity in the Cosmos ecosystem.</li>
+</ul>
+<p dir="ltr">Decentralized messaging protocol Wormhole has released its application-specific blockchain dubbed Wormhole Gateway. The appchain is powered by the Cosmos SDK, and aims at broadening access and liquidity with the blockchain platform&rsquo;s ecosystem.</p>
+<p dir="ltr">Wormhole Foundation, which announced Gateway on Friday, said the appchain is &ldquo;compatible and complementary to IBC.&rdquo;</p>
+<h2 dir="ltr">Wormhole to connect 23 blockchains in Cosmos</h2>
+<p dir="ltr">According to details shared in a <a href="https://wormhole.com/wormhole-gateway-the-gateway-to-the-cosmos-ecosystem/" rel="noopener noreferrer" target="_blank">blog post</a>, Gateway allows Wormhole to connect 23+ blockchains, including Osmosis, Evmos and Neutron, across six runtimes to <a href="https://coinjournal.net/cosmos/">Cosmos</a>. This is achieved through a liquidity router that allows users to bridge funds to any appchain within the Cosmos ecosystem at no extra bridging fees, the protocol noted.</p>
+<p dir="ltr">
+</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Introducing &#10024;&#10024;Wormhole Gateway&#10024;&#10024; &ndash; an application-specific blockchain, powered by the <a href="https://twitter.com/cosmos?ref_src=twsrc%5Etfw">@cosmos</a> SDK.</p>
+<p>Gateway&rsquo;s purpose is to help broaden access (and bring liquidity) to the Cosmos ecosystem while also improving Wormhole&rsquo;s security and sovereignty. <a href="https://t.co/qG1kyvcnoY">pic.twitter.com/qG1kyvcnoY</a></p>
+<p>&mdash; Wormhole&#127786; (@wormholecrypto) <a href="https://twitter.com/wormholecrypto/status/1682337664379531266?ref_src=twsrc%5Etfw">July 21, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p dir="ltr">Gateway is also designed to improve Wormhole&rsquo;s security and sovereignty. Security is key to the protocol given the impact of a February 2022 hack on the Wormhole bridge that saw a hacker 120,000 wETH worth $325 million. The exploit on the Solana-Ethereum bridge saw the <a href="https://coinjournal.net/news/solana-price-drops-by-9-all-you-need-to-know-about-the-wormhole-bridge-hack/">price of SOL declined sharply</a> amid community reaction to the news.</p>
+<p dir="ltr">As part of enhancing security across the Cosmos ecosystem, Wormhole introduced Governor, a module designed to limit cross-chain contagion in the event of a hack.</p>
+<p dir="ltr">In June, Wormhole <a href="https://twitter.com/wormholecrypto/status/1680997071132950528" rel="noopener noreferrer" target="_blank">introduced</a> Automatic Relayers, a decentralised network of relayers that allows for cross-chain messaging that developers can tap into without having to develop, run or manage an off-chain component. With this developers can deploy a fully-functional cross-chain dApp via a single solidity contract.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/">Wormhole launches a Cosmos appchain called Gateway</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/wormhole-launches-a-cosmos-appchain-called-gateway/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Zoomex X WSOT 2023: Unleash Your Trading Prowess and Race to $7 Million in Prizes!</title>
 		<link>https://coinjournal.net/news/zoomex-x-wsot-2023-unleash-your-trading-prowess-and-race-to-7-million-in-prizes/</link>
 		
@@ -394,43 +434,6 @@
 <p>Jerome Powell, however, clarified that the newly launched system is not attempting to replace fiat money. He said that FedNow is &ldquo;not related to a digital currency.&rdquo; He added that &ldquo;it is like other Federal Reserve payment services, such as Fedwire and FedACH. The FedNow Service is neither a form of currency nor a step toward eliminating any form of payment, including cash.&rdquo;</p>
 
 <p>The post <a rel="nofollow" href="https://coinjournal.net/news/federal-reserve-launches-fednow-instant-payment-system/">Federal Reserve launches &#8216;FedNow&#8217; instant payment system</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Binance Labs invests $10 million in DeFi project Radiant</title>
-		<link>https://coinjournal.net/news/binance-labs-announces-10m-in-defi-lender-radiant/</link>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Thu, 20 Jul 2023 16:35:05 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Investment]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/binance-labs-announces-10m-in-defi-lender-radiant/</guid>
-
-					<description><![CDATA[<p>Binance Labs&#8217; strategic investment in Radiant Capital will help the DeFi protocol expands its product to more EVM chains. The price of Radiant&#8217;s native token RDNT rose 10% following the news. Binance Labs, the venture capital arm of world&#8217;s leading crypto exchange Binance, has invested $10 million in decentralised crypto lender Radiant Capital (RDNT). Radiant&#8217;s [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-labs-announces-10m-in-defi-lender-radiant/">Binance Labs invests $10 million in DeFi project Radiant</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">Binance Labs&rsquo; strategic investment in Radiant Capital will help the DeFi protocol expands its product to more EVM chains.</li>
-<li dir="ltr">The price of Radiant&rsquo;s native token RDNT rose 10% following the news.</li>
-</ul>
-<p dir="ltr">Binance Labs, the venture capital arm of world&rsquo;s leading crypto exchange <a href="https://coinjournal.net/exchanges/binance/"><u>Binance</u></a>, has invested $10 million in decentralised crypto lender Radiant Capital (RDNT).</p>
-<p dir="ltr">Radiant&rsquo;s lending and borrowing protocol is built on top of LayerZero, one of Binance Labs&rsquo; portfolio companies.</p>
-<h2 dir="ltr">Radiant to use funds to expand its DeFi product</h2>
-<p dir="ltr">According to an&nbsp;<a href="https://www.binance.com/en/blog/ecosystem/binance-labs-invests-%2410-million-in-radiant-to-support--its-mission-to-lead-the-next-era-of-defi-lending-1438479277678345894" rel="noopener noreferrer" target="_blank"><u>announcement</u></a> from Binance, the strategic funding round continues Binance Labs&rsquo; commitment towards crypto innovation, including in supporting next-generation chain-agnostic DeFi projects.</p>
-<p dir="ltr">Radiant brings this goal to the market by taking on the fragmented liquidity that beleaguers the DeFi ecosystem. The platform promotes this by allowing users to tap into a bridging innovation to borrow and lend across any chain.</p>
-<p dir="ltr">&ldquo;<em>Binance Labs actively seeks out promising DeFi projects that not only advance the industry but also push the boundaries of innovation. Radiant Capital&rsquo;s commitment to facilitating seamless cross-chain transactions for DeFi, and performance on Arbitrum and BNB Chain demonstrates its potential for driving mass adoption</em>,&rdquo; Binance co-founder and head of Binance Labs Yi He said.</p>
-<p dir="ltr">As CoinJournal&nbsp;<a href="https://coinjournal.net/news/binance-report-shows-crypto-industry-in-good-health-in-h1-2023/"><u>reported</u></a> today, Binance has released a mid-year report for the crypto industry in which the exchange highlights growth in the past six months. One of the areas to see significant growth is DeFi.</p>
-<p dir="ltr">The Radiant team says the funding comes at a crucial time as the platform looks to expand its product to more EVM chains. This will add to the traction seen on Arbitrum and BNB Chain, with the protocol looking to become of the&nbsp;<a href="https://coinjournal.net/compare/best-defi-projects/"><u>best DeFi platforms</u></a> in the world.</p>
-<p dir="ltr">Growth is expected to include expansion of oracle support, collateral, cross liquidations and abstract repayments. Also crucial in the product development is deployment on Ethereum mainnet and full integration with LayerZero&rsquo;s messaging support.</p>
-<p dir="ltr">Radiant believes the developments will see the next 100 million users come into and benefit from DeFi. Commenting on this milestone, Radiant Capital founder George Macallan said that the partnership with Binance Labs allows his platform to benefit from Binance&rsquo;s &ldquo;extensive expertise, resources, and strategic support.&rdquo;</p>
-<p dir="ltr">&ldquo;<em>Their investment will play a crucial role in propelling Radiant to new heights as the protocol expands to new chains, continues to scale, and drives utility back into the ecosystem</em>,&rdquo; he added.</p>
-<p dir="ltr">Radiant&rsquo;s native token RDNT reacted positively to the news, with its value jumping 10% to near $0.32.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/binance-labs-announces-10m-in-defi-lender-radiant/">Binance Labs invests $10 million in DeFi project Radiant</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
 		
