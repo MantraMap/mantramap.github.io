@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Fri, 21 Jul 2023 21:02:45 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2023 21:06:04 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,58 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Vitalik Reveals Ethereum Upgrade On Account Abstraction]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/vitalik-reveals-ethereum-upgrade-on-account-abstraction</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/ethereum-account-abstraction-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/ethereum-account-abstraction-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/ethereum-account-abstraction-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Fri, 21 Jul 2023 21:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/vitalik-reveals-ethereum-upgrade-on-account-abstraction</guid>
+			  <description><![CDATA[<p class="md-end-block md-p">Amid a rebounding In the midst of a rebounding crypto market, Ethereum's co-founder, Vitalik Buterin, has hinted at a forthcoming upgrade to the Ethereum network, which could potentially reduce costs by a factor of 100.</p>
+<p class="md-end-block md-p">During his presentation at the Ethereum Community Conference (EthCC) in Paris, Buterin unveiled plans for introducing account abstraction to Ethereum. He described the proposed upgrade as "super elegant" due to its implementation not necessitating modifications to Ethereum's underlying protocol, unlike prior upgrades.</p>
+<p class="md-end-block md-p">Smart Contracts, Smarter Protocols</p>
+<p class="md-end-block md-p md-focus">Account abstraction envisages transitioning externally owned wallets to smart contract-based wallets, enhancing users' control over their private key seed phrase, akin to resetting an email password. This could also translate into lower transaction fees through "signless transactions."</p>
+<p class="md-end-block md-p">Buterin elaborated on the potential benefits:</p>
+
+<p class="md-end-block md-p">"The idea here is if there are these techniques that allow you to take mold many signatures from any transactions, combine them into one object which is much smaller and which can be much more quickly verified than verifying all of the account abstraction transactions individually and by doing so you can save data [and] computation becomes 100 times cheaper."</p>
+
+<p class="md-end-block md-p">The smart contract wallet upgrade would further enable Ethereum users to receive various cryptocurrencies and pay network fees without conversion to Ethereum.</p>
+<p class="md-end-block md-p">However, the announcement comes with an acknowledgment of the challenges that lie ahead. Account abstraction, expected to attract a billion users to Ethereum, is not without its hurdles.</p>
+<p class="md-end-block md-p">In his discussion, Buterin acknowledged that upgrading existing Ethereum externally-owned accounts into smart contracts and ensuring the protocol works similarly in layer-2 solutions would be significant challenges. Additional difficulties include integrating with existing technologies such as biometrics and wallets.</p>
+<p class="md-end-block md-p">Despite these hurdles, Buterin expressed enthusiasm for the project's progress. The introduction of account abstraction could revolutionize the Ethereum experience, allowing users and decentralized applications (DApps) to sponsor transactions more efficiently. It could also enable more economical data use and faster verification times.</p>
+<p class="md-end-block md-p">The news comes at a time when the crypto market, including Bitcoin and Ripple's XRP, is experiencing a resurgence, highlighting the dynamic and ever-evolving nature of this space.</p>
+Account Abstraction And The Future of Ethereum
+<p class="md-end-block md-p">While the implementation of account abstraction is heralded as a technical breakthrough, the intricate process of this upgrade warrants careful exploration. On a practical level, account abstraction means the transformation of externally owned wallets to those driven by smart contracts. This transition could simplify the recovery of private key seed phrases, lower transaction fees, and even enable Ethereum users to accept multiple types of cryptocurrencies without the necessity for conversions. This means that it could become 100 times cheaper in terms of data savings and computational costs.</p>
+
+<p class="md-end-block md-p"> &ldquo;This is actually especially a big deal on rollups because in a rollup a big or on because a big part of the size of a transaction is the signature on a rollup," Buterin said.</p>
+
+<p class="md-end-block md-p">Despite this, however, as Buterin notes quite sharply, navigating this transition won't go forth without its requisite challenges. Key upgrades to the Ethereum ecosystem, such as transitioning existing externally-owned accounts into smart contracts, and ensuring the protocol's compatibility with layer-2 solutions are hurdles that must be surmounted. The integration of this new system with existing technoliogies, like biometrics and present-day wallets, presents further complexities.</p>
+<p class="md-end-block md-p">Yet, the air of optimism surrounding account abstraction is tangible. Buterin's enthusiasm signals that despite the challenges, the potential rewards could be transformative, propelling Ethereum to new heights of user accessibility and network efficiency. As Ethereum prepares for this innovative leap, the industry watches in anticipation, ready for the potential advent of an even more dynamic era in the Ethereum saga.</p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p">Amid a rebounding In the midst of a rebounding crypto market, Ethereum's co-founder, Vitalik Buterin, has hinted at a forthcoming upgrade to the Ethereum network, which could potentially reduce costs by a factor of 100.</p>
+<p class="md-end-block md-p">During his presentation at the Ethereum Community Conference (EthCC) in Paris, Buterin unveiled plans for introducing account abstraction to Ethereum. He described the proposed upgrade as "super elegant" due to its implementation not necessitating modifications to Ethereum's underlying protocol, unlike prior upgrades.</p>
+<p class="md-end-block md-p">Smart Contracts, Smarter Protocols</p>
+<p class="md-end-block md-p md-focus">Account abstraction envisages transitioning externally owned wallets to smart contract-based wallets, enhancing users' control over their private key seed phrase, akin to resetting an email password. This could also translate into lower transaction fees through "signless transactions."</p>
+<p class="md-end-block md-p">Buterin elaborated on the potential benefits:</p>
+
+<p class="md-end-block md-p">"The idea here is if there are these techniques that allow you to take mold many signatures from any transactions, combine them into one object which is much smaller and which can be much more quickly verified than verifying all of the account abstraction transactions individually and by doing so you can save data [and] computation becomes 100 times cheaper."</p>
+
+<p class="md-end-block md-p">The smart contract wallet upgrade would further enable Ethereum users to receive various cryptocurrencies and pay network fees without conversion to Ethereum.</p>
+<p class="md-end-block md-p">However, the announcement comes with an acknowledgment of the challenges that lie ahead. Account abstraction, expected to attract a billion users to Ethereum, is not without its hurdles.</p>
+<p class="md-end-block md-p">In his discussion, Buterin acknowledged that upgrading existing Ethereum externally-owned accounts into smart contracts and ensuring the protocol works similarly in layer-2 solutions would be significant challenges. Additional difficulties include integrating with existing technologies such as biometrics and wallets.</p>
+<p class="md-end-block md-p">Despite these hurdles, Buterin expressed enthusiasm for the project's progress. The introduction of account abstraction could revolutionize the Ethereum experience, allowing users and decentralized applications (DApps) to sponsor transactions more efficiently. It could also enable more economical data use and faster verification times.</p>
+<p class="md-end-block md-p">The news comes at a time when the crypto market, including Bitcoin and Ripple's XRP, is experiencing a resurgence, highlighting the dynamic and ever-evolving nature of this space.</p>
+Account Abstraction And The Future of Ethereum
+<p class="md-end-block md-p">While the implementation of account abstraction is heralded as a technical breakthrough, the intricate process of this upgrade warrants careful exploration. On a practical level, account abstraction means the transformation of externally owned wallets to those driven by smart contracts. This transition could simplify the recovery of private key seed phrases, lower transaction fees, and even enable Ethereum users to accept multiple types of cryptocurrencies without the necessity for conversions. This means that it could become 100 times cheaper in terms of data savings and computational costs.</p>
+
+<p class="md-end-block md-p"> &ldquo;This is actually especially a big deal on rollups because in a rollup a big or on because a big part of the size of a transaction is the signature on a rollup," Buterin said.</p>
+
+<p class="md-end-block md-p">Despite this, however, as Buterin notes quite sharply, navigating this transition won't go forth without its requisite challenges. Key upgrades to the Ethereum ecosystem, such as transitioning existing externally-owned accounts into smart contracts, and ensuring the protocol's compatibility with layer-2 solutions are hurdles that must be surmounted. The integration of this new system with existing technoliogies, like biometrics and present-day wallets, presents further complexities.</p>
+<p class="md-end-block md-p">Yet, the air of optimism surrounding account abstraction is tangible. Buterin's enthusiasm signals that despite the challenges, the potential rewards could be transformative, propelling Ethereum to new heights of user accessibility and network efficiency. As Ethereum prepares for this innovative leap, the industry watches in anticipation, ready for the potential advent of an even more dynamic era in the Ethereum saga.</p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Indonesia’s Crypto Exchange and Clearing House Finally Go Live]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/indonesias-crypto-exchange-and-clearing-house-finally-go-live</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/photo-2023-07-21-131422-1.jpeg" medium="image" />
@@ -828,32 +880,6 @@ Handling Contradictions
 <p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bullishly above MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Crypto Influencer Lists XRP, BRISE And ADA As Top Picks for Rally]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/crypto-influencer-lists-xrp-brise-and-ada-as-top-picks-for-rally</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/uploads/youtube/screenshot-2023-07-20-at-152021.png" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/uploads/youtube/screenshot-2023-07-20-at-152021.png" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/uploads/youtube/screenshot-2023-07-20-at-152021.png" length="528" type="image/jpg" />
-			  <pubDate>Thu, 20 Jul 2023 15:30:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Adrian Barkley]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/crypto-influencer-lists-xrp-brise-and-ada-as-top-picks-for-rally</guid>
-			  <description><![CDATA[<p>Crypto influencer JefferyCrypt took to Twitter earlier today to share his hottest crypto picks for maximum gains in the next bull run. According to the influencer, XRP, Bitgert (BRISE) and Cardano (ADA) are likely to perform well in the near future and are poised for an upward movement in the dynamic and ever-evolving crypto space. </p>
-<p>According to JefferyCrypt, Ripple&rsquo;s recent victory in the lawsuit filed by the Securities and Exchange Commission (SEC) made XRP an attractive prospect for crypto investors. The influencer told his followers on Twitter that the court victory provided much-needed legal and regulatory clarity surrounding XRP and that it had restored investors' confidence in the cryptocurrency. </p>
-<p>Data from CoinMarketCap showed that XRP was trading at $0.81 at the time of writing. The crypto has gained more than 70% since the summary judgment in SEC v Ripple. The online sentiment regarding XRP is divided, with some experts anticipating a further rally while others warned of a potential decline in case the SEC decides to appeal the court&rsquo;s ruling. </p>
-The JefferyCrypt&rsquo;s second pick was Bitgert&rsquo;s native token BRISE. 
-<p>According to the crypto influencer, Bitgert is a rising project in the blockchain space that offers innovative solutions and a fundamental value proposition. At the time of writing, BRISE was trading at $0.00000025, with a market capitalization of $102 million and a daily trading volume of $2.5 million. </p>
-<p>JefferyCrypt&rsquo;s last pick was ADA, the native token of the Cardano blockchain. The influencer cited Cardano&rsquo;s advancements in blockchain research and peer-reviewed approach as the reason for including the token in his top altcoin picks. ADA is currently trading at $0.32, up 2.9% over the past 24 hours. </p>
-<p>The influencer cited the summary judgment in Ripple v SEC as a major factor for his altcoin picks. According to him, the court ruling provided regulatory clarity regarding the security status of the above-mentioned tokens, which assured investors of their regulatory compliance. </p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.&nbsp;</p>]]></description>
-			  <content:encoded><![CDATA[<p>Crypto influencer JefferyCrypt took to Twitter earlier today to share his hottest crypto picks for maximum gains in the next bull run. According to the influencer, XRP, Bitgert (BRISE) and Cardano (ADA) are likely to perform well in the near future and are poised for an upward movement in the dynamic and ever-evolving crypto space. </p>
-<p>According to JefferyCrypt, Ripple&rsquo;s recent victory in the lawsuit filed by the Securities and Exchange Commission (SEC) made XRP an attractive prospect for crypto investors. The influencer told his followers on Twitter that the court victory provided much-needed legal and regulatory clarity surrounding XRP and that it had restored investors' confidence in the cryptocurrency. </p>
-<p>Data from CoinMarketCap showed that XRP was trading at $0.81 at the time of writing. The crypto has gained more than 70% since the summary judgment in SEC v Ripple. The online sentiment regarding XRP is divided, with some experts anticipating a further rally while others warned of a potential decline in case the SEC decides to appeal the court&rsquo;s ruling. </p>
-The JefferyCrypt&rsquo;s second pick was Bitgert&rsquo;s native token BRISE. 
-<p>According to the crypto influencer, Bitgert is a rising project in the blockchain space that offers innovative solutions and a fundamental value proposition. At the time of writing, BRISE was trading at $0.00000025, with a market capitalization of $102 million and a daily trading volume of $2.5 million. </p>
-<p>JefferyCrypt&rsquo;s last pick was ADA, the native token of the Cardano blockchain. The influencer cited Cardano&rsquo;s advancements in blockchain research and peer-reviewed approach as the reason for including the token in his top altcoin picks. ADA is currently trading at $0.32, up 2.9% over the past 24 hours. </p>
-<p>The influencer cited the summary judgment in Ripple v SEC as a major factor for his altcoin picks. According to him, the court ruling provided regulatory clarity regarding the security status of the above-mentioned tokens, which assured investors of their regulatory compliance. </p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.&nbsp;</p>]]></content:encoded>
 			</item>
 					
 	</channel>
