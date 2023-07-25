@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 25 Jul 2023 19:27:28 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jul 2023 20:46:10 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,50 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Frostsnap Method Developed For Bitcoin Multisig Wallets]]></title>
+			  <link>https://cryptodaily.co.uk/2023/07/frostsnap-method-developed-for-bitcoin-multisig-wallets</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/frostsnap-bitcoin-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/frostsnap-bitcoin-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/frostsnap-bitcoin-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 25 Jul 2023 20:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/frostsnap-method-developed-for-bitcoin-multisig-wallets</guid>
+			  <description><![CDATA[<p class="md-end-block md-p">A team of Bitcoin developers and enthusiasts have introduced what's been dubbed the "Frostsnap" method, one that is set to provide multisig wallets with a range of new capabilities, transforming them from a static tool to a flexible, adaptive system.</p>
+<p class="md-end-block md-p">With this new development, Bitcoin multisig wallets, known for their secure nature, are getting a significant upgrade. Multisignature or multisig wallets have always been a go-to for safeguarding funds on the Bitcoin network. Their modus operandi requires multiple signers to authorize any transaction, which adds a layer of security. But one of the limitations with traditional multisigs is that they can't add signers without creating a new wallet, an action that calls for transferring funds.</p>
+The Solution
+<p class="md-end-block md-p">The newly-introduced Frostsnap method proposes a solution to this inconvenience. It allows for the replacement of hardware wallets such as Ledgers, Trezors, ColdCards, or other similar permutations, without the need for additional on-chain transactions. It's also capable of adding new signers to a key after the initial private key generation event and rendering stolen hardware wallets incompatible with every other device of the multisig. Adam Mashrique, the project's hardware lead, affirmed the team's ambition to create an open standard that vendors could implement, thereby enabling different devices to be part of a FROST multisig wallet.</p>
+Reshaping the Multisig Landscape
+<p class="md-end-block md-p">Frostsnap has already drawn comparisons to a "Bitcoin multisig centipede" due to its flexibility and adaptability. Like a centipede, Frostsnap-compatible devices can be replaced, modify the required number of devices to confirm a transaction if a device is compromised, and efficiently facilitate data transfer to Bitcoin nodes with Taproot signatures. The name Frostsnap is a nod to the acronym Flexible Round-Optimized Schnorr Threshold signatures (FROST).</p>
+<p class="md-end-block md-p md-focus">The remarkable aspect of this system is that it's fully in consensus with the Bitcoin network today, requiring no fork or proprietary node software. Despite plans to introduce a Bitcoin Improvement Proposal (BIP) for on-chain FROST support, devices supporting FROST can manage an on-chain Frostsnap wallet today. The development of Frostnap, in an of itself, is FOSS (Free and Open Source Software).</p>
+
+<p dir="ltr" lang="en">Each person is a unique combination of things they know, objects they own, places they can access, and people they trust.How individuals secure their #Bitcoin should reflect this.Introducing Frostsnap, hardware and software evolving Bitcoin ownershiphttps://t.co/Vo111j4p5J</p>
+&mdash; Frostsnap ❄ (@FrostsnapTech) July 20, 2023
+
+Security and Flexibility
+<p class="md-end-block md-p">In addition to improved flexibility and security, Frostsnap offers a handful of benefits. Users can back up information onto new devices, making future device swaps easier. It also allows multisig signers to dismiss any stolen device with a threshold number of signatures, providing further security against thieves.</p>
+<p class="md-end-block md-p">Frostsnap provides increased privacy through Taproot, which erfectively conceals the existence or attributes of a Frostsnap wallet. Thanks to Taproot, Frostsnap can also consolidate signature-related data, reducing on-chain fees. Moreover, it can obscure whether a wallet involves Nostr, a federated mint, Bitcoin Script smart contract, or Lightning Network channel.</p>
+<p class="md-end-block md-p">The Frostsnap method stands to offer Bitcoiners a means to sign documents, verify identities, maintain privacy, and secure an organization's bitcoin against the risk of rogue employees or a lost signing device. </p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>]]></description>
+			  <content:encoded><![CDATA[<p class="md-end-block md-p">A team of Bitcoin developers and enthusiasts have introduced what's been dubbed the "Frostsnap" method, one that is set to provide multisig wallets with a range of new capabilities, transforming them from a static tool to a flexible, adaptive system.</p>
+<p class="md-end-block md-p">With this new development, Bitcoin multisig wallets, known for their secure nature, are getting a significant upgrade. Multisignature or multisig wallets have always been a go-to for safeguarding funds on the Bitcoin network. Their modus operandi requires multiple signers to authorize any transaction, which adds a layer of security. But one of the limitations with traditional multisigs is that they can't add signers without creating a new wallet, an action that calls for transferring funds.</p>
+The Solution
+<p class="md-end-block md-p">The newly-introduced Frostsnap method proposes a solution to this inconvenience. It allows for the replacement of hardware wallets such as Ledgers, Trezors, ColdCards, or other similar permutations, without the need for additional on-chain transactions. It's also capable of adding new signers to a key after the initial private key generation event and rendering stolen hardware wallets incompatible with every other device of the multisig. Adam Mashrique, the project's hardware lead, affirmed the team's ambition to create an open standard that vendors could implement, thereby enabling different devices to be part of a FROST multisig wallet.</p>
+Reshaping the Multisig Landscape
+<p class="md-end-block md-p">Frostsnap has already drawn comparisons to a "Bitcoin multisig centipede" due to its flexibility and adaptability. Like a centipede, Frostsnap-compatible devices can be replaced, modify the required number of devices to confirm a transaction if a device is compromised, and efficiently facilitate data transfer to Bitcoin nodes with Taproot signatures. The name Frostsnap is a nod to the acronym Flexible Round-Optimized Schnorr Threshold signatures (FROST).</p>
+<p class="md-end-block md-p md-focus">The remarkable aspect of this system is that it's fully in consensus with the Bitcoin network today, requiring no fork or proprietary node software. Despite plans to introduce a Bitcoin Improvement Proposal (BIP) for on-chain FROST support, devices supporting FROST can manage an on-chain Frostsnap wallet today. The development of Frostnap, in an of itself, is FOSS (Free and Open Source Software).</p>
+
+<p dir="ltr" lang="en">Each person is a unique combination of things they know, objects they own, places they can access, and people they trust.How individuals secure their #Bitcoin should reflect this.Introducing Frostsnap, hardware and software evolving Bitcoin ownershiphttps://t.co/Vo111j4p5J</p>
+&mdash; Frostsnap ❄ (@FrostsnapTech) July 20, 2023
+
+Security and Flexibility
+<p class="md-end-block md-p">In addition to improved flexibility and security, Frostsnap offers a handful of benefits. Users can back up information onto new devices, making future device swaps easier. It also allows multisig signers to dismiss any stolen device with a threshold number of signatures, providing further security against thieves.</p>
+<p class="md-end-block md-p">Frostsnap provides increased privacy through Taproot, which erfectively conceals the existence or attributes of a Frostsnap wallet. Thanks to Taproot, Frostsnap can also consolidate signature-related data, reducing on-chain fees. Moreover, it can obscure whether a wallet involves Nostr, a federated mint, Bitcoin Script smart contract, or Lightning Network channel.</p>
+<p class="md-end-block md-p">The Frostsnap method stands to offer Bitcoiners a means to sign documents, verify identities, maintain privacy, and secure an organization's bitcoin against the risk of rogue employees or a lost signing device. </p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
+<p class="md-end-block md-p md-focus">&nbsp;</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Binance To Operate Back in Japan as PM Reaffirms Web3 Adoption]]></title>
 			  <link>https://cryptodaily.co.uk/2023/07/binance-to-operate-back-in-japan-as-pm-reaffirms-web3-adoption</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/binance-japan-web3-h.jpg" medium="image" />
@@ -823,52 +867,6 @@ Nothing Malicious&nbsp;
 Bankman-Fried&rsquo;s House Arrest&nbsp;
 <p>Bankman-Fried has already been summoned by Judge Kaplan following the accusations, with the judge skeptical regarding his bail conditions. He has already warned Kaplan has already warned SBF that he could end up going back to jail if he did not curtail his use of VPN programs and encrypted messaging apps.&nbsp;</p>
 <p>The former CEO is under house arrest at his parent&rsquo;s home in California as part of a $250 million bail package. However, the bail conditions have already been tightened twice. Visitors are now required to hand over their devices to a guard at the front door. Additionally, Bankman-Fried&rsquo;s internet usage is heavily monitored, and he is banned from using certain encrypted applications and contacting witnesses. The second condition was imposed after he messaged a potential witness and emailed John Ray.&nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[SEC Accuses Binance.US of Inflating Trading Volumes]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/sec-accuses-binanceus-of-inflating-trading-volumes</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/binance-us-cz-h.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/binance-us-cz-h.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/binance-us-cz-h.jpg" length="528" type="image/jpg" />
-			  <pubDate>Tue, 25 Jul 2023 08:34:49 +0100</pubDate>
-			  <dc:creator><![CDATA[Jana Serfontein]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/sec-accuses-binanceus-of-inflating-trading-volumes</guid>
-			  <description><![CDATA[<p>In its newest scare tactic, the SEC alleged Binance.US inflated its trading volumes through a practice known as &ldquo;wash trading.&rdquo; </p>
-<p>The US Securities and Exchange Commission (SEC) has repeatedly increased the regulatory pressure against Binance.US. Binance has become the subject of the US&rsquo;s efforts to eliminate crypto exchanges it deems to have acted improperly.</p>
-SEC: Binance.US Engaged in &ldquo;Wash Trading&rdquo;
-<p>US regulatory action this time comes as the SEC accused Binance&rsquo;s US arm, Binance.US, of inflating its trading volumes &ndash; a practice known as &ldquo;wash trading.&rdquo; The Wall Street Journal (WSJ) first reported the news and said some of the exchange&rsquo;s crypto trading was a &ldquo;mirage&rdquo;, according to SEC.</p>
-<p>Most accusations levelled against the exchange and its CEO, Changpeng &lsquo;CZ&rsquo; Zhao, came after the SEC sued Binance, Binance.US, and CZ. In its claims against the exchange, the SEC alleged that trading volumes on Binance.US were inflated by a firm owned by Zhao.</p>
-<p>The WSJ report says the securities agency alleges that Binance.US inflated trading volumes &ldquo;by using dozens of user accounts held by Sigma Chain, a Swiss trading company controlled by Zhao.&rdquo; The WSJ also cites an academic report and boldly claims that over 70% of trading volume on crypto exchanges is derived from wash trading.</p>
-<p>Binance.US filed a lawsuit against the SEC for its claims of improper handling of customer funds and said the SEC were &ldquo;misleading: the public in its ongoing cases. The SEC accused Binance and CZ of commingling customer assets in a press release.</p>
-
-<p>&ldquo;Given that Changpeng Zhao and Binance have control of the platforms&rsquo; customers&rsquo; assets and have been able to commingle customer assets or divert customer assets as they please, as we have alleged, these prohibitions are essential to protecting investor assets.&rdquo;</p>
-
-<p>&nbsp;A spokesperson addressed the SEC&rsquo;s allegations of wash trading, saying they are &ldquo;entirely unfounded.&rdquo; The WSJ further reports the spokesperson said the claims are &ldquo;based on a fundamental misunderstanding of the facts and a misapplication of the relevant law.&rdquo;</p>
-Binance.US Feels the Pressure
-<p>The exchange naturally has felt the effects of the SEC&rsquo;s endless lawsuits and allegations. &nbsp;</p>
-<p>Recent reports indicated Binance&rsquo;s US affiliate laid off some of its staff following the agency&rsquo;s actions.</p>
-Binance Seeks Dismissal of CFTC Complaint
-<p>In a July 24 report, news agency Reuters said that Binance and its CEO are &ldquo;planning to seek dismissal of a Commodity Futures Trading Commission (CFTC) complaint accusing the crypto exchange of violating the Commodity Exchange Act and certain related federal regulations.&rdquo;</p>
-<p>Binance has until July 27 to submit its response to the CFTC&rsquo;s complaint and will reportedly seek a dismissal. In March, the CFTC revealed it was suing Binance and its CEO, accusing the exchange of trading on its own platform and CZ of indulging in insider trading.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>In its newest scare tactic, the SEC alleged Binance.US inflated its trading volumes through a practice known as &ldquo;wash trading.&rdquo; </p>
-<p>The US Securities and Exchange Commission (SEC) has repeatedly increased the regulatory pressure against Binance.US. Binance has become the subject of the US&rsquo;s efforts to eliminate crypto exchanges it deems to have acted improperly.</p>
-SEC: Binance.US Engaged in &ldquo;Wash Trading&rdquo;
-<p>US regulatory action this time comes as the SEC accused Binance&rsquo;s US arm, Binance.US, of inflating its trading volumes &ndash; a practice known as &ldquo;wash trading.&rdquo; The Wall Street Journal (WSJ) first reported the news and said some of the exchange&rsquo;s crypto trading was a &ldquo;mirage&rdquo;, according to SEC.</p>
-<p>Most accusations levelled against the exchange and its CEO, Changpeng &lsquo;CZ&rsquo; Zhao, came after the SEC sued Binance, Binance.US, and CZ. In its claims against the exchange, the SEC alleged that trading volumes on Binance.US were inflated by a firm owned by Zhao.</p>
-<p>The WSJ report says the securities agency alleges that Binance.US inflated trading volumes &ldquo;by using dozens of user accounts held by Sigma Chain, a Swiss trading company controlled by Zhao.&rdquo; The WSJ also cites an academic report and boldly claims that over 70% of trading volume on crypto exchanges is derived from wash trading.</p>
-<p>Binance.US filed a lawsuit against the SEC for its claims of improper handling of customer funds and said the SEC were &ldquo;misleading: the public in its ongoing cases. The SEC accused Binance and CZ of commingling customer assets in a press release.</p>
-
-<p>&ldquo;Given that Changpeng Zhao and Binance have control of the platforms&rsquo; customers&rsquo; assets and have been able to commingle customer assets or divert customer assets as they please, as we have alleged, these prohibitions are essential to protecting investor assets.&rdquo;</p>
-
-<p>&nbsp;A spokesperson addressed the SEC&rsquo;s allegations of wash trading, saying they are &ldquo;entirely unfounded.&rdquo; The WSJ further reports the spokesperson said the claims are &ldquo;based on a fundamental misunderstanding of the facts and a misapplication of the relevant law.&rdquo;</p>
-Binance.US Feels the Pressure
-<p>The exchange naturally has felt the effects of the SEC&rsquo;s endless lawsuits and allegations. &nbsp;</p>
-<p>Recent reports indicated Binance&rsquo;s US affiliate laid off some of its staff following the agency&rsquo;s actions.</p>
-Binance Seeks Dismissal of CFTC Complaint
-<p>In a July 24 report, news agency Reuters said that Binance and its CEO are &ldquo;planning to seek dismissal of a Commodity Futures Trading Commission (CFTC) complaint accusing the crypto exchange of violating the Commodity Exchange Act and certain related federal regulations.&rdquo;</p>
-<p>Binance has until July 27 to submit its response to the CFTC&rsquo;s complaint and will reportedly seek a dismissal. In March, the CFTC revealed it was suing Binance and its CEO, accusing the exchange of trading on its own platform and CZ of indulging in insider trading.</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
