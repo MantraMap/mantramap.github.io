@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Tue, 25 Jul 2023 11:22:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 15:27:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Worldcoin&#8217;s Shady History and Data Collection Practices: MIT Technology Review</title>
+		<link>https://cryptobriefing.com/worldcoins-shady-history-and-data-collection-practices-mit-technology-review/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 15:27:34 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=125517</guid>
+
+					<description><![CDATA[Worldcoin has been courting users with a plan as ambitious as it is controversial and was recently launched on July 24, 2023. Built on the promise of an equitably distributed,...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/25112732/emilytonelli_a_cartoon_orb_looking_directly_onto_a_busy_street_f5a4efad-5b18-468e-a967-d9fe4411e44c-868x434.png" width="868" height="434" />	</item>
+		<item>
 		<title>Solana-Based ATMTA&#8217;s Star Atlas Announces Restructuring and Staff Cut</title>
 		<link>https://cryptobriefing.com/atmtas-star-atlas-announces-restructuring/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -448,19 +463,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/10135213/emilytonelli_two_united_states_regulators_trying_to_step_over_a_3d4df988-7fef-446b-97f1-3daedde11cdb-868x434.png" width="868" height="434" />	</item>
-		<item>
-		<title>Bitcoin Mining Activity Surges Amid High Difficulty: Bitfinex</title>
-		<link>https://cryptobriefing.com/bitcoin-mining-activity-surges/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
-		<pubDate>Tue, 18 Jul 2023 13:11:16 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=125298</guid>
-
-					<description><![CDATA[Bitcoin miners activities continue to pique global interest, showing a rise in BTC mining activity, according to a report from Bitfinex. One particular development is the Bitcoin mining difficulty hitting...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/18091019/emilytonelli_cartoon_miners_finding_a_new_bitcoin_coin_094828be-260e-4103-8a4d-9286208e2794-868x434.png" width="868" height="434" />	</item>
 	</channel>
 </rss>

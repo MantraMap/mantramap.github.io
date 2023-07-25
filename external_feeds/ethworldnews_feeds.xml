@@ -12,7 +12,7 @@
 	<atom:link href="https://en.ethereumworldnews.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://en.ethereumworldnews.com</link>
 	<description>Ethereum, DeFi &#38; Bitcoin News</description>
-	<lastBuildDate>Tue, 25 Jul 2023 15:19:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 15:46:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -606,4 +606,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7631 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1850591 metric#prefetches=141 metric#store-reads=23 metric#store-writes=4 metric#store-hits=153 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=250.20 metric#ms-cache=17.17 metric#ms-cache-avg=0.6602 metric#ms-cache-ratio=6.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7631 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1850592 metric#prefetches=141 metric#store-reads=23 metric#store-writes=5 metric#store-hits=153 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=238.11 metric#ms-cache=18.64 metric#ms-cache-avg=0.6903 metric#ms-cache-ratio=7.8 sample#redis-hits=933086644 sample#redis-misses=24309052 sample#redis-hit-ratio=97.5 sample#redis-ops-per-sec=16 sample#redis-evicted-keys=0 sample#redis-used-memory=64162176 sample#redis-used-memory-rss=96186368 sample#redis-memory-fragmentation-ratio=1.5 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=44714 -->
