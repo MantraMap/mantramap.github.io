@@ -12,7 +12,7 @@
 	<atom:link href="https://cryptobriefing.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptobriefing.com/</link>
 	<description>Bitcoin, Ethereum and the future of finance</description>
-	<lastBuildDate>Tue, 25 Jul 2023 15:27:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 15:53:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DeFi Hack Worth $3.4M Strikes EraLend, zkSync&#8217;s Top Lender</title>
+		<link>https://cryptobriefing.com/defi-hack-strikes-eralend-zksyncs/?utm_source=feed&#038;utm_medium=rss</link>
+		
+		<dc:creator><![CDATA[Editorial Team]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 15:53:57 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://cryptobriefing.com/?p=125522</guid>
+
+					<description><![CDATA[EraLend, a lending protocol on Ethereums scaling blockchain, zkSync, faced a substantial exploit that resulted in a loss of $3.4 million, according to an analysis by CertiK, a leading firm...]]></description>
+		
+		
+		
+		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/10055220/emilytonelli_decentralized_finance_hack_stealing_crypto_tokens_cd5e10a7-ab36-434d-a369-0ee04e86db6b-868x434.png" width="868" height="434" />	</item>
+		<item>
 		<title>Worldcoin&#8217;s Shady History and Data Collection Practices: MIT Technology Review</title>
 		<link>https://cryptobriefing.com/worldcoins-shady-history-and-data-collection-practices-mit-technology-review/?utm_source=feed&#038;utm_medium=rss</link>
 		
@@ -448,20 +463,5 @@
 		
 		
 		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/05121436/emilytonelli_sec_vs_a_bitcoin_coin_289c3f35-ab03-4236-b810-ea452733a4dc-868x434.png" width="868" height="434" />	</item>
-		<item>
-		<title>SEC Takes Valkyrie&#8217;s Spot Bitcoin ETF Proposal Under Consideration</title>
-		<link>https://cryptobriefing.com/sec-takes-valkyries-spot-bitcoin-etf/?utm_source=feed&#038;utm_medium=rss</link>
-		
-		<dc:creator><![CDATA[Emily Tonelli]]></dc:creator>
-		<pubDate>Tue, 18 Jul 2023 14:43:49 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://cryptobriefing.com/?p=125307</guid>
-
-					<description><![CDATA[The Securities and Exchange Commission (SEC) has incorporated Valkyries spot Bitcoin exchange-traded fund (ETF) proposal into its formal review process. This is the most recent spot Bitcoin ETF proposal from...]]></description>
-		
-		
-		
-		<media:content medium="image" url="https://static.cryptobriefing.com/wp-content/uploads/2023/07/10135213/emilytonelli_two_united_states_regulators_trying_to_step_over_a_3d4df988-7fef-446b-97f1-3daedde11cdb-868x434.png" width="868" height="434" />	</item>
 	</channel>
 </rss>
