@@ -29,6 +29,88 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ZkSync&#8217;s Largest Lender EraLend Suffered A $3.4M Attack</title>
+		<link>https://coincu.com/205867-eralend-by-3-4m-attack/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 15:44:33 +0000</pubDate>
+				<category><![CDATA[Scam Alert]]></category>
+		<category><![CDATA[Conic Finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[EraLend]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Zksync]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=205867</guid>
+
+					<description><![CDATA[EraLend, the leading lending protocol on Ethereum's zkSync, suffers a $3.4 million read-only reentrancy attack.<p class="has-text-align-right"><a href="https://coincu.com/205867-eralend-by-3-4m-attack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>EraLend, the leading lending protocol on Ethereum&#8217;s zkSync, suffers a $3.4 million read-only reentrancy attack.</em></li>
+
+
+
+<li><em>The attacker exploited a vulnerability in the smart contract code, using a faulty price oracle to repeatedly withdraw more funds than authorized.</em></li>
+
+
+
+<li><em>EraLend promptly suspends borrowing operations and advises users against depositing USDC while working with cybersecurity firms to address the security breach.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>In a recent security breach, EraLend, the largest lending protocol operating on the Ethereum scaling blockchain <a href="https://coincu.com/203301-zksync-era-introduced-boojum/" target="_blank" rel="noreferrer noopener">zkSync</a>, fell victim to a read-only reentrancy attack, resulting in a substantial loss of $3.4 million.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1832.png"><img decoding="async" width="1024" height="233" src="https://coincu.com/wp-content/uploads/2023/07/image-1832-1024x233.png" alt="image 1832" class="wp-image-205874" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1832-1024x233.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1832-300x68.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1832-768x175.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1832-1536x350.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1832-2048x466.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1832-750x171.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1832-1140x260.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZkSync&#039;s Largest Lender EraLend Suffered A $3.4M Attack 1"></a></figure></div>
+
+
+<p>According to blockchain security firm CertiK, the attack <a href="https://skynet.certik.com/alerts/security/c501f496-5302-4c6a-b3a4-5b12b9a78915" target="_blank" rel="noreferrer noopener">exploited</a> a vulnerability in EraLend&#8217;s smart contract code, allowing the attacker to withdraw more funds than authorized within a single transaction. As a result of the exploit, the total amount of locked capital on EraLend dropped from $18.5 million to $7.7 million, as reported by DefiLlama.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04.png"><img decoding="async" loading="lazy" width="1024" height="316" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-1024x316.png" alt="ZkSync&#039;s Largest Lender EraLend Suffered A $3.4M Attack" class="wp-image-205876" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-1024x316.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-300x92.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-768x237.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-1536x474.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-2048x631.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-750x231.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-22.43.04-1140x351.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="ZkSync&#039;s Largest Lender EraLend Suffered A $3.4M Attack 2"></a></figure></div>
+
+
+<p>The vulnerability that the attacker took advantage of involved a read-only function, typically considered safe due to its inability to modify the contract&#8217;s state. These functions perform view actions, such as calculating token balances, without altering any data. However, the hacker manipulated this function through a reentrancy exploit, repeatedly calling it to drain assets from EraLend. The exploit focused on a faulty price oracle that EraLend relied on, ultimately allowing the attacker to siphon off significant funds from the protocol.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">We are assisting <a href="https://twitter.com/Era_Lend?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@Era_Lend</a> to this issue, and the root cause has been identified. The total loss is ~$3.4M.<br>Specifically, this is a read-only re-entrancy attack.<br>Another attack tx is:<a href="https://t.co/H4A2suVLai" target="_blank">https://t.co/H4A2suVLai</a><br>Attacker address:<br>0xf1D076c9Be4533086f967e14EE6aFf204D5ECE7a <a href="https://t.co/InhCCW7QAy" target="_blank">https://t.co/InhCCW7QAy</a></p>&mdash; BlockSec (@BlockSecTeam) <a href="https://twitter.com/BlockSecTeam/status/1683824959452504065?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 25, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Era Lend addressed the incident promptly, suspending all borrowing operations and warning users against depositing USDC (USD Coin) until the issue is resolved. The team is actively working with cybersecurity firms and partners to investigate the attack and implement necessary security measures.</p>
+
+
+
+<p>In the wake of the attack, Era Lend <a href="https://twitter.com/Era_Lend/status/1683826465446715397" target="_blank" rel="noreferrer noopener">reassured</a> its users that only the USDC pool was compromised, and the security of assets other than USDC remains intact. As a precautionary step, the platform temporarily halted borrowing operations to prevent further losses.</p>
+
+
+
+<p>The attack on EraLend bears a resemblance to a similar incident that targeted the decentralized finance (DeFi) protocol <a href="https://coincu.com/204863-conic-finance-liquidity-pools-not-affected/" target="_blank" rel="noreferrer noopener">Conic Finance</a> the previous week, resulting in a total loss of $3.6 million. It highlights the need for increased security measures within the DeFi space as attackers continue to exploit vulnerabilities in smart contract code.</p>
+
+
+
+<p>Despite the setback, EraLend remains committed to enhancing its security infrastructure to protect user funds and bolster the confidence of its community. As the DeFi ecosystem evolves, it is evident that constant vigilance and proactive security measures are essential to safeguarding users&#8217; assets and the overall integrity of decentralized platforms.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/205867-eralend-by-3-4m-attack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-1833-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase </title>
 		<link>https://coincu.com/205862-avalanche-foundation-50-million-allocation/</link>
 		
@@ -63,7 +145,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg"><img decoding="async" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg" alt="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase " class="wp-image-205868" srcset="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase  1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg" alt="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase " class="wp-image-205868" srcset="https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/Avalanche-raises-230-million-from-Private-Sale-of-AVAX-Tokens-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase  3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Termed &#8220;Avalanche Vista,&#8221; this initiative seeks to showcase the potential of tokenization across diverse sectors, including stocks, credit, real estate, and commodities. Tokenization involves creating digital representations of real-world assets on a blockchain, providing a faster and more efficient way for companies to issue assets, individuals to own them, and everyone to transfer value.&nbsp;</p>
@@ -74,7 +156,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/AVAX.png"><img decoding="async" loading="lazy" width="640" height="367" src="https://coincu.com/wp-content/uploads/2023/07/AVAX.png" alt="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase " class="wp-image-205869" srcset="https://coincu.com/wp-content/uploads/2023/07/AVAX.png 640w, https://coincu.com/wp-content/uploads/2023/07/AVAX-300x172.png 300w" sizes="(max-width: 640px) 100vw, 640px" title="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase  2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/AVAX.png"><img decoding="async" loading="lazy" width="640" height="367" src="https://coincu.com/wp-content/uploads/2023/07/AVAX.png" alt="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase " class="wp-image-205869" srcset="https://coincu.com/wp-content/uploads/2023/07/AVAX.png 640w, https://coincu.com/wp-content/uploads/2023/07/AVAX-300x172.png 300w" sizes="(max-width: 640px) 100vw, 640px" title="Avalanche Foundation Announces $50 Million Allocation For Tokenized Asset Purchase  4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>According to Wu, through various dealings with conventional market players, the liquidity aspect emerged as a critical challenge. In response, Avalanche aims to address this concern by allocating $50 million to bolster liquidity, aligning with the ongoing pipeline of tokenized assets and the amount required to enhance market liquidity.</p>
@@ -151,7 +233,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1828.png"><img decoding="async" loading="lazy" width="1024" height="546" src="https://coincu.com/wp-content/uploads/2023/07/image-1828-1024x546.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205856" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1828-1024x546.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1828-300x160.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1828-768x410.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1828-750x400.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1828-1140x608.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1828.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1828.png"><img decoding="async" loading="lazy" width="1024" height="546" src="https://coincu.com/wp-content/uploads/2023/07/image-1828-1024x546.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205856" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1828-1024x546.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1828-300x160.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1828-768x410.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1828-750x400.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1828-1140x608.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1828.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 5"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is Superchain?</h2>
@@ -200,7 +282,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1829.png"><img decoding="async" loading="lazy" width="919" height="761" src="https://coincu.com/wp-content/uploads/2023/07/image-1829.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205857" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1829.png 919w, https://coincu.com/wp-content/uploads/2023/07/image-1829-300x248.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1829-768x636.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1829-750x621.png 750w" sizes="(max-width: 919px) 100vw, 919px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 4"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1829.png"><img decoding="async" loading="lazy" width="919" height="761" src="https://coincu.com/wp-content/uploads/2023/07/image-1829.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205857" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1829.png 919w, https://coincu.com/wp-content/uploads/2023/07/image-1829-300x248.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1829-768x636.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1829-750x621.png 750w" sizes="(max-width: 919px) 100vw, 919px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 6"></a></figure></div>
 
 
 <p>At present, the disjointed state of the crypto market poses a significant challenge in onboarding the next generation of users. The Optimism Superchain, however, holds the potential to change this landscape drastically. Acting as a catalyst for Layer 2 chains, advancements in data availability on the main Ethereum network, particularly through EIP-4844 (Proto-Danksharding), play a pivotal role in paving the way for the Superchain&#8217;s success.</p>
@@ -231,7 +313,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1827.png"><img decoding="async" loading="lazy" width="800" height="638" src="https://coincu.com/wp-content/uploads/2023/07/image-1827.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205855" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1827.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-1827-300x239.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1827-768x612.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1827-750x598.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 5"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1827.png"><img decoding="async" loading="lazy" width="800" height="638" src="https://coincu.com/wp-content/uploads/2023/07/image-1827.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205855" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1827.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-1827-300x239.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1827-768x612.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1827-750x598.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 7"></a></figure></div>
 
 
 <p>Drawing inspiration from Ethereum&#8217;s successful scaling through modularity, the OP Stack replicates this concept for Layer 2 solutions. With each component becoming a standardized module, developers can now construct new Layer 2 chains akin to assembling Lego pieces, whether for general-purpose or application-specific purposes. This approach not only accelerates the process of building Layer 2s but also enhances the strength of the code through iterative improvements.</p>
@@ -270,7 +352,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1830.png"><img decoding="async" loading="lazy" width="1024" height="798" src="https://coincu.com/wp-content/uploads/2023/07/image-1830-1024x798.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205858" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1830-1024x798.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1830-300x234.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1830-768x599.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1830-750x584.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1830-1140x888.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1830.png 1432w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 6"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1830.png"><img decoding="async" loading="lazy" width="1024" height="798" src="https://coincu.com/wp-content/uploads/2023/07/image-1830-1024x798.png" alt="Optimism Update: Building A Decentralized Superchain Ecosystem With Layer 2 Solutions" class="wp-image-205858" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1830-1024x798.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1830-300x234.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1830-768x599.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1830-750x584.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1830-1140x888.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1830.png 1432w" sizes="(max-width: 1024px) 100vw, 1024px" title="Optimism Update: Building A Superchain Ecosystem With Layer 2 Solutions 8"></a></figure></div>
 
 
 <p>In a bid to promote collaborative innovation, projects within the Optimism Collective can now register to utilize the Set Sequencer, further reinforcing the vision of a united Superchain. This shared resource pool empowers projects to pool their resources and enhance their operational capabilities collectively.</p>
@@ -333,7 +415,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1824.png"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/07/image-1824.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205847" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1824.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1824-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1824-768x402.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1824-750x393.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 7"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1824.png"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/07/image-1824.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205847" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1824.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1824-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1824-768x402.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1824-750x393.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 9"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Causes of Pendle War</h2>
@@ -414,7 +496,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-scaled.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1024x576.webp" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205849" srcset="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-2048x1152.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1140x641.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 8"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-scaled.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1024x576.webp" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205849" srcset="https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-2048x1152.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Nansen_Brief_44_Header_85abb0439e-1140x641.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 10"></a></figure></div>
 
 
 <p>VePENDLE, an essential asset for yield optimization, serves as the battleground for PenPie and Equilibria, and understanding their respective approaches is crucial.</p>
@@ -445,7 +527,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png"><img decoding="async" loading="lazy" width="1024" height="480" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205846" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-300x141.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-768x360.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-750x352.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1140x534.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43.png 1250w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 9"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png"><img decoding="async" loading="lazy" width="1024" height="480" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205846" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1024x480.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-300x141.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-768x360.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-750x352.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43-1140x534.png 1140w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.43.png 1250w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 11"></a></figure></div>
 
 
 <h3 class="wp-block-heading"><strong>The Battle Factors</strong></h3>
@@ -486,7 +568,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png"><img decoding="async" loading="lazy" width="1024" height="159" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205845" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-300x47.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-768x119.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1536x239.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-2048x318.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-750x117.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1140x177.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 10"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png"><img decoding="async" loading="lazy" width="1024" height="159" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png" alt="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy" class="wp-image-205845" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1024x159.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-300x47.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-768x119.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1536x239.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-2048x318.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-750x117.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-20.30.30-1140x177.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Pendle War Intensify: PenPie And Equilibria Battle for Yield Farming Supremacy 12"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
@@ -537,7 +619,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1823.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1823-1024x576.png" alt="Worldcoin Takes Over The World As Its Name, Except The United States" class="wp-image-205841" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1823-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1823-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1823-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1823-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1823-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1823.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Takes Over The World As Its Name, Except The United States 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1823.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1823-1024x576.png" alt="Worldcoin Takes Over The World As Its Name, Except The United States" class="wp-image-205841" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1823-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1823-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1823-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1823-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1823-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1823.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Takes Over The World As Its Name, Except The United States 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Worldcoin, the most widely distributed digital currency, is making waves in the cryptocurrency world. The WLD token, alongside World ID, will be used for protocol governance and form the foundation of the largest privacy-preserving identity and financial network. However, US-based cryptocurrency exchanges such as Coinbase and Kraken do not currently list Worldcoin. The WLD tokens are unavailable to US persons or companies, although World ID and TFH’s World App remain available in the United States.</p>
@@ -622,7 +704,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg"><img decoding="async" loading="lazy" width="600" height="389" src="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg" alt="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support" class="wp-image-205827" srcset="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/4-9-300x195.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg"><img decoding="async" loading="lazy" width="600" height="389" src="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg" alt="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support" class="wp-image-205827" srcset="https://coincu.com/wp-content/uploads/2023/07/4-9.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/4-9-300x195.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Users will have access to a greater variety of options as a result of this update&#8217;s addition of support for <a href="https://coincu.com/203512-neon-evm-now-supports-ethereum-on-solana/">EVM</a>-based networks like as Ethereum, BSC, and BTTC networks. TronLink Chrome wallet will be able to cater to more complicated DApp application situations as a result of this extension. It will also be able to fulfill a wider variety of asset management demands, which will support the growth of the TRON and BTTC ecosystems.</p>
@@ -633,7 +715,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/timthumb.png"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/timthumb.png" alt="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support" class="wp-image-205828" srcset="https://coincu.com/wp-content/uploads/2023/07/timthumb.png 600w, https://coincu.com/wp-content/uploads/2023/07/timthumb-300x158.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/timthumb.png"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/timthumb.png" alt="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support" class="wp-image-205828" srcset="https://coincu.com/wp-content/uploads/2023/07/timthumb.png 600w, https://coincu.com/wp-content/uploads/2023/07/timthumb-300x158.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="TronLink Chrome Wallet Upgrades To V4.1.1, Introducing EVM Network Support 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The BTTC&#8217;s decentralized cross-chain bridge, BT.io, has shown their support for the adaption of TronLink to the EVM chain-related functions by providing their assistance. Additionally, future plans call for additional EVM-based decentralized applications (DApps) to integrate and support TronLink&#8217;s plug-in wallet, which will expand the wallet&#8217;s accessibility and usage.</p>
@@ -690,7 +772,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1820.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1820-1024x576.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205805" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1820-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1820-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1820-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1820-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1820-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1820-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1820.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 14"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1820.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1820-1024x576.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205805" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1820-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1820-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1820-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1820-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1820-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1820-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1820.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 16"></a></figure></div>
 
 
 <p>As interest in the LSDfi sector grows, investors and enthusiasts are closely monitoring the development potential and community support for this attractive project. This is a remarkable project and follows the current trend. Does the project have enough development potential and receive great investment from the community? Let&#8217;s find out with Coincu through this article.</p>
@@ -757,7 +839,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png"><img decoding="async" loading="lazy" width="1024" height="428" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205823" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-300x125.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-768x321.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1536x642.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-2048x857.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-750x314.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1140x477.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 15"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png"><img decoding="async" loading="lazy" width="1024" height="428" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205823" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1024x428.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-300x125.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-768x321.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1536x642.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-2048x857.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-750x314.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.42-1140x477.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 17"></a></figure></div>
 
 
 <h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Products</h2>
@@ -936,7 +1018,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png"><img decoding="async" loading="lazy" width="1024" height="321" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205824" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-300x94.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-768x241.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1536x482.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-2048x642.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-750x235.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1140x357.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 16"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png"><img decoding="async" loading="lazy" width="1024" height="321" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png" alt="Raft Review: Steady Waters Of Stability And Profit DeFi" class="wp-image-205824" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1024x321.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-300x94.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-768x241.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1536x482.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-2048x642.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-750x235.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-17.07.51-1140x357.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Raft Review: Steady Waters Of Stability And Profit DeFi 18"></a></figure></div>
 
 
 <h3 class="wp-block-heading"><strong>Partners</strong></h3>
@@ -1028,7 +1110,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg" alt="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy" class="wp-image-205811" srcset="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-2048x1366.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1140x760.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg" alt="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy" class="wp-image-205811" srcset="https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-2048x1366.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/38539225-1bee-4683-8aa0-2b38182323d8_51cdbec1-1140x760.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Accounting firm BDO has given its stamp of approval to FTX&#8217;s $376 million acquisition of Swiss start-up company Digital Assets AG (DAAG), now known as FTX Europe. BDO&#8217;s assessment asserts that the transaction reasonably represents fair value, countering FTX Trading&#8217;s recent complaint.</p>
@@ -1043,7 +1125,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg" alt="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy" class="wp-image-205812" srcset="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-300x225.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-768x576.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1536x1152.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-750x563.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1140x855.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg" alt="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy" class="wp-image-205812" srcset="https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1024x768.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-300x225.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-768x576.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1536x1152.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-750x563.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a-1140x855.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1920x1440a.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="BDO Validates FTX&#039;s $376 Million Acquisition Of DAAG As Fair Value Amidst Controversy 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The controversy surrounding the firm&#8217;s acquisition of DAAG has drawn significant attention within the cryptocurrency community and beyond. As the legal proceedings continue, BDO&#8217;s endorsement could potentially have a significant impact on the case&#8217;s outcome and may help quell doubts surrounding the legitimacy of the acquisition.</p>
@@ -1112,14 +1194,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png"><img decoding="async" loading="lazy" width="816" height="452" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205799" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png 816w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-300x166.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-768x425.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-750x415.png 750w" sizes="(max-width: 816px) 100vw, 816px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png"><img decoding="async" loading="lazy" width="816" height="452" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205799" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1.png 816w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-300x166.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-768x425.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2022-11-14-at-14.39.37-816x452-1-750x415.png 750w" sizes="(max-width: 816px) 100vw, 816px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The project, which offers users the opportunity to receive free cryptocurrency in exchange for their iris scans, has caught the attention of the Information Commissioner&#8217;s Office (ICO). The ICO spokesperson informed Reuters that they have taken notice of the recent launch of Worldcoin in the UK and have decided to initiate further inquiries into the matter. This move comes amid growing concerns over the potential implications of widespread iris scanning and the use of sensitive biometric information in a financial context.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205800" srcset="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/coin-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg"><img decoding="async" loading="lazy" width="600" height="315" src="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205800" srcset="https://coincu.com/wp-content/uploads/2023/07/coin.jpeg 600w, https://coincu.com/wp-content/uploads/2023/07/coin-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p><a href="https://coincu.com/205302-worldcoin-token-openai-ceo-sam-altman/">Worldcoin</a>&#8216;s launch on Monday attracted a substantial user base, with two million individuals participating in the trial phase of the project. As the crypto initiative scales up its operations, it plans to conduct eyeball-scanning procedures in 20 countries, aiming for a global reach.</p>
@@ -1130,7 +1212,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1200x0.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/1200x0-1024x683.jpeg" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205801" srcset="https://coincu.com/wp-content/uploads/2023/07/1200x0-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1200x0-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1200x0-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1200x0-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1200x0-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1200x0.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1200x0.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/1200x0-1024x683.jpeg" alt="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns" class="wp-image-205801" srcset="https://coincu.com/wp-content/uploads/2023/07/1200x0-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/1200x0-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/1200x0-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/1200x0-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/1200x0-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/1200x0.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns 23"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>While Worldcoin promises free cryptocurrency as an incentive for users to participate, the use of biometric data remains a contentious issue. Proponents of the project claim that it can foster financial inclusion for those without access to traditional banking systems. However, detractors argue that such benefits may not outweigh the potential dangers associated with compromising biometric data.</p>
@@ -1194,7 +1276,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg" alt="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing" class="wp-image-205792" srcset="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing 22"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg" alt="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing" class="wp-image-205792" srcset="https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/FyKiLIiagAAI12O.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The news was officially announced on July 25, marking a major stride in the development of the innovative social networking platform. The funding round witnessed the participation of numerous prominent investors, including Sui Foundation, GBV Capital, Big Brain Holdings, Shima Capital, Arweave Foundation, Assembly Partners, DWeb3 Capital, Impossible Finance, Solar Eco Fund, MoveBit, and more than 30 other venture capital firms and angel investors.</p>
@@ -1205,7 +1287,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1024x614.png" alt="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing" class="wp-image-205793" srcset="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1536x922.png 1536w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-2048x1229.png 2048w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1140x684.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing 23"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1024x614.png" alt="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing" class="wp-image-205793" srcset="https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1536x922.png 1536w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-2048x1229.png 2048w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/07/F13PAyOaYAEpbxi-1140x684.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Sui Ecological Social Graph Protocol Releap Completes $2.1 Million Financing 25"></a></figure></div>
 
 
 <p>Currently, Releap Protocol is in the beta phase of development, where it is actively refining its platform to provide a seamless and user-friendly social networking experience. With the successful completion of the $2.1 million financing round, the project is poised to accelerate its growth and expand its features to cater to a broader audience.</p>
@@ -1243,83 +1325,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Sui_Ecological_Social_Graph_Protocol_Releap_Completes_2_1_Million-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports</title>
-		<link>https://coincu.com/205773-alphapo-hot-wallet-losses-surge-to-60m-zachxbt/</link>
-		
-		<dc:creator><![CDATA[Annie]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 09:27:34 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Alphapo]]></category>
-		<category><![CDATA[Alphapo Hot Wallet]]></category>
-		<category><![CDATA[Hacker]]></category>
-		<category><![CDATA[scam crypto]]></category>
-		<category><![CDATA[ZachXBT]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=205773</guid>
-
-					<description><![CDATA[Key Points: ZachXBT has recently tweeted about the Alphapo hot wallet heist, disclosing that an additional $37 million worth of TRON and BTC has been found to be stolen due to this cyberattack. The total amount pilfered from Alphapo has now surged to a staggering $60 million, making it a high-profile attack in the cryptocurrency [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/205773-alphapo-hot-wallet-losses-surge-to-60m-zachxbt/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Cryptocurrency heist at Alphapo: $60M stolen.</em></li>
-
-
-
-<li><em>Intricate web of transactions and sophisticated operation.</em></li>
-
-
-
-<li><em>Collaboration needed to combat rising threats in the crypto space.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>ZachXBT has recently tweeted about the Alphapo hot wallet heist, disclosing that an additional $37 million worth of TRON and BTC has been found to be stolen due to this cyberattack. </strong></h5>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1819.png"><img decoding="async" loading="lazy" width="1024" height="861" src="https://coincu.com/wp-content/uploads/2023/07/image-1819-1024x861.png" alt="image 1819" class="wp-image-205784" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1819-1024x861.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1819-300x252.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1819-768x646.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1819-750x631.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1819-1140x959.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1819.png 1290w" sizes="(max-width: 1024px) 100vw, 1024px" title="Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports 24"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The total amount pilfered from Alphapo has now surged to a staggering $60 million, making it a high-profile attack in the cryptocurrency world. The heist has raised concerns over security and highlighted potential vulnerabilities within the crypto ecosystem.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Hack update: An additional $37M stolen on TRON &amp; BTC from this hack has been located.<br><br>This now brings the total amount stolen to $60M.<br><br>This hack appears to likely have been done by Lazarus as they create a very distinct fingerprint on-chain. <a href="https://t.co/ACGSXiDwW3" target="_blank">pic.twitter.com/ACGSXiDwW3</a></p>&mdash; ZachXBT (@zachxbt) <a href="https://twitter.com/zachxbt/status/1683747073227624448?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 25, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>As per previous <a href="https://twitter.com/zachxbt/status/1683747073227624448" target="_blank" data-type="URL" data-id="https://twitter.com/zachxbt/status/1683747073227624448" rel="noreferrer noopener">reports </a>from ZachXBT&#8217;s monitoring, it was initially reported that the Alphapo hot wallet had been breached, leading to a theft of $23 million in US dollars. In response to the attack, the Alphapo HyperDrop client took immediate action by disabling withdrawals to prevent further losses.</p>
-
-
-
-<p>The investigation into the theft has unveiled an intricate web of transactions, revealing a sophisticated and well-coordinated operation. The stolen funds were first moved to the Ethereum network, presumably in an attempt to obfuscate the source and origin of the funds. Subsequently, they were cross-linked to the Avalanche network and Bitcoin (BTC), creating multiple layers of complexity to mask the hacker&#8217;s tracks.</p>
-
-
-<div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet.jpeg"><img decoding="async" loading="lazy" width="768" height="432" src="https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet.jpeg" alt="Alphapo Hot Wallet" class="wp-image-205786" srcset="https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet-750x422.jpeg 750w" sizes="(max-width: 768px) 100vw, 768px" title="Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports 25"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Attributing the hack to a group with potential links to Lazarus, a notorious cybercriminal organization known for conducting large-scale attacks, has further fueled concerns about the rising threats posed by such sophisticated hacking entities in the cryptocurrency space.</p>
-
-
-
-<p>The Alphapo heist serves as a stark reminder that the cryptocurrency world is not impervious to cyberattacks, and all stakeholders must remain vigilant to combat and deter such criminal activities. Collaborative efforts between exchanges, law enforcement agencies, and cybersecurity experts will be essential in bringing the perpetrators to justice and restoring trust in the cryptocurrency ecosystem.</p>
-
-
-
-<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/205773-alphapo-hot-wallet-losses-surge-to-60m-zachxbt/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Alphapo-Hot-Wallet-Losses-Surge-to-60M-ZachXBT-Reports-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
