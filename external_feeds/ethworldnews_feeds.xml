@@ -606,4 +606,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7642 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1937583 metric#prefetches=157 metric#store-reads=24 metric#store-writes=4 metric#store-hits=171 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=214.45 metric#ms-cache=17.62 metric#ms-cache-avg=0.6527 metric#ms-cache-ratio=8.2 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7493 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1914382 metric#prefetches=12 metric#store-reads=103 metric#store-writes=4 metric#store-hits=167 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=222.69 metric#ms-cache=26.79 metric#ms-cache-avg=0.2527 metric#ms-cache-ratio=12.0 -->
