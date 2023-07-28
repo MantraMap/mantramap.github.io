@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Tue, 25 Jul 2023 22:29:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jul 2023 22:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,137 +29,70 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Goodbye Twitter: How Elon Musk Plans the Transition to X</title>
-		<link>https://cryptopotato.com/goodbye-twitter-how-elon-musk-plans-the-transition-to-x/</link>
+		<title>Sui Foundation Ends Partnership With MoveEX Following Contract Violation</title>
+		<link>https://cryptopotato.com/sui-foundation-ends-partnership-with-moveex-following-contract-violation/</link>
+		
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 22:53:01 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262881</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/05/Sui_Network.png" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/05/Sui_Network.png" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The foundation asked MovEX to move the entire 2.5 million SUI to a qualified custodian who will release them according to the token emission schedule.]]></description>
+            																<content:encoded><![CDATA[<p>Sui Foundation, the non-profit organization behind the Sui Network, has terminated its partnership with MovEX, a decentralized exchange (DEX) and liquidity management platform, following the violation of a lockup agreement.</p>
+<p>According to a <a href="https://blog.sui.io/understanding-sui-token-supply/" data-wpel-link="external" target="_blank">blog post</a> by the Sui Foundation, MovEX moved some Sui tokens (SUI) that were subject to a contractual lockup without informing or seeking consent from the organization, sparking accusations of misrepresented emissions from the crypto community.</p>
+<h2>Sui Foundation Cuts Ties With MovEX</h2>
+<p>MovEx was an early contributor to Sui during its mainnet <a href="https://cryptopotato.com/sui-faced-massive-volatility-minutes-after-mainnet-launch/" data-wpel-link="internal">launch</a> in May, serving as a core builder for the network’s DeepBook, a shared decentralized central limit order book created for the ecosystem.</p>
+<p>At the time, 5.15% of the total SUI supply was in circulation, with the rest released on a <a href="https://cryptopotato.com/heres-when-sui-networks-tokens-will-be-unlocked/" data-wpel-link="internal">preset schedule</a> to early contributors to maintain network stability. The tokens were subject to a lockup period in line with the release schedule.</p>
+<p>In June, however, the pseudonymous Twitter user DefiSquared <a href="https://twitter.com/DefiSquared/status/1673572324145078273?s=20" data-wpel-link="external" target="_blank">accused</a> Sui of intentionally misrepresenting token emissions and dumping rewards from locked, non-circulating staked SUI on crypto exchange Binance.</p>
+<p>Through several investigations, the Sui Foundation discovered that MovEX executed the transactions that stirred the accusations. Out of the 2.5 million SUI received as payment for contributing to DeepBook, the decentralized exchange had initiated three transactions of 625,000 SUI to three different wallets, leaving the rest in the original wallet.</p>
+<p>Sui Foundation has ended its relationship with MovEX as the DEX breached the contractual lockup and failed to seek consent before initiating those transactions. Earlier this month, the foundation asked MovEX to move the 2.5 million SUI to a qualified custodian who will release them according to the token emission schedule.</p>
+<h2>MovEX Reponds</h2>
+<p>In response to the announcement by Sui Foundation, MovEX took to Twitter to <a href="https://twitter.com/joinMovEX/status/1684496073967140864?s=20" data-wpel-link="external" target="_blank">explain</a> that it had only distributed the tokens to custodian and non-custodian wallets.</p>
+<blockquote><p>“We would like to express our understanding regarding the conclusion of our partnership with Sui. We deeply value the journey filled with dedication, hard work, and honors, and we are truly appreciative of the support we received from the community,” MovEX said.</p></blockquote>
+<p>The Sui Foundation has assured the crypto community that “all other tokens subject to contractual lockups are held in qualified custodian accounts that have agreed to enforce the terms of such lockups.”</p>
+<p>The post <a href="https://cryptopotato.com/sui-foundation-ends-partnership-with-moveex-following-contract-violation/" rel="nofollow">Sui Foundation Ends Partnership With MoveEX Following Contract Violation</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Republicans Blast White House For Failure To Compromise On Stablecoin Bill</title>
+		<link>https://cryptopotato.com/republicans-blast-white-house-for-failure-to-compromise-on-stablecoin-bill/</link>
 		
 		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 23:59:29 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 22:01:15 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262557</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/elon_musk_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/elon_musk_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Regulations]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<category><![CDATA[US Congress]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=263013</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/01/Stablecoins_Regulations.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/01/Stablecoins_Regulations.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[The tech billionaire intends to make X the “most valuable brand on Earth.”]]></description>
-            																<content:encoded><![CDATA[<p>While Twitter’s sudden rebranding to X has caught many by surprise, it seems Elon Musk has had a radical transformation for the platform in mind for a while.</p>
-<p>Here’s what we know about how he plans to change the old “Twitter” – and what it might mean for crypto.</p>
-<h2>Baking In Financial Services</h2>
-<p>In a <a href="https://twitter.com/elonmusk/status/1683656350046232578" data-wpel-link="external" target="_blank">tweet</a> published on Tuesday, Musk said that Twitter was <a href="https://cryptopotato.com/elon-musk-rebrands-twitter-to-x-this-cryptocurrency-soars-1400-in-return/" data-wpel-link="internal">acquired</a> by X Corp. both to accelerate X’s growth and to “ensure freedom of speech,” one of the billionaire’s primary commitments upon buying the platform last year.</p>
-<p>According to the billionaire, Twitter’s name made sense “when it was just 140 character messages going back and forth – like birds tweeting.” However, given the variety of new features on the platform (ex. Long form video) and many others to come, he has chosen to “bid adieu to the bird.”</p>
-<p>“In the months to come, we will add comprehensive communications and the ability to conduct your entire financial world,” he added.</p>
-<p>Musk expanded on X’s financial aspirations in an interview this week, when he explained that it could potentially become “half of the world’s financial system,” and the “most efficient database for the thing that is money.”</p>
-<p>His statement has raised questions about whether certain crypto-financial integrations could be a part of his plans. Dogecoin – the entrepreneur’s favorite cryptocurrency – is in particular focus, especially after he <a href="https://cryptopotato.com/dogecoin-doge-pumps-10-as-elon-musk-links-memecoin-to-x/" data-wpel-link="internal">added</a> the memecoin’s logo to the location field of his X profile on Tuesday.</p>
-<p>https://twitter.com/LayahHeilpern/status/1683931511496536064</p>
-<p>Twitter CEO Linda Yaccarino added on Monday that X will be “powered by AI,” onboarding a fast-growing trend among major tech companies like OpenAI, Google, and most recently Apple.</p>
-<p>“X will be the platform that can deliver, well….everything,” she tweeted.</p>
-<h2>Will This Ruin Twitters Brand?</h2>
-<p>Musk’s corporate life has a long history with the letter X: he purchased X.com in 1999, owns SpaceX, and attempted to <a href="https://twitter.com/chafkin/status/1683475959981264900" data-wpel-link="external" target="_blank">rename</a> Paypal to “X” over a decade ago.</p>
-<p>Critics have suggested that his intent to promote the letter will ultimately bite him by scrapping Twitter’s well know brand. However, Musk is convinced that X will become an even more powerful brand of its own.</p>
-<p>“X will become the most valuable brand on Earth. Make my words,” he <a href="https://twitter.com/elonmusk/status/1683946564115394561" data-wpel-link="external" target="_blank">said</a>.</p>
-<p>The post <a href="https://cryptopotato.com/goodbye-twitter-how-elon-musk-plans-the-transition-to-x/" rel="nofollow">Goodbye Twitter: How Elon Musk Plans the Transition to X</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[House Democrats accuse Republicans of being impatient with negotiations for payment stablecoins.]]></description>
+            																<content:encoded><![CDATA[<p>The House Financial Services Committee (HFSC) failed to reach an agreement for stablecoin legislation on Thursday due to a number of disagreements Democrats had with its existing text.</p>
+<p>Committee Chair Patrick McHenry (R-NC) blamed the White House for holding up the bill, while Democrats alleged that Republicans were attempting to rush incomplete legislation.</p>
+<h2>No Compromise For Stablecoin Bill</h2>
+<p>The <a href="https://www.congress.gov/118/bills/hr4766/BILLS-118hr4766ih.pdf" data-wpel-link="external" target="_blank">bill</a>, titled the Clarity for Payment Stablecoins Act of 2023, would allow the Federal Reserve to write requirements for stablecoin issuers, but still preserve the authority of state-level payment stablecoin regulators while outlining other requirements.</p>
+<p>After 15 months of negotiations, McHenry <a href="https://www.youtube.com/watch?v=FGjvuDjXiq0&amp;ab_channel=U.S.HouseCommitteeonFinancialServices" data-wpel-link="external" target="_blank">claimed</a> the committee was “closer than we’d ever been” to a bipartisan deal aside from a few “small provisions.”</p>
+<p>“It was the White House’s unwillingness to compromise that has once again brought negotiations to a halt,” he said. He did not specify which elements of the bill the Biden administration had objected to.</p>
+<p>The agency’s ranking member, Maxine Waters (D-CA), blamed McHenry’s “impatience” for pushing forward a “deeply flawed” bill, which she said lacked support from both the Treasury Department and Federal Reserve. Previously, Federal Reserve chairman Jerome Powell has <a href="https://cryptopotato.com/federal-reserve-chairman-refers-to-stablecoins-as-a-form-of-money/" data-wpel-link="internal">emphasized</a> that the central bank ought to have a role within the industry as the ultimate source of credibility on money.</p>
+<p>Waters claimed the bill would give states too much authority to expand the number of eligible reserve assets for backing stablecoins, creating risks for token holders. Furthermore, she said it would allow tech giants to issue their own stablecoins – a threat reminiscent of Facebook’s now-defunct stablecoin project, <a href="https://cryptopotato.com/diems-downfall-from-an-ambitious-single-global-digital-currency-idea-to-a-painful-end/" data-wpel-link="internal">Diem</a>.</p>
+<blockquote><p>“We too would like a real bi-partisan bill,” said Waters in her opening statement on Thursday. “I don’t know what the rush is. Why the rush at this particular time?”</p></blockquote>
+<h2>Success of FIN21</h2>
+<p>Unlike the stablecoin bill, the Financial Innovation and Technology for the 21st Century Act proposed on Wednesday managed to secure bipartisan approval. All Republicans on the committee voted in its favor, alongside 6 Democrats.</p>
+<p>The bill <a href="https://cryptopotato.com/congressional-stablecoin-bill-still-reeks-of-sam-bankman-fried-democrats-say/" data-wpel-link="internal">outlines</a> which market regulators should have authority over what cryptocurrencies, and clarifies that a crypto asset may be issued in a securities transaction without being a security itself.</p>
+<p>Though crypto critics like Brad Sherman (D-CA) thought the bill was too friendly to the crypto industry, Congressman Ritchie Torres (D-NY) acknowledged that it was still leagues ahead of the regulations in place today.</p>
+<blockquote><p>“This legislation is far from perfect, but it represents a good-faith attempt to create clarity where none exists,” said Torres. “I will not let perfect be the enemy of good.”</p></blockquote>
+<p>The post <a href="https://cryptopotato.com/republicans-blast-white-house-for-failure-to-compromise-on-stablecoin-bill/" rel="nofollow">Republicans Blast White House For Failure To Compromise On Stablecoin Bill</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Rain Acquires Abu Dhabi&#8217;s Financial Services Permission</title>
-		<link>https://cryptopotato.com/rain-acquires-abu-dhabis-financial-services-permission/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 22:43:24 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[UAE]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262371</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Abu_Dhabi.png" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Abu_Dhabi.png" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Rain will now provide the only regulated on-ramp and off-ramp of AED into virtual assets in the UAE.]]></description>
-            																<content:encoded><![CDATA[<p>Bahrain-headquartered crypto exchange Rain announced receiving the first Financial Services Permission (FSP) from Abu Dhabi Global Market’s Financial Services Regulatory Authority to operate a virtual assets brokerage and custody service.</p>
-<p>The license would enable Rain to offer institutional and retail clients in the UAE the ability to buy, sell and store digital assets. The brokerage will also allow users to on- and off-ramp to the UAE dirham.</p>
-<ul>
-<li>Announcing the development, Rain co-founder and CEO Joseph Dallago <a href="https://twitter.com/_jayd3e/status/1683774860961497090" target="_blank" rel="noopener" data-wpel-link="external">said</a>,</li>
-</ul>
-<blockquote><p>&#8220;Today, Rain is launching in the UAE, as the first licensed retail exchange. This is a 5-year effort, as we were one of the first exchanges to enquire about licensure back in 2018 when the ADGM released their virtual asset framework.&#8221;</p></blockquote>
-<ul>
-<li>Dallago added that the UAE residents will now be able to fund their accounts in minutes, thanks to a partnership with a local UAE bank.</li>
-<li>The exec further noted that the customers will be protected through the supervision of a local regulator and a thorough legal framework.</li>
-<li>Several prominent crypto exchanges have pivoted to the UAE lately amidst rising uncertainty in the US.</li>
-<li>In May, Coinbase <a href="https://cryptopotato.com/coinbase-sees-uae-as-a-strategic-hub-for-international-operations/" target="_blank" rel="noopener" data-wpel-link="internal">revealed</a> that it was considering the West Asian country as a potential strategic hub for its international operations.</li>
-<li>More recently, the Winklevoss-led crypto exchange Gemini announced <a href="https://cryptopotato.com/gemini-eyes-uae-expansion-amid-us-uncertainty-crypto-com-gets-mpi-license-in-singapore/" target="_blank" rel="noopener" data-wpel-link="internal">initiating</a> the process of acquiring a crypto license to serve customers based in the UAE as part of its global expansion plans.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/rain-acquires-abu-dhabis-financial-services-permission/" rel="nofollow">Rain Acquires Abu Dhabi&#8217;s Financial Services Permission</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Here&#8217;s When Binance Will Start Operating in Japan (Report)</title>
-		<link>https://cryptopotato.com/heres-when-binance-will-start-operating-in-japan-report/</link>
+		<title>US Presidential Candidate Robert Kennedy Purchased 14 BTC for his Children</title>
+		<link>https://cryptopotato.com/us-presidential-candidate-robert-kennedy-purchased-14-btc-for-his-children/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 21:15:46 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Changpeng Zhao (CZ Binance)]]></category>
-		<category><![CDATA[Japan]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262359</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/09/Binance_Japan.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/09/Binance_Japan.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Binance Japan could reportedly go live as early as next week.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The world&#8217;s largest cryptocurrency exchange &#8211; Binance &#8211; will purportedly launch services on its new platform in Japan next month. </span></p>
-<p><span data-preserver-spaces="true">The firm pulled out of the Land of the Rising Sun in 2018 after having a major dispute with the local regulators. </span></p>
-<ul>
-<li><span data-preserver-spaces="true">Binance&#8217;s CEO &#8211; Changpeng Zhao (CZ) &#8211; has supposedly </span><a class="editor-rtfLink" href="https://www.bnnbloomberg.ca/binance-to-start-full-services-on-new-japan-platform-in-august-1.1950162" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">confirmed</span></a><span data-preserver-spaces="true"> the news in a video conference in Tokyo on July 25 (as seen by Bloomberg).</span></li>
-<li>The exchange previously <a class="editor-rtfLink" href="https://cryptopotato.com/this-is-when-binance-japan-will-officially-launch/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">announced</span></a><span data-preserver-spaces="true"> that it will start operating on the Japanese market after June this year. It also informed that customers willing to join the venture will have to re-apply for account opening and pass all verification requirements.</span></li>
-<li>It is worth noting that Binance <a class="editor-rtfLink" href="https://www.binance.com/en/blog/ecosystem/binance-acquires-jfsa-registered-sakura-exchange-bitcoin-committed-to-enter-japan-under-regulatory-compliance-1479109563632749072" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">acquired</span></a><span data-preserver-spaces="true"> the local crypto platform Sakura Exchange BitCoin (SEBC) to return to the Asian country. </span></li>
-<li>The latter, which is directly supervised by Japan&#8217;s Financial Services Agency (FSA), said it will terminate services between the end of May and the day of the opening of the new entity.</li>
-<li>Upon purchasing SEBC, Takeshi Chino &#8211; General Manager of Binance Japan &#8211; described the nation as one of &#8220;the world&#8217;s leading economies with a highly-developed tech ecosystem,&#8221; which is &#8220;poised for strong blockchain uptake.&#8221;</li>
-<li>While Binance has expanded to numerous regions globally over the past years, it has stayed away from Japan for over five years.</li>
-<li>The domestic financial regulator <a class="editor-rtfLink" href="https://www.reuters.com/article/us-crypto-currencies-japan-idUSKBN1GZ096" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">issued</span></a><span data-preserver-spaces="true"> a warning to the exchange in 2018 for engaging with Japanese residents without having the necessary permission to do so. Shortly after, the organization left the country after failing to comply with the watchdog&#8217;s requirements. </span></li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/heres-when-binance-will-start-operating-in-japan-report/" rel="nofollow">Here&#8217;s When Binance Will Start Operating in Japan (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Dogecoin (DOGE) Pumps 10% As Elon Musk Links Memecoin To X</title>
-		<link>https://cryptopotato.com/dogecoin-doge-pumps-10-as-elon-musk-links-memecoin-to-x/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 21:01:09 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[DOGEBTC]]></category>
-		<category><![CDATA[DOGEUSD]]></category>
-		<category><![CDATA[Dogecoin]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262548</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/02/elonmusk_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/02/elonmusk_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[A Dogecoin video artist just helped create an animation for Twitter’s “X” logo that was picked up by Elon Musk.]]></description>
-            																<content:encoded><![CDATA[<p>Dogecoin (DOGE) shot up another 10% on Tuesday on greater excitement surrounding Elon Musk’s rebranding of Twitter to “X”.</p>
-<p>Tuesday’s rise follows a related post on Musk’s Twitter, where the tech mogul appeared to link X to the famous dog meme.</p>
-<h2>Dogecoin and X</h2>
-<p>Musk <a href="https://twitter.com/elonmusk/status/1683877911315599360" data-wpel-link="external" target="_blank">reposted</a> a nine-second animated graphic of the platform’s new “X” logo. The animation itself was sourced from DogeDesigner – the UX/UI &amp; Graphic Designer at Dogecoin &amp; MyDoge Inc.</p>
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="zxx" dir="ltr"><a href="https://t.co/dxbsqwcYv7" data-wpel-link="external" target="_blank">pic.twitter.com/dxbsqwcYv7</a></p>
-<p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1683877911315599360?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 25, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Musk also added the Dogecoin symbol to the location field of his Twitter bio, right next to the X logo.</p>
-<p>After publishing the tweet at 12:32 pm on Tuesday, DOGE shot from $0.077 to $0.083 within just 2 hours. It trades for $0.082 at writing time – up 10% over the past 24 hours.</p>
-<p>A similar rise occurred after Musk officially acquired Twitter last year, and <a href="https://cryptopotato.com/elon-musk-teases-dogecoin-integration-for-twitter/" data-wpel-link="internal">rumors circulated</a> about him potentially integrating Dogecoin payments into the platform.</p>
-<p>After rebranding to X, Musk promised to evolve the platform for “comprehensive communications and the ability to conduct your entire financial world.” He’s given no confirmation about whether crypto would play a role in that.</p>
-<h2>Elon Posts, Doge Pumps</h2>
-<p>The price pump is reminiscent of countless times Musk has influenced the memecoin’s price with a single statement or action. In early April, Musk <a href="https://cryptopotato.com/dogecoin-explodes-25-after-elon-musk-changes-twitter-icon-to-doge-meme/" data-wpel-link="internal">changed</a> Twitter’s logo into a Shiba Inu, causing DOGE to pump by 25%.</p>
-<p>Later that month, DOGE <a href="https://cryptopotato.com/doge-jumps-6-following-elon-musks-1m-dogecoin-offer/" data-wpel-link="internal">pumped</a> 6% after Musk promised a $1 million DOGE donation to anyone who can verify rumors that his family owned an emerald mine.</p>
-<p>Musk was also largely behind Dogecoin’s run to its all-time high of $0.70 in May 2021 following a series of bullish tweets about the cryptocurrency – though the coin has since fallen ~90% in value.</p>
-<p>For some, his public antics about DOGE are no joke. In June, an <a href="https://cryptopotato.com/elon-musk-sued-for-insider-trading-with-dogecoin-using-publicity-stunts/" data-wpel-link="internal">amended filing</a> against the billionaire accused Musk of “insider trading” using his DOGE holdings, deliberately fostering hype for the crypto and using his followers as “prey.”</p>
-<p>The post <a href="https://cryptopotato.com/dogecoin-doge-pumps-10-as-elon-musk-links-memecoin-to-x/" rel="nofollow">Dogecoin (DOGE) Pumps 10% As Elon Musk Links Memecoin To X</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Bitcoin Could Reach $180,000 In 2024: Fundstrat</title>
-		<link>https://cryptopotato.com/bitcoin-could-reach-180000-in-2024-fundstrat/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 20:02:29 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 21:04:30 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
@@ -167,107 +100,252 @@
 		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262541</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/07/BitcoinGreenMoutainHigh.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/07/BitcoinGreenMoutainHigh.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262832</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Robert_Kennedy-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Robert_Kennedy-1.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Fundstrat envisions a bullish future for Bitcoin and stocks despite pressure from the Fed.]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin (BTC)’s supply and demand dynamics suggest that the asset could surge as high as $180,000 by April 2024, according to a research note from Fundstrat on Monday.</p>
-<p>The forecast – which precedes the U.S. central bank’s next meeting – largely rests on a Bitcoin spot ETF being approved in the United States, which the markets research firm suspects will blow apart BTC’s current price equilibrium.</p>
-<h2>The Impact Of A Bitcoin ETF</h2>
-<p>At present, Fundstrat <a href="https://markets.businessinsider.com/news/currencies/bitcoin-price-outlook-blackrock-etf-filing-demand-180000-crypto-halving-2023-7" data-wpel-link="external" target="_blank">finds</a> that Bitcoin experiences roughly $25 million in daily demand – about the same value of new coins brought into circulation by miners each day.</p>
-<p>“This [bitcoin ETF launch] would bring daily demand to $125 million, while daily supply is only $25 million,” wrote Tom Lee, Fundstrat’s Head of Research. “The implied equilibrium price would need to rise so daily supply matches daily demand.”</p>
-<p>“Equilibrium analysis suggests that a clearing price is $140,000 to $180,000, before the April 2024 halving,&#8221; Fundstrat continued.</p>
-<p>The “halvening” (another way to refer to the Bitcoin halving) is when the Bitcoin network slashes its BTC emissions per block in half. The event occurs once every four years, and has consistently been followed by major crypto market bull runs in the following year.</p>
-<p>The next halving will take Bitcoin’s emissions from 6.25 BTC to 3.125 BTC every ten minutes. Though researchers at Coinbase have suggested it may not cause another bull run, Fundstrat’s analysis suggests the halving won’t even be necessary for reaching a new all-time high.</p>
-<p>This bullish outlook is largely shared by <a href="https://cryptopotato.com/banking-giant-standard-chartered-sees-bitcoin-tapping-50k-in-2023-and-120k-in-2024-report/" data-wpel-link="internal">Standard Chartered Bank</a>, whose analysts predicted that Bitcoin will touch $120,000 before 2025, thanks to miners hoarding their newly minted coins in the medium term.</p>
-<p>Meanwhile, Bloomberg ETF analysts Athanasios Psarofagis and James Seyffart <a href="https://cryptopotato.com/bitcoin-pump-and-dump-sell-the-news-or-massively-bullish-analysts-on-potential-approval-of-spot-btc-etf/" data-wpel-link="internal">estimated</a> this month that a Bitcoin spot ETF could accrue $54 billion in capital over time, based on the success of Canada’s much smaller market.</p>
-<h2>The Fed’s Upcoming Meeting</h2>
-<p>Fundstrat’s prediction comes days before the next Federal Open Markets Committee Meeting (FOMC) when the Federal Reserve is largely expected to raise its target interest rate by another 25 basis points. Despite the Fed’s persistent rate hikes, both stocks and Bitcoin are up year to date, and expectations of an incoming recession are <a href="https://www.wsj.com/articles/economists-are-cutting-back-their-recession-expectations-74118938" data-wpel-link="external" target="_blank">on the decline</a>.</p>
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">It is surprising to me that every time the market wobbled this year, our institutional clients are ready to short<br /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>&#8211; there is no “buy the dip” <br />&#8211; likely happens when drop in inflationary pressures more evident<br />&#8211; because <a href="https://twitter.com/hashtag/Fed?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Fed</a> can eventually relent <a href="https://twitter.com/fs_insight?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@fs_insight</a> <a href="https://t.co/6wxrS6zalW" data-wpel-link="external" target="_blank">https://t.co/6wxrS6zalW</a></p>
-<p>&mdash; Thomas (Tom) Lee (not drummer) FSInsight.com (@fundstrat) <a href="https://twitter.com/fundstrat/status/1683866974659530752?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 25, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Fundstrat’s Lee predicts that tomorrow’s announcement will move stock prices by 1%, and believes institutions shouldn’t expect a major market correction anytime soon.</p>
-<p>“We’re still in a position where people are bearish and ready to sell,” said Lee to CNBC’s Squawk Box. “No one is really embracing this as an upward new bull market.”</p>
-<p>The post <a href="https://cryptopotato.com/bitcoin-could-reach-180000-in-2024-fundstrat/" rel="nofollow">Bitcoin Could Reach $180,000 In 2024: Fundstrat</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Kennedy purchased approximately $380,000 worth of BTC for his kids right after the Bitcoin Conference in Miami in May this year. ]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Robert F. Kennedy Jr. &#8211; nephew of former US President John F. Kennedy and one of the presidential candidates for the elections in 2024 &#8211; reiterated his support for bitcoin, saying he had bought two BTC for each of his seven kids. </span></p>
+<p><span data-preserver-spaces="true">The leading digital asset stands at the center of his political campaign, with Kennedy promising to exempt its conversion to the US dollar from capital gains taxes. He also vowed to back America&#8217;s national currency with &#8220;real finite assets,&#8221; such as gold, silver, platinum, and bitcoin.</span></p>
+<h2><span data-preserver-spaces="true">Passing BTC for the Next Generation</span></h2>
+<p><span data-preserver-spaces="true">The US presidential candidate from the Democratic party – Robert F. Kennedy (known for his controversial views on nuclear power, the COVID-19 vaccination program, and weapons) &#8211; has also captured the attention of Bitcoiners, presenting himself as a keen advocate.</span></p>
+<p><span data-preserver-spaces="true">In a recent Twitter Spaces gathering hosted by Scott Melker (known as &#8220;The Wolf of All Streets&#8221;), he </span><a class="editor-rtfLink" href="https://twitter.com/scottmelker/status/1684262327854432266?s=20" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">admitted</span></a><span data-preserver-spaces="true"> purchasing two BTC for each of his seven children shortly after the Bitcoin Conference in Miami in May this year. The asset&#8217;s price was hovering around $27,000 at that time, meaning he must have spent around $380,000 to acquire the stash.</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Right after that Bitcoin conference, I got a big check, and I said, okay, you know, I&#8217;m going to put my money where my mouth is, and so I bought two BTC for every one of my seven children,&#8221; Kennedy stated.<br />
+</span></p></blockquote>
+<figure id="attachment_245914" aria-describedby="caption-attachment-245914" style="width: 667px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs.jpg" data-wpel-link="internal"><img class="wp-image-245914" src="https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs.jpg" alt="Robert F. Kennedy Jr" width="667" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/04/Robert-F.-Kennedy-Jrs-50x30.jpg 50w" sizes="(max-width: 667px) 100vw, 667px" /></a><figcaption id="caption-attachment-245914" class="wp-caption-text">Robert F. Kennedy Jr, Source: STAT News</figcaption></figure>
+<p><span data-preserver-spaces="true">While the 69-year-old explained he first heard of the primary cryptocurrency in 2009, he did not pay much attention to it back then. However, everything changed for Kennedy at the beginning of 2022 during the massive truckers&#8217; strike in Canada. </span></p>
+<p><span data-preserver-spaces="true">Recall that protesters received significant crypto donations, whereas the local authorities ordered financial firms to cease facilitating any proceedings to addresses tied to them. This sparked huge controversy, with many highlighting BTC&#8217;s decentralized nature and opposing the government&#8217;s decision to adjust such transactions.</span></p>
+<h2><span data-preserver-spaces="true">Thanking all Bitcoiners</span></h2>
+<p><span data-preserver-spaces="true">Subsequently, Kennedy appreciated the support he received from the Bitcoin community, saying he has a &#8220;spiritual bond&#8221; with them. He described those parts of the ecosystem as a &#8220;unique breed&#8221; that is not only interested in money but also in freedom:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Bitcoiners are a unique breed. Of all the financial people I&#8217;ve met in my life, people in finance are mainly interested in making a big pile for themselves, and whoever dies with the most money wins.</span></p>
+<p>Bitcoiners are different breed, they like money, and they like profits, but mainly because it shows that you can make money by doing good, by winning freedom. They are ideologically based.&#8221;</p></blockquote>
+<p><em>Featured Image Courtesy of CNN</em></p>
+<p>The post <a href="https://cryptopotato.com/us-presidential-candidate-robert-kennedy-purchased-14-btc-for-his-children/" rel="nofollow">US Presidential Candidate Robert Kennedy Purchased 14 BTC for his Children</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Worldcoin&#8217;s Iris Scanning Approach Deemed Evil, Security Expert Predicts High Probability of Failure</title>
-		<link>https://cryptopotato.com/worldcoins-iris-scanning-approach-deemed-evil-security-expert-predicts-high-probability-of-failure/</link>
+		<title>What&#8217;s Better Than Bitcoin? Jack Dorsey to Coinbase CEO</title>
+		<link>https://cryptopotato.com/whats-better-than-bitcoin-jack-dorsey-to-coinbase-ceo/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 19:22:51 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Brian Armstrong]]></category>
+		<category><![CDATA[Jack Dorsey]]></category>
+		<category><![CDATA[Lightning Network]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=263003</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/06/jack_dorsey.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/06/jack_dorsey.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Brian Armstrong wants to see crypto payments upgrade to the next level. Is Bitcoin's lightning network the answer?]]></description>
+            																<content:encoded><![CDATA[<p>Twitter co-founder Jack Dorsey pressed Coinbase CEO Brian Armstrong on Wednesday over his alleged refusal to acknowledge the power of Bitcoin’s lightning network – a layer-2 scaling solution designed to make BTC easier to spend.</p>
+<p>His question sparked an online debate about the benefits and limitations of lightning in the payments realm, compared to other cryptocurrencies such as stablecoins.</p>
+<h2>Why Not Bitcoin?</h2>
+<p>In a tweet on Wednesday, Armstrong claimed that crypto’s next step was to make payments “instant and free globally,” through collective work on layer 2 solutions and user onboarding. He referenced a coffee shop that now accepted gas-free USDC payments using Coinbase Wallet, which integrated <a href="https://www.coinbase.com/blog/say-gm-with-messaging-on-coinbase-wallet" data-wpel-link="external" target="_blank">messaging</a> this month.</p>
+<p>The CEO acknowledged that crypto was still “stuck on layer 1,” prompting Dorsey to question him about Bitcoin’s premiere layer 2 network. “Why do you continue to ignore bitcoin and lightning?” he asked.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Why do you continue to ignore bitcoin and lightning?</p>
+<p>what &quot;crypto&quot; is a better money transmission protocol and why?</p>
+<p>&mdash; jack (@jack) <a href="https://twitter.com/jack/status/1684298214198108160?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 26, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Lightning makes BTC payments instant and virtually free by taking transaction settlement off the network’s main blockchain. The latter can get bloated and slow in times of peak demand, as seen when an explosion of Bitcoin-based memecoins in May sent transaction fees above $30 apiece.</p>
+<p>The event caused withdrawal delays at <a href="https://cryptopotato.com/binance-successfully-integrates-bitcoin-on-lightning-network-enabling-deposits-and-withdrawals/" data-wpel-link="internal">Binance</a>, which has since decided to integrate Bitcoin’s lightning network as a solution for future base-layer fee spikes. However, despite common demand from Bitcoiners including MicroStrategy’s <a href="https://twitter.com/saylor/status/1684301676390367232" data-wpel-link="external" target="_blank">Michael Saylor</a>, Coinbase is yet to do the same.</p>
+<p>While Armstrong didn’t respond to Dorsey directly, Solana Labs co-founder Anatoly Yakovenko answered his question. “USDC on Solana is cheaper and faster than Bitcoin and lightning and it’s the currency that people want to use globally,” he said.</p>
+<p>USDC is a stablecoin value-pegged to the U.S. dollar, allowing it to avoid the short-term volatility of other cryptos, and better serve as a medium of exchange. The world’s most popular stablecoins including USDT and USDC primarily circulate on networks like Ethereum and Solana, but not Bitcoin.</p>
+<p>Dorsey has previously <a href="https://twitter.com/jack/status/1535322732249993219" data-wpel-link="external" target="_blank">disregarded</a> both Ethereum and Solana for being centrally controlled and prone to corporate capture.</p>
+<p>Spiral – a subsidiary of Dorsey’s payments company, Block – has created tools to help developers better integrate the lightning network into their apps. The company’s popular payment service, CashApp, has also <a href="https://cryptopotato.com/lightning-network-transfers-are-now-fully-available-on-cashapp/" data-wpel-link="internal">integrated lightning</a>.</p>
+<h2>Solutions for Bitcoin</h2>
+<p>The adoption of Bitcoin’s lightning network continues to <a href="https://cryptopotato.com/bitcoin-lightning-networks-public-capacity-surpasses-5000-btc/" data-wpel-link="internal">grow</a> over time, as do the network’s capabilities. Last year, Bitcoin infrastructure company Galoy <a href="https://cryptopotato.com/galoy-launches-stablesats-bringing-us-dollar-balances-to-lightning-network/" data-wpel-link="internal">developed</a> “Stablesats” – a centralized solution for effectively transacting “dollars” over lightning using perpetual futures trades on the back end.</p>
+<p>https://twitter.com/_pretyflaco/status/1684328205396717570</p>
+<p>Another company, Stably, <a href="https://cryptopotato.com/stably-launches-bitcoins-first-brc-20-stablecoin/" data-wpel-link="internal">launched</a> Bitcoin’s first-ever base-layer stablecoin back in May, leveraging the newly popularized BRC-20 token standard. However, BRC-20’s creator has admitted that tokenization solutions for Bitcoin are best found with <a href="https://cryptopotato.com/lightning-labs-aims-to-bitcoinize-the-dollar-with-taros-alpha-release/" data-wpel-link="internal">Taro</a> – a company allowing for alternative asset transfers over the lightning network.</p>
+<p>The company behind Taro, Lightning Labs, <a href="https://cryptopotato.com/lightning-labs-unveils-toolkit-to-enable-ai-transact-in-bitcoin/" data-wpel-link="internal">unveiled</a> a toolkit earlier this month allowing AI to interact with Bitcoin’s lightning network.</p>
+<p>The post <a href="https://cryptopotato.com/whats-better-than-bitcoin-jack-dorsey-to-coinbase-ceo/" rel="nofollow">What&#8217;s Better Than Bitcoin? Jack Dorsey to Coinbase CEO</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Contemporary Giant Yue Minjun Embarks on a Web3 Journey with First NFT Project Exclusively on LiveArt</title>
+		<link>https://cryptopotato.com/contemporary-giant-yue-minjun-embarks-on-a-web3-journey-with-first-nft-project-exclusively-on-liveart/</link>
+		
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 19:12:23 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262994</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/Yue_Minjun_Premint_14_1690471927NMbsdmfSQ3.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/Yue_Minjun_Premint_14_1690471927NMbsdmfSQ3.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[[PRESS RELEASE &#8211; New York, USA, July 27th, 2023] LiveArt, the Web3 Platform for Art and Culture, announced a groundbreaking NFT collection, Kingdom of the Laughing Man, by Yue Minjun, one of the most important contemporary Chinese artists creating today. Yue Minjun, the contemporary art giant of the 21st century, enters the digital art space [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; New York, USA, July 27th, 2023]</strong></p>
+<p><a href="https://liveart.xyz/" target="_blank" rel="nofollow noopener" data-wpel-link="external">LiveArt</a>, the Web3 Platform for Art and Culture, announced a groundbreaking NFT collection, <strong>Kingdom of the Laughing Man,</strong> by Yue Minjun, one of the most important contemporary Chinese artists creating today.</p>
+<p>Yue Minjun, the contemporary art giant of the 21st century, enters the digital art space with his inaugural Web3 project. The artist’s works fetch millions of dollars at auctions worldwide (USD 6.9 million sales record at Christie&#8217;s HK) and are in the permanent collections of the SFMoma, Denver Art Museum, The Culture Centre of Francois Mitterrand, Guangdong Museum of Art, Shenzhen Art Museum, and other leading art institutions. Collaborations with artists like KAWS and fashion brands like Comme De Garcons have cemented Yue Minjun&#8217;s signature style in global pop culture.</p>
+<p><strong>Kingdom of the Laughing Man</strong> launches with <strong>Boundless</strong>, a generative collection of 1,200 unique NFT artworks echoing Yue Minjun’s iconic self-portraits. All Yue Minjun <strong>Boundless</strong> collection holders will have the opportunity to purchase unique physical prints signed by the artist based on the NFTs they own. Subsequent drops will feature 3D animated art and culminate with an immersive metaverse experience. The <a href="https://liveart.xyz/artist/yue-minjun/kingdom-of-the-laughing-man" target="_blank" rel="nofollow noopener" data-wpel-link="external">collection</a> is offered exclusively on LiveArt.</p>
+<blockquote><p>&#8220;I&#8217;ve explored numerous media with my art over the years. This new digital frontier excites me the most as I can bring my art to life in a way that I haven&#8217;t been able to with physical media. In Web3 I can create a new engaging experience and relationship with the next generations of art collectors shaping the art world of the future,&#8221; says Yue Minjun.</p></blockquote>
+<blockquote><p>&#8220;Yue Minjun exemplifies the caliber of artists who call LiveArt home in this new digital world. I think he is probably the most significant contemporary artist to commit fully to a Web3 journey today, and we are honored and excited for the historic opportunity we can offer our collectors,&#8221; says Boris Pevzner, CEO and Co-Founder of LiveArt.</p></blockquote>
+<p>The first drop is set to launch on <strong>August 8, 2023, </strong>on LiveArt. It is expected to sell out during a &#8220;pre-sale&#8221; exclusive to collectors and LiveArt X Card holders, according to LiveArt insiders. To ensure a spot on the pre-sale list, click <a href="https://www.premint.xyz/yue-minjun/" target="_blank" rel="nofollow noopener" data-wpel-link="external">here</a>.</p>
+<h2>About LiveArt</h2>
+<p>Founded by Sotheby&#8217;s and Christie&#8217;s art market veterans and backed by Binance Labs and Animoca Brands, <a href="https://liveart.xyz/" target="_blank" rel="nofollow noopener" data-wpel-link="external">LiveArt</a> is the global Web3 platform for art and culture. LiveArt blends AI and blockchain with intimate art market knowledge to bring exclusive Web3 collecting experiences to a global audience. LiveArt&#8217;s $ART utility token powers the LiveArt Protocol that drives value for the LiveArt ecosystem through membership and loyalty programs for the communities of LiveArt and its partners.</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/07/aveMl_NpRXuxbVf7cZjXKoQi5rwhAc3wLv4gWrQJiJ8dZokkro_16904724100k2sxObsoY.jpeg" /></p>
+<p>Yue Minjun, photo by Michelle Yue</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/07/i3eWivitKtXn_T-UjvKWgEnzrMGSydFkwU2Kc3dtioXUgbhTD8_1690472410mMvSatc8nh.jpeg" /></p>
+<p>Artwork from the <strong>Kingdom of the Laughing Man: Boundless</strong> (2023) collection by Yue Minjun, published by LiveArt.</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/07/k5p4Fb2yrMRVFAkhO0WrvzF41nUWUflf8yV5LPOgw_a1qxYhpb_1690472410pcjvKCOKSb.jpeg" /></p>
+<p>Artwork from the <strong>Kingdom of the Laughing Man: Boundless</strong> (2023) collection by Yue Minjun, published by LiveArt.</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/07/zqzuhwjlXpWmjbUDsdUEt7zxourzeD_YQpoKumOynmEXvN0hHe_1690472410ZWJrSFVd0M.jpeg" /></p>
+<p>Artwork from the <strong>Kingdom of the Laughing Man: Boundless</strong> (2023) collection by Yue Minjun, published by LiveArt.</p>
+<p><img src="https://cryptopotato.com/wp-content/uploads/2023/07/75KaIMhmOnAhqf_4dWVqG3mSIARX_koeMPFCOkSUtwpLrojhfg_1690472409mGZbcXpXz3.jpeg" /></p>
+<p>Artwork from the <strong>Kingdom of the Laughing Man: Boundless</strong> (2023) collection by Yue Minjun, published by LiveArt.</p>
+<p>The post <a href="https://cryptopotato.com/contemporary-giant-yue-minjun-embarks-on-a-web3-journey-with-first-nft-project-exclusively-on-liveart/" rel="nofollow">Contemporary Giant Yue Minjun Embarks on a Web3 Journey with First NFT Project Exclusively on LiveArt</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Tim Draper Explains Why Bitcoin Will Rise Above Fiat</title>
+		<link>https://cryptopotato.com/tim-draper-explains-why-bitcoin-will-rise-above-fiat/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 17:47:35 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262815</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/06/TimDraper.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/06/TimDraper.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Bitcoin is a "better, safer technology" than fiat, Draper argued.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The American venture capital investor Tim Draper predicted that bitcoin&#8217;s price will surge in the future due to the cryptocurrency&#8217;s advantages over fiat currency.</span></p>
+<p><span data-preserver-spaces="true">The billionaire claimed in 2020 that the COVID-19 pandemic will have a disastrous consequence on the global economy, but it will be a flourishing factor for BTC. The primary digital asset climbed to an all-time high of almost $70,000 the following year, whereas a financial crisis and record inflation rates shuttered many regions across the globe.</span></p>
+<h2><span data-preserver-spaces="true">Here&#8217;s Why BTC is Better</span></h2>
+<p><span data-preserver-spaces="true">One of the biggest proponents of bitcoin &#8211; Tim Draper &#8211; </span><a class="editor-rtfLink" href="https://twitter.com/WatcherGuru/status/1684211035509518336" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">doubled down</span></a><span data-preserver-spaces="true"> on his support for the asset in a recent interview for Fox Business.</span></p>
+<p><span data-preserver-spaces="true">He believes it will &#8220;rise above fiat&#8221; due to its advantages over the dollar and other currencies. One flaw that national currencies have is that they are controlled by a bank or a government, while BTC&#8217;s network is secured by &#8220;hundreds of thousands of nodes,&#8221; he added:</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;Having to have a bank and a government that decides on what currency is good is not as effective as having a bitcoin where you have a trusted third party which is hundreds of thousands of nodes out there checking to make sure that the transaction was done properly.&#8221;<br />
+</span></p></blockquote>
+<figure id="attachment_262816" aria-describedby="caption-attachment-262816" style="width: 601px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-scaled.jpeg" data-wpel-link="internal"><img class="wp-image-262816" src="https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-scaled.jpeg" alt="Tim Draper" width="601" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-scaled.jpeg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-300x200.jpeg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-1024x682.jpeg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-768x511.jpeg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-1536x1022.jpeg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-2048x1363.jpeg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Tim-Draper-50x33.jpeg 50w" sizes="(max-width: 601px) 100vw, 601px" /></a><figcaption id="caption-attachment-262816" class="wp-caption-text">Tim Draper, Source: CNBC</figcaption></figure>
+<p><span data-preserver-spaces="true">It is worth mentioning that central banks can also affect the supply of fiat currency by printing colossal amounts.</span></p>
+<p><span data-preserver-spaces="true">The Federal Reserve, for example, printed trillions of dollars in 2020 and 2021 to tackle the consequences of the coronavirus outbreak. While this move was somewhat helpful in the beginning, it later became one of the reasons for<a href="https://cryptopotato.com/massive-bitcoin-volatility-as-us-inflation-clocks-in-at-9-1-for-june/" data-wpel-link="internal"> the record inflation rate</a> in the USA.</span></p>
+<p><span data-preserver-spaces="true">Meanwhile, bitcoin has a fixed maximum supply of 21 million coins ever to exist. Many supporters think this gives the asset an upper hand against inflation rates. In addition, its decentralized nature (the fact that no banking institution or a government can control it) could make it more attractive to people than fiat, whose supply is constantly adjusted by centralized authorities.</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;So I think it&#8217;s just better, safer technology, and eventually, the rest of the world will come onboard,&#8221; Draper concluded.</span></p></blockquote>
+<h2><span data-preserver-spaces="true">Failure With the Previous Forecast</span></h2>
+<p><span data-preserver-spaces="true">The American billionaire has not always been spot on in his predictions regarding bitcoin&#8217;s future valuation. He </span><a class="editor-rtfLink" href="https://cryptopotato.com/everybody-will-accept-bitcoin-and-its-price-will-reach-250k-in-2022-says-tim-draper/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">forecasted</span></a><span data-preserver-spaces="true"> in 2021 that BTC would climb to $250,000 by the end of last year, while in 2020, he suggested the asset would reach that milestone at the beginning of 2023. Despite the significant price increase in the past three years, bitcoin came nowhere near the $250K target.</span></p>
+<p><span data-preserver-spaces="true">Draper </span><a class="editor-rtfLink" href="https://twitter.com/TimDraper/status/1674859367311745024?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1674859367311745024%7Ctwgr%5Ea520d7ca968eb6ccc356b568dc82722577fb6716%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fthecryptobasic.com%2F2023%2F07%2F26%2Ftim-draper-this-decade-will-redefine-currency-and-commerce-thanks-to-bitcoin%2F" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">said</span></a><span data-preserver-spaces="true"> in a recent tweet that &#8220;we have to wait a little longer (maybe 2 years)&#8221; before BTC skyrockets to that level. </span></p>
+<p>The post <a href="https://cryptopotato.com/tim-draper-explains-why-bitcoin-will-rise-above-fiat/" rel="nofollow">Tim Draper Explains Why Bitcoin Will Rise Above Fiat</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Custodia Bank vs. Feds: Legal Brawl as Important as Ripple&#8217;s XRP Case: Lawyer</title>
+		<link>https://cryptopotato.com/custodia-bank-vs-feds-legal-brawl-as-important-as-ripples-xrp-case-lawyer/</link>
 		
 		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 18:32:37 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 15:39:54 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[social]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262332</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/WorldCoin.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/WorldCoin.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[XRP]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262917</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/05/Ripple_SEC.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/05/Ripple_SEC.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Worldcoin has a "high probability of failure," according to Slow Mist's founder. ]]></description>
-            																<content:encoded><![CDATA[<p>The recently launched Worldcoin human identity verification system elicited mixed reactions among people. While the project deems itself as a privacy-preserving digital identity, many prominent players in the community view the iris scanning process specialized Orb hardware device to be Orwellian.</p>
-<p>The crypto-focused project, co-founded by OpenAI CEO Sam Altman, has witnessed significant security concerns being raised due to the potential for hackers to exploit it.</p>
-<h2>Slow Mist Founder&#8217;s Views on Worldcoin</h2>
-<p>Worldcoin is drawing a fresh wave of criticism from the founder of Slow Mist, who does not believe the project has much hope. The executive of the blockchain security expert <a href="https://twitter.com/evilcos/status/1683521011235586050" target="_blank" rel="noopener" data-wpel-link="external">said</a> that if Worldcoin succeeds, it will be an &#8220;evil&#8221; creation but added that it has a &#8220;high probability of failure.&#8221;</p>
-<blockquote><p>&#8220;What is an iris? It is the most stable and durable unique mark of your person (unless you are blind), which is much more reliable than face and fingerprint verification. I have read the Worldcoin white paper, and the promises in it are really good, but we still need to be vigilant about a new category of things.&#8221;</p></blockquote>
-<p>The founder also asked users to exercise a lot of vigilance while interacting with the project.</p>
-<h2>Backlash So Far</h2>
-<p>Former American intelligence contractor Edward Snowden drew a striking analogy, comparing the protocol&#8217;s approach to treating the human body as a mere ticket punch. The privacy advocate urged his followers not to &#8220;catalog their balls.&#8221;</p>
+			            <description><![CDATA[XRP advocate John Deaton believes the court cases against the Fed are threatening to end the institution's "arbitrary and capricious conduct."]]></description>
+            																<content:encoded><![CDATA[<p>Wyoming-based Custodia Bank&#8217;s application to become a member of the Federal Reserve System was rejected earlier this year by the Kansas City Fed. But the platform has no intention of backing down.</p>
+<p>The legal dispute took a new turn after Custodia slapped three lawsuits against the regulator in three separate circuits. According to attorney John Deaton, Custodia&#8217;s fight against the Feds is &#8220;arguably just as important (if not more)&#8221; as the Ripple-XRP case.</p>
+<h2>Custodia vs. Feds</h2>
+<p>Custodia was founded by Morgan Stanley veteran Caitlin Long in 2020. The platform offers a bridge between digital assets and the US dollar system. In its lawsuit, Custodia accused the Federal Reserve of unlawfully delaying its application for a so-called master account, which happens to be an important component necessary to effectively participate in the US financial ecosystem.</p>
+<p>After moving to court, Custodia notched a key win as Wyoming Federal Judge denied the Federal Reserve&#8217;s bid to dismiss its lawsuit against it. As for the Fed, its official reason for denial was concerns over Custodia&#8217;s short history and what the institution considers to be a problematic business model &#8211; that involves primarily fees, such as for storing crypto tokens, instead of investments, by lending out customer deposits.</p>
+<p>The Fed even released an 86-page order explaining its decision in March. Its argument centers around Custodia Bank’s business model being &#8220;too risky,&#8221; indicating the platform lacks FDIC deposit insurance, which is used to make deposit holders whole in the event of a bank failure.</p>
+<p>In short, the Fed disapproves of Custodia accepting crypto assets as deposits due to the &#8220;speculative and volatile nature of the crypto-asset ecosystem.&#8221;</p>
+<h2>Case of Power Grab</h2>
+<p>Custodia maintained that the dispute is a clear case of a power grab by the Fed and is looking forward to the court&#8217;s review.</p>
+<p>In a new <a href="https://twitter.com/JohnEDeaton1/status/1684404657672667139" target="_blank" rel="noopener" data-wpel-link="external">tweet</a>, Deaton also echoed a similar sentiment when he said that the Custodia vs. Fed case is as important as the <a href="https://cryptopotato.com/ripples-secondary-sales-of-xrp-not-an-investment-contract-judge-rules-following-over-3-year-long-legal-battle/" target="_blank" rel="noopener" data-wpel-link="internal">Ripple vs. SEC battle</a>, in which the blockchain firm scored a partial victory. The attorney believes the Custodia lawsuit serves as a clear example that major regulators have been neglecting their statutory obligations.</p>
+<p>Deaton further added that the court cases are threatening to end the Federal Reserve&#8217;s &#8220;arbitrary and capricious conduct.&#8221;</p>
+<p>The post <a href="https://cryptopotato.com/custodia-bank-vs-feds-legal-brawl-as-important-as-ripples-xrp-case-lawyer/" rel="nofollow">Custodia Bank vs. Feds: Legal Brawl as Important as Ripple&#8217;s XRP Case: Lawyer</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Evil Pepe Coin Raises Over $1 Million With Just 6 Days of Presale Left</title>
+		<link>https://cryptopotato.com/evil-pepe-coin-raises-over-1-million-with-just-6-days-of-presale-left/</link>
+		
+		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 14:17:13 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262944</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/evilpepe_cover-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/evilpepe_cover-1.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Evil Pepe Coin is a hot new entrant in the meme coin space that has already raised over $1 million within ten days of its official launch. This surge in investor interest in Evil Pepe Coin ($EVILPEPE) is quite similar to the initial excitement of well-known meme coins like Pepe Coin, Dogecoin, and Shiba Inu. Especially [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Evil Pepe Coin is a hot new entrant in the meme coin space that has already raised over $1 million within ten days of its official launch.</p>
+<p>This surge in investor interest in <a href="https://cryptopotato.care/b_evilpepe_35234?referrer=evil-pepe-coin-raises-over-1-million-with-just-6-days-of-presale-left" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Evil Pepe Coin ($EVILPEPE)</a> is quite similar to the initial excitement of well-known meme coins like Pepe Coin, Dogecoin, and Shiba Inu.</p>
+<p>Especially with the current market conditions showing signs of recovery, many buyers are rushing to buy the $EVILPEPE coin in its ongoing presale phase.</p>
+<p>While buyers can grab the token at only $0.000333, the buying pressure is mounting before the token presale ends in under six days.</p>
+<h2><strong>Is $EVILPEPE The Next Pepe Coin?</strong></h2>
+<p>According to the <a href="https://evilpepecoin.com/assets/documents/whitepaper.pdf" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Evil Pepe Coin whitepaper</a>, $EVILPEPE isn’t just a token—it seeks to be a reform against the usual crypto norms.</p>
+<p>Evil Pepe Coin captures the charm of trendy &#8216;shitcoins,&#8217; offering an exciting ride without worrying about high-risk moves.</p>
+<p>$EVILPEPE differs from usual meme coins, blending meme culture&#8217;s chaotic vibe with speculative appeal. This coin taps into the Fear Of Missing Out (FOMO) sentiment, creating a bold &amp; unapologetic community.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-27.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-262947" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-27.jpg" alt="Picture1" width="690" height="266" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-27.jpg 690w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-27-300x116.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture1-27-50x19.jpg 50w" sizes="(max-width: 690px) 100vw, 690px" /></a></p>
+<p>The platform believes that every meme coin investor needs a bit of daring. Evil Pepe Coin allows you to unleash your inner ‘meme villain.’</p>
+<p>Moreover, well-known analyst and YouTuber Jacob Bury has <a href="https://www.youtube.com/watch?v=id_14XzIWTc" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">predicted Evil Pepe Coin to be the next Pepe Coin</a> and see big gains.</p>
+<h2><strong>Community-Focused Tokenomics &amp; Presale</strong></h2>
+<p>The <a href="https://cryptopotato.care/b_evilpepe_35234?referrer=evil-pepe-coin-raises-over-1-million-with-just-6-days-of-presale-left" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">$EVILPEPE token</a> has a total supply of 6.66 billion. This platform intends to distribute 90% of these tokens via the presale.</p>
+<p>This approach highlights their strategy to create a strong community &#8211; a pillar for the long-term success of any meme coin. The rest, 10% of tokens, will be reserved for a liquidity lock for one month.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-39.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-262946" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-39.jpg" alt="Picture2" width="705" height="326" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-39.jpg 705w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-39-300x139.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture2-39-50x23.jpg 50w" sizes="(max-width: 705px) 100vw, 705px" /></a></p>
+<p>At press time, buyers can get $EVILPEPE at a presale price of just $0.000333 USDT, payable via USDT, ETH, BNB, or credit card.</p>
+<p>The token has already sparked significant interest, raising over $1 million within the first ten days of its launch.</p>
+<p>$EVILPEPE can offer an upside opportunity, but it&#8217;s vital to gauge your risk tolerance levels and financial goals first. Remember, meme cryptos with solid community support usually have a bright future potential.</p>
+<p>Stay tuned to <a href="https://twitter.com/evilpepe_token" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Evil Pepe&#8217;s Twitter handle</a> for more presale updates.</p>
+<h2><strong>Evil Pepe Coin Roadmap: Potential DEX Listing, Targeting a $100M Market Cap</strong></h2>
+<p>Participating in the presale allows you to take advantage of the potential DEX listing in the coming quarters</p>
+<p>As Evil Pepe Coin picks up pace and the DEX debut nears, the chance for substantial growth becomes quite tangible.</p>
+<p>Evil Pepe is not only capitalizing on the current hype &#8211; it&#8217;s aiming for a bright future. Its strategic roadmap highlights its bold aspirations while accepting the uncertainty the future presents.</p>
+<p>The first stage involves Evil Pepe creating excitement by communicating its mission on social media platforms.</p>
+<p>This will help create FOMO among potential investors, evidenced by the $1 million raised within a few days of launch. The DEX listing will occur once this excitement peaks, ensuring smooth trading and liquidity.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-37.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-262945" src="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-37.jpg" alt="Picture3" width="686" height="302" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-37.jpg 686w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-37-300x132.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Picture3-37-50x22.jpg 50w" sizes="(max-width: 686px) 100vw, 686px" /></a></p>
+<p>In the second stage, Evil Pepe plans to broaden its impact. It will partner with significant meme market players creating strategic partnerships to push $EVILPEPE to new heights.</p>
+<p>The final stage for the platform is about redefining the meme coin landscape. Aiming for a $100,000,000 market cap, Evil Pepe will aim to dominate, not just participate.</p>
+<p>$EVILPEPE&#8217;s unique charm lies in its daring, unconventional attitude. This coin challenges the typical rules of the meme crypto space, bringing an element of thrill and unpredictability.</p>
+<p>Potential buyers can enter the <a href="https://t.me/Evilpepetoken" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Evil Pepe Coin Telegram channel</a> to stay updated on the project&#8217;s progress.</p>
+<p><a href="https://cryptopotato.care/b_evilpepe_35234?referrer=evil-pepe-coin-raises-over-1-million-with-just-6-days-of-presale-left" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Evil Pepe Presale</strong></a></p>
+<p><em>Disclaimer: The above article is sponsored content, it’s written by a third-party, and is intended for promotional purposes only. It does not represent the opinions or the views of CryptoPotato, and nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
+<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer/" data-wpel-link="internal">full disclaimer</a>.</em></p>
+<p>The post <a href="https://cryptopotato.com/evil-pepe-coin-raises-over-1-million-with-just-6-days-of-presale-left/" rel="nofollow">Evil Pepe Coin Raises Over $1 Million With Just 6 Days of Presale Left</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Coinbase CEO Brian Armstrong Calls for Voting in Favor of FIT21</title>
+		<link>https://cryptopotato.com/coinbase-ceo-brian-armstrong-calls-for-voting-in-favor-of-fit21/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 14:02:51 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Brian Armstrong]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Regulations]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262876</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/01/Brian_Armstrong.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/01/Brian_Armstrong.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Coinbase CEO Brian Armstrong is pushing American citizens to contact their representatives to vote in favor of FIT21.]]></description>
+            																<content:encoded><![CDATA[<p>The rapidly changing digital asset landscape has resulted in a flexing of regulatory muscles between different watchdogs in defining terms and drawing lines of authority. This is especially true in the case of the United States where the SEC and CFTC are engaged in a turf war over regulatory oversight of the space. But this conflict could come to an end soon with the help of FIT21.</p>
+<p>Weeks after the historic verdict on the Ripple vs. SEC case, the US is waiting for the approval of the Financial Innovation and Technology for the 21 Century Act (FIT21), which is being touted as a crucial step in advancing toward the much-needed regulatory clarity.</p>
+<h2>Coinbase CEO Pushes for FIT21</h2>
+<p>Brian Armstrong, the CEO of Coinbase, took to Twitter to <a href="https://twitter.com/brian_armstrong/status/1684417921244880896" target="_blank" rel="noopener" data-wpel-link="external">explain</a> that the House Financial Services Committee and the House Agriculture Committee in the US House of Representatives are taking an important step toward providing clarity for crypto by voting on the Financial Innovation and Technology for the 21st Century Act.</p>
+<p>He urged the American citizens to email their representative to vote &#8216;Yes&#8217; to it. The exec admitted that the legislation is only the first step in a bigger process but highlighted its importance in achieving the broader goal that the industry has been pinning for.</p>
+<blockquote><p>&#8220;FIT21 would create much-needed regulatory clarity in the United States for crypto and holds promising outcomes to protect consumers, promote job opportunities, and strengthen national security. However, we cannot achieve this alone – we need your support to ensure the legislative process continues to progress in Congress.&#8221;</p></blockquote>
+<h2>The Bill</h2>
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Don&#8217;t use biometrics for anti-fraud.</p>
-<p>In fact, don&#8217;t use biometrics for anything.</p>
-<p>— Edward Snowden (@Snowden) <a href="https://twitter.com/Snowden/status/1451993036196618251?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">October 23, 2021</a></p></blockquote>
+<p dir="ltr" lang="en"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" />Introducing the Financial Innovation and Technology for the 21st Century Act. This bill establishes a regulatory framework for digital assets, protects consumers, fosters innovation, and positions America as a leader in finance and technology. <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#crypto</a> <a href="https://t.co/0ihzY3MP0k" data-wpel-link="external" target="_blank">https://t.co/0ihzY3MP0k</a></p>
+<p>— House Committee on Agriculture (@HouseAgGOP) <a href="https://twitter.com/HouseAgGOP/status/1682132996931960834?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">July 20, 2023</a></p></blockquote>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Ethereum co-founder Vitalik Buterin also published a detailed <a href="https://cryptopotato.com/4-problems-with-sam-altmans-worldcoin-according-to-vitalik/" target="_blank" rel="noopener" data-wpel-link="internal">blog pos</a><a href="https://cryptopotato.com/4-problems-with-sam-altmans-worldcoin-according-to-vitalik/" data-wpel-link="internal">t</a> on Monday weighing on &#8220;decentralized proof-of-personhood,&#8221; the concept at the center of Worldcoin. He said the privacy issues in the project are relatively mild but pointed out some glaring centralization issues. The exec also indicated risks such as malicious entities linking one person&#8217;s iris with another&#8217;s app and AI-generated 3D irises.</p>
-<p>Dogecoin co-creator Billy Markus, who is more famously known as &#8216;Shibetoshi Nakamoto,&#8217; <a href="https://twitter.com/BillyM2k/status/1683501141974470656" target="_blank" rel="noopener" data-wpel-link="external">referred</a> to the newly <a href="https://cryptopotato.com/openai-ceo-sam-altmans-crypto-project-worldcoin-launches-wld-token/" target="_blank" rel="noopener" data-wpel-link="internal">launched</a> cryptocurrency WLD as &#8220;creepy and weird.&#8221; Stephan Livera, a popular Bitcoin podcaster from Australia, <a href="https://twitter.com/stephanlivera/status/1683728294267457536" target="_blank" rel="noopener" data-wpel-link="external">said</a> the project is a &#8220;complete dumpster fire.&#8221;</p>
-<p>Despite the uproar, Worldcoin investors reportedly <a href="https://twitter.com/Pledditor/status/1683668998410342403" target="_blank" rel="noopener" data-wpel-link="external">boast</a> high-profile names, including a16z, Coinbase Ventures, Digital Currency Group (DCG), as well as some shady ones such as former FTX boss Sam Bankman-Fried and bankrupt hedge fund, Three Arrows Capital (3AC).</p>
-<p>Worldcoin, for its part, has been careful not to launch its WLD token in the United States to ensure it won&#8217;t end up running head-first into legal issues, especially at a time when the country watchdogs have amplified their scrutiny.</p>
-<p>The post <a href="https://cryptopotato.com/worldcoins-iris-scanning-approach-deemed-evil-security-expert-predicts-high-probability-of-failure/" rel="nofollow">Worldcoin&#8217;s Iris Scanning Approach Deemed Evil, Security Expert Predicts High Probability of Failure</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>FIT21 essentially seeks to increase the Commodity Futures Trading Commission&#8217;s (CFTC) oversight over the crypto industry and clarify the jurisdiction of the Securities and Exchange Commission (SEC). The bill is now headed to the Senate for a vote, where it is expected to face considerable opposition from Democratic lawmakers.</p>
+<p>Congresswoman Maxine Waters, the top Democrat on the House Financial Services Committee, <a href="https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=410718" target="_blank" rel="noopener" data-wpel-link="external">aired</a> her frustration and said she was &#8220;disappointed&#8221; that Republicans have made the unilateral decision to move forward with a massive market structure bill to rewrite the country&#8217;s investor protection laws. According to Waters, the bill exhibited a bias toward the interests of the crypto industry at the expense of regulators and consumers.</p>
+<p>The post <a href="https://cryptopotato.com/coinbase-ceo-brian-armstrong-calls-for-voting-in-favor-of-fit21/" rel="nofollow">Coinbase CEO Brian Armstrong Calls for Voting in Favor of FIT21</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>More Troubles Ahead for ETH Following the Failure at $2K? (Ethereum Price Analysis)</title>
-		<link>https://cryptopotato.com/more-troubles-ahead-for-eth-following-the-failure-at-2k-ethereum-price-analysis/</link>
+		<title>Bitcoin Price Analysis: Is a Crash to $27K Imminent for BTC? Key Factors to Watch in the Coming Days</title>
+		<link>https://cryptopotato.com/bitcoin-price-analysis-is-a-crash-to-27k-imminent-for-btc-key-factors-to-watch-in-the-coming-days/</link>
 		
 		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 17:17:00 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[ETH Analysis]]></category>
-		<category><![CDATA[ETHBTC]]></category>
-		<category><![CDATA[ETHUSD]]></category>
-		<category><![CDATA[Ethereum (ETH) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262473</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum&#8217;s price has once again failed to break above the psychological resistance level of $2,000. While the PA has been bearish over the past few days, there is hope that the market might rebound soon. Technical Analysis By: Edris The Daily Chart: On the daily timeframe, the price has been dropping since getting rejected around [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ethereum&#8217;s price has once again failed to break above the psychological resistance level of $2,000. While the PA has been bearish over the past few days, there is hope that the market might rebound soon.</p>
-<h2><strong>Technical Analysis</strong></h2>
-<p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
-<h3>The Daily Chart:</h3>
-<p>On the daily timeframe, the price has been dropping since getting rejected around the key $2,000 level. The 50-day moving average is providing support near $1,850 at the moment.</p>
-<p>However, if it breaks down, the 200-day moving average located around the $1,800 level can be counted as the next strong support zone. On the other hand, if the price rebounds from either of these levels, a rally toward $2,300 would be highly probable in the coming weeks.</p>
-<figure id="attachment_262480" aria-describedby="caption-attachment-262480" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262480 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-scaled.jpg" alt="eth_price_chart_2507231" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-Daily-Jul-25-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262480" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart:</h3>
-<p>Looking at the 4-hour chart, the price is getting supported at the $1,850 level, following a bearish reversal from the $1,930 resistance zone. While the market is rebounding, there is still a high probability of the breakdown of the $1,850 level in the short term.</p>
-<p>In this scenario, a further decline toward $1,750 could be expected. The RSI indicator also demonstrates values below 50%, pointing to the current bearish momentum. Therefore, another bearish move is likely on the horizon before a rally toward the $2,000 mark or higher may be expected.</p>
-<figure id="attachment_262481" aria-describedby="caption-attachment-262481" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262481 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-scaled.jpg" alt="eth_price_chart_2507232" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/ETHUSDT-4H-Jul-25-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262481" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h2>Sentiment Analysis</h2>
-<p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
-<p>Ethereum&#8217;s price is currently consolidating around the $2,000 level without showing any intention to rally higher.</p>
-<p>One of the most valuable metrics in evaluating the futures market sentiment is the taker buy-sell ratio, which shows whether the buyers or the sellers are executing their trades more aggressively. Values above 1 indicate bullish sentiment, while values below one are associated with a bearish sentiment.</p>
-<p>The metric has dropped below 1, indicating that the sellers are selling aggressively. This pressure is one of the prominent reasons for the price&#8217;s failure to climb higher. Moreover, this behavior can also lead to a bearish downturn in price if nothing changes soon.</p>
-<figure id="attachment_262482" aria-describedby="caption-attachment-262482" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262482 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-scaled.jpg" alt="eth_taker_buy_sell_ratio_chart_2507231" width="2560" height="1615" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-300x189.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-1024x646.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-768x484.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-1536x969.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-2048x1292.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Ethereum-Taker-Buy-Sell-Ratio-Jul-25-2023-50x32.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262482" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/more-troubles-ahead-for-eth-following-the-failure-at-2k-ethereum-price-analysis/" rel="nofollow">More Troubles Ahead for ETH Following the Failure at $2K? (Ethereum Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>BTC Tumbles to $29K But is the Selling Over? (Bitcoin Price Analysis)</title>
-		<link>https://cryptopotato.com/btc-tumbles-to-29k-but-is-the-selling-over-bitcoin-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 17:16:56 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 14:02:43 +0000</pubDate>
 				<category><![CDATA[BTC Analysis]]></category>
 		<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
@@ -275,90 +353,29 @@
 		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262240</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-24-2023-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-24-2023-scaled.jpg" length="840" type="image/jpg"/>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=262904</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-scaled.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-scaled.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Bitcoin&#8217;s price has recently fallen below the key $30K support level. Despite this, investors still have hope that the market will rebound. Technical Analysis By: Edris The Daily Chart: On the daily timeframe, the price has been consolidating above the $30K level before dropping below it. The 50-day moving average, located around the $29K mark, [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin&#8217;s price has recently fallen below the key $30K support level. Despite this, investors still have hope that the market will rebound.</p>
+			            <description><![CDATA[Bitcoin&#8217;s price is yet to recover above the $30K level after falling below a few days ago. However, the price is currently being supported at around $29,000. Technical Analysis By: Edris The Daily Chart: On the daily timeframe, the price has been consolidating in a very tight range below the $30K level. The 50-day moving [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin&#8217;s price is yet to recover above the $30K level after falling below a few days ago. However, the price is currently being supported at around $29,000.</p>
 <h2><strong>Technical Analysis</strong></h2>
 <p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
 <h3>The Daily Chart:</h3>
-<p>On the daily timeframe, the price has been consolidating above the $30K level before dropping below it. The 50-day moving average, located around the $29K mark, is currently providing support for the price.</p>
-<p>If this level holds, the market will be more likely to rally toward the $38K resistance zone in the coming months. However, if the mentioned moving average breaks down, the 200-day MA trending near the $26K area would be the next likely target.</p>
-<figure id="attachment_262522" aria-describedby="caption-attachment-262522" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="size-full wp-image-262522" src="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-scaled.jpg" alt="BTCUSDT 4H - Jul 25 2023" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-25-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262522" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart:</h3>
-<p>Looking at the 4-hour chart, the price action becomes clearer. The cryptocurrency is currently breaking below the $30K support area, with the next level located around the $27,500 mark.</p>
-<p>However, the RSI indicator is approaching the oversold region, pointing to a potential reversal or pullback in the short term. If the price climbs back above the $30K level, a bullish continuation higher may be expected.</p>
-<h2></h2>
-<figure id="attachment_262523" aria-describedby="caption-attachment-262523" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="size-full wp-image-262523" src="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-scaled.jpg" alt="BTCUSDT Daily - Jul 25 2023" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-25-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262523" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h2><strong>Sentiment Analysis</strong></h2>
-<p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
-<h3><strong>Bitcoin Funding Rates</strong></h3>
-<p>Bitcoin&#8217;s price has gradually declined over the last few weeks, failing to rise above $30K. The funding rates indicate that this drop might be due to the futures market sentiment.</p>
-<p>The funding rates metric determines whether long traders or short sellers are currently dominant. Positive values indicate bullish sentiment, while negative values indicate bearish sentiment.</p>
-<p>Considering the recent funding rates values, marketing sentiment is trending relatively bearish after a few months of optimism. Therefore, one of the prominent reasons why the market has failed to keep rallying above $30K is the selling pressure from the futures market.</p>
-<figure id="attachment_262524" aria-describedby="caption-attachment-262524" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-scaled.jpg" data-wpel-link="internal"><img class="size-full wp-image-262524" src="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-scaled.jpg" alt="Bitcoin Funding Rates - Jul 25 2023" width="2560" height="1619" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-300x190.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-1024x647.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-768x486.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-1536x971.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-2048x1295.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Funding-Rates-Jul-25-2023-50x32.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262524" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/btc-tumbles-to-29k-but-is-the-selling-over-bitcoin-price-analysis/" rel="nofollow">BTC Tumbles to $29K But is the Selling Over? (Bitcoin Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>XRP Crashes 7% as Market Turns Red, What&#8217;s Next? (Ripple Price Analysis)</title>
-		<link>https://cryptopotato.com/xrp-crashes-7-as-market-turns-red-whats-next-ripple-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 17:00:54 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[XRP Analysis]]></category>
-		<category><![CDATA[XRPBTC]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[Ripple (XRP) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262485</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ripple faced strong rejection when attempting to breach the significant resistance region at $0.55. Currently, it&#8217;s challenging to identify Ripple&#8217;s direction due to the choppy price action. The most likely scenario seems to be a consolidation phase for the mid-term. Technical Analysis By Shayan The Daily Chart Analyzing the daily chart reveals that Ripple faced [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ripple faced strong rejection when attempting to breach the significant resistance region at $0.55.</p>
-<p>Currently, it&#8217;s challenging to identify Ripple&#8217;s direction due to the choppy price action. The most likely scenario seems to be a consolidation phase for the mid-term.</p>
-<h2>Technical Analysis</h2>
-<p><strong>By <a href="http://twitter.com/greatest_trader" data-wpel-link="external" target="_blank">Shayan</a></strong></p>
-<h3>The Daily Chart</h3>
-<p>Analyzing the daily chart reveals that Ripple faced significant rejection upon reaching the crucial resistance zone at $0.85. This indicates robust selling pressure and substantial supply around this price range.</p>
-<p>However, it&#8217;s important to recognize that a consolidation correction stage is necessary after impulsive price surges to validate the trend&#8217;s strength and allow the market to rest.</p>
-<p>As a result, it seems likely that the price has entered a mid-term correction phase leading to higher volatility and pullback periods before the next significant movement occurs.</p>
-<figure id="attachment_262486" aria-describedby="caption-attachment-262486" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262486 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-scaled.jpg" alt="xrp_price_chart_2507231" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-Daily-5-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262486" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart</h3>
-<p>In the 4-hour chart, it can be seen that the price successfully broke above the upper edge of a channel. However, after reaching the $0.85 region, it experienced a decline with consecutive red candles.</p>
-<p>This suggests that a correction period is likely, retracing back to the upper boundary and completing a pullback. If this correction is successful, the market can expect to continue the bullish rally, propelling the price to higher levels.</p>
-<figure id="attachment_262487" aria-describedby="caption-attachment-262487" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262487 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-scaled.jpg" alt="xrp_price_chart_2507232" width="2560" height="1385" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-300x162.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-1024x554.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-768x415.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-1536x831.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-2048x1108.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/XRP-4H-5-50x27.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262487" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/xrp-crashes-7-as-market-turns-red-whats-next-ripple-price-analysis/" rel="nofollow">XRP Crashes 7% as Market Turns Red, What&#8217;s Next? (Ripple Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Bitcoin Balances on Exchanges Have Declined to 2018 Levels: Bitfinex Report</title>
-		<link>https://cryptopotato.com/bitcoin-balances-on-exchanges-have-reduced-to-2018-levels-bitfinex-report/</link>
-		
-		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 16:55:38 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Bitfinex]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=262372</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/03/bitcoin_cover-8.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/03/bitcoin_cover-8.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Market data shows consecutive inflows into crypto-backed investment funds, signaling that traditional investors are experiencing renewed interest in Bitcoin.]]></description>
-            																<content:encoded><![CDATA[<p>The latest weekly publication of Bitfinex revealed that bitcoin (BTC) balances on centralized exchanges have retraced to levels last seen in January/February 2018.</p>
-<p>Bitfinex <a href="https://blog.bitfinex.com/wp-content/uploads/2023/07/Bitfinex-Alpha-64.pdf" data-wpel-link="external" target="_blank">found</a> that the balances have plunged by 32% from the 3.1 million BTC peak in March 2020 to 2.1 million now. At writing time, only 11% of BTC&#8217; circulating supply was found on exchanges, indicating a significant decrease from the 17% recorded in March 2020.</p>
-<h2>Bitcoin Balances on Exchanges Plummet</h2>
-<p>The leading cryptocurrency platform attributed the declining BTC exchange balances to the increasing usage of alternatives like decentralized exchanges (DEXs) and funds not covered in the analysis. However, the overarching factor is considered to be the widespread movement of people withdrawing their BTC from exchanges.</p>
-<blockquote><p>“This is also a testament of how longer-term holders are moving coins to cold storage. We see this as a positive for the price as more investors indicate the desire to accumulate rather than trade. Furthermore, we see derivatives market participation continuing to increase, which has historically preceded a break to the upside, as spot prices keep decreasing,” Bitfinex said.</p></blockquote>
-<p>At the same time, market data shows consecutive inflows into crypto-backed investment funds, signaling that traditional investors are experiencing a renewed interest in bitcoin and increasing their demand for the asset.</p>
-<p>Bitfinex cited the latest analysis by Coinshares, which <a href="https://etp.coinshares.com/knowledge/market-activity/fund-flows-24-07-23?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=Market_FundFlows_240723&amp;utm_term=&amp;utm_content=Minor-outflows-july" data-wpel-link="external" target="_blank">discovered</a> that crypto-backed investment funds saw a net inflow of $137 million last week, with 99% of the assets directed toward Bitcoin-backed entities. Over four weeks, the gross BTC inflows into crypto funds amassed $742 million, representing the largest since Q4 2021.</p>
-<h2>Bulls and Bears Continue to Struggle</h2>
-<p>While BTC exchange balances retrace, Bitfinex noticed some unusual whale activity within 72 hours. The exchange’s Whale Ratio metric recorded a significant surge of BTC being sent to exchanges, raising speculation about a potential new selling pressure.</p>
-<p>However, upon deeper analysis, it was discovered that the U.S. Department of Justice was moving its <a href="https://cryptopotato.com/us-doj-seized-over-50000-btc-related-to-silk-road/" data-wpel-link="internal">seized</a> BTC stash from the darknet marketplace Silk Road, after which they were re-distributed.</p>
-<p>Meanwhile, BTC has been in a tight range between $29,500 and $31,500 for over 33 days, indicating that bulls and bears are still struggling. The leading cryptocurrency’s next direction is uncertain, but Bitfinex believes the outflows from short-Bitcoin funds could cause the asset to break out <a href="https://cryptopotato.com/on-chain-metrics-and-investor-behavior-suggest-signs-of-a-bull-run-bitfinex-report/" data-wpel-link="internal">towards</a> the upside.</p>
-<p>The post <a href="https://cryptopotato.com/bitcoin-balances-on-exchanges-have-reduced-to-2018-levels-bitfinex-report/" rel="nofollow">Bitcoin Balances on Exchanges Have Declined to 2018 Levels: Bitfinex Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+<p>On the daily timeframe, the price has been consolidating in a very tight range below the $30K level. The 50-day moving average is around the $29K mark at the moment. If it gets broken to the downside, the 200-day moving average located around the $27K level would be the next probable target in the short term.</p>
+<p>On the other hand, if the market rebounds and breaks above the $30K zone, a rally toward $38K would be expected.</p>
+<figure id="attachment_262905" aria-describedby="caption-attachment-262905" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262905 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-scaled.jpg" alt="btc_price_chart_2707231" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-Daily-Jul-27-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262905" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<h3><strong>The 4-Hour Chart:</strong></h3>
+<p>Looking at the 4-hour chart, the price has been painting lower highs and lows. The $30K level has turned into resistance, pushing it lower. In case Bitcoin fails to climb above $30K again, the $27,500 support level would likely get tested.</p>
+<p>Moreover, the RSI indicator is also showing values around 50%, offering little insight into the potential direction for the short term. Therefore, the market is currently located in a key area, and the price action in the coming weeks relies on the reaction to this zone.</p>
+<figure id="attachment_262906" aria-describedby="caption-attachment-262906" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-262906 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-scaled.jpg" alt="btc_price_chart_2707232" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/BTCUSDT-4H-Jul-27-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262906" class="wp-caption-text">Source: TradingView</figcaption></figure>
+<h2>Onchain Analysis</h2>
+<p><strong>By <a href="http://twitter.com/Greatest_Trader" data-wpel-link="external" target="_blank">Shayan</a></strong></p>
+<p>Bitcoin has experienced significant fluctuations in the past two years since it peaked at $69K and entered a bearish cycle. Various factors, such as the ongoing pandemic, inflation concerns, and the Russia-Ukraine war, have contributed to these unstable periods, resulting in an atmosphere of uncertainty and doubt prevailing in the financial markets.</p>
+<p>The Realized Cap – UTXO Age Bands (%) metric can be employed to assess Bitcoin’s supply dynamics. This metric categorizes coins based on their lifetimes and the proportion of the total realized cap.</p>
+<p>Despite the price plunging significantly below $20K in the recent bearish phase, the accumulation rate seems to have surpassed that of the 2018 bearish period. This observation suggests that many market participants still view Bitcoin as a valuable asset, reinforcing their confidence in its potential despite the challenges faced during this bearish cycle.</p>
+<figure id="attachment_262907" aria-describedby="caption-attachment-262907" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--scaled.jpg" data-wpel-link="internal"><img class="wp-image-262907 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--scaled.jpg" alt="btc_realized_cap_chart_2707231" width="2560" height="1612" srcset="https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--300x189.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--1024x645.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--768x484.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--1536x967.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--2048x1290.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/07/Bitcoin-Realized-Cap-UTXO-Age-Bands--50x31.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-262907" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
+<p>The post <a href="https://cryptopotato.com/bitcoin-price-analysis-is-a-crash-to-27k-imminent-for-btc-key-factors-to-watch-in-the-coming-days/" rel="nofollow">Bitcoin Price Analysis: Is a Crash to $27K Imminent for BTC? Key Factors to Watch in the Coming Days</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
