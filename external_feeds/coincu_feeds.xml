@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 28 Jul 2023 07:33:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Jul 2023 07:53:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SlowMist Reveals Long-Hidden False Deposit Attack on CEXs</title>
+		<link>https://coincu.com/206834-slowmist-hidden-false-deposit-attack-on-cexs/</link>
+		
+		<dc:creator><![CDATA[Annie]]></dc:creator>
+		<pubDate>Fri, 28 Jul 2023 07:53:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[CEXs]]></category>
+		<category><![CDATA[Deposit Attack]]></category>
+		<category><![CDATA[SlowMist]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=206834</guid>
+
+					<description><![CDATA[SlowMist has recently brought to light a shocking revelation that exposes a false deposit attack that has remained concealed within centralized exchanges (CEXs) for an extended period.<p class="has-text-align-right"><a href="https://coincu.com/206834-slowmist-hidden-false-deposit-attack-on-cexs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>SlowMist exposes a concealed false deposit attack on CEXs.</em></li>
+
+
+
+<li><em>Attacker exploited loophole in exchange&#8217;s transaction processing mechanism.</em></li>
+
+
+
+<li><em>Importance of enhanced security measures and collaboration in fortifying crypto landscape against malicious actors.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>SlowMist has recently brought to light a shocking revelation that exposes a false deposit attack that has remained concealed within centralized exchanges (CEXs) for an extended period.</strong></h5>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2141.png"><img decoding="async" width="976" height="716" src="https://coincu.com/wp-content/uploads/2023/07/image-2141.png" alt="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs" class="wp-image-206841" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2141.png 976w, https://coincu.com/wp-content/uploads/2023/07/image-2141-300x220.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2141-768x563.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2141-750x550.png 750w" sizes="(max-width: 976px) 100vw, 976px" title="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p> The attack exploited vulnerabilities in the exchange&#8217;s transaction processing mechanism.</p>
+
+
+
+<p><a href="https://slowmist.medium.com/how-does-the-false-top-up-attack-break-through-the-defense-of-the-exchange-d6e8ebb434f5" target="_blank" data-type="URL" data-id="https://slowmist.medium.com/how-does-the-false-top-up-attack-break-through-the-defense-of-the-exchange-d6e8ebb434f5" rel="noreferrer noopener">According to SlowMist&#8217;s detailed analysis</a>, the attacker executed the false deposit attack by sending forged transaction data to the exchange&#8217;s designated wallet address. Tragically, the exchange&#8217;s system erroneously perceived the malicious transaction as a legitimate deposit request and credited the corresponding digital assets directly into the attacker&#8217;s account.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2142.png"><img decoding="async" loading="lazy" width="1024" height="918" src="https://coincu.com/wp-content/uploads/2023/07/image-2142-1024x918.png" alt="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs" class="wp-image-206842" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2142-1024x918.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2142-300x269.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2142-768x689.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2142-750x672.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2142-1140x1022.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2142.png 1314w" sizes="(max-width: 1024px) 100vw, 1024px" title="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>This sophisticated attack method enabled the attacker to accumulate a substantial amount of digital assets over time, taking advantage of the loophole in the exchange&#8217;s security protocols. SlowMist&#8217;s disclosure of this previously hidden attack has sent shockwaves through the cryptocurrency community, raising concerns about the vulnerabilities present in some CEXs.</p>
+
+
+
+<p>False deposit attacks pose significant risks to exchanges and their users. The seamless execution of such attacks raises questions about the efficacy of existing security measures employed by CEXs to safeguard user assets.</p>
+
+
+
+<p>The revelation has sparked discussions among industry experts and stakeholders about the need for enhanced security measures and robust transaction verification protocols within centralized exchange platforms. Ensuring the integrity and accuracy of deposit processing is paramount to protect users from potential financial losses.</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2143.png"><img decoding="async" loading="lazy" width="400" height="400" src="https://coincu.com/wp-content/uploads/2023/07/image-2143.png" alt="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs" class="wp-image-206843" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2143.png 400w, https://coincu.com/wp-content/uploads/2023/07/image-2143-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2143-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/image-2143-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/image-2143-350x350.png 350w" sizes="(max-width: 400px) 100vw, 400px" title="SlowMist Reveals Long-Hidden False Deposit Attack on CEXs 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>While SlowMist&#8217;s disclosure has shed light on this particular false deposit attack, it also underscores the importance of constant vigilance and thorough security audits within the cryptocurrency ecosystem. As the industry continues to evolve, addressing vulnerabilities and potential attack vectors becomes a shared responsibility among exchanges, security companies, and users alike.</p>
+
+
+
+<p>SlowMist&#8217;s dedication to cybersecurity and its commitment to uncovering hidden threats in the crypto space further emphasizes the importance of collaboration between security firms and industry players. This collaborative approach is instrumental in fortifying the crypto landscape against malicious actors.</p>
+
+
+
+<p id="block-643c4ba8-b40b-4525-9a96-f280dbfbeb9d"><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this&nbsp;website&nbsp;is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/206834-slowmist-hidden-false-deposit-attack-on-cexs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/SlowMist-Reveals-Long-Hidden--1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Phoenix Technology Explores Prospects With Potential UAE IPO</title>
 		<link>https://coincu.com/206815-phoenix-technology-explores-potential-uae-ipo/</link>
 		
@@ -69,7 +150,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2138.png"><img decoding="async" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-2138-1024x683.png" alt="Phoenix Technology Explores Prospects With Potential UAE IPO" class="wp-image-206829" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2138-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2138-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2138-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2138-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2138.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Phoenix Technology Explores Prospects With Potential UAE IPO 1"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2138.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-2138-1024x683.png" alt="Phoenix Technology Explores Prospects With Potential UAE IPO" class="wp-image-206829" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2138-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2138-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2138-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2138-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2138.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="Phoenix Technology Explores Prospects With Potential UAE IPO 4"></a></figure></div>
 
 
 <p>According to insiders familiar with the matter, the company is contemplating a listing on the stock exchange in Abu Dhabi as early as this year.</p>
@@ -92,7 +173,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2140.png"><img decoding="async" loading="lazy" width="770" height="440" src="https://coincu.com/wp-content/uploads/2023/07/image-2140.png" alt="Phoenix Technology Explores Prospects With Potential UAE IPO" class="wp-image-206832" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2140.png 770w, https://coincu.com/wp-content/uploads/2023/07/image-2140-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2140-768x439.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2140-750x429.png 750w" sizes="(max-width: 770px) 100vw, 770px" title="Phoenix Technology Explores Prospects With Potential UAE IPO 2"></a></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2140.png"><img decoding="async" loading="lazy" width="770" height="440" src="https://coincu.com/wp-content/uploads/2023/07/image-2140.png" alt="Phoenix Technology Explores Prospects With Potential UAE IPO" class="wp-image-206832" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2140.png 770w, https://coincu.com/wp-content/uploads/2023/07/image-2140-300x171.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2140-768x439.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2140-750x429.png 750w" sizes="(max-width: 770px) 100vw, 770px" title="Phoenix Technology Explores Prospects With Potential UAE IPO 5"></a></figure></div>
 
 
 <p>The potential IPO in Abu Dhabi comes at a pivotal moment for the global cryptocurrency industry, where market interest and regulatory scrutiny are at an all-time high. Phoenix Technology&#8217;s move to go public could not only bolster its financial standing but also contribute to further cementing the UAE&#8217;s position as a major player in the ever-evolving blockchain landscape. However, as with any financial endeavor, the success of the IPO will depend on market conditions and regulatory developments.</p>
@@ -148,7 +229,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2136.png"><img decoding="async" loading="lazy" width="1024" height="474" src="https://coincu.com/wp-content/uploads/2023/07/image-2136-1024x474.png" alt="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4" class="wp-image-206826" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2136-1024x474.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2136-300x139.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2136-768x356.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2136-1536x711.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2136-2048x948.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2136-750x347.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2136-1140x528.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4 3"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2136.png"><img decoding="async" loading="lazy" width="1024" height="474" src="https://coincu.com/wp-content/uploads/2023/07/image-2136-1024x474.png" alt="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4" class="wp-image-206826" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2136-1024x474.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2136-300x139.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2136-768x356.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2136-1536x711.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2136-2048x948.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2136-750x347.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2136-1140x528.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The liquidity pools that will be closed are as <a href="https://www.binancezh.info/en/support/announcement/notice-regarding-the-removal-of-selected-liquidity-pools-on-binance-liquid-swap-2023-08-04-1b01b15e40054bc4868e4b9713cced80" target="_blank" rel="noreferrer noopener">follows:</a> APT/BUSD, ATA/BTC, AXS/USDT, BAKE/BNB, BAKE/BTC, DAR/BNB, ELF/BTC, ELF/USDT, FLOKI/USDT, FTM/BNB, GLMR/USDT, GMX/BTC, GMX/USDT, GNS/USDT, ID/USDT, ILV/BTC, ILV/USDT, KSM/USDT, LOKA/BNB, LOKA/USDT, LQTY/USDT, MKR/USDT, MULTI/BTC, MULTI/USDT, NEAR/BUSD, PERP/USDT, SNX/USDT, STX/USDT, SUI/USDT, SYN/USDT, TLM/BTC</p>
@@ -159,7 +240,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2137.png"><img decoding="async" loading="lazy" width="1024" height="569" src="https://coincu.com/wp-content/uploads/2023/07/image-2137-1024x569.png" alt="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4" class="wp-image-206827" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2137-1024x569.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2137-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2137-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2137-750x417.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2137.png 1138w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2137.png"><img decoding="async" loading="lazy" width="1024" height="569" src="https://coincu.com/wp-content/uploads/2023/07/image-2137-1024x569.png" alt="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4" class="wp-image-206827" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2137-1024x569.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2137-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2137-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2137-750x417.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2137.png 1138w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Liquidity Mining Removes APT/BUSD Pool On Aug 4 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Users who currently hold positions in any of the aforementioned liquidity pools need not worry. BNB Liquid Swap will automatically return the deposited assets to their Spot wallets on August 4, 2023, at 04:00 (UTC).</p>
@@ -219,7 +300,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2134.png"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/image-2134-1024x535.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206820" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2134-1024x535.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2134-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2134-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2134-750x392.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2134-1140x596.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2134.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2134.png"><img decoding="async" loading="lazy" width="1024" height="535" src="https://coincu.com/wp-content/uploads/2023/07/image-2134-1024x535.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206820" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2134-1024x535.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2134-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2134-768x401.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2134-750x392.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2134-1140x596.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2134.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Mysten Labs is <a href="https://tech.mystenlabs.com/bullshark-quest-2/" target="_blank" data-type="URL" data-id="https://tech.mystenlabs.com/bullshark-quest-2/" rel="noreferrer noopener">partnering</a> with the Sui Foundation to offer another big reward for players: 5M SUI. Comprising two pools of 2.5M SUI, the rewards will be distributed after Quest 2 ends on August 28, 2023, 11:59 p.m. PDT.</p>
@@ -230,7 +311,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2135.png"><img decoding="async" loading="lazy" width="790" height="445" src="https://coincu.com/wp-content/uploads/2023/07/image-2135.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206821" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2135.png 790w, https://coincu.com/wp-content/uploads/2023/07/image-2135-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2135-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2135-750x422.png 750w" sizes="(max-width: 790px) 100vw, 790px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 6"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2135.png"><img decoding="async" loading="lazy" width="790" height="445" src="https://coincu.com/wp-content/uploads/2023/07/image-2135.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206821" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2135.png 790w, https://coincu.com/wp-content/uploads/2023/07/image-2135-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2135-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2135-750x422.png 750w" sizes="(max-width: 790px) 100vw, 790px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Several prominent DApps are eligible to participate in Task 2 of Bullshark Quest 2. The participating DApps include NAVI Protocol, Turbos Finance, Scallop, and Typus Finance. Users can engage with these DApps during the mission and enhance their chances of earning rewards.</p>
@@ -241,7 +322,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2133.png"><img decoding="async" loading="lazy" width="1024" height="494" src="https://coincu.com/wp-content/uploads/2023/07/image-2133-1024x494.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206819" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2133-1024x494.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2133-300x145.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2133-768x371.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2133-1536x742.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2133-750x362.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2133-1140x550.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2133.png 1605w" sizes="(max-width: 1024px) 100vw, 1024px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2133.png"><img decoding="async" loading="lazy" width="1024" height="494" src="https://coincu.com/wp-content/uploads/2023/07/image-2133-1024x494.png" alt="Mysten Labs Launches Bullshark Quest 2 Today, Rewarding 5 Million SUI" class="wp-image-206819" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2133-1024x494.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2133-300x145.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2133-768x371.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2133-1536x742.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2133-750x362.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2133-1140x550.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2133.png 1605w" sizes="(max-width: 1024px) 100vw, 1024px" title="Mysten Labs Launches Bullshark Quest 2, Rewarding 5 Million SUI 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Sui development company Mysten Labs had introduced Bullshark Quests, a novel way for Bullshark holders to earn SUI rewards. The first Quest had offered a reward pool of 5 million SUI tokens, giving Bullshark holders the opportunity to compete for rewards based on their engagement with Polymedia, Mini Miners, DeSuiLabs apps, and Ethos Wallet.</p>
@@ -297,7 +378,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2129.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-2129-1024x512.png" alt="image 2129" class="wp-image-206805" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2129-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2129-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2129-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2129-1536x767.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2129-2048x1023.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2129-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-2129-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2129-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="FalconX Withdraws 8951 MKR From Binance in 7 Days 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2129.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-2129-1024x512.png" alt="image 2129" class="wp-image-206805" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2129-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2129-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2129-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2129-1536x767.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2129-2048x1023.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2129-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-2129-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2129-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="FalconX Withdraws 8951 MKR From Binance in 7 Days 11"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>The numbers reveal that FalconX successfully withdrew a total of 8,951 MKR tokens from Binance in the past seven days, amounting to an impressive $10.5 million in value. This substantial withdrawal has sparked interest and curiosity within the crypto community, prompting speculations and discussions about potential implications.</p>
@@ -318,7 +399,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg" alt="FalconX Withdraws 8951 MKR from Binance in 7 Days" class="wp-image-206807" srcset="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-300x150.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-768x384.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-360x180.jpg 360w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-750x375.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="FalconX Withdraws 8951 MKR From Binance in 7 Days 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg" alt="FalconX Withdraws 8951 MKR from Binance in 7 Days" class="wp-image-206807" srcset="https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-300x150.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-768x384.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-360x180.jpg 360w, https://coincu.com/wp-content/uploads/2023/07/FalconX-Withdraws-8951-MKR-from-Binance-in-7-Days-750x375.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="FalconX Withdraws 8951 MKR From Binance in 7 Days 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Market analysts and enthusiasts are closely observing these activities, trying to discern potential trends or signals in the broader cryptocurrency landscape. The movements of large players can have far-reaching impacts on market dynamics, influencing sentiments and investment strategies.</p>
@@ -380,7 +461,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2130.png"><img decoding="async" loading="lazy" width="1024" height="749" src="https://coincu.com/wp-content/uploads/2023/07/image-2130-1024x749.png" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206808" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2130-1024x749.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2130-300x219.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2130-768x562.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2130-750x549.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2130.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 10"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2130.png"><img decoding="async" loading="lazy" width="1024" height="749" src="https://coincu.com/wp-content/uploads/2023/07/image-2130-1024x749.png" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206808" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2130-1024x749.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2130-300x219.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2130-768x562.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2130-750x549.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2130.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 13"></a></figure></div>
 
 
 <p>The company planned to lock them up for a specific duration and then engage in a secondary sale to an on-site cryptocurrency exchange. This approach was considered as an alternative when the exchange sale faced hurdles due to the <a href="https://coincu.com/150005-court-rejects-wemades-wemixs-delisting/" target="_blank" rel="noreferrer noopener">WEMIX</a> issuance controversy.</p>
@@ -395,7 +476,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206810" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2132-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2132-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2132-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2132-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2132.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 11"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206810" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2132-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2132-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2132-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2132-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2132-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2132.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 14"></a></figure></div>
 
 
 <p>An anonymous source familiar with the fund transaction disclosed that the Wemix Foundation intended to create a fund of 3 to 5 billion won or more, primarily catering to large individual investors.</p>
@@ -410,7 +491,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279.jpeg"><img decoding="async" loading="lazy" width="1024" height="579" src="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1024x579.jpeg" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206812" srcset="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1024x579.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-300x170.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-768x434.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1536x869.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-2048x1158.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-750x424.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1140x645.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 12"></a><figcaption class="wp-element-caption">Wemade Co. CEO Henry Chang</figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279.jpeg"><img decoding="async" loading="lazy" width="1024" height="579" src="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1024x579.jpeg" alt="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens" class="wp-image-206812" srcset="https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1024x579.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-300x170.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-768x434.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1536x869.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-2048x1158.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-750x424.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/o1679989858567279-1140x645.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="WeMade Investigated For Controversial Financial Technique Involving WEMIX Tokens 15"></a><figcaption class="wp-element-caption">Wemade Co. CEO Henry Chang</figcaption></figure></div>
 
 
 <p>Coincu previously <a href="https://coincu.com/199111-wemade-under-investigation/" target="_blank" rel="noreferrer noopener">reported</a> that the South Korean authorities are scrutinizing WeMade and its WEMIX token market maker amid allegations of fraud and breach of trust. The investigation extended to WeMade&#8217;s headquarters and market makers involved in WEMIX activities. These allegations have led to the company&#8217;s delisting from major South Korean cryptocurrency exchanges, adding to the complexity of the situation.</p>
@@ -428,100 +509,6 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2131-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina</title>
-		<link>https://coincu.com/206784-fernando-perez-algaba-wildly-murdered/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 28 Jul 2023 05:33:33 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[argentina]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Crypto KOL]]></category>
-		<category><![CDATA[Fernando Pérez Algaba]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=206784</guid>
-
-					<description><![CDATA[Millionaire cryptocurrency influencer Fernando Pérez Algaba was found dismembered in Argentina.<p class="has-text-align-right"><a href="https://coincu.com/206784-fernando-perez-algaba-wildly-murdered/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Millionaire cryptocurrency influencer Fernando Pérez Algaba was found dismembered in Argentina.</em></li>
-
-
-
-<li><em>Police arrest suspect; motive suspected to be financial troubles.</em></li>
-
-
-
-<li><em>Social media fame and chilling note add to the sensational case.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>A shocking murder investigation has been launched after the dismembered remains of 41-year-old millionaire Fernando Pérez Algaba, a prominent cryptocurrency influencer, were discovered by a group of children in the town of Ingeniero Budge, Buenos Aires Province, according to the <em><a href="https://nypost.com/2023/07/27/millionaire-crypto-influencer-found-dismembered-in-suitcase/" target="_blank" rel="noreferrer noopener">New York Post</a></em>.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2126.png"><img decoding="async" loading="lazy" width="1023" height="575" src="https://coincu.com/wp-content/uploads/2023/07/image-2126.png" alt="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina" class="wp-image-206795" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2126.png 1023w, https://coincu.com/wp-content/uploads/2023/07/image-2126-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2126-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2126-750x422.png 750w" sizes="(max-width: 1023px) 100vw, 1023px" title="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina 13"></a></figure></div>
-
-
-<p>The grisly case came to light when the kids stumbled upon a red suitcase filled with body parts while playing near a stream on Sunday. Upon notifying the authorities, the Buenos Aires police inspected the package and made the gruesome discovery of the victim&#8217;s legs and forearm inside. Additionally, another whole arm was found in the stream.</p>
-
-
-
-<p>Fernando Pérez Algaba, known for flaunting his opulent lifestyle to his nearly one million followers on Instagram, had been reported missing since July 19, when he failed to return the keys to an apartment he was renting. His popularity on social media caused news of his death to spread rapidly.</p>
-
-
-
-<p>According to the investigation, the entrepreneur had been in <a href="https://coincu.com/180668-argentina-approves-bitcoin-futures-index/" target="_blank" rel="noreferrer noopener">Argentina</a> for at least a week after spending time in Barcelona and <a href="https://coincu.com/178570-ralph-lauren-now-accepts-crypto-payments/" target="_blank" rel="noreferrer noopener">Miami</a>. Authorities discovered his remains inside a bag near the stream in Ingeniero Budge, indicating that he had been brutally murdered before being dismembered.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2127.png"><img decoding="async" loading="lazy" width="880" height="586" src="https://coincu.com/wp-content/uploads/2023/07/image-2127.png" alt="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina" class="wp-image-206796" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2127.png 880w, https://coincu.com/wp-content/uploads/2023/07/image-2127-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2127-768x511.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2127-750x499.png 750w" sizes="(max-width: 880px) 100vw, 880px" title="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina 14"></a></figure></div>
-
-
-<p>The autopsy revealed that Fernando Pérez Algaba died from three gunshot wounds. The clean amputation of the body parts suggested the involvement of a professional, as reported by local media.</p>
-
-
-
-<p>The police identified Algaba by his fingerprints and distinctive tattoos on his body parts. He had made his fortune by renting luxury vehicles and selling cryptocurrency, which he frequently promoted to his large following on Instagram.</p>
-
-
-
-<p>Authorities arrested one suspect in connection with Algaba&#8217;s death. While the motive remains unclear, investigators suspect that it may have been related to his financial troubles and mounting debts.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2128-1024x599.png"><img decoding="async" loading="lazy" width="1024" height="599" src="https://coincu.com/wp-content/uploads/2023/07/image-2128-1024x599.png" alt="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina" class="wp-image-206797" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2128-1024x599.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2128-300x175.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2128-768x449.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2128-750x438.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2128-1140x666.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2128.png 1300w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nightmare Of Crypto KOL Fernando Pérez Algaba: Wildly Murdered In Argentina 15"></a></figure></div>
-
-
-<p>Fernando Pérez Algaba&#8217;s brother, Rodolfo Pérez Algaba, revealed that the influencer had faced severe economic problems due to cryptocurrency investments gone wrong. He was reported to owe a substantial amount of money to Argentina&#8217;s tax agency. An entry on his phone suggested that he had also borrowed money from a local gang.</p>
-
-
-
-<p>The tragic end of the self-made businessman, known as &#8220;Lechuga&#8221; (lettuce) among friends, marked a grim turn of events for a man who started his journey at the age of 14, selling sandwiches from a bicycle. With unwavering determination, he progressed to buying and repairing vehicles, eventually amassing a warehouse filled with high-end cars, motorcycles, and jet skis by the age of 24.</p>
-
-
-
-<p>The investigation into the murder is moving swiftly, with one suspect already in custody. The messy crime scene has led authorities to believe that the act was not carried out by professionals.</p>
-
-
-
-<p>The entire community is left in shock and mourning the loss of Fernando Pérez Algaba, a charismatic influencer who met a tragic and untimely end in a crime that has sent shockwaves through Argentina and beyond.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/206784-fernando-perez-algaba-wildly-murdered/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-2-4-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
 		<item>
 		<title>Singapore And UK Partner For Global Crypto Regulatory Standards</title>
 		<link>https://coincu.com/206786-singapore-and-uk-partner-for-global-crypto/</link>
