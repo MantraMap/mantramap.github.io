@@ -15,7 +15,7 @@
 		<link>https://cointelegraph.com</link>
 		<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest crypto news and analyses on the future of money.</description>
 		<generator>cointelegraph.com</generator>
-		<lastBuildDate>Sun, 30 Jul 2023 19:26:42 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 30 Jul 2023 20:15:22 +0100</lastBuildDate>
 		<language>en</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,7 +28,7 @@
 		</image>
 
 		                    <item>
-            <title><![CDATA[Curve Finance pools exploited in over $24M due to reentrancy vulnerability]]></title>
+            <title><![CDATA[Breaking: Curve Finance pools exploited in over $24M due to reentrancy vulnerability]]></title>
             <link>https://cointelegraph.com/news/curve-finance-pools-exploited-over-24-reentrancy-vulnerability</link>
             <media:content url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/b9e39295-c618-4245-9de9-f2662ea82ae3.jpg" medium="image"/>
             <enclosure url="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/b9e39295-c618-4245-9de9-f2662ea82ae3.jpg" length="840" type="image/jpg"/>
@@ -39,7 +39,7 @@
                                                                 <category><![CDATA[Curve Finance]]></category>
                                         <guid isPermaLink="false">https://cointelegraph.com/news/curve-finance-pools-exploited-over-24-reentrancy-vulnerability</guid>
             <description>
-                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/b9e39295-c618-4245-9de9-f2662ea82ae3.jpg"></p><p>Several stable pools on Curve Finance using Vyper were exploited on July 30.</p>]]>
+                <![CDATA[<p style="float:right; margin:0 0 10px 15px; width:240px;"><img src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/b9e39295-c618-4245-9de9-f2662ea82ae3.jpg"></p><p>Several stable pools on Curve Finance using Vyper were exploited on July 30. Vyper versions 0.2.15, 0.2.16 and 0.3.0 are vulnerable to malfunctioning reentrancy locks.</p>]]>
             </description>
         </item>
                     <item>
