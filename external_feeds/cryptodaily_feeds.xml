@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 01 Aug 2023 08:33:02 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 01 Aug 2023 08:50:33 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,76 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Upbit Suspends CRV Transactions Following Curve Finance Exploit]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/upbit-suspends-crv-transactions-following-curve-finance-exploit</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 01 Aug 2023 08:45:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/upbit-suspends-crv-transactions-following-curve-finance-exploit</guid>
+			  <description><![CDATA[<p>Upbit, the largest cryptocurrency exchange in South Korea, has temporarily suspended CRV withdrawals and deposits after Curve fell victim to a significant exploit.&nbsp;</p>
+<p>Other exchanges have been keeping track of the situation but have not initiated any action as of now.&nbsp;</p>
+The Curve Finance Exploit&nbsp;
+<p>Curve Finance tweeted over the weekend that the protocol had fallen victim to an exploit. The protocol stated that over $100 million worth of cryptocurrency was at risk thanks to a reentrancy bug in Vyper, the programming language used to power parts of the larger Curve ecosystem. As a result, several stablecoin pools used in the pricing and liquidity of several DeFi projects were drained by hackers.&nbsp;</p>
+
+<p>&ldquo;A number of stablepools (alETH/msETH/pETH) using Vyper 0.2.15 have been exploited as a result of a malfunctioning reentrancy lock. We are assessing the situation and will update the community as things develop.&rdquo;</p>
+
+<p>In another tweet on Monday, the protocol listed out the hacked pools. It also stated that the Arbitrum trycrypto pool could also have been compromised during the hack.&nbsp;</p>
+
+<p>&ldquo;As a result of an issue in Vyper compiler in versions 0.2.15-0.3.0, the following pools were hacked: crv/eth aleth/eth mseth/eth peth/eth Another pool potentially affected is arbitrum&rsquo;s tricrypto. Auditors and Vyper devs could not find a profitable exploit, but please exit that one.&rdquo;</p>
+
+<p>Re-entrancy attacks are a fairly common exploit, allowing hackers to trick smart contracts by making repeated calls to the protocol and stealing user assets. A call is basically an authorization for a smart contract address to interact with a user&rsquo;s wallet address.&nbsp;</p>
+Upbit Suspends CRV Withdrawals And Deposits&nbsp;
+<p>Following the exploit, Upbit, the largest cryptocurrency exchange in South Korea, announced it was temporarily suspending the withdrawal and deposit of Curve Finance&rsquo;s native CRV token. The suspension was announced by Chinese crypto reporter Wu Blockchain on Twitter, who stated,&nbsp;</p>
+
+<p>&ldquo;South Korea&rsquo;s largest exchange, Upbit, announced that due to the attack on some of Curve&rsquo;s stablecoin pools, CRV volatility is high, and Curve (CRV) deposit and withdrawal services have been suspended.&rdquo;</p>
+
+<p>The Upbit exchange, in its announcement, stated it had detected several vulnerabilities in some stablecoin pools associated with Curve Finance, leading to the CRV token experiencing considerable volatility. It added that it was temporarily suspending CRV deposits and withdrawals.&nbsp;</p>
+
+<p>&ldquo;Today, certain vulnerabilities have been discovered in some of the stablecoin pools associated with Curve (CRV). As a result, CRV is currently experiencing significant volatility. We advise exercising caution when considering any investments related to CRV. To ensure the safety of digital asset transactions, we have temporarily suspended deposits and withdrawals for CRV.&rdquo;</p>
+
+<p>The hack has resulted in a loss of over $100 million for the protocol, with the CRV token down over 12%.&nbsp;</p>
+Other Exchanges Keeping Tabs
+<p>While Upbit has swung into action and suspended CRV deposits and withdrawals, other prominent exchanges have adopted a wait-and-watch approach. Upbit has also urged users to exercise caution when considering any investments related to CRV. OKX, another prominent exchange, issued a warning for users on the token&rsquo;s landing page, telling users the exchange would not be responsible for any losses incurred while trading the CRV token.&nbsp;</p>
+<p>Meanwhile, Binance head Changpeng Zhao stated that Binance users were unaffected by the exploit in Curve.&nbsp;</p>
+
+<p>&ldquo;CEX price feed saves DeFi. Binance users are not affected. Our team checked on the Vyper Reentrant Vulnerability. We only use version 0.3.7 or above.&rdquo;</p>
+
+<p>Zhao explained that Binance&rsquo;s use of a centralized price feed for DeFi tokens adds an extra layer of security. Zhao also insisted on updating applications, code libraries, and operating systems.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Upbit, the largest cryptocurrency exchange in South Korea, has temporarily suspended CRV withdrawals and deposits after Curve fell victim to a significant exploit.&nbsp;</p>
+<p>Other exchanges have been keeping track of the situation but have not initiated any action as of now.&nbsp;</p>
+The Curve Finance Exploit&nbsp;
+<p>Curve Finance tweeted over the weekend that the protocol had fallen victim to an exploit. The protocol stated that over $100 million worth of cryptocurrency was at risk thanks to a reentrancy bug in Vyper, the programming language used to power parts of the larger Curve ecosystem. As a result, several stablecoin pools used in the pricing and liquidity of several DeFi projects were drained by hackers.&nbsp;</p>
+
+<p>&ldquo;A number of stablepools (alETH/msETH/pETH) using Vyper 0.2.15 have been exploited as a result of a malfunctioning reentrancy lock. We are assessing the situation and will update the community as things develop.&rdquo;</p>
+
+<p>In another tweet on Monday, the protocol listed out the hacked pools. It also stated that the Arbitrum trycrypto pool could also have been compromised during the hack.&nbsp;</p>
+
+<p>&ldquo;As a result of an issue in Vyper compiler in versions 0.2.15-0.3.0, the following pools were hacked: crv/eth aleth/eth mseth/eth peth/eth Another pool potentially affected is arbitrum&rsquo;s tricrypto. Auditors and Vyper devs could not find a profitable exploit, but please exit that one.&rdquo;</p>
+
+<p>Re-entrancy attacks are a fairly common exploit, allowing hackers to trick smart contracts by making repeated calls to the protocol and stealing user assets. A call is basically an authorization for a smart contract address to interact with a user&rsquo;s wallet address.&nbsp;</p>
+Upbit Suspends CRV Withdrawals And Deposits&nbsp;
+<p>Following the exploit, Upbit, the largest cryptocurrency exchange in South Korea, announced it was temporarily suspending the withdrawal and deposit of Curve Finance&rsquo;s native CRV token. The suspension was announced by Chinese crypto reporter Wu Blockchain on Twitter, who stated,&nbsp;</p>
+
+<p>&ldquo;South Korea&rsquo;s largest exchange, Upbit, announced that due to the attack on some of Curve&rsquo;s stablecoin pools, CRV volatility is high, and Curve (CRV) deposit and withdrawal services have been suspended.&rdquo;</p>
+
+<p>The Upbit exchange, in its announcement, stated it had detected several vulnerabilities in some stablecoin pools associated with Curve Finance, leading to the CRV token experiencing considerable volatility. It added that it was temporarily suspending CRV deposits and withdrawals.&nbsp;</p>
+
+<p>&ldquo;Today, certain vulnerabilities have been discovered in some of the stablecoin pools associated with Curve (CRV). As a result, CRV is currently experiencing significant volatility. We advise exercising caution when considering any investments related to CRV. To ensure the safety of digital asset transactions, we have temporarily suspended deposits and withdrawals for CRV.&rdquo;</p>
+
+<p>The hack has resulted in a loss of over $100 million for the protocol, with the CRV token down over 12%.&nbsp;</p>
+Other Exchanges Keeping Tabs
+<p>While Upbit has swung into action and suspended CRV deposits and withdrawals, other prominent exchanges have adopted a wait-and-watch approach. Upbit has also urged users to exercise caution when considering any investments related to CRV. OKX, another prominent exchange, issued a warning for users on the token&rsquo;s landing page, telling users the exchange would not be responsible for any losses incurred while trading the CRV token.&nbsp;</p>
+<p>Meanwhile, Binance head Changpeng Zhao stated that Binance users were unaffected by the exploit in Curve.&nbsp;</p>
+
+<p>&ldquo;CEX price feed saves DeFi. Binance users are not affected. Our team checked on the Vyper Reentrant Vulnerability. We only use version 0.3.7 or above.&rdquo;</p>
+
+<p>Zhao explained that Binance&rsquo;s use of a centralized price feed for DeFi tokens adds an extra layer of security. Zhao also insisted on updating applications, code libraries, and operating systems.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[LBank Exchange to List Seven New Tokens in a Week]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/lbank-exchange-to-list-seven-new-tokens-in-a-week</link>
 			  <media:content url="https://app.chainwire.org/storage/uploads/users/this_week_20230731_1690858203NWWn6W9EyL.jpeg" medium="image" />
@@ -843,68 +913,6 @@ Arkham Intel Exchange And Privacy Concerns&nbsp;
 <p>&ldquo;You need to think [...] very carefully about what sort of information should be allowed on versus not.&rdquo;&nbsp;</p>
 
 <p>The platform, launched on the 10th of July, has been described by critics as a glorified snitching service, with concerns that it could dox innocent users. Platform users can place bounties for information related to specific blockchain transactions, which would then be made available after a period of 90 days.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[SEC Asked Coinbase To Trade Only In Bitcoin Before Suing Exchange]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/sec-asked-coinbase-to-trade-only-in-bitcoin-before-suing-exchange</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/coinbase-1450-4.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/coinbase-1450-4.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/coinbase-1450-4.jpg" length="528" type="image/jpg" />
-			  <pubDate>Mon, 31 Jul 2023 08:51:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/sec-asked-coinbase-to-trade-only-in-bitcoin-before-suing-exchange</guid>
-			  <description><![CDATA[<p>Coinbase CEO Brian Armstrong has revealed that the United States Securities and Exchange Commission (SEC) had asked Coinbase to halt all cryptocurrency trading, except that of Bitcoin.&nbsp;</p>
-<p>According to Armstrong, the SEC had requested this prior to suing the exchange for failing to register as a broker.</p>
-Delist Every Asset Apart From Bitcoin&nbsp;
-<p>The Coinbase CEO made the revelation in a detailed interview, stating that the Securities and Exchange Commission had made the request before suing the exchange. Armstrong added that the regulator approached the exchange, stating that they viewed every other asset apart from Bitcoin as a security and asking Coinbase to delist assets it viewed as securities. When Coinbase asked how the SEC came to that conclusion, the regulator declined to explain its interpretation of the law. Armstrong stated,&nbsp;</p>
-
-<p>&ldquo;They came back to us, and they said&hellip; we believe every asset other than Bitcoin is a security. And, we said, well, how are you coming to that conclusion, because that&rsquo;s not our interpretation of the law. And they said, we&rsquo;re not going to explain it to you; you need to delist every asset other than Bitcoin.&rdquo;</p>
-
-<p>According to the lawsuit filed by the Securities and Exchange Commission against Coinbase, it viewed 13 assets as securities. The assets in question are Solana (SOL), Polygon (MATIC), Cardano (ADA), FIL, SAND, AXS, ICP, NEAR, CHZ, DASH, VGX, and NEXO. The agency also accused Coinbase of failing to register with it as a broker, clearing agency, or national securities exchange. This, according to the SEC, meant that Coinbase was dodging the disclosure regime established by the United States Congress for the US securities markets.&nbsp;</p>
-Not Much Choice At That Point&nbsp;
-<p>Armstrong added that the exchange did not have much choice at the time. He added that if Coinbase had followed the Securities and Exchange Commission&rsquo;s instructions, it would set a wrong precedent and send out the wrong message. Coinbase accepting the SEC&rsquo;s instructions would have meant that most businesses and entities in the crypto space would have been deemed to be operating outside the law unless they had registered with the Securities and Exchange Commission. Armstrong added that delisting every asset apart from Bitcoin would have effectively ended the crypto industry in the United States.&nbsp;</p>
-
-<p>&ldquo;We really didn&rsquo;t [did not] have a choice at that point; delisting every asset other than Bitcoin, which by the way, is not what the law says, would have essentially meant the end of the crypto industry in the US. It kind of made it an easy choice&hellip; let&rsquo;s [let us] go to court and find out what the court says.&rdquo;</p>
-
-Ripple-SEC Case Provides Some Regulatory Clarity&nbsp;
-<p>The crypto industry in the United States has been asking the Securities and Exchange Commission for better regulatory clarity. While the SEC has not been forthcoming, the recent SEC-Ripple case ruling brought some much-needed clarity on the subject of security and non-security. In the Ripple-SEC case, the judge ruled that XRP is not a security. The asset&rsquo;s sale on exchanges, distribution to developers, sales by employees, and distribution to charities were all off the radar.&nbsp;</p>
-<p>However, the judge ruled that institutional sales of the XRP token were in violation of federal securities laws. After Ripple&rsquo;s partial victory, many experts and industry watchers believe the ruling would benefit the Coinbase lawsuit.&nbsp;</p>
-SEC And Coinbase: The Case So Far&nbsp;
-<p>The Securities and Exchange Commission had sued Coinbase in June, alleging that the exchange allowed investors and traders to purchase, sell, and trade crypto asset securities. The filing stated that Coinbase merged three functions typically separated in traditional markets: clearing agencies, brokers, and exchanges.&nbsp;</p>
-
-<p>&ldquo;Coinbase has never registered with the SEC as a broker, national securities exchange, or clearing agency, thus evading the disclosure regime that Congress has established for our securities markets.&rdquo;</p>
-
-<p>The Securities and Exchange Commission filed its lawsuit against Coinbase in the US District Court for the Southern District of New York. The lawsuit alleged that the exchange violated several registration provisions of the Securities Exchange Act of 1934 and the securities offering registration provisions included in the Securities Act of 1933. At the time, Gurbir S. Grewal, the director of the SEC&rsquo;s enforcement division, had stated,&nbsp;</p>
-
-<p>&ldquo;You simply can&rsquo;t ignore the rules because you don&rsquo;t like them or because you&rsquo;d prefer different ones: the consequences for the investing public are far too great.&rdquo;</p>
-
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>Coinbase CEO Brian Armstrong has revealed that the United States Securities and Exchange Commission (SEC) had asked Coinbase to halt all cryptocurrency trading, except that of Bitcoin.&nbsp;</p>
-<p>According to Armstrong, the SEC had requested this prior to suing the exchange for failing to register as a broker.</p>
-Delist Every Asset Apart From Bitcoin&nbsp;
-<p>The Coinbase CEO made the revelation in a detailed interview, stating that the Securities and Exchange Commission had made the request before suing the exchange. Armstrong added that the regulator approached the exchange, stating that they viewed every other asset apart from Bitcoin as a security and asking Coinbase to delist assets it viewed as securities. When Coinbase asked how the SEC came to that conclusion, the regulator declined to explain its interpretation of the law. Armstrong stated,&nbsp;</p>
-
-<p>&ldquo;They came back to us, and they said&hellip; we believe every asset other than Bitcoin is a security. And, we said, well, how are you coming to that conclusion, because that&rsquo;s not our interpretation of the law. And they said, we&rsquo;re not going to explain it to you; you need to delist every asset other than Bitcoin.&rdquo;</p>
-
-<p>According to the lawsuit filed by the Securities and Exchange Commission against Coinbase, it viewed 13 assets as securities. The assets in question are Solana (SOL), Polygon (MATIC), Cardano (ADA), FIL, SAND, AXS, ICP, NEAR, CHZ, DASH, VGX, and NEXO. The agency also accused Coinbase of failing to register with it as a broker, clearing agency, or national securities exchange. This, according to the SEC, meant that Coinbase was dodging the disclosure regime established by the United States Congress for the US securities markets.&nbsp;</p>
-Not Much Choice At That Point&nbsp;
-<p>Armstrong added that the exchange did not have much choice at the time. He added that if Coinbase had followed the Securities and Exchange Commission&rsquo;s instructions, it would set a wrong precedent and send out the wrong message. Coinbase accepting the SEC&rsquo;s instructions would have meant that most businesses and entities in the crypto space would have been deemed to be operating outside the law unless they had registered with the Securities and Exchange Commission. Armstrong added that delisting every asset apart from Bitcoin would have effectively ended the crypto industry in the United States.&nbsp;</p>
-
-<p>&ldquo;We really didn&rsquo;t [did not] have a choice at that point; delisting every asset other than Bitcoin, which by the way, is not what the law says, would have essentially meant the end of the crypto industry in the US. It kind of made it an easy choice&hellip; let&rsquo;s [let us] go to court and find out what the court says.&rdquo;</p>
-
-Ripple-SEC Case Provides Some Regulatory Clarity&nbsp;
-<p>The crypto industry in the United States has been asking the Securities and Exchange Commission for better regulatory clarity. While the SEC has not been forthcoming, the recent SEC-Ripple case ruling brought some much-needed clarity on the subject of security and non-security. In the Ripple-SEC case, the judge ruled that XRP is not a security. The asset&rsquo;s sale on exchanges, distribution to developers, sales by employees, and distribution to charities were all off the radar.&nbsp;</p>
-<p>However, the judge ruled that institutional sales of the XRP token were in violation of federal securities laws. After Ripple&rsquo;s partial victory, many experts and industry watchers believe the ruling would benefit the Coinbase lawsuit.&nbsp;</p>
-SEC And Coinbase: The Case So Far&nbsp;
-<p>The Securities and Exchange Commission had sued Coinbase in June, alleging that the exchange allowed investors and traders to purchase, sell, and trade crypto asset securities. The filing stated that Coinbase merged three functions typically separated in traditional markets: clearing agencies, brokers, and exchanges.&nbsp;</p>
-
-<p>&ldquo;Coinbase has never registered with the SEC as a broker, national securities exchange, or clearing agency, thus evading the disclosure regime that Congress has established for our securities markets.&rdquo;</p>
-
-<p>The Securities and Exchange Commission filed its lawsuit against Coinbase in the US District Court for the Southern District of New York. The lawsuit alleged that the exchange violated several registration provisions of the Securities Exchange Act of 1934 and the securities offering registration provisions included in the Securities Act of 1933. At the time, Gurbir S. Grewal, the director of the SEC&rsquo;s enforcement division, had stated,&nbsp;</p>
-
-<p>&ldquo;You simply can&rsquo;t ignore the rules because you don&rsquo;t like them or because you&rsquo;d prefer different ones: the consequences for the investing public are far too great.&rdquo;</p>
-
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
