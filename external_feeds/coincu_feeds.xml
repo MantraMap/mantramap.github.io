@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Sun, 30 Jul 2023 17:13:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Aug 2023 01:58:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,943 +29,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Series of Exploits Hit Curve Finance&#8217;s Liquidity Pools</title>
-		<link>https://coincu.com/207193-curve-finances-liquidity-pools/</link>
+		<title>US Judge Denies Terraform Labs Petition To Dismiss SEC Lawsuit</title>
+		<link>https://coincu.com/207525-us-judge-denies-terraform-labs-dismiss-sec/</link>
 		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 17:13:28 +0000</pubDate>
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 01:57:16 +0000</pubDate>
 				<category><![CDATA[News]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
 		<category><![CDATA[Blockchain]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Curve Finance]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207193</guid>
-
-					<description><![CDATA[Curve Finance, a prominent decentralized finance (DeFi) protocol, has been facing a wave of attacks on its liquidity pools, resulting in substantial losses for multiple projects. <p class="has-text-align-right"><a href="https://coincu.com/207193-curve-finances-liquidity-pools/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points</strong>:</p>
-
-
-
-<ul>
-<li><em>Curve Finance faces multiple exploits on its liquidity pools, resulting in significant losses for projects like Conic Finance, JPEG&#8217;d, Metronome, and Alchemix.</em></li>
-
-
-
-<li><em>Speculated reasons include vulnerabilities in programming language versions and manipulation of the &#8220;get_virtual_price&#8221; function, highlighting the need for enhanced security measures in the DeFi space.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Curve Finance, a prominent decentralized finance (DeFi) protocol, has been facing a wave of attacks on its liquidity pools, resulting in substantial losses for multiple projects.&nbsp;</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-1024x576.jpeg"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-1024x576.jpeg" alt="Series of Exploits Hit Curve Finance&#039;s Liquidity Pools" class="wp-image-207195" srcset="https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/hackeo-curve-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/hackeo-curve.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Series of Exploits Hit Curve Finance&#039;s Liquidity Pools 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The recent incidents, involving Conic Finance, JPEG&#8217;d, Metronome, and Alchemix, have raised concerns within the DeFi community. The string of attacks began with Conic Finance on July 21, where assets were drained due to a connection with LP Tokens on Curve Finance. Subsequently, on July 30, the Lending NFT JPEG&#8217;d project reported an exploit involving the pETH-ETH liquidity pool on Curve Finance, resulting in an $11 million loss.&nbsp;</p>
-
-
-
-<p>The same day, Metronome also suffered a $1.6 million loss following a similar exploit. Additionally, Alchemix&#8217;s alETH became a victim, experiencing an estimated $13.6 million loss linked to a liquidity pool on Curve.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/curve-launch-1024x538.jpeg"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/curve-launch-1024x538.jpeg" alt="Series of Exploits Hit Curve Finance&#039;s Liquidity Pools" class="wp-image-207197" srcset="https://coincu.com/wp-content/uploads/2023/07/curve-launch-1024x538.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/curve-launch-300x158.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/curve-launch-768x403.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/curve-launch-750x394.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/curve-launch-1140x599.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/curve-launch.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Series of Exploits Hit Curve Finance&#039;s Liquidity Pools 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>The exact reasons behind these exploits have not been fully disclosed at this time. However, the community has speculated two primary factors. First, vulnerabilities in versions 0.2.15/0.2.16/0.3.0 of the VyperLang programming language are suspected. These versions lack the Re-Entrancy anti-attack filter, enabling hackers to execute rounding attacks and withdraw funds from liquidity pools.</p>
-
-
-
-<p>The second conjecture, outlined in a ChainSecurity document, centers on <a href="https://coincu.com/193748-curve-finance-ceo-accused-of-fraud/">Curve Finance</a>&#8216;s &#8220;get_virtual_price&#8221; function. This function, determining the market price of LP Tokens, can potentially be manipulated by Re-Entrancy hackers to create a withdrawal loop and manipulate the oracle price index.</p>
-
-
-
-<p>Notably, the ChainSecurity document clarifies that this vulnerability does not impact Curve pools internally. Instead, it may affect platforms utilizing Curve&#8217;s LP Tokens as collateral, enabling false loan withdrawals.</p>
-
-
-
-<p>Curve Finance and affected projects are likely to collaborate closely with the community to analyze and address the root causes of these attacks. It is essential for the DeFi ecosystem to implement robust security measures and foster transparency to instill confidence in users and maintain the sustainable growth of the DeFi sector.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207193-curve-finances-liquidity-pools/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Final-Thumb-8-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established</title>
-		<link>https://coincu.com/207186-litecoin-price-jitters-ahead-of-halving/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 16:34:30 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Altcoins]]></category>
-		<category><![CDATA[analysis]]></category>
-		<category><![CDATA[Halving]]></category>
-		<category><![CDATA[Litecoin]]></category>
-		<category><![CDATA[LTC]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[price]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207186</guid>
-
-					<description><![CDATA[Litecoin's halving, reducing block rewards from 12.5 LTC to 6.25 LTC, is just four days away.<p class="has-text-align-right"><a href="https://coincu.com/207186-litecoin-price-jitters-ahead-of-halving/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Litecoin&#8217;s halving, reducing block rewards from 12.5 LTC to 6.25 LTC, is just four days away.</em></li>
-
-
-
-<li><em>LTC price action raises concerns about the bearish influence, despite the potential for the post-halving rise.</em></li>
-
-
-
-<li><em>Traders eye $100 milestone, but gradual rally is expected amid market uncertainty and growing interest in newer tokens.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>As Litecoin&#8217;s much-anticipated halving draws closer, crypto enthusiasts have high hopes for the blockchain&#8217;s future, while the overall sentiment in the market remains mixed. With just four days remaining until the halving event, excitement, and uncertainty are both evident in the crypto space.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-1024x683.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-1024x683.jpg" alt="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established" class="wp-image-207190" srcset="https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-1536x1024.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-2048x1365.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/iStock-934543354-1140x760.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established 3"></a><figcaption class="wp-element-caption">Crypto currency on gray wall</figcaption></figure></div>
-
-
-<p>Litecoin, often referred to as the &#8220;silver to Bitcoin&#8217;s gold,&#8221; has established itself as a prominent decentralized platform, offering rapid and cost-effective payment solutions. With its native cryptocurrency, LTC, Litecoin has gained popularity and traction as an efficient network for conducting transactions.</p>
-
-
-
-<p>The upcoming halving is expected to reduce the block rewards from 12.5 LTC to 6.25 LTC, potentially impacting the cryptocurrency&#8217;s price and overall market sentiment. However, amidst the excitement for LTC&#8217;s halving, its price action has been concerning, reflecting bearish influences ahead of the significant event.</p>
-
-
-
-<p>Recently, Litecoin&#8217;s price experienced a decline, reaching as low as $87 on July 24. However, it has since recovered to its current level of $89.26, showing a 2% drop in the past week. Over the last 14 days, LTC&#8217;s value declined by 8%. Despite these short-term fluctuations, the altcoin has made substantial gains of nearly 30% since the start of the year and an impressive 60% in the last 12 months.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2246.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2246-1024x576.png" alt="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established" class="wp-image-207191" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2246-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2246-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2246-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2246-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2246-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2246.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established 4"></a></figure></div>
-
-
-<p>With the halving approaching, many investors and analysts believe that LTC might witness another surge in price, potentially making it one of the most profitable major cryptocurrencies of the summer. Predictions indicate that the price could return to $100 over the next week and may even rise toward $150 by the end of the year, given a more bullish market.</p>
-
-
-
-<p>However, experts caution that LTC&#8217;s rise is likely to be gradual, and traders seeking quick turnarounds might explore newer tokens with significant short-term rally potential. The current price level of around $94.8 broke the bullish trend line from the $70.8 price area, indicating the presence of resistance at $95.4. This resistance could prove crucial as LTC seeks to climb above $100 or faces the possibility of dropping below the 61.8% Fibonacci retracement level at $87.6.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2244-1024x619.png"><img decoding="async" loading="lazy" width="1024" height="619" src="https://coincu.com/wp-content/uploads/2023/07/image-2244-1024x619.png" alt="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established" class="wp-image-207188" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2244-1024x619.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2244-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2244-768x465.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2244-1536x929.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2244-2048x1239.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2244-750x454.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2244-1140x690.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Litecoin Price Jitters Ahead Of Halving, $100 Price Zone Could Be Re-established 5"></a><figcaption class="wp-element-caption">LTC price chart. <em>Source: <a href="https://www.tradingview.com/chart/1EribfXh/?symbol=BINANCE%3ALTCUSDT&amp;utm_source=coinmarketcap.com&amp;utm_medium=widget&amp;utm_campaign=chart-logo&amp;utm_term=BINANCE%3ALTCUSDT" target="_blank" rel="noreferrer noopener">TradingView</a></em></figcaption></figure></div>
-
-
-<p>Traders will closely monitor the $97.8 price zone, where the bulls and bears are expected to compete fiercely. The outcome at this level may determine the direction of LTC&#8217;s next move. However, the recent bullish momentum, evident in the last three green candles, suggests a potential upcoming rally for Litecoin.</p>
-
-
-
-<p>As the market braces for Litecoin&#8217;s halving, the crypto community eagerly awaits to see how the event will unfold and its impact on the broader cryptocurrency landscape. While uncertainty prevails, many investors remain optimistic about LTC&#8217;s future as a prominent player in the crypto space.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207186-litecoin-price-jitters-ahead-of-halving/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2245-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Weekly Top Crypto News (July 24 – July 30)</title>
-		<link>https://coincu.com/207167-weekly-top-crypto-news-july-24-july-30/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 13:31:29 +0000</pubDate>
-				<category><![CDATA[Crypto Recap]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[highlights]]></category>
-		<category><![CDATA[HOT]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[WLD]]></category>
-		<category><![CDATA[Worldcoin]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207167</guid>
-
-					<description><![CDATA[The idea that US macroeconomic data has little influence on the crypto market was reinforced this week when Bitcoin stayed flat despite the Fed continuing to boost interest rates. <p class="has-text-align-right"><a href="https://coincu.com/207167-weekly-top-crypto-news-july-24-july-30/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<h5 class="wp-block-heading"><strong>The idea that US macroeconomic data has little influence on the crypto market was reinforced this week when Bitcoin stayed flat despite the Fed continuing to boost interest rates. Another highlight of the last week was the Worldcoin (WLD) launch event, which aims to identify users by scanning irises and then airdrop tokens. There are also a number of fresh updates from important projects and industry names, as well as connected legal action.</strong> <strong>Here, let&#8217;s review this week&#8217;s top crypto news with <a href="https://twitter.com/Coincuofficial" target="_blank" rel="noreferrer noopener">Coincu</a>!</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2242.png"><img decoding="async" loading="lazy" width="1024" height="577" src="https://coincu.com/wp-content/uploads/2023/07/image-2242-1024x577.png" alt="Weekly Top Crypto News (July 24 – July 30)" class="wp-image-207168" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2242-1024x577.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2242-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2242-768x433.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2242-750x423.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2242-1140x643.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2242.png 1197w" sizes="(max-width: 1024px) 100vw, 1024px" title="Weekly Top Crypto News (July 24 – July 30) 6"></a></figure></div>
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Worldcoin Token Launch Led By OpenAI CEO Sam Altman</h2>
-
-
-
-<p>The cryptocurrency community is buzzing with anticipation as Worldcoin, a new token co-founded by none other than Sam Altman, the CEO of OpenAI, is all set to make its debut on Monday. According to insiders familiar with the matter, the Worldcoin token is generating a lot of interest and excitement ahead of its official launch.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="jaeRKdiMWe"><a href="https://coincu.com/205302-worldcoin-token-openai-ceo-sam-altman/">Worldcoin Token Launch Led By OpenAI CEO Sam Altman</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Worldcoin Token Launch Led By OpenAI CEO Sam Altman&#8221; &#8212; CoinCu News" src="https://coincu.com/205302-worldcoin-token-openai-ceo-sam-altman/embed/#?secret=kR8GP2EqnQ#?secret=jaeRKdiMWe" data-secret="jaeRKdiMWe" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Worldcoin Announced WLD Tokenomics With 143 Million In Circulation</h2>
-
-
-
-<p>Worldcoin (WLD) reveals tokenomics with 75% community distribution, emphasizing wide token dispersal to unique human identities. Worldcoin&#8217;s mission focuses on building a public utility for the largest identity and financial network powered by World ID and WLD tokens. WLD&#8217;s fixed supply cap for 15 years, governance-controlled inflation after, and privacy-preserving identity network highlight Worldcoin&#8217;s innovative approach to cryptocurrency.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="SZO01sEnhm"><a href="https://coincu.com/205370-worldcoin-now-announced-wld-tokenomics/">Worldcoin Now Announced WLD Tokenomics With 143 Million In Circulation</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Worldcoin Now Announced WLD Tokenomics With 143 Million In Circulation&#8221; &#8212; CoinCu News" src="https://coincu.com/205370-worldcoin-now-announced-wld-tokenomics/embed/#?secret=CBDr2hvAji#?secret=SZO01sEnhm" data-secret="SZO01sEnhm" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns</h2>
-
-
-
-<p>The UK’s data regulator, the Information Commissioner’s Office (ICO), is launching an investigation into Worldcoin, a crypto project led by OpenAI CEO Sam Altman, which offers free cryptocurrency in exchange for users’ iris scans.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="a5OovSPx7K"><a href="https://coincu.com/205796-uk-data-watchdog-worldcoin-crypto-privacy/">UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;UK Data Watchdog To Investigate Worldcoin Crypto Project Over Privacy Concerns&#8221; &#8212; CoinCu News" src="https://coincu.com/205796-uk-data-watchdog-worldcoin-crypto-privacy/embed/#?secret=qDVlfWFVct#?secret=a5OovSPx7K" data-secret="a5OovSPx7K" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Litecoin Halving, But LTC Only Rose 30%</h2>
-
-
-
-<p>Litecoin is expected to be halved on August 3, 2023, less than a week, with about 3,574 blocks remaining. After the halving, the Litecoin block reward will be reduced from 12.5 LTC to 6.25 LTC. BTC has risen by 78% since the beginning of the year; despite Litecoin Halving, LTC only rose 30%.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="BZEjWaZ8GV"><a href="https://coincu.com/206566-6-days-to-litecoin-halving-but-ltc-only-rose-30/">6 Days To Litecoin Halving, But LTC Only Rose 30%</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;6 Days To Litecoin Halving, But LTC Only Rose 30%&#8221; &#8212; CoinCu News" src="https://coincu.com/206566-6-days-to-litecoin-halving-but-ltc-only-rose-30/embed/#?secret=0uVDzBtPix#?secret=BZEjWaZ8GV" data-secret="BZEjWaZ8GV" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Dogecoin Rises 8% After Elon Musk’s Promotion Of DogeDesigner Video</h2>
-
-
-
-<p>The price of Dogecoin (DOGE) surged more than 8% in the past 24 hours after receiving momentum from avid fan Elon Musk. Musk retweeted a video tweet related to the new Logo X on Twitter shared by DogeDesigner. Earlier, the Twitter boss said he wanted to remove the bird icon on Twitter and replace it with an “X”.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="OPZ4qxYcGY"><a href="https://coincu.com/205945-dogecoin-rises-8-after-elon-musks-promotion/">Dogecoin Rises 8% After Elon Musk&#8217;s Promotion Of DogeDesigner Video</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Dogecoin Rises 8% After Elon Musk&#8217;s Promotion Of DogeDesigner Video&#8221; &#8212; CoinCu News" src="https://coincu.com/205945-dogecoin-rises-8-after-elon-musks-promotion/embed/#?secret=SLC3zmFMsJ#?secret=OPZ4qxYcGY" data-secret="OPZ4qxYcGY" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Metamask Integrates Linea L2 Network For Cost-Effective Deposits</h2>
-
-
-
-<p>Metamask now integrates the Linea L2 network, developed by ConsenSys, to enhance user experience and transaction efficiency. Linea L2 aims to provide a more cost-effective and efficient environment for dApps and transactions, and its integration with Metamask is expected to drive greater adoption. Within just a week of launch, Linea ETH Bridge saw over 11,000 ETHs deposited, demonstrating confidence in the platform and its potential to lower transaction costs and alleviate congestion on the Ethereum mainnet.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="XAQCsKKDhN"><a href="https://coincu.com/206135-metamask-integrates-linea-l2-network-deposits/">Metamask Integrates Linea L2 Network For Cost-Effective Deposits</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Metamask Integrates Linea L2 Network For Cost-Effective Deposits&#8221; &#8212; CoinCu News" src="https://coincu.com/206135-metamask-integrates-linea-l2-network-deposits/embed/#?secret=Ut94JFyZvE#?secret=XAQCsKKDhN" data-secret="XAQCsKKDhN" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">PancakeSwap v3 Launches on zksync Era!</h2>
-
-
-
-<p>PancakeSwap v3 on Zksync Era: exciting new features and benefits for DeFi users, including lightning-fast transaction speeds and significantly reduced gas fees. Farming delights and IFOs add an extra layer of excitement, with rewarding opportunities and early access to promising new tokens. PancakeSwap’s commitment to innovation and user satisfaction solidifies its position as a leading DeFi platform.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="ZLWfSPqS0E"><a href="https://coincu.com/206712-pancakeswap-v3-launches-on-zksync-era/">PancakeSwap v3 Launches on zksync Era!</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;PancakeSwap v3 Launches on zksync Era!&#8221; &#8212; CoinCu News" src="https://coincu.com/206712-pancakeswap-v3-launches-on-zksync-era/embed/#?secret=1H1rpoiU0L#?secret=ZLWfSPqS0E" data-secret="ZLWfSPqS0E" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">EraLend Publishes The Progress Of The Attack With 8 Suspicious Addresses</h2>
-
-
-
-<p>EraLend&#8217;s zkSync protocol attacked, losing $3.4 million. Attackers dispersed funds across 3 blockchains, 8 addresses. The protocol seeks community help, and suspends operations temporarily.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="tYvnRrmAnv"><a href="https://coincu.com/205973-eralend-publishes-the-progress-of-the-attack/">EraLend Publishes The Progress Of The Attack With 8 Suspicious Addresses</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;EraLend Publishes The Progress Of The Attack With 8 Suspicious Addresses&#8221; &#8212; CoinCu News" src="https://coincu.com/205973-eralend-publishes-the-progress-of-the-attack/embed/#?secret=Xs0MUDH7zG#?secret=tYvnRrmAnv" data-secret="tYvnRrmAnv" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">MakerDAO Adopts Enhanced DAI Savings Rate Proposal With 99.93% Support</h2>
-
-
-
-<p>MakerDAO’s proposal to increase the DAI savings rate has been approved and the interest rate will temporarily increase to 8%. The vote received almost absolute support from the community (99.93% of the community agreed). EDSR is determined based on DSR and DSR usage rate and decreases over time as usage increases, until EDSR eventually disappears when usage is high enough.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="BvnBHIyUhI"><a href="https://coincu.com/206670-makerdao-adopts-enhanced-dai-savings-rate/">MakerDAO Adopts Enhanced DAI Savings Rate Proposal With 99.93% Support</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;MakerDAO Adopts Enhanced DAI Savings Rate Proposal With 99.93% Support&#8221; &#8212; CoinCu News" src="https://coincu.com/206670-makerdao-adopts-enhanced-dai-savings-rate/embed/#?secret=bUrS7eGyel#?secret=BvnBHIyUhI" data-secret="BvnBHIyUhI" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Arkham Supports Users Registering Unique Usernames</h2>
-
-
-
-<p>Arkham announced its latest feature to help users register unique usernames on the platform. According to the announcement, usernames are unique that will be used for more features to be announced in the future. The username can only be claimed once.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="ItGebSK7BT"><a href="https://coincu.com/206356-arkham-registering-unique-usernames/">Arkham Supports Users Registering Unique Usernames</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Arkham Supports Users Registering Unique Usernames&#8221; &#8212; CoinCu News" src="https://coincu.com/206356-arkham-registering-unique-usernames/embed/#?secret=bWI2R2CvU6#?secret=ItGebSK7BT" data-secret="ItGebSK7BT" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports</h2>
-
-
-
-<p>Cryptocurrency heist at Alphapo: $60M stolen. Intricate web of transactions and sophisticated operation. Collaboration needed to combat rising threats in the crypto space.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="Xfp33Tocke"><a href="https://coincu.com/205773-alphapo-hot-wallet-losses-surge-to-60m-zachxbt/">Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Alphapo Hot Wallet Losses Surge to $60M, ZachXBT Reports&#8221; &#8212; CoinCu News" src="https://coincu.com/205773-alphapo-hot-wallet-losses-surge-to-60m-zachxbt/embed/#?secret=xBFIYuccbF#?secret=Xfp33Tocke" data-secret="Xfp33Tocke" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Kannagi Finance&#8217;s $2 Million User Losses Is Being Shifted To Tornado Cash</h2>
-
-
-
-<p>Kannagi Finance, a revenue aggregator protocol on zkSync Era, executed a rug pull, resulting in over $2 million in losses for users. Funds from the Kannagi Rug were sent to Tornado Cash in a transaction involving 600 ETH (approx. $1.13 million). The protocol&#8217;s total value locked (TVL) collapsed from $2.13 million to near zero, and the native token KANA&#8217;s value nosedived, leaving investors reeling from the shock.</p>
-
-
-
-<figure class="wp-block-embed is-type-wp-embed is-provider-coincu-news wp-block-embed-coincu-news"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="ZpERf5lMee"><a href="https://coincu.com/207129-kannagi-finances-2-million-user-losses/">Kannagi Finance&#8217;s $2 Million User Losses Is Being Shifted To Tornado Cash</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Kannagi Finance&#8217;s $2 Million User Losses Is Being Shifted To Tornado Cash&#8221; &#8212; CoinCu News" src="https://coincu.com/207129-kannagi-finances-2-million-user-losses/embed/#?secret=C6VsiPZBCz#?secret=ZpERf5lMee" data-secret="ZpERf5lMee" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div></figure>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207167-weekly-top-crypto-news-july-24-july-30/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2243-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Gucci Unveils Exclusive Gucci Vault Material NFT Physical Exchange On 10KTF.shop</title>
-		<link>https://coincu.com/207161-gucci-vault-material-nft-10ktf-shop/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 09:20:53 +0000</pubDate>
-				<category><![CDATA[NFT]]></category>
-		<category><![CDATA[gucci]]></category>
-		<category><![CDATA[Gucci Vault]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207161</guid>
-
-					<description><![CDATA[The Vault Material NFT physical exchange function has been launched by Gucci.<p class="has-text-align-right"><a href="https://coincu.com/207161-gucci-vault-material-nft-10ktf-shop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Gucci launches a physical exchange for its Vault Material NFTs on 10KTF.shop, offering wallets and joint luggage bags as rewards.</em></li>
-
-
-
-<li><em>The move highlights Gucci&#8217;s embrace of NFT technology, providing fans with a unique opportunity to own luxury products with digital collectible value.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The Vault Material NFT physical exchange function has been launched by Gucci.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/GUCCI--1024x853.jpeg"><img decoding="async" loading="lazy" width="1024" height="853" src="https://coincu.com/wp-content/uploads/2023/07/GUCCI--1024x853.jpeg" alt="Gucci Unveils Exclusive Gucci Vault Material NFT Physical Exchange On 10KTF.shop" class="wp-image-207163" srcset="https://coincu.com/wp-content/uploads/2023/07/GUCCI--1024x853.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/GUCCI--300x250.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/GUCCI--768x640.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/GUCCI--750x625.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/GUCCI--1140x950.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/GUCCI-.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gucci Unveils Exclusive Gucci Vault Material NFT Physical Exchange On 10KTF.shop 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Gucci, a renowned brand under the Kering Group, has taken a significant leap into the world of NFTs (Non-Fungible Tokens) with the launch of its Vault Material NFT physical exchange function on the partner platform, 10KTF.shop. After months of anticipation surrounding the 2,896 NFTs minted in March, the brand enthusiasts can now redeem their NFTs for premium Gucci products.</p>
-
-
-
-<p>The redemption function allows users to exchange 1 NFT for a sleek and stylish wallet, while 3 NFTs can be traded for a coveted Gucci x 10KTF joint luggage bag. The copywriting team adds a playful touch to the description, calling the duffle &#8220;baggage you&#8217;ll want to carry,&#8221; and the wallet a secure option that &#8220;does not require a seed phrase.&#8221;</p>
-
-
-
-<p>A cost comparison reveals that the joint luggage bag proves to be the more favorable option for Gucci fans and collectors. While an identical-looking wallet on the brand&#8217;s e-commerce site retails for $460, a similar version of the joint luggage bag without the 10KTF logo is priced at $1790.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-1024x576.jpeg" alt="Gucci Unveils Exclusive Gucci Vault Material NFT Physical Exchange On 10KTF.shop" class="wp-image-207164" srcset="https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-1536x864.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/Gucci-metaverse.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Gucci Unveils Exclusive Gucci Vault Material NFT Physical Exchange On 10KTF.shop 8"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>Notably, on the popular NFT marketplace, Opensea, the <a href="https://coincu.com/178403-gucci-yuga-labs-kodapendant-nft-necklace/">Gucci</a> Vault Material NFT is currently trading at 0.22ETH, approximately $412. Given its co-branded status with 10KFT, the bag holds additional rarity value, offering a unique and exclusive appeal to its owners.</p>
-
-
-
-<p>The NFT was initially rewarded to participants in a 10KTF mission in Battle Town, where access required a Gucci Grail NFT. Participants were then airdropped the exclusive NFT as a special recognition of their involvement.</p>
-
-
-
-<p>The brand&#8217;s foray into NFTs signifies the brand&#8217;s eagerness to embrace innovative technologies and explore novel ways of engaging with its audience. By introducing this physical exchange function, the firm creates an exciting avenue for its fans to own tangible luxury products linked to the world of blockchain and digital collectibles.</p>
-
-
-
-<p>As the NFT space continues to gain momentum and interest, the Gucci Vault Material NFT exchange on 10KTF.shop provides a glimpse into the evolving intersection of luxury brands and blockchain technology, promising an exciting future for digital and physical collectibles alike.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207161-gucci-vault-material-nft-10ktf-shop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Final-Thumb-7-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Ethereum Certification Service EAS Achieves Native Integration With OP Stack</title>
-		<link>https://coincu.com/207155-ethereum-eas-native-integration-op-stack/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 08:46:40 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[OP Stack]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207155</guid>
-
-					<description><![CDATA[Exciting developments in the world of blockchain certification, as the Ethereum Attestation Service (EAS) announces the successful native integration with OP Stack. <p class="has-text-align-right"><a href="https://coincu.com/207155-ethereum-eas-native-integration-op-stack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Ethereum Attestation Service (EAS) achieves native integration with OP Stack, bolstering trust certification in Superchain.</em></li>
-
-
-
-<li><em>This milestone sets new standards for information verification and trust establishment, driving wider adoption of certification practices in the blockchain ecosystem.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Exciting developments in the world of blockchain certification, as the Ethereum Attestation Service (EAS) announces the successful native integration with OP Stack.&nbsp;</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/Screen-Shot-2022-05-27-at-3.49.18-PM.png"><img decoding="async" loading="lazy" width="707" height="408" src="https://coincu.com/wp-content/uploads/2023/07/Screen-Shot-2022-05-27-at-3.49.18-PM.png" alt="Ethereum Certification Service EAS Achieves Native Integration With OP Stack" class="wp-image-207157" srcset="https://coincu.com/wp-content/uploads/2023/07/Screen-Shot-2022-05-27-at-3.49.18-PM.png 707w, https://coincu.com/wp-content/uploads/2023/07/Screen-Shot-2022-05-27-at-3.49.18-PM-300x173.png 300w" sizes="(max-width: 707px) 100vw, 707px" title="Ethereum Certification Service EAS Achieves Native Integration With OP Stack 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>With this milestone achievement, all future OP Stack chains will automatically feature the Genesis EAS contract. EAS highlights that this integration will play a crucial role in establishing trust certification as a foundational element in Superchain. Not only will it drive the adoption of certification practices within the Superchain ecosystem, but it will also set new industry standards for information verification and trust establishment.</p>
-
-
-
-<p>By seamlessly integrating EAS into OP Stack, Superchain takes a significant step forward in ensuring the authenticity and integrity of data and transactions. Trust certification becomes an integral part of the blockchain, providing users with greater confidence in the information they interact with.</p>
-
-
-
-<p>The native integration with <a href="https://coincu.com/205141-op-stack-vs-zk-stack/">OP Stack</a> opens up new possibilities for decentralized applications (dApps) and smart contracts built on the Superchain network. The utilization of EAS as a trust certification service paves the way for more secure, reliable, and transparent interactions within the blockchain ecosystem.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923.jpeg"><img decoding="async" loading="lazy" width="1000" height="563" src="https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923.jpeg" alt="Ethereum Certification Service EAS Achieves Native Integration With OP Stack" class="wp-image-207158" srcset="https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923.jpeg 1000w, https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/f67897c3-shutterstock_2196437923-750x422.jpeg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Ethereum Certification Service EAS Achieves Native Integration With OP Stack 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>EAS&#8217;s dedication to enhancing trust and credibility within the blockchain space aligns with the broader industry goals of promoting decentralized technologies and fostering trust among users. As the landscape of Ethereum blockchain applications continues to expand, trust establishment becomes paramount for wider adoption and integration of blockchain solutions in various industries.</p>
-
-
-
-<p>With EAS&#8217;s Genesis contract now automatically included in all future OP Stack chains, users and developers can expect enhanced trust and security in their interactions on Superchain. This integration is expected to drive greater interest and participation from various stakeholders, bolstering the growth and development of Superchain as a reliable and scalable blockchain platform.</p>
-
-
-
-<p>As the blockchain community welcomes this milestone achievement, EAS&#8217;s native integration with OP Stack sets the stage for exciting advancements in trust certification and information verification, revolutionizing the way users engage with decentralized applications and paving the way for a more trustworthy and interconnected digital future.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207155-ethereum-eas-native-integration-op-stack/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Final-Thumb-6-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Peru Cracks Down On Crypto Crimes: New Decree Sets Stage For Industry Regulation</title>
-		<link>https://coincu.com/207131-peru-takes-the-lead/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 05:12:25 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[AML]]></category>
-		<category><![CDATA[Banco do Brasil]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[CBDC]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[FATF]]></category>
-		<category><![CDATA[Peru]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207131</guid>
-
-					<description><![CDATA[Peru issues a decree to regulate the crypto industry and combat money laundering and terrorism financing.<p class="has-text-align-right"><a href="https://coincu.com/207131-peru-takes-the-lead/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Peru issues a decree to regulate the crypto industry and combat money laundering and terrorism financing.</em></li>
-
-
-
-<li><em>Crypto exchanges are required to adhere to anti-money laundering rules and report to UIF-Peru.</em></li>
-
-
-
-<li><em>Other South American countries follow suit in regulating digital assets.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>In a bid to tackle the growing concerns of money laundering and terrorist financing related to cryptocurrencies, the government of Peru has taken a significant step forward by issuing a new decree that mandates the regulation of the crypto industry. The decree, which closely follows the recommendations of the Financial Action Task Force (FATF), requires all crypto exchanges operating in Peru to comply with stringent anti-money laundering (AML) regulations, according to <em><a href="https://www.coingraph.news/peru-takes-action-against-crypto-money-laundering-and-terror-financing/" target="_blank" rel="noreferrer noopener">Coingraph</a></em>.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2239-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2239-1024x576.png" alt="Peru Cracks Down On Crypto Crimes: New Decree Sets Stage For Industry Regulation" class="wp-image-207146" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2239-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2239-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2239-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2239-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2239-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2239.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Peru Cracks Down On Crypto Crimes: New Decree Sets Stage For Industry Regulation 11"></a></figure></div>
-
-
-<p>Under the new regulations, virtual asset service providers, including individuals and companies within <a href="https://coincu.com/178941-peru-promotes-exploration-cbdc/" target="_blank" rel="noreferrer noopener">Peru</a>, are now obligated to report crucial information to the Financial Intelligence Unit (UIF-Peru). This move is aimed at bolstering the country&#8217;s financial system and safeguarding it from illicit activities that might exploit the anonymity often associated with cryptocurrencies.</p>
-
-
-
-<p>One of the key focal points of the decree is the FATF&#8217;s &#8220;travel rule,&#8221; which underscores the need for implementing robust Know Your Customer (KYC) standards within the cryptocurrency ecosystem. By adhering to the <a href="https://coincu.com/190856-bitflyer-restricts-crypto-transfers/" target="_blank" rel="noreferrer noopener">travel rule</a>, exchanges are required to collect and share customer data, thereby enhancing transparency and thwarting potential financial crimes.</p>
-
-
-
-<p>The decree, which has already come into effect, is expected to have a considerable impact on the crypto industry in Peru. Stakeholders, including crypto exchanges and other virtual asset service providers, are now faced with the challenge of boosting their compliance efforts to align with the new regulations and foster a secure environment for cryptocurrency transactions.</p>
-
-
-
-<p>However, the decree has not been without its share of controversy. The Blockchain &amp; DLT Association of Peru (ABPE), a community representing professionals and enthusiasts advocating for the adoption of crypto and blockchain technology, has expressed discontent. The ABPE argues that they were not consulted or involved in the drafting of the proposal, and they are now urging Congress to initiate a dialogue with representatives from the cryptocurrency ecosystem to ensure that all perspectives are taken into account during the regulatory process.</p>
-
-
-
-<p>Despite this dissenting voice, the Peruvian government remains steadfast in its commitment to addressing the potential risks associated with cryptocurrencies. As other South American countries, such as Brazil and Argentina, also begin to regulate their crypto and digital asset industries, Peru&#8217;s move is in line with a regional trend toward enhancing oversight and compliance within the crypto space.</p>
-
-
-
-<p>In a broader context, several other countries worldwide are exploring ways to regulate the cryptocurrency landscape and mitigate potential risks. For example, <a href="https://coincu.com/190038-brazils-central-bank-cbdc-institutions/" target="_blank" rel="noreferrer noopener">Banco do Brasil</a> recently announced plans to launch a Central Bank Digital Currency (CBDC) in 2024, signaling the nation&#8217;s intent to embrace digital currencies. Similarly, Argentina&#8217;s securities regulator, the Comision Nacional de Valores (CNV), has approved the regulation of Bitcoin futures contracts on the Matba Rofex exchange, enabling investors to gain exposure to Bitcoin&#8217;s price without owning the underlying asset.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2240-1024x599.png"><img decoding="async" loading="lazy" width="1024" height="599" src="https://coincu.com/wp-content/uploads/2023/07/image-2240-1024x599.png" alt="Peru Cracks Down On Crypto Crimes: New Decree Sets Stage For Industry Regulation" class="wp-image-207147" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2240-1024x599.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2240-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2240-768x449.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2240-750x439.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2240-1140x667.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2240.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Peru Cracks Down On Crypto Crimes: New Decree Sets Stage For Industry Regulation 12"></a></figure></div>
-
-
-<p>In a collaborative effort to set global crypto standards and explore Central Bank Digital Currencies, the United Kingdom and Singapore have joined forces. This signals a growing recognition among nations worldwide of the importance of adopting regulatory frameworks that promote both innovation and accountability in the evolving cryptocurrency landscape.</p>
-
-
-
-<p>As the Peruvian government&#8217;s new decree comes into force and the country&#8217;s crypto industry adjusts to the enhanced regulatory landscape, all eyes will be on the outcomes and impact of these measures in the broader fight against financial crimes and the promotion of a safe and thriving digital economy.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207131-peru-takes-the-lead/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2241-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Kannagi Finance&#8217;s $2 Million User Losses Is Being Shifted To Tornado Cash</title>
-		<link>https://coincu.com/207129-kannagi-finances-2-million-user-losses/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sun, 30 Jul 2023 04:28:52 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[KANA]]></category>
-		<category><![CDATA[Kannagi Finance]]></category>
-		<category><![CDATA[Tornado cash]]></category>
-		<category><![CDATA[zkSync Era]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207129</guid>
-
-					<description><![CDATA[Kannagi Finance, a revenue aggregator protocol on zkSync Era, executed a rug pull, resulting in over $2 million in losses for users.<p class="has-text-align-right"><a href="https://coincu.com/207129-kannagi-finances-2-million-user-losses/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Kannagi Finance, a revenue aggregator protocol on zkSync Era, executed a rug pull, resulting in over $2 million in losses for users.</em></li>
-
-
-
-<li><em>Funds from the Kannagi Rug were sent to Tornado Cash in a transaction involving 600 ETH (approx. $1.13 million).</em></li>
-
-
-
-<li><em>The protocol&#8217;s total value locked (TVL) collapsed from $2.13 million to near zero, and the native token KANA&#8217;s value nosedived, leaving investors reeling from the shock.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>In a shocking turn of events, Kannagi Finance, a revenue aggregator protocol operating on zkSync Era, has been reported to have carried out a rug pull, causing substantial losses to its users.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2236-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2236-1024x576.png" alt="Kannagi Finance&#039;s $2 Million User Losses Is Being Redirected To Tornado Cash" class="wp-image-207132" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2236-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2236-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2236-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2236-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2236-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2236.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kannagi Finance&#039;s $2 Million User Losses Is Being Shifted To Tornado Cash 13"></a></figure></div>
-
-
-<p>The incident was flagged by the crypto tracking company MistTrack, which revealed that funds from the Kannagi Rug had been funneled to <a href="https://coincu.com/190315-tornado-cash-attackers-surrender-governance/" target="_blank" rel="noreferrer noopener">Tornado Cash</a> in a transaction involving 600 ETH, valued at approximately $1.13 million based on current market prices.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Looks like funds from the Kannagi Rug was just sent to <a href="https://twitter.com/TornadoCash?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@TornadoCash</a>. <br><br>600 ETH (~$1.13M) was recently to TC, we&#39;ll continue to monitoring and provide update on this investigation! <a href="https://t.co/W2n8RLAK6H" target="_blank">https://t.co/W2n8RLAK6H</a> <a href="https://t.co/uwh5B1QouH" target="_blank">pic.twitter.com/uwh5B1QouH</a></p>&mdash; MistTrack<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f575.png" alt="🕵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@MistTrack_io) <a href="https://twitter.com/MistTrack_io/status/1685444429325197312?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 30, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>As the community reels from the fallout, the project&#8217;s native token KANA has experienced a sharp decline in value, and the once-thriving protocol&#8217;s total value locked (TVL) has <a href="https://defillama.com/protocol/kannagi-finance" target="_blank" rel="noreferrer noopener">plummeted</a> from $2.13 million to near zero, amounting to a staggering $2 million in user losses.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57.png"><img decoding="async" loading="lazy" width="1024" height="317" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-1024x317.png" alt="Kannagi Finance&#039;s $2 Million User Losses Is Being Redirected To Tornado Cash" class="wp-image-207134" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-1024x317.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-300x93.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-768x238.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-1536x475.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-2048x634.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-750x232.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-07-30-at-11.17.57-1140x353.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Kannagi Finance&#039;s $2 Million User Losses Is Being Shifted To Tornado Cash 14"></a></figure></div>
-
-
-<p>Kannagi Finance, a DeFi protocol operating on the Ethereum Layer 2 network scaling solution, zkSync, emerged just a month ago with the ambitious promise of providing high yields for stablecoin deposits and lending. The project quickly gained immense popularity within the zkSync community for its potential to bring popular DeFi features to the platform. The enticing prospect of maximum returns with low fees/slippage attracted a sizable number of investors, leading to the protocol&#8217;s TVL reaching $2.22 million on July 24.</p>
-
-
-
-<p>However, the optimism surrounding Kannagi Finance soon turned to despair as reports of a suspected rug pull surfaced. Data from DeFi TVL aggregator DefiLlama indicated that the project&#8217;s developers allegedly pulled over $2 million worth of user funds, vanishing without a trace. The official website of the protocol has allegedly expired, and attempts to reach out through social media, including the official Twitter account, have proven futile, raising suspicions of an exit scam.</p>
-
-
-
-<p>Prior to its launch, Kannagi Finance claimed to offer a distinct experience from other yield farming protocols, vowing to provide users with the best yield and trading fee rewards through its KANA tokens. Although the protocol underwent an audit on June 6, conducted by SolidProof, an audit agency affiliated with Germany-based Make Network, the smart contract code remained closed-source and unverified. This lack of transparency has cast a shadow over the project&#8217;s integrity, as users question the authenticity of the audit.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/F2LIdCJbsAAVPqL.png"><img decoding="async" loading="lazy" width="511" height="584" src="https://coincu.com/wp-content/uploads/2023/07/F2LIdCJbsAAVPqL.png" alt="Kannagi Finance&#039;s $2 Million User Losses Is Being Redirected To Tornado Cash" class="wp-image-207135" srcset="https://coincu.com/wp-content/uploads/2023/07/F2LIdCJbsAAVPqL.png 511w, https://coincu.com/wp-content/uploads/2023/07/F2LIdCJbsAAVPqL-263x300.png 263w" sizes="(max-width: 511px) 100vw, 511px" title="Kannagi Finance&#039;s $2 Million User Losses Is Being Shifted To Tornado Cash 15"></a></figure></div>
-
-
-<p>Rug pulls have become a lamentably common occurrence in the cryptocurrency space, with many investors falling victim to exit scams. In the past year alone, Chainalysis reported that rug pulls accounted for the theft of over $2.8 billion worth of cryptocurrency. The incident with Kannagi Finance adds to the growing concern about the security and trustworthiness of decentralized platforms and projects.</p>
-
-
-
-<p>With <a href="https://coincu.com/187304-top-5-new-projects-on-zksync-era-ecosystem/" target="_blank" rel="noreferrer noopener">zkSync Era</a> gaining considerable interest as one of the leading layer-2 platforms, it has also become a prime target for scams and security attacks. Recently, <a href="https://coincu.com/205973-eralend-publishes-the-progress-of-the-attack/" target="_blank" rel="noreferrer noopener">Era Lend</a> experienced a significant exploit, resulting in a loss of $3.4 million. The frequency of such incidents underscores the need for robust security measures and thorough due diligence within the DeFi ecosystem.</p>
-
-
-
-<p>As the aftermath of the Kannagi Finance rug pull continues to unfold, the DeFi community remains on high alert for potential scams and fraudulent activities. The incident serves as a stark reminder of the importance of conducting comprehensive audits, maintaining transparency, and adhering to best practices to ensure the safety of user funds in the rapidly evolving world of decentralized finance. MistTrack, the blockchain analytics firm, will closely monitor the situation, providing updates on their investigation into this unfortunate exploit that has left investors in financial distress.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207129-kannagi-finances-2-million-user-losses/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2238-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>US Lawmakers Challenge Apple&#8217;s Crypto App Store Policies</title>
-		<link>https://coincu.com/207099-us-lawmakers-challenge-apple/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sat, 29 Jul 2023 06:32:44 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[app store]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Damus]]></category>
-		<category><![CDATA[Gus Bilirakis]]></category>
-		<category><![CDATA[Jan Schakowsky]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[Paul Grewal]]></category>
-		<category><![CDATA[Tim Cook]]></category>
-		<category><![CDATA[US lawmakers]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207099</guid>
-
-					<description><![CDATA[US lawmakers, Gus Bilirakis, and Jan Schakowsky, initiate a bipartisan inquiry into Apple's App Store crypto policies.<p class="has-text-align-right"><a href="https://coincu.com/207099-us-lawmakers-challenge-apple/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>US lawmakers, Gus Bilirakis, and Jan Schakowsky, initiate a bipartisan inquiry into Apple&#8217;s App Store crypto policies.</em></li>
-
-
-
-<li><em>Concerns were </em>raised over the <em>potential restriction of blockchain and NFT technologies, threatening US tech industry leadership.</em></li>
-
-
-
-<li><em>Coinbase&#8217;s Chief Legal Officer and Blockchain Association CEO support the investigation, seeking clarity on the impact of guidelines on crypto-related applications.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>In a significant move, two US lawmakers, Republican Congressman Gus Bilirakis and Democratic Congresswoman Jan Schakowsky, have jointly <a href="https://bilirakis.house.gov/sites/evo-subsites/bilirakis.house.gov/files/evo-media-document/23.07.28-apple-app-store-blockchain-letter_0.pdf" target="_blank" rel="noreferrer noopener">addressed</a> a letter to Apple CEO Tim Cook, expressing concerns about the App Store&#8217;s restrictive policies regarding cryptocurrency-related applications.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2233-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2233-1024x576.png" alt="U.S. Lawmakers Question Apple About App Store’s Restrictive Crypto Policies" class="wp-image-207122" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2233-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2233-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2233-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2233-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2233-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2233.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="US Lawmakers Challenge Apple&#039;s Crypto App Store Policies 16"></a></figure></div>
-
-
-<p>The bipartisan initiative aims to seek clarity on how the guidelines may be influencing emerging technologies like blockchain and non-fungible tokens (NFTs), potentially hindering the progress of the United States in this rapidly evolving field.</p>
-
-
-
-<p>Representative Bilirakis and Congresswoman Schakowsky, who also hold positions as Chairman and Ranking Member of the Innovation, Data, and Commerce Subcommittee, raised doubts about the tech giant&#8217;s intentions with regard to these emerging technologies. They suspect that the guidelines may inadvertently be used to suppress innovations in the blockchain and NFT space, which could have adverse effects on the country&#8217;s leadership in the tech industry.</p>
-
-
-
-<p>The letter to Tim Cook specifically calls for transparency and requests documents relating to Apple&#8217;s policies concerning its <a href="https://coincu.com/205598-apple-store-appears-scam-program-users-beware/" target="_blank" rel="noreferrer noopener">iOS App Store</a>. The lawmakers emphasize the importance of supporting and fostering blockchain, NFTs, and other distributed ledger technologies to ensure the continued growth of the US technology sector.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2232.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2232-1024x576.png" alt="U.S. Lawmakers Question Apple About App Store’s Restrictive Crypto Policies" class="wp-image-207121" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2232-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2232-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2232-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2232-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2232-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2232-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2232.png 1960w" sizes="(max-width: 1024px) 100vw, 1024px" title="US Lawmakers Challenge Apple&#039;s Crypto App Store Policies 17"></a></figure></div>
-
-
-<p>In addition to seeking information about Apple&#8217;s approach to these technologies, the letter poses questions about the company&#8217;s own plans to develop apps utilizing blockchain technology. The lawmakers are also troubled by the possibility that Apple&#8217;s App Store policies might be prioritizing the company&#8217;s revenue over the interests of cryptocurrency-related applications.</p>
-
-
-
-<p>Bilirakis and Schakowsky stressed the significance of understanding the App Store Guidelines fully and evaluating how they might impact innovation and America&#8217;s position as a technology leader.</p>
-
-
-
-<p>In response to the inquiry, Apple has been given a deadline of August 14 to provide comprehensive answers to the lawmakers&#8217; questions and concerns regarding their crypto policies.</p>
-
-
-
-<p>The bipartisan effort has garnered support from notable figures in the cryptocurrency industry. Coinbase&#8217;s Chief Legal Officer, <a href="https://coincu.com/197845-coinbases-clo-criticizes-sec/" target="_blank" rel="noreferrer noopener">Paul Grewal</a>, commended the initiative, expressing approval of the lawmakers&#8217; move to seek clarity on the matter. Similarly, Kristin Smith, the Chief Executive of the crypto advocacy group Blockchain Association, welcomed the inquiry as a step towards ensuring fair treatment of blockchain and cryptocurrency applications on the App Store.</p>
-
-
-
-<p>The ongoing scrutiny of Apple&#8217;s App Store policies comes in the wake of recent controversies surrounding the removal of certain cryptocurrency-related applications.</p>
-
-
-
-<p>Last month, Coinbase CEO Brian Armstrong <a href="https://coincu.com/198327-coinbase-ceo-criticizes-apple-damus-removed/" target="_blank" rel="noreferrer noopener">criticized</a> the removal of the app &#8220;Damus&#8221; from the App Store, considering it disrespectful to users and damaging to the brand&#8217;s reputation. <a href="https://coincu.com/198033-damus-founder-banned-from-apple-app-store/" target="_blank" rel="noreferrer noopener">The founder of Damus</a> has vowed to appeal the removal, citing the abuse and misapplication of Apple&#8217;s rules.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2234-1024x512.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-2234-1024x512.png" alt="U.S. Lawmakers Question Apple About App Store’s Restrictive Crypto Policies" class="wp-image-207123" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2234-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2234-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2234-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2234-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2234-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-2234-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2234-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2234.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="US Lawmakers Challenge Apple&#039;s Crypto App Store Policies 18"></a></figure></div>
-
-
-<p>As the bipartisan inquiry unfolds, the tech industry, cryptocurrency advocates, and stakeholders eagerly await Apple&#8217;s response, hoping for a clearer understanding of the company&#8217;s stance on blockchain, NFTs, and other emerging technologies. The outcome of this inquiry may play a crucial role in shaping the future of cryptocurrency-related applications on the App Store and their potential impact on technological advancement in the United States.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207099-us-lawmakers-challenge-apple/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2235-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification</title>
-		<link>https://coincu.com/207103-worldcoin-sparks-frenzy-in-kenya/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sat, 29 Jul 2023 06:17:42 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Kenya]]></category>
-		<category><![CDATA[ODPC]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Orbs]]></category>
-		<category><![CDATA[Sam Altman]]></category>
-		<category><![CDATA[WLD]]></category>
-		<category><![CDATA[Worldcoin]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207103</guid>
-
-					<description><![CDATA[Worldcoin has sparked immense interest among Kenyans, as the platform rewards users with free WLD tokens in exchange for verifying their humanity through retinal scans.<p class="has-text-align-right"><a href="https://coincu.com/207103-worldcoin-sparks-frenzy-in-kenya/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Kenyans are intrigued by Worldcoin&#8217;s free WLD tokens for eye-scanning verification.</em></li>
-
-
-
-<li><em>Quickmart Outlets in Nairobi attract enthusiastic young participants.</em></li>
-
-
-
-<li><em>Privacy concerns and token volatility raise questions amidst strong investor support.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The new cryptocurrency Worldcoin has sparked immense interest among Kenyans, as the platform rewards users with free WLD tokens in exchange for verifying their humanity through retinal scans, according to <em><a href="https://nation.africa/kenya/news/kenyans-scanning-their-eyeballs-worldcoin-cryptocurrency-tokens-4319600" target="_blank" rel="noreferrer noopener">Daily Nation</a></em>.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2231.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2231-1024x538.png" alt="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification" class="wp-image-207115" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2231-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2231-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2231-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2231-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2231-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2231.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification 19"></a></figure></div>
-
-
-<p>Launched just five days ago on Monday, July 24, the <a href="https://coincu.com/207022-worldcoin-security-audit-reports-92-6-fixed/" target="_blank" rel="noreferrer noopener">Worldcoin</a> app utilizes special machines, known as Orbs, stationed in 35 countries, including Kenya, to perform the eye-scanning verification process.</p>
-
-
-
-<p>The allure of receiving free tokens has drawn a surge of young people to at least 13 Quickmart Outlets in Nairobi, where these Orb devices are located. Eager participants can scan their eyeballs, and upon successful verification, they are rewarded with WLD tokens. These tokens can then be transferred to popular crypto exchanges, such as Binance, and used to purchase various other cryptocurrencies.</p>
-
-
-
-<p>The value of the first 25 WLD tokens stands at around Sh7,786 ($55), offering early adopters a tangible incentive to participate in the scheme. James Makau, a bodaboda driver from Ruaka, shared his success story, having earned Sh6,461 ($45.6) from scanning his iris and subsequently converting his tokens into Kenyan shillings by trading them for USDT, a different cryptocurrency.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-1024x700.jpg"><img decoding="async" loading="lazy" width="1024" height="700" src="https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-1024x700.jpg" alt="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification" class="wp-image-207119" srcset="https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-1024x700.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-300x205.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-768x525.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-1536x1050.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-2048x1400.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-750x513.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/b9ef8b72a8b17fde5203ffe6f2c3e403-1140x779.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification 20"></a></figure></div>
-
-
-<p>Worldcoin, co-founded by <a href="https://coincu.com/187287-openai-founder-sam-altman-raise-100-million/" target="_blank" rel="noreferrer noopener">Sam Altman</a>, the CEO of OpenAI, the developer of ChatGPT&#8217;s artificial intelligence platform, has ambitious goals. Their mission is to grant global market access to everyone by providing a verified digital ID, free crypto tokens, and a cryptocurrency wallet. According to their whitepaper, Worldcoin aims to create an inclusive digital currency accessible to people worldwide, regardless of their socio-economic status.</p>
-
-
-
-<p>Despite the promising prospects, concerns loom over the true implications of this novel approach to identity verification. Worldcoin&#8217;s founders, Altman and Blania, caution that the journey will be challenging, and uncertainties remain in the outcome. To encourage widespread adoption, participants receive a few WLD tokens as compensation for their involvement, with the exception of the United States, where regulatory scrutiny has made this option unavailable.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-1024x576.jpeg" alt="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification" class="wp-image-207118" srcset="https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-1536x864.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/FxeCOcqWIAE8Gzy-1.jpeg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification 21"></a></figure></div>
-
-
-<p>The core concept behind Worldcoin&#8217;s iris scanning system is to establish a trustless digital identity to combat the growing capabilities of AI and robots to imitate real humans. The free tokens, in addition to potentially granting voting rights within the platform, are intended to facilitate the cryptocurrency&#8217;s adoption on a global scale.</p>
-
-
-
-<p>However, the initial performance of the <a href="https://coincu.com/206599-worldcoin-circulating-supply-111-million-tokens/" target="_blank" rel="noreferrer noopener">WLD</a> token has been volatile, with its value doubling shortly after launch but subsequently experiencing a sharp 90% drop. Moreover, the project faces challenges raised by the UK&#8217;s data regulator. The regulator emphasizes the importance of users being able to withdraw consent &#8220;without detriment,&#8221; a challenge given the immutability of blockchain technology, which stores data permanently.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-1024x683.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-1024x683.webp" alt="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification" class="wp-image-207117" srcset="https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-2048x1365.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/CRYPTO-WORLDCOIN-ORB-230312-KM-FORTUNE-WORLDCOIN-5577-1140x760.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Worldcoin Sparks Frenzy In Kenya: Free Tokens for Eye-Scanning Verification 22"></a></figure></div>
-
-
-<p>Questions have also been raised by prominent figures in the crypto community, including Twitter co-founder Jack Dorsey and Ethereum&#8217;s Vitalik Buterin, further adding to the scrutiny. Notably, Worldcoin has garnered significant support from various venture capital investors, such as Reid Hoffman, Andreessen Horowitz, and Coinfund, among others. Presently, 107 million WLD tokens are in circulation, with a notable concentration held by a limited number of entities.</p>
-
-
-
-<p>As the excitement around Worldcoin grows in Kenya, the Office of Data Protection Commissioner (ODPC) has issued a warning urging caution. The ODPC advises Kenyans against sharing sensitive personal data until they have been provided with sufficient information regarding how their data will be utilized within the platform.</p>
-
-
-
-<p>Worldcoin&#8217;s innovative approach to digital identity verification and its incentivization with free WLD tokens have piqued the curiosity of many Kenyans. However, the venture faces challenges and scrutiny over data privacy and the volatility of its cryptocurrency. As the project evolves, careful consideration of the potential risks and benefits will be vital in shaping the future of this ambitious cryptocurrency initiative.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em><a href="https://www.coingraph.news/crypto-updates/" target="_blank" rel="noopener"></a></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207103-worldcoin-sparks-frenzy-in-kenya/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2230-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Ritchie Torres Takes On SEC: Advocates For New Crypto Laws And Bipartisan Support</title>
-		<link>https://coincu.com/207090-ritchie-torres-takes-on-sec/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Sat, 29 Jul 2023 05:39:20 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[CFTC]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Fit]]></category>
-		<category><![CDATA[Gary Gensler]]></category>
-		<category><![CDATA[Ritchie Torres]]></category>
+		<category><![CDATA[denies]]></category>
+		<category><![CDATA[Ripple]]></category>
 		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[Stablecoin]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=207090</guid>
+		<category><![CDATA[SEC Lawsuit]]></category>
+		<category><![CDATA[Terra]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207525</guid>
 
-					<description><![CDATA[Democratic Representative Ritchie Torres expressed his criticism of the SEC and voiced his support for new legislation pertaining to the cryptocurrency industry.<p class="has-text-align-right"><a href="https://coincu.com/207090-ritchie-torres-takes-on-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[US Judge Jed Rakoff dismissed Terraform Labs' request to dismiss the US Securities and Exchange Commission (SEC) charges.<p class="has-text-align-right"><a href="https://coincu.com/207525-us-judge-denies-terraform-labs-dismiss-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -973,70 +54,872 @@
 
 
 <ul>
-<li><em>Democratic Representative Ritchie Torres criticizes SEC&#8217;s crypto regulations, calls it a &#8220;war&#8221; on the industry.</em></li>
+<li><em>A US federal judge denied Terraform Labs&#8217; request to dismiss Terraform Labs&#8217; lawsuit with the SEC.</em></li>
 
 
 
-<li><em>He backs FIT Act for clearer crypto asset jurisdiction.</em></li>
+<li><em>The judge also argued that he disagreed with the approach taken in the SEC case against Ripple.</em></li>
 
 
 
-<li><em>Stablecoin bill lacks bipartisan deal, but Torres remains hopeful.</em></li>
+<li><em>This decision could cause the SEC to reverse course to appeal the case against Ripple.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Democratic Representative Ritchie Torres expressed his criticism of the U.S. Securities and Exchange Commission (SEC) and voiced his support for new legislation pertaining to the cryptocurrency industry.</strong></h5>
+<h5 class="wp-block-heading"><strong>According to <a href="https://www.coindesk.com/policy/2023/07/31/judge-rejects-ripple-ruling-precedent-in-denying-terraform-labs-motion-to-dismiss-sec-lawsuit/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_content=editorial&amp;utm_term=organic" target="_blank" rel="noreferrer noopener">CoinDesk</a>, US Federal Judge Jed Rakoff of the Southern District of New York dismissed Terraform Labs&#8217; request to dismiss the US Securities and Exchange Commission (SEC) charges on Monday.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-1024x683.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-1024x683.webp" alt="Ritchie Torres Takes On SEC: Advocates for New Crypto Laws and Bipartisan Support" class="wp-image-207093" srcset="https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-2048x1365.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/TOR.0323.HI_RES_adobeRGB_20230112_Ritchie_Torres_Fortune4360-1140x760.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ritchie Torres Takes On SEC: Advocates For New Crypto Laws And Bipartisan Support 23"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-1024x576.png" alt="US Judge Denies Terraform Labs Petition To Dismiss SEC Lawsuit" class="wp-image-207528" srcset="https://coincu.com/wp-content/uploads/2023/08/image-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="US Judge Denies Terraform Labs Petition To Dismiss SEC Lawsuit 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>Speaking on the Unchained podcast with host Laura Shin, Torres <a href="https://www.youtube.com/watch?v=7ocDx7zI0uc" target="_blank" rel="noreferrer noopener">accused</a> the <a href="https://coincu.com/206974-sec-and-binance-unite-to-thwart-eeon/" target="_blank" rel="noreferrer noopener">SEC</a>, led by Chairman Gary Gensler, of employing a &#8220;regulation by enforcement&#8221; approach towards crypto innovators. He argued that the actions taken by the SEC under Gensler&#8217;s leadership seemed arbitrary and capricious, asserting that the agency had declared war on the entire crypto industry instead of solely focusing on bad actors.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2218.png"><img decoding="async" loading="lazy" width="700" height="466" src="https://coincu.com/wp-content/uploads/2023/07/image-2218.png" alt="Ritchie Torres Takes On SEC: Advocates for New Crypto Laws and Bipartisan Support" class="wp-image-207094" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2218.png 700w, https://coincu.com/wp-content/uploads/2023/07/image-2218-300x200.png 300w" sizes="(max-width: 700px) 100vw, 700px" title="Ritchie Torres Takes On SEC: Advocates For New Crypto Laws And Bipartisan Support 24"></a></figure></div>
-
-
-<p>In alignment with his concerns about the SEC&#8217;s regulatory approach, Torres voiced his support for the recently advanced market structure bill, known as the Financial Innovation and Technology (FIT) for the 21st Century Act. According to Torres, the FIT Act aims to clarify which crypto assets fall under the jurisdiction of the SEC. The bill proposes that the SEC would have authority over a crypto asset until it can be demonstrated that the asset is sufficiently decentralized. Once proven decentralized, the asset would then be categorized as a commodity and would be governed by the Commodity Futures Trading Commission (CFTC).</p>
+<p>The judge said that the SEC has fully demonstrated its authority and &#8220;has made a reasonable recommendation&#8221; that TerraUSD (UST) and LUNA may have violated securities laws.</p>
 
 
 
-<p>On July 26, the House Financial Services Committee voted in favor of the FIT Act, with Torres being among the lawmakers supporting the bill.</p>
+<p>Additionally, Jed Rakoff rejected the judgment of Judge Analisa Torres, who recently ruled that Ripple Labs offers XRP to retail investors on the secondary market and does not violate securities laws.</p>
 
 
 
-<p>Additionally, Torres threw his weight behind another bill intended to regulate stablecoins and ensure that these assets are fully backed by reserves. He referred to stablecoins as &#8220;the clearest usage case of crypto&#8221; and expressed his approval for giving stablecoin issuers the option to comply with either federal regulations or state regulations, such as New York&#8217;s BitLicense.</p>
+<p>Judge Rakoff does not distinguish between cryptocurrencies based on how they are sold. For him, selling directly to large institutional investors or through a 3rd party to retail investors – does not affect whether those tokens are considered securities or not.</p>
 
 
 
-<p>However, it was reported on July 27 that the stablecoin bill <a href="https://coincu.com/206573-house-lawmakers-locked-in-battle-stablecoins/" target="_blank" rel="noreferrer noopener">failed</a> to reach a bipartisan agreement, despite Torres&#8217; endorsement.</p>
-
-
-
-<p>Undeterred by the setback, Torres remained optimistic about the future of both bills. He revealed that the market structure bill received six Democratic votes, and he expected even more support for the stablecoin bill. Nonetheless, he acknowledged that the bill&#8217;s progress might be hindered if it fails to gain the support of Rep. Maxine Waters, the ranking member.</p>
+<blockquote class="wp-block-quote has-small-font-size">
+<p class="has-small-font-size">&#8220;But Howey makes no such distinction between purchasers. And it makes good sense that it did not. That a purchaser bought the coins directly from the defendants or, instead, in a secondary resale transaction has no impact on whether a reasonable individual would objectively view the defendants&#8217; actions and statements as evidencing a promise of profits based on their efforts.&#8221;</p>
+<cite>He said.</cite></blockquote>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/rtx14d07-1024x683.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/rtx14d07-1024x683.webp" alt="Ritchie Torres Takes On SEC: Advocates for New Crypto Laws and Bipartisan Support" class="wp-image-207095" srcset="https://coincu.com/wp-content/uploads/2023/07/rtx14d07-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-2048x1365.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/rtx14d07-1140x760.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ritchie Torres Takes On SEC: Advocates For New Crypto Laws And Bipartisan Support 25"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-1-1024x683.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/08/image-1-1024x683.png" alt="US Judge Denies Terraform Labs Petition To Dismiss SEC Lawsuit" class="wp-image-207529" srcset="https://coincu.com/wp-content/uploads/2023/08/image-1-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-1-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-1-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-1-750x500.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-1.png 1078w" sizes="(max-width: 1024px) 100vw, 1024px" title="US Judge Denies Terraform Labs Petition To Dismiss SEC Lawsuit 2"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>Responding to claims that Democratic party members were largely opposed to cryptocurrency development, Torres highlighted that recent cryptocurrency legislation had enjoyed bipartisan backing. He also noted that younger lawmakers appeared to be more open to crypto, while Republicans tended to embrace the crypto industry, possibly due to the party&#8217;s pro-business stance.</p>
-
-
-
-<p>Previously, Torres had <a href="https://coincu.com/203714-ritchie-torres-urges-sec-to-rethink-crypto/" target="_blank" rel="noreferrer noopener">penned</a> a letter to Gensler, urging the agency to reassess its regulatory approach to cryptocurrencies. This letter was prompted by a legal setback for the SEC in a case involving <a href="https://coincu.com/206896-ripple-prominent-attorney-to-withdrawal/" target="_blank" rel="noreferrer noopener">Ripple</a>, where a federal judge ruled that certain digital-asset transactions did not fall within the agency&#8217;s regulatory scope. Torres used this ruling as evidence to argue that cryptocurrencies themselves were not securities but could be included in investment contracts qualifying as securities.</p>
+<p>Prior to that, during a hearing on Thursday, June 15, representatives of Terraform Labs<a href="https://coincu.com/195637-us-considers-terraform-labs-for-securities/" target="_blank" rel="noreferrer noopener"> faced</a> the United States Securities and Exchange Commission (SEC) in a Manhattan court to prove that the public-owned cryptocurrency issuer is not a security.</p>
 
 
 
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/207090-ritchie-torres-takes-on-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p>At yesterday&#8217;s hearing, Dentons, a law firm representing Terraform Labs against the SEC, presented new documents supporting their petition to dismiss the securities commission lawsuit.</p>
+
+
+
+<p>The SEC challenged Dentons&#8217; efforts, saying the documents, which included internal SEC emails and other important information, were irrelevant. The regulator reiterated that the collapsed algorithmic stablecoin of Terraform UST should be treated as a security.</p>
+
+
+
+<p>In stark contrast to Judge Torres&#8217; ruling with Ripple. These are two different lawsuits. Jed Rakoff&#8217;s ruling will not change the results already from the Ripple case, but this could be the basis for the SEC to take decisive appeal actions in the Ripple case.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207525-us-judge-denies-terraform-labs-dismiss-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2219-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-94-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence</title>
+		<link>https://coincu.com/207508-dcg-appoints-mark-shifke-as-new-cfo/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 19:13:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Barry Silbert]]></category>
+		<category><![CDATA[Coindesk]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DCG]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Genesis Global]]></category>
+		<category><![CDATA[Mark Shifke]]></category>
+		<category><![CDATA[Winklevoss]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207508</guid>
+
+					<description><![CDATA[DCG appoints Mark Shifke, a finance industry veteran, as its new Chief Financial Officer.<p class="has-text-align-right"><a href="https://coincu.com/207508-dcg-appoints-mark-shifke-as-new-cfo/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>DCG appoints Mark Shifke, a finance industry veteran, as its new Chief Financial Officer.</em></li>
+
+
+
+<li><em>The company is close to resolving the bankruptcy cases of its subsidiary, Genesis Global Holdco, after months of negotiations.</em></li>
+
+
+
+<li><em>It continues to streamline operations by shutting down businesses and considers selling media property CoinDesk.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to a <em><a href="https://www.reuters.com/business/finance/crypto-firm-dcg-appoints-ma-specialist-mark-shifke-cfo-2023-07-31/" target="_blank" rel="noreferrer noopener">Reuters</a></em> report, Digital Currency Group (DCG) has appointed Mark Shifke as its new Chief Financial Officer, as announced on Monday.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-11-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="819" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-11-1024x819.jpg" alt="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence" class="wp-image-207510" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-11-1024x819.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-300x240.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-768x614.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-1536x1229.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-2048x1638.jpg 2048w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-750x600.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-11-1140x912.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence 3"></a><figcaption class="wp-element-caption">Mark Shifke. <em>Image source: Bloomberg</em></figcaption></figure></div>
+
+
+<p>Shifke brings nearly four decades of experience in finance to the role, having served as CFO at Billtrust, a financial services company. His impressive resume also includes previous stints as CFO at mobile banking and prepaid debit-card provider Green Dot, as well as positions at prestigious financial institutions JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc.</p>
+
+
+
+<p>The appointment of Mark Shifke comes after the departure of former CFO Michael Kraines in April. During the interim period, the finance department was overseen by Chief Strategy Officer Simon Koster. With Shifke on board, the company aims to strengthen its financial leadership and drive the company forward.</p>
+
+
+
+<p>In addition to this development, <a href="https://coincu.com/200998-dcg-has-responses-to-the-lawsuit-from-gemini/" target="_blank" rel="noreferrer noopener">DCG</a> has been actively engaged in resolving the challenges faced by its subsidiary, <a href="https://coincu.com/200865-genesis-global-2b-dispute-ftx-delay-creditor/" target="_blank" rel="noreferrer noopener">Genesis Global Holdco</a>. The lending subsidiary filed for bankruptcy in January, leading to legal battles with major creditors, including Gemini Trust, controlled by the Winklevoss brothers. Gemini Trust <a href="https://coincu.com/188995-gemini-alleges-dcg-failed-to-pay-630m/" target="_blank" rel="noreferrer noopener">filed</a> a lawsuit against DCG and <a href="https://coincu.com/162363-genesis-creditors-sue-dcg-and-barry-silbert/" target="_blank" rel="noreferrer noopener">Barry Silbert,</a> alleging &#8220;fraud and deception&#8221; related to a failed lending venture.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-1024x683.jpg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-1024x683.jpg" alt="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence" class="wp-image-207512" srcset="https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-1024x683.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-300x200.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-768x512.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-1536x1025.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-750x500.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2-1140x760.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/1x-1-1-2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence 4"></a><figcaption class="wp-element-caption">CEO Barry Silbert</figcaption></figure></div>
+
+
+<p>Despite the disputes and challenges, DCG is making efforts to resolve the Genesis Capital Chapter 11 cases and close the bankruptcy proceedings soon, <em>Bloomberg</em> <a href="https://www.bloomberg.com/news/articles/2023-07-31/barry-silbert-s-digital-currency-group-names-mark-shifke-as-cfo#xj4y7vzkg" target="_blank" rel="noreferrer noopener">reported</a>. The company expressed optimism in its second-quarter shareholder letter, noting that tireless negotiations led by DCG leadership have brought them close to reaching an agreement in principle with the creditors.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2363-1024x768.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-2363-1024x768.png" alt="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence" class="wp-image-207511" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2363-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2363-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2363-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2363-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2363-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2363.png 1350w" sizes="(max-width: 1024px) 100vw, 1024px" title="DCG Appoints Seasoned Finance Veteran Mark Shifke As New CFO Amidst Crypto Turbulence 5"></a></figure></div>
+
+
+<p>On a positive note, DCG has also been streamlining its operations, shutting down various businesses, such as the TradeBlock subsidiary that provided trade execution. Additionally, there have been discussions about potentially selling media property <a href="https://coincu.com/204497-coindesk-nears-125m-acquisition/" target="_blank" rel="noreferrer noopener">CoinDesk</a> to a syndicate of investors.</p>
+
+
+
+<p>DCG is a prominent player in the cryptocurrency space and owns a portfolio of crypto-related companies, including Grayscale Investments, a major digital asset manager, and Foundry, a crypto miner.</p>
+
+
+
+<p>The addition of Mark Shifke as CFO brings a wealth of experience and strategic vision to DCG&#8217;s leadership team. CEO Barry Silbert expressed confidence in Shifke&#8217;s abilities, emphasizing his deep knowledge of finance and fintech industries.</p>
+
+
+
+<p>As DCG moves forward with its new CFO, the company remains focused on resolving its legal battles and streamlining its operations to navigate the ever-evolving crypto landscape successfully. The developments at DCG will undoubtedly be closely watched by the cryptocurrency community and the wider financial industry.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207508-dcg-appoints-mark-shifke-as-new-cfo/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2364-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>NFT Now Announces Job Cuts Amidst Cooling NFT Market</title>
+		<link>https://coincu.com/207499-nft-now-announces-job-cuts/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 17:21:14 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Alejandro Navia]]></category>
+		<category><![CDATA[Dapper Labs]]></category>
+		<category><![CDATA[Job Cuts]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[NFT Now]]></category>
+		<category><![CDATA[OpenSea]]></category>
+		<category><![CDATA[Web3 Media]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207499</guid>
+
+					<description><![CDATA[NFT Now, a leading web3 digital media platform, announces job cuts due to declining demand for digital collectibles.<p class="has-text-align-right"><a href="https://coincu.com/207499-nft-now-announces-job-cuts/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>NFT Now, a leading web3 digital media platform, announces job cuts due to declining demand for digital collectibles.</em></li>
+
+
+
+<li><em>The NFT sector experiences a significant downturn as cryptocurrency prices plunge and investors become more risk-averse.</em></li>
+
+
+
+<li><em>Other prominent NFT companies, including Dapper Labs and OpenSea, also face staff reductions to navigate the challenging market conditions.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>NFT Now, a renowned web3 digital media platform leading the charge in tokenized media, has made a significant announcement regarding job cuts amidst a notable downturn in demand for digital collectibles.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2359.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2359-1024x538.png" alt="image 2359" class="wp-image-207501" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2359-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2359-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2359-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2359-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2359-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2359.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="NFT Now Announces Job Cuts Amidst Cooling NFT Market 6"></a></figure></div>
+
+
+<p>The company&#8217;s president, Alejandro Navia, <a href="https://twitter.com/AlejNavia/status/1686024751377006594" target="_blank" rel="noreferrer noopener">took</a> to Twitter (X) to share the news, explaining that they had expanded too rapidly during the bullish market phase, necessitating a reduction in staff.</p>
+
+
+
+<p>The concept of web3 media or tokenized media publications aims to address the challenges faced by web2 media firms by capitalizing on NFTs to build a strong community around their content creation. NFT Now is currently on a mission to empower cultural makers and encourage the widespread use of NFTs and <a href="https://coincu.com/201454-web3-ventures-investment-q1-2023-down-80/" target="_blank" rel="noreferrer noopener">web3</a>.</p>
+
+
+
+<p>In a notable achievement, the media company launched its Now Pass token in March, which rapidly sold out at 0.25 ETH per token, generating an impressive $1.1 million in total revenue.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2360-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2360-1024x576.png" alt="image 2360" class="wp-image-207502" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2360-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2360-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2360-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2360-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2360-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2360-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2360.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="NFT Now Announces Job Cuts Amidst Cooling NFT Market 7"></a></figure></div>
+
+
+<p>However, the once-booming NFT sector has cooled off considerably compared to the peak demand it experienced during the pandemic era, primarily due to reduced liquidity injections. The market witnessed a significant selloff earlier this month as cryptocurrency prices declined, and investors became more cautious in light of concerns regarding high inflation, central bank rates, and the possibility of a recession.</p>
+
+
+
+<p>NFT Now isn&#8217;t the only company in the industry facing difficulties in the current market conditions. Various firms are grappling with falling revenues and struggling to find ways to sustain their resources and survival.</p>
+
+
+
+<p>For instance, <a href="https://coincu.com/202245-dapper-labs-laid-off-employees/" target="_blank" rel="noreferrer noopener">Dapper Labs</a>, helmed by CEO Roham Gharegozlou, recently bid farewell to 51 brilliant &#8220;colleagues and friends&#8221; as part of their efforts to adapt to the current market challenges. The company had already implemented staff reductions earlier, with a 20% cut in February following a 22% reduction in November of the previous year.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2362-1024x538.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2362-1024x538.png" alt="image 2362" class="wp-image-207504" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2362-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2362-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2362-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2362-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2362-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2362.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="NFT Now Announces Job Cuts Amidst Cooling NFT Market 8"></a></figure></div>
+
+
+<p>Even the well-established NFT marketplace, <a href="https://coincu.com/204559-opensea-enables-peer-to-peer-nft-trading-deals/" target="_blank" rel="noreferrer noopener">OpenSea</a>, has had to resort to cost-cutting measures, trimming 20% of its workforce to navigate the prolonged slump in digital asset markets.</p>
+
+
+
+<p>The current state of the NFT industry underscores the need for companies to recalibrate their strategies and reevaluate their operations in the face of a rapidly evolving market landscape. Despite the challenges, stakeholders in the space remain hopeful that the sector will eventually find its footing and continue to innovate the future of tokenized media.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207499-nft-now-announces-job-cuts/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2361-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Web3 Leader Yuga Labs Strengthens Metaverse Position With Roar Acquisition</title>
+		<link>https://coincu.com/207492-web3-leader-yuga-labs-roar-acquisition/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 16:47:00 +0000</pubDate>
+				<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[BAYC]]></category>
+		<category><![CDATA[Daniel Alegre]]></category>
+		<category><![CDATA[Eric Reid]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[ROAR]]></category>
+		<category><![CDATA[Roar Studios]]></category>
+		<category><![CDATA[Web3]]></category>
+		<category><![CDATA[Yuga Labs]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207492</guid>
+
+					<description><![CDATA[Yuga Labs acquires Roar Studios, a metaverse company known for ROAR, an immersive media experience connecting artists and fans in real-time.<p class="has-text-align-right"><a href="https://coincu.com/207492-web3-leader-yuga-labs-roar-acquisition/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Yuga Labs acquires Roar Studios, a metaverse company known for ROAR, an immersive media experience connecting artists and fans in real-time.</em></li>
+
+
+
+<li><em>ROAR offers a unique world of music and entertainment driven by content creators and community consensus.</em></li>
+
+
+
+<li><em>Eric Reid, Roar Studios&#8217; Founder, becomes CEO of Yuga&#8217;s Otherside project, bringing his expertise in media content creation to the table.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Yuga Labs, a prominent leader in the web3 space and known for pioneering projects like Bored Ape Yacht Club (BAYC), CryptoPunks, and Meebits, has <a href="https://www.prnewswire.com/news-releases/yuga-labs-agrees-to-acquire-technology-innovator-roar-studios-301889241.html" target="_blank" rel="noreferrer noopener">announced</a> a strategic acquisition that further solidifies its position in the evolving metaverse landscape.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2357-1024x768.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/image-2357-1024x768.png" alt="Web3 Leader Yuga Labs Strengthens Metaverse Position With ROAR Acquisition" class="wp-image-207496" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2357-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2357-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2357-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2357-1536x1152.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2357-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2357-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2357.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Web3 Leader Yuga Labs Strengthens Metaverse Position With Roar Acquisition 9"></a></figure></div>
+
+
+<p>Yuga Labs is set to acquire Roar Studios, a company at the intersection of gaming, social media, and the metaverse, boasting cutting-edge technology and AI expertise.</p>
+
+
+
+<p>The star attraction of Roar Studios is its brainchild, ROAR, an immersive media experience that redefines how artists and fans interact in the metaverse. With real-time connectivity, collaboration, and competition from any location, ROAR has carved a niche for itself in the world of experiential multimedia. Their ingenious team of audio, game, and AI engineers has seamlessly merged proprietary technology with established MMO gaming and platform systems, creating a captivating semi-autonomous realm of music and entertainment, shaped by individual content creators and community consensus.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2356.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/07/image-2356-1024x538.png" alt="Web3 Leader Yuga Labs Strengthens Metaverse Position With ROAR Acquisition" class="wp-image-207494" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2356-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2356-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2356-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2356-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2356-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2356.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Web3 Leader Yuga Labs Strengthens Metaverse Position With Roar Acquisition 10"></a></figure></div>
+
+
+<p>As Yuga Labs ambitiously develops Otherside, its innovative and interoperable metaverse, the acquisition of Roar Studios brings onboard a team of visionary tech pioneers. They will lend their expertise, specialized knowledge, and leadership to help enhance Yuga&#8217;s metaverse strategy and revolutionize content creation and social interactions within the virtual world.</p>
+
+
+
+<p>Daniel Alegre, CEO of Yuga Labs, expressed his excitement about the partnership, stating that Roar Studios has reimagined the metaverse&#8217;s media experience. He warmly welcomed the talented Roar team into the Yuga family and highlighted their dedication to creative content and social connections. Alegre firmly believes that Roar&#8217;s valuable contributions will propel the execution of Yuga&#8217;s grand vision for Otherside and their broader ecosystem.</p>
+
+
+
+<p>Following the acquisition, Eric Reid, Founder and CEO of Roar Studios, is slated to lead Otherside as its CEO, leveraging his two-decade-long experience in building teams and curating film, television, and music content. Reid&#8217;s vast expertise will complement Yuga&#8217;s experienced executive team as they strive to shape <a href="https://coincu.com/206975-yuga-labs-unveils-otherside/" target="_blank" rel="noreferrer noopener">Otherside</a> into an innovative, user-centric platform.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2358.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2358-1024x576.png" alt="Web3 Leader Yuga Labs Strengthens Metaverse Position With ROAR Acquisition" class="wp-image-207497" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2358-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2358-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2358-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2358-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2358-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2358.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Web3 Leader Yuga Labs Strengthens Metaverse Position With Roar Acquisition 11"></a></figure></div>
+
+
+<p><a href="https://coincu.com/201538-yuga-labs-demands-removal-of-ethereum-punks/" target="_blank" rel="noreferrer noopener">Yuga Labs</a>, since its inception in April 2021 with <a href="https://coincu.com/205614-baycs-made-by-apes-ushers-in-a-new-era/" target="_blank" rel="noreferrer noopener">Bored Ape Yacht Club</a>, has been a trailblazer in the NFT space, continuously exploring the potential of web3 technology. Notable achievements include releasing intellectual property licenses to NFT holders, acquiring rights to major collections like <a href="https://coincu.com/155801-cryptopunks-fraction-token/" target="_blank" rel="noreferrer noopener">CryptoPunks</a> and Meebits, and launching the interactive metaverse project Otherside, which challenges traditional notions of play spaces.</p>
+
+
+
+<p>Having secured a seed round of $450 million at a valuation of $4 billion in March 2022, Yuga Labs remains committed to pushing boundaries and unlocking real-world utility for NFTs. The acquisition of Roar Studios serves as a strategic move to fortify their metaverse ecosystem and steer the course of the future in web3 technology.</p>
+
+
+
+<p>With Eric Reid on board as the General Manager of Otherside, working alongside Yuga&#8217;s seasoned executive team, the future looks promising for this dynamic collaboration. Reid&#8217;s vast industry experience and creative acumen are expected to play a pivotal role in evolving Otherside&#8217;s vision and transforming it into an immersive, user-centric platform, further cementing Yuga Labs&#8217; position as a frontrunner in the metaverse realm.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207492-web3-leader-yuga-labs-roar-acquisition/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-2-5-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud</title>
+		<link>https://coincu.com/207484-sec-sues-hex-founder-richard-heart/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 16:08:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[HEX]]></category>
+		<category><![CDATA[PulseChain]]></category>
+		<category><![CDATA[PulseX]]></category>
+		<category><![CDATA[Richard Heart]]></category>
+		<category><![CDATA[Richard J. Schueler]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207484</guid>
+
+					<description><![CDATA[Richard Heart, founder of HEX cryptocurrency, faces SEC charges for alleged securities fraud, raising over $1 billion through unregistered sales to retail investors.<p class="has-text-align-right"><a href="https://coincu.com/207484-sec-sues-hex-founder-richard-heart/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Richard Heart, founder of HEX cryptocurrency, faces SEC charges for alleged securities fraud, raising over $1 billion through unregistered sales to retail investors.</em></li>
+
+
+
+<li><em>The lawsuit accuses Heart of misappropriating $12.1 million of investor funds for luxury purchases, including a 555-carat diamond and high-end cars.</em></li>
+
+
+
+<li><em>SEC seeks permanent injunction, disgorgement of gains, and civil penalties in a high-profile case that sends shockwaves through the cryptocurrency community.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The world of cryptocurrency was rocked as the price of HEX, a popular digital asset, took a deep dive following charges of securities fraud against Richard Heart, also known as Richard J. Schueler.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2353.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/07/image-2353-1024x576.png" alt="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud" class="wp-image-207486" width="1024" height="576" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2353-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2353-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2353-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2353-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2353-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2353.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud 12"></a><figcaption class="wp-element-caption">Richard Heart</figcaption></figure></div>
+
+
+<p>The Securities and Exchange Commission (SEC) <a href="https://www.sec.gov/news/press-release/2023-143" target="_blank" rel="noreferrer noopener">filed</a> a fraud lawsuit against the controversial entrepreneur, who is currently residing in Finland, alleging that he raised more than $1 billion through the unregistered offer and sale of crypto asset securities to retail investors globally.</p>
+
+
+
+<p>The SEC&#8217;s complaint specifically pointed out that the cryptoassets <a href="https://coincu.com/139984-sec-issues-subpoenas/" target="_blank" rel="noreferrer noopener">Hex</a>, PulseChain, and PulseX all fall under the category of securities. According to the lawsuit, Heart consistently touted these investments as a guaranteed pathway to immense wealth for investors, going as far as claiming that HEX was destined to be the most appreciating asset in the history of humankind.</p>
+
+
+
+<p>The accusations against Heart and PulseChain are grave, as the SEC claims that they defrauded investors by misappropriating at least $12.1 million of PulseChain investor funds. Shockingly, these funds were allegedly used by Heart to indulge in extravagant purchases, including a 555-carat diamond, luxury cars, and high-end watches.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-scaled.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-1024x683.webp" alt="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud" class="wp-image-207487" srcset="https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-1536x1024.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-2048x1365.webp 2048w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/07/Commentary-SEC-Global-Offices-GettyImages-1230842615-1140x760.webp 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud 13"></a></figure></div>
+
+
+<p>One of the main points of contention in the lawsuit is Heart&#8217;s failure to disclose the transfer of $217 million in investor assets to a private wallet, which the SEC argues was used to conceal his misappropriation of PulseChain investor assets for personal use. This deception involved employing a decentralized aggregator and a Mixer to obscure his actions further.</p>
+
+
+
+<p>Richard Heart is renowned as the founder of Pulsechain, PulseX, and the Hex project, all of which have faced controversies during their existence. The SEC&#8217;s focus is primarily on the staggering amount Heart raised by selling tokens for these projects, which adds fuel to the lawsuit&#8217;s fire.</p>
+
+
+
+<p>Moreover, the <a href="https://coincu.com/207270-sec-asks-coinbase-stop-all-except-bitcoin/" target="_blank" rel="noreferrer noopener">SEC</a> takes issue with Heart&#8217;s offering of a Staking product associated with HEX, PulseChain, and PulseX tokens, promising investors returns of up to 38%. The SEC deems these actions to be hazardous for investors and thus justifies the charges brought against Heart.</p>
+
+
+
+<p>Eric Werner, Director of the Fort Worth Regional Office, stated that Heart enticed investors to purchase unregistered crypto asset securities and then deceived them by using their assets for extravagant luxury purchases. The SEC aims to protect investors and hold Heart accountable for his actions through this legal action.</p>
+
+
+
+<p>The SEC&#8217;s press release also encourages members of the Hex community to come forward with any information they might have related to the case.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2354-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2354-1024x576.png" alt="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud" class="wp-image-207488" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2354-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2354-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2354-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2354-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2354-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2354-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2354-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud 14"></a></figure></div>
+
+
+<p>Richard Heart faces serious allegations of securities fraud by the SEC. Beyond the unregistered offer and sale of these securities, the lawsuit also accuses Heart of defrauding investors through the misappropriation of assets. </p>
+
+
+
+<p>The SEC seeks permanent injunctive relief, disgorgement of ill-gotten gains with prejudgment interest, and civil penalties as a result of the alleged misconduct. Last year, the SEC <a href="https://coincu.com/139984-sec-issues-subpoenas/" target="_blank" rel="noreferrer noopener">subpoenaed</a> a large number of HEX influencers, as Coincu reported.</p>
+
+
+
+<p>At the time of writing, HEX is trading at $0.0064 with a drop of over 28% on the day.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2352.png"><img decoding="async" loading="lazy" width="1024" height="619" src="https://coincu.com/wp-content/uploads/2023/07/image-2352-1024x619.png" alt="image 2352" class="wp-image-207485" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2352-1024x619.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2352-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2352-768x464.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2352-1536x929.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2352-2048x1238.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2352-750x453.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2352-1140x689.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Sues HEX Founder Richard Heart For $1 Billion Securities Fraud 15"></a><figcaption class="wp-element-caption">HEX price chart. <em>Source: TradingView</em></figcaption></figure></div>
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207484-sec-sues-hex-founder-richard-heart/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2355-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Shanghai&#8217;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure</title>
+		<link>https://coincu.com/207476-shanghais-bold-vision-blockchain/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 15:28:09 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[CBDC]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Digital Infrastructure]]></category>
+		<category><![CDATA[Digital yuan]]></category>
+		<category><![CDATA[Shanghai]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207476</guid>
+
+					<description><![CDATA[Shanghai Municipal Government announces a groundbreaking plan to implement urban blockchain digital infrastructure from 2023 to 2025.<p class="has-text-align-right"><a href="https://coincu.com/207476-shanghais-bold-vision-blockchain/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Shanghai Municipal Government announces a groundbreaking plan to implement urban blockchain digital infrastructure from 2023 to 2025.</em></li>
+
+
+
+<li><em>Objectives include enhancing real economy sectors, improving public services, and creating a transparent urban governance ecosystem using blockchain technology.</em></li>
+
+
+
+<li><em>China&#8217;s commitment to technological advancement is evident as it aims to become an international blockchain exchange hub.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The Shanghai Municipal Government has <a href="https://www.shanghai.gov.cn/nw12344/20230731/74d21b6a0d7e4f909168ad372c2b4f82.html" target="_blank" rel="noreferrer noopener">set</a> forth an ambitious project implementation plan that aims to revolutionize the city&#8217;s urban infrastructure using blockchain technology from 2023 to 2025. The primary objective of this initiative is to leverage blockchain&#8217;s potential to enhance urban life, improve efficiency, ensure security, and promote transparency in various sectors.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/shanghai-fi.webp"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-1024x576.webp" alt="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure" class="wp-image-207479" srcset="https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-1024x576.webp 1024w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-300x169.webp 300w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-768x432.webp 768w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-1536x864.webp 1536w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-750x422.webp 750w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi-1140x641.webp 1140w, https://coincu.com/wp-content/uploads/2023/07/shanghai-fi.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure 16"></a></figure></div>
+
+
+<p>Outlined in the plan are three key objectives that the government seeks to achieve. First, the government plans to strengthen the use of blockchain technology in critical sectors such as finance, industry, and trade. By doing so, they aim to elevate efficiency, security, and transparency, leading to a more robust and reliable economic ecosystem.</p>
+
+
+
+<p>Second, the application of blockchain technology will extend to key areas like health, education, and transportation, aiming to optimize service delivery and increase citizen satisfaction. This move will revolutionize public service management and ensure better access and quality of services for residents.</p>
+
+
+
+<p>Finally, the Shanghai Municipal Government is committed to employing blockchain technology to build a more effective, transparent, and accountable governance system. This measure will foster greater public trust and participation in city affairs.</p>
+
+
+
+<p>This project aligns with Shanghai&#8217;s broader strategic goal of digital transformation, with the city taking significant strides towards comprehensive urban development. By harnessing the potential of blockchain technology, Shanghai is setting a new precedent for sustainable urban planning that will ultimately benefit all its residents.</p>
+
+
+
+<p>Furthermore, the announcement highlights the project&#8217;s role in coordinating blockchain network resources across the Yangtze River Delta region, turning Shanghai into an international blockchain exchange hub.</p>
+
+
+
+<p>The governor of Shanghai emphasized the city&#8217;s commitment to the development of blockchain infrastructure, with a target completion date set for 2025. The official implementation plan was released on July 31st, covering the period from 2023 to 2025.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2349-1024x602.png"><img decoding="async" loading="lazy" width="1024" height="602" src="https://coincu.com/wp-content/uploads/2023/07/image-2349-1024x602.png" alt="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure" class="wp-image-207480" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2349-1024x602.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2349-300x176.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2349-768x451.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2349-750x441.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2349.png 1069w" sizes="(max-width: 1024px) 100vw, 1024px" title="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure 17"></a></figure></div>
+
+
+<p>The government&#8217;s plan reflects its ongoing efforts to promote technological advancements across various Chinese cities. <a href="https://coincu.com/204299-shanghai-unveils-bold-blockchain-plans/" target="_blank" rel="noreferrer noopener">Shanghai</a> is leading the charge by encouraging the application of blockchain technology in both the economy and public services.</p>
+
+
+
+<p>In May, the city of Zhengzhou also announced initiatives to support metaverse companies in the region, showcasing China&#8217;s dedication to adopting emerging technologies like blockchain.</p>
+
+
+
+<p>In addition to the progress made in blockchain technology, <a href="https://coincu.com/183631-china-will-promote-cbdc/" target="_blank" rel="noreferrer noopener">China</a> has been actively advancing the deployment of its central bank digital currency (CBDC), the <a href="https://coincu.com/204297-china-digital-yuan-trading-volume-1-8t/" target="_blank" rel="noreferrer noopener">digital yuan</a>, in various cities throughout the country.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2350.png"><img decoding="async" loading="lazy" width="1000" height="600" src="https://coincu.com/wp-content/uploads/2023/07/image-2350.png" alt="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure" class="wp-image-207481" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2350.png 1000w, https://coincu.com/wp-content/uploads/2023/07/image-2350-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2350-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2350-750x450.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Shanghai&#039;s Bold Vision: Revolutionizing Urban Life with Blockchain Digital Infrastructure 18"></a></figure></div>
+
+
+<p>As the Shanghai Municipal Government propels this visionary urban blockchain digital infrastructure project, China continues to position itself at the forefront of technological innovation, setting a compelling example for cities worldwide to follow.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207476-shanghais-bold-vision-blockchain/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2351-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows</title>
+		<link>https://coincu.com/207465-altcoins-surge-as-digital-asset-outflows/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 14:58:21 +0000</pubDate>
+				<category><![CDATA[Market]]></category>
+		<category><![CDATA[Altcoins]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[digital asset]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Solana]]></category>
+		<category><![CDATA[XRP]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207465</guid>
+
+					<description><![CDATA[Digital asset investment products experienced a net outflow of $20.9 million last week, primarily driven by long Bitcoin products.<p class="has-text-align-right"><a href="https://coincu.com/207465-altcoins-surge-as-digital-asset-outflows/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Digital asset investment products experienced a net outflow of $20.9 million last week, primarily driven by long Bitcoin products.</em></li>
+
+
+
+<li><em>Investors favored altcoins, excluding Ethereum, with inflows totaling $3 million last week and $19 million over the past 8 weeks.</em></li>
+
+
+
+<li><em>Trading volumes for digital asset investment products indicated reduced market activity.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to the latest <a href="https://blog.coinshares.com/volume-142-digital-asset-fund-flows-weekly-report-4e5e1ce458b2" target="_blank" rel="noreferrer noopener">CoinShares weekly report</a>, digital asset investment products witnessed a net outflow of $20.9 million last week, with 93% of the withdrawals originating from long Bitcoin investment products.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2345.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/07/image-2345-1024x512.png" alt="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows" class="wp-image-207471" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2345-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2345-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2345-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2345-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/07/image-2345-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2345-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2345.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows 19"></a></figure></div>
+
+
+<p>Additionally, short Bitcoin products endured their 14th consecutive week of outflows, totaling $3.1 million. These numbers suggest that investors have been capitalizing on profits in recent weeks, while overall sentiment towards the asset remains supportive.</p>
+
+
+
+<p>The data also revealed a notable shift in investor preferences, with altcoins, excluding <a href="https://coincu.com/207287-ethereum-ico-investor-emerges-after-8-year/" target="_blank" rel="noreferrer noopener">Ethereum</a>, garnering significant attention. Last week alone, altcoins experienced inflows of $3 million, with a total of $19 million pouring in over the past eight weeks. Notably, <a href="https://coincu.com/200106-cardano-tvl-in-defi-hit-ath/" target="_blank" rel="noreferrer noopener">Cardano</a>, <a href="https://coincu.com/204372-solana-is-on-the-rise/" target="_blank" rel="noreferrer noopener">Solana</a>, and XRP emerged as the most favored altcoins, attracting inflows of $0.64 million, $0.6 million, and $0.5 million, respectively. Meanwhile, Ethereum and Avalanche witnessed minor outflows, totaling $1.9 million and $0.4 million, respectively.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2347.png"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/image-2347-1024x683.png" alt="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows" class="wp-image-207473" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2347-1024x683.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2347-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2347-768x513.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2347-750x501.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2347-1140x761.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2347.png 1254w" sizes="(max-width: 1024px) 100vw, 1024px" title="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows 20"></a></figure></div>
+
+
+<p>In contrast to the minor outflows in digital asset investment products, the first half of the year saw substantial inflows close to $500 million. However, the past week&#8217;s trading volumes were lackluster, amounting to $915 million. This figure pales in comparison to the year-to-date weekly average of $1.5 billion, indicating reduced trading activity in the digital asset market.</p>
+
+
+
+<p>CoinShares&#8217; data also provided insights into regional investment trends. Notably, North America emerged as the primary source of negative sentiment, with outflows totaling $11 billion from both the US and Canada. Conversely, <a href="https://coincu.com/198927-binance-custody-license-in-germany/" target="_blank" rel="noreferrer noopener">Germany</a> saw inflows of $5 million, while Switzerland and Sweden experienced outflows of $3.2 million and $2.6 million, respectively.</p>
+
+
+
+<p>The broader Bitcoin market reflected the overall subdued sentiment, as it witnessed a total of $16 billion in trading volume on trusted exchanges during the past week. This figure is significantly lower than the weekly average of $52 billion seen this year.</p>
+
+
+
+<p>Surprisingly, the past week&#8217;s <a href="https://coincu.com/206516-bitcoin-is-slowly-gaining-bullish-momentum/" target="_blank" rel="noreferrer noopener">Bitcoin</a> price fluctuations did not correlate with any major news events. The largest cryptocurrency continued to trade below $29,500 throughout the week, with no substantial price movements reported.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2348-1024x618.png"><img decoding="async" loading="lazy" width="1024" height="618" src="https://coincu.com/wp-content/uploads/2023/07/image-2348-1024x618.png" alt="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows" class="wp-image-207474" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2348-1024x618.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2348-300x181.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2348-768x463.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2348-1536x927.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2348-2048x1235.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-2348-750x452.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2348-1140x688.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Altcoins Surge As Digital Asset Products Witness $20.9M Weekly Outflows 21"></a><figcaption class="wp-element-caption">BTC price chart. <em>Source: TradingView</em></figcaption></figure></div>
+
+
+<p>As the cryptocurrency market evolves, investors are closely observing the rise of altcoins, particularly Cardano, Solana, and XRP, which are gaining traction. Despite the recent outflows from Bitcoin investment products, the overall sentiment remains optimistic, highlighting the resilient nature of the digital asset market.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207465-altcoins-surge-as-digital-asset-outflows/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2346-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>eToro Agrees To Sell $120 Million In Shares At Discounted Valuation</title>
+		<link>https://coincu.com/207463-etoro-agrees-to-sell-120m-in-shares/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 14:41:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bank of Spain]]></category>
+		<category><![CDATA[eToro]]></category>
+		<category><![CDATA[Fintech V]]></category>
+		<category><![CDATA[ION Investment Group]]></category>
+		<category><![CDATA[SoftBank Vision Fund 2]]></category>
+		<category><![CDATA[SPAC]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207463</guid>
+
+					<description><![CDATA[eToro facilitates a $120 million secondary stock sale to early employees and angel investors, reflecting investor interest in the firm.<p class="has-text-align-right"><a href="https://coincu.com/207463-etoro-agrees-to-sell-120m-in-shares/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>eToro facilitates a $120 million secondary stock sale to early employees and angel investors, reflecting investor interest in the firm.</em></li>
+
+
+
+<li><em>The termination of a proposed SPAC deal led to a valuation of $3.5 billion, down from the earlier sought-after $10 billion, but eToro raised $250 million from investors in a subsequent funding round.</em></li>
+
+
+
+<li><em>eToro&#8217;s strategic partnership with Twitter and regulatory approval as a virtual currency exchange in Spain further enhance its position in the global market.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>In a move to provide liquidity for its early employees and angel investors, eToro, the multi-asset investment platform offering stocks, cryptocurrencies, and contracts for different transactions, conducted a secondary stock sale, according to a <em><a href="https://www.cnbc.com/2023/07/31/robinhood-rival-etoro-agrees-120-million-secondary-share-sale.html" target="_blank" rel="noreferrer noopener">CNBC</a></em> report.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2343.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-2343-1024x576.png" alt="eToro Agrees To Sell $120 Million In Shares At Discounted Valuation" class="wp-image-207468" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2343-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2343-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2343-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2343-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-2343-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2343-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2343.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" title="eToro Agrees To Sell $120 Million In Shares At Discounted Valuation 22"></a></figure></div>
+
+
+<p>The company allowed its existing investors to purchase shares from these stakeholders, raising a total of $120 million, according to sources familiar with the matter. This valuation is slightly below the $3.5 billion figure achieved in a previous Series A funding round earlier this year.</p>
+
+
+
+<p>The secondary stock sale, characterized by the absence of newly issued shares and the consequent lack of net proceeds for the company, serves as a barometer of investor sentiment towards eToro&#8217;s shares. It comes as a significant development following the company&#8217;s decision to terminate a SPAC (Special Purpose Acquisition Company) transaction and its planned private placement financing in July of the previous year.</p>
+
+
+
+<p>Previously, eToro had announced intentions to go public through a merger with a blank-check company, Fintech V, in a deal valued at $10 billion. However, due to fluctuations in equity and crypto prices, investor concerns about tech exposure, and a slump in trading activity experienced by retail brokerages, the deal fell through.</p>
+
+
+
+<p>Undeterred, <a href="https://coincu.com/194523-etoro-bans-u-s-users-from-trading-popular/" target="_blank" rel="noreferrer noopener">eToro</a> managed to secure a $250 million investment from notable backers such as SoftBank Vision Fund 2, ION Investment Group, and Velvet Sea Ventures at a valuation of $3.5 billion. This valuation was significantly lower than what the company had sought in its initial attempt to go public via the SPAC route.</p>
+
+
+
+<p>In recent times, eToro has been making waves in the financial industry with a string of noteworthy achievements. Among them was a partnership with <a href="https://coincu.com/205612-twitter-x-upgrade-enhances-financial-features/" target="_blank" rel="noreferrer noopener">Twitter</a> (now known as X), enabling users of the social media platform to access stock and crypto trading by using &#8220;cashtags,&#8221; denoted by a dollar sign before a stock or asset&#8217;s ticker symbol.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2344.png"><img decoding="async" loading="lazy" width="1024" height="542" src="https://coincu.com/wp-content/uploads/2023/07/image-2344.png" alt="eToro Agrees To Sell $120 Million In Shares At Discounted Valuation" class="wp-image-207469" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2344.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2344-300x159.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2344-768x407.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2344-750x397.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="eToro Agrees To Sell $120 Million In Shares At Discounted Valuation 23"></a></figure></div>
+
+
+<p>Additionally, eToro <a href="https://coincu.com/206925-etoro-secures-bank-of-spains-virtual-asset/" target="_blank" rel="noreferrer noopener">received</a> approval from the Bank of Spain to operate as a virtual currency exchange and electronic wallet custody service provider. This regulatory milestone underscores the company&#8217;s commitment to consumer protection and innovation. Spanish users can now access eToro&#8217;s diverse range of asset classes, investment tools, and educational resources, empowering them to grow their knowledge and wealth.</p>
+
+
+
+<p>The recent secondary stock sale and ongoing developments highlight eToro&#8217;s resilience and strategic approach amid a rapidly evolving financial landscape. As the company continues to chart its path, it remains poised to make further strides in the investment industry, offering its users innovative and accessible opportunities in the world of finance.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207463-etoro-agrees-to-sell-120m-in-shares/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2342-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>German Data Watchdog Investigates Worldcoin Project Over Biometric Data Concerns</title>
+		<link>https://coincu.com/207452-watchdog-worldcoin-project-biometric-data/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 14:11:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[Worldcoin]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207452</guid>
+
+					<description><![CDATA[The German data protection supervisory office has been conducting an investigation into OpenAI's chief executive, Sam Altman, and the Worldcoin Project since November 2022. <p class="has-text-align-right"><a href="https://coincu.com/207452-watchdog-worldcoin-project-biometric-data/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>German data watchdog investigates Worldcoin over concerns of processing sensitive biometric data.</em></li>
+
+
+
+<li><em>Multiple European countries, including France and the UK, also scrutinize the project&#8217;s data handling practices after its launch.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The German data protection supervisory office has been conducting an investigation into OpenAI&#8217;s chief executive, Sam Altman, and the Worldcoin Project since November 2022.&nbsp;</strong></h5>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d-1024x683.jpeg" alt="5c38a4cd 96d8 4bc3 b9a2 052efc6a9581 6a9bf06d" class="wp-image-207459" srcset="https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/5c38a4cd-96d8-4bc3-b9a2-052efc6a9581_6a9bf06d.jpeg 1098w" sizes="(max-width: 1024px) 100vw, 1024px" title="German Data Watchdog Investigates Worldcoin Project Over Biometric Data Concerns 24"><figcaption>German Data Watchdog Investigates Worldcoin Project Over Biometric Data Concerns 26</figcaption></figure>
+
+
+
+<p>The probe is centered around concerns related to the large-scale processing of sensitive biometric data. Michael Will, chairman of Bavaria&#8217;s data protection supervisory office, revealed that the investigation was initiated due to worries surrounding the handling of biometric data in the <a href="https://coincu.com/205302-worldcoin-token-openai-ceo-sam-altman/" target="_blank" data-type="URL" data-id="https://coincu.com/205302-worldcoin-token-openai-ceo-sam-altman/" rel="noreferrer noopener">Worldcoin Project</a>. As the company behind Worldcoin, Tools For Humanity, has a local German subsidiary, the Bavarian state regulator is leading the investigation under EU data protection rules.</p>
+
+
+
+<p>The scrutiny on Worldcoin extends beyond Germany, with other European countries also taking a closer look. Recently, the French privacy watchdog announced its own investigation into the project. Additionally, the U.K. data watchdog has expressed its intention to review Worldcoin following its launch.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1024" height="768" src="https://coincu.com/wp-content/uploads/2023/07/sam-altman-worldcoin-orb-1024x768-1.jpeg" alt="sam altman worldcoin orb 1024x768 1" class="wp-image-207460" srcset="https://coincu.com/wp-content/uploads/2023/07/sam-altman-worldcoin-orb-1024x768-1.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/sam-altman-worldcoin-orb-1024x768-1-300x225.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/sam-altman-worldcoin-orb-1024x768-1-768x576.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/sam-altman-worldcoin-orb-1024x768-1-750x563.jpeg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="German Data Watchdog Investigates Worldcoin Project Over Biometric Data Concerns 25"><figcaption>German Data Watchdog Investigates Worldcoin Project Over Biometric Data Concerns 27</figcaption></figure>
+
+
+
+<p>Sam Altman is the man in charge of the Worldcoin project, which has attracted a lot of attention due to its strategy of providing users with digital identification and cryptocurrency incentives by means of iris scans, which are derived from their biometric data. The idea behind the initiative has piqued people&#8217;s interest, but it has also prompted questions over the privacy of users&#8217; data and the appropriate application of biometric information.</p>
+
+
+
+<p>Authorities in a variety of nations are conducting thorough investigations into initiatives such as Worldcoin to guarantee compliance with data protection rules and to protect the privacy rights of individuals. This is because data protection standards are getting increasingly stringent.</p>
+
+
+
+<p>The investigations by multiple European data watchdogs highlight the importance of transparency and accountability in projects involving sensitive data. As Worldcoin and similar initiatives progress, they will need to address these concerns and adhere to data protection regulations to build trust among users and regulators alike.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207452-watchdog-worldcoin-project-biometric-data/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Final-Thumb-12-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Tether&#8217;s Q2 Financial Report Shows Excess Reserves Surge To $3.3 Billion</title>
+		<link>https://coincu.com/207430-tethers-q2-rserves-surge-to-3-3-billion/</link>
+		
+		<dc:creator><![CDATA[Chubbi]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2023 13:58:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[Tether]]></category>
+		<category><![CDATA[tether reserve]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207430</guid>
+
+					<description><![CDATA[According to the financial report for Tether's second quarter, the company's surplus reserves rose by $850 million to $3.3 billion.<p class="has-text-align-right"><a href="https://coincu.com/207430-tethers-q2-rserves-surge-to-3-3-billion/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Tether&#8217;s Q2 financial report shows excess reserves reaching $3.3 billion, a substantial increase of $850 million.</em></li>
+
+
+
+<li><em>The stablecoin issuer records an operating profit of over $1 billion, indicating strong growth and responsible capital management.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to the financial report for Tether&#8217;s second quarter, the company&#8217;s surplus reserves rose by $850 million to $3.3 billion.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px.jpeg"><img decoding="async" loading="lazy" width="863" height="486" src="https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px.jpeg" alt="Tether&#039;s Q2 Financial Report Shows Excess Reserves Surge To $3.3 Billion" class="wp-image-207455" srcset="https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px.jpeg 863w, https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px-768x433.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/million-of-tether-usdt-tokens-x486_1px-750x422.jpeg 750w" sizes="(max-width: 863px) 100vw, 863px" title="Tether&#039;s Q2 Financial Report Shows Excess Reserves Surge To $3.3 Billion 28"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>In a recently released Q2 financial report, Tether, the popular stablecoin issuer, revealed substantial growth in its excess reserves, reaching approximately $3.3 billion by the end of the second quarter. The report, audited by independent accounting firm BDO, details the group&#8217;s assets as of June 30, 2023.</p>
+
+
+
+<p>According to the report, Tether&#8217;s combined total assets surpassed $86.5 billion, while total consolidated liabilities stood at $83.2 billion, with a significant portion of $83.18 billion relating to issued digital tokens. Notably, Tether&#8217;s consolidated assets exceed its consolidated liabilities, indicating a strong financial position.</p>
+
+
+
+<p>During the quarter from April 2023 to June 2023, the firm reported a remarkable operating profit of over $1 billion, reflecting a quarter-on-quarter increase of 30%. The impressive financial performance demonstrates the platform&#8217;s continued growth and market demand for its stablecoin.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-1024x576.jpeg" alt="Tether&#039;s Q2 Financial Report Shows Excess Reserves Surge To $3.3 Billion" class="wp-image-207456" srcset="https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724-1140x641.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/07/71a0e592f7aeb8949c572abd79923724.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tether&#039;s Q2 Financial Report Shows Excess Reserves Surge To $3.3 Billion 29"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Moreover, <a href="https://coincu.com/206098-whale-alert-70m-usdt-move-bitfinex-tether/">Tether</a> disclosed that its excess reserves saw a remarkable surge of approximately $850 million. With this substantial increase, Tether&#8217;s total excess reserves now amount to around $3.3 billion. The company prudently manages its reserves, with 85% of investments held in cash and cash equivalents, and treasury bills valued at approximately $72.5 billion.</p>
+
+
+
+<p>In addition to the financial gains, the firm also revealed a $115 million share repurchase and further investments in energy-related initiatives funded by the profit generated during the quarter. These strategic moves underline Tether&#8217;s commitment to financial stability and responsible capital allocation.</p>
+
+
+
+<p>The financial report, independently audited by BDO, instills confidence among investors and underscores the company&#8217;s commitment to transparency. As one of the leading stablecoin issuers in the cryptocurrency space, Tether&#8217;s performance and prudent reserve management continue to contribute to its prominence and popularity within the digital asset ecosystem.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Chubbi</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207430-tethers-q2-rserves-surge-to-3-3-billion/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Ban-sao-cua-Final-Thumb-11-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
 	</channel>
 </rss>
