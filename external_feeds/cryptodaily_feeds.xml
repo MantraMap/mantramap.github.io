@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 01 Aug 2023 09:40:24 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 01 Aug 2023 09:47:45 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,56 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Has The Curve Finance Exploit Put Aave And DeFi At Risk?]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/has-the-curve-finance-exploit-put-aave-and-defi-at-risk</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 01 Aug 2023 09:45:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/has-the-curve-finance-exploit-put-aave-and-defi-at-risk</guid>
+			  <description><![CDATA[<p>Curve Finance suffered a significant exploit over the weekend, with attackers managing to siphon off around $70 million worth of assets from users.&nbsp;</p>
+<p>Curve founder Michael Egorov has a loan of around $70 million in USDT on Aave v2, using CRV as collateral.&nbsp;</p>
+Curve Chaos Could Have Major Implications&nbsp;
+<p>The exploit at Curve Finance resulted in the price of the protocol&rsquo;s CRV token experiencing a sharp decline. This decline has put a $168 million lending position held by Curve founder Michael Egorov at risk of liquidation. If the position gets liquidated, it could have disastrous implications across the decentralized finance (DeFi) ecosystem. The Curve founder has around $168 million worth of CRV, which he has used to secure loans from several DeFi protocols, according to data from the blockchain analytics site DeBank. This amount equals nearly 34% of CRV&rsquo;s total market capitalization.&nbsp;</p>
+<p>The exploit has led to a decline of over 20% in the CRV price, putting Egorov&rsquo;s position in danger of liquidation.&nbsp;</p>
+A Major Blow&nbsp;
+<p>A forced liquidation would be a devastating blow to Curve after its weekend exploit. As a result of the exploit, the total value of assets locked on the DeFi protocol dropped from $3.7 billion to $2.1 billion, with investors pulling their funds as a precaution. Thanks to DeFi&rsquo;s interconnected nature, the liquidation of Egorov&rsquo;s position could put significant pressure on CRV&rsquo;s price and other decentralized lending protocols. The CRV token is extremely popular on Uniswap and Sushiswap and is used as collateral on platforms such as Aave.&nbsp;</p>
+Aave&rsquo;s Exposure&nbsp;
+<p>Michael Egorov has a $70 million loan in USDT on Aave v2, for which he has used CRV as collateral. Based on risk parameters set by Aave, if the CRV token&rsquo;s price drops below $65%, it would be at risk of liquidation. When liquidations occur, the collateral the borrower deposits is sold in exchange for the borrowed asset. In the case of Aave, the CRV would be sold for Aave, leading to considerable bad debt.&nbsp;</p>
+<p>The concerns around bad debt were already flagged by Gauntlet, who recommended freezing CRV and setting its loan-to-value to zero on Aave v2.&nbsp;</p>
+
+<p>&ldquo;The amount of CRV concentrated on Aave, relative to the circulating supply of CRV, is already high. Given the limitations of V2 mechanisms, including the possibility of circumventing an LTV of 0, the only way to truly prevent more risk of this position is to prevent borrowing of all assets on V2.&rdquo;</p>
+
+<p>However, this proposal failed to pass.&nbsp;</p>
+<p>Aave&rsquo;s GHO stablecoin also lost its peg for a few hours on the 31st of July. The stablecoin subsequently regained its peg, with analysts working to determine why the de-pegging occurred. According to most, the de-pegging was a result of the reentrancy attack on Curve Finance. The GHO stablecoin had dropped to $0.96 on the 31st, losing its $1 peg for a few hours. However, it regained its peg and is currently trading at $0.98.&nbsp;</p>
+Other Protocols At Risk&nbsp;
+<p>Aave is not the only protocol that the Curve Finance fiasco could impact. Egorov has also borrowed $17 million worth of the FRAX stablecoin, putting $32 million worth of CRV as collateral. Since the exploit, Egorov has made several transactions to repay part of the amount he borrowed on Fraxlend. According to DeBank data, Egorov also has an $18 million loan on DeFi protocol Abracadabra.&nbsp;</p>
+<p>Egorov has moved to shore up his capital by selling LDO, the governance token for liquid staking protocol Lido, in exchange for the USDC stablecoin. These transactions have been done in several batches valued at between $10,000 and $50,000, according to data from EtherScan. The developments have raised several questions for decentralized lending protocols, and whether they should implement measures to prevent large positions, such as the ones taken by Egorov, that could potentially introduce systemic risk.&nbsp;</p>
+<p>Egorov came under fierce criticism in 2020 after he took control of over two-thirds of a Curve voting token, veCRV. He later apologized and called the move an overreaction to what he thought was a takeover attempt by Yearn.Finance.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Curve Finance suffered a significant exploit over the weekend, with attackers managing to siphon off around $70 million worth of assets from users.&nbsp;</p>
+<p>Curve founder Michael Egorov has a loan of around $70 million in USDT on Aave v2, using CRV as collateral.&nbsp;</p>
+Curve Chaos Could Have Major Implications&nbsp;
+<p>The exploit at Curve Finance resulted in the price of the protocol&rsquo;s CRV token experiencing a sharp decline. This decline has put a $168 million lending position held by Curve founder Michael Egorov at risk of liquidation. If the position gets liquidated, it could have disastrous implications across the decentralized finance (DeFi) ecosystem. The Curve founder has around $168 million worth of CRV, which he has used to secure loans from several DeFi protocols, according to data from the blockchain analytics site DeBank. This amount equals nearly 34% of CRV&rsquo;s total market capitalization.&nbsp;</p>
+<p>The exploit has led to a decline of over 20% in the CRV price, putting Egorov&rsquo;s position in danger of liquidation.&nbsp;</p>
+A Major Blow&nbsp;
+<p>A forced liquidation would be a devastating blow to Curve after its weekend exploit. As a result of the exploit, the total value of assets locked on the DeFi protocol dropped from $3.7 billion to $2.1 billion, with investors pulling their funds as a precaution. Thanks to DeFi&rsquo;s interconnected nature, the liquidation of Egorov&rsquo;s position could put significant pressure on CRV&rsquo;s price and other decentralized lending protocols. The CRV token is extremely popular on Uniswap and Sushiswap and is used as collateral on platforms such as Aave.&nbsp;</p>
+Aave&rsquo;s Exposure&nbsp;
+<p>Michael Egorov has a $70 million loan in USDT on Aave v2, for which he has used CRV as collateral. Based on risk parameters set by Aave, if the CRV token&rsquo;s price drops below $65%, it would be at risk of liquidation. When liquidations occur, the collateral the borrower deposits is sold in exchange for the borrowed asset. In the case of Aave, the CRV would be sold for Aave, leading to considerable bad debt.&nbsp;</p>
+<p>The concerns around bad debt were already flagged by Gauntlet, who recommended freezing CRV and setting its loan-to-value to zero on Aave v2.&nbsp;</p>
+
+<p>&ldquo;The amount of CRV concentrated on Aave, relative to the circulating supply of CRV, is already high. Given the limitations of V2 mechanisms, including the possibility of circumventing an LTV of 0, the only way to truly prevent more risk of this position is to prevent borrowing of all assets on V2.&rdquo;</p>
+
+<p>However, this proposal failed to pass.&nbsp;</p>
+<p>Aave&rsquo;s GHO stablecoin also lost its peg for a few hours on the 31st of July. The stablecoin subsequently regained its peg, with analysts working to determine why the de-pegging occurred. According to most, the de-pegging was a result of the reentrancy attack on Curve Finance. The GHO stablecoin had dropped to $0.96 on the 31st, losing its $1 peg for a few hours. However, it regained its peg and is currently trading at $0.98.&nbsp;</p>
+Other Protocols At Risk&nbsp;
+<p>Aave is not the only protocol that the Curve Finance fiasco could impact. Egorov has also borrowed $17 million worth of the FRAX stablecoin, putting $32 million worth of CRV as collateral. Since the exploit, Egorov has made several transactions to repay part of the amount he borrowed on Fraxlend. According to DeBank data, Egorov also has an $18 million loan on DeFi protocol Abracadabra.&nbsp;</p>
+<p>Egorov has moved to shore up his capital by selling LDO, the governance token for liquid staking protocol Lido, in exchange for the USDC stablecoin. These transactions have been done in several batches valued at between $10,000 and $50,000, according to data from EtherScan. The developments have raised several questions for decentralized lending protocols, and whether they should implement measures to prevent large positions, such as the ones taken by Egorov, that could potentially introduce systemic risk.&nbsp;</p>
+<p>Egorov came under fierce criticism in 2020 after he took control of over two-thirds of a Curve voting token, veCRV. He later apologized and called the move an overreaction to what he thought was a takeover attempt by Yearn.Finance.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Upbit Suspends CRV Transactions Following Curve Finance Exploit]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/upbit-suspends-crv-transactions-following-curve-finance-exploit</link>
 			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" medium="image" />
@@ -863,56 +913,6 @@ Wilson tracks down the thieves
 <p>CoinSpot's success story isn't just about numbers. It's also about resilience and innovation. In 2018, the company was targeted by a scam orchestrated by James Parker, who exploited a system glitch to syphon off $37 million. Undeterred, Wilson personally tracked down the culprits when local authorities were hesitant to intervene. This episode, while a setback, showcased Wilson's determination and commitment to his venture.</p>
 <p>Today, CoinSpot stands tall as one of Australia's leading crypto platforms, boasting over 2.5 million customers and trading in 400 different cryptocurrencies. The fact that the exchange has continued to grow, especially during the pandemic-induced lockdowns, would point to its team getting things right in the face of a harsh bear market and more difficult times from a regulatory perspective.</p>
 <p>However, owner Wilson remains an enigma. The former IT consultant, despite his immense wealth and the success of CoinSpot, shies away from public appearances. The only known photograph of him is from a company blog post from 2016.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Arkham Bounty Discovers $160 Million In Alleged Terra Wallets]]></title>
-			  <link>https://cryptodaily.co.uk/2023/07/arkham-bounty-discovers-160-million-in-alleged-terra-wallets</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/arkham-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/arkham-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/arkham-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Mon, 31 Jul 2023 09:57:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/07/arkham-bounty-discovers-160-million-in-alleged-terra-wallets</guid>
-			  <description><![CDATA[<p>Controversial Arkham Intel Exchange&rsquo;s first bounty has unearthed evidence of undisclosed wallets containing $160 million worth of digital assets tied to Do Kwon and Terraform Labs.&nbsp;</p>
-<p>Terra had previously claimed that it had exhausted all of its reserves in an attempt to defend the UST stablecoin peg.&nbsp;</p>
-Undisclosed Terra Wallets?&nbsp;
-<p>Two anonymous on-chain investigators have earned Arkham Intel&rsquo;s inaugural bounty after providing considerable evidence of undisclosed wallets holding more than $160 million worth of digital assets tied to Terraform Labs and its founder, Do Kwon. This effort allowed the investigators, including one who describes himself as a &ldquo;glorified accountant,&rdquo; to win the bounty of ARKM tokens worth around $5000.&nbsp;</p>
-<p>The wallets in question contain over 5200 BTC. This figure contradicts Luna Foundation Guard&rsquo;s previous claims of being in possession of only 313 BTC. The foundation had, back in May 2022, stated on Twitter,&nbsp;</p>
-
-<p>&ldquo;As of now, the Foundation&rsquo;s remaining reserves consist of the following assets: &middot; 313 $BTC &middot; 39,914 $BNB &middot; 1,973,554 $AVAX &middot; 1,847,079,725 $UST &middot; 222,713,007 $LUNA (of which 221,021,746 is currently staked with validators).&rdquo;</p>
-
-<p>The revelations made by Arkham&rsquo;s bounty hunters could have significant repercussions for Do Kwon. The Luna Foundation Guard&rsquo;s primary mission was to maintain the dollar peg of its algorithmic stablecoin, TerraUSD (UST). The foundation relied on its reserves of Bitcoin to maintain this peg by purchasing UST from the markets as a final line of defense against UST de-pegging. However, despite its efforts, both UST and LUNA collapsed in May 2022, wiping around $40 billion in value from the markets.&nbsp;</p>
-More Insights Expected&nbsp;
-<p>Arkham Intel expects more insights related to the wallets in question to emerge over the next few months. However, the issuer of the bounty, in this case, Arkham, maintains exclusive rights to the information unearthed for a period of 90 days. The Terra collapse is often described as one of the most crippling events in the crypto space, triggering chaos in the markets and wiping billions in investor wealth.&nbsp;</p>
-<p>Terra founder Do Kwon had been on the run since the collapse but was recently apprehended in Montenegro on charges of traveling using forged documents. The arrest came after the United States Securities and Exchange Commission had accused Do Kwon and Terraform Labs of orchestrating a multi-billion dollar fraud.&nbsp;</p>
-Arkham Intel Exchange And Privacy Concerns&nbsp;
-<p>The Arkham Intel Exchange is hugely controversial, acting as a marketplace facilitating the trading of on-chain data. Despite the bounty, the platform has sparked considerable debate in crypto circles. Critics have flagged concerns about the potential misuse of private information by bad actors and have suggested that the platform could also facilitate the inadvertent creation of a surveillance marketplace.&nbsp;</p>
-<p>However, platform supporters have countered this argument, arguing that such a platform is necessary for unmasking bad actors in the crypto space and giving whistleblowers a secure avenue to disclose crucial information. Arkham Intel CEO Miguel Morel has called for a nuanced approach to the subject, stating,&nbsp;</p>
-
-<p>&ldquo;You need to think [...] very carefully about what sort of information should be allowed on versus not.&rdquo;&nbsp;</p>
-
-<p>The platform, launched on the 10th of July, has been described by critics as a glorified snitching service, with concerns that it could dox innocent users. Platform users can place bounties for information related to specific blockchain transactions, which would then be made available after a period of 90 days.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>Controversial Arkham Intel Exchange&rsquo;s first bounty has unearthed evidence of undisclosed wallets containing $160 million worth of digital assets tied to Do Kwon and Terraform Labs.&nbsp;</p>
-<p>Terra had previously claimed that it had exhausted all of its reserves in an attempt to defend the UST stablecoin peg.&nbsp;</p>
-Undisclosed Terra Wallets?&nbsp;
-<p>Two anonymous on-chain investigators have earned Arkham Intel&rsquo;s inaugural bounty after providing considerable evidence of undisclosed wallets holding more than $160 million worth of digital assets tied to Terraform Labs and its founder, Do Kwon. This effort allowed the investigators, including one who describes himself as a &ldquo;glorified accountant,&rdquo; to win the bounty of ARKM tokens worth around $5000.&nbsp;</p>
-<p>The wallets in question contain over 5200 BTC. This figure contradicts Luna Foundation Guard&rsquo;s previous claims of being in possession of only 313 BTC. The foundation had, back in May 2022, stated on Twitter,&nbsp;</p>
-
-<p>&ldquo;As of now, the Foundation&rsquo;s remaining reserves consist of the following assets: &middot; 313 $BTC &middot; 39,914 $BNB &middot; 1,973,554 $AVAX &middot; 1,847,079,725 $UST &middot; 222,713,007 $LUNA (of which 221,021,746 is currently staked with validators).&rdquo;</p>
-
-<p>The revelations made by Arkham&rsquo;s bounty hunters could have significant repercussions for Do Kwon. The Luna Foundation Guard&rsquo;s primary mission was to maintain the dollar peg of its algorithmic stablecoin, TerraUSD (UST). The foundation relied on its reserves of Bitcoin to maintain this peg by purchasing UST from the markets as a final line of defense against UST de-pegging. However, despite its efforts, both UST and LUNA collapsed in May 2022, wiping around $40 billion in value from the markets.&nbsp;</p>
-More Insights Expected&nbsp;
-<p>Arkham Intel expects more insights related to the wallets in question to emerge over the next few months. However, the issuer of the bounty, in this case, Arkham, maintains exclusive rights to the information unearthed for a period of 90 days. The Terra collapse is often described as one of the most crippling events in the crypto space, triggering chaos in the markets and wiping billions in investor wealth.&nbsp;</p>
-<p>Terra founder Do Kwon had been on the run since the collapse but was recently apprehended in Montenegro on charges of traveling using forged documents. The arrest came after the United States Securities and Exchange Commission had accused Do Kwon and Terraform Labs of orchestrating a multi-billion dollar fraud.&nbsp;</p>
-Arkham Intel Exchange And Privacy Concerns&nbsp;
-<p>The Arkham Intel Exchange is hugely controversial, acting as a marketplace facilitating the trading of on-chain data. Despite the bounty, the platform has sparked considerable debate in crypto circles. Critics have flagged concerns about the potential misuse of private information by bad actors and have suggested that the platform could also facilitate the inadvertent creation of a surveillance marketplace.&nbsp;</p>
-<p>However, platform supporters have countered this argument, arguing that such a platform is necessary for unmasking bad actors in the crypto space and giving whistleblowers a secure avenue to disclose crucial information. Arkham Intel CEO Miguel Morel has called for a nuanced approach to the subject, stating,&nbsp;</p>
-
-<p>&ldquo;You need to think [...] very carefully about what sort of information should be allowed on versus not.&rdquo;&nbsp;</p>
-
-<p>The platform, launched on the 10th of July, has been described by critics as a glorified snitching service, with concerns that it could dox innocent users. Platform users can place bounties for information related to specific blockchain transactions, which would then be made available after a period of 90 days.</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
