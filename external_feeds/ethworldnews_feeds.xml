@@ -12,7 +12,7 @@
 	<atom:link href="https://en.ethereumworldnews.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://en.ethereumworldnews.com</link>
 	<description>Ethereum, DeFi &#38; Bitcoin News</description>
-	<lastBuildDate>Thu, 03 Aug 2023 03:56:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Aug 2023 01:59:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,325 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Matter Labs Denies Polygon&#8217;s Allegations Of Open-Source Code Plagiarism</title>
+		<link>https://en.ethereumworldnews.com/matter-labs-deny-polygon-code-plagiarism/</link>
+		
+		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 01:59:15 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[Ethereum (ETH) News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[layer 2]]></category>
+		<category><![CDATA[Matter Labs]]></category>
+		<category><![CDATA[Polygon (MATIC)]]></category>
+		<category><![CDATA[ZKEVM]]></category>
+		<category><![CDATA[zksync]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583518</guid>
+
+					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-770x433.webp" class="webfeedsFeaturedVisual wp-post-image" alt="Matter Labs Denies Polygon&#039;s Allegations Of Open-Source Code Plagiarism 1" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-770x433.webp 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-300x169.webp 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1024x576.webp 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1536x864.webp 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-500x281.webp 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-269x151.webp 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-746x420.webp 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1376x774.webp 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112.webp 1600w" sizes="(max-width: 770px) 100vw, 770px" title="Matter Labs Denies Polygon&#039;s Allegations Of Open-Source Code Plagiarism 1">Matter Labs has denied allegations made by Polygon regarding plagiarism of its open-source code. ]]></description>
+										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-770x433.webp" class="webfeedsFeaturedVisual wp-post-image" alt="Matter Labs Denies Polygon&#039;s Allegations Of Open-Source Code Plagiarism 2" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-770x433.webp 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-300x169.webp 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1024x576.webp 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1536x864.webp 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-500x281.webp 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-269x151.webp 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-746x420.webp 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112-1376x774.webp 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Untitled-design-2021-12-17T185112.webp 1600w" sizes="(max-width: 770px) 100vw, 770px" title="Matter Labs Denies Polygon&#039;s Allegations Of Open-Source Code Plagiarism 2">
+<ul><li>Matter Labs has denied allegations of source code plagiarism made by Polygon.&nbsp;</li><li>Polygon previously accused Matter Labs of copying part of its open-source code without giving due credit.</li><li>In response, Matter Labs claimed it had sufficiently attributed the copied code to Polygon.</li></ul>
+
+
+
+<p>Matter Labs, the crypto firm behind zkSync, has responded to the recent plagiarism allegations made by fellow <a href="https://en.ethereumworldnews.com/coinbase-ethereum-bridge-nft-base/">Ethereum</a> layer-2 scaling solution Polygon. Earlier today, Polygon accused Matter Labs’ developers of copying parts of its open-source code without giving due credit for the plagiarized code. Matter Labs has denied the allegations and argued that it had sufficiently attributed the copied part to Polygon. </p>
+
+
+
+<h2><strong>Matter Labs: Polygon Is Making “Untrue Claims”</strong></h2>
+
+
+
+<p>Earlier today, Polygon published a <a href="https://mirror.xyz/0x70DF15b0208eFCeFaA541Da9A0ED6C4A884554Fc/gNi8coqXjd1ybFsQBAG7QARUkPHZECu7ihIRkpiVx2Y" rel="nofollow noopener">blog post</a> titled “Protect the Open Source Ethos”, which accused Matter Labs of copying a “significant amount” of source code from the Plonky2 library to its recently unveiled proving system called Boojum. According to Polygon, the code was copied with copyrights or attribution to its original authors. </p>
+
+
+
+<p>Polygon also called out Matter Labs’ founder Alex Gluchowski for claiming that Boojum is more efficient than Plony2. Polygon questioned the authenticity of Gluchowski’s claim, given that Boojum’s code concerning performance was directly copied from Plonky2. Polygon further cited Boojum’s introductory post, which failed to mention the layer-2 scaling solution or its developers.&nbsp;</p>
+
+
+
+<p>In response to Polygon’s allegations, Matter Labs clarified that its Boojum proof system derived 5% of its code from Plonky2, which was “prominently attributed” in the first line of its library. In a statement to CoinDesk, a Matter Labs spokesperson said that Polygon’s blog post made untrue claims about Boojum’s code.&nbsp;</p>
+
+
+
+<p>CEO Alex Gluchowski followed up with a detailed tweet where he expressed his disappointment with Polygon’s allegations. Gluchowski reiterated that only 5% of the Boojum code was based on the Plonky2 code. He added that Boojum and Plonky2 were both implementations of the Redshift, which he claimed was introduced by Matter Labs 3 years before Polygon published the Plonky2 paper. </p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Every decision we make as a team towards building <a href="https://twitter.com/zksync?ref_src=twsrc%5Etfw" rel="nofollow noopener">@zksync</a> is driven by our ethos, which is based on integrity and transparency. We have made honest mistakes in the past, but we always did our best to openly acknowledge them and take responsibility. And will always do so in the… <a href="https://t.co/4yjpSCHC2d" rel="nofollow">https://t.co/4yjpSCHC2d</a></p>&mdash; Alex G. ∎ (@gluk64) <a href="https://twitter.com/gluk64/status/1687263207860166656?ref_src=twsrc%5Etfw" rel="nofollow noopener">August 4, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<blockquote class="wp-block-quote"><p>If the Polygon Zero team wanted additional credit, the easiest way would have been to submit a pull request which we would have happily accepted. Going ahead with public accusations of a complete lack of attribution is anything but the spirit of the Open Source movement.” </p><cite>Alex Gluchowski, Co-founder and CEO of Matter Labs</cite></blockquote>
+
+
+
+<p>The tension between Polygon and Matter Labs comes as both firms rush to deliver the first zero-knowledge Ethereum Virtual Machine (zkEVM) to offer cheaper and more efficient transactions on the Ethereum network. Earlier this year, Polygon’s Mihailo Bjelic and Matter Labs’ Alex Gluchowski were involved in a heated exchange over the latter’s zkSync Era, particularly its security audits.&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coinbase Stock Jumps 10% After Q2 Revenue Exceeds Estimates</title>
+		<link>https://en.ethereumworldnews.com/coinbase-stock-up-10-q2-earning-report/</link>
+		
+		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 23:14:07 +0000</pubDate>
+				<category><![CDATA[Business and Finance]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Wallets and Exchanges]]></category>
+		<category><![CDATA[brian armstrong]]></category>
+		<category><![CDATA[Coinbase (COIN)]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[Financial Report]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583513</guid>
+
+					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Coinbase Stock Jumps 10% After Q2 Revenue Exceeds Estimates 3" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase.jpg 1200w" sizes="(max-width: 770px) 100vw, 770px" title="Coinbase Stock Jumps 10% After Q2 Revenue Exceeds Estimates 3">Coinbase's revenue in the second quarter of 2023 came in at $708 million, beating market estimates of $628 million. ]]></description>
+										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Coinbase Stock Jumps 10% After Q2 Revenue Exceeds Estimates 4" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/coinbase.jpg 1200w" sizes="(max-width: 770px) 100vw, 770px" title="Coinbase Stock Jumps 10% After Q2 Revenue Exceeds Estimates 4">
+<ul><li>Coinbase’s revenue in the second quarter of 2023 exceeded market estimates by over 12%.</li><li>The crypto exchange posted a net loss of $97 million and positive adjusted EBITDA of $194 million in Q2.&nbsp;</li><li>The interest income from the USDC stablecoin came in at $151 million, down 24% QoQ.</li><li>The company’s share price gained as much as 10% in after-hours trading.&nbsp;</li></ul>
+
+
+
+<p>Coinbase has reported a total revenue of $708 million for the second quarter of 2023. Despite having a quarter-on-quarter decline of 8%, the revenue was seen as a positive metric given that it beat the market estimate of $628 million. Meanwhile, the crypto exchange’s net revenue came in at $662.5 million, down 10% compared to the first quarter.&nbsp;</p>
+
+
+
+<h2>Coinbase Posts Net Loss Of $97 Million In Q2 ‘2023</h2>
+
+
+
+<p>As per Coinbase’s <a href="https://s27.q4cdn.com/397450999/files/doc_financials/2023/q2/Shareholder-Letter-Q2-2023.pdf" rel="nofollow noopener">Q2 earnings report</a>, the transaction revenue from institutional and retail clients came in at $327 million, down from $374 million in the first quarter of 2023. The revenue from subscriptions and services took a 7.2% hit, coming in at $335.4 million. The total revenue also accounted for $45.4 million of corporate interest and other income, which grew 25% compared to Q1. </p>
+
+
+
+<p>The largest crypto exchange in the United States saw a total trading volume of $92 billion in the second quarter of 2023. Retail traders contributed $14 billion, while institutional traders accounted for the remaining $78 billion of trading volume. The consumer and institutional trading volume decreased by 33% and 37% QoQ, respectively.&nbsp;</p>
+
+
+
+<p>As of June 30, 2023, <a href="https://en.ethereumworldnews.com/coinbase-ethereum-bridge-nft-base/">Coinbase</a> had an ETH staking balance of $7 billion, $2.2 billion of which was from institutions. Custodial fees contributed $17 million to the exchange’s revenue. The crypto exchange’s assets under custody witnessed a QoQ hike of 14% to $59.6 billion. Meanwhile, the interest income came in at $201 million, $151 million of which was from USD Coin. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Q2 was a strong quarter for Coinbase as we executed well and showed resilience in a challenging environment. We’ve cut costs, are operating efficiently, and remain well-positioned to build the future of the crypto economy and help drive regulatory clarity.” </p><cite>Brian Armstrong, co-founder, and CEO of Coinbase</cite></blockquote>
+
+
+
+<p>The earnings report also revealed a net loss of $0.76 per share for common stockholders. However, Coinbase’s overall Q2 metrics prompted its share price to gain 10% earlier today, with the stock soaring as high as $100.42 in after-hours trading. The company’s stock had returned to $91 at the time of writing. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Curve Finance Founder Sells 72 Million CRV, Brings Down CRV-Backed Debt By 21%</title>
+		<link>https://en.ethereumworldnews.com/curve-finance-egorov-sells-72-million-crv/</link>
+		
+		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 20:41:24 +0000</pubDate>
+				<category><![CDATA[Business and Finance]]></category>
+		<category><![CDATA[Decentralized Finance (DeFi)]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Aave (AAVE)]]></category>
+		<category><![CDATA[Curve Finance (CRV)]]></category>
+		<category><![CDATA[Digital Asset Loans]]></category>
+		<category><![CDATA[Michael Egorov]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583509</guid>
+
+					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-770x433.png" class="webfeedsFeaturedVisual wp-post-image" alt="Curve Finance Founder Sells 72 Million CRV, Brings Down CRV-Backed Debt By 21% 5" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1536x864.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1376x774.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6.png 1600w" sizes="(max-width: 770px) 100vw, 770px" title="Curve Finance Founder Sells 72 Million CRV, Brings Down CRV-Backed Debt By 21% 5">Curve Finance founder Michael Egorov has offloaded 72 million CRV since last week's exploit, and brought down his CRV-backed debts by 21%. ]]></description>
+										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-770x433.png" class="webfeedsFeaturedVisual wp-post-image" alt="Curve Finance Founder Sells 72 Million CRV, Brings Down CRV-Backed Debt By 21% 6" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1536x864.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6-1376x774.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/04890cb8cf134a4f86b10fca40381ba6.png 1600w" sizes="(max-width: 770px) 100vw, 770px" title="Curve Finance Founder Sells 72 Million CRV, Brings Down CRV-Backed Debt By 21% 6">
+<ul><li>Curve Finance founder Michael Egorov has offloaded 72 million Curve Dao Tokens since last week’s exploits.&nbsp;</li><li>Egorov has managed to reduce his $100 million debt, collateralized with 427 million CRV, by 21%.&nbsp;</li><li>Earlier today Curve’s crvUSD stablecoin briefly lost its peg to the US Dollar and tanked 0.35%.</li></ul>
+
+
+
+<p>Michael Egorov, the man behind the automated market maker<a href="https://en.ethereumworldnews.com/ethereum-defi-tvl-down-curve-crisis/"> Curve Finance</a>, has offloaded roughly 72 million Curve DAO tokens (CRV) in over-the-counter (OTC) trades since last week’s exploits on the DeFi protocol. Egorov’s recent sales came as he attempted to minimize his CRV-backed debts of over $100 million, which risk getting liquidated with CRV’s tanking price. </p>
+
+
+
+<h2><strong>Curve Finance Founder Still Owes Over $80 Million</strong></h2>
+
+
+
+<p>In a summary of Michael Egorov’s recent OTC sales, on-chain analytics firm <a href="https://twitter.com/lookonchain/status/1687115628006772737" rel="nofollow noopener">Lookonchain</a> reported that the Curve Finance founder had sold CRV to 15 different institutions and investors at an average price of $0.4, raising over $28 million in the process. </p>
+
+
+
+<p>Last week’s exploit on Curve, which drained over $47 million from the DeFi protocol, put a spotlight on Egorov’s hefty loans totaling $100 million that was backed by more than 427 million CRV, which accounted for 47% of the token’s total circulating supply.&nbsp;</p>
+
+
+
+<p>The largest debt was on Aave, where the Curve founder had posted a collateral of 305 million CRV for a loan of 63.2 million USDT. This debt is eligible for liquidation as soon as CRV’s price sinks to $0.37, given that it has a liquidation threshold of 55%. The riskiest debt was on Frax Finance, where Egorove had pledged 59 million CRV for 15.8 million FRAX. Fraxlend’s time-weighted variable interest rate made it so that the interest rate would double every 12 hours if the credit utilization reached 100%.&nbsp;</p>
+
+
+
+<p>So far, Michael Egorov has repaid 12 million USDT to Aave and 6.6 million FRAX to Frax Finance, which left an outstanding debt of 51 million USDT and 9.1 million FRAX, respectively. The Curve Finance founder still owes 12 million MIM on Abracadabra, 9.4 million DOLA on Inverse, 740,000 XAI on Silo, reducing his total debt obligations by 21%.</p>
+
+
+
+<p>Earlier today, Curve’s crvUSD stablecoin lost its peg to the US Dollar and sank as much as 0.35% amid uncertainty surrounding the DeFi protocol. Since the exploit, several players in the crypto industry, including Justin Sun and Huobi, have stepped in to prevent a dramatic decline in CRV’s price in order to avoid a DeFi catastrophe.&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coinbase Announces Ethereum Bridge And NFT Functionality For L2 Base</title>
+		<link>https://en.ethereumworldnews.com/coinbase-ethereum-bridge-nft-base/</link>
+		
+		<dc:creator><![CDATA[Naga Avan-Nomayo]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 14:01:49 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Wallets and Exchanges]]></category>
+		<category><![CDATA[BALD]]></category>
+		<category><![CDATA[Base]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583500</guid>
+
+					<description><![CDATA[<img width="770" height="385" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-770x385.png" class="webfeedsFeaturedVisual wp-post-image" alt="Coinbase" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-770x385.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-300x150.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1024x512.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1536x768.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-2048x1024.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-500x250.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-561x280.png 561w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1146x573.png 1146w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1476x738.png 1476w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-269x135.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-746x373.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1376x688.png 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Coinbase Announces Ethereum Bridge And NFT Functionality For L2 Base 7">Crypto exchange Coinbase plans to increase access and functionality of its L2 network Base by August 9. The company announced an Ethereum bridge to allow users to send tokens to and from the Base chain. Included in the official mainnet launch are commemorative NFTs as a part of a month-long &#8220;Onchain Summer&#8221; promotion for the layer 2 network. Today&#8217;s announcement follows a rug pull incident involving a memecoin called BALD. Coinbase announced the release of an Ethereum bridge and NFT [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="770" height="385" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-770x385.png" class="webfeedsFeaturedVisual wp-post-image" alt="Coinbase" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-770x385.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-300x150.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1024x512.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1536x768.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-2048x1024.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-500x250.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-561x280.png 561w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1146x573.png 1146w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1476x738.png 1476w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-269x135.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-746x373.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Coinbase-Ethereum-Bridge-And-NFT-Functionality-For-L2-Base-1376x688.png 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Coinbase Announces Ethereum Bridge And NFT Functionality For L2 Base 8">
+<ul><li>Crypto exchange Coinbase plans to increase access and functionality of its L2 network Base by August 9.</li><li>The company announced an Ethereum bridge to allow users to send tokens to and from the Base chain.</li><li>Included in the official mainnet launch are commemorative NFTs as a part of a month-long &#8220;Onchain Summer&#8221; promotion for the layer 2 network.</li><li>Today&#8217;s announcement follows a rug pull incident involving a memecoin called BALD.</li></ul>
+
+
+
+<p>Coinbase <a href="https://twitter.com/BuildOnBase/status/1687089210216595456?s=20" data-type="URL" data-id="https://twitter.com/BuildOnBase/status/1687089210216595456?s=20" target="_blank" rel="noreferrer noopener nofollow">announced</a> the release of an Ethereum bridge and NFT minting for its layer 2 network Base. Base is set to launch its mainnet on August 9 after opening to developers back in July. </p>
+
+
+
+<p>The Ethereum bridge will allow Base users to transfer tokens including ETH between Coinbase&#8217;s network and Ethereum&#8217;s blockchain. This was previously impossible as developer access released in July only allowed one-way transactions to Base. </p>
+
+
+
+<p>Starting August 9, users will also be able to mint NFTs on Base and claim digital ID or crypto usernames on Coinbase Wallet. Coinbase also partnered with names like OpenSea, Atari, and Coca-Cola to power user rewards.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">The bridge to Base is OPEN 🔵<br><br>Here are six ways you can bridge, including commemorative NFTs 👇 <a href="https://t.co/UtHxpxr8sg" rel="nofollow">pic.twitter.com/UtHxpxr8sg</a></p>&mdash; Base 🛡️ (@BuildOnBase) <a href="https://twitter.com/BuildOnBase/status/1687089210216595456?ref_src=twsrc%5Etfw" rel="nofollow noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h2>BALD Degens Rekkt On Coinbase&#8217;s L2 Chain</h2>
+
+
+
+<p>The previous lack of bridge options to Base did little to stop speculative traders from aping into memecoins launched on the blockchain. These degens as they&#8217;re known in crypto poured millions into tokens, with a coin called BALD taking center stage. </p>
+
+
+
+<p>Traders reportedly turned a few hundred dollars in initial punts into millions overnight. Indeed, BALD&#8217;s market cap peaked at nearly $90 million on Sunday from a $50,000 token market cap two days prior. </p>
+
+
+
+<p>BALD&#8217;s ascent was shortlived as its price <a href="https://en.ethereumworldnews.com/degens-rugpull-bald-devs-pull-liquidity/" target="_blank" data-type="URL" data-id="https://en.ethereumworldnews.com/degens-rugpull-bald-devs-pull-liquidity/" rel="noreferrer noopener">tumbled</a> toward zero after the developer withdrew over $12 million in liquidity. The rug pull &#8211; the term used to describe when a token deployer withdraws liquidity after prices have increased, leaving users unable to liquidate their coins &#8211; splashed across Base&#8217;s ecosystem with several of these memecoins rugging would-be early investors. </p>
+
+
+
+<p>Decentralized exchange LeetSwap also paused operations after multiple exploits on liquidity pools. The team has since recovered over 400 ETH, per LeetSwap Twitter updates. </p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">1/ Here is an update on the current situation.<br><br>We have rescued around ~400 ETH from the pools at risk as we ran through all of the 2000+ pairs multiple times trying to salvage all we could, now in our recovery wallet that will be distributed back to the teams for a relaunch.</p>&mdash; LeetSwap (@LeetSwap) <a href="https://twitter.com/LeetSwap/status/1687055050902847488?ref_src=twsrc%5Etfw" rel="nofollow noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hong Kong Awards First Crypto License To Hashkey</title>
+		<link>https://en.ethereumworldnews.com/hong-kong-first-crypto-license-to-hashkey/</link>
+		
+		<dc:creator><![CDATA[Naga Avan-Nomayo]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 11:34:06 +0000</pubDate>
+				<category><![CDATA[Law and Legislation]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Wallets and Exchanges]]></category>
+		<category><![CDATA[crypto license]]></category>
+		<category><![CDATA[Hashkey]]></category>
+		<category><![CDATA[Hong Kong]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583492</guid>
+
+					<description><![CDATA[<img width="770" height="513" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-770x513.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="Hong Kong" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-770x513.jpeg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-300x200.jpeg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1024x683.jpeg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1536x1024.jpeg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-500x333.jpeg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1155x770.jpeg 1155w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-346x231.jpeg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-746x497.jpeg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1131x754.jpeg 1131w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-269x179.jpeg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1376x917.jpeg 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey.jpeg 1920w" sizes="(max-width: 770px) 100vw, 770px" title="Hong Kong Awards First Crypto License To Hashkey 9">The crypto exchange upgraded its type 1 and type 7 licenses to include services approved for Hong Kong retail customers. Haskkey&#8217;s former license only permitted the entity to do business with professional investors in the city-state. Hong Kong has officially issued its first crypto license two months after regulators introduced a Virtual Asset Service Provider registration policy. The new licensing regime forms part of an effort to position Hong Kong as a global crypto hub and pull digital asset businesses [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="770" height="513" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-770x513.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="Hong Kong" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-770x513.jpeg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-300x200.jpeg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1024x683.jpeg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1536x1024.jpeg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-500x333.jpeg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1155x770.jpeg 1155w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-346x231.jpeg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-746x497.jpeg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1131x754.jpeg 1131w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-269x179.jpeg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey-1376x917.jpeg 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Hong-Kong-Awards-First-Crypto-License-To-Hashkey.jpeg 1920w" sizes="(max-width: 770px) 100vw, 770px" title="Hong Kong Awards First Crypto License To Hashkey 10">
+<ul><li>The crypto exchange upgraded its type 1 and type 7 licenses to include services approved for Hong Kong retail customers. </li><li>Haskkey&#8217;s former license only permitted the entity to do business with professional investors in the city-state. </li><li>Hong Kong has officially issued its first crypto license two months after regulators introduced a Virtual Asset Service Provider registration policy. </li><li>The new licensing regime forms part of an effort to position Hong Kong as a global crypto hub and pull digital asset businesses into the special administrative region in China.</li></ul>
+
+
+
+<p>Hong Kong&#8217;s regulator issued its inaugural crypto license to Hashkey Exchange as the city-state aims to position itself as a friendly jurisdiction for digital asset businesses. The platform can now offer crypto services to local retail customers, per <a href="https://www.bloomberg.com/news/articles/2023-08-03/hong-kong-s-new-crypto-regime-awards-first-license-to-hashkey#xj4y7vzkg" data-type="URL" data-id="https://www.bloomberg.com/news/articles/2023-08-03/hong-kong-s-new-crypto-regime-awards-first-license-to-hashkey#xj4y7vzkg" target="_blank" rel="noreferrer noopener nofollow">reports</a>.</p>
+
+
+
+<p>Hashkey Exchange, a part of the Asia-based Hashkey Group which offers crypto financial services, secured the first license in the region after upgrading its existing type 1 and type 7 licenses. Both licenses permitted Hashkey to service professional traders. </p>
+
+
+
+<p>Also, previous permits allowed Hashkey to quickly tap the new licensing regime introduced on June 1. The crypto exchange “shall at all times be in compliance with the requirements”, a spokesperson for the Securities and Futures Commission said referencing the rules guiding crypto operators. </p>
+
+
+
+<p>According to Hashkey, the license for expansion of its business operations and service growing demand in the city-state following the passing of a licensing law to bootstrap crypto activity and draw in digital asset businesses.</p>
+
+
+
+<h2>Hong Kong&#8217;s Crypto Push</h2>
+
+
+
+<p>Regulators issued the first crypto license to Hashkey two months after introducing a registration pathway for operators. The policy includes guidelines for Virtual Asset Service Providers Hong Kong authorities <a href="https://en.ethereumworldnews.com/uae-crypto-oversight-aml-ctf-rules/" data-type="URL" data-id="https://en.ethereumworldnews.com/uae-crypto-oversight-aml-ctf-rules/" target="_blank" rel="noreferrer noopener">push</a> to level with counterparts in East Asia and the Gulf despite a crypto ban in mainland China. </p>
+
+
+
+<p>Monetary authorities are also agitating for banks like HSBC, Standard Chartered, and Bank of China to onboard crypto businesses as customers. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Litecoin Price Falls After Halving, Is the Party Over?</title>
+		<link>https://en.ethereumworldnews.com/litecoin-price-falls-after-halving-is-the-party-over/</link>
+		
+		<dc:creator><![CDATA[Nick Cannon]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 10:03:49 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583485</guid>
+
+					<description><![CDATA[<img width="770" height="513" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-770x513.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Litecoin Price Falls After Halving, Is the Party Over? 7" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-770x513.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-300x200.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1024x683.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1536x1024.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-2048x1366.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-500x333.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1155x770.jpg 1155w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-346x231.jpg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-746x497.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1131x754.jpg 1131w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-269x179.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1376x917.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Litecoin Price Falls After Halving, Is the Party Over? 11">Litecoin completed its third halving event on 2 August. Its LTC coin has, however, failed to react positively. Litecoin [LTC] failed to log any significant price reaction following the network’s third halving event yesterday. At press time, the coin ranked as the fourth crypto asset with the most declines in the last 24 hours, per data from CoinMarketCap.  Much ado about nothing In its 12-year history, Litecoin completed its third halving event on 2 August. The event led to a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="770" height="513" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-770x513.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Litecoin Price Falls After Halving, Is the Party Over? 11" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-770x513.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-300x200.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1024x683.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1536x1024.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-2048x1366.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-500x333.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1155x770.jpg 1155w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-346x231.jpg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-746x497.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1131x754.jpg 1131w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-269x179.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/michal-mancewicz-R9L7ukhBSgs-unsplash-1376x917.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Litecoin Price Falls After Halving, Is the Party Over? 15"><ul>
+<li>Litecoin completed its third halving event on 2 August.</li>
+<li>Its LTC coin has, however, failed to react positively.</li>
+</ul>
+<p><span style="font-weight: 400;">Litecoin [LTC] failed to log any significant price reaction following the network’s third halving event yesterday. At press time, the coin ranked as the fourth crypto asset with the most declines in the last 24 hours, per data from </span><a href="https://coinmarketcap.com/" target="_blank" rel="noopener nofollow"><span style="font-weight: 400;">CoinMarketCap</span></a><span style="font-weight: 400;">. </span></p>
+<p><figure id="attachment_583487" aria-describedby="caption-attachment-583487" style="width: 2814px" class="wp-caption alignnone"><img class="size-full wp-image-583487" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12.png" alt="Litecoin Price Falls After Halving, Is the Party Over? 8" width="2814" height="872" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12.png 2814w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-300x93.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-1024x317.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-770x239.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-1536x476.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-2048x635.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-500x155.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-269x83.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-746x231.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.35.12-1376x426.png 1376w" sizes="(max-width: 2814px) 100vw, 2814px" title="Litecoin Price Falls After Halving, Is the Party Over? 12"><figcaption id="caption-attachment-583487" class="wp-caption-text">Source: CoinMarketCap</figcaption></figure></p>
+<h3><b>Much ado about nothing</b></h3>
+<p><span style="font-weight: 400;">In its 12-year history, Litecoin completed its third halving event on 2 August. The event led to a reduction in miners’ block reward from 12.5 LTC to 6.25 LTC.</span></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">LITECOIN HAS SUCCESSFULLY HALVED ITS BLOCK REWARD!</p>
+<p>⚡ <a href="https://twitter.com/search?q=%24LTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$LTC</a> ⚡ <a href="https://t.co/iemCnkPsdu" rel="nofollow">pic.twitter.com/iemCnkPsdu</a></p>
+<p>&mdash; Litecoin (@litecoin) <a href="https://twitter.com/litecoin/status/1686755968489861120?ref_src=twsrc%5Etfw" rel="nofollow noopener">August 2, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><span style="font-weight: 400;">Before the halving, there was a debate about whether the halving event would result in a positive price rally for LTC. Some analysts believed that the halving was already priced in by most traders in the market. This means that many traders had already factored in the fact that the block reward would be halved and had traded accordingly. This group of people did not think the halving would result in any significant price growth for LTC.</span></p>
+<p><span style="font-weight: 400;">Others, including Litecoin founder Charlie Lee, opined that the halving would increase the price per LTC coin. This is because the halving will reduce LTC’s supply, and should demand stay the same or increase, it would create a supply-demand imbalance, which would drive up the coin’s price. </span></p>
+<p><span style="font-weight: 400;">Lee, on a Twitter spaces session held last week, had said:</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">“If the supply side gets cut in half and the demand stays the same, then the price should go up.”</span></p></blockquote>
+<p><span style="font-weight: 400;">However, an on-chain assessment of LTC’s network activity since the halving event revealed a decline in demand for the alt. Per data from S<a href="https://app.santiment.net/charts/FoSzIDuW__sCl" target="_blank" rel="noopener nofollow">antiment</a>, yesterday, the count of daily active addresses that traded LTC dropped by 9%. In the early trading hours of today, this had dropped by another 68%.</span></p>
+<p><span style="font-weight: 400;">Likewise, transaction count also dwindled. With 127,110 LTC transactions completed on the day of the halving, a 5% decreased was registered.</span></p>
+<p><figure id="attachment_583488" aria-describedby="caption-attachment-583488" style="width: 3840px" class="wp-caption alignnone"><img class="size-full wp-image-583488" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023.png" alt="Litecoin Price Falls After Halving, Is the Party Over? 9" width="3840" height="1300" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023.png 3840w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-300x102.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-1024x347.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-770x261.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-1536x520.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-2048x693.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-500x169.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-269x91.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-746x253.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Litecoin-LTC-08.37.56-03-Aug-2023-1376x466.png 1376w" sizes="(max-width: 3840px) 100vw, 3840px" title="Litecoin Price Falls After Halving, Is the Party Over? 13"><figcaption id="caption-attachment-583488" class="wp-caption-text">Source: Santiment</figcaption></figure></p>
+<p><span style="font-weight: 400;">On the daily chart, LTC selling momentum rallied. The coin’s Relative Strength Index (RSI) and Money Flow Index (MFI) were 39.44 and 39.39 respectively. Below their neutral lines and trending downwards at press time, it indicated that more traders sold their LTC holdings than bought them.</span></p>
+<p><figure id="attachment_583486" aria-describedby="caption-attachment-583486" style="width: 2776px" class="wp-caption alignnone"><img class="size-full wp-image-583486" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04.png" alt="Litecoin Price Falls After Halving, Is the Party Over? 10" width="2776" height="1160" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04.png 2776w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-300x125.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-1024x428.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-770x322.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-1536x642.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-2048x856.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-500x209.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-269x112.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-746x312.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-08.33.04-1376x575.png 1376w" sizes="(max-width: 2776px) 100vw, 2776px" title="Litecoin Price Falls After Halving, Is the Party Over? 14"><figcaption id="caption-attachment-583486" class="wp-caption-text">Source: TradingView</figcaption></figure></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications</title>
 		<link>https://en.ethereumworldnews.com/sec-to-consider-ethereum-futures-etfs/</link>
 		
@@ -46,8 +365,8 @@
 		<category><![CDATA[VanEck]]></category>
 		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583481</guid>
 
-					<description><![CDATA[<img width="640" height="360" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png" class="webfeedsFeaturedVisual wp-post-image" alt="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 1" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png 640w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-269x151.png 269w" sizes="(max-width: 640px) 100vw, 640px" title="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 1">The Securities and Exchange Commission is  reportedly ready to consider the Ethereum Futures ETFs filed by several funds over the past week. The regulator previously asked funds to withdraw similar Ether Futures ETF applications. ]]></description>
-										<content:encoded><![CDATA[<img width="640" height="360" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png" class="webfeedsFeaturedVisual wp-post-image" alt="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 2" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png 640w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-269x151.png 269w" sizes="(max-width: 640px) 100vw, 640px" title="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 2">
+					<description><![CDATA[<img width="640" height="360" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png" class="webfeedsFeaturedVisual wp-post-image" alt="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 12" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png 640w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-269x151.png 269w" sizes="(max-width: 640px) 100vw, 640px" title="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 16">The Securities and Exchange Commission is  reportedly ready to consider the Ethereum Futures ETFs filed by several funds over the past week. The regulator previously asked funds to withdraw similar Ether Futures ETF applications. ]]></description>
+										<content:encoded><![CDATA[<img width="640" height="360" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png" class="webfeedsFeaturedVisual wp-post-image" alt="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 13" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7.png 640w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/b750765a48f44dd43a980eecd8ced3a7-269x151.png 269w" sizes="(max-width: 640px) 100vw, 640px" title="U.S SEC Is Reportedly Ready To Consider Ethereum Futures ETF Applications 17">
 <ul><li>The U.S. SEC has reportedly indicated an inclination to consider Ethereum Futures ETFs.&nbsp;</li><li>The change in the regulator’s stance comes after multiple applications over the past week.&nbsp;</li><li>TradFi and crypto giants, including Grayscale and VanEck, have filed applications for Ether Futures ETFs.&nbsp;</li><li>The securities regulator previously directed multiple funds to withdraw their ETH Futures ETF applications.&nbsp;</li></ul>
 
 
@@ -100,8 +419,8 @@
 		<category><![CDATA[fraud]]></category>
 		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583477</guid>
 
-					<description><![CDATA[<img width="300" height="168" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 3" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5-269x151.jpg 269w" sizes="(max-width: 300px) 100vw, 300px" title="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 3">The U.S. Department of Justice is reportedly considering fraud charges against Binance. Federal prosecutors are reluctant to pursue a lawsuit due to concerns about a potential bank run on the exchange. ]]></description>
-										<content:encoded><![CDATA[<img width="300" height="168" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 4" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5-269x151.jpg 269w" sizes="(max-width: 300px) 100vw, 300px" title="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 4">
+					<description><![CDATA[<img width="300" height="168" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 14" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5-269x151.jpg 269w" sizes="(max-width: 300px) 100vw, 300px" title="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 18">The U.S. Department of Justice is reportedly considering fraud charges against Binance. Federal prosecutors are reluctant to pursue a lawsuit due to concerns about a potential bank run on the exchange. ]]></description>
+										<content:encoded><![CDATA[<img width="300" height="168" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 15" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/download-5-269x151.jpg 269w" sizes="(max-width: 300px) 100vw, 300px" title="DOJ&#039;s Potential Fraud Charges Against Binance Lead to 4% Decline In BNB 19">
 <ul><li>The U.S. Department of Justice is reportedly considering fraud charges against Binance.&nbsp;</li><li>Federal prosecutors are concerned about the possibility of a bank run on the exchange.&nbsp;</li><li>The prosecutors may hit the exchange with fines or come to non-prosecution agreements to protect its users.&nbsp;</li><li>Reports of potential charges against the exchange have led to a 4% decline in BNB’s price.&nbsp;</li></ul>
 
 
@@ -152,8 +471,8 @@
 		<category><![CDATA[mining pool]]></category>
 		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583473</guid>
 
-					<description><![CDATA[<img width="770" height="337" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png" class="webfeedsFeaturedVisual wp-post-image" alt="KuCoin To Suspend Mining Pool Services Starting August 15 5" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-300x131.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1024x448.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1536x672.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-500x219.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-269x118.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-746x326.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1376x602.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World.png 2048w" sizes="(max-width: 770px) 100vw, 770px" title="KuCoin To Suspend Mining Pool Services Starting August 15 5">Crypto exchange KuCoin has announced that it will suspend its mining pool services on August 15, 2023. ]]></description>
-										<content:encoded><![CDATA[<img width="770" height="337" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png" class="webfeedsFeaturedVisual wp-post-image" alt="KuCoin To Suspend Mining Pool Services Starting August 15 6" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-300x131.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1024x448.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1536x672.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-500x219.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-269x118.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-746x326.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1376x602.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World.png 2048w" sizes="(max-width: 770px) 100vw, 770px" title="KuCoin To Suspend Mining Pool Services Starting August 15 6">
+					<description><![CDATA[<img width="770" height="337" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png" class="webfeedsFeaturedVisual wp-post-image" alt="KuCoin To Suspend Mining Pool Services Starting August 15 16" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-300x131.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1024x448.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1536x672.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-500x219.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-269x118.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-746x326.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1376x602.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World.png 2048w" sizes="(max-width: 770px) 100vw, 770px" title="KuCoin To Suspend Mining Pool Services Starting August 15 20">Crypto exchange KuCoin has announced that it will suspend its mining pool services on August 15, 2023. ]]></description>
+										<content:encoded><![CDATA[<img width="770" height="337" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png" class="webfeedsFeaturedVisual wp-post-image" alt="KuCoin To Suspend Mining Pool Services Starting August 15 17" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-770x337.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-300x131.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1024x448.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1536x672.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-500x219.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-269x118.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-746x326.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World-1376x602.png 1376w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Peaks-And-Proffer-Of-The-Largest-Altcoin-Exchange-In-The-World.png 2048w" sizes="(max-width: 770px) 100vw, 770px" title="KuCoin To Suspend Mining Pool Services Starting August 15 21">
 <ul><li>KuCoin has announced that it will halt its mining pool starting August 15, 2023.&nbsp;</li><li>The crypto exchange will temporarily suspend pools that support Bitcoin and Litecoin mining.&nbsp;</li><li>The exchange clarified that users would retain access to their crypto assets throughout the suspension period.&nbsp;</li><li>Restarting the mining pools would depend on the crypto market and users’ demand.&nbsp;</li></ul>
 
 
@@ -198,19 +517,19 @@
 		<category><![CDATA[Uniswap]]></category>
 		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583455</guid>
 
-					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 7" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 7">Despite increased regulatory activity, DeFi index price, led by Compound [COMP] and MakerDAO [MKR], has rallied by 56% since 11 June, Glassnode found in a new report.&#160; Glassnode’s DeFi price index tracks the performance of the top eight DeFi tokens by market capitalization. With other altcoins outperforming leading altcoin Ethereum [ETH], mostly propelled Ripple’s [XRP] partial win over the U.S. SEC, Glassnode noted: “Our DeFi index…has established an almost two-month-long uptrend relative to ETH. This is the first outperformance since [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 11" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 11"><p><span style="font-weight: 400">Despite increased regulatory activity, DeFi index price, led by Compound [COMP] and MakerDAO [MKR], has rallied by 56% since 11 June, Glassnode found in a new </span><a href="https://insights.glassnode.com/the-week-onchain-week-31-2023/" target="_blank" rel="noopener nofollow"><span style="font-weight: 400">report</span></a><span style="font-weight: 400">.&nbsp;</span></p>
+					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 18" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 22">Despite increased regulatory activity, DeFi index price, led by Compound [COMP] and MakerDAO [MKR], has rallied by 56% since 11 June, Glassnode found in a new report.&#160; Glassnode’s DeFi price index tracks the performance of the top eight DeFi tokens by market capitalization. With other altcoins outperforming leading altcoin Ethereum [ETH], mostly propelled Ripple’s [XRP] partial win over the U.S. SEC, Glassnode noted: “Our DeFi index…has established an almost two-month-long uptrend relative to ETH. This is the first outperformance since [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 22" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/shubham-dhage-gC_aoAjQl2Q-unsplash-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 26"><p><span style="font-weight: 400">Despite increased regulatory activity, DeFi index price, led by Compound [COMP] and MakerDAO [MKR], has rallied by 56% since 11 June, Glassnode found in a new </span><a href="https://insights.glassnode.com/the-week-onchain-week-31-2023/" target="_blank" rel="noopener nofollow"><span style="font-weight: 400">report</span></a><span style="font-weight: 400">.&nbsp;</span></p>
 <p><span style="font-weight: 400">Glassnode’s DeFi price index tracks the performance of the top eight DeFi tokens by market capitalization. With other altcoins outperforming leading altcoin Ethereum [ETH], mostly propelled Ripple’s [XRP] partial win over the U.S. SEC, Glassnode noted:</span></p>
 <blockquote><p><span style="font-weight: 400">“Our DeFi index…has established an almost two-month-long uptrend relative to ETH. This is the first outperformance since September 2022 and with very similar performance thus far.”</span></p></blockquote>
-<p><figure id="attachment_583458" aria-describedby="caption-attachment-583458" style="width: 1920px" class="wp-caption alignnone"><img class="size-full wp-image-583458" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 8" width="1920" height="1080" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52-.png 1920w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1536x864.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1376x774.png 1376w" sizes="(max-width: 1920px) 100vw, 1920px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 8"><figcaption id="caption-attachment-583458" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
+<p><figure id="attachment_583458" aria-describedby="caption-attachment-583458" style="width: 1920px" class="wp-caption alignnone"><img class="size-full wp-image-583458" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 19" width="1920" height="1080" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52-.png 1920w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1536x864.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/The-Metric-Factory-52--1376x774.png 1376w" sizes="(max-width: 1920px) 100vw, 1920px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 23"><figcaption id="caption-attachment-583458" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
 <h4><b>COMP and MKR take the lead</b></h4>
 <p><span style="font-weight: 400">Per the report, COMP and MKR “stand out as primary drivers of this trend.” Regarding Compound, its governance token COMP experienced an 83% uptick a week after the protocol’s founder and CEO Robert Leshner, revealed his exit from the lending protocol and announced the launch of the Superstate project.&nbsp;</span></p>
 <p><span style="font-weight: 400">Around the same period, MakerDAO introduced its </span><a href="https://messari.io/governor/proposal/3497389b-d123-4a88-a5f7-bff686261c37" target="_blank" rel="noopener nofollow"><span style="font-weight: 400">Smart Burn Engine</span></a><span style="font-weight: 400">, which drove up MKR’s value, Glassnode found.&nbsp;</span><span style="font-weight: 400">The MakerDAO Smart Burn Engine is a smart contract system that allocates excess DAI to purchase MKR, increasing the on-chain liquidity of MKR over time. This could remove $7 million worth of MKR from circulation in 30 days, increase the token&#8217;s demand and drive its price. Following the Smart Burn Engine’s implementation, MKR’s value climbed by 43% a week after.&nbsp;</span></p>
-<p><figure id="attachment_583459" aria-describedby="caption-attachment-583459" style="width: 3673px" class="wp-caption alignnone"><img class="size-full wp-image-583459" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 9" width="3673" height="2135" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1-.png 3673w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--300x174.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1024x595.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--770x448.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1536x893.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--2048x1190.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--500x291.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--269x156.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--746x434.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1376x800.png 1376w" sizes="(max-width: 3673px) 100vw, 3673px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 9"><figcaption id="caption-attachment-583459" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
+<p><figure id="attachment_583459" aria-describedby="caption-attachment-583459" style="width: 3673px" class="wp-caption alignnone"><img class="size-full wp-image-583459" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 20" width="3673" height="2135" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1-.png 3673w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--300x174.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1024x595.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--770x448.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1536x893.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--2048x1190.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--500x291.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--269x156.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--746x434.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691266-1--1376x800.png 1376w" sizes="(max-width: 3673px) 100vw, 3673px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 24"><figcaption id="caption-attachment-583459" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
 <h4><b>DEXes saw increased activity as well</b></h4>
 <p><span style="font-weight: 400">Apart from the jump in the value of DeFi tokens, the past few weeks have also been marked by a jump in network activity across decentralized exchanges. According to Glassnode:</span></p>
 <blockquote><p><span style="font-weight: 400">“The relative share of volume traded on DEXs has increased from 3.75% at the beginning of June to 29.2% today, close to the highs seen during the second half of 2022.”</span></p></blockquote>
-<p><figure id="attachment_583460" aria-describedby="caption-attachment-583460" style="width: 3673px" class="wp-caption alignnone"><img class="size-full wp-image-583460" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 10" width="3673" height="2150" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1-.png 3673w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--300x176.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1024x599.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--770x451.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1536x899.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--2048x1199.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--500x293.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--269x157.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--746x437.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1376x805.png 1376w" sizes="(max-width: 3673px) 100vw, 3673px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 10"><figcaption id="caption-attachment-583460" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
+<p><figure id="attachment_583460" aria-describedby="caption-attachment-583460" style="width: 3673px" class="wp-caption alignnone"><img class="size-full wp-image-583460" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1-.png" alt="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 21" width="3673" height="2150" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1-.png 3673w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--300x176.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1024x599.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--770x451.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1536x899.png 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--2048x1199.png 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--500x293.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--269x157.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--746x437.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Group-137691267-1--1376x805.png 1376w" sizes="(max-width: 3673px) 100vw, 3673px" title="COMP and MKR lead altcoin rally as regulatory uncertainty rallies 25"><figcaption id="caption-attachment-583460" class="wp-caption-text">Source: Glassnode</figcaption></figure></p>
 <p><span style="font-weight: 400">As noted by Glassnode, the rise in DEX volume was partly due to increased trading activity on Uniswap across Layer 2 platforms and the surge in network activity from both human traders and Sandwich bots.</span></p>
 <p><span style="font-weight: 400">While Uniswap trading volume on Ethereum remained low, Glassnode noted:</span></p>
 <blockquote><p><span style="font-weight: 400">“that an appreciable portion of trading has shifted from the Ethereum mainnet across to Arbitrum, attracting up to 32% of volume in March. This trend has remained elevated in June and July, which provides a degree of reasoning for the lower volume on Ethereum we observed above.”</span></p></blockquote>
@@ -220,322 +539,7 @@
 		
 		
 			</item>
-		<item>
-		<title>HEX Delisted From Uniswap UI After SEC Suit</title>
-		<link>https://en.ethereumworldnews.com/hex-delisted-uniswap-ui-after-sec-suit/</link>
-		
-		<dc:creator><![CDATA[Naga Avan-Nomayo]]></dc:creator>
-		<pubDate>Wed, 02 Aug 2023 12:23:06 +0000</pubDate>
-				<category><![CDATA[Blockchain News]]></category>
-		<category><![CDATA[Cryptocurrency]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[HEX]]></category>
-		<category><![CDATA[PulseChain]]></category>
-		<category><![CDATA[PulseX]]></category>
-		<category><![CDATA[Richard Heart]]></category>
-		<category><![CDATA[Securities and Exchange Commission]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583467</guid>
-
-					<description><![CDATA[<img width="770" height="514" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-770x514.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="HEX" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-770x514.jpeg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-300x200.jpeg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-500x334.jpeg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-346x231.jpeg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-746x498.jpeg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-269x179.jpeg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit.jpeg 1000w" sizes="(max-width: 770px) 100vw, 770px" title="HEX Delisted From Uniswap UI After SEC Suit 12">The Securities and Exchange Commission declared HEX and two other crypto projects led by Richard Heart as unregistered securities in a lawsuit. Heart allegedly raised $1 billion from HEX, PulseChain, and PulseX since 2019, per the SEC&#8217;s claims in an Eastern District of New York court. The token is now delisted on Uniswap&#8217;s front-end interface, though the token is still tradeable on crypto&#8217;s largest decentralized exchange. Richard Heart&#8217;s HEX token is now delisted on leading decentralized exchange HEX days after [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="770" height="514" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-770x514.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="HEX" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-770x514.jpeg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-300x200.jpeg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-500x334.jpeg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-346x231.jpeg 346w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-746x498.jpeg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit-269x179.jpeg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/HEX-Delisted-From-Uniswap-UI-After-SEC-Suit.jpeg 1000w" sizes="(max-width: 770px) 100vw, 770px" title="HEX Delisted From Uniswap UI After SEC Suit 13">
-<ul><li>The Securities and Exchange Commission declared HEX and two other crypto projects led by Richard Heart as unregistered securities in a lawsuit.</li><li>Heart allegedly raised $1 billion from HEX, PulseChain, and PulseX since 2019, per the SEC&#8217;s claims in an Eastern District of New York court.</li><li>The token is now delisted on Uniswap&#8217;s front-end interface, though the token is still tradeable on crypto&#8217;s largest decentralized exchange.</li></ul>
-
-
-
-<p>Richard Heart&#8217;s HEX token is now delisted on leading decentralized exchange HEX days after the U.S. Securities and Exchange Commission (SEC) alleged that the token is an unregistered security in a lawsuit filed on July 31. </p>
-
-
-
-<p>The move does not mean that Uniswap users cannot trade the token. Rather, the crypto is removed from Uniswap&#8217;s front-end user interface and appears with a warning note. Traders can still swap HEX on the DEX by directly calling up the token&#8217;s smart contract. </p>
-
-
-
-<p>Uniswap added HEX to its list of unsupported tokens found <a href="https://unsupportedtokens.uniswap.org/" target="_blank" data-type="URL" data-id="https://unsupportedtokens.uniswap.org/" rel="noreferrer noopener nofollow">here</a>. Cryptos in this list include coins delisted based on legal consideration and tokens that have proven to be scams or violate trademarks. </p>
-
-
-
-<h2>SEC Sues Richard Heart&#8217;s HEX And Pulse Projects</h2>
-
-
-
-<p>On July 31, the SEC sued Richard Heart whose government name is Richard Schueler. Heart was accused of raising at least $1 billion since 2019 from three crypto projects &#8211; HEX, PulseChain (PLS), and PulseX (PLSX). </p>
-
-
-
-<p>The complaint filed at a District Court in Eastern New York also named Uniswap as a trading venue for Heart&#8217;s tokens. According to the lawsuit, PulseX was launched as a Uniswap fork, and transactions of unregistered securities issued by Heart occurred on the DEX. </p>
-
-
-
-<blockquote class="wp-block-quote"><p>Venue is proper in this District because many of the crypto asset transactions described herein took place on Uniswap, a so-called decentralized crypto asset trading platform whose developers are headquartered in Brooklyn. </p></blockquote>
-
-
-
-<p>Included in the lawsuit are claims that Heart funneled cash invested in his crypto offerings toward funding a lavish personal lifestyle, thus defrauding investors of their money. The SEC has several cases against crypto founders including <a href="https://en.ethereumworldnews.com/sec-sues-celsius-founder-alex-mashinksy/" target="_blank" data-type="URL" data-id="https://en.ethereumworldnews.com/sec-sues-celsius-founder-alex-mashinksy/" rel="noreferrer noopener">Alex Mashinsky</a>, Changpeng Zhao, and <a href="https://www.cnbc.com/2023/02/16/sec-charges-do-kwon-with-fraud-in-connection-with-terra-collapse.html" target="_blank" data-type="URL" data-id="https://www.cnbc.com/2023/02/16/sec-charges-do-kwon-with-fraud-in-connection-with-terra-collapse.html" rel="noreferrer noopener">Do Kwon</a>. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Kenya Halts Worldcoin Signups Citing Public Safety</title>
-		<link>https://en.ethereumworldnews.com/kenya-halts-worldcoin-activity/</link>
-		
-		<dc:creator><![CDATA[Naga Avan-Nomayo]]></dc:creator>
-		<pubDate>Wed, 02 Aug 2023 10:39:31 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Sam Altman]]></category>
-		<category><![CDATA[Worldcoin]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583463</guid>
-
-					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Worldcoin" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Kenya Halts Worldcoin Signups Citing Public Safety 14">Worldcoin signups in Kenya were suspended on Wednesday pending investigations into privacy concerns and public risk posed by the project, said the Ministry of the Interior. Sam Altman&#8217;s iris-scanning project previously named Kenya&#8217;s capital city Nairobi as a major point of demand, garnering hundreds of thousands of sign-ups as of December 2022. France&#8217;s watchdog also voiced concerns about the project&#8217;s legality after last week&#8217;s launch and token airdrop to over 2 million participants worldwide. Kenya&#8217;s Ministry of the Interior on [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Worldcoin" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1536x864.jpg 1536w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-2048x1152.jpg 2048w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Kenya-Halts-Worldcoin-Signups-Citing-Public-Safety-1376x774.jpg 1376w" sizes="(max-width: 770px) 100vw, 770px" title="Kenya Halts Worldcoin Signups Citing Public Safety 15">
-<ul><li>Worldcoin signups in Kenya were suspended on Wednesday pending investigations into privacy concerns and public risk posed by the project, said the Ministry of the Interior.</li><li>Sam Altman&#8217;s iris-scanning project previously named Kenya&#8217;s capital city Nairobi as a major point of demand, garnering hundreds of thousands of sign-ups as of December 2022.</li><li>France&#8217;s watchdog also voiced concerns about the project&#8217;s legality after last week&#8217;s launch and token airdrop to over 2 million participants worldwide.</li></ul>
-
-
-
-<p>Kenya&#8217;s Ministry of the Interior on Wednesday <a href="https://www.facebook.com/photo/?fbid=598481229140719&amp;set=pcb.598481412474034" target="_blank" data-type="URL" data-id="https://www.facebook.com/photo/?fbid=598481229140719&amp;set=pcb.598481412474034" rel="noreferrer noopener nofollow">suspended</a> the activities of Worldcoin, an identity-focused crypto project co-founded by OpenAI CEO Sam Altman which launched last week. </p>
-
-
-
-<p>The government is reportedly concerned about Altman&#8217;s crypto endeavor which the Kenyan ministry described as being &#8220;involved in the registration of citizens through collection of eyeball/iris data.&#8221;</p>
-
-
-
-<p>Authorities in Kenya cited possible risks to public safety, privacy concerns, and data security as reasons for the decision. The Ministry also halted the activities of other entities that may be harvesting data from citizens until such time that authorities are able to ensure the safety of citizens. </p>
-
-
-
-<blockquote class="wp-block-quote"><p>Relevant security, financial services and data protection agencies have commenced inquiries and investigations to establish the authenticity and legality of the aforesaid activities, the safety and protection of the data being harvested, and how the harvesters intend to use the data.</p></blockquote>
-
-
-
-<p>Kenya&#8217;s capital city Nairobi was a hotspot for Worldcoin registration last year, accounting for around 250,000 signups as of December 2022. As today&#8217;s announcement could come as a roadblock for Altman&#8217;s Worldcoin, the project also <a href="https://en.ethereumworldnews.com/sam-altmans-worldcoin-wld-up-70/" target="_blank" data-type="URL" data-id="https://en.ethereumworldnews.com/sam-altmans-worldcoin-wld-up-70/" rel="noreferrer noopener">stirred</a> controversy in other jurisdictions following its debut. </p>
-
-
-
-<h2>Worldcoin Controversy</h2>
-
-
-
-<p>Upon its launch and token airdrop to 2 million subscribers worldwide, most of whom reside in the global South, Worldcoin was met with doubts stemming from privacy concerns. The project operates by issuing a digital ID after participants scan their eyeballs/iris with an Orb. A token under the ticker WLD is also issued although the project is geofenced and unavailable in jurisdictions like the U.S.</p>
-
-
-
-<p>Financial watchdogs in <a href="https://www.reuters.com/technology/frances-privacy-watchdog-says-worldcoin-legality-seems-questionable-2023-07-28/" data-type="URL" data-id="https://www.reuters.com/technology/frances-privacy-watchdog-says-worldcoin-legality-seems-questionable-2023-07-28/" target="_blank" rel="noreferrer noopener nofollow">France</a> and Germany voiced skepticism over the project&#8217;s data collection, highlighting concerns about data leaks, and Worldcoin&#8217;s presence in so-called third-world/underdeveloped regions. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microstrategy Incurs $24 Million Impairment Charge On Bitcoin Holdings In Q2 ‘2023</title>
-		<link>https://en.ethereumworldnews.com/microstrategy-24-million-impairment-btc/</link>
-		
-		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
-		<pubDate>Tue, 01 Aug 2023 23:18:36 +0000</pubDate>
-				<category><![CDATA[Business and Finance]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitcoin (BTC)]]></category>
-		<category><![CDATA[Financial Report]]></category>
-		<category><![CDATA[Michael Saylor]]></category>
-		<category><![CDATA[MicroStrategy (MSTR)]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583451</guid>
-
-					<description><![CDATA[<img width="770" height="460" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-770x460.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Microstrategy Incurs $24 Million Impairment Charge On Bitcoin Holdings In Q2 ‘2023 12" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-770x460.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-300x179.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-1024x611.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-500x298.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-269x161.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-746x445.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646.jpg 1300w" sizes="(max-width: 770px) 100vw, 770px" title="Microstrategy Incurs $24 Million Impairment Charge On Bitcoin Holdings In Q2 ‘2023 16">Michael Saylor-led MicroStrategy incurred an impairment charge of over $24 million on its Bitcoin holding of 152,333 BTC in the second quarter of 2023. ]]></description>
-										<content:encoded><![CDATA[<img width="770" height="460" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-770x460.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Microstrategy Incurs $24 Million Impairment Charge On Bitcoin Holdings In Q2 ‘2023 13" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-770x460.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-300x179.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-1024x611.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-500x298.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-269x161.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646-746x445.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/20211216122059646.jpg 1300w" sizes="(max-width: 770px) 100vw, 770px" title="Microstrategy Incurs $24 Million Impairment Charge On Bitcoin Holdings In Q2 ‘2023 17">
-<ul><li>MicroStrategy reported revenue of $120 million and gross profit of $93 million in Q2 ‘2023.&nbsp;</li><li>The company incurred an impairment charge of $24 million on its 152,333 BTC worth $2.3 billion.&nbsp;</li><li>The Michael Saylor-led firm acquired 12,800 BTC in the second quarter of 2023.&nbsp;</li><li>The company’s stock rose as much as 3% in after-hours trading.</li></ul>
-
-
-
-<p>U.S.-based business intelligence firm <a href="https://en.ethereumworldnews.com/microstrategy-stock-7-berenberg-bitcoin/">MicroStrategy</a> has reported a revenue of $120.4 million for the second quarter of 2023. The Michael Saylor-led firm, which is the largest publicly traded corporate holder of Bitcoins, acquired 12,888 BTC in the second quarter for $361.4 million at an average price of $28,233 per Bitcoin. </p>
-
-
-
-<h2><strong>MicroStrategy Stock Up 3% In After-Hours Trading</strong></h2>
-
-
-
-<p>The second quarter <a href="https://www.businesswire.com/news/home/20230801942986/en/" rel="nofollow noopener">financial results</a> released by MicroStrategy earlier today showed that the firm recorded a gross profit of $93.3 million, with a gross margin of 77.5%. The company managed to return to profitability thanks to the recent surge in Bitcoin’s price. </p>
-
-
-
-<p>However, MicroStrategy reported a $26.7 million loss from operations along with a net income of $26.7 million. The company also incurred impairment charges of $24.1 million on its Bitcoin holdings, which marked a 97% decline from the impairment charges of Q2 ‘2022.&nbsp;</p>
-
-
-
-<blockquote class="wp-block-quote"><p>“We efficiently raised capital through our at-the-market equity program and used cash from operations to continue to increase bitcoins on our balance sheet. And we did so against the promising backdrop of increasing institutional interest, progress on accounting transparency, and ongoing regulatory clarity for bitcoin.” </p><cite>Andrew Kang, Chief Financial Officer at MicroStrategy</cite></blockquote>
-
-
-
-<p>As of June 30, 2023, MicroStrategy held approximately 152,333 Bitcoins valued at $2.3 billion, which were purchased at an average price of$15,251. This amount reflected the cumulative impairment losses of $2.19 billion since acquisition. The company has spent a total of $4.53 billion to accumulate the BTC.&nbsp;</p>
-
-
-
-<p>MicroStrategy beat the earnings per share (EPS) expectations by a whopping 249%. The company’s share price closed at $434 and gained nearly 3% in after-hours trading.&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Voyager Digital Customer Data Hacked Amid Bankruptcy Process, VGX Down 10%</title>
-		<link>https://en.ethereumworldnews.com/voyager-digital-hacked-bankruptcy-vgx-10/</link>
-		
-		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
-		<pubDate>Tue, 01 Aug 2023 20:29:53 +0000</pubDate>
-				<category><![CDATA[Business and Finance]]></category>
-		<category><![CDATA[Law and Legislation]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Scams and Hacks]]></category>
-		<category><![CDATA[Wallets and Exchanges]]></category>
-		<category><![CDATA[Bankruptcy]]></category>
-		<category><![CDATA[Crypto scams]]></category>
-		<category><![CDATA[VGX]]></category>
-		<category><![CDATA[Voyager Digital]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583447</guid>
-
-					<description><![CDATA[<img width="290" height="174" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Voyager Digital Customer Data Hacked Amid Bankruptcy Process, VGX Down 10% 14" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1.jpg 290w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1-269x161.jpg 269w" sizes="(max-width: 290px) 100vw, 290px" title="Voyager Digital Customer Data Hacked Amid Bankruptcy Process, VGX Down 10% 18">Customers of Voyager Digital have been targeted by scammers looking to gain access to their digital wallets and steal funds from the bankruptcy payout. ]]></description>
-										<content:encoded><![CDATA[<img width="290" height="174" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Voyager Digital Customer Data Hacked Amid Bankruptcy Process, VGX Down 10% 15" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1.jpg 290w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/images-1-269x161.jpg 269w" sizes="(max-width: 290px) 100vw, 290px" title="Voyager Digital Customer Data Hacked Amid Bankruptcy Process, VGX Down 10% 19">
-<ul><li>Defunct crypto lender Voyager Digital has become the target of a scam amid its bankruptcy proceedings.</li><li>The scams were designed to extract data from Voyager’s customers who were awaiting repayment from the firm.&nbsp;</li><li>Law enforcement agencies and bankruptcy officials are investigating the scams.&nbsp;</li><li>The platform’s native token VGX lost more than 10% of its value following the latest development.&nbsp;</li></ul>
-
-
-
-<p>A scam targeting stranded customers of &lt;a href=&quot;http://&lt;!&#8211; wp:paragraph &#8211;&gt; &lt;p&gt;According to &lt;a href=&quot;https://en.ethereumworldnews.com/voyagers-payback-customers-35-of-claims/&quot;&gt;Voyager Digital&lt;/a&gt; lawyer Darren Azman, the available amount represented nearly 80% of the funds that were available for the bankruptcy payout process. The scam reportedly occurred during the court-supervised liquidation process as the customers were being paid out. &lt;/p&gt; <!-- /wp:paragraph -&gt;"&gt;-->Voyager Digital</a> has become the latest development in the defunct crypto lender’s Chapter 11 bankruptcy proceedings. The customers were reportedly hit with scams as they attempted to access the bankruptcy payouts on the recently opened platform. </p>
-
-
-
-<h2><strong>Scammers Used Fake Websites To Target Voyager Digital’s Customers</strong></h2>
-
-
-
-<p>Voyager Digital recently reopened its app to allow its customers to view the payout amount that they were eligible for and withdraw the same. The firm’s customers, who had been stranded since July last year, had a 30-day window to withdraw approximately $490 million worth of Voyager’s remaining assets, <a href="https://www.bloomberg.com/news/articles/2023-08-01/voyager-bankruptcy-may-have-been-hacked-to-get-customer-data#xj4y7vzkg" rel="nofollow noopener">Bloomberg</a> reported. </p>
-
-
-
-<p>During a recent court hearing, Azman told the judge overseeing the bankruptcy proceedings that the scams were designed to gain access to the digital wallets of customers who accessed Voyager’s platform to retrieve funds. As per the lawyer, the scammers set up fake websites that lured the customers in by offering higher payouts to those who linked their non-Voyager crypto wallet to a new account offered by the. The wallets were drained once the customer signed up for the new account.&nbsp;</p>
-
-
-
-<blockquote class="wp-block-quote"><p>It’s disgraceful. I don’t know what to say. After everything these folks have been through.” </p><cite>US Bankruptcy Judge Michael Wiles</cite></blockquote>
-
-
-
-<p>The Voyager Digital lawyer stated that the scammers had managed to steal funds from very few customers so far. Law enforcement agencies and bankruptcy officials overseeing Voyager’s liquidation are looking into the scams. The platform’s native token, <a href="https://coinmarketcap.com/currencies/voyager-token/" rel="nofollow noopener">VGX</a>, has lost over 10% of its value over the past 24 hours. At the time of writing, VGX was trading at $0.17.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Justin Sun&#8217;s Tron Group Records $85 Million Profit In Q2 &#8216;2023</title>
-		<link>https://en.ethereumworldnews.com/justin-sun-tron-85-million-profit-q2-2023/</link>
-		
-		<dc:creator><![CDATA[Aditya Anand]]></dc:creator>
-		<pubDate>Tue, 01 Aug 2023 15:54:08 +0000</pubDate>
-				<category><![CDATA[Business and Finance]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[TRON (TRX) News]]></category>
-		<category><![CDATA[Wallets and Exchanges]]></category>
-		<category><![CDATA[Financial Report]]></category>
-		<category><![CDATA[Huobi Global]]></category>
-		<category><![CDATA[justin sun]]></category>
-		<category><![CDATA[Tron (TRX)]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583443</guid>
-
-					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Justin Sun&#039;s Tron Group Records $85 Million Profit In Q2 &#039;2023 16" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036.jpg 1200w" sizes="(max-width: 770px) 100vw, 770px" title="Justin Sun&#039;s Tron Group Records $85 Million Profit In Q2 &#039;2023 20">Justin Sun's Tron Group has reported a profit of $85 million in second quarter of 2023, marking a QoQ increase of 183%. ]]></description>
-										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-770x433.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Justin Sun&#039;s Tron Group Records $85 Million Profit In Q2 &#039;2023 17" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-770x433.jpg 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-300x169.jpg 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-1024x576.jpg 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-500x281.jpg 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-269x151.jpg 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036-746x420.jpg 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/202207181300-main.cropped_1658135036.jpg 1200w" sizes="(max-width: 770px) 100vw, 770px" title="Justin Sun&#039;s Tron Group Records $85 Million Profit In Q2 &#039;2023 21">
-<ul><li>Justin Sun’s Tron Group has posted a profit of $85 million for the second quarter of 2023.&nbsp;</li><li>The group saw a growth of 183% in its quarter-on-quarter (QoQ) profit thanks to cost-cutting measures.</li><li>Sun projected revenue of $200 million for Q3, with a quarterly profit of $100 million.&nbsp;</li><li>Meanwhile, Huobi Global recorded a significant loss in Q2 and is expected to break even in the third quarter.&nbsp;&nbsp;</li></ul>
-
-
-
-<p>Justin Sun’s Tron Group has recorded a profit of $85 million in the third quarter of 2023. The group saw a quarter-on-quarter profit growth of 183% after enforcing cost-cutting measures. Sun, who took to <a href="https://twitter.com/justinsuntron/status/1686371227089436672" rel="nofollow noopener">Twitter</a> earlier today to share Tron’s performance with the community, expects the group’s revenue to reach $200 million in the third quarter. </p>
-
-
-
-<h2><strong>Justin Sun Expects Huobi To Breakeven In Q3 ‘2023</strong></h2>
-
-
-
-<p>According to <a href="https://en.ethereumworldnews.com/trx-expands-ethereum-bittorrent-bridge/">Justin Sun</a>, Tron Group’s second-quarter revenue came in at $193 million. With an expenditure of $108 million, the group was left with a quarterly profit of $85 million, as compared to $30 million in the first quarter of 2023. The revenue did not include investment gains and losses of the firm. </p>
-
-
-
-<p>Some of the Q2 metrics were lower than Sun had <a href="https://twitter.com/sunyuchentron/status/1645366519260655616" rel="nofollow noopener">projected</a> at the end of the first quarter. While the revenue exceeded the projected $187 million, the group failed to limit its expenditure to $76 million, which prevented it from reaching the projected profit of $111 million. </p>
-
-
-
-<p>Sun told his followers that the firm’s efforts to increase revenue and reduce costs were visible in the earnings. As for the third quarter revenue, the Tron founder shared a conservative forecast of $200 million. He added that he expected a 7.4% reduction in expenditure, bringing the Q3 projection to $100 million.&nbsp;</p>
-
-
-
-<p>Huobi Exchange, which was reportedly acquired by Justin Sun’s group last year, suffered a significant loss in the second quarter. The crypto entrepreneur expects the exchange business to break even in the next quarter and turn slightly profitable by Q4 ‘2023.&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ethereum DeFi TVL Down $3.55B Since Curve Crisis</title>
-		<link>https://en.ethereumworldnews.com/ethereum-defi-tvl-down-curve-crisis/</link>
-		
-		<dc:creator><![CDATA[Naga Avan-Nomayo]]></dc:creator>
-		<pubDate>Tue, 01 Aug 2023 14:07:49 +0000</pubDate>
-				<category><![CDATA[Decentralized Finance (DeFi)]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Curve Finance (CRV)]]></category>
-		<category><![CDATA[defi]]></category>
-		<category><![CDATA[Ethereum (ETH)]]></category>
-		<category><![CDATA[justin sun]]></category>
-		<category><![CDATA[Michael Egorov]]></category>
-		<guid isPermaLink="false">https://en.ethereumworldnews.com/?p=583436</guid>
-
-					<description><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-770x433.png" class="webfeedsFeaturedVisual wp-post-image" alt="Curve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis.png 1280w" sizes="(max-width: 770px) 100vw, 770px" title="Ethereum DeFi TVL Down $3.55B Since Curve Crisis 22">Curve founder Michael Egorov has sold over 39 million CRV to investors and entities in over-the-counter deals. Egorov received $15 million in USDT so far for selling CRV at a discounted price of $0.40, per DeFi analysts LookOnChain. Sources said the OTC deals include 3-6 month lock-up terms with the buyers like Tron founder Justin Sun and market maker DWF Labs. Total value locked on Ethereum dipped by a few billion following exploits on factory pools provided by Curve Finance [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="770" height="433" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-770x433.png" class="webfeedsFeaturedVisual wp-post-image" alt="Curve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" loading="lazy" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-770x433.png 770w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-300x169.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-1024x576.png 1024w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-500x281.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-269x151.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis-746x420.png 746w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-Down-3.55B-Since-Curve-Crisis.png 1280w" sizes="(max-width: 770px) 100vw, 770px" title="Ethereum DeFi TVL Down $3.55B Since Curve Crisis 24">
-<ul><li>Curve founder Michael Egorov has sold over 39 million CRV to investors and entities in over-the-counter deals.</li><li>Egorov received $15 million in USDT so far for selling CRV at a discounted price of $0.40, per DeFi analysts LookOnChain.</li><li>Sources said the OTC deals include 3-6 month lock-up terms with the buyers like Tron founder Justin Sun and market maker DWF Labs.</li><li>Total value locked on Ethereum dipped by a few billion following exploits on factory pools provided by Curve Finance and a slump in CRV price.</li></ul>
-
-
-
-<p>Total value locked on across Ethereum DeFi protocols dipped by $3.55 billion since Sunday following exploits on Curve Finance factory pools, on-chain analytics provider IntoTheBlock said on Tuesday. </p>
-
-
-
-<p>The 8% decline in TVL comes at a time when founder Michael Egorov is selling discounted CRV tokens for USDT in a bid to stave off liquidation of his collateralized loan on Aave, a major DeFi lender.</p>
-
-
-
-<figure class="wp-block-image size-full"><img width="750" height="429" src="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock.png" alt="Ethereum DeFi TVL Down $3.55B Since Curve Crisis 18" class="wp-image-583437" srcset="https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock.png 750w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock-300x172.png 300w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock-500x286.png 500w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock-269x154.png 269w, https://en.ethereumworldnews.com/wp-content/uploads/2023/08/Ethereum-DeFi-TVL-by-IntoTheBlock-746x427.png 746w" sizes="(max-width: 750px) 100vw, 750px" title="Ethereum DeFi TVL Down $3.55B Since Curve Crisis 23"><figcaption><strong><a href="https://app.intotheblock.com/insights/defi/charts" data-type="URL" data-id="https://app.intotheblock.com/insights/defi/charts" target="_blank" rel="noreferrer noopener nofollow">Ethereum DeFi TVL by IntoTheBlock</a></strong></figcaption></figure>
-
-
-
-<h2>Tron&#8217;s Sun And Other Tap Curve Discount</h2>
-
-
-
-<p>Per DeFi analysts LookOnChain, Curve founder Michael Egorov has sold 39.25 million CRV in exchange for $15.8 million USDT. The transactions were reportedly part of OTC deals with investors like Tron founder Justin Sun, market maker DWF Labs,  crypto trader DCFGod, and DeFi platform Cream Finance. </p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">More and more institutions and investors bought <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$CRV</a> via OTC!<br><br>Machi Big Brother bought 3.75M <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$CRV</a>.<br>DWF Labs bought 2.5M <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$CRV</a>.<a href="https://t.co/MQg382LigF" rel="nofollow">https://t.co/MQg382LigF</a> bought 2.5M <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$CRV</a>.<br>&#8230;<br><br>Michael Egorov has sold a total of 39.25M <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$CRV</a> via OTC and received 15.8M <a href="https://twitter.com/search?q=%24USDT&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener">$USDT</a>.<a href="https://t.co/hQBlW5WG6J" rel="nofollow">https://t.co/hQBlW5WG6J</a> <a href="https://t.co/NMIQ2p05ZL" rel="nofollow">pic.twitter.com/NMIQ2p05ZL</a></p>&mdash; Lookonchain (@lookonchain) <a href="https://twitter.com/lookonchain/status/1686331352483082240?ref_src=twsrc%5Etfw" rel="nofollow noopener">August 1, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>According to reports, Egorov and the buyers agreed on lock-up periods ranging from three to six months. These investors can also sell their CRV should the price rise to $0.80. </p>
-
-
-
-<p>Egorov&#8217;s flurry of OTC deals is purportedly a move to cushion his $60 million on Aave collateralized by $175 million in CRV tokens. Liquidation of the founder&#8217;s Aave loan could trigger a domino effect of bad debt across several DeFi lending services, potentially plunging the decentralized lending ecosystem into disarray. </p>
-
-
-
-<p>This scenario only plays out should CRV&#8217;s price plunge significantly below $0.3 thus liquidating Egorov&#8217;s massive Aave loan. Concerns regarding the possibility were <a href="https://en.ethereumworldnews.com/curve-finance-warns-arbitrum-exploit/" target="_blank" data-type="URL" data-id="https://en.ethereumworldnews.com/curve-finance-warns-arbitrum-exploit/" rel="noreferrer noopener">raised</a> after factory exploits on Curve Finance liquidity pools and the ensuing CRV price decline. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7588 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1907337 metric#prefetches=154 metric#store-reads=21 metric#store-writes=5 metric#store-hits=163 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=205.01 metric#ms-cache=16.51 metric#ms-cache-avg=0.6604 metric#ms-cache-ratio=8.1 sample#redis-hits=109140878 sample#redis-misses=2761825 sample#redis-hit-ratio=97.5 sample#redis-ops-per-sec=55 sample#redis-evicted-keys=0 sample#redis-used-memory=101022624 sample#redis-used-memory-rss=108580864 sample#redis-memory-fragmentation-ratio=1.1 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=34481 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7572 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1963831 metric#prefetches=162 metric#store-reads=23 metric#store-writes=4 metric#store-hits=174 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=454.68 metric#ms-cache=47.66 metric#ms-cache-avg=1.8331 metric#ms-cache-ratio=10.5 -->
