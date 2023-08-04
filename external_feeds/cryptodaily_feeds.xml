@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Fri, 04 Aug 2023 04:57:13 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 04 Aug 2023 08:32:08 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,54 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Curve Extends Olive Branch, Offers 10% Bug Bounty To Hackers]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/curve-extends-olive-branch-offers-10-bug-bounty-to-hackers</link>
+			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" />
+			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/curve-728x350.jpeg" length="528" type="image/jpg" />
+			  <pubDate>Fri, 04 Aug 2023 07:55:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/curve-extends-olive-branch-offers-10-bug-bounty-to-hackers</guid>
+			  <description><![CDATA[<p>Decentralized Finance platforms Curve Finance, Alchemix, and Metronome have announced a joint initiative to recover the stolen funds in the wake of the recent exploits that hit Curve&rsquo;s pools.&nbsp;</p>
+<p>The exploit resulted in a loss of around $70 million worth of crypto assets, meaning the bounty offered is around $7 million.&nbsp;</p>
+A Resolution In Sight?&nbsp;
+<p>The DeFi platforms impacted by the Curve heist are doing everything they can to recover the stolen funds. According to on-chain data, Curve, Alchemix, and Metronome have offered the hackers a 10% bounty as a reward, urging the hackers to return the remaining 90% of the stolen funds. Curve Finance updated users about their offer to the hackers via X, stressing that they would face no further legal or law enforcement actions if they chose to return the funds. Curve stated in the joint message sent via Etherscan,&nbsp;</p>
+
+<p>&ldquo;The offer comes with a guarantee of no further legal actions or involvement of law enforcement. We want to resolve this in a civilized manner. You will have no risk of us pursuing this further, no risk of law enforcement issues.&rdquo;</p>
+
+Final Warning
+<p>The three protocols gave the hackers a deadline of 6th August to accept their offer. They added that should the hackers refuse the offer; the protocols would expand the bounty to the public and offer the 10% to anyone who would be able to identify them in a way that leads to their conviction. The stark warning read,&nbsp;</p>
+
+<p>&ldquo;If you choose not to partake in the voluntary return and complete the process by 6th August at 0800 UTC, we will expand the bounty to the public and offer the full 10% to the person who is able to identify you in a way that leads to your conviction in the courts. We will pursue you from all angles with the full extent of the law.&rdquo;</p>
+
+<p>All three protocols have opened a direct line of communication with the hackers through curvenegotiation@protonmail.com and urged the hackers to respond and take the offer to avoid legal action. The protocols also stressed that any individuals responding for negotiations would need to verify their credentials and ownership of their email address on-chain.&nbsp;</p>
+<p>Curve and the other protocol&rsquo;s outreach is similar to the strategy adopted by DeFi protocol Euler Finance, which fell victim to a crippling hack earlier in the year. However, the protocol was able to negotiate with the hackers and retrieve the stolen funds successfully.&nbsp;</p>
+The Curve Hack&nbsp;
+<p>The Curve exploit saw around $70 million worth of crypto stolen by hackers. This figure included CRV tokens worth around $4.52 million, which led to a significant drop in the price of the token. At the heart of the exploit was a vulnerability in Vyper called a reentrancy bug. This vulnerability allowed hackers to drain several stablecoin pools on Curve, leading to considerable chaos in the DeFi ecosystem.&nbsp;</p>
+<p>DeFi markets were further spooked after reports emerged that Curve Finance founder Michael Egorov had allegedly taken several loans using around 47% of CRV&rsquo;s circulating supply. Several DeFi protocols, such as Aave, Abracadabra, and several others, faced major implications following the drop in CRV&rsquo;s value. This is because the decline put Egorov&rsquo;s $168 million lending position at risk of liquidation, potentially unleashing a domino effect on DeFi.&nbsp;</p>
+<p>However, Curve and Egorov found support from prominent names in the crypto and DeFi space, such as Power DeFi user DCF God, Tron Foundation CEO Justin Sun, and Jeffrey Huang, also known as Machi Big Brother. Sun, DCF God, and Huang purchased large quantities of CRV from Egorov, helping reduce the principal value of Egorov&rsquo;s loan from $63 million to $54 million. Other players who assisted Egorov were Cream Finance, which sent Egorov $1 million worth of USDT and USDC, and Huang, who sent Egorov $1.5 million worth of USDT.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Decentralized Finance platforms Curve Finance, Alchemix, and Metronome have announced a joint initiative to recover the stolen funds in the wake of the recent exploits that hit Curve&rsquo;s pools.&nbsp;</p>
+<p>The exploit resulted in a loss of around $70 million worth of crypto assets, meaning the bounty offered is around $7 million.&nbsp;</p>
+A Resolution In Sight?&nbsp;
+<p>The DeFi platforms impacted by the Curve heist are doing everything they can to recover the stolen funds. According to on-chain data, Curve, Alchemix, and Metronome have offered the hackers a 10% bounty as a reward, urging the hackers to return the remaining 90% of the stolen funds. Curve Finance updated users about their offer to the hackers via X, stressing that they would face no further legal or law enforcement actions if they chose to return the funds. Curve stated in the joint message sent via Etherscan,&nbsp;</p>
+
+<p>&ldquo;The offer comes with a guarantee of no further legal actions or involvement of law enforcement. We want to resolve this in a civilized manner. You will have no risk of us pursuing this further, no risk of law enforcement issues.&rdquo;</p>
+
+Final Warning
+<p>The three protocols gave the hackers a deadline of 6th August to accept their offer. They added that should the hackers refuse the offer; the protocols would expand the bounty to the public and offer the 10% to anyone who would be able to identify them in a way that leads to their conviction. The stark warning read,&nbsp;</p>
+
+<p>&ldquo;If you choose not to partake in the voluntary return and complete the process by 6th August at 0800 UTC, we will expand the bounty to the public and offer the full 10% to the person who is able to identify you in a way that leads to your conviction in the courts. We will pursue you from all angles with the full extent of the law.&rdquo;</p>
+
+<p>All three protocols have opened a direct line of communication with the hackers through curvenegotiation@protonmail.com and urged the hackers to respond and take the offer to avoid legal action. The protocols also stressed that any individuals responding for negotiations would need to verify their credentials and ownership of their email address on-chain.&nbsp;</p>
+<p>Curve and the other protocol&rsquo;s outreach is similar to the strategy adopted by DeFi protocol Euler Finance, which fell victim to a crippling hack earlier in the year. However, the protocol was able to negotiate with the hackers and retrieve the stolen funds successfully.&nbsp;</p>
+The Curve Hack&nbsp;
+<p>The Curve exploit saw around $70 million worth of crypto stolen by hackers. This figure included CRV tokens worth around $4.52 million, which led to a significant drop in the price of the token. At the heart of the exploit was a vulnerability in Vyper called a reentrancy bug. This vulnerability allowed hackers to drain several stablecoin pools on Curve, leading to considerable chaos in the DeFi ecosystem.&nbsp;</p>
+<p>DeFi markets were further spooked after reports emerged that Curve Finance founder Michael Egorov had allegedly taken several loans using around 47% of CRV&rsquo;s circulating supply. Several DeFi protocols, such as Aave, Abracadabra, and several others, faced major implications following the drop in CRV&rsquo;s value. This is because the decline put Egorov&rsquo;s $168 million lending position at risk of liquidation, potentially unleashing a domino effect on DeFi.&nbsp;</p>
+<p>However, Curve and Egorov found support from prominent names in the crypto and DeFi space, such as Power DeFi user DCF God, Tron Foundation CEO Justin Sun, and Jeffrey Huang, also known as Machi Big Brother. Sun, DCF God, and Huang purchased large quantities of CRV from Egorov, helping reduce the principal value of Egorov&rsquo;s loan from $63 million to $54 million. Other players who assisted Egorov were Cream Finance, which sent Egorov $1 million worth of USDT and USDC, and Huang, who sent Egorov $1.5 million worth of USDT.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[LET'S GET READY FOR THE NEXT BULL RUN TOGETHER - JOIN US IN OCTOBER]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/lets-get-ready-for-the-next-bull-run-together-join-us-in-october</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/image2-96.png" medium="image" />
@@ -731,42 +779,6 @@ New Rules Could Tackle Offenders&nbsp;
 
 <p>&ldquo;We will always be differentiated from the ETFs because they can never offer leverage, no yield, they have limited hedging options. They are not diversified, and they charge a fee.&rdquo;</p>
 
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[US Department Of Justice Mulling Fraud Charges Against Binance]]></title>
-			  <link>https://cryptodaily.co.uk/2023/08/us-department-of-justice-mulling-fraud-charges-against-binance</link>
-			  <media:content url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/doj-1920.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/doj-1920.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/doj-1920.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 03 Aug 2023 08:10:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/us-department-of-justice-mulling-fraud-charges-against-binance</guid>
-			  <description><![CDATA[<p>In a nightmare scenario, a report has claimed that United States Department of Justice officials are contemplating bringing fraud charges against Binance, the world&rsquo;s largest cryptocurrency exchange.</p>
-<p>The Department of Justice has concerns about potential market instability and consumer fallout of such action.</p>
-DOJ Sets Its Sights On Binance
-<p>According to the report, while officials are mulling action, they are also concerned about the drastic domino effect it could have on the larger crypto market, leading to considerable market instability. According to sources familiar with the matter, Department of Justice officials are concerned that action against Binance could trigger a bank run similar to the one seen with bankrupt exchange FTX. The bank run in the wake of the FTX situation caused thousands of customers to lose their funds, triggering panic in the crypto markets.</p>
-<p>Reacting to the news, the crypto markets came under some selling pressure, with Bitcoin (BTC) and Ethereum (ETH) witnessing drops. BNB also saw a drop of over 3% following the reports but has since recovered, rising by 2%.</p>
-A Compromise?
-<p>Given the concerns surrounding action against Binance, the Department of Justice is contemplating compromise options such as non-deferred prosecution agreements and large fines. According to sources, such action would minimize harm to consumers while still holding the exchange accountable for its actions. Reports of the Department of Justice contemplating action against Binance gathered steam after the United States Securities and Exchange Commission (SEC) sued the cryptocurrency exchange and its billionaire founder Changpeng Zhao.</p>
-<p>The Securities and Exchange Commission brought 13 charges against the exchange, which included operating as an unregulated securities exchange in the United States and commingling investor funds. It has also charged Binance with misleading customers by using a secret market-making firm called Sigma Chain and manipulating trades on Binance&rsquo;s US platform. Additionally, the United States Commodity Futures Trading Commission (CFTC) has also brought similar charges against the exchange.</p>
-A Potential Black Swan
-<p>According to the Q1 2023 crypto industry report, FTX held a 5% market share of the spot crypto trading volumes across the top ten crypto exchanges. The exchange&rsquo;s collapse decimated the crypto markets, with Bitcoin dropping by almost 25% in 2 days. Data from the Block has revealed that in July 2023, Binance held a market share of 47% in spot crypto trading activity. Given that Binance holds a far more dominant position than FTX did, the ramifications for the market in the event of Binance meeting the same fate as FTX would be catastrophic.</p>
-<p>FTX collapsed largely due to a bank run due to fears about its balance sheet&rsquo;s strength, which were well-founded in the end as FTX eventually had to halt withdrawals. This is because the exchange did not have enough assets to process withdrawal requests. But is the concern surrounding Binance legitimate? Binance has stated on a number of occasions that it is possible to verify that the exchange holds its user assets in a 1:1 ratio apart from its reserves.</p>
-<p>According to its website, the exchange claims that the ratio of bits Bitcoin holdings with respect to customer net balances stands at around 104%. This means that as things stand, even if the Department of Justice brought fraud charges against Binance, the exchange would be able to fulfill all withdrawal requests without any issues. Despite the developments, Changpeng Zhao remained defiant, highlighting the fact that Binance Coin (BNB) was the fourth largest cryptocurrency by market capitalization.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>In a nightmare scenario, a report has claimed that United States Department of Justice officials are contemplating bringing fraud charges against Binance, the world&rsquo;s largest cryptocurrency exchange.</p>
-<p>The Department of Justice has concerns about potential market instability and consumer fallout of such action.</p>
-DOJ Sets Its Sights On Binance
-<p>According to the report, while officials are mulling action, they are also concerned about the drastic domino effect it could have on the larger crypto market, leading to considerable market instability. According to sources familiar with the matter, Department of Justice officials are concerned that action against Binance could trigger a bank run similar to the one seen with bankrupt exchange FTX. The bank run in the wake of the FTX situation caused thousands of customers to lose their funds, triggering panic in the crypto markets.</p>
-<p>Reacting to the news, the crypto markets came under some selling pressure, with Bitcoin (BTC) and Ethereum (ETH) witnessing drops. BNB also saw a drop of over 3% following the reports but has since recovered, rising by 2%.</p>
-A Compromise?
-<p>Given the concerns surrounding action against Binance, the Department of Justice is contemplating compromise options such as non-deferred prosecution agreements and large fines. According to sources, such action would minimize harm to consumers while still holding the exchange accountable for its actions. Reports of the Department of Justice contemplating action against Binance gathered steam after the United States Securities and Exchange Commission (SEC) sued the cryptocurrency exchange and its billionaire founder Changpeng Zhao.</p>
-<p>The Securities and Exchange Commission brought 13 charges against the exchange, which included operating as an unregulated securities exchange in the United States and commingling investor funds. It has also charged Binance with misleading customers by using a secret market-making firm called Sigma Chain and manipulating trades on Binance&rsquo;s US platform. Additionally, the United States Commodity Futures Trading Commission (CFTC) has also brought similar charges against the exchange.</p>
-A Potential Black Swan
-<p>According to the Q1 2023 crypto industry report, FTX held a 5% market share of the spot crypto trading volumes across the top ten crypto exchanges. The exchange&rsquo;s collapse decimated the crypto markets, with Bitcoin dropping by almost 25% in 2 days. Data from the Block has revealed that in July 2023, Binance held a market share of 47% in spot crypto trading activity. Given that Binance holds a far more dominant position than FTX did, the ramifications for the market in the event of Binance meeting the same fate as FTX would be catastrophic.</p>
-<p>FTX collapsed largely due to a bank run due to fears about its balance sheet&rsquo;s strength, which were well-founded in the end as FTX eventually had to halt withdrawals. This is because the exchange did not have enough assets to process withdrawal requests. But is the concern surrounding Binance legitimate? Binance has stated on a number of occasions that it is possible to verify that the exchange holds its user assets in a 1:1 ratio apart from its reserves.</p>
-<p>According to its website, the exchange claims that the ratio of bits Bitcoin holdings with respect to customer net balances stands at around 104%. This means that as things stand, even if the Department of Justice brought fraud charges against Binance, the exchange would be able to fulfill all withdrawal requests without any issues. Despite the developments, Changpeng Zhao remained defiant, highlighting the fact that Binance Coin (BNB) was the fourth largest cryptocurrency by market capitalization.</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					

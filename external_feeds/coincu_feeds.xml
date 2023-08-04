@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 04 Aug 2023 02:20:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Aug 2023 05:19:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,689 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Offchain Labs Announces BOLD Validation Making Arbitrum More Secure</title>
+		<link>https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 05:18:10 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208340</guid>
+
+					<description><![CDATA[Offchain Labs has released BOLD, permissionless validation for Arbitrum chains.<p class="has-text-align-right"><a href="https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Offchain Labs has released BOLD, permissionless validation for Arbitrum chains.</em></li>
+
+
+
+<li><em>BOLD is a huge technical achievement that makes the Arbitrum chain more secure than ever.</em></li>
+
+
+
+<li><em>There are a few more steps to complete before the BOLD is ready for production.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to the official <a href="https://offchain.medium.com/bold-permissionless-validation-for-arbitrum-chains-9934eb5328cc" target="_blank" rel="noreferrer noopener">blog</a>, the Arbitrum Offchain Labs development team announced the launch of a permissionless verification protocol Bounded Liquidity Delay (BOLD) to resolve Rollup disputes. </strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-266.png"><img decoding="async" width="1024" height="734" src="https://coincu.com/wp-content/uploads/2023/08/image-266-1024x734.png" alt="Offchain Labs Announces BOLD Validation Making Arbitrum More Secure" class="wp-image-208343" srcset="https://coincu.com/wp-content/uploads/2023/08/image-266-1024x734.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-266-300x215.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-266-768x551.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-266-120x86.png 120w, https://coincu.com/wp-content/uploads/2023/08/image-266-350x250.png 350w, https://coincu.com/wp-content/uploads/2023/08/image-266-750x538.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-266.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="Offchain Labs Announces BOLD Validation Making Arbitrum More Secure 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>BOLD enables the <a href="https://coincu.com/206210-arbitrum-goerli-testnet-launched-on-substancex/" target="_blank" rel="noreferrer noopener">Arbitrum</a> technology chain to ensure the security and vitality of the chain, minimizing delays in condition resolution and preventing dishonest parties from increasing the costs of honest parties. This verification method provides a fixed upper limit of 7 days for additional confirmation delays without being subject to delay attacks.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">BOLD is a massive technical accomplishment, making Arbitrum chains more secure than ever.<br><br>But it&#39;s an equally bold statement about what we value at <a href="https://twitter.com/OffchainLabs?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@OffchainLabs</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/n2Qz2QYnWm" target="_blank">https://t.co/n2Qz2QYnWm</a></p>&mdash; Steven Goldfeder (<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f499.png" alt="💙" class="wp-smiley" style="height: 1em; max-height: 1em;" />,<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e1.png" alt="🧡" class="wp-smiley" style="height: 1em; max-height: 1em;" />) (@sgoldfed) <a href="https://twitter.com/sgoldfed/status/1687199191204798464?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>BOLD code and specs are now available on Github. There are a few more steps that need to be completed before the BOLD is ready to use:</p>
+
+
+
+<ol>
+<li>Share instructions for running Arbitrum Nitro development with the BOLD challenge in the coming weeks;</li>
+
+
+
+<li>Publish official proof-of-concept code for BOLD written in the Isabelle programming language and Complete the academic paper;</li>
+
+
+
+<li>A new test network environment will be made available to BOLD for community participation;</li>
+
+
+
+<li>If there is positive feedback from the community, plan to prepare the AIP so that the DAO can decide whether to adopt this new protocol in Arbitrum One and Nova.</li>
+</ol>
+
+
+
+<p>As stated by Offchain Labs, Arbitrum Technology has always been built with security as a top concern. And that&#8217;s why they invest a lot of resources to build and improve the fraud proof system.</p>
+
+
+
+<p>The protocol can help securely validate the Arbitrum chain without permission, taking them up the ladder of decentralization. This approach allows a single, honest validator to win Ethereum disputes against any opponent.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-18-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Bankman-Fried Now Faces Jail With DOJ&#8217;s Allegations Over CEO&#8217;s Diary Leak</title>
+		<link>https://coincu.com/208336-bankman-fried-now-faces-jail/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 04:57:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Alameda Research]]></category>
+		<category><![CDATA[Bankman-Fried]]></category>
+		<category><![CDATA[Caroline Ellison]]></category>
+		<category><![CDATA[DOJ]]></category>
+		<category><![CDATA[FTX]]></category>
+		<category><![CDATA[FTX.US]]></category>
+		<category><![CDATA[New York Times]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208336</guid>
+
+					<description><![CDATA[Bankman-Fried faces detention request over CEO's diary leak.<p class="has-text-align-right"><a href="https://coincu.com/208336-bankman-fried-now-faces-jail/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Bankman-Fried faces detention request over CEO&#8217;s diary leak.</em></li>
+
+
+
+<li><em>DOJ alleges attempts to influence witnesses through media actions.</em></li>
+
+
+
+<li><em>New York Times objects to gag orders on FTX collapse reporting.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The U.S. Department of Justice (DOJ) continues to assert that FTX founder Sam Bankman-Fried should be &#8220;detained pending trial&#8221; due to his sharing of former Alameda Research CEO Caroline Ellison&#8217;s diary with the <em>New York Times</em>, <em>CoinDesk</em> <a href="https://www.coindesk.com/policy/2023/08/04/sam-bankman-fried-likely-faces-jail-as-doj-pushes-for-incarceration/" target="_blank" rel="noopener">reported</a>.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg" alt="Bankman-Fried Now Faces Jail With DOJ&#039;s Allegations Over CEO&#039;s Diary Leak" class="wp-image-208339" srcset="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-2048x1366.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1140x760.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bankman-Fried Now Faces Jail With DOJ&#039;s Allegations Over CEO&#039;s Diary Leak 2"></a></figure></div>
+
+
+<p>In their latest filing, the DOJ emphasizes that Bankman-Fried&#8217;s defense does not deny the act, and they view it as an attempt to &#8220;corruptly influence witnesses.&#8221;</p>
+
+
+
+<p>The ongoing legal battle between Bankman-Fried&#8217;s attorneys and the prosecutors centers around the extent of his actions and their implications.</p>
+
+
+
+<p>The DOJ <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.188.0.pdf" target="_blank" rel="noreferrer noopener">contends</a> that Bankman-Fried went beyond a mere &#8220;fair comment&#8221; when sharing the diary, and they cite his use of a VPN to watch the Super Bowl and reaching out to FTX.US General Counsel Ryne Miller as additional evidence of his misconduct.</p>
+
+
+
+<p>Bankman-Fried&#8217;s defense has <a href="https://coincu.com/207851-bankman-fried-fights-against-jail-threat/" target="_blank" rel="noreferrer noopener">argued</a> that the government is mischaracterizing his actions, stating that he sought to defend his reputation in the press and did not initially contact Miller.</p>
+
+
+
+<p>However, the DOJ maintains its position, suggesting that <a href="https://coincu.com/206847-sam-bankman-fried-seeks-seal-caroline-ellisons/" target="_blank" rel="noreferrer noopener">Bankman-Fried</a> may have orchestrated media attention around <a href="https://coincu.com/204571-former-alameda-co-ceo-admits-fraud/" target="_blank" rel="noreferrer noopener">Ellison</a> ahead of her acting as a witness.</p>
+
+
+
+<p>The filing also reveals that he had set up Signal groups to delete messages after a week, raising further concerns about potential evidence tampering.</p>
+
+
+
+<p>Meanwhile, the <em>New York Times</em> has <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.187.0.pdf" target="_blank" rel="noreferrer noopener">objected</a> to gag orders imposed on Bankman-Fried, arguing that such restrictions must adhere to legal standards and protect the public&#8217;s First Amendment right to be informed about FTX&#8217;s collapse and alleged mismanagement.</p>
+
+
+
+<p>The case, overseen by Judge Lewis Kaplan in the Southern District of New York, remains a subject of ongoing discussion, with the possibility of further hearings to address the filings. </p>
+
+
+
+<p>The legal battle highlights the complexities and potential consequences surrounding the sharing of sensitive information and its impact on the judicial process.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208336-bankman-fried-now-faces-jail/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-265-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty</title>
+		<link>https://coincu.com/208315-curve-issue-ultimatum-to-hacker/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 04:26:23 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Alchemix]]></category>
+		<category><![CDATA[Curve]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Metronome]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208315</guid>
+
+					<description><![CDATA[Curve Finance has taken an unconventional approach to dealing with the recent attack on their platform that sent shockwaves through the DeFi community.<p class="has-text-align-right"><a href="https://coincu.com/208315-curve-issue-ultimatum-to-hacker/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Curve Finance, Metronome, and Alchemix give hacker ultimatum after DeFi platform attack.</em></li>
+
+
+
+<li><em>The hacker offered a 10% reward for returning stolen funds before the August 6 deadline.</em></li>
+
+
+
+<li><em>Legal action and public reward are promised if the hacker does not comply.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Curve Finance, together with Metronome and Alchemix, has taken an unconventional approach to dealing with the recent attack on their platform that sent shockwaves through the DeFi community.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-263.png"><img decoding="async" loading="lazy" width="1024" height="676" src="https://coincu.com/wp-content/uploads/2023/08/image-263.png" alt="Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty" class="wp-image-208328" srcset="https://coincu.com/wp-content/uploads/2023/08/image-263.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-263-300x198.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-263-768x507.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-263-750x495.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty 3"></a></figure></div>
+
+
+<p>In an unprecedented move, they sent an on-chain ultimatum to the attacker responsible for the breach.</p>
+
+
+
+<p>Through a <a href="https://twitter.com/CurveFinance/status/1687180381714358272" target="_blank" rel="noreferrer noopener">Twitter announcement</a>, <a href="https://coincu.com/208104-curve-finance-stops-crv-rewards-pools-attacks/" target="_blank" rel="noreferrer noopener">Curve</a> offered the attacker a <a href="https://etherscan.io/tx/0xc45e47f6e7d3e74763032e2fb991fa9a003d8ed55c13c93c6a5368ff322d7742" target="_blank" rel="noreferrer noopener">deal</a> &#8211; they would reward the hacker with 10% of the lost assets if they agreed to return the remaining 90% of the hacked funds to the project. </p>
+
+
+
+<p>The proposal came with a deadline, set for August 6 at 08:00 UTC, giving the hacker a limited window to respond and return the funds.</p>
+
+
+
+<p>In the event that the hacker fails to comply with the ultimatum, Curve, Metronome, and Alchemix <a href="https://etherscan.io/tx/0x6264cc2827b0598ec7d8c0f549238c2a96a795cfde8c5ac4dcf77021c75adf0c" target="_blank" rel="noreferrer noopener">made</a> it clear that they would take legal action to pursue the culprit and retrieve the stolen money. </p>
+
+
+
+<p>Additionally, they pledged to publicly offer a reward to anyone who can provide information leading to the hacker&#8217;s arrest and conviction.</p>
+
+
+
+<p>To assure the attacker, the trio promised no further legal actions or involvement of law enforcement if the funds were returned as per their offer. The goal is to recover the majority of the funds and hold the hacker accountable without resorting to traditional legal channels.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">“You will have no risk of us pursuing this further, no risk of law enforcement issues, etc.,&#8221; says the message.</p>
+</blockquote>
+
+
+
+<p>The attack on Curve Finance, which occurred within the past 24 hours, <a href="https://coincu.com/207193-curve-finances-liquidity-pools/" target="_blank" rel="noreferrer noopener">targeted</a> a series of stablepool pools using the Vyper 0.2.15 programming language. The seriousness of the attack prompted this unconventional response from the affected projects.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208315-curve-issue-ultimatum-to-hacker/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-264-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>OpenSea Now Supports Base Network</title>
+		<link>https://coincu.com/208317-opensea-now-supports-base-network/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 04:18:58 +0000</pubDate>
+				<category><![CDATA[NFTs News]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[base]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Layer 2]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[OpenSea]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208317</guid>
+
+					<description><![CDATA[Key Points: According to official sources, OpenSea currently supports Coinbase&#8217;s Base, layer 2 network. This means that artwork minted on Base&#8217;s network can now be bought and sold on OpenSea, and the market leading NFT platform&#8217;s NFT-related toolkit will now be able to mint assets on Base&#8217;s extended network. OpenSea has been a mainstay of [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/208317-opensea-now-supports-base-network/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>OpenSea officially announced that the platform now supports the Base network.</em></li>
+
+
+
+<li><em>Previously, Coinbase announced that Base would open to the public on August 9.</em></li>
+
+
+
+<li><em>Currently, 6 Base cross-chain bridges have been opened, and users can connect their Ethereum (ETH) to the Base network.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to official sources, <a href="https://coincu.com/204559-opensea-enables-peer-to-peer-nft-trading-deals/" target="_blank" rel="noreferrer noopener">OpenSea</a> currently supports Coinbase&#8217;s Base, layer 2 network.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-262.png"><img decoding="async" loading="lazy" width="900" height="536" src="https://coincu.com/wp-content/uploads/2023/08/image-262.png" alt="OpenSea Now Supports Base Network" class="wp-image-208323" srcset="https://coincu.com/wp-content/uploads/2023/08/image-262.png 900w, https://coincu.com/wp-content/uploads/2023/08/image-262-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-262-768x457.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-262-750x447.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="OpenSea Now Supports Base Network 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>This means that artwork minted on Base&#8217;s network can now be bought and sold on OpenSea, and the market leading NFT platform&#8217;s NFT-related toolkit will now be able to mint assets on Base&#8217;s extended network.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">OpenSea now supports the <a href="https://twitter.com/BuildOnBase?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@BuildOnBase</a> network! <a href="https://t.co/iptsyajmV1" target="_blank">pic.twitter.com/iptsyajmV1</a></p>&mdash; OpenSea (@opensea) <a href="https://twitter.com/opensea/status/1687203377552453632?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>OpenSea has been a mainstay of the NFT industry, historically accounting for the majority of organic NFT transaction volume. Although it was overtaken by rival Blur earlier this year and its encrypted trading offers, with its reputation, Opensea remains the top NFT platform of choice for traders.</p>
+
+
+
+<p>The Layer 2 Network from Coinbase has announced that the launch of the common access mainnet will take place on August 9.</p>
+
+
+
+<p>Base says its network will host more than 50 &#8220;top brands, platforms, markets, artists and creators&#8221; at launch, including Coca-Cola, Atari and OpenSea. The team will also celebrate the launch with the &#8220;Onchain Summer&#8221; campaign, which includes daily NFT rewards for users.</p>
+
+
+
+<p>The memecoin transaction boom <a href="https://l2beat.com/scaling/summary" target="_blank" rel="noreferrer noopener">propelled</a> Base to 3rd place in the most active Layer 2, processing almost 7.6 transactions per second (TPS). However, a series of drag disasters &#8211; including from the network&#8217;s top memecoin, BALD &#8211; have since caused activity to drop, with Base now ranked eighth with an average TPS of 2.2 over the past day.</p>
+
+
+
+<p>LeetSwap, the network&#8217;s most popular DEX, also briefly halted trading after losing $625,000 in a single mine on Tuesday, causing volumes on the network to continue to decline.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208317-opensea-now-supports-base-network/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-17-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Surge Of Ether Futures ETF Floods US SEC With 3 New Applications</title>
+		<link>https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 04:09:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin ETF]]></category>
+		<category><![CDATA[Bitwise]]></category>
+		<category><![CDATA[ETF]]></category>
+		<category><![CDATA[Ether Futures ETF]]></category>
+		<category><![CDATA[ProShares]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208301</guid>
+
+					<description><![CDATA[US SEC inundated with 11 Ether futures ETF applications in less than a week.<p class="has-text-align-right"><a href="https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>US SEC inundated with 11 Ether futures ETF applications in less than a week.</em></li>
+
+
+
+<li><em>ProShares and Bitwise among the major players submitting proposals for Bitcoin and Ethereum ETFs.</em></li>
+
+
+
+<li><em>Excitement grows as the possibility of a spot Bitcoin ETF approval looms, boosting crypto investment prospects.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The United States Securities and Exchange Commission (SEC) faces a surge in applications for Ether futures exchange-traded funds (ETFs).</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-260.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/08/image-260-1024x614.png" alt="Surge Of Ether Futures ETF Floods US SEC With 3 New Applications " class="wp-image-208320" srcset="https://coincu.com/wp-content/uploads/2023/08/image-260-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-260-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-260-768x460.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-260-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-260-1140x683.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-260.png 1201w" sizes="(max-width: 1024px) 100vw, 1024px" title="Surge Of Ether Futures ETF Floods US SEC With 3 New Applications 5"></a></figure></div>
+
+
+<p>Among the applicants, ProShares and Bitwise have <a href="https://twitter.com/JSeyff/status/1687213881934966784" target="_blank" rel="noreferrer noopener">submitted</a> three ETF applications specifically related to Bitcoin and Ethereum. ProShares has <a href="https://www.sec.gov/Archives/edgar/data/1174610/000168386323005834/f26041d1.htm" target="_blank" rel="noreferrer noopener">filed</a> for the &#8220;Bitcoin &amp; Ether Strategy ETF&#8221; and the &#8220;Bitcoin &amp; Ether Equal Weight Strategy ETF.&#8221; </p>
+
+
+
+<p>Meanwhile, <a href="https://coincu.com/202636-sec-now-reviews-bitwise-bitcoin-etf/" target="_blank" rel="noreferrer noopener">Bitwise</a> has put forward its own proposal for the &#8220;Bitwise Bitcoin and Ether Equal Weight Strategy ETF.&#8221;</p>
+
+
+
+<p>The &#8220;Bitcoin &amp; Ether Equal Weight ETF&#8221; is designed to track the performance of holding long positions in the nearest maturing monthly bitcoin and ether futures contracts.</p>
+
+
+
+<p>In addition to these filings, <a href="https://coincu.com/101707-proshares-bitcoin-etf-trades-for-35-million/" target="_blank" rel="noreferrer noopener">ProShares</a> has lodged four separate applications for Ether-based ETFs, which include a dual Bitcoin and Ether futures strategy ETF, a short Ether Strategy ETF, and an Ether Strategy ETF.</p>
+
+
+
+<p>The trend of Ether-related ETF applications commenced with Volatility Shares, which filed for the &#8220;Volatility Shares Ether Strategy ETF&#8221; on July 28. </p>
+
+
+
+<p>Subsequently, several other prominent players like Bitwise Asset Management, Roundhill Financial, Van Eck, and <a href="https://coincu.com/206678-grayscale-sec-concurrent-approval-bitcoin-etfs/" target="_blank" rel="noreferrer noopener">Grayscale Investments</a> have also jumped on board and filed new Ether futures applications on August 1.</p>
+
+
+
+<p>In a span of less than a week, a total of 11 filings for Ether-based ETFs have been submitted, signaling the growing interest in crypto investment products.</p>
+
+
+
+<p>Currently, the U.S. only permits investment in Bitcoin futures ETFs, which are backed by bitcoin derivatives. </p>
+
+
+
+<p>The flurry of recent filings indicates the increasing desire for a <a href="https://coincu.com/207975-spot-bitcoin-etf-approval-odds-surge-to-65/" target="_blank" rel="noreferrer noopener">spot Bitcoin ETF</a> to be approved, sparking excitement within the crypto investment community.</p>
+
+
+
+<p>As the SEC navigates through these applications, market participants eagerly await the potential approval of Ether-based ETFs, which could further fuel the adoption and accessibility of cryptocurrencies for investors.</p>
+
+
+
+<p><em><strong>DISCLAIMER: </strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-261-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Coinbase Plans To Seek Full Dismissal Of SEC Lawsuit From Court This Friday</title>
+		<link>https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 03:46:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<category><![CDATA[Paul Grewal]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208303</guid>
+
+					<description><![CDATA[Coinbase to file for lawsuit dismissal, confident of winning.<p class="has-text-align-right"><a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Coinbase to file for lawsuit dismissal, confident of winning.</em></li>
+
+
+
+<li><em>SEC sued Coinbase for unregistered securities trading.</em></li>
+
+
+
+<li><em>The exchange beats revenue expectations and aims for regulatory clarity.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Coinbase is set to <a href="https://twitter.com/coinbase/status/1687197491098492928" target="_blank" rel="noreferrer noopener">take action</a> against the U.S. Securities and Exchange Commission (SEC) by filing an order seeking dismissal of the lawsuit on August 4.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg" alt="coinbase header" class="wp-image-208307" srcset="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase Plans To Seek Full Dismissal Of SEC Lawsuit From Court This Friday 6"></a></figure></div>
+
+
+<p>The company&#8217;s Chief Legal Officer, Paul Grewal, conveyed confidence in their defense during the second-quarter earnings call held on August 3.</p>
+
+
+
+<p>Grewal emphasized that <a href="https://coincu.com/207917-coinbase-promises-to-integrate-lightning-network/" target="_blank" rel="noreferrer noopener">Coinbase</a> would argue against the allegations, asserting that they did not list securities on their platform. </p>
+
+
+
+<p>Additionally, he highlighted that the SEC lacks regulatory authority over cryptocurrency exchanges and had not indicated any requirement for registration when Coinbase&#8217;s registration statement was deemed effective in April 2021.</p>
+
+
+
+<p>The company&#8217;s Chief Executive, <a href="https://coincu.com/186979-coinbase-ceo-made-million-security-benefits/" target="_blank" rel="noreferrer noopener">Brian Armstrong</a>, also spoke out against the SEC&#8217;s approach, criticizing its regulation by enforcement tactic instead of participating in rulemaking.</p>
+
+
+
+<p>Despite the ongoing legal battle, the exchange reported impressive second-quarter earnings on Thursday, exceeding analysts&#8217; expectations with a revenue of $708 million. However, the company did report a loss of $0.42 per share for the same period.</p>
+
+
+
+<p>The legal battle between Coinbase and the SEC ensued in June when the regulator accused the exchange of trading at least 13 crypto assets without proper registration as securities. </p>
+
+
+
+<p>Along with its rival <a href="https://coincu.com/208211-binance-reaches-150-million-users/" target="_blank" rel="noreferrer noopener">Binance</a>, Coinbase allegedly operated as an unregistered securities exchange, leading to the SEC&#8217;s legal action.</p>
+
+
+
+<p>Looking forward, the exchange aims to collaborate with the SEC and lawmakers to establish clearer regulatory guidelines in the cryptocurrency space. The exchange hopes to emerge victorious in the court case and subsequently work towards a more transparent and compliant ecosystem.</p>
+
+
+
+<p>As Coinbase prepares to submit its motion for dismissal, the court is expected to review the arguments put forth by the company in October. </p>
+
+
+
+<p>This development comes amidst the ever-evolving landscape of cryptocurrency regulations, which remains a critical area of concern for market participants and regulators alike.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-259-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>USDT Depegs Again Due To Strong Selling To USDC &#038; DAI</title>
+		<link>https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 03:41:42 +0000</pubDate>
+				<category><![CDATA[Altcoins]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DAI]]></category>
+		<category><![CDATA[depeg]]></category>
+		<category><![CDATA[FDUSD]]></category>
+		<category><![CDATA[selling]]></category>
+		<category><![CDATA[Tether]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[USDT]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208288</guid>
+
+					<description><![CDATA[Asset allocation in Curve 3pool was unbalanced as a series of traders sold off USDT in favor of USDC and DAI.<p class="has-text-align-right"><a href="https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Massive traders sold off Tether USDT late August 3 in key stablecoin pools on Curve and UniSwap.</em></li>
+
+
+
+<li><em>Paolo Ardoino, Tether&#8217;s Chief Technology Officer, thinks this is foul play.</em></li>
+
+
+
+<li><em>The current imbalance shows that investors are increasingly inclined to hold DAI or USDC.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Asset allocation in Curve 3pool was unbalanced as a series of traders sold off USDT in favor of USDC and DAI.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-258.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/08/image-258-1024x538.png" alt="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI" class="wp-image-208305" srcset="https://coincu.com/wp-content/uploads/2023/08/image-258-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-258-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-258-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-258-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-258-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-258.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Massive traders sold off Tether in key stablecoin pools on Curve and UniSwap yesterday. Shortly after, USDT recoiled to $0.9976 and was <a href="https://coincu.com/198455-tusd-depeg-trueusd-reserves-audited-by-ftx-us/" target="_blank" rel="noreferrer noopener">depeg</a> below the $1 anchor for a long time.</p>
+
+
+
+<p>Many people have exited/sold USDT to run to other stablecoins, causing the pools to fall into a severe imbalance. According to 3pool data, the USDT balance has now skyrocketed to 59.3% in Curve 3pool, which includes USDT, USDC, and DAI, while USDC and DAI account for only 20.3% and 20.8% of total assets in the pool.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/08/image-257-767x1024.png" alt="image 257" class="wp-image-208304" width="783" height="1046" srcset="https://coincu.com/wp-content/uploads/2023/08/image-257-767x1024.png 767w, https://coincu.com/wp-content/uploads/2023/08/image-257-225x300.png 225w, https://coincu.com/wp-content/uploads/2023/08/image-257-768x1026.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-257-750x1002.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-257.png 849w" sizes="(max-width: 783px) 100vw, 783px" title="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI 8"><figcaption class="wp-element-caption">Asset Allocation in <a href="https://curve.fi/#/ethereum/pools/3pool/deposit" target="_blank" rel="noreferrer noopener">Curve 3pool</a></figcaption></figure></div>
+
+
+<p>Right after USDT went strong, Paolo Ardoino, Tether&#8217;s Chief Technology Officer, suggested that this may be a foul play. The community is also eyeing Hong Kong-based First Digital&#8217;s new stablecoin FDUSD, which Binance quickly backed recently.</p>
+
+
+
+<p>&#8220;Isn&#8217;t it interesting that USDt is being pressured down (slightly, within 10bps, just to push market makers to react), and USDc, the main competitor that you would expect to gain from the situation, is redeemed nevertheless heavily, while suddenly a competitor born 2 hours ago is getting it all? Exactly! It feels definitely organic and not manipulative at all. Some people never learn.&#8221; He wrote.</p>
+
+
+
+<p>The Curve and Uniswap pools are popular places for traders to swap stablecoins quickly. Most of the time, the tokens are balanced in the pool. The imbalance shows that the market is in trouble as investors seek to dump an asset in bulk. Similar imbalances occurred when Terra crashed in May 2022 and the Silicon Valley banking crisis hit USDC Circle Issuers in March of this year.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-16-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Matter Labs Rejects Polygon&#8217;s Open Source Plagiarism Report</title>
+		<link>https://coincu.com/208274-matter-labs-rejects-polygons-plagiarism/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 03:00:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Matter Labs]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[Plonky2]]></category>
+		<category><![CDATA[Polygon]]></category>
+		<category><![CDATA[Zksync]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208274</guid>
+
+					<description><![CDATA[Matter Labs responded to Polygon's allegation of plagiarism of open-source code as "an untrue statement".<p class="has-text-align-right"><a href="https://coincu.com/208274-matter-labs-rejects-polygons-plagiarism/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Matter Labs responded to Polygon&#8217;s allegation of plagiarism of open-source code as &#8220;an untrue statement&#8221;.</em></li>
+
+
+
+<li><em>Polygon alleges against a new product called Boojum because it contains some code copied from the Plonky2 library that is not clearly annotated with the original author.</em></li>
+
+
+
+<li><em>Matter Labs denied it and said its code only uses 5% of Plonky2.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to CoinDesk, Ethereum scaling solution Polygon said in a <a href="https://mirror.xyz/0x70DF15b0208eFCeFaA541Da9A0ED6C4A884554Fc/gNi8coqXjd1ybFsQBAG7QARUkPHZECu7ihIRkpiVx2Y" target="_blank" rel="noreferrer noopener">blog</a> on Thursday that development firm zkSync <a href="https://coincu.com/167819-matter-labs-new-branding-for-zksync-2-0/" target="_blank" rel="noreferrer noopener">Matter Labs</a> copied some of Polygon&#8217;s open-source code but did not provide attribution.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-256.png"><img decoding="async" loading="lazy" width="828" height="466" src="https://coincu.com/wp-content/uploads/2023/08/image-256.png" alt="Matter Labs Rejects Polygon&#039;s Open Source Plagiarism Report" class="wp-image-208283" srcset="https://coincu.com/wp-content/uploads/2023/08/image-256.png 828w, https://coincu.com/wp-content/uploads/2023/08/image-256-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-256-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-256-750x422.png 750w" sizes="(max-width: 828px) 100vw, 828px" title="Matter Labs Rejects Polygon&#039;s Open Source Plagiarism Report 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Earlier, Polygon stated in a blog post that Matter Labs recently released a proof-of-work system called Boojum, which contains some source code copied from performance-critical components of the software library Plonky2.</p>
+
+
+
+<p>In particular, this code is not original copyright and is not explicitly attributed to the original author. It also alleges that copying the source code without attribution and making false claims about the original work violates the spirit of open source and harms the ecosystem. In its article, Polygon notes that Matter Labs marketed Boojum 10 times faster than Plonky2.</p>
+
+
+
+<p>CEO Alex Gluchowski followed up with a detailed tweet expressing frustration with Polygon&#8217;s allegations. Matter Labs denied the allegations in a statement, saying the code was &#8220;clearly marked&#8221; above one of the related documents.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Every decision we make as a team towards building <a href="https://twitter.com/zksync?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@zksync</a> is driven by our ethos, which is based on integrity and transparency. We have made honest mistakes in the past, but we always did our best to openly acknowledge them and take responsibility. And will always do so in the… <a href="https://t.co/4yjpSCHC2d" target="_blank">https://t.co/4yjpSCHC2d</a></p>&mdash; Alex G. ∎ (@gluk64) <a href="https://twitter.com/gluk64/status/1687263207860166656?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 4, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">&#8220;The new Boojum high-performance proof system leverages 5% from Plonky2, which is prominently attributed in the first line of our module,&#8221; The told CoinDesk in a Telegram message.</p>
+</blockquote>
+
+
+
+<p>It is known that blockchain projects often release their code under an open-source software license, which means that external developers can read, copy, and even contribute to the code. However, community standards and most open-source licenses often require third-party developers to provide credit for using code sourced elsewhere.</p>
+
+
+
+<p>The tension between Polygon and Matter Labs shows the fierce rivalry as both companies rush to deliver the first Zero-Zero Ethereum Virtual Machine (zkEVM) to provide cheaper and more efficient transactions on the Ethereum network.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208274-matter-labs-rejects-polygons-plagiarism/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-15-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
 		<title>Leetswap Trading Restarted But User Can&#8217;t Buy Tokens</title>
 		<link>https://coincu.com/208273-leetswap-trading-restarted-but-cant-buy-tokens/</link>
 		
@@ -67,7 +750,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-255.png"><img decoding="async" width="826" height="390" src="https://coincu.com/wp-content/uploads/2023/08/image-255.png" alt="Leetswap Trading Restarted But User Can&#039;t Buy Tokens" class="wp-image-208276" srcset="https://coincu.com/wp-content/uploads/2023/08/image-255.png 826w, https://coincu.com/wp-content/uploads/2023/08/image-255-300x142.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-255-768x363.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-255-750x354.png 750w" sizes="(max-width: 826px) 100vw, 826px" title="Leetswap Trading Restarted But User Can&#039;t Buy Tokens 1"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-255.png"><img decoding="async" loading="lazy" width="826" height="390" src="https://coincu.com/wp-content/uploads/2023/08/image-255.png" alt="Leetswap Trading Restarted But User Can&#039;t Buy Tokens" class="wp-image-208276" srcset="https://coincu.com/wp-content/uploads/2023/08/image-255.png 826w, https://coincu.com/wp-content/uploads/2023/08/image-255-300x142.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-255-768x363.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-255-750x354.png 750w" sizes="(max-width: 826px) 100vw, 826px" title="Leetswap Trading Restarted But User Can&#039;t Buy Tokens 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
 <p>Specifically, transactions have now resumed on the DEX. Users can sell those tokens affected in their hack, as their remaining liquidity cannot be rescued by white hat hackers. A <a href="https://t.co/YWIrZag3eZ" target="_blank" rel="noreferrer noopener">URL</a> is attached to be able to withstand more loads if the leading site fails to load.</p>
@@ -140,7 +823,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><a href="https://coincu.com/wp-content/uploads/2023/08/image-249.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/08/image-249.png" alt="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal" class="wp-image-208262" width="929" height="523" srcset="https://coincu.com/wp-content/uploads/2023/08/image-249.png 929w, https://coincu.com/wp-content/uploads/2023/08/image-249-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-249-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-249-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal 2"></a></figure></div>
+<figure class="aligncenter size-full is-resized"><a href="https://coincu.com/wp-content/uploads/2023/08/image-249.png"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/08/image-249.png" alt="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal" class="wp-image-208262" width="929" height="523" srcset="https://coincu.com/wp-content/uploads/2023/08/image-249.png 929w, https://coincu.com/wp-content/uploads/2023/08/image-249-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-249-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-249-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal 11"></a></figure></div>
 
 
 <p>According to the charges, DEBT Box and its four principals, including Jason Anderson, Jacob Anderson, Schad Brannon, and Roydon Nelson, along with 13 other defendants, orchestrated a scheme that began in March 2021. They allegedly targeted hundreds of U.S. investors, raising a substantial sum of approximately $50 million by selling unregistered securities known as &#8220;node licenses.&#8221;</p>
@@ -165,7 +848,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-250.png"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/08/image-250-1024x536.png" alt="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal" class="wp-image-208263" srcset="https://coincu.com/wp-content/uploads/2023/08/image-250-1024x536.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-250-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-250-768x402.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-250-750x393.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-250-1140x597.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-250.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-250.png"><img decoding="async" loading="lazy" width="1024" height="536" src="https://coincu.com/wp-content/uploads/2023/08/image-250-1024x536.png" alt="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal" class="wp-image-208263" srcset="https://coincu.com/wp-content/uploads/2023/08/image-250-1024x536.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-250-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-250-768x402.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-250-750x393.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-250-1140x597.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-250.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="SEC Cracks Down On Crypto Fraud: 18 Defendants Charged In DEBT Box Scandal 12"></a></figure></div>
 
 
 <p>DEBT Box had purportedly propagated its fraudulent scheme through numerous online videos, social media posts, and events, falsely assuring investors of massive gains from their crypto mining endeavors. The SEC, however, asserted that the so-called &#8220;node licenses&#8221; were nothing more than a deceptive front.</p>
@@ -183,663 +866,5 @@
 		
 		
 		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-248-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>New York Man Reveals $4.5 Billion Bitcoin Hack Confession On Bitfinex</title>
-		<link>https://coincu.com/208248-new-york-man-reveals-hack-bitfinex/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 17:41:39 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitfinex]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[DOJ]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[Heather Rhiannon Morgan]]></category>
-		<category><![CDATA[Ilya Lichtenstein]]></category>
-		<category><![CDATA[new york]]></category>
-		<category><![CDATA[Razzlekahn]]></category>
-		<category><![CDATA[The Crocodile of Wall Street]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208248</guid>
-
-					<description><![CDATA[New York resident Ilya Lichtenstein confesses to $4.5 billion Bitcoin hack.<p class="has-text-align-right"><a href="https://coincu.com/208248-new-york-man-reveals-hack-bitfinex/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>New York resident Ilya Lichtenstein confesses to $4.5 billion Bitcoin hack.</em></li>
-
-
-
-<li><em>Lichtenstein admits guilt in money laundering conspiracy.</em></li>
-
-
-
-<li><em>It was disclosed that Lichtenstein had converted some of the stolen assets into gold coins.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to <em><a href="https://www.cnbc.com/2023/08/03/new-york-man-admits-being-original-bitfinex-hacker-during-guilty-plea-in-dc-to-bitcoin-money-laundering.html" target="_blank" rel="noreferrer noopener">CNBC</a></em>, Ilya &#8220;Dutch&#8221; Lichtenstein, a New York resident, has confessed to being the original hacker behind the infamous 2016 cyberattack on Bitfinex, which resulted in the theft of $4.5 billion worth of Bitcoin.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-245.png"><img decoding="async" loading="lazy" width="740" height="416" src="https://coincu.com/wp-content/uploads/2023/08/image-245.png" alt="New York Man Reveals $4.5 Billion Bitcoin Hack Confession On Bitfinex" class="wp-image-208257" srcset="https://coincu.com/wp-content/uploads/2023/08/image-245.png 740w, https://coincu.com/wp-content/uploads/2023/08/image-245-300x169.png 300w" sizes="(max-width: 740px) 100vw, 740px" title="New York Man Reveals $4.5 Billion Bitcoin Hack Confession On Bitfinex 4"></a></figure></div>
-
-
-<p>Lichtenstein made this admission while pleading guilty to money laundering conspiracy charges in a Washington, D.C. federal court. The hacker&#8217;s identity had remained a mystery until this point, making the revelation a major breakthrough in the investigation.</p>
-
-
-
-<p>During the plea hearing, it was revealed that Lichtenstein executed a multi-million-dollar exploit on the crypto exchange <a href="https://coincu.com/180518-bitfinex-gets-license-by-el-salvador/" target="_blank" rel="noreferrer noopener">Bitfinex</a> in 2016. He used a sophisticated money laundering process to move about 25,000 of the stolen bitcoin, eventually depositing the illicit funds into accounts controlled by him and his wife, Heather Rhiannon Morgan.</p>
-
-
-
-<p>The <a href="https://coincu.com/204853-crypto-couples-dramatic-plea-deal-bitfinex-hack/" target="_blank" rel="noreferrer noopener">couple</a> had not been directly charged in the hack itself, but their arrest in February 2022 led to the seizure of over 94,000 bitcoin by the <a href="https://coincu.com/62720-doj-seizes-3-6-billion-2016-bitfinex-hack/" target="_blank" rel="noreferrer noopener">Department of Justice</a>, valued at around $3.6 billion. This seizure marked the largest in DOJ history.</p>
-
-
-
-<p>Lichtenstein, who had been held without bond due to being considered a flight risk, will remain in jail until his sentencing on a count of conspiracy to commit money laundering. He has, however, agreed to cooperate with federal investigators.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-246.png"><img decoding="async" loading="lazy" width="1000" height="667" src="https://coincu.com/wp-content/uploads/2023/08/image-246.png" alt="New York Man Reveals $4.5 Billion Bitcoin Hack Confession On Bitfinex" class="wp-image-208258" srcset="https://coincu.com/wp-content/uploads/2023/08/image-246.png 1000w, https://coincu.com/wp-content/uploads/2023/08/image-246-300x200.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-246-768x512.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-246-750x500.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="New York Man Reveals $4.5 Billion Bitcoin Hack Confession On Bitfinex 5"></a></figure></div>
-
-
-<p>Meanwhile, Morgan, known by her stage names &#8220;Razzlekahn&#8221; and &#8220;The Crocodile of Wall Street,&#8221; also entered her guilty plea in the same case but has been free on $3 million bond since her arrest.</p>
-
-
-
-<p>The stolen bitcoin, which was worth only $70 million when initially taken, significantly appreciated in value over the years, reaching an astonishing $4.5 billion. Lichtenstein&#8217;s elaborate money laundering scheme involved converting some of the assets into gold coins and hiding them at undisclosed locations.</p>
-
-
-
-<p>With the unexpected twist of former President Donald Trump&#8217;s arraignment in the same courthouse, the case has drawn significant attention and intrigue, attracting plans for a Netflix series about the infamous Crypto Couple.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208248-new-york-man-reveals-hack-bitfinex/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-247-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>BRICS Nations Want To Dethrone The Dollar In Epic Financial Showdown</title>
-		<link>https://coincu.com/208247-brics-nations-want-to-dethrone-the-dollar/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 17:13:58 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Brazil]]></category>
-		<category><![CDATA[BRICS]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[South Africa]]></category>
-		<category><![CDATA[USD]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208247</guid>
-
-					<description><![CDATA[BRICS alliance to discuss using local currencies for cross-border transactions in the August summit.<p class="has-text-align-right"><a href="https://coincu.com/208247-brics-nations-want-to-dethrone-the-dollar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>BRICS alliance to discuss using local currencies for cross-border transactions in the August summit.</em></li>
-
-
-
-<li><em>Aim to reduce reliance on the U.S. dollar for global trade and boost local economies.</em></li>
-
-
-
-<li><em>Move expected to strengthen intra-bloc trade and challenge Western dominance in finance.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The upcoming BRICS summit in August will see the bloc of five nations discuss the potential usage of their local currencies for cross-border transactions, according to <em><a href="https://watcher.guru/news/exclusive-brics-will-discuss-local-currencies-usage-august-summit" target="_blank" rel="noreferrer noopener">Watcher Guru</a></em>&#8216;s report.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-243.png"><img decoding="async" loading="lazy" width="980" height="426" src="https://coincu.com/wp-content/uploads/2023/08/image-243.png" alt="BRICS Nations Want To Dethrone The Dollar In Epic Financial Showdown" class="wp-image-208251" srcset="https://coincu.com/wp-content/uploads/2023/08/image-243.png 980w, https://coincu.com/wp-content/uploads/2023/08/image-243-300x130.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-243-768x334.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-243-750x326.png 750w" sizes="(max-width: 980px) 100vw, 980px" title="BRICS Nations Want To Dethrone The Dollar In Epic Financial Showdown 6"></a></figure></div>
-
-
-<p>With a goal to strengthen their respective economies, <a href="https://coincu.com/188832-brics-economic-alliance-challenges-dollar/" target="_blank" rel="noreferrer noopener">BRICS</a> aims to reduce reliance on the U.S. dollar in global trade and initiate remittance for imports and exports using their native tender.</p>
-
-
-
-<p><em>Reuters</em> had previously <a href="https://www.reuters.com/world/brics-currency-not-august-summit-agenda-south-african-official-2023-07-20/" target="_blank" rel="noreferrer noopener">reported</a> that a BRICS currency would not be on the agenda for the summit in South Africa. However, the leaders from Brazil, Russia, India, China, and South Africa remain committed to shifting away from the U.S. dollar and exploring the use of local currencies for trade and settlements.</p>
-
-
-
-<p>Anil Sooklal, South Africa&#8217;s Ambassador at Large: Asia and BRICS, clarified that there had been no discussions regarding a common BRICS currency. Instead, the focus is on trading and settling in local currencies.</p>
-
-
-
-<p>The move is seen as an effort to challenge the Western dominance of global finance, particularly amid Russia&#8217;s sanctions-imposed isolation following its actions in Ukraine. Leaders such as Brazil&#8217;s President Luiz Inacio Lula da Silva and Russian Foreign Minister Sergei Lavrov have supported the idea of a common currency to strengthen the bloc&#8217;s position in the global financial order.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-244.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/08/image-244-1024x614.png" alt="BRICS Nations Want To Dethrone The Dollar In Epic Financial Showdown" class="wp-image-208252" srcset="https://coincu.com/wp-content/uploads/2023/08/image-244-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-244-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-244-768x461.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-244-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-244-1140x684.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-244.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="BRICS Nations Want To Dethrone The Dollar In Epic Financial Showdown 7"></a></figure></div>
-
-
-<p>In an exclusive interview with Watcher Guru, Ambassador Anil Sooklal confirmed that the BRICS alliance will indeed discuss matters related to using native currencies. This demonstrates BRICS&#8217; determination to sideline the U.S. dollar and establish their local currencies as major players in the global financial system.</p>
-
-
-
-<p>The discussions at the summit will revolve around deepening the use of local currencies for international transactions, enabling BRICS nations to conduct trade without relying on the U.S. dollar. This strategic move is expected to invigorate local economies and bolster their native currencies in the foreign exchange markets.</p>
-
-
-
-<p>By avoiding the U.S. dollar for intra-bloc trade, businesses within BRICS countries are likely to experience increased efficiency, faster transactions, and reduced costs. Furthermore, the alliance&#8217;s decision to utilize local currencies could extend a financial lifeline to other developing nations, helping them strengthen their economies.</p>
-
-
-
-<p>It is widely believed that the joint efforts by BRICS nations to escape the pressure of U.S. sanctions on developing countries played a significant role in motivating this shift. As these economies grow stronger and move away from reliance on the greenback, the balance of global financial power could potentially tilt towards the East, potentially posing economic challenges for the U.S. and other Western countries.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208247-brics-nations-want-to-dethrone-the-dollar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-242-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Crossover And Cboe Digital Team Up For First Digital Asset Clearing Solutions</title>
-		<link>https://coincu.com/208241-crossover-and-cboe-digital/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 16:31:32 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Cboe Digital]]></category>
-		<category><![CDATA[Chicago Board Options Exchange]]></category>
-		<category><![CDATA[crossover]]></category>
-		<category><![CDATA[Crossover Markets Group]]></category>
-		<category><![CDATA[CROSSx]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208241</guid>
-
-					<description><![CDATA[Crossover Markets Group partners with Cboe Digital to offer groundbreaking clearing solutions for digital asset trades.<p class="has-text-align-right"><a href="https://coincu.com/208241-crossover-and-cboe-digital/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Crossover Markets Group partners with Cboe Digital to offer groundbreaking clearing solutions for digital asset trades.</em></li>
-
-
-
-<li><em>CROSSx, Crossover&#8217;s flagship product, becomes the first external technology venue to provide connectivity to Cboe Digital.</em></li>
-
-
-
-<li><em>The collaboration aims to streamline transactions, enhance risk management, and promote competition in the digital asset trading space.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>In a major step towards enhancing the efficiency and accessibility of digital asset trading, Crossover Markets Group, a prominent player in digital asset technology, has <a href="https://www.prnewswire.com/news-releases/crossover-markets-crossx-to-become-first-external-technology-venue-to-provide-connectivity-to-cboe-digital-301892143.html" target="_blank" rel="noreferrer noopener">partnered</a> with Cboe Digital, the digital division of the Chicago Board Options Exchange.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-240.png"><img decoding="async" loading="lazy" width="1024" height="537" src="https://coincu.com/wp-content/uploads/2023/08/image-240-1024x537.png" alt="Crossover And Cboe Digital Team Up For First Digital Asset Clearing Solutions" class="wp-image-208242" srcset="https://coincu.com/wp-content/uploads/2023/08/image-240-1024x537.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-240-300x157.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-240-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-240-1536x806.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-240-2048x1075.png 2048w, https://coincu.com/wp-content/uploads/2023/08/image-240-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-240-1140x598.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Crossover And Cboe Digital Team Up For First Digital Asset Clearing Solutions 8"></a></figure></div>
-
-
-<p>The collaboration&#8217;s primary objective is to streamline the clearing processes for various digital assets, ensuring seamless transactions and bolstered risk management protocols. With <a href="https://coincu.com/201806-cboe-coinbase-reach-custody-sharing-agreement/" target="_blank" rel="noreferrer noopener">Cboe Digital</a> being the first US-regulated crypto native exchange and clearinghouse combination platform offering leveraged derivatives products, the partnership sets the stage for future advancements in the digital asset trading landscape.</p>
-
-
-
-<p>The strategic partnership grants Cboe Digital access to Crossover&#8217;s cutting-edge clearing solutions, catering to both spot and futures trades involving multiple digital asset execution platforms. As part of the agreement, CROSSx, Crossover&#8217;s flagship product, will be integrated with Cboe Clear Digital, the clearing division of Cboe Digital Exchange.</p>
-
-
-
-<p>Crossover Markets Group has been at the forefront of developing proprietary trading technology to meet the unique liquidity requirements of financial institutions in the cryptocurrency market. Their execution-only Bitcoin Electronic Communication Network (ECN) product, CROSSx, facilitates spot cryptocurrency transactions for institutional and intermediary clients on a dynamic technological platform.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/Cboe.jpg"><img decoding="async" loading="lazy" width="1024" height="728" src="https://coincu.com/wp-content/uploads/2023/08/Cboe-1024x728.jpg" alt="Crossover And Cboe Digital Team Up For First Digital Asset Clearing Solutions" class="wp-image-208243" srcset="https://coincu.com/wp-content/uploads/2023/08/Cboe-1024x728.jpg 1024w, https://coincu.com/wp-content/uploads/2023/08/Cboe-300x213.jpg 300w, https://coincu.com/wp-content/uploads/2023/08/Cboe-768x546.jpg 768w, https://coincu.com/wp-content/uploads/2023/08/Cboe-1536x1091.jpg 1536w, https://coincu.com/wp-content/uploads/2023/08/Cboe-2048x1455.jpg 2048w, https://coincu.com/wp-content/uploads/2023/08/Cboe-120x86.jpg 120w, https://coincu.com/wp-content/uploads/2023/08/Cboe-350x250.jpg 350w, https://coincu.com/wp-content/uploads/2023/08/Cboe-750x533.jpg 750w, https://coincu.com/wp-content/uploads/2023/08/Cboe-1140x810.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Crossover And Cboe Digital Team Up For First Digital Asset Clearing Solutions 9"></a></figure></div>
-
-
-<p>With the addition of CROSSx to its portfolio, Cboe Digital&#8217;s native exchange gains a significant boost in its capabilities. Institutional and intermediary clients now have access to a robust technology platform to execute spot cryptocurrency trades, complementing its native exchange. The clearing platform, Cboe Clear Digital, follows a central counterparty model, adding further value to the collaboration.</p>
-
-
-
-<p>The launch of CROSSx in March marked a groundbreaking achievement for <a href="https://coincu.com/189241-crossover-markets-supports-hidden-road/" target="_blank" rel="noreferrer noopener">Crossover</a>, as it became the first external technology venue to offer connectivity to Cboe Digital. The network received strong backing from reputable institutions, including US-based hedge fund Two Sigma and <a href="https://coincu.com/207659-laser-digital-was-fully-licensed-in-dubai/" target="_blank" rel="noreferrer noopener">Nomura</a>.</p>
-
-
-
-<p>By joining forces, Crossover Markets Group and Cboe Digital are paving the way for greater institutional participation in the <a href="https://coincu.com/199318-cboe-updates-bitcoin-etf-spot-profile-sec/" target="_blank" rel="noreferrer noopener">Bitcoin market</a>, eventually unlocking its full potential. The partnership&#8217;s significance lies in its potential to drive the adoption of fungibility and attract more financial institutions to trade on CROSSx, with Cboe Digital serving as their credit counterparty.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208241-crossover-and-cboe-digital/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-241-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>The Sandbox Expands Offerings And Bolsters Security With KYC Verification</title>
-		<link>https://coincu.com/208227-the-sandbox-expands-security-with-kyc/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 16:04:03 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[KYC]]></category>
-		<category><![CDATA[Metaverse]]></category>
-		<category><![CDATA[SAND]]></category>
-		<category><![CDATA[the sandbox]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208227</guid>
-
-					<description><![CDATA[The Sandbox strengthens security measures by implementing KYC verification for its staking process, ensuring users' accounts are verified before participation.<p class="has-text-align-right"><a href="https://coincu.com/208227-the-sandbox-expands-security-with-kyc/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>The Sandbox strengthens security measures by implementing KYC verification for its staking process, ensuring users&#8217; accounts are verified before participation.</em></li>
-
-
-
-<li><em>The platform sees a surge in activity as its Tradecurve community grows and thrives.</em></li>
-
-
-
-<li><em>Introducing KYC verification and other developments aims to enhance user security and create a transparent and engaging ecosystem for all participants.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Hong Kong-based metaverse game, The Sandbox (SAND), has taken significant strides in fortifying its platform.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-238.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-238-1024x576.png" alt="The Sandbox Expands Offerings And Bolsters Security With KYC Verification" class="wp-image-208237" srcset="https://coincu.com/wp-content/uploads/2023/08/image-238-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-238-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-238-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-238-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-238-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-238.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="The Sandbox Expands Offerings And Bolsters Security With KYC Verification 10"></a></figure></div>
-
-
-<p>As metaverses continue gaining traction, the key to their survival lies in continuously introducing fresh and engaging user experiences. <a href="https://coincu.com/190439-the-sandbox-review/" target="_blank" rel="noreferrer noopener">The Sandbox</a> has recognized this critical aspect and implemented various developments to enhance user security and compliance.</p>
-
-
-
-<p>One of the major updates <a href="https://twitter.com/TheSandboxGame/status/1687084587061501952" target="_blank" rel="noreferrer noopener">introduced</a> by The Sandbox is the implementation of Know Your Customer (KYC) verification for its <a href="https://coincu.com/184618-binance-nft-attracts-the-sandbox/" target="_blank" rel="noreferrer noopener">staking process</a>. By enforcing KYC verification, the platform aims to ensure that users&#8217; accounts are thoroughly verified before they can participate in staking or claim their earnings. While KYC has been a contentious topic in the crypto space, more prominent players are starting to adopt it as a means to combat bots and malicious actors. The Sandbox follows suit, prioritizing the safety and legitimacy of its user base.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-239.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-239-1024x576.png" alt="The Sandbox Expands Offerings And Bolsters Security With KYC Verification" class="wp-image-208238" srcset="https://coincu.com/wp-content/uploads/2023/08/image-239-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-239-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-239-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-239-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-239.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="The Sandbox Expands Offerings And Bolsters Security With KYC Verification 11"></a></figure></div>
-
-
-<p>Verified users on The Sandbox can now deposit new SAND tokens and claim their weekly rewards securely. Although unverified users are still permitted to withdraw their SAND, the platform seeks to incentivize participation in the staking process through the added benefits for verified users.</p>
-
-
-
-<p>This move towards KYC verification might have been influenced by a security incident in May when the Twitter account of The Sandbox&#8217;s CEO and co-founder, Arthur Madrid, was <a href="https://coincu.com/190247-the-sandbox-co-founders-hacked/" target="_blank" rel="noreferrer noopener">hacked</a>. During the breach, the hacker posted a phishing link for a fake SAND token airdrop, prompting the platform to remind its users to exercise caution and report any suspicious activity promptly. The incident highlights the urgency of strengthening security measures, thus making the KYC verification process an essential component of The Sandbox&#8217;s defense against potential threats.</p>
-
-
-
-<p>Moreover, last year, The Sandbox introduced a KYC verification and sales raffle process to ensure a more equitable distribution of landowners. The metaverse platform has been dedicated to providing a transparent and accessible ecosystem for all participants. These initiatives have been outlined as part of The Sandbox&#8217;s comprehensive landowner roadmap, which serves as a guiding document for crucial milestones and future developments.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208227-the-sandbox-expands-security-with-kyc/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-237-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023</title>
-		<link>https://coincu.com/208225-marathon-digital-sets-new-bitcoin-mining-records/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 15:23:50 +0000</pubDate>
-				<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[BTC]]></category>
-		<category><![CDATA[Fred Thiel]]></category>
-		<category><![CDATA[Marathon Digital]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208225</guid>
-
-					<description><![CDATA[Marathon Digital Holdings achieved a record 1,176 BTC mined in July 2023, a 20% increase from the previous month and a 1,527% increase from last year.<p class="has-text-align-right"><a href="https://coincu.com/208225-marathon-digital-sets-new-bitcoin-mining-records/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Marathon Digital Holdings achieved a record 1,176 BTC mined in July 2023, a 20% increase from the previous month and a 1,527% increase from last year.</em></li>
-
-
-
-<li><em>The operational hash rate rose by 6%, and the installed hash rate by 5%, driven by the fully operational Ellendale facility in North Dakota.</em></li>
-
-
-
-<li><em>The company owns 12,964 BTC and plans to sell some holdings for operational support and corporate purposes.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Marathon Digital Holdings, a prominent player in the Bitcoin ecosystem, <a href="https://www.globenewswire.com/news-release/2023/08/03/2717834/0/en/Marathon-Digital-Holdings-Announces-Bitcoin-Production-and-Mining-Operation-Updates-for-July-2023.html" target="_blank" rel="noreferrer noopener">announced</a> impressive updates regarding its Bitcoin (BTC) production and mining activities in July 2023. The company reported a significant increase in mined BTC, marking a remarkable growth trajectory for the month.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-233.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/08/image-233-1024x538.png" alt="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023" class="wp-image-208230" srcset="https://coincu.com/wp-content/uploads/2023/08/image-233-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-233-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-233-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-233-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-233-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-233.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023 12"></a></figure></div>
-
-
-<p>In July, <a href="https://coincu.com/195572-marathon-digital-issued-a-warning/" target="_blank" rel="noreferrer noopener">Marathon</a> mined a total of 1,176 BTC, representing a 20 percent surge from <a href="https://coincu.com/200620-marathon-digital-holdings-sells-700-btc-in-june/" target="_blank" rel="noreferrer noopener">the previous month</a> and a staggering 1,527 percent surge compared to the same period last year. This remarkable increase can be attributed to the implementation of enhanced operational computing power and improved system uptime.</p>
-
-
-
-<p>One of the key contributors to this achievement was the boost in the company&#8217;s operating hash rate, which rose by 6% to reach 18.8 exahashes per second (EH/s). Furthermore, the installed hash rate also witnessed a 5% increase, reaching 22.8 EH/s. The expansion was largely due to the successful completion of the Ellendale facility in North Dakota. With all six buildings now fully operational at Ellendale, the facility contributed an additional 7.6 EH/s to the company&#8217;s overall operational capacity.</p>
-
-
-
-<p>Marathon Digital Holdings now boasts ownership of an impressive 12,964 BTC as of August 1, 2023. To support its monthly operations, manage finances, and for general corporate purposes, the company opted to sell 750 BTC during the month of July. Additionally, Marathon has plans to sell some of its Bitcoin holdings in the future.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/08/image-235.png" alt="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023" class="wp-image-208232" srcset="https://coincu.com/wp-content/uploads/2023/08/image-235.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-235-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-235-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-235-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/08/image-235-750x375.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023 13"></figure></div>
-
-
-<p>The company&#8217;s financial position has also seen a noteworthy improvement. As of July 31, 2023, Marathon reported $129.4 million in cash and cash equivalents on its balance sheet, with $115.1 million being unrestricted. The combined balance of unrestricted cash and cash equivalents and Bitcoin witnessed significant growth, surging from $278.2 million to an impressive $494.0 million compared to the same period last year.</p>
-
-
-
-<p>Looking ahead, Marathon Digital Holdings continues to make strides toward further advancements in its mining operations. The Garden City, Texas facility is nearing its launch, with tie-in work already completed and energization expected to occur soon.</p>
-
-
-
-<p>Furthermore, the company&#8217;s joint venture in Abu Dhabi has shown encouraging progress, commencing hashing activities in early July and producing 16.8 BTC in its inaugural month. Marathon&#8217;s 20% ownership stake in the venture yielded a share of 3.4 BTC for the same period. The project&#8217;s operational hash rate is projected to reach 7.0 exahashes by the end of 2023.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-236.png"><img decoding="async" loading="lazy" width="960" height="591" src="https://coincu.com/wp-content/uploads/2023/08/image-236.png" alt="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023" class="wp-image-208233" srcset="https://coincu.com/wp-content/uploads/2023/08/image-236.png 960w, https://coincu.com/wp-content/uploads/2023/08/image-236-300x185.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-236-768x473.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-236-750x462.png 750w" sizes="(max-width: 960px) 100vw, 960px" title="Marathon Digital Holdings Sets New Bitcoin Mining Records In July 2023 14"></a></figure></div>
-
-
-<p>Marathon Digital, on the other hand, is now embroiled in a legal struggle brought by its stockholders.</p>
-
-
-
-<p>The action, <a href="https://coincu.com/203646-shareholders-marathon-digital-legal-battle/" target="_blank" rel="noreferrer noopener">filed</a> on July 8 in the United States District Court for the District of Nevada, charges CEO Fred Thiel and other senior executives of violation of fiduciary duty, unjust enrichment, and squandering company assets.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208225-marathon-digital-sets-new-bitcoin-mining-records/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-234-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Layer 2 Base Network To Launch On August 9, Unveiling Onchain Summer</title>
-		<link>https://coincu.com/208213-layer-2-base-network-to-launch-on-august-9/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 14:56:30 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[base]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Layer 2]]></category>
-		<category><![CDATA[Onchain Summer]]></category>
-		<category><![CDATA[OP Stack]]></category>
-		<category><![CDATA[PropHouse]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208213</guid>
-
-					<description><![CDATA[Layer 2 Base network to launch on August 9, with an Ethereum bridge for token movement.<p class="has-text-align-right"><a href="https://coincu.com/208213-layer-2-base-network-to-launch-on-august-9/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Layer 2 Base network to launch on August 9, with an Ethereum bridge for token movement.</em></li>
-
-
-
-<li><em>The network aims for lower fees, appealing to diverse users from regular to DeFi participants.</em></li>
-
-
-
-<li><em>&#8220;Onchain Summer&#8221; festival celebrates its arrival with art, music, and developer grants.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Coinbase, the prominent cryptocurrency exchange, is set to make a significant stride in the crypto space with the full public release of its Base network on August 9. Additionally, the exchange has already taken the initiative to launch an Ethereum bridge ahead of the scheduled date.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-231.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/08/image-231-1024x512.png" alt="Layer 2 Base Network To Launch On August 9, Unveiling Onchain Summer" class="wp-image-208222" srcset="https://coincu.com/wp-content/uploads/2023/08/image-231-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-231-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-231-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-231-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/08/image-231-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-231.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Layer 2 Base Network To Launch On August 9, Unveiling Onchain Summer 15"></a></figure></div>
-
-
-<p>The introduction of the official bridge is <a href="https://twitter.com/BuildOnBase/status/1687088084704509952" target="_blank" rel="noreferrer noopener">expected</a> to facilitate the seamless movement of tokens between the Base network and <a href="https://coincu.com/207287-ethereum-ico-investor-emerges-after-8-year/" target="_blank" rel="noreferrer noopener">Ethereum</a>, enhancing user accessibility and overall functionality.</p>
-
-
-
-<p><a href="https://coincu.com/204074-coinbases-base-optimisms-drive/" target="_blank" rel="noreferrer noopener">Base</a>, which operates on the OP software stack, is a Layer 2 blockchain that aims to offer lower transaction fees compared to the Ethereum network. This strategic move positions the network as a compelling alternative for a wide range of users, catering not only to Coinbase&#8217;s regular clients but also to participants in the decentralized finance (DeFi) sphere.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-230.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/08/image-230-1024x512.png" alt="Layer 2 Base Network To Launch On August 9, Unveiling Onchain Summer" class="wp-image-208221" srcset="https://coincu.com/wp-content/uploads/2023/08/image-230-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-230-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-230-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-230-1536x768.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-230-2048x1024.png 2048w, https://coincu.com/wp-content/uploads/2023/08/image-230-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/08/image-230-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-230-1140x570.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Layer 2 Base Network To Launch On August 9, Unveiling Onchain Summer 16"></a></figure></div>
-
-
-<p>This official release follows the successful deployment of Base&#8217;s developer-only mainnet on July 13, which was primarily accessible to developers during its initial phase.</p>
-
-
-
-<p>However, ahead of the full public launch, numerous users took advantage of a portal proxy contract and unofficial bridges to bridge assets to the network. This allowed them to participate in trading new <a href="https://coincu.com/207432-memecoin-bald-rug-pull-price-dropped-pver-80/" target="_blank" rel="noreferrer noopener">memecoins</a> being launched on the platform. While the bridge was initially accessible to a limited audience, its upcoming public launch opens up vast opportunities for users to harness the potential of the network.</p>
-
-
-
-<p>In anticipation of the significant event, Coinbase <a href="https://base.mirror.xyz/h028XVTdP7QtZZfWAHuJ9OYmMNs0Fyi4e4fJZH_5ik4" target="_blank" rel="noreferrer noopener">announced</a> the initiation of &#8220;Onchain Summer,&#8221; a month-long on-chain festival that showcases art, music, gaming, advocacy, and more. This festival, spearheaded by 50 prominent builders, brands, products, artists, and creators, will provide a fun and engaging experience for onchain enthusiasts throughout August.</p>
-
-
-
-<p><a href="https://coincu.com/207917-coinbase-promises-to-integrate-lightning-network/" target="_blank" rel="noreferrer noopener">Coinbase</a> is also encouraging developers and creators to join in the festivities, offering grants for projects developed and created on Base during the summer in collaboration with PropHouse. This initiative aims to foster innovation and creativity within the growing the ecosystem.</p>
-
-
-
-<p>As the network opens its doors to the public on August 9, it is poised to revolutionize the crypto space by attracting a diverse audience of builders and users. With its commitment to lower transaction fees and seamless Ethereum integration, Base has the potential to carve a significant niche in the cryptocurrency landscape, empowering users to experience the full potential of blockchain technology.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208213-layer-2-base-network-to-launch-on-august-9/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-232-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says</title>
-		<link>https://coincu.com/208211-binance-reaches-150-million-users/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 14:21:41 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Binance Japan]]></category>
-		<category><![CDATA[CFTC]]></category>
-		<category><![CDATA[Changpeng Zhao]]></category>
-		<category><![CDATA[CZ]]></category>
-		<category><![CDATA[DOJ]]></category>
-		<category><![CDATA[SEBC]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208211</guid>
-
-					<description><![CDATA[Binance reaches 150 million users amid US legal challenges.<p class="has-text-align-right"><a href="https://coincu.com/208211-binance-reaches-150-million-users/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Binance reaches 150 million users amid US legal challenges.</em></li>
-
-
-
-<li><em>According to reports, Chinese users traded $90 billion on Binance in May.</em></li>
-
-
-
-<li><em>The exchange also expands into Japan, Dubai and introduces new Launchpools.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Binance has once again demonstrated its remarkable resilience and growth as it celebrates reaching an impressive milestone of 150 million registered users.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-228.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-228-1024x576.png" alt="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says" class="wp-image-208214" srcset="https://coincu.com/wp-content/uploads/2023/08/image-228-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-228-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-228-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-228-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-228-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-228-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-228.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says 17"></a></figure></div>
-
-
-<p>The announcement was made by Changpeng Zhao, the CEO, and co-founder of Binance, on Twitter. This achievement comes despite the ongoing legal battles the exchange faces with United States regulators.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">This week at <a href="https://twitter.com/hashtag/Binance?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Binance</a> (so far):<br><br>&#8211; Binance Japan officially launched<br>&#8211; Binance secured an Operational MVP License in Dubai (first exchange in the world to do so)<br>&#8211; 2x new Binance Launchpools &#8211; <a href="https://twitter.com/search?q=%24CYBER&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$CYBER</a> &amp; <a href="https://twitter.com/search?q=%24SEI&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$SEI</a><br>&#8211; Hit 150M registered Binance users<br><br>Keep building.</p>&mdash; CZ <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f536.png" alt="🔶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Binance (@cz_binance) <a href="https://twitter.com/cz_binance/status/1687061963094814720?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>In a significant move, Binance has recently re-entered the Japanese market and obtained a license in Dubai. This expansion reflects the exchange&#8217;s commitment to catering to diverse global markets. In Japan, the exchange has officially launched its services, offering spot trading for 34 tokens, including popular cryptocurrencies like BTC, ETH, BNB, DOGE, DOT, ENJ, ETC, and LINK. The local cryptocurrency exchange service provider, formerly known as SAKURA Exchange BitCoin, Inc. (SEBC), has undergone a rebranding and now operates under the name Binance Japan Inc.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1.jpg"><img decoding="async" loading="lazy" width="1024" height="650" src="https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-1024x650.jpg" alt="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says" class="wp-image-208215" srcset="https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-1024x650.jpg 1024w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-300x191.jpg 300w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-768x488.jpg 768w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-1536x976.jpg 1536w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-2048x1301.jpg 2048w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-750x476.jpg 750w, https://coincu.com/wp-content/uploads/2023/08/sec_saul-loeb-getty-scaled-1-1140x724.jpg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says 18"></a></figure></div>
-
-
-<p>Despite navigating through various obstacles, the exchange has managed to capture the attention of millions of users around the world. However, recent allegations surrounding its operations in China have brought the exchange into the spotlight. The <em>Wall Street Journal</em> <a href="https://coincu.com/207915-binance-defies-chinas-ban/" target="_blank" rel="noreferrer noopener">reported</a> that users conducted an astonishing $90 billion worth of crypto trades within China during May, as revealed through Binance&#8217;s internal platform &#8220;Mission Control.&#8221;</p>
-
-
-
-<p>It&#8217;s important to note that Binance.com is restricted in China and inaccessible to users within the country. Despite this, SimilarWeb data shows that the exchange attracts significant traffic from various countries, including Turkey, Vietnam, Russia, Argentina, and India.</p>
-
-
-
-<p>As the SEC increases its scrutiny of Binance&#8217;s activities in the United States, the exchange is exploring alternative markets for growth.</p>
-
-
-
-<p>Surprisingly, Binance has witnessed an impressive increase of 22 million users in just three months, bringing its user base from 128 million in May to the current 150 million. Notably, in July 2022, the exchange had 120 million registered users, indicating a remarkable surge of 30 million users in one year despite the challenging conditions of the bear market experienced during the same period last year, according to <em><a href="https://twitter.com/WuBlockchain/status/1687064530239778816" target="_blank" rel="noreferrer noopener">Wu Blockchain</a></em>.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-1024x683.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-1024x683.webp" alt="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says" class="wp-image-208216" srcset="https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-1024x683.webp 1024w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-300x200.webp 300w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-768x512.webp 768w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-1536x1025.webp 1536w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-750x500.webp 750w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524-1140x761.webp 1140w, https://coincu.com/wp-content/uploads/2023/08/1x-1-1679973527051-16799735276791040535524.webp 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Reaches 150 Million Registered Users Despite Challenges, CEO Says 19"></a></figure></div>
-
-
-<p>Amidst the legal challenges, the exchange remains determined to expand its user base and enhance its services. The exchange has recently introduced two new Launchpools to attract more users.</p>
-
-
-
-<p>Binance&#8217;s growth is indeed impressive, but it is essential to recognize the legal challenges it faces in various jurisdictions. The Commodity Futures Trading Commission has <a href="https://coincu.com/206434-binance-vs-cftc-lawsuit/" target="_blank" rel="noreferrer noopener">sued</a> the exchange and its CEO for allegedly operating an &#8220;illegal&#8221; exchange and a &#8220;sham&#8221; compliance program. The U.S. Department of Justice is reportedly <a href="https://coincu.com/208039-binance-may-be-accused-of-fraud/" target="_blank" rel="noreferrer noopener">considering</a> fraud charges against the exchange but is concerned about potential repercussions on the exchange&#8217;s users.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208211-binance-reaches-150-million-users/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-229-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>FTX Seeks To Remove Dubai Subsidiary From US Bankruptcy Proceedings</title>
-		<link>https://coincu.com/208172-ftx-dubai-subsidiary-us-bankruptcy/</link>
-		
-		<dc:creator><![CDATA[Chubbi]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 09:07:11 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[FTX bankruptcy]]></category>
-		<category><![CDATA[market]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208172</guid>
-
-					<description><![CDATA[FTX has filed court documents with the aim of excluding its Dubai subsidiary, FTX Dubai, from the ongoing liquidation process in the United States. <p class="has-text-align-right"><a href="https://coincu.com/208172-ftx-dubai-subsidiary-us-bankruptcy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>FTX seeks to exclude Dubai subsidiary from US bankruptcy proceedings, aiming for a voluntary liquidation process under UAE law.</em></li>
-
-
-
-<li><em>The Dubai branch&#8217;s solvent status and lack of prior business activities are cited as reasons for pursuing an independent liquidation path.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>The platform has filed court documents with the aim of excluding its Dubai subsidiary, FTX Dubai, from the ongoing liquidation process in the United States. </strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-1024x576.jpeg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-1024x576.jpeg" alt="FTX Seeks To Remove Dubai Subsidiary From US Bankruptcy Proceedings" class="wp-image-208183" srcset="https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-1024x576.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-300x169.jpeg 300w, https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-768x432.jpeg 768w, https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai-750x422.jpeg 750w, https://coincu.com/wp-content/uploads/2023/08/ftx-eu-dubai.jpeg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="FTX Seeks To Remove Dubai Subsidiary From US Bankruptcy Proceedings 20"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p>According to the filing, the Dubai branch had not conducted any business activities prior to its bankruptcy filing in the United Arab Emirates (UAE), making the resumption of operations unlikely. Moreover, FTX Dubai&#8217;s balance sheet was solvent, providing grounds for a voluntary liquidation process under UAE law. The voluntary liquidation would facilitate the timely distribution of the cash balance after settling all outstanding debts and liquidating assets. A hearing on this matter is scheduled for August 23.</p>
-
-
-
-<p>The Chapter 11 bankruptcy petition that was filed in the United States included 102 associated businesses and organizations from across the world. One of the entities that are participating in the present legal processes is FTX Dubai, which was founded in February 2022 and is currently controlled by the company&#8217;s European affiliate.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-1024x683.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-1024x683.jpeg" alt="FTX Seeks To Remove Dubai Subsidiary From US Bankruptcy Proceedings" class="wp-image-208184" srcset="https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina-1140x760.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/08/ftx-media-library-origina.jpeg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="FTX Seeks To Remove Dubai Subsidiary From US Bankruptcy Proceedings 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
-
-
-<p><a href="https://coincu.com/207888-ftx-creditors-frustrated-plan-get-out-bankruptcy/">FTX</a>&#8216;s move to remove the Dubai branch from the US bankruptcy proceedings highlights its intention to handle the subsidiary&#8217;s liquidation under the laws of the UAE, where it operates. By opting for a solvent voluntary liquidation process, the platform aims to expedite the distribution of funds and complete the settlement of obligations swiftly.</p>
-
-
-
-<p>This legal development sheds light on the complexities and considerations involved in global cryptocurrency exchange operations and legal proceedings. As cryptocurrency markets continue to expand internationally, exchanges must navigate varying regulatory frameworks and jurisdictional implications to safeguard their interests and assets. The outcome of the upcoming hearing on August 23 will determine whether FTX Dubai&#8217;s liquidation process will remain under US bankruptcy proceedings or proceed independently under UAE law.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-
-
-
-<p>Join us to keep track of news: <a href="https://linktr.ee/coincu" target="_blank" rel="noopener">https://linktr.ee/coincu</a></p>
-
-
-
-<p class="has-text-align-right"><strong>Chubbi</strong></p>
-
-
-
-<p class="has-text-align-right"><strong>Coincu News</strong></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208172-ftx-dubai-subsidiary-us-bankruptcy/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/Ban-sao-cua-Final-Thumb-15-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
 	</channel>
 </rss>

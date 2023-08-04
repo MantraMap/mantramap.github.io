@@ -461,4 +461,4 @@
 		
 			</item>
 	</channel>
-</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4071 metric#misses=42 metric#hit-ratio=99.0 metric#bytes=1068215 metric#prefetches=196 metric#store-reads=20 metric#store-writes=2 metric#store-hits=202 metric#store-misses=3 metric#sql-queries=34 metric#ms-total=101.92 metric#ms-cache=4.78 metric#ms-cache-avg=0.2276 metric#ms-cache-ratio=4.7 -->
+</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=4071 metric#misses=42 metric#hit-ratio=99.0 metric#bytes=1067031 metric#prefetches=196 metric#store-reads=20 metric#store-writes=2 metric#store-hits=202 metric#store-misses=3 metric#sql-queries=34 metric#ms-total=120.08 metric#ms-cache=5.04 metric#ms-cache-avg=0.2399 metric#ms-cache-ratio=4.2 -->
