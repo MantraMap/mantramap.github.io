@@ -13,7 +13,7 @@
 	<atom:link href="https://coincu.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincu.com</link>
 	<description>Coin and Crypto Infomation Update</description>
-	<lastBuildDate>Fri, 04 Aug 2023 16:36:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Aug 2023 06:32:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,541 +29,986 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Revolut Stops Supporting Crypto In The US From September 2 Due To Harsh Regulations</title>
-		<link>https://coincu.com/208393-revolut-stops-supporting-crypto/</link>
+		<title>EraPAD Review: Interesting Launchpad Integration Project On zkSync Era</title>
+		<link>https://coincu.com/207394-erapad-review/</link>
 		
 		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 10:30:46 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[ADA]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[MATIC]]></category>
-		<category><![CDATA[REvolut]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[SOL]]></category>
-		<category><![CDATA[us]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208393</guid>
+		<pubDate>Sat, 05 Aug 2023 06:31:44 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[AMM]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Dex]]></category>
+		<category><![CDATA[EraPAD]]></category>
+		<category><![CDATA[Farming]]></category>
+		<category><![CDATA[HIGG]]></category>
+		<category><![CDATA[Launchpad]]></category>
+		<category><![CDATA[swap]]></category>
+		<category><![CDATA[zHIGG]]></category>
+		<category><![CDATA[Zksync]]></category>
+		<category><![CDATA[zkSync Era]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207394</guid>
 
-					<description><![CDATA[British digital bank Revolut has declared the suspension of its cryptocurrency services in the United States due to regulatory shifts and uncertainties within the U.S. crypto market.<p class="has-text-align-right"><a href="https://coincu.com/208393-revolut-stops-supporting-crypto/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[EraPAD is a groundbreaking DEX project integrated with Launchpad and developed on the cutting-edge zkSync ecosystem<p class="has-text-align-right"><a href="https://coincu.com/207394-erapad-review/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
+<h5 class="wp-block-heading"><strong><a href="https://twitter.com/erapad_finance" target="_blank" rel="noreferrer noopener">EraPAD</a>, a groundbreaking DEX project integrated with Launchpad and developed on the cutting-edge zkSync ecosystem, is developing many outstanding features to support users. This innovative project boasts a host of remarkable features, setting it apart from traditional decentralized exchanges.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2365.png"><img decoding="async" width="1024" height="553" src="https://coincu.com/wp-content/uploads/2023/07/image-2365-1024x553.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207515" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2365-1024x553.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2365-300x162.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2365-768x414.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2365-750x405.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2365.png 1108w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 1"></a></figure></div>
+
+
+<p>EraPAD represents a significant advancement in the world of decentralized finance (DeFi), catering to the increasing demand for secure, efficient, and user-friendly solutions. Built on the zkSync ecosystem, EraPAD leverages zero-knowledge proofs, enabling swift and low-cost transactions while maintaining robust security. Let&#8217;s find out more about this project with Coincu.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is EraPAD?</h2>
+
+
+
+<p>In the dynamic world of blockchain and decentralized finance, EraPAD emerges as a prominent player, revolutionizing the landscape with its automated trading protocol and decentralized exchange (DEX) built on the <a href="https://coincu.com/187304-top-5-new-projects-on-zksync-era-ecosystem/" target="_blank" rel="noreferrer noopener">zkSync Era </a>ecosystem.</p>
+
+
+
+<p>EraPAD&#8217;s origins lie in its fork version of Uniswap V2 and Curve, which forms the backbone of its automated market maker (AMM) DEX. This strategic foundation ensures that EraPAD inherits the best aspects of these well-established protocols while introducing innovations to enhance overall functionality and performance.</p>
+
+
+
+<p>At its core, the project introduces essential features such as Swap, Farming, and Launchpad, empowering users with a variety of options for trading, staking, and participating in new project launches. By integrating these functionalities, EraPAD caters to diverse user preferences, offering a versatile ecosystem where traders and liquidity providers can thrive.</p>
 
 
 
 <ul>
-<li><em>Revolut halts U.S. cryptocurrency services due to regulatory changes.</em></li>
+<li>The Swap feature on the platform enables users to trade tokens automatically and rapidly.</li>
 
 
 
-<li><em>The suspension starts on September 2, full ban from October 3.</em></li>
+<li>Users may utilize the Farming feature to bring liquidity into trading pairs and obtain EraPAD token incentives while participating in the market.</li>
 
 
 
-<li><em>Revolut responds to evolving U.S. crypto regulations and delists ADA, MATIC, and SOL.</em></li>
+<li>The Launchpad feature enables new projects to raise funds and issue tokens to investors using the platform.</li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>According to <em><a href="https://decrypt.co/151272/revolut-shutter-us-crypto-operations-due-regulatory-environment" target="_blank" rel="noreferrer noopener">Decrypt</a></em>, British digital bank Revolut has declared the suspension of its cryptocurrency services in the United States due to regulatory shifts and uncertainties within the U.S. crypto market.</strong></h5>
+<p>One of EraPAD&#8217;s key strengths lies in its commitment to delivering a seamless and efficient trading experience. The platform&#8217;s deep liquidity and high customization options contribute to a trading environment where users can execute transactions swiftly and conveniently. This focus on user satisfaction sets EraPAD apart from other DEXs, ensuring that it stays ahead of the curve in an ever-evolving DeFi landscape.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Highlights</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>EraPAD&#8217;s AMM Mechanism</strong></h3>
+
+
+
+<p>One of the standout offerings of EraPAD is its unique <a href="https://coincu.com/167234-how-will-the-dex-war-explode/" target="_blank" rel="noreferrer noopener">Automated Market Maker (AMM)</a> mechanism that allows users to tailor transaction fees to their specific preferences.</p>
+
+
+
+<p>Unlike traditional AMM platforms, EraPAD empowers users to customize transaction fees for each trading pair. This flexibility ensures that users have full control over their trading experience, allowing them to optimize fees according to their individual needs. By offering pool configurations with varying fees for specific trading pairs, EraPAD provides unmatched convenience to traders, encouraging a more seamless and personalized approach to transactions.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Liquidity of EraPAD</strong></h3>
+
+
+
+<p>The liquidity aspect of EraPAD is further bolstered by its groundbreaking NFT staking feature. Users can stake their NFTs to enhance the liquidity of their holdings, unlocking a multitude of benefits through the platform&#8217;s protocols. One of the key advantages is the freedom to close or unlock NFTs at any time, affording users greater control over their profits and enabling various strategic maneuvers.</p>
+
+
+
+<p>Moreover, EraPAD grants users the liberty to customize stake levels, ultimately leading to increased capital efficiency and higher returns. The unrestricted reusability of staked NFTs, facilitated by Nitro Pools and other mechanisms, adds another layer of convenience, allowing users to reuse their NFTs without any limitations.</p>
+
+
+
+<p>The introduction of NFT staking on EraPAD marks a significant step forward for DeFi enthusiasts, as it brings unparalleled flexibility to their trading endeavors and optimizes capital utilization.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Launchpad project support</strong></h3>
+
+
+
+<p>EraPAD extends its support to emerging projects through its Launchpad initiative. The Nitro Pools mechanism offers participating projects the autonomy to design flexible buying or selling strategies to maximize profits. This feature empowers projects with the freedom to execute transactions as per their own unique strategies without any constraints.</p>
+
+
+
+<p>In a display of commitment to project success, EraPAD also provides tailored strategies when required, ensuring optimal efficiency and maximum profits for the participating ventures. The platform&#8217;s willingness to adapt and support projects with customized strategies sets EraPAD apart as a truly user-centric and project-friendly DeFi platform.</p>
+
+
+
+<p>With EraPAD&#8217;s groundbreaking AMM mechanism, customizable fee structure, and NFT staking, the platform is spearheading the next generation of decentralized finance. By empowering users with unprecedented control over their trading experience and supporting projects with tailored strategies, it has solidified its position as a trailblazer in the evolving DeFi landscape. As the platform continues to make waves, the future of decentralized finance looks it than ever.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Tokenomics brings sustainability</strong></h3>
+
+
+
+<p>By introducing two main tokens, HIGG and zHIGG, EraPAD establishes a strong foundation for community empowerment and efficient governance within its ecosystem.</p>
+
+
+
+<p>The HIGG token plays a pivotal role in empowering the community, granting users the ability to actively participate in platform-related decisions and governance processes. On the other hand, the zHIGG token serves as an escrow version, allowing users to engage in governance and play a crucial role in shaping the future of EraPAD.</p>
+
+
+
+<p>To maintain a balanced and stable token ecosystem, EraPAD has implemented a token supply limit, effectively capping the maximum number of tokens that can be issued. By curbing the over-expansion of the token supply, this measure safeguards against potential inflationary pressures and ensures long-term stability for HIGG and zHIGG tokens.</p>
+
+
+
+<p>An ingenious move by EraPAD is its planned allocation of a portion of the swap fee to zHIGG users as profits. This forward-thinking approach incentivizes users to actively hold and utilize zHIGG, fostering strong community participation while bolstering the overall stability of the tokens. This way, the project not only rewards its loyal users but also reinforces the resilience of its token ecosystem.</p>
+
+
+
+<p>The combination of a well-designed tokenomics system, token supply limit, and the strategic allocation of swap fees contributes to a stable environment for EraPAD tokens. As a result, users and the community using the project can benefit from a reliable and secure ecosystem where their contributions are duly rewarded.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Features</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Swap</strong></h3>
+
+
+
+<p>The Swap mechanism currently allows users to exchange between ETH-HIGG pairs with minimal slippage of approximately 0.05%. However, the platform is still in the developmental phase, and users have reported limited experiences, including potential suspensions in wallet connections and only one available trading pair, ETH-HIGG. EraPAD acknowledges the need for improvement in the liquidity market and urges potential traders to carefully evaluate their investment decisions.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app.jpeg"><img decoding="async" width="1024" height="773" src="https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-1024x773.jpeg" alt="Revolut Stops Supporting Crypto In The US From September 2 Due To Harsh Regulations" class="wp-image-208396" srcset="https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-1024x773.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-300x226.jpeg 300w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-768x579.jpeg 768w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-1536x1159.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-750x566.jpeg 750w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app-1140x860.jpeg 1140w, https://coincu.com/wp-content/uploads/2023/08/revolut-cryptocurrency-apecoin-sandbox-eu-uk-super-app.jpeg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" title="Revolut Stops Supporting Crypto In The US From September 2 Due To Harsh Regulations 1"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-1024x483.png"><img decoding="async" loading="lazy" width="1024" height="483" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-1024x483.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207521" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-1024x483.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-300x142.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-768x362.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-1536x725.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-2048x966.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-750x354.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.46-1140x538.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 2"></a></figure></div>
 
 
-<p>Effective September 2, 2023, U.S. customers will no longer be able to place cryptocurrency orders on the platform. The delisting process will conclude by September 18, followed by more extensive restrictions beginning October 3, 2023.</p>
-
-
-
-<p>This subsequent stage will enforce a complete ban on U.S. customers accessing cryptocurrencies via <a href="https://coincu.com/198279-exciting-revolut-slashes-trading-fees/" target="_blank" rel="noreferrer noopener">Revolut</a>. </p>
+<h3 class="wp-block-heading"><strong>Farming</strong></h3>
 
 
 
-<p>It&#8217;s important to note that this decision doesn&#8217;t impact Revolut&#8217;s operations outside of the United States. All U.S. crypto customers were notified of this decision through emails from Revolut. </p>
+<p>On the other hand, the Farming feature has garnered considerable attention among investors due to its alluring benefits. Participants in EraPAD&#8217;s Farming will receive zHIGG governance tokens and stand a chance to receive additional rewards from EraPAD&#8217;s partners. The project is committed to distributing up to 5% of the total supply in profits to users. Although the exact numbers have not been disclosed, these offerings are expected to be enticing for those willing to engage in Farming. However, users should exercise caution and conduct due diligence as EraPAD is still undergoing development.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-1024x278.png"><img decoding="async" loading="lazy" width="1024" height="278" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-1024x278.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207522" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-1024x278.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-300x81.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-768x208.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-1536x417.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-2048x556.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-750x204.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.53-1140x309.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 3"></a></figure></div>
+
+
+<h3 class="wp-block-heading"><strong>Launchpad</strong></h3>
 
 
 
-<p>The move reflects the company&#8217;s response to the regulatory environment, particularly the stance of the U.S. Securities and Exchange Commission (SEC), which has categorized many cryptocurrencies as securities, subjecting them to investor protection rules.</p>
+<p>The Launchpad is EraPAD&#8217;s flagship product, allowing users to purchase blockchain-based tokens through auctions with the assurance of secure transactions on the zkSync chain. Participating projects will allocate 10% of their total token supply for sale, with 6% purchasable with HIGG and 4% with zHIGG. Additionally, users can enhance their income by utilizing the referrer function and contributing early to the project. Furthermore, keeping the OG role on Discord, purchased at a 10% discount, is also possible.</p>
 
 
 
-<p>The SEC has intensified its stance, asserting that a significant portion of cryptocurrencies are to be treated as securities, thus making them subject to investor protection regulations. </p>
+<p>Despite the opportunities, EraPAD acknowledges the risks associated with the Launchpad, such as potential rug pulls and scam projects. To safeguard liquidity for Launchpad projects, EraPAD has allocated 50% of the proceeds from the final token sale, matched with 7.5% HIGG in the UNI v2 liquidity pool.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58.png"><img decoding="async" loading="lazy" width="1024" height="237" src="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-1024x237.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207523" srcset="https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-1024x237.png 1024w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-300x69.png 300w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-768x178.png 768w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-1536x355.png 1536w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-2048x474.png 2048w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-750x173.png 750w, https://coincu.com/wp-content/uploads/2023/07/Screenshot-2023-08-01-at-02.23.58-1140x264.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 4"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">HIGG token</h2>
 
 
 
-<p>This regulatory push reached a turning point in early June when the <a href="https://coincu.com/206974-sec-and-binance-unite-to-thwart-eeon/" target="_blank" rel="noreferrer noopener">SEC</a> took legal action against major crypto exchanges <a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank" rel="noreferrer noopener">Coinbase</a> and <a href="https://coincu.com/208039-binance-may-be-accused-of-fraud/" target="_blank" rel="noreferrer noopener">Binance</a>. </p>
+<p>EraPAD now offers two kinds of tokens: a native token called HIGG and a governance token called zHIGG. These tokens serve a significant role in the EraPAD ecosystem, as they are utilized to assure the platform&#8217;s transparency, fairness, and efficiency.</p>
 
 
 
-<p>The regulatory body accused them of neglecting to register multiple cryptocurrencies as securities. It&#8217;s noteworthy that both exchanges have refuted these allegations.</p>
+<p>The native token HIGG is used to make transactions on the platform, while the governance token zHIGG is utilized to control community decisions and platform operations.</p>
 
 
 
-<p>Revolut&#8217;s quick response included the removal of Cardano (ADA), Solana (SOL), and Polygon (MATIC) after the SEC&#8217;s classification of these tokens as securities. The company&#8217;s actions are aligned with broader industry discussions and actions in response to evolving regulatory pressures.</p>
+<p>These two tokens are essential components of the EraPAD ecosystem, ensuring synchronization and actively contributing to the platform&#8217;s long-term growth.</p>
 
 
 
-<p>While Revolut&#8217;s cryptocurrency services suspension applies solely to the U.S. market, the decision underscores the intricate challenges faced by companies navigating the evolving regulatory landscape of the cryptocurrency sector.</p>
-
-
-
-<p><em><strong>DISCLAIMER: </strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208393-revolut-stops-supporting-crypto/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-279-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>WEMIX Scandal Escalates: South Korean Authorities Seize 2 Companies Involved</title>
-		<link>https://coincu.com/208387-wemix-scandal-escalates/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 10:04:36 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Algorith Capital]]></category>
-		<category><![CDATA[Jang Hyun-Duk]]></category>
-		<category><![CDATA[South Korean]]></category>
-		<category><![CDATA[Wemade]]></category>
-		<category><![CDATA[WEMIX]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208387</guid>
-
-					<description><![CDATA[South Korean prosecutors seized two companies linked to the alleged counterfeit circulation of virtual asset WEMIX by game company WeMade.<p class="has-text-align-right"><a href="https://coincu.com/208387-wemix-scandal-escalates/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
+<h3 class="wp-block-heading" id="section-9"><strong>Key Metrics</strong></h3>
 
 
 
 <ul>
-<li><em>South Korean prosecutors seized two companies linked to the alleged counterfeit circulation of virtual asset WEMIX by game company WeMade.</em></li>
+<li>Token name: EraPAD token</li>
 
 
 
-<li><em>Accusations involve large-scale WEMIX sales without user disclosure.</em></li>
+<li>Ticker: HIGG</li>
 
 
 
-<li><em>Probe highlights regulatory challenges in the virtual asset sector amid concerns about fraud.</em></li>
+<li>Blockchain: zkSync Era&nbsp;</li>
+
+
+
+<li>Token contract: Updating</li>
+
+
+
+<li>Token Type: Utility</li>
+
+
+
+<li>Token Supply: 100,000,000 HIGG</li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>According to <em><a href="https://www.digitalasset.works/news/articleView.html?idxno=3719" target="_blank" rel="noreferrer noopener">Digital Asset</a></em>, South Korea&#8217;s Seoul Southern District Prosecutor&#8217;s Office has taken action against two companies on August 3 and 4 as part of an ongoing investigation into the alleged counterfeit circulation of virtual asset WEMIX.</strong></h5>
+<h3 class="wp-block-heading"><strong>Use Cases</strong></h3>
+
+
+
+<p>This token is used to pay platform transaction fees. This saves users a significant amount of time and effort when processing payments in conventional currencies.</p>
+
+
+
+<p>HIGG is given to users as a reward for their active participation on the site. This encourages users to be more engaged in their usage and leads to a better HIGG platform experience.</p>
+
+
+
+<p>Users who actively engage in activities such as liquidity provision, staking, or referring new participants can receive rewards in the form of tokens. This not only incentivizes users to participate more actively but also fosters a sense of community ownership, as everyone stands to benefit from the platform&#8217;s success.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-278.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/08/image-278.png" alt="WEMIX Scandal Escalates: South Korean Authorities Seize 2 Companies Involved" class="wp-image-208390" srcset="https://coincu.com/wp-content/uploads/2023/08/image-278.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-278-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-278-768x404.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-278-750x394.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="WEMIX Scandal Escalates: South Korean Authorities Seize 2 Companies Involved 2"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2368.png"><img decoding="async" loading="lazy" width="1024" height="559" src="https://coincu.com/wp-content/uploads/2023/07/image-2368-1024x559.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207520" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2368-1024x559.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2368-300x164.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2368-768x419.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2368-750x410.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2368-1140x623.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2368.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 5"></a></figure></div>
 
 
-<p><a href="https://coincu.com/206801-wemade-investigated-for-wemix-tokens/" target="_blank" rel="noreferrer noopener">WeMade</a>, a listed game company, is at the center of the probe. The companies implicated in the large-scale liquidation of WEMIX have not been officially disclosed.</p>
-
-
-
-<p>The Prosecutor&#8217;s Office is looking into accusations that WeMade sold substantial amounts of <a href="https://coincu.com/151067-korea-participating-in-listing-delisting/" target="_blank" rel="noreferrer noopener">WEMIX</a> through these companies, potentially without proper user disclosure. </p>
-
-
-
-<p>This follows a previous search and seizure operation involving WeMade and its CEO Jang Hyun-Duk, on June 30, indicating a significant escalation in the investigation.</p>
-
-
-
-<p>The companies under scrutiny are Company A, affiliated with Algorith Capital, a virtual asset management firm with an office in Seoul&#8217;s Gangnam-daero, and another virtual asset investment company in Jung-gu, Seoul. </p>
-
-
-
-<p>Notably, Algorith Capital&#8217;s Korean corporation is not a government-registered virtual asset manager.</p>
-
-
-
-<p>WeMade&#8217;s alleged large-scale liquidation of WEMIX between November 2020 and January 2022 without informing users and subsequent use of funds for mergers and acquisitions raised concerns. The controversy underscored the necessity of effective virtual asset regulation.</p>
-
-
-
-<p>According to the previous report, South Korean authorities have initiated a <a href="https://coincu.com/185781-korean-investigated-800k-wemix-fraud/" target="_blank" rel="noreferrer noopener">full mandatory investigation</a> into the market maker of WeMade. </p>
-
-
-
-<p>The search and seizure were carried out in response to a complaint filed with prosecutors on May 12 by WEMIX investors, who accused the firm of fraud, embezzlement, and breach of trust.</p>
-
-
-
-<p>The investigation&#8217;s scope broadened due to a complaint by WEMIX investors, accusing WeMade of fraud, embezzlement, and breach of trust. The case highlights the ongoing challenges associated with ensuring transparency and accountability in the virtual asset sector.</p>
-
-
-
-<p><em><strong>DISCLAIMER: </strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208387-wemix-scandal-escalates/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/Final-Thumb-19-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
-		<item>
-		<title>Bitwise Joins The Race With 2 Ether Futures ETFs, SEC Now Has Totaling 12 Applications</title>
-		<link>https://coincu.com/208365-bitwise-joins-race-with-2-ether-futures-etfs/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 07:40:37 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Bitwise]]></category>
-		<category><![CDATA[Bitwise Bitcoin and Ether Equal Weight Strategy ETF]]></category>
-		<category><![CDATA[Bitwise Bitcoin and Ether Market Cap Weight Strategy ETF]]></category>
-		<category><![CDATA[CME]]></category>
-		<category><![CDATA[Ether Futures ETFs]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208365</guid>
-
-					<description><![CDATA[Bitwise files for two Ethereum futures ETFs, joining twelve total applications.<p class="has-text-align-right"><a href="https://coincu.com/208365-bitwise-joins-race-with-2-ether-futures-etfs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
+<h3 class="wp-block-heading" id="section-11"><strong>Token Allocation</strong></h3>
 
 
 
 <ul>
-<li><em>Bitwise files for two Ethereum futures ETFs, joining twelve total applications.</em></li>
+<li>Liquidity Mining: 25%</li>
 
 
 
-<li><em>ETFs offer Bitcoin and Ether exposure through market cap and equal-weight strategies.</em></li>
+<li>Private: 5%</li>
 
 
 
-<li><em>Six other companies also apply for Ethereum futures ETFs, reflecting rising demand.</em></li>
+<li>Public Sale: 15%</li>
+
+
+
+<li>Marketing: 10%</li>
+
+
+
+<li>Reserves: 10%</li>
+
+
+
+<li>Airdrop: 15%</li>
+
+
+
+<li>Partnership: 5%</li>
+
+
+
+<li>Ecosystem: 15%</li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Bitwise has recently filed for two exchange-traded funds (ETFs) related to Ethereum futures, adding to the growing count of such applications.</strong></h5>
+<h3 class="wp-block-heading"><strong>Release Schedule</strong></h3>
+
+
+
+<ul>
+<li>Liquidity mining: evenly distributed over 3 years</li>
+
+
+
+<li>Private: 100% TGE</li>
+
+
+
+<li>Public sale: 100% TGE</li>
+
+
+
+<li>Marketing: no information</li>
+
+
+
+<li>Reserve: pre-minted in multisig</li>
+
+
+
+<li>Airdrop: distributed within 3 years</li>
+
+
+
+<li>Partnership: the amount of tokens will be unlocked after 6 months and after 2 years of distribution</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Roadmap</h2>
+
+
+
+<p>EraPAD has released its project plan, which is divided into three major phases:</p>
+
+
+
+<ul>
+<li>The first phase focuses on product development and construction.</li>
+
+
+
+<li>The second phase involves developing Launchpad to help with fundraising and project objectives.</li>
+
+
+
+<li>DEX issuance and liquidity execution are the third phase.</li>
+</ul>
+
+
+
+<p>Nonetheless, the community&#8217;s reaction to the project&#8217;s airdrop strategy has been varied. Many people believe that this indicates that the project has not attained the intended degree of stability.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-268.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/08/image-268-1024x538.png" alt="Bitwise Joins The Race With 2 Ether Futures ETFs, SEC Now Has Totaling 12 Applications" class="wp-image-208369" srcset="https://coincu.com/wp-content/uploads/2023/08/image-268-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-268-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-268-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-268-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-268-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-268.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bitwise Joins The Race With 2 Ether Futures ETFs, SEC Now Has Totaling 12 Applications 3"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-2366.png"><img decoding="async" loading="lazy" width="1024" height="621" src="https://coincu.com/wp-content/uploads/2023/07/image-2366-1024x621.png" alt="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era" class="wp-image-207516" srcset="https://coincu.com/wp-content/uploads/2023/07/image-2366-1024x621.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-2366-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-2366-768x466.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-2366-750x455.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-2366-1140x691.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-2366.png 1524w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraPAD Review: Interesting Launchpad Integration Project On zkSync Era 6"></a></figure></div>
 
 
-<p>The company&#8217;s latest products include the &#8220;Bitwise Bitcoin and Ether Market Cap Weight Strategy ETF&#8221; and the previously announced &#8220;Bitwise Bitcoin and Ether Equal Weight Strategy ETF,&#8221; according to an <a href="https://twitter.com/JSeyff/status/1687307603922055168" target="_blank" rel="noreferrer noopener">announcement</a> by Bloomberg ETF analyst James Seyffart.</p>
-
-
-
-<p>The &#8220;Bitwise Bitcoin and Ether Market Cap Weight Strategy ETF&#8221; aims to offer exposure to Bitcoin and Ether futures contracts based on their respective market capitalization, without directly investing in the cryptocurrencies themselves. </p>
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Investors &amp; Partners</h2>
 
 
 
-<p>Managed by Bitwise Investment Manager and Vident Advisory, the ETF&#8217;s allocation between Bitcoin and Ether futures contracts is determined by their market cap and rebalanced monthly.</p>
+<p>The project is actively working with partners such as GXChain, ReiNetwork, and Denet2022… Moreover, EraPAD just revealed that it has successfully raised $2 million from the Utilities Investment Fund.</p>
 
 
 
-<p>Both ETFs primarily invest in cash-settled, front-month futures contracts, with potential inclusion of back-month contracts. The filing highlights the standardized, cash-settled nature of these futures contracts, traded on the <a href="https://coincu.com/199001-cme-group-provides-single-trade-solution/" target="_blank" rel="noreferrer noopener">Chicago Mercantile Exchange (CME)</a>.</p>
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
 
 
 
-<p>With the addition of Bitwise&#8217;s applications, the total number of Ethereum futures ETF filings reaches twelve, indicating the continued interest in this financial product. </p>
+<p>EraPAD is a DEX project mixed with a Launchpad built on the zkSync ecosystem that has many impressive capabilities. The project has rather decent incentive schemes for users. But, the statement is just that; the project is still in the process of completion and development, and users must exercise caution while engaging in farming.</p>
 
 
 
-<p>As Coincu <a href="https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/" target="_blank" rel="noreferrer noopener">reported</a>, Proshares and Bitwise have jointly submitted three futures ETF applications related to &#8220;Bitcoin and Ethereum&#8221; to the Securities and Exchange Commission (SEC). </p>
-
-
-
-<p>Additionally, Direxion has submitted its own &#8220;Direxion Bitcoin Ether Strategy ETF&#8221; application. Six other companies have also filed applications for Ethereum futures ETFs, including Volatility Shares, Roundhill, VanEck, <a href="https://coincu.com/206678-grayscale-sec-concurrent-approval-bitcoin-etfs/" target="_blank" rel="noreferrer noopener">Grayscale</a>, and Proshares. </p>
-
-
-
-<p>The SEC is expected to make a decision on these applications by October 16, with a separate deadline of October 11 for the Volatility Shares application. </p>
-
-
-
-<p>The surge in applications reflects the growing demand for cryptocurrency-related investment products and the continued development of the crypto-financial market.</p>
-
-
-
-<p><em><strong>DISCLAIMER: </strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208365-bitwise-joins-race-with-2-ether-futures-etfs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207394-erapad-review/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-267-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/image-2367-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 		<item>
-		<title>Offchain Labs Announces BOLD Validation Making Arbitrum More Secure</title>
-		<link>https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/</link>
+		<title>EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits</title>
+		<link>https://coincu.com/207398-eralend-review/</link>
 		
-		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 05:18:10 +0000</pubDate>
-				<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[# Cryptocurrencies]]></category>
-		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[crypto]]></category>
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 06:31:36 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[EraLend]]></category>
 		<category><![CDATA[Ethereum]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208340</guid>
+		<category><![CDATA[Nexon Finance]]></category>
+		<category><![CDATA[P2P]]></category>
+		<category><![CDATA[Pooled]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Zksync]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=207398</guid>
 
-					<description><![CDATA[Offchain Labs has released BOLD, permissionless validation for Arbitrum chains.<p class="has-text-align-right"><a href="https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Eralend offers borrowing and lending services, which are projected to increase the capital efficiency of crypto-assets while reducing network liquidity and oracle data hazards.<p class="has-text-align-right"><a href="https://coincu.com/207398-eralend-review/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Offchain Labs has released BOLD, permissionless validation for Arbitrum chains.</em></li>
-
-
-
-<li><em>BOLD is a huge technical achievement that makes the Arbitrum chain more secure than ever.</em></li>
-
-
-
-<li><em>There are a few more steps to complete before the BOLD is ready for production.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>According to the official <a href="https://offchain.medium.com/bold-permissionless-validation-for-arbitrum-chains-9934eb5328cc" target="_blank" rel="noreferrer noopener">blog</a>, the Arbitrum Offchain Labs development team announced the launch of a permissionless verification protocol Bounded Liquidity Delay (BOLD) to resolve Rollup disputes. </strong></h5>
+<h5 class="wp-block-heading"><strong>Eralend, formerly Nexon Finance, is a lending initiative on the zkSync ecosystem. Eralend offers borrowing and lending services, which are projected to increase the capital efficiency of crypto-assets while reducing network liquidity and oracle data hazards. The community on the ZkSync platform is enthusiastic about the project.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-266.png"><img decoding="async" loading="lazy" width="1024" height="734" src="https://coincu.com/wp-content/uploads/2023/08/image-266-1024x734.png" alt="Offchain Labs Announces BOLD Validation Making Arbitrum More Secure" class="wp-image-208343" srcset="https://coincu.com/wp-content/uploads/2023/08/image-266-1024x734.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-266-300x215.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-266-768x551.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-266-120x86.png 120w, https://coincu.com/wp-content/uploads/2023/08/image-266-350x250.png 350w, https://coincu.com/wp-content/uploads/2023/08/image-266-750x538.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-266.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="Offchain Labs Announces BOLD Validation Making Arbitrum More Secure 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-69-1024x233.png"><img decoding="async" loading="lazy" width="1024" height="233" src="https://coincu.com/wp-content/uploads/2023/08/image-69-1024x233.png" alt="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits" class="wp-image-207705" srcset="https://coincu.com/wp-content/uploads/2023/08/image-69-1024x233.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-69-300x68.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-69-768x175.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-69-1536x350.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-69-2048x466.png 2048w, https://coincu.com/wp-content/uploads/2023/08/image-69-750x171.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-69-1140x260.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits 7"></a></figure></div>
 
 
-<p>BOLD enables the <a href="https://coincu.com/206210-arbitrum-goerli-testnet-launched-on-substancex/" target="_blank" rel="noreferrer noopener">Arbitrum</a> technology chain to ensure the security and vitality of the chain, minimizing delays in condition resolution and preventing dishonest parties from increasing the costs of honest parties. This verification method provides a fixed upper limit of 7 days for additional confirmation delays without being subject to delay attacks.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">BOLD is a massive technical accomplishment, making Arbitrum chains more secure than ever.<br><br>But it&#39;s an equally bold statement about what we value at <a href="https://twitter.com/OffchainLabs?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@OffchainLabs</a> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/n2Qz2QYnWm" target="_blank">https://t.co/n2Qz2QYnWm</a></p>&mdash; Steven Goldfeder (<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f499.png" alt="💙" class="wp-smiley" style="height: 1em; max-height: 1em;" />,<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e1.png" alt="🧡" class="wp-smiley" style="height: 1em; max-height: 1em;" />) (@sgoldfed) <a href="https://twitter.com/sgoldfed/status/1687199191204798464?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
+<p><a href="https://coincu.com/205867-eralend-by-3-4m-attack/" target="_blank" rel="noreferrer noopener">Eralend</a> is an attractive choice for those who want to capitalize on the financial potential of crypto assets without having to deal with the liquidity hassles and reliance on unreliable oracle data. This project has proven its breakthrough in creating an innovative loan and lending model, bringing great benefits to users. Yet, based on the current hack, it seems that it still has a long way to go.</p>
 
 
 
-<p>BOLD code and specs are now available on Github. There are a few more steps that need to be completed before the BOLD is ready to use:</p>
+<p>Please provide <a href="https://twitter.com/Coincuofficial" target="_blank" rel="noreferrer noopener">Coincu</a> to learn more about the project through this article.</p>
 
 
 
-<ol>
-<li>Share instructions for running Arbitrum Nitro development with the BOLD challenge in the coming weeks;</li>
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is EraLend?</h2>
 
 
 
-<li>Publish official proof-of-concept code for BOLD written in the Isabelle programming language and Complete the academic paper;</li>
+<p>EraLend is a trailblazing lending and borrowing platform, setting itself apart by being the first to be built on the <a href="https://coincu.com/203089-zksync-launched-new-nft-project/" target="_blank" rel="noreferrer noopener">ZkSync</a> ecosystem. This innovative platform boasts lightning-fast transaction speeds and low costs, while also inheriting the robust security and decentralization features from <a href="https://coincu.com/207287-ethereum-ico-investor-emerges-after-8-year/" target="_blank" rel="noreferrer noopener">Ethereum</a>.</p>
 
 
 
-<li>A new test network environment will be made available to BOLD for community participation;</li>
+<p>Formerly known as Nexon Finance, the platform has quickly garnered attention as an active lending project operating on the zkSync platform. Its primary mission is to enhance the capital efficiency of crypto assets, revolutionizing the lending and borrowing services offered in the blockchain space. By doing so, EraLend aims to mitigate the risks associated with liquidity challenges and unreliable oracle data, presenting an attractive solution for users seeking to harness the financial potential of crypto assets without facing the usual hassles.</p>
 
 
 
-<li>If there is positive feedback from the community, plan to prepare the AIP so that the DAO can decide whether to adopt this new protocol in Arbitrum One and Nova.</li>
-</ol>
+<p>The core focus of EraLend remains centered on the zkSync ecosystem, wherein it concentrates on delivering exceptional borrowing and lending services. Capital efficiency in the crypto-asset sector is a primary objective, and the platform diligently works to minimize liquidity-related risks while ensuring that reliable oracle data supports its operations.</p>
 
 
 
-<p>As stated by Offchain Labs, Arbitrum Technology has always been built with security as a top concern. And that&#8217;s why they invest a lot of resources to build and improve the fraud proof system.</p>
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Highlights</h2>
 
 
 
-<p>The protocol can help securely validate the Arbitrum chain without permission, taking them up the ladder of decentralization. This approach allows a single, honest validator to win Ethereum disputes against any opponent.</p>
+<p>One of EraLend&#8217;s key strengths lies in its ability to improve capital efficiency through its P2P lending model. Unlike traditional lending protocols, the platform empowers parties to directly negotiate asset values and loan terms, eliminating the disadvantage of fluctuating APY rates based on pool liquidity. This ensures that lenders can enjoy higher interest rates, while borrowers bear lower interest rates compared to protocols relying solely on pool liquidity.</p>
 
 
 
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208340-offchain-labs-bold-validation-arbitrum-secure/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-18-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>Bankman-Fried Now Faces Jail With DOJ&#8217;s Allegations Over CEO&#8217;s Diary Leak</title>
-		<link>https://coincu.com/208336-bankman-fried-now-faces-jail/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 04:57:45 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Alameda Research]]></category>
-		<category><![CDATA[Bankman-Fried]]></category>
-		<category><![CDATA[Caroline Ellison]]></category>
-		<category><![CDATA[DOJ]]></category>
-		<category><![CDATA[FTX]]></category>
-		<category><![CDATA[FTX.US]]></category>
-		<category><![CDATA[New York Times]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208336</guid>
-
-					<description><![CDATA[Bankman-Fried faces detention request over CEO's diary leak.<p class="has-text-align-right"><a href="https://coincu.com/208336-bankman-fried-now-faces-jail/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
+<p>The working mechanism behind EraLend&#8217;s lending solutions involves lenders and borrowers jointly depositing assets into a pool. Lenders earn interest on their loans, while borrowers can withdraw borrowed funds at any time. Although APY can be influenced by pool liquidity, the P2P model ensures optimal liquidity for both parties.</p>
 
 
 
-<ul>
-<li><em>Bankman-Fried faces detention request over CEO&#8217;s diary leak.</em></li>
+<p>Moreover, EraLend significantly reduces its dependency on Oracle data for liquidation. By allowing users to consult various sources and make informed decisions about lending positions, the platform mitigates the risks associated with data errors. This approach enhances the platform&#8217;s security, as hackers cannot exploit misinformation from a centralized data source to manipulate transactions.</p>
 
 
 
-<li><em>DOJ alleges attempts to influence witnesses through media actions.</em></li>
+<p>The team behind EraLend places a strong emphasis on user experience. The platform&#8217;s user-friendly interface eliminates unnecessary complexities, making DeFi more accessible and popular. Users benefit from almost instant transaction speeds and minimal transaction costs, and they have the flexibility to pay fees using their preferred tokens. Additionally, the platform&#8217;s open-source nature ensures transparency, while zkSync&#8217;s zk-rollup technology enhances the protocol&#8217;s security, protecting users&#8217; personal information and preventing external attacks.</p>
 
 
 
-<li><em>New York Times objects to gag orders on FTX collapse reporting.</em></li>
-</ul>
+<p>To maintain the highest level of security, EraLend conducts monthly security audits to identify and address potential vulnerabilities. Although no platform is entirely risk-free, EraLend&#8217;s commitment to auditing ensures it adheres to the most robust security standards, safeguarding users from potential threats.</p>
 
 
 
-<h5 class="wp-block-heading"><strong>The U.S. Department of Justice (DOJ) continues to assert that FTX founder Sam Bankman-Fried should be &#8220;detained pending trial&#8221; due to his sharing of former Alameda Research CEO Caroline Ellison&#8217;s diary with the <em>New York Times</em>, <em>CoinDesk</em> <a href="https://www.coindesk.com/policy/2023/08/04/sam-bankman-fried-likely-faces-jail-as-doj-pushes-for-incarceration/" target="_blank" rel="noopener">reported</a>.</strong></h5>
+<p>However, recently EraLend was hacked to 3.4 million USDC. The attacker uses a method called a read-only re-entrancy attack, which is commonly used with projects with many smart contracts.</p>
+
+
+
+<p>In the case of EraLend, the vulnerability lies in the “token burn” and “mint” functions for lending.</p>
+
+
+
+<p>EraLend&#8217;s success stems from its innovative approach to P2P lending, offering users enhanced capital efficiency, security, and an enjoyable experience in the DeFi ecosystem. While users are encouraged to exercise caution when interacting with any new project, EraLend&#8217;s strides in security measures and transparency provide a promising outlook for the future of decentralized lending.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg"><img decoding="async" loading="lazy" width="1024" height="683" src="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg" alt="Bankman-Fried Now Faces Jail With DOJ&#039;s Allegations Over CEO&#039;s Diary Leak" class="wp-image-208339" srcset="https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1024x683.jpeg 1024w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-300x200.jpeg 300w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-768x512.jpeg 768w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1536x1024.jpeg 1536w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-2048x1366.jpeg 2048w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-750x500.jpeg 750w, https://coincu.com/wp-content/uploads/2023/08/107257682-16868493372023-06-15t165452z_1123335054_rc2sj1at5vyt_rtrmadp_0_usa-bankmanfried-1140x760.jpeg 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Bankman-Fried Now Faces Jail With DOJ&#039;s Allegations Over CEO&#039;s Diary Leak 5"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-1024x410.png"><img decoding="async" loading="lazy" width="1024" height="410" src="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-1024x410.png" alt="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits" class="wp-image-207702" srcset="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-1024x410.png 1024w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-300x120.png 300w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-768x307.png 768w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-1536x614.png 1536w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-2048x819.png 2048w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-750x300.png 750w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.09.00-1140x456.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits 8"></a></figure></div>
 
 
-<p>In their latest filing, the DOJ emphasizes that Bankman-Fried&#8217;s defense does not deny the act, and they view it as an attempt to &#8220;corruptly influence witnesses.&#8221;</p>
-
-
-
-<p>The ongoing legal battle between Bankman-Fried&#8217;s attorneys and the prosecutors centers around the extent of his actions and their implications.</p>
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Products</h2>
 
 
 
-<p>The DOJ <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.188.0.pdf" target="_blank" rel="noreferrer noopener">contends</a> that Bankman-Fried went beyond a mere &#8220;fair comment&#8221; when sharing the diary, and they cite his use of a VPN to watch the Super Bowl and reaching out to FTX.US General Counsel Ryne Miller as additional evidence of his misconduct.</p>
+<h3 class="wp-block-heading"><strong>Lending Pool: Boosting Capital Efficiency and APY</strong></h3>
 
 
 
-<p>Bankman-Fried&#8217;s defense has <a href="https://coincu.com/207851-bankman-fried-fights-against-jail-threat/" target="_blank" rel="noreferrer noopener">argued</a> that the government is mischaracterizing his actions, stating that he sought to defend his reputation in the press and did not initially contact Miller.</p>
+<p>EraLend&#8217;s Lending Pool emerges as a game-changer in the DeFi lending arena. Unlike traditional liquidity pools, the Lending Pool not only focuses on capital efficiency but also maximizes it for all participants involved. In the upcoming beta v2 release, the platform will adopt a peer-to-peer model, presenting an exciting paradigm shift for borrowers and lenders alike. With this innovative approach, borrowers can expect higher interest rates, translating to more substantial gains. Simultaneously, lenders will enjoy increased profits from their investments, making it a win-win situation for all stakeholders.</p>
 
 
 
-<p>However, the DOJ maintains its position, suggesting that <a href="https://coincu.com/206847-sam-bankman-fried-seeks-seal-caroline-ellisons/" target="_blank" rel="noreferrer noopener">Bankman-Fried</a> may have orchestrated media attention around <a href="https://coincu.com/204571-former-alameda-co-ceo-admits-fraud/" target="_blank" rel="noreferrer noopener">Ellison</a> ahead of her acting as a witness.</p>
+<p>One of the major advantages of this model is its independence from external data sources, such as Oracle. By reducing reliance on such data, EraLend ensures greater transparency and trust within the system.</p>
 
 
 
-<p>The filing also reveals that he had set up Signal groups to delete messages after a week, raising further concerns about potential evidence tampering.</p>
+<h3 class="wp-block-heading"><strong>Lending P2P: Empowering with Customizable Loan Parameters</strong></h3>
 
 
 
-<p>Meanwhile, the <em>New York Times</em> has <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.187.0.pdf" target="_blank" rel="noreferrer noopener">objected</a> to gag orders imposed on Bankman-Fried, arguing that such restrictions must adhere to legal standards and protect the public&#8217;s First Amendment right to be informed about FTX&#8217;s collapse and alleged mismanagement.</p>
+<p>EraLend&#8217;s Lending P2P introduces a groundbreaking form of loan, strategically tailored to address the limitations of the traditional Lending Pool model. This product allows users to customize essential parameters, including collateral requirements and interest rates. By providing borrowers with more flexibility, EraLend aims to create an ecosystem that better meets the diverse needs of its users.</p>
 
 
 
-<p>The case, overseen by Judge Lewis Kaplan in the Southern District of New York, remains a subject of ongoing discussion, with the possibility of further hearings to address the filings. </p>
+<p>In contrast to other lending models, Lending P2P facilitates higher returns for lenders and reduced fees for borrowers. As a result, participants can enjoy a more efficient and cost-effective borrowing and lending process. Additionally, this product further enhances EraLend&#8217;s autonomy by minimizing reliance on external data sources like Oracle.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30.png"><img decoding="async" loading="lazy" width="1024" height="417" src="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-1024x417.png" alt="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits" class="wp-image-207701" srcset="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-1024x417.png 1024w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-300x122.png 300w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-768x313.png 768w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-1536x625.png 1536w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-2048x834.png 2048w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-750x305.png 750w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.08.30-1140x464.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits 9"></a></figure></div>
+
+
+<h3 class="wp-block-heading"><strong>Institutional Secured: A Haven for Large Investors</strong></h3>
 
 
 
-<p>The legal battle highlights the complexities and potential consequences surrounding the sharing of sensitive information and its impact on the judicial process.</p>
+<p>Anticipated for launch in Q1 of 2024, EraLend&#8217;s Institutional Secured product is a highly anticipated offering aimed at safeguarding the interests of large investors. By providing an added layer of protection and tailored features, this product caters specifically to institutional players seeking a secure and reliable platform for their investments.</p>
+
+
+
+<p>In addition, Eralend has incorporated zkSync Bridge into its application interface to boost user flexibility and convenience. This enables users to easily move assets to the zkSync network using the Eraend platform&#8217;s built-in bridge.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Profit making method</h2>
+
+
+
+<p>At the core of Eralend&#8217;s revenue generation are two distinct types of liquidity pools: Pooled Markets and P2P Markets. In Pooled Markets, the platform collects fees for each lending and borrowing transaction executed within the liquidity pool. These fees contribute significantly to the project&#8217;s overall revenue, making it a crucial pillar of their business model.</p>
+
+
+
+<p>The P2P Markets, another key revenue source for Eralend, facilitate direct borrowing and lending transactions between parties. Here, the platform also collects fees for each transaction, adding to its profitability and bolstering its financial foundation.</p>
+
+
+
+<p>However, Eralend&#8217;s revenue-generating capabilities don&#8217;t stop there. The platform also earns from protocol fees, an essential component of its sustainable growth strategy. The protocol fee is determined as a percentage (x%) of the Annual Percentage Yield (APY) loan and is governed by the project&#8217;s board. This strategic approach allows Eralend to benefit from the borrowing and lending activities transpiring on its platform, ensuring a steady stream of income.</p>
+
+
+
+<p>Moreover, Eralend has tapped into the potential of liquidation fees to further bolster its financial health. A percentage (x%) of the total liquidation fee-collected collateral adds to the project&#8217;s revenue, creating an additional revenue stream.</p>
+
+
+
+<p>The combination of these diverse revenue streams has proven to be a winning formula for Eralend, enabling it to sustain its operations, expand its offerings, and continuously innovate in the DeFi landscape. The project&#8217;s commitment to transparency and governance has instilled confidence in its community, attracting both retail and institutional investors to participate actively in the Eralend ecosystem.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Roadmap</h2>
+
+
+
+<p>Eralend intended to launch a public test of Pooled v1 on the Testnet network in the first quarter of 2023, enabling consumers to participate and experience the product. Then there&#8217;s the implementation of Pooled v1 on the Mainnet, which will bring it to perfection and make it suitable for real-world usage. In the foreseeable future, the project has not revealed comprehensive details regarding the development strategy.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03.png"><img decoding="async" loading="lazy" width="1024" height="425" src="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-1024x425.png" alt="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits" class="wp-image-207700" srcset="https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-1024x425.png 1024w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-300x125.png 300w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-768x319.png 768w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-1536x638.png 1536w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-2048x850.png 2048w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-750x311.png 750w, https://coincu.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-17.07.03-1140x473.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits 10"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Core Team</h2>
+
+
+
+<p>The EraLend development team, which includes Rohit, Amit, and Samarth, are all pretty well-known professionals in the area of TradFi and have just lately begun to join the crypto market.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-67.png"><img decoding="async" loading="lazy" width="1024" height="458" src="https://coincu.com/wp-content/uploads/2023/08/image-67-1024x458.png" alt="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits" class="wp-image-207703" srcset="https://coincu.com/wp-content/uploads/2023/08/image-67-1024x458.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-67-300x134.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-67-768x344.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-67-750x335.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-67-1140x510.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-67.png 1480w" sizes="(max-width: 1024px) 100vw, 1024px" title="EraLend Review: The Largest Lending Protocol On zkSync Maximizing Profits 11"></a></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Development potential</h2>
+
+
+
+<p>One of Eralend&#8217;s key strengths lies in its commitment to enhancing capital efficiency within the crypto asset sector. The platform&#8217;s intelligent approach to optimizing borrowing and lending solutions allows users to harness the full financial potential of their crypto assets in a smart and efficient manner. This emphasis on capital efficiency has the potential to attract a wide range of users seeking to maximize their returns while minimizing risks.</p>
+
+
+
+<p>Notably, Eralend is taking proactive measures to mitigate liquidity-related risks prevalent in the DeFi environment. Through the establishment of a <a href="https://coincu.com/98546-what-is-p2p-trading/" target="_blank" rel="noreferrer noopener">P2P system</a> and a well-thought-out Pooled model, the platform fosters flexibility and optimizes liquidity, granting users easy and rapid access to capital when needed. This unique approach sets Eralend apart from conventional crypto lending platforms and has garnered significant interest from the community.</p>
+
+
+
+<p>While Eralend demonstrates significant growth potential, it is not without challenges. Security remains a paramount concern for the platform, given the ever-evolving nature of cyber threats and attacks in the DeFi landscape. Eralend recognizes this issue and is committed to reinforcing its security infrastructure to safeguard its users and their valuable assets effectively.</p>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
+
+
+
+<p>Eralend&#8217;s remarkable journey in the crypto lending realm is marked by its drive to enhance capital efficiency, reduce liquidity risk, and expand its ecosystem. While security remains a challenge, the project&#8217;s dedication to growth and innovation instills confidence in its potential as a leading platform in the world of decentralized finance. As Eralend continues to carve its path in the industry, all eyes are on this trailblazing platform to see how it reshapes the landscape of crypto lending for the better.</p>
 
 
 
 <p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208336-bankman-fried-now-faces-jail/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p class="has-text-align-right"><a href="https://coincu.com/207398-eralend-review/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-265-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+			</item>
 		<item>
-		<title>Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty</title>
-		<link>https://coincu.com/208315-curve-issue-ultimatum-to-hacker/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 04:26:23 +0000</pubDate>
-				<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[Alchemix]]></category>
-		<category><![CDATA[Curve]]></category>
-		<category><![CDATA[Hacker]]></category>
-		<category><![CDATA[Metronome]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208315</guid>
-
-					<description><![CDATA[Curve Finance has taken an unconventional approach to dealing with the recent attack on their platform that sent shockwaves through the DeFi community.<p class="has-text-align-right"><a href="https://coincu.com/208315-curve-issue-ultimatum-to-hacker/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Curve Finance, Metronome, and Alchemix give hacker ultimatum after DeFi platform attack.</em></li>
-
-
-
-<li><em>The hacker offered a 10% reward for returning stolen funds before the August 6 deadline.</em></li>
-
-
-
-<li><em>Legal action and public reward are promised if the hacker does not comply.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Curve Finance, together with Metronome and Alchemix, has taken an unconventional approach to dealing with the recent attack on their platform that sent shockwaves through the DeFi community.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-263.png"><img decoding="async" loading="lazy" width="1024" height="676" src="https://coincu.com/wp-content/uploads/2023/08/image-263.png" alt="Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty" class="wp-image-208328" srcset="https://coincu.com/wp-content/uploads/2023/08/image-263.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-263-300x198.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-263-768x507.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-263-750x495.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Curve, Metronome, And Alchemix Issue Ultimatum To Hacker With 10% Bounty 6"></a></figure></div>
-
-
-<p>In an unprecedented move, they sent an on-chain ultimatum to the attacker responsible for the breach.</p>
-
-
-
-<p>Through a <a href="https://twitter.com/CurveFinance/status/1687180381714358272" target="_blank" rel="noreferrer noopener">Twitter announcement</a>, <a href="https://coincu.com/208104-curve-finance-stops-crv-rewards-pools-attacks/" target="_blank" rel="noreferrer noopener">Curve</a> offered the attacker a <a href="https://etherscan.io/tx/0xc45e47f6e7d3e74763032e2fb991fa9a003d8ed55c13c93c6a5368ff322d7742" target="_blank" rel="noreferrer noopener">deal</a> &#8211; they would reward the hacker with 10% of the lost assets if they agreed to return the remaining 90% of the hacked funds to the project. </p>
-
-
-
-<p>The proposal came with a deadline, set for August 6 at 08:00 UTC, giving the hacker a limited window to respond and return the funds.</p>
-
-
-
-<p>In the event that the hacker fails to comply with the ultimatum, Curve, Metronome, and Alchemix <a href="https://etherscan.io/tx/0x6264cc2827b0598ec7d8c0f549238c2a96a795cfde8c5ac4dcf77021c75adf0c" target="_blank" rel="noreferrer noopener">made</a> it clear that they would take legal action to pursue the culprit and retrieve the stolen money. </p>
-
-
-
-<p>Additionally, they pledged to publicly offer a reward to anyone who can provide information leading to the hacker&#8217;s arrest and conviction.</p>
-
-
-
-<p>To assure the attacker, the trio promised no further legal actions or involvement of law enforcement if the funds were returned as per their offer. The goal is to recover the majority of the funds and hold the hacker accountable without resorting to traditional legal channels.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p class="has-small-font-size">“You will have no risk of us pursuing this further, no risk of law enforcement issues, etc.,&#8221; says the message.</p>
-</blockquote>
-
-
-
-<p>The attack on Curve Finance, which occurred within the past 24 hours, <a href="https://coincu.com/207193-curve-finances-liquidity-pools/" target="_blank" rel="noreferrer noopener">targeted</a> a series of stablepool pools using the Vyper 0.2.15 programming language. The seriousness of the attack prompted this unconventional response from the affected projects.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208315-curve-issue-ultimatum-to-hacker/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-264-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>OpenSea Now Supports Base Network</title>
-		<link>https://coincu.com/208317-opensea-now-supports-base-network/</link>
+		<title>Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience</title>
+		<link>https://coincu.com/208363-ambient-emerging-dex-on-ethereum-exciting/</link>
 		
 		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 04:18:58 +0000</pubDate>
-				<category><![CDATA[NFTs News]]></category>
+		<pubDate>Sat, 05 Aug 2023 06:14:04 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
 		<category><![CDATA[# Cryptocurrencies]]></category>
 		<category><![CDATA[#Markets]]></category>
-		<category><![CDATA[base]]></category>
+		<category><![CDATA[Ambient Finance]]></category>
 		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[CEX]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Layer 2]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[OpenSea]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208317</guid>
+		<category><![CDATA[Dex]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208363</guid>
 
-					<description><![CDATA[Key Points: According to official sources, OpenSea currently supports Coinbase&#8217;s Base, layer 2 network. This means that artwork minted on Base&#8217;s network can now be bought and sold on OpenSea, and the market leading NFT platform&#8217;s NFT-related toolkit will now be able to mint assets on Base&#8217;s extended network. OpenSea has been a mainstay of [&#8230;]<p class="has-text-align-right"><a href="https://coincu.com/208317-opensea-now-supports-base-network/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Ambient can run the entire DEX system in a single smart contract, thus achieving lower transaction fees, greater liquidity rewards, and a fairer trading experience.<p class="has-text-align-right"><a href="https://coincu.com/208363-ambient-emerging-dex-on-ethereum-exciting/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<h5 class="wp-block-heading"><strong>Recently, an AMM/DEX project on Ethereum called Ambient Finance has received an investment of $6.5 million in the seed round from funds such as Blocktower Capital, Jane Street, Circle,… The project attracts the community swimming it promises to allow users to experience optimal trading with low costs and high liquidity. So what is Ambient? What are the features that make it so attractive?</strong></h5>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">What is Ambient?</h2>
+
+
+
+<p>Ambient (formerly CrocSwap) is a decentralized exchange (DEX) protocol that allows for two-sided AMMs combining concentrated and ambient constant-product liquidity on any arbitrary pair of blockchain assets.</p>
+
+
+
+<p>Ambient runs the entire DEX inside a single, smart contract, where individual AMM pools are lightweight data structures instead of separate smart contracts. This and other design decisions make Ambient the most efficient Ethereum-based DEX in existence.</p>
+
+
+
+<p>Besides the usual token swap, Ambient also provides a feature that allows placing limit orders, providing liquidity to bring profits to users.</p>
+
+
+
+<p>On July 12, the trading platform completed a $6.5 million seed funding round led by BlockTower Capital, with participation from Jane Street, Circle, Tensai Capital, Naval, Yunt Capital, Susa Ventures, Quantstamp and Hypotenuse Labs, as well as Ribbon Finance co-founder angel investor Julian, The Block researcher Steven, and more. The money raised will support the development of the team and R&amp;D to create a sustainable decentralized market.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-272.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-272-1024x576.png" alt="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience" class="wp-image-208377" srcset="https://coincu.com/wp-content/uploads/2023/08/image-272-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-272-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-272-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-272-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-272.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience 12"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Highlights</h2>
+
+
+
+<p>Ambient is developed as an entirely new codebase with best engineering practices and innovative smart contract architecture choices in mind. This gives it a number of core advantages over competing DEXs:</p>
+
+
+
+<ul>
+<li>Substantial gas savings compared to other leading DEXs</li>
+
+
+
+<li>Combines concentrated (i.e. &#8220;UniV3 style&#8221;), ambient (i.e. &#8220;UniV2 style&#8221;), and knockout liquidity (behaves like limit orders which atomically fill and lock in a position in a single direction) within the same pool all on a single liquidity curve.</li>
+
+
+
+<li>Dynamically adjusted pool fees, maximizing LP returns relative to market conditions and demand for liquidity.</li>
+
+
+
+<li>Fees accumulated by concentrated LP positions auto re-invest back into the pool as ambient liquidity. Users earn compounded even without manually harvesting positions.</li>
+
+
+
+<li>JIT (just-in-time) liquidity attacks are prevented through the use of minimum TTL parameters on concentrated liquidity positions. Ordinary LP positions therefore earn higher fees.</li>
+
+
+
+<li>Ability for users to pre-fund tokens at the DEX in the form of &#8220;surplus collateral&#8221;. Much higher efficiency for active traders by deferring token transfers to net settlement.</li>
+
+
+
+<li>&#8220;Gasless&#8221; transactions, where the user pays in the swapped token instead gas, through EIP-712 off-chain standard.</li>
+
+
+
+<li>Unique support for &#8220;permissioned pool&#8221; primitive where the ability to govern and restrict a pool can be offloaded to general purpose smart contract oracles running inside or outside the protocol.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Mechanism of action</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Automated Market Maker (AMM)</strong></h3>
+
+
+
+<p>In Ambient, liquidity is provided by a liquidity pool instead of individual orders. This means that there is a market between two tokens represented by each pool, and a single exchange rate is determined by a virtual reserve ratio. This allows for a stable and consistent exchange rate. The Constant Product Market Maker (CPMM) algorithm ensures that the product of the virtual reserves remains constant. This algorithm is used to adjust prices based on the size and direction of trades, thus balancing supply and demand and resulting in a price impact.</p>
+
+
+
+<p>Accordingly, CPMM ensures that the value of assets in the pool will not change regardless of their quantity by adjusting the price of tokens based on token supply and demand, and liquidity in the pool:</p>
+
+
+
+<ul>
+<li>When a user buys more tokens, the price of that token will increase as the number of tokens remaining in the pool decreases.</li>
+
+
+
+<li>Conversely, when users sell a lot, the price of that token will decrease.</li>
+</ul>
+
+
+
+<p>The CPMM model allows users to swap tokens anytime, as long as there is enough liquidity.</p>
+
+
+
+<p>In addition, exchangers are required to pay a fee for liquidity based on the amount they trade. This fee is then redistributed among Liquidity Providers (LPs) based on their contribution to the pool. The fee rates may vary, but usually fall within the range of 0-1%.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Concentrated Liquidity</strong></h3>
+
+
+
+<p>Concentrated liquidity helps users provide liquidity within a predefined price range on an individual AMM curve, with the advantage of capital efficiency. The liquidity provider only needs to commit the necessary collateral to support liquidity to a limited extent.</p>
+
+
+
+<p>However, if the price curve goes beyond the order range, the LP will no longer accumulate charges. To get around this, Centralized Liquidity Providers can wisely define their price ranges or periodically &#8220;rebalance&#8221; orders by moving them back into the range.</p>
+
+
+
+<p>Ambient also supports native liquidity with the advantage that the fees earned by Ambient Liquidity Providers will automatically pool back to their original positions without any manual management, costing The significantly lower gas fees required for the surrounding Liquidity Provider minting and burning positions, and the placement of all the surrounding Liquidity Providers on a given curve are interchangeable natively and can easily be bundled as &#8220;LP tokens&#8221;.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Knockout Liquidity</strong></h3>
+
+
+
+<p>Knockout liquidity behaves identical to range-based concentrated liquidity, except the liquidity is atomically and permanently removed from the AMM curve at any point the curve price moves past the edge of the range. Knockout liquidity can either be set to remove when curve price falls below the bottom of the range (bids) or when curve price rises above the top of the range (asks).</p>
+
+
+
+<p>Eliminate liquid orders that offer better prices:</p>
+
+
+
+<ul>
+<li>Waiting for cheaper price</li>
+
+
+
+<li>Receive instead of swap payment</li>
+
+
+
+<li>Avoid slippage on the AMM line</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Ambient&#8217;s main services</h2>
+
+
+
+<h3 class="wp-block-heading"><strong>Swap</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-269.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-269-1024x576.png" alt="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience" class="wp-image-208374" srcset="https://coincu.com/wp-content/uploads/2023/08/image-269-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-269-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-269-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-269-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-269-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-269-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-269.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience 13"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The core functionality of Ambient is to allow users to exchange one type of token for another at fair market prices. If liquidity exists for a given pair in the DEX contract, then users will be able to swap between tokens. The frontend web app provides an interface for general-purpose swaps.</p>
+
+
+
+<p>If adequate liquidity exists in a given for the pair, a swap will most likely be executed as a single hop. Single hops incur lower liquidity and gas fees, so they are preferred. A multihop swap is when swaps across multiple pools are chained, usually in the case when there&#8217;s little to no liquidity in any pair between the input and output token. The on-chain contracts take a pre-determined path. They were finding a cost efficient price multihop path, or routing.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Trade</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-270.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/image-270-1024x576.png" alt="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience" class="wp-image-208375" srcset="https://coincu.com/wp-content/uploads/2023/08/image-270-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-270-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-270-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-270-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-270-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-270-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-270.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience 14"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The Trade feature in Ambient allows users to make trades by placing limit orders. Unlike other DEXs that support limit orders, Ambient Finance will execute users&#8217; orders gradually when the price is within a certain price range. This price range is typically 0.64% for highly volatile token pairs and 0.01% for stable token pairs. Ambient will also display information about the starting and ending price of order execution on the platform&#8217;s interface.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Pool</strong></h3>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-271.png"><img decoding="async" loading="lazy" width="1024" height="466" src="https://coincu.com/wp-content/uploads/2023/08/image-271-1024x466.png" alt="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience" class="wp-image-208376" srcset="https://coincu.com/wp-content/uploads/2023/08/image-271-1024x466.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-271-300x136.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-271-768x349.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-271-1536x699.png 1536w, https://coincu.com/wp-content/uploads/2023/08/image-271-2048x931.png 2048w, https://coincu.com/wp-content/uploads/2023/08/image-271-750x341.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-271-1140x518.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience 15"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Ambient Finance&#8217;s Pool feature allows users to participate in the liquidity provision and receive a transaction fee reward from the protocol. There are two modes of liquidity provision including centralized liquidity provision and direct liquidity provision.</p>
+
+
+
+<p>In centralized liquidity provisioning mode, users can provide liquidity within a predefined price range. This increases the efficiency of the liquidity provider&#8217;s investment and creates a deeper order gap in the token&#8217;s price range.</p>
+
+
+
+<p>Meanwhile, in direct liquidity mode, users provide liquidity across the entire price range of the token, creating liquidity across the entire price range. However, the reward received will be lower than the centralized liquidity mode.</p>
+
+
+
+<h2 class="wp-block-heading">Governance &amp; Policy</h2>
+
+
+
+<p>Ambient protocol uses a three-layer division of responsibility:</p>
+
+
+
+<p>​</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://2276651761-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgoE7yYSVNNTbvsL9nuX9%2Fuploads%2FnbduxsIRnbdUJN2vd0vh%2Fimage.png?alt=media&amp;token=305ad866-d5ca-4aff-b9cf-4142671557e7" target="_blank" rel="noopener"><img decoding="async" src="https://2276651761-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgoE7yYSVNNTbvsL9nuX9%2Fuploads%2FnbduxsIRnbdUJN2vd0vh%2Fimage.png?alt=media&amp;token=305ad866-d5ca-4aff-b9cf-4142671557e7" alt="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience" title="Ambient Review: Emerging DEX On Ethereum Brings Exciting User Experience 16"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>​</p>
+
+
+
+<ul>
+<li>Governance fills the traditional role of a DAO. It includes full power over the protocol, and is controlled by M-of-N multisigs and timelock resolutions.</li>
+
+
+
+<li>Policy is an intermediate layer that sits between the DAO governance and the DEX contract itself. It can ether directly relay resolutions from the governance layer, or delegate limited administrative control of the DEX to external smart contract policy oracles explicitly installed by DAO governance.</li>
+
+
+
+<li>Mechanism is the underlying DEX contract itself. CrocSwapDex (the core smart contract holding dex liquidity and positions) is built with tunable parameters that can be dynamically adjusted by external policy oracles. That allows the protocol to improve and experiment with new functionality in a way that&#8217;s safer and more contained than directly upgrading the underlying DEX smart contract. </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-luminous-vivid-orange-color has-text-color">Conclusion</h2>
+
+
+
+<p>The liquidity provision model in Ambient combines the characteristics of a decentralized exchange and a centralized exchange. And unlike other AMMs, liquidity is not fragmented for trading pairs. Ambient can also run the entire DEX system in a single smart contract, thus achieving lower transaction fees, greater liquidity rewards, and a fairer trading experience. As a trading protocol that combines the features of CEX and DEX, Ambient introduces new DeFi native functions to give users a first-class experience.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208363-ambient-emerging-dex-on-ethereum-exciting/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-19-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>What XRP Holders Should Keep in Mind &#8211; Here’s Why Investors Also Consider VC Spectra (SPCT) and FileCoin (FIL)</title>
+		<link>https://coincu.com/208452-xrp-holders-consider-vc-spectra-and-filecoin/</link>
+		
+		<dc:creator><![CDATA[Tommy]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 05:17:19 +0000</pubDate>
+				<category><![CDATA[Sponsored Articles]]></category>
+		<category><![CDATA[PR]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[FIL]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[SPCT]]></category>
+		<category><![CDATA[XRP]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208452</guid>
+
+					<description><![CDATA[With uncertainty looming due to the SEC's appeal of the court ruling on Ripple's XRP token, investors should carefully analyze the market. VC Spectra (SPCT) offers massive profit potential in its public presale, while FileCoin (FIL) has seen steady growth. This article explores the opportunities and considerations for XRP holders.<p class="has-text-align-right"><a href="https://coincu.com/208452-xrp-holders-consider-vc-spectra-and-filecoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-290.png"><img decoding="async" loading="lazy" width="602" height="355" data-id="208453" src="https://coincu.com/wp-content/uploads/2023/08/image-290.png" alt="What XRP Holders Should Keep in Mind - Here’s Why Investors Also Consider VC Spectra (SPCT) and FileCoin (FIL)" class="wp-image-208453" srcset="https://coincu.com/wp-content/uploads/2023/08/image-290.png 602w, https://coincu.com/wp-content/uploads/2023/08/image-290-300x177.png 300w" sizes="(max-width: 602px) 100vw, 602px" title="What XRP Holders Should Keep in Mind - Here’s Why Investors Also Consider VC Spectra (SPCT) and FileCoin (FIL) 17"></a><figcaption class="wp-element-caption"> </figcaption></figure>
+</figure>
+
+
+
+<h5 class="wp-block-heading"><strong>The recent court ruling that Ripple’s XRP token is not a security has resulted in a massive wave of positive sentiment across the crypto industry. But, the U.S. Securities and Exchange Commission (SEC) has vowed to appeal the ruling. As uncertainty looms, investors are turning to Filecoin (FIL) and <a href="https://vcspectra.io" target="_blank" rel="noreferrer noopener">VC Spectra (SPCT)</a>. VC Spectra (SPCT) is in Stage 2 of its public presale, and it guarantees massive returns for its investors. Which of the three coins should investors go for?</strong></h5>
+
+
+
+<p><a href="https://vcspectra.io" target="_blank" rel="noopener"><strong>>>BUY SPCT TOKENS NOW&lt;&lt;</strong></a></p>
+
+
+
+<h2 class="wp-block-heading">XRP Holders Need To Analyze the Market Carefully</h2>
+
+
+
+<p>The legal validation that Ripple’s <strong>XRP is not a security</strong> when trading on exchanges triggered a ripple effect in the entire crypto market. In that context, both conventional investors and normal crypto enthusiasts are currently showing unwavering confidence in Ripple’s XRP. As expected, a <strong>massive influx of investments</strong> into XRP and XRP-focused products was recorded, reaching <strong>record-breaking figures</strong>.</p>
+
+
+
+<p>Furthermore, the growing presence of <strong>crypto whales</strong> who own balances surpassing 100 million XRP each stands as convincing evidence of this increasing optimism surrounding XRP. But, XRP holders need to keep in mind that the U.S. SEC has said it might <strong>appeal the court’s ruling</strong>. An appeal might have an impact on the price of XRP, but analysts say that the crypto will maintain its bullish trend.</p>
+
+
+
+<p>After the court ruling on July 13, XRP exploded from <strong>$0.473</strong> to highs of <strong>$0.821</strong> within 24 hours. Since then, XRP has managed to maintain a bullish trend and has formed a strong support zone around $0.701. Currently, XRP is trading at <strong>$0.703, up 44%</strong> in the past month. Analysts project XRP will maintain a bullish trend to close 2023 above <strong>$0.865</strong>.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>Filecoin (FIL) Has Enjoyed Steady Growth Recently</h2>
+
+
+
+<p>Over the past few weeks, Filecoin (FIL) has experienced <strong>consistent growth</strong>. Based on Messari&#8217;s latest report, Filecoin&#8217;s (FIL) <strong>active deals have increased</strong> by 64% quarter-on-quarter. Analysts interpret this notable surge in active deals as a clear sign of the increasing adoption and use of Filecoin (FIL) within the market. The data suggest that <strong>Filecoin (FIL) is gaining traction</strong> and attracting many active participants.</p>
+
+
+
+<p>Furthermore, Filecoin’s (FIL) network has recorded a remarkable <strong>60% growth</strong> in the number of large dataset clients within the same period. Notably, these bullish developments have had a strong positive impact on the price movement of Filecoin (FIL), causing it to trend upward.</p>
+
+
+
+<p>The price of Filecoin (FIL) has surged by <strong>4.86%</strong> in the past seven days. At the time of publication, the trading price of Filecoin (FIL) is <strong>$4.526</strong>. Analysts expect the active deals will increase adoption of Filecoin (FIL), pushing its price higher to <strong>$4.725</strong> by the end of 2023.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a>VC Spectra (SPCT) Offers Opportunities for Investors to Make Huge Profits</h2>
+
+
+
+<p><a href="https://vcspectra.io" target="_blank" rel="noreferrer noopener">VC Spectra (SPCT)</a> is a decentralized hedge fund renowned for its smart selection of highly lucrative investment opportunities, with a focus on blockchain projects and technology startups.</p>
+
+
+
+<p>Remarkably, <a href="https://vcspectra.io" target="_blank" rel="noreferrer noopener">VC Spectra (SPCT)</a> is making <strong>massive strides</strong> as Stage 2 of the public presale continues, showing unwavering determination in its investment operations. Being <strong>a decentralized hedge fund</strong>, VC Spectra (SPCT) has set ambitious goals to change the entire blockchain and fintech space via strategic investments in <strong>pre-ICOs and promising technology startups</strong>. By harnessing advanced technology, VC Spectra (SPCT) ensures a path of financial growth and is expected to lead innovation within the industry.</p>
+
+
+
+<p>During its private presale, <a href="https://vcspectra.io" target="_blank" rel="noreferrer noopener">VC Spectra</a> (SPCT) achieved massive success, securing <strong>$2.4 million</strong> in funding. Additionally, during Stage 1 of the presale, the project rapidly sold out all 125 million VC Spectra (SPCT) tokens available. Currently, VC Spectra’s (SPCT) Stage 2 public presale is underway for <strong>$0.011</strong>, a 37.5% rise from its Stage 1 price of $0.008.</p>
+
+
+
+<p>Investors who buy<a href="https://vcspectra.io" target="_blank" rel="noopener"> </a><a href="https://vcspectra.io" target="_blank" rel="noreferrer noopener">VC Spectra (SPCT)</a> tokens in Stage 2 will enjoy a <strong>627%</strong> profit when SPCT reaches <strong>$0.08</strong> by the end of the presale.</p>
+
+
+
+<p><strong>Learn more about VC Spectra (SPCT) and its presale:</strong></p>
+
+
+
+<ul>
+<li>Buy Presale:<a href="https://invest.vcspectra.io/login" target="_blank" rel="noopener"> </a><a href="https://invest.vcspectra.io/login" target="_blank" rel="noreferrer noopener">https://invest.vcspectra.io/login</a></li>
+</ul>
+
+
+
+<ul>
+<li>Website:<a href="https://vcspectra.io/" target="_blank" rel="noopener"> </a><a href="https://vcspectra.io/" target="_blank" rel="noreferrer noopener">https://vcspectra.io</a></li>
+</ul>
+
+
+
+<ul>
+<li>Telegram:<a href="https://t.me/VCSpectra" target="_blank" rel="noreferrer noopener"> https://t.me/VCSpectra</a> </li>
+</ul>
+
+
+
+<ul>
+<li>Twitter:<a href="https://twitter.com/spectravcfund" target="_blank" rel="noopener"> https://twit</a><a href="https://twitter.com/spectravcfund" target="_blank" rel="noreferrer noopener">t</a><a href="https://twitter.com/spectravcfund" target="_blank" rel="noopener">er.com/spectravcfund</a></li>
+</ul>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208452-xrp-holders-consider-vc-spectra-and-filecoin/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/Ban-sao-cua-Noi-dung-doan-van-ban-cua-ban-1-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Elon Musk Clarifies That X Will Never Launch A Crypto Token</title>
+		<link>https://coincu.com/208463-elon-musk-clarifies-x-will-never-launch-token/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 05:15:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[crypto token]]></category>
+		<category><![CDATA[Dogecoin]]></category>
+		<category><![CDATA[elon musk]]></category>
+		<category><![CDATA[eToro]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208463</guid>
+
+					<description><![CDATA[In a recent statement on his social media platform, entrepreneur Elon Musk dismissed speculations about X (formerly Twitter) introducing its own cryptocurrency.<p class="has-text-align-right"><a href="https://coincu.com/208463-elon-musk-clarifies-x-will-never-launch-token/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -571,79 +1016,180 @@
 
 
 <ul>
-<li><em>OpenSea officially announced that the platform now supports the Base network.</em></li>
+<li><em>Elon Musk denies X crypto token plans.</em></li>
 
 
 
-<li><em>Previously, Coinbase announced that Base would open to the public on August 9.</em></li>
+<li><em>X explores an in-app trading hub with financial partners.</em></li>
 
 
 
-<li><em>Currently, 6 Base cross-chain bridges have been opened, and users can connect their Ethereum (ETH) to the Base network.</em></li>
+<li><em>Musk&#8217;s clarity amidst X&#8217;s financial integration buzz.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>According to official sources, <a href="https://coincu.com/204559-opensea-enables-peer-to-peer-nft-trading-deals/" target="_blank" rel="noreferrer noopener">OpenSea</a> currently supports Coinbase&#8217;s Base, layer 2 network.</strong></h5>
+<h5 class="wp-block-heading"><strong>In a recent statement on his social media platform, entrepreneur Elon Musk dismissed speculations about X (formerly Twitter) introducing its own cryptocurrency.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-262.png"><img decoding="async" loading="lazy" width="900" height="536" src="https://coincu.com/wp-content/uploads/2023/08/image-262.png" alt="OpenSea Now Supports Base Network" class="wp-image-208323" srcset="https://coincu.com/wp-content/uploads/2023/08/image-262.png 900w, https://coincu.com/wp-content/uploads/2023/08/image-262-300x179.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-262-768x457.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-262-750x447.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="OpenSea Now Supports Base Network 7"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-294.png"><img decoding="async" loading="lazy" width="1000" height="563" src="https://coincu.com/wp-content/uploads/2023/08/image-294.png" alt="Elon Musk Clarifies That X Will Never Launch A Crypto Token" class="wp-image-208469" srcset="https://coincu.com/wp-content/uploads/2023/08/image-294.png 1000w, https://coincu.com/wp-content/uploads/2023/08/image-294-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-294-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-294-750x422.png 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Elon Musk Clarifies That X Will Never Launch A Crypto Token 18"></a></figure></div>
 
 
-<p>This means that artwork minted on Base&#8217;s network can now be bought and sold on OpenSea, and the market leading NFT platform&#8217;s NFT-related toolkit will now be able to mint assets on Base&#8217;s extended network.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">OpenSea now supports the <a href="https://twitter.com/BuildOnBase?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@BuildOnBase</a> network! <a href="https://t.co/iptsyajmV1" target="_blank">pic.twitter.com/iptsyajmV1</a></p>&mdash; OpenSea (@opensea) <a href="https://twitter.com/opensea/status/1687203377552453632?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 3, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
+<p>Responding to a cautionary message from user @cb_doge, who urged vigilance against fake tokens and misleading articles, Musk firmly <a href="https://twitter.com/elonmusk/status/1687662311010631680" target="_blank" rel="noreferrer noopener">asserted</a>, &#8220;Elon Musk and X never launched a crypto token. And we never will.&#8221;</p>
 
 
 
-<p>OpenSea has been a mainstay of the NFT industry, historically accounting for the majority of organic NFT transaction volume. Although it was overtaken by rival Blur earlier this year and its encrypted trading offers, with its reputation, Opensea remains the top NFT platform of choice for traders.</p>
+<p><a href="https://coincu.com/204161-tesla-doesnt-buy-any-bitcoin-4-quarters/" target="_blank" rel="noreferrer noopener">Musk</a>, a prominent figure in the cryptocurrency world, particularly <a href="https://coincu.com/204138-dogecoin-pops-up-over-4/" target="_blank" rel="noreferrer noopener">associated</a> with Dogecoin, has a history of influencing market trends. He once playfully transformed then-Twitter&#8217;s logo into the <a href="https://coincu.com/205415-elon-musk-profile-appears-dogecoin-symbol/" target="_blank" rel="noreferrer noopener">Dogecoin</a> emblem, triggering a surge in the meme coin&#8217;s value.</p>
 
 
 
-<p>The Layer 2 Network from Coinbase has announced that the launch of the common access mainnet will take place on August 9.</p>
+<p>However, Musk&#8217;s forthcoming venture, X, is reportedly seeking collaboration with a major financial data provider to establish a trading hub within the platform, according to <em><a href="https://www.semafor.com/article/08/03/2023/elon-musks-plan-to-own-the-meme-stocks" target="_blank" rel="noreferrer noopener">Semafor</a></em>. </p>
 
 
 
-<p>Base says its network will host more than 50 &#8220;top brands, platforms, markets, artists and creators&#8221; at launch, including Coca-Cola, Atari and OpenSea. The team will also celebrate the launch with the &#8220;Onchain Summer&#8221; campaign, which includes daily NFT rewards for users.</p>
+<p>Documents and insider sources revealed that X approached financial-data companies to solicit proposals involving real-time stock data and financial content integration. </p>
 
 
 
-<p>The memecoin transaction boom <a href="https://l2beat.com/scaling/summary" target="_blank" rel="noreferrer noopener">propelled</a> Base to 3rd place in the most active Layer 2, processing almost 7.6 transactions per second (TPS). However, a series of drag disasters &#8211; including from the network&#8217;s top memecoin, BALD &#8211; have since caused activity to drop, with Base now ranked eighth with an average TPS of 2.2 over the past day.</p>
+<p>Although potential partners are offered access to millions of highly qualified users, no financial compensation is promised. Interested firms were requested to specify their investment commitment to the project.</p>
 
 
 
-<p>LeetSwap, the network&#8217;s most popular DEX, also briefly halted trading after losing $625,000 in a single mine on Tuesday, causing volumes on the network to continue to decline.</p>
+<p>Musk tempered these reports on X, <a href="https://twitter.com/elonmusk/status/1687146854172303360" target="_blank" rel="noreferrer noopener">asserting</a> that &#8220;no work is being done on this to the best of my knowledge.&#8221; While not a definitive denial, this statement suggests that such a service might be in the pipeline, albeit not immediately.</p>
 
 
 
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208317-opensea-now-supports-base-network/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p>This isn&#8217;t the first time the idea of an X-based trading hub has surfaced. Earlier this year, social investing platform eToro announced plans to offer trading services for cryptocurrencies and other assets directly through X, an arrangement aimed at users of the then-named Twitter platform. </p>
+
+
+
+<p>As X continues to evolve, the integration of financial services could mark another significant step in its transformation.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208463-elon-musk-clarifies-x-will-never-launch-token/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-17-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-293-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 		<item>
-		<title>Surge Of Ether Futures ETF Floods US SEC With 3 New Applications</title>
-		<link>https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/</link>
+		<title>Tether And Bitfinex Triumph As Judge Dismisses Class Action Lawsuit</title>
+		<link>https://coincu.com/208426-tether-and-bitfinex-triumph/</link>
 		
 		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 04:09:47 +0000</pubDate>
+		<pubDate>Sat, 05 Aug 2023 04:50:01 +0000</pubDate>
 				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitfinex]]></category>
+		<category><![CDATA[Laura Taylor Swain]]></category>
+		<category><![CDATA[Matthew Anderson]]></category>
+		<category><![CDATA[Paolo Ardoino]]></category>
+		<category><![CDATA[Shawn Dolifka]]></category>
+		<category><![CDATA[Tether]]></category>
+		<category><![CDATA[USDT]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208426</guid>
+
+					<description><![CDATA[Judge dismisses class action lawsuit against Tether and Bitfinex, finding lack of credible injury claims.<p class="has-text-align-right"><a href="https://coincu.com/208426-tether-and-bitfinex-triumph/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Judge dismisses class action lawsuit against Tether and Bitfinex, finding lack of credible injury claims.</em></li>
+
+
+
+<li><em>The lawsuit questioned USDT&#8217;s value claims but lacked evidence of diminished actual value.</em></li>
+
+
+
+<li><em>Tether sees the dismissal as an affirmation of their transparency and vows to uphold promises.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Chief Judge Laura Taylor Swain of the U.S. District Court for the Southern District Of New York has delivered a significant legal victory for Tether and its sister company <a href="https://coincu.com/208248-new-york-man-reveals-hack-bitfinex/" target="_blank" rel="noreferrer noopener">Bitfinex</a> by dismissing a class action lawsuit against them.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-291.png"><img decoding="async" loading="lazy" width="880" height="400" src="https://coincu.com/wp-content/uploads/2023/08/image-291.png" alt="Tether And Bitfinex Triumph As Judge Dismisses Class Action Lawsuit" class="wp-image-208457" srcset="https://coincu.com/wp-content/uploads/2023/08/image-291.png 880w, https://coincu.com/wp-content/uploads/2023/08/image-291-300x136.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-291-768x349.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-291-750x341.png 750w" sizes="(max-width: 880px) 100vw, 880px" title="Tether And Bitfinex Triumph As Judge Dismisses Class Action Lawsuit 19"></a></figure></div>
+
+
+<p>The lawsuit, brought forth by Matthew Anderson and Shawn Dolifka, targeted Tether&#8217;s claims regarding the backing of its stablecoin, USDT, alleging that these statements were false and misleading.</p>
+
+
+
+<p>In a notable turn of events, Judge Swain issued a comprehensive and insightful 6-page decision that dismissed the class action lawsuit. The judge ruled that the plaintiffs&#8217; claims lacked merit and plausible allegations of injury. </p>
+
+
+
+<p>According to the court, the complaint failed to present evidence demonstrating that USDT had suffered a diminished actual value. This ruling sheds light on the robustness of Tether&#8217;s legal position and underscores the inadequacy of the plaintiffs&#8217; claims.</p>
+
+
+
+<p><a href="https://coincu.com/207430-tethers-q2-rserves-surge-to-3-3-billion/" target="_blank" rel="noreferrer noopener">Tether</a>, in response to the favorable decision, shared its satisfaction through an official blog post. The post highlighted that the dismissal occurred at an early stage of the legal proceedings, emphasizing the absence of legal merit in the plaintiffs&#8217; allegations. </p>
+
+
+
+<p>The company&#8217;s commitment to its promises and its dedication to safeguarding its user base and the broader community were reaffirmed in the <a href="https://tether.to/en/tether-and-bitfinex-win-comprehensive-legal-victory-as-us-district-court-dismisses-class-action-lawsuit/" target="_blank" rel="noreferrer noopener">statement</a>.</p>
+
+
+
+<p><a href="https://coincu.com/194368-tether-ctos-1b-usdt-mint-sparks-controversy/" target="_blank" rel="noreferrer noopener">Paolo Ardoino</a>, Tether&#8217;s spokesperson and Chief Technical Officer, took to Twitter to express the company&#8217;s contentment with the court&#8217;s ruling. </p>
+
+
+
+<p>He stressed that the court had correctly recognized the lack of plausible allegations of injury and the absence of evidence supporting the claim that USDT&#8217;s value had diminished.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">It&#39;s a good Friday.<a href="https://twitter.com/hashtag/Tether?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#Tether</a> and <a href="https://twitter.com/bitfinex?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@Bitfinex</a> Win Comprehensive Legal Victory as U.S. District Court Dismisses Class Action Lawsuit<br><br>The Court correctly held that plaintiffs’ complaint lacked any “plausible allegations of injury” because it includes no facts showing that “USDT had a…</p>&mdash; Paolo Ardoino <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f350.png" alt="🍐" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@paoloardoino) <a href="https://twitter.com/paoloardoino/status/1687566761997090816?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 4, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>This development showcases the ongoing legal challenges and scrutiny that stablecoin issuers face and highlights the importance of transparency and accurate communication in the cryptocurrency space. </p>
+
+
+
+<p>The court&#8217;s decision not only reflects Tether and Bitfinex&#8217;s legal triumph but also contributes to the evolving legal framework surrounding stablecoins and their representations.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em><a href="https://t.co/lyWxAQTDzl" target="_blank" rel="noreferrer noopener"></a></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208426-tether-and-bitfinex-triumph/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-292-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Global X Joins Bitcoin ETF Race With Dynamic Strategy Amidst Regulatory Scrutiny</title>
+		<link>https://coincu.com/208429-global-x-joins-bitcoin-etf-race/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 04:30:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Ark Invest]]></category>
 		<category><![CDATA[Bitcoin ETF]]></category>
 		<category><![CDATA[Bitwise]]></category>
-		<category><![CDATA[ETF]]></category>
-		<category><![CDATA[Ether Futures ETF]]></category>
-		<category><![CDATA[ProShares]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208301</guid>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Fidelity]]></category>
+		<category><![CDATA[Global X]]></category>
+		<category><![CDATA[Global X Bitcoin Trend Strategy ETF]]></category>
+		<category><![CDATA[Invesco]]></category>
+		<category><![CDATA[ProShares Bitcoin Strategy ETF]]></category>
+		<category><![CDATA[Valkyrie]]></category>
+		<category><![CDATA[VanEck]]></category>
+		<category><![CDATA[WisdomTree]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208429</guid>
 
-					<description><![CDATA[US SEC inundated with 11 Ether futures ETF applications in less than a week.<p class="has-text-align-right"><a href="https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Global X applies for spot Bitcoin ETF and dynamic BTC futures allocation.<p class="has-text-align-right"><a href="https://coincu.com/208429-global-x-joins-bitcoin-etf-race/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -651,183 +1197,87 @@
 
 
 <ul>
-<li><em>US SEC inundated with 11 Ether futures ETF applications in less than a week.</em></li>
+<li><em>Global X applies for spot Bitcoin ETF and dynamic BTC futures allocation.</em></li>
 
 
 
-<li><em>ProShares and Bitwise among the major players submitting proposals for Bitcoin and Ethereum ETFs.</em></li>
+<li><em>Coinbase collaborates for SEC approval alongside Fidelity and BlackRock.</em></li>
 
 
 
-<li><em>Excitement grows as the possibility of a spot Bitcoin ETF approval looms, boosting crypto investment prospects.</em></li>
+<li><em>SEC remains cautious on spot Bitcoin ETFs due to surveillance concerns.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>The United States Securities and Exchange Commission (SEC) faces a surge in applications for Ether futures exchange-traded funds (ETFs).</strong></h5>
+<h5 class="wp-block-heading"><strong>Global X has <a href="https://cdn.cboe.com/resources/regulation/rule_filings/pending/2023/SR-CboeBZX-2023-058.pdf" target="_blank" rel="noreferrer noopener">submitted</a> an application for a spot Bitcoin exchange-traded fund (ETF), following a trend of industry players seeking to provide Bitcoin-based investment options, according to recent filings.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-260.png"><img decoding="async" loading="lazy" width="1024" height="614" src="https://coincu.com/wp-content/uploads/2023/08/image-260-1024x614.png" alt="Surge Of Ether Futures ETF Floods US SEC With 3 New Applications " class="wp-image-208320" srcset="https://coincu.com/wp-content/uploads/2023/08/image-260-1024x614.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-260-300x180.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-260-768x460.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-260-750x450.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-260-1140x683.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-260.png 1201w" sizes="(max-width: 1024px) 100vw, 1024px" title="Surge Of Ether Futures ETF Floods US SEC With 3 New Applications 8"></a></figure></div>
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-288-1024x512.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://coincu.com/wp-content/uploads/2023/08/image-288-1024x512.png" alt="Global X Joins Bitcoin ETF Race With Dynamic Strategy Amidst Regulatory Scrutiny" class="wp-image-208449" srcset="https://coincu.com/wp-content/uploads/2023/08/image-288-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-288-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-288-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-288-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/08/image-288-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-288-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-288.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Global X Joins Bitcoin ETF Race With Dynamic Strategy Amidst Regulatory Scrutiny 20"></a></figure></div>
 
 
-<p>Among the applicants, ProShares and Bitwise have <a href="https://twitter.com/JSeyff/status/1687213881934966784" target="_blank" rel="noreferrer noopener">submitted</a> three ETF applications specifically related to Bitcoin and Ethereum. ProShares has <a href="https://www.sec.gov/Archives/edgar/data/1174610/000168386323005834/f26041d1.htm" target="_blank" rel="noreferrer noopener">filed</a> for the &#8220;Bitcoin &amp; Ether Strategy ETF&#8221; and the &#8220;Bitcoin &amp; Ether Equal Weight Strategy ETF.&#8221; </p>
-
-
-
-<p>Meanwhile, <a href="https://coincu.com/202636-sec-now-reviews-bitwise-bitcoin-etf/" target="_blank" rel="noreferrer noopener">Bitwise</a> has put forward its own proposal for the &#8220;Bitwise Bitcoin and Ether Equal Weight Strategy ETF.&#8221;</p>
+<p>Additionally, Global X has filed to launch an ETF that will dynamically allocate between Bitcoin futures and its recently introduced Treasury bill ETF, <em>Financial Times</em> <a href="https://www.ft.com/content/e2ab0609-dc28-49d9-9ac1-40de8add036c" target="_blank" rel="noreferrer noopener">reported</a>.</p>
 
 
 
-<p>The &#8220;Bitcoin &amp; Ether Equal Weight ETF&#8221; is designed to track the performance of holding long positions in the nearest maturing monthly bitcoin and ether futures contracts.</p>
+<p>The Global X Bitcoin Trend Strategy ETF aims to systematically allocate between U.S. and Canadian Bitcoin futures contracts and the Global X 1-3 Month T-Bill ETF. The latter, launched this year, has already gathered $42 million in assets.</p>
 
 
 
-<p>In addition to these filings, <a href="https://coincu.com/101707-proshares-bitcoin-etf-trades-for-35-million/" target="_blank" rel="noreferrer noopener">ProShares</a> has lodged four separate applications for Ether-based ETFs, which include a dual Bitcoin and Ether futures strategy ETF, a short Ether Strategy ETF, and an Ether Strategy ETF.</p>
+<p>If approved, the fund would offer investors exposure to Bitcoin with essential safeguards not always available in direct Bitcoin investments. Global X&#8217;s spot Bitcoin ETF application is the ninth active filing with U.S. regulators in this category.</p>
 
 
 
-<p>The trend of Ether-related ETF applications commenced with Volatility Shares, which filed for the &#8220;Volatility Shares Ether Strategy ETF&#8221; on July 28. </p>
+<p><a href="https://coincu.com/204930-global-x-etfs-coindesk-for-new-bitcoin-etf/" target="_blank" rel="noreferrer noopener">Global X </a>has enlisted <a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank" rel="noreferrer noopener">Coinbase</a> as its surveillance-sharing partner, a strategy also adopted by pending applicants like <a href="https://coincu.com/202622-fidelity-fires-up-bitcoin-etf-race/" target="_blank" rel="noreferrer noopener">Fidelity</a> and <a href="https://coincu.com/207822-us-committee-probes-blackrocks-in-chinese/" target="_blank" rel="noreferrer noopener">BlackRock</a>. This move addresses prior SEC concerns about surveillance-sharing agreements and market manipulation.</p>
 
 
 
-<p>Subsequently, several other prominent players like Bitwise Asset Management, Roundhill Financial, Van Eck, and <a href="https://coincu.com/206678-grayscale-sec-concurrent-approval-bitcoin-etfs/" target="_blank" rel="noreferrer noopener">Grayscale Investments</a> have also jumped on board and filed new Ether futures applications on August 1.</p>
+<p>The first U.S. Bitcoin futures ETF, ProShares Bitcoin Strategy ETF, launched in 2021, followed by similar offerings from VanEck and <a href="https://coincu.com/208417-valkyries-bold-move-converting-bitcoin-etf/" target="_blank" rel="noreferrer noopener">Valkyrie</a>. </p>
 
 
 
-<p>In a span of less than a week, a total of 11 filings for Ether-based ETFs have been submitted, signaling the growing interest in crypto investment products.</p>
+<p>Despite this, several issuers have sought to launch spot Bitcoin ETFs, with concerns about potential manipulation and surveillance leading the SEC to reject these applications.</p>
 
 
 
-<p>Currently, the U.S. only permits investment in Bitcoin futures ETFs, which are backed by bitcoin derivatives. </p>
+<p>BlackRock&#8217;s recent application for a spot Bitcoin ETF initiated a wave of new applications from firms like VanEck, Valkyrie, Fidelity, Invesco, WisdomTree, Bitwise, and Ark Invest.</p>
 
 
 
-<p>The flurry of recent filings indicates the increasing desire for a <a href="https://coincu.com/207975-spot-bitcoin-etf-approval-odds-surge-to-65/" target="_blank" rel="noreferrer noopener">spot Bitcoin ETF</a> to be approved, sparking excitement within the crypto investment community.</p>
+<p>Although various applications for spot Bitcoin ETFs are in progress, none have gained SEC approval thus far. The agency has extended deliberation windows and opened matters to public comments to avoid immediate decisions.</p>
 
 
 
-<p>As the SEC navigates through these applications, market participants eagerly await the potential approval of Ether-based ETFs, which could further fuel the adoption and accessibility of cryptocurrencies for investors.</p>
+<p>ETFs investing in futures contracts face challenges in maintaining exposure as contracts expire, impacting returns and disconnecting performance from underlying assets. </p>
+
+
+
+<p>Amidst evolving ETF landscapes, market participants are striving to offer innovative investment avenues while addressing regulatory concerns.</p>
 
 
 
 <p><em><strong>DISCLAIMER: </strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208301-surge-of-ether-futures-etf-floods-sec/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208429-global-x-joins-bitcoin-etf-race/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-261-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-289-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 		<item>
-		<title>Coinbase Plans To Seek Full Dismissal Of SEC Lawsuit From Court This Friday</title>
-		<link>https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Harold]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 03:46:17 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[Coinbase]]></category>
-		<category><![CDATA[Lawsuit]]></category>
-		<category><![CDATA[Paul Grewal]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208303</guid>
-
-					<description><![CDATA[Coinbase to file for lawsuit dismissal, confident of winning.<p class="has-text-align-right"><a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Key Points:</strong></p>
-
-
-
-<ul>
-<li><em>Coinbase to file for lawsuit dismissal, confident of winning.</em></li>
-
-
-
-<li><em>SEC sued Coinbase for unregistered securities trading.</em></li>
-
-
-
-<li><em>The exchange beats revenue expectations and aims for regulatory clarity.</em></li>
-</ul>
-
-
-
-<h5 class="wp-block-heading"><strong>Coinbase is set to <a href="https://twitter.com/coinbase/status/1687197491098492928" target="_blank" rel="noreferrer noopener">take action</a> against the U.S. Securities and Exchange Commission (SEC) by filing an order seeking dismissal of the lawsuit on August 4.</strong></h5>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg" alt="coinbase header" class="wp-image-208307" srcset="https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1024x576.jpg 1024w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-300x169.jpg 300w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-768x432.jpg 768w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1536x864.jpg 1536w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-750x422.jpg 750w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header-1140x641.jpg 1140w, https://coincu.com/wp-content/uploads/2023/08/coinbase-header.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Coinbase Plans To Seek Full Dismissal Of SEC Lawsuit From Court This Friday 9"></a></figure></div>
-
-
-<p>The company&#8217;s Chief Legal Officer, Paul Grewal, conveyed confidence in their defense during the second-quarter earnings call held on August 3.</p>
-
-
-
-<p>Grewal emphasized that <a href="https://coincu.com/207917-coinbase-promises-to-integrate-lightning-network/" target="_blank" rel="noreferrer noopener">Coinbase</a> would argue against the allegations, asserting that they did not list securities on their platform. </p>
-
-
-
-<p>Additionally, he highlighted that the SEC lacks regulatory authority over cryptocurrency exchanges and had not indicated any requirement for registration when Coinbase&#8217;s registration statement was deemed effective in April 2021.</p>
-
-
-
-<p>The company&#8217;s Chief Executive, <a href="https://coincu.com/186979-coinbase-ceo-made-million-security-benefits/" target="_blank" rel="noreferrer noopener">Brian Armstrong</a>, also spoke out against the SEC&#8217;s approach, criticizing its regulation by enforcement tactic instead of participating in rulemaking.</p>
-
-
-
-<p>Despite the ongoing legal battle, the exchange reported impressive second-quarter earnings on Thursday, exceeding analysts&#8217; expectations with a revenue of $708 million. However, the company did report a loss of $0.42 per share for the same period.</p>
-
-
-
-<p>The legal battle between Coinbase and the SEC ensued in June when the regulator accused the exchange of trading at least 13 crypto assets without proper registration as securities. </p>
-
-
-
-<p>Along with its rival <a href="https://coincu.com/208211-binance-reaches-150-million-users/" target="_blank" rel="noreferrer noopener">Binance</a>, Coinbase allegedly operated as an unregistered securities exchange, leading to the SEC&#8217;s legal action.</p>
-
-
-
-<p>Looking forward, the exchange aims to collaborate with the SEC and lawmakers to establish clearer regulatory guidelines in the cryptocurrency space. The exchange hopes to emerge victorious in the court case and subsequently work towards a more transparent and compliant ecosystem.</p>
-
-
-
-<p>As Coinbase prepares to submit its motion for dismissal, the court is expected to review the arguments put forth by the company in October. </p>
-
-
-
-<p>This development comes amidst the ever-evolving landscape of cryptocurrency regulations, which remains a critical area of concern for market participants and regulators alike.</p>
-
-
-
-<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208303-coinbase-seek-full-dismissal-of-sec-lawsuit/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/2023-08-04-23.34.59-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
-		<item>
-		<title>USDT Depegs Again Due To Strong Selling To USDC &#038; DAI</title>
-		<link>https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/</link>
+		<title>Former Celsius CEO Faces Fraud Allegation In Federal Court in New York</title>
+		<link>https://coincu.com/208435-former-celsius-ceo-faces-fraud-allegation-in-ny/</link>
 		
 		<dc:creator><![CDATA[Foxy]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 03:41:42 +0000</pubDate>
-				<category><![CDATA[Altcoins]]></category>
+		<pubDate>Sat, 05 Aug 2023 04:23:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
 		<category><![CDATA[# Cryptocurrencies]]></category>
 		<category><![CDATA[#Markets]]></category>
 		<category><![CDATA[Blockchain]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[DAI]]></category>
-		<category><![CDATA[depeg]]></category>
-		<category><![CDATA[FDUSD]]></category>
-		<category><![CDATA[selling]]></category>
-		<category><![CDATA[Tether]]></category>
-		<category><![CDATA[USDC]]></category>
-		<category><![CDATA[USDT]]></category>
-		<guid isPermaLink="false">https://coincu.com/?p=208288</guid>
+		<guid isPermaLink="false">https://coincu.com/?p=208435</guid>
 
-					<description><![CDATA[Asset allocation in Curve 3pool was unbalanced as a series of traders sold off USDT in favor of USDC and DAI.<p class="has-text-align-right"><a href="https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+					<description><![CDATA[Former Celsius CEO Alex Mashinsky faces a lawsuit filed by New York Attorney General Letitia James, accusing him of fraud.<p class="has-text-align-right"><a href="https://coincu.com/208435-former-celsius-ceo-faces-fraud-allegation-in-ny/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><strong>Key Points:</strong></p>
@@ -835,55 +1285,215 @@
 
 
 <ul>
-<li><em>Massive traders sold off Tether USDT late August 3 in key stablecoin pools on Curve and UniSwap.</em></li>
+<li><em>The News York Attorney General has sued Former CEO Celsius Mashinsky for alleged cryptocurrency fraud.</em></li>
 
 
 
-<li><em>Paolo Ardoino, Tether&#8217;s Chief Technology Officer, thinks this is foul play.</em></li>
+<li><em>Mashinsky is accused of defrauding hundreds of thousands of investors out of billions of dollars in cryptocurrencies by repeatedly making false and misleading statements about lenders&#8217; safety.</em></li>
 
 
 
-<li><em>The current imbalance shows that investors are increasingly inclined to hold DAI or USDC.</em></li>
+<li><em>Mashinsky has denied the criminal charges.</em></li>
 </ul>
 
 
 
-<h5 class="wp-block-heading"><strong>Asset allocation in Curve 3pool was unbalanced as a series of traders sold off USDT in favor of USDC and DAI.</strong></h5>
+<h5 class="wp-block-heading"><strong>Former Celsius CEO <a href="https://coincu.com/205926-doj-seeks-evidence-against-celsius-founder/" target="_blank" rel="noreferrer noopener">Alex Mashinsky </a>faces a lawsuit filed by New York Attorney General Letitia James, accusing him of fraud, on Friday.</strong></h5>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-258.png"><img decoding="async" loading="lazy" width="1024" height="538" src="https://coincu.com/wp-content/uploads/2023/08/image-258-1024x538.png" alt="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI" class="wp-image-208305" srcset="https://coincu.com/wp-content/uploads/2023/08/image-258-1024x538.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-258-300x158.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-258-768x403.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-258-750x394.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-258-1140x599.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-258.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-287.png"><img decoding="async" loading="lazy" width="929" height="523" src="https://coincu.com/wp-content/uploads/2023/08/image-287.png" alt="Former Celsius CEO Faces Fraud Allegation In Federal Court in New York" class="wp-image-208445" srcset="https://coincu.com/wp-content/uploads/2023/08/image-287.png 929w, https://coincu.com/wp-content/uploads/2023/08/image-287-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-287-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-287-750x422.png 750w" sizes="(max-width: 929px) 100vw, 929px" title="Former Celsius CEO Faces Fraud Allegation In Federal Court in New York 21"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
 
 
-<p>Massive traders sold off Tether in key stablecoin pools on Curve and UniSwap yesterday. Shortly after, USDT recoiled to $0.9976 and was <a href="https://coincu.com/198455-tusd-depeg-trueusd-reserves-audited-by-ftx-us/" target="_blank" rel="noreferrer noopener">depeg</a> below the $1 anchor for a long time.</p>
-
-
-
-<p>Many people have exited/sold USDT to run to other stablecoins, causing the pools to fall into a severe imbalance. According to 3pool data, the USDT balance has now skyrocketed to 59.3% in Curve 3pool, which includes USDT, USDC, and DAI, while USDC and DAI account for only 20.3% and 20.8% of total assets in the pool.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://coincu.com/wp-content/uploads/2023/08/image-257-767x1024.png" alt="image 257" class="wp-image-208304" width="783" height="1046" srcset="https://coincu.com/wp-content/uploads/2023/08/image-257-767x1024.png 767w, https://coincu.com/wp-content/uploads/2023/08/image-257-225x300.png 225w, https://coincu.com/wp-content/uploads/2023/08/image-257-768x1026.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-257-750x1002.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-257.png 849w" sizes="(max-width: 783px) 100vw, 783px" title="USDT Depegs Again Due To Strong Selling To USDC &amp; DAI 11"><figcaption class="wp-element-caption">Asset Allocation in <a href="https://curve.fi/#/ethereum/pools/3pool/deposit" target="_blank" rel="noreferrer noopener">Curve 3pool</a></figcaption></figure></div>
-
-
-<p>Right after USDT went strong, Paolo Ardoino, Tether&#8217;s Chief Technology Officer, suggested that this may be a foul play. The community is also eyeing Hong Kong-based First Digital&#8217;s new stablecoin FDUSD, which Binance quickly backed recently.</p>
+<p>According to <a href="https://www.bloomberg.com/news/articles/2023-08-04/ex-celsius-ceo-mashinsky-must-face-new-york-civil-fraud-suit#xj4y7vzkg" target="_blank" rel="noreferrer noopener">Bloomberg</a>, Letitia James, the top cop in New York, filed the lawsuit nearly six months before the former CEO was charged with a federal crime. On Friday, a judge rejected Mashinsky&#8217;s attempt to dismiss the case.</p>
 
 
 
-<p>&#8220;Isn&#8217;t it interesting that USDt is being pressured down (slightly, within 10bps, just to push market makers to react), and USDc, the main competitor that you would expect to gain from the situation, is redeemed nevertheless heavily, while suddenly a competitor born 2 hours ago is getting it all? Exactly! It feels definitely organic and not manipulative at all. Some people never learn.&#8221; He wrote.</p>
+<p>James&#8217; lawsuit, filed in January, previews an unsealed indictment last month in Manhattan in which prosecutors claim that between 2018 and June 2022, Mashinsky orchestrated a wide-ranging scheme to mislead Celsius customers about &#8220;core aspects&#8221; of the company&#8217;s business and inflate the value of its proprietary token, CEL. Former director Alex Mashinsky has refused to accept criminal charges.</p>
 
 
 
-<p>The Curve and Uniswap pools are popular places for traders to swap stablecoins quickly. Most of the time, the tokens are balanced in the pool. The imbalance shows that the market is in trouble as investors seek to dump an asset in bulk. Similar imbalances occurred when Terra crashed in May 2022 and the Silicon Valley banking crisis hit USDC Circle Issuers in March of this year.</p>
+<p>New York County Supreme Court Justice Margaret Chan said Mashinsky defrauded investors by touting Celsius as a safe alternative to banks and masking its risks, including daily investment losses of hundred million dollars.</p>
 
 
 
-<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The Information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
-<p class="has-text-align-right"><a href="https://coincu.com/208288-usdt-depegs-again-strong-selling-to-usdc-dai/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+<blockquote class="wp-block-quote has-small-font-size">
+<p class="has-small-font-size">&#8220;There are reasonable allegations to support a plausible inference that Mashinsky&#8217;s meaningful misstatements induced or promoted new investors to deposit assets in Celsius&#8217;s earned-interest accounts&#8221;</p>
+<cite>New York County Supreme Court Justice Margaret Chan said in her ruling.</cite></blockquote>
+
+
+
+<p>The civil suit seeks to ban Alex Mashinsky from doing business in New York and order him to pay damages for violating laws, including the state&#8217;s Martin Act, which gives James broad powers to pursue securities fraud cases.</p>
+
+
+
+<p><em><strong>DISCLAIMER:&nbsp;</strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208435-former-celsius-ceo-faces-fraud-allegation-in-ny/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://coincu.com/wp-content/uploads/2023/08/USDT_Depegs_Slightly_Again_Due_to_Strong_Selling_To_USDC__DAI-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-22-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Valkyrie&#8217;s Bold Move: Converting Bitcoin Strategy ETF To Include Ether</title>
+		<link>https://coincu.com/208417-valkyries-bold-move-converting-bitcoin-etf/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 04:07:59 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Bitcoin and Ether Strategy ETF]]></category>
+		<category><![CDATA[Bitcoin Strategy ETF]]></category>
+		<category><![CDATA[Blackrock]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[Valkyrie]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208417</guid>
+
+					<description><![CDATA[Valkyrie plans to convert its Bitcoin Strategy ETF into a Bitcoin and Ether Strategy ETF on October 3, two weeks ahead of the other 13 ETFs' planned launches.<p class="has-text-align-right"><a href="https://coincu.com/208417-valkyries-bold-move-converting-bitcoin-etf/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Valkyrie plans to convert its Bitcoin Strategy ETF into a Bitcoin and Ether Strategy ETF on October 3, two weeks ahead of the other 13 ETFs&#8217; planned launches.</em></li>
+
+
+
+<li><em>The move allows Valkyrie to expand its offering beyond Bitcoin futures contracts and potentially outpace competitors in the ETF space.</em></li>
+
+
+
+<li><em>The SEC filing initiates the comment period, enabling public and institutional opinions on the ETF&#8217;s market impact and investor protection measures.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Valkyrie, a cryptocurrency asset management company, intends to convert its Bitcoin Strategy ETF into a combined Bitcoin and Ether Strategy ETF on October 3, 2023, according to a recently filed 497 form.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/08/image-285.png"><img decoding="async" loading="lazy" width="900" height="500" src="https://coincu.com/wp-content/uploads/2023/08/image-285.png" alt="Valkyrie&#039;s Bold Move: Converting Bitcoin Strategy ETF To Include Ether" class="wp-image-208437" srcset="https://coincu.com/wp-content/uploads/2023/08/image-285.png 900w, https://coincu.com/wp-content/uploads/2023/08/image-285-300x167.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-285-768x427.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-285-750x417.png 750w" sizes="(max-width: 900px) 100vw, 900px" title="Valkyrie&#039;s Bold Move: Converting Bitcoin Strategy ETF To Include Ether 22"></a></figure></div>
+
+
+<p>This move is notably two weeks ahead of the planned launches by the other 13 ETFs that have submitted applications for similar offerings. <a href="https://coincu.com/203584-sec-accepts-valkyries-etf-application/" target="_blank" rel="noreferrer noopener">Valkyrie</a>&#8216;s current Bitcoin Strategy ETF, launched in 2021, primarily invests in Bitcoin futures contracts and is available through Nasdaq.</p>
+
+
+
+<p>Bloomberg&#8217;s Senior ETF Analyst Eric Balchunas <a href="https://twitter.com/EricBalchunas/status/1687566431502716928" target="_blank" rel="noreferrer noopener">highlighted</a> that Valkyrie&#8217;s proposed early launch might be a strategic maneuver to outpace the competition. The proposed date aligns with Valkyrie&#8217;s ongoing efforts to enhance its ETF offerings.</p>
+
+
+
+<p>Valkyrie resubmitted its Bitcoin ETF proposal on June 21, shortly after <a href="https://coincu.com/207822-us-committee-probes-blackrocks-in-chinese/" target="_blank" rel="noreferrer noopener">BlackRock</a>&#8216;s proposal. It&#8217;s worth noting that Valkyrie humorously adopted the &#8216;BRRR&#8217; ticker, referencing a popular meme that represents the sound of money printing. </p>
+
+
+
+<p>Additionally, the firm adjusted its filing to include crypto exchange Coinbase as a &#8220;surveillance-sharing&#8221; partner, drawing parallels with BlackRock&#8217;s proposal.</p>
+
+
+
+<p>The filing&#8217;s listing on the SEC&#8217;s official calendar initiates the comment period, allowing the public and institutions to express their opinions on various aspects, including market impact and investor protection.</p>
+
+
+
+<p>This development coincides with <a href="https://coincu.com/100814-proshares-launches-short-bitcoin-etf/" target="_blank" rel="noreferrer noopener">ProShares</a> and <a href="https://coincu.com/208365-bitwise-joins-race-with-2-ether-futures-etfs/" target="_blank" rel="noreferrer noopener">Bitwise</a> submitting ETF applications to the U.S. Securities and Exchange Commission on Friday. </p>
+
+
+
+<p>The applications aim to provide exposure to both Bitcoin and Ether, signaling a growing interest in cryptocurrency ETF offerings.</p>
+
+
+
+<p><em><strong>DISCLAIMER:&nbsp;</strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208417-valkyries-bold-move-converting-bitcoin-etf/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/image-286-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Curve Finance Founder Sells Another 8 Million CRVs Before Liquidation Concerns</title>
+		<link>https://coincu.com/208413-curve-finance-founder-sells-8m-crvs/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 03:54:04 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[CRV]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[liquidation]]></category>
+		<category><![CDATA[OTC]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=208413</guid>
+
+					<description><![CDATA[Curve Finance founder, Michael Egorov, continued to sell 8 million CRVs to 5 investors/institutions.<p class="has-text-align-right"><a href="https://coincu.com/208413-curve-finance-founder-sells-8m-crvs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Curve founder is credited with continuing to sell 8 million CRVs to 5 investors/institutions.</em></li>
+
+
+
+<li><em>Michael Egorov, in total, sold 114.025 million CRV to 24 investors/institutions in exchange for $45.61 million.</em></li>
+
+
+
+<li><em>The fact that hackers are refunding hacked projects eases concerns about Curve&#8217;s liquidated positions.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Following Ember, a chain analyst, from last night to this morning, Curve Finance founder, Michael Egorov, continued to sell 8 million CRVs to 5 investors/institutions.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/08/image-284.png"><img decoding="async" loading="lazy" width="1024" height="533" src="https://coincu.com/wp-content/uploads/2023/08/image-284-1024x533.png" alt="Curve Finance Founder Sells Another 8 Million CRVs Before Liquidation Concerns" class="wp-image-208425" srcset="https://coincu.com/wp-content/uploads/2023/08/image-284-1024x533.png 1024w, https://coincu.com/wp-content/uploads/2023/08/image-284-300x156.png 300w, https://coincu.com/wp-content/uploads/2023/08/image-284-768x400.png 768w, https://coincu.com/wp-content/uploads/2023/08/image-284-750x391.png 750w, https://coincu.com/wp-content/uploads/2023/08/image-284-1140x594.png 1140w, https://coincu.com/wp-content/uploads/2023/08/image-284.png 1256w" sizes="(max-width: 1024px) 100vw, 1024px" title="Curve Finance Founder Sells Another 8 Million CRVs Before Liquidation Concerns 23"></a><figcaption class="wp-element-caption">Curve Finance founder, Michael Egorov</figcaption></figure></div>
+
+
+<p>Since the OTC sale began on August 1, Curve founders have sold 114.025 million CRV to 24 investors/institutions in exchange for $45.61 million in funds. Michael held too much CRV and was criticized by many. Although this OTC sale of CRV tokens will speed up CRV decentralization, it could also pave the way for future problems.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="zh" dir="ltr">今日份 Curve 创始人卖币信息更新：<br>昨晚至今早，Curve 创始人继续向 5 家投资者/机构出售 800 万 <a href="https://twitter.com/search?q=%24CRV&amp;src=ctag&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">$CRV</a> 。<br><br>• 375 万 CRV → 237.eth<br>• 125 万 CRV → 0xB97<br>• 125 万 CRV → <a href="https://twitter.com/cryptogle?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@cryptogle</a> <br>• 125 万 CRV → 0x73F<br>• 50 万 CRV → 0x73E<br><br>推文由 <a href="https://twitter.com/LionDEX_CN?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@LionDEX_CN</a> 赞助 <a href="https://t.co/AHpqeQf5ku" target="_blank">pic.twitter.com/AHpqeQf5ku</a></p>&mdash; 余烬 (@EmberCN) <a href="https://twitter.com/EmberCN/status/1687623026257575937?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">August 5, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The OTC trading price of CRV this time is $0.4, about 30% lower than the current market price. Despite the half-year lockup period, the tokens given to investors are fully unlocked.</p>
+
+
+
+<p>These positions will not be sold immediately, but some investors can hedge their risk through centralized exchange perpetual contracts proportional to the CRV/USDT perpetual contract trading pair continuing to be negative, meaning the bearish sentiment is dominating.</p>
+
+
+
+<p>One of the reasons pioneering projects are more attractive to finance is that they are more likely to pay compensation if an accident occurs.</p>
+
+
+
+<p>While it&#8217;s not Curve&#8217;s fault, the loss happened to Curve, and it hurt some of the users who trusted Curve. <a href="https://discord.com/invite/9uEHakc" target="_blank" rel="noreferrer noopener">Discord</a> has discussions about compensation, but there is no clear official statement.</p>
+
+
+
+<p>The ideal end is for the hacker to <a href="https://coincu.com/208406-jpegd-recovered-5494-4-weth-10-bonus/" target="_blank" rel="noreferrer noopener">repay</a> all of the loans or most of them, and the rest could be covered by Curve or related projects. For CRV holders, the rights and benefits will not be greatly reduced, for users with losses, the money can also be recovered to restore confidence. Currently it is actually developing along this route and projects like Alchemix, JPEG&#8217;d have recovered some money after trying to contact the hackers.</p>
+
+
+
+<p><em><strong>DISCLAIMER:&nbsp;</strong>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/208413-curve-finance-founder-sells-8m-crvs/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/08/foxy-2023-21-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
 	</channel>
 </rss>
