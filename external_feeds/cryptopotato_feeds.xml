@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Sat, 05 Aug 2023 08:54:44 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Aug 2023 10:14:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,78 +29,207 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Here&#8217;s Every Crypto Bill Now Ready For US Congress</title>
-		<link>https://cryptopotato.com/heres-every-crypto-bill-now-ready-for-us-congress/</link>
+		<title>Bitcoin Massively Outperforms Crypto Hedge Funds in 2023: Report</title>
+		<link>https://cryptopotato.com/bitcoin-massively-outperforms-crypto-hedge-funds-in-2023-report/</link>
 		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Sat, 05 Aug 2023 21:15:23 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Young]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 23:45:44 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<category><![CDATA[US Congress]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264000</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/US_Congress.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/US_Congress.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Institutions]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264561</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/07/institutions_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/07/institutions_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Congress is set to vote on bills concerning crypto regulatory jurisdiction, stablecoins, and the right to self custody. ]]></description>
-            																<content:encoded><![CDATA[<p>The House Financial Services Committee (HFSC) approved a slew of proposals related to digital asset regulation last month, of which any could be the first piece of crypto-specific legislation signed into U.S. federal law.</p>
-<p>Here’s a summary of the differences between the most important bills, and what each could mean for crypto as a whole.</p>
-<h2>4 Crypto Bills: A Summary</h2>
-<p>One of the most high-profile bills to score approval was the Financial Innovation and Technology for the 21st Century Act (aka FIT 21), which received <a href="https://cryptopotato.com/congressional-stablecoin-bill-still-reeks-of-sam-bankman-fried-democrats-say/" data-wpel-link="internal">bipartisan support</a> (all Republicans + 6 Democrats) from the HFSC last week.</p>
-<p>The bill would clear confusion about what jurisdiction the Commodities and Futures Trading Commission (CFTC) has over digital assets, versus the Securities and Exchange Commission (SEC).</p>
-<p>Though many Democrats considered the bill to be friendly to the industry, others believed it was a major step up from the status quo, and would help “create clarity where none exists.”</p>
-<p>The following day, the committee <a href="https://cryptopotato.com/republicans-blast-white-house-for-failure-to-compromise-on-stablecoin-bill/" data-wpel-link="internal">considered</a> the Clarity for Payment Stablecoins Act of 2023, which would create clear rules around stablecoin issuance, and detail what authorities the Federal Reserve has over the sector.</p>
-<p>Again, Democrats opposed the bill, referring to it as “deeply flawed,” and as being rushed by chairman Patrick McHenry. The White House and Treasury Department also expressed disapproval. Nevertheless, with Republican support plus that of 3 Democrats, the bill also received clearance.</p>
-<p>The committee also passed the <a href="https://cryptopotato.com/tom-emmer-introduces-bill-to-protect-blockchain-developers/" data-wpel-link="internal">Blockchain Regulatory Certainty Act</a>, which would guarantee that blockchain service providers that don’t keep custody of client assets are not treated as money services businesses under the law.</p>
-<p>This would theoretically correct problems within President Biden’s 2021 Infrastructure bill, which would place untenable transaction reporting requirements on “digital asset broker” – a term that could include, miners, nodes, and validators.</p>
-<p>Finally, Congress approved the Keep Your Coins Act of 2023, which would simply guarantee American citizens the right to take custody of their own crypto, and to use their assets to purchase goods and services as they see fit.</p>
-<h2>The Lummis-Gillibrand Bill</h2>
-<p>In the Senate, Cynthia Lummis and Kirsten Gillibrand have worked together to draft legislation with a similar purpose to FIT 21.</p>
-<p>While drawing a clear line between digital securities and commodities, it would also empower the SEC to be more aggressive in pursuing consumer protections. New consumer protections would include requirements on crypto companies to prove their reserves and make companies clearly disclose their risks.</p>
-<p>Unlike a version of the bill presented last year, the senators say their <a href="https://www.nbcnews.com/politics/congress/sen-lummis-says-crypto-bill-prevent-another-ftx-style-crisis-rcna89352" data-wpel-link="external" target="_blank">new version</a> wouldn’t give the CFTC overbroad authority.</p>
-<p>The post <a href="https://cryptopotato.com/heres-every-crypto-bill-now-ready-for-us-congress/" rel="nofollow">Here&#8217;s Every Crypto Bill Now Ready For US Congress</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Crypto hedge funds have underperformed and faced an array of issues this year according to new research.]]></description>
+            																<content:encoded><![CDATA[<p>According to data from Switzerland-based investment adviser 21e6 Capital AG, around 13% of crypto hedge funds have shut down so far this year. The reasons for the closures were weak performance and difficulties in accessing banking services.</p>
+<p>Furthermore, crypto funds generated, on average, around 15% returns in the first half of 2023. They have been underperforming Bitcoin, which gained 77% over the same period.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Crypto hedge funds suffer from lagging performance to Bitcoin and a set of operational difficulties, such as accessing banking services.</p>
+<p>About 13% of them shut down this year, according to data tracked by 21e6 Capital. 1/<a href="https://t.co/L7ozmXW1G4" data-wpel-link="external" target="_blank">https://t.co/L7ozmXW1G4</a> <a href="https://twitter.com/crypto?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@crypto</a></p>
+<p>— Yueqi Yang (@Yueqi_Yang) <a href="https://twitter.com/Yueqi_Yang/status/1687489607007358976?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 4, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Crypto Hedge Funds Lagging</h2>
+<p>Despite <a href="https://cryptopotato.com/two-thirds-of-worlds-largest-banks-are-crypto-friendly-research/" data-wpel-link="internal">reports</a> to the contrary claiming that the majority of banks are crypto-friendly, the reality is very different for many crypto hedge funds.</p>
+<p>21e6 <a href="https://assets.21e6.io/blog/half-year-review-2023" target="_blank" rel="noopener" data-wpel-link="external">reported</a> that many funds held larger-than-normal cash positions following industry turmoil in 2022. As a result, they missed out on Bitcoin’s big moves earlier that year.</p>
+<p>Head of marketing and sales at 21e6, Maximilian Bruckner, said many funds are “still struggling to find new partners” for banking services. Banking problems were compounded by the collapses of crypto-friendly banks Silvergate Capital and Signature Bank earlier this year.</p>
+<p>Regulatory pressure and America’s SEC-led war on crypto haven’t helped their causes.</p>
+<p>97 of the 700 crypto hedge funds tracked by the firm have closed in 2023, it stated. Several closed following the fallout of the FTX collapse, where many had stored their funds.</p>
+<p>Those with “market-neutral strategies” performed the worst, generating only a 6.8% return for the first half of this year. The report concluded:</p>
+<blockquote><p>“All crypto fund strategies achieved positive results this year. But relative to Bitcoin, they underperformed, especially those with significant exposure to altcoins, to futures, or those strongly dependent on momentum signals.”</p></blockquote>
+<p>“Investor confidence improved slightly, but fund inflows and fund launches are not yet signaling a full recovery in sentiment,” it added.</p>
+<h2>Crypto Market Outlook</h2>
+<p>Digital assets remain flat this weekend with very little movement in total capitalization, which remains at $1.2 trillion at the time of writing.</p>
+<p>There has been a slight retreat for BTC and ETH this week, with both dropping a couple of percents but remaining with their respective range-bound channels.</p>
+<p>Trading volumes and volatility are currently at historical lows in this, the <a href="https://cryptopotato.com/did-you-know-this-is-the-longest-crypto-bear-market-ever-as-altcoins-languish-regulation-looms-and-tradfi-encroaches/" data-wpel-link="internal">longest-ever</a> crypto winter in industry history.</p>
+<p>The post <a href="https://cryptopotato.com/bitcoin-massively-outperforms-crypto-hedge-funds-in-2023-report/" rel="nofollow">Bitcoin Massively Outperforms Crypto Hedge Funds in 2023: Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Crypto Industry Ripe for Fradusters, BlackBerry Stops 1.5 Million Attacks in 2 Months: Report</title>
-		<link>https://cryptopotato.com/crypto-industry-ripe-for-fradusters-blackberry-stops-1-5-million-attacks-in-2-months-report/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Sat, 05 Aug 2023 17:45:30 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Crypto Scams]]></category>
-		<category><![CDATA[Malware]]></category>
-		<category><![CDATA[Mining]]></category>
-		<category><![CDATA[Monero]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264105</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/10/hackers_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/10/hackers_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[BlackBerry found that threat actors are increasingly diversifying tooling to hijack devices to mine or steal crypto.]]></description>
-            																<content:encoded><![CDATA[<p>Blackberry has detected several malware families that are being used to run massive campaigns for stealing crypto from devices.</p>
-<p>In the August edition of &#8216;The BlackBerry Global Threat Intelligence Report,&#8217; the former titan of the smartphone industry found that finance, healthcare, and government are the top three industries with the highest distribution of cyberattacks.</p>
-<h2>Malware Everywhere</h2>
-<p>From March 2023 to May 2023, BlackBerry&#8217;s cybersecurity solutions managed to stop over 1.5 million attacks, during which it identified the crypto industry as being ripe for fraudsters who prey on unsuspecting victims. The attackers are expanding their range of tools to evade defensive controls, particularly targeting legacy solutions that rely on signatures and hashes.</p>
-<p>BlackBerry&#8217;s telemetry has <a href="https://www.blackberry.com/us/en/solutions/threat-intelligence/2023/threat-intelligence-report-august" target="_blank" rel="noopener" data-wpel-link="external">identified</a> an ongoing trend in the usage of commodity malware like &#8216;RedLine,&#8217; which is capable of extracting various sensitive information, including saved credentials, credit card details, and cryptocurrency data.</p>
-<p>&#8216;SmokeLoader&#8217; is one of the most prominent malware families that has been a recurring presence in the threat landscape.</p>
-<p>Since its first appearance in 2011, SmokeLoader has become immensely popular. Initially associated with Russian-based threat actors until 2014, it has been employed to distribute a variety of malware, ranging from ransomware and infostealers to crypto miners and banking Trojans.</p>
-<p>Spam emails, weaponized documents, and spearphishing attacks are some of the ways SmokeLoader is distributed to the victims.</p>
-<p>Once it infiltrates a victim&#8217;s system, SmokeLoader establishes a persistence mechanism to survive reboots, employs DLL injection to camouflage within legitimate processes, conducts host enumeration, and downloads/installs additional files or malware to further its malicious activities.</p>
-<p>RaccoonStealer, categorized as an infostealer, is designed to acquire browser cookies, passwords, auto-fill web browser data, and cryptocurrency wallet information. This malware has gained notoriety for being offered as Malware-as-a-Service (MaaS) on dark web forums and similar platforms.</p>
-<h2>Targets</h2>
-<p>Linux operating systems are active <a href="https://cryptopotato.com/a-new-malware-working-on-windows-linux-and-macos-targets-your-cryptocurrency-report/" target="_blank" rel="noopener" data-wpel-link="internal">targets</a> for threat actors, aiming to exploit computer resources for cryptocurrency mining, mainly privacy-centric crypto-asset, Monero.</p>
-<p>Meanwhile, macOS users are now facing a new threat in the form of an infostealer called Atomic macOS, which is specifically designed to collect credentials from keychains, browsers, cryptocurrency wallets, and other sensitive data on macOS-based devices.</p>
-<p>BlackBerry revealed thwarting the highest number of attacks in the United States. During the reporting period, the company witnessed a notable surge in the Asia-Pacific (APAC) region, with South Korea and Japan was observed now ranking among its top three. Furthermore, New Zealand and Hong Kong have made significant progress, securing positions within the top 10 in terms of attack prevention.</p>
-<p>The post <a href="https://cryptopotato.com/crypto-industry-ripe-for-fradusters-blackberry-stops-1-5-million-attacks-in-2-months-report/" rel="nofollow">Crypto Industry Ripe for Fradusters, BlackBerry Stops 1.5 Million Attacks in 2 Months: Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Trump, Kennedy, and More: How Do 2024 Presidential Candidates Look at Crypto?</title>
-		<link>https://cryptopotato.com/trump-kennedy-and-more-how-do-2024-presidential-candidates-look-at-crypto/</link>
+		<title>Block&#8217;s BTC Revenue Rises by Over 30% in Q2</title>
+		<link>https://cryptopotato.com/blocks-btc-revenue-rises-by-over-30-in-q2/</link>
 		
 		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Sat, 05 Aug 2023 14:15:32 +0000</pubDate>
+		<pubDate>Sun, 06 Aug 2023 20:21:06 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Jack Dorsey]]></category>
+		<category><![CDATA[Square CashApp]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264369</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/06/bitcoin_cover-9.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/06/bitcoin_cover-9.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA["The year-over-year increase in bitcoin revenue and gross profit was driven by an increase in the quantity of bitcoin sold to customers," the firm said.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The payment technology firm Block (formerly known as Square) revealed that its bitcoin revenue for the second quarter was approximately 34% more than the figure reported in Q2, 2022. </span></p>
+<p><span data-preserver-spaces="true">The company, spearheaded by Twitter&#8217;s former CEO Jack Dorsey, is a main player on the crypto scene, owning over 8,000 BTC. </span></p>
+<h2><span data-preserver-spaces="true">Q2&#8217;s Solid Numbers</span></h2>
+<p><span data-preserver-spaces="true">Block </span><a class="editor-rtfLink" href="https://s29.q4cdn.com/628966176/files/doc_financials/2023/q2/2Q23_Block_Shareholder-Letter.pdf" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">revealed</span></a><span data-preserver-spaces="true"> that its mobile application that enables monetary transfers &#8211; Cash App &#8211; generated a bitcoin revenue of $2.39 billion in Q2, 2023. The sum is approximately 34% higher than the nearly $1.8 billion registered in the second quarter of last year. Cash App&#8217;s BTC gross profit equaled $44 million, up 7% year-over-year.</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;The year-over-year increase in bitcoin revenue and gross profit was driven by an increase in the quantity of bitcoin sold to customers, partially offset by a decrease in the average market price of bitcoin compared to the prior-year period,&#8221; the firm stated. </span></p></blockquote>
+<p><span data-preserver-spaces="true">Block disclosed that it had not recognized a bitcoin impairment loss during that time frame. As of the end of June 2023, its BTC investment was worth $245 million. Due to the slight price decrease of the primary digital asset in the following weeks, though, the company&#8217;s 8,027 BTC stash is currently worth approximately $234 million. </span></p>
+<p><span data-preserver-spaces="true">The organization is among the top 10 largest corporate holders of bitcoin (according to CoinGecko&#8217;s data). The leader is MicroStrategy which recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/microstrategy-buys-another-420-btc-for-14-4-million/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">purchased</span></a><span data-preserver-spaces="true"> another 420 BTC, bringing its total to 152,800 BTC. </span></p>
+<p><span data-preserver-spaces="true">Block&#8217;s overall financial results (excluding bitcoin revenue) were also positive. However, the price of its shares failed to head north. SQ </span><a class="editor-rtfLink" href="https://finance.yahoo.com/quote/SQ/" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">stood</span></a><span data-preserver-spaces="true"> at over $73 when the market closed on August 3, whereas it is now approximately 6% down in after-hours trading. </span></p>
+<h2><span data-preserver-spaces="true">The Reverse Situation Last Year</span></h2>
+<p><span data-preserver-spaces="true">The technology conglomerate </span><a class="editor-rtfLink" href="https://cryptopotato.com/blocks-shares-jumped-7-despite-declining-q4-bitcoin-revenue/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">disclosed</span></a><span data-preserver-spaces="true"> $1.83 billion of bitcoin revenue generated from its Cash App payment service in Q4 2022, 8.5% less than the Q4, 2021 figures. It explained that the disappointing number resulted from the market crash last year that dwindled investors&#8217; interest in the primary cryptocurrency. </span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;The year-over-year decline in revenue was driven by a decrease in the total dollar amount of bitcoin sold to customers, which we recognize as bitcoin revenue, and bitcoin gross profit was 2% of bitcoin revenue in the quarter,&#8221; Block stated at the time.</span></p></blockquote>
+<p><span data-preserver-spaces="true">Contrary to the shrunk figure, Block&#8217;s shares spiked by around 7% following the company&#8217;s much better overall financial results. </span></p>
+<p>The post <a href="https://cryptopotato.com/blocks-btc-revenue-rises-by-over-30-in-q2/" rel="nofollow">Block&#8217;s BTC Revenue Rises by Over 30% in Q2</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Love Hurts: Minnesota Man Loses Over $9 Million in a Crypto Romance Scam: Report</title>
+		<link>https://cryptopotato.com/love-hurts-minnesota-man-loses-over-9-million-in-a-crypto-romance-scam-report/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 18:45:09 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Crypto Scams]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264437</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/broken_heart_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/broken_heart_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Instead of leaving his wife and getting rich overnight via investing in a suspicious crypto project, the victim ended up losing $9.2 million.]]></description>
+            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">A resident of Eden Prairie, Minnesota, whose name was undisclosed, has reportedly parted with $9.2 million after falling prey in a typical cryptocurrency romance fraud. </span></p>
+<p><span data-preserver-spaces="true">The local police said it has never investigated a crypto-related scam where individuals have lost such a substantial sum.</span></p>
+<h2><span data-preserver-spaces="true">The Multi-Million Scheme</span></h2>
+<p><span data-preserver-spaces="true">As </span><a class="editor-rtfLink" href="https://www.startribune.com/in-unprecedented-minnesota-fraud-case-crypto-scheme-bilks-eden-prairie-couple-out-of-9-million/600294214/?refresh=true" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">reported</span></a><span data-preserver-spaces="true"> by Star Tribune, the man started chatting with a mysterious woman on LinkedIn who urged him to invest in a dubious cryptocurrency project called &#8220;Coinrule-web3.&#8221; She lured him that the investment would make him rich in a short period of time, whereas the generated funds could help the man abandon his wife and run off with his new &#8220;lover.&#8221; </span></p>
+<p><span data-preserver-spaces="true">Blinded by her promises, he ended up distributing $9.2 million between December 2022 and June 2023 via 21 transactions. The man was encouraged by the high return on his investment which he observed on the suspicious platform. However, he was requested to pay millions of dollars upon withdrawing his funds.</span></p>
+<p><span data-preserver-spaces="true">Despite being kept in the dark, it was the man&#8217;s wife who assumed that there might be something wrong with the scheme. She informed the local police in mid-June that her husband had been liquidating their investment accounts for the past half a year. He also called &#8220;in panic,&#8221; urging her to withdraw all their savings to pay the fee so he could cash in his crypto funds. </span></p>
+<p><span data-preserver-spaces="true">Law enforcement agents launched an immediate investigation and found out that &#8220;Coinrule-web3&#8221; has been tied to multiple romance scams. They also determined that one of the banks that obtained some of the deposits was connected to previous money laundering cases. </span></p>
+<p><span data-preserver-spaces="true">Eden Prairie police disclosed they had investigated four such frauds so far this year. However, none of them could be compared to the most recent case.</span></p>
+<blockquote><p><span data-preserver-spaces="true">&#8220;No one in the office has heard of a crypto fraud case as big. In fact, their eyes popped when I told them the amount,&#8221; John Stiles &#8211; spokesman for Minnesota Attorney General Keith Ellison, said. </span></p></blockquote>
+<p><span data-preserver-spaces="true">The inspectors also discovered that the mysterious woman embezzled the amount and transferred it into encrypted crypto wallets that no one besides the scammer could access.</span></p>
+<p><span data-preserver-spaces="true">The police officers have not revealed whether they have a suspect behind the crime or whether they will proceed with any arrests. </span></p>
+<h2><span data-preserver-spaces="true">Crypto Romance Scams Have Become Highly Popular</span></h2>
+<p><span data-preserver-spaces="true">The aforementioned fraud is hardly the only example of a cryptocurrency romance fraud where people fall in love with an unknown individual who later drains their savings via a scheme involving digital assets. </span></p>
+<p><span data-preserver-spaces="true">As </span><em><span data-preserver-spaces="true">CryptoPotato</span></em><span data-preserver-spaces="true"> </span><a class="editor-rtfLink" href="https://cryptopotato.com/romance-crypto-scams-on-the-rise-accounted-for-185m-in-losses-for-americans/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">reported</span></a><span data-preserver-spaces="true">, $185 million in losses for American victims parted with $185 million between January 2021 and March 2022 due to scams of this type. </span></p>
+<p><span data-preserver-spaces="true">It is worth mentioning that such fraudsters are active not only in the USA. A British man </span><a class="editor-rtfLink" href="https://cryptopotato.com/love-hurts-british-man-loses-200k-in-a-bitcoin-romance-scam-report/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">lost</span></a><span data-preserver-spaces="true"> $200,000 worth of bitcoin at the beginning of 2022, whereas an elderly resident of Nottinghamshire </span><a class="editor-rtfLink" href="https://cryptopotato.com/how-this-woman-lost-over-200k-in-a-crypto-romance-scam/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">transferred</span></a><span data-preserver-spaces="true"> an even higher amount to a wrongdoer who introduced himself as a US Army surgeon.</span></p>
+<p>The post <a href="https://cryptopotato.com/love-hurts-minnesota-man-loses-over-9-million-in-a-crypto-romance-scam-report/" rel="nofollow">Love Hurts: Minnesota Man Loses Over $9 Million in a Crypto Romance Scam: Report</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>AI Investments Could Soar to $200 Billion by 2025 According to Goldman Sachs</title>
+		<link>https://cryptopotato.com/ai-investments-could-soar-to-200-billion-by-2025-according-to-goldman-sachs/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 17:05:18 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Goldman Sachs]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264544</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/goldman_ai_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/goldman_ai_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA["AI-related investment could peak as high as 2.5 to 4% of GDP in the US and 1.5 to 2.5% of GDP in other major AI leaders," the experts suggested.]]></description>
+            																<content:encoded><![CDATA[<p>According to Goldman Sachs&#8217; economists Joseph Briggs and Devesh Kodnani, investments related to Artificial Intelligence (AI) could climb to the astonishing $200 billion by 2025.</p>
+<p>They also argued that the United States of America is well-positioned to become the global center of that technology.</p>
+<h2>AI Could Impact the Economy</h2>
+<p>Goldman Sachs Research, conducted by Briggs and Kodnani, <a href="https://www.goldmansachs.com/intelligence/pages/ai-investment-forecast-to-approach-200-billion-globally-by-2025.html" data-wpel-link="external" target="_blank">estimated</a> that Artificial intelligence has &#8220;enormous economic potential&#8221; and could potentially aid global labor productivity. The economists suggested that a large-scale transformation could happen once businesses invest in physical, digital, and human capital to implement new technologies and reshape their work processes.</p>
+<blockquote><p>&#8220;Those investments, which could amount to around $200 billion globally by 2025, will probably happen before adoption and efficiency gains start driving major gains in productivity,&#8221; the analysis reads.</p></blockquote>
+<p>Briggs and Kodnani think AI-focused investments could account for up to 4% of the US GDP in the future and up to 2.5% of the GDP of other nations. In their view, the world&#8217;s largest economy has the best chance to emerge as a global hub for such technology and could comprise around 50% of the total investments. China, on the other hand, could become the main rival in the field.</p>
+<p>The research also determined that market interest in Artificial Intelligence has rapidly increased over the past several months. Approximately every sixth company in the Russell 3000 list has mentioned AI in its earning calls lately. In comparison, just 1% of the firms did so in 2016.</p>
+<figure id="attachment_264550" aria-describedby="caption-attachment-264550" style="width: 641px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Goldman.png" data-wpel-link="internal"><img class="wp-image-264550" src="https://cryptopotato.com/wp-content/uploads/2023/08/Goldman.png" alt="Market Interest in AI" width="641" height="400" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Goldman.png 1026w, https://cryptopotato.com/wp-content/uploads/2023/08/Goldman-300x187.png 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Goldman-1024x639.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/Goldman-768x479.png 768w, https://cryptopotato.com/wp-content/uploads/2023/08/Goldman-50x31.png 50w" sizes="(max-width: 641px) 100vw, 641px" /></a><figcaption id="caption-attachment-264550" class="wp-caption-text">Market Interest in AI, Source: Goldman Sachs</figcaption></figure>
+<p>A survey conducted among CEOs of Fortune 500 organizations (shared by Goldman Sachs) revealed that most bosses don&#8217;t think AI will impact their businesses or lower their labor needs in the next year. Nonetheless, the estimations are much different when observing a five-year period, with over 60% of executives expecting headcount amendments due to the technology&#8217;s advancement.</p>
+<h2>Some of the Giants Dived in</h2>
+<p>Artificial Intelligence has already grabbed the attention of some of the biggest corporations, such as Amazon Web Services (AWS) – the cloud unit of the e-commerce giant. Its CEO Adam Selipsky recently <a href="https://cryptopotato.com/amazon-doubles-down-on-ai-by-investing-100-million/" data-wpel-link="internal">said</a> that the entity will distribute $100 million to design a special &#8220;program&#8221; that could help businesses employ generative AI.</p>
+<p>Microsoft and Google are other behemoths who dipped their toes into the field. The former <a href="https://www.bloomberg.com/news/articles/2023-01-23/microsoft-makes-multibillion-dollar-investment-in-openai" data-wpel-link="external" target="_blank">invested</a> $10 billion into OpenAI, while the latter <a href="https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c" data-wpel-link="external" target="_blank">put</a> $300 million into Anthropic.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://cryptopotato.com/ai-investments-could-soar-to-200-billion-by-2025-according-to-goldman-sachs/" rel="nofollow">AI Investments Could Soar to $200 Billion by 2025 According to Goldman Sachs</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Bizarre FTX 2.0 Exchange Reboot Plans Are Unreal (Opinion)</title>
+		<link>https://cryptopotato.com/bizarre-ftx-2-0-exchange-reboot-plans-are-unreal-opinion/</link>
+		
+		<dc:creator><![CDATA[Wesley Messamore]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 16:15:26 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264548</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/11/FTX_End.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/11/FTX_End.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[A coalition of FTX international creditors / customers are behind a push by FTX's CEO to revive the non-US FTX exchange. It's a pretty bizarre idea given how damaged the brand is.]]></description>
+            																<content:encoded><![CDATA[<p>But it&#8217;s also understandable that FTX creditors are looking for a less stinky exit. The FTX 2.0 reboot proposal is in the reorganization plan <a href="https://cryptopotato.com/ftx-reboot-proposal-presented-as-part-of-reorganization-efforts-ftt-jumped-10-overnight/" data-wpel-link="internal">filed Monday</a>, July 31.</p>
+<h2>FTX 2.0 Exchange Plans Have High Hopes</h2>
+<p>News of the filing caused FTT tokens to spike from $1.34 to 1.55. But soon after, they settled even lower than before. Anyone holding FTT tokens and scanning like a hawk for the opportunity had a brief window to sell with some cushion.</p>
+<p>As it turns out, the idea has several downsides. To begin with, it would be like bringing back Enron, or the Exxon Valdez, or Lehman Brothers.</p>
+<p>What is the point of that instead of starting from scratch like the Kraken CEO suggested?</p>
+<blockquote><p>&#8220;FTX 2.0 would be worse than starting from scratch. No team, no tech, no licenses, no banking, tarnished brand.&#8221; -Kraken CEO Jesse Powell, <a href="https://twitter.com/jespow/status/1686610969454342144" data-wpel-link="external" target="_blank">Aug 2</a></p></blockquote>
+<p>Furthermore, it&#8217;s an overly-complicated scheme for crypto investors.</p>
+<h2>What Investor Would Buy FTT vs. BTC and ETH?</h2>
+<p>They&#8217;re just going to sell FTT tokens to newbs who have never heard of FTX or SBF. Then, they&#8217;ll use their money to buy bitcoin and ether. Meanwhile, they&#8217;ll raise funds to pay the bills during the bear market.</p>
+<p>Then, as crypto rallies over the long-term cyclical growth channel, they&#8217;ll buy back or burn just enough FTT tokens to keep it pumping along while keeping any extra profits from their BTC and ETH.</p>
+<p>A revived FTX might offer yield-bearing accounts instead of focusing on the tokens. But the scheme would be the same. They would pay yields out with VC funding during the bear market, then BTC and ETH gains during the bull run, and keep what&#8217;s left as profits.</p>
+<p>This is exactly what SBF did and mismanaged, letting it fall into insolvency. Why would anyone other than the least educated, most vulnerable new crypto retail investor even bother using FTX 2.0 as a middleman custodian for their <a href="https://cryptopotato.com/bitcoin-price-analysis/" data-wpel-link="internal">BTC</a> and <a href="https://cryptopotato.com/ethereum-price-analysis/" data-wpel-link="internal">ETH</a>?</p>
+<p>The post <a href="https://cryptopotato.com/bizarre-ftx-2-0-exchange-reboot-plans-are-unreal-opinion/" rel="nofollow">Bizarre FTX 2.0 Exchange Reboot Plans Are Unreal (Opinion)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Coinbase to Judge: Crypto is Baseball Cards, not Stocks</title>
+		<link>https://cryptopotato.com/coinbase-to-judge-crypto-is-baseball-cards-not-stocks/</link>
+		
+		<dc:creator><![CDATA[Wesley Messamore]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 14:15:25 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264620</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrencies_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrencies_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Coinbase found a pretty based way to explain crypto to U.S. Courts for the SEC: Instead of thinking of cryptocurrencies as stocks, think of them like baseball cards.]]></description>
+            																<content:encoded><![CDATA[<p>Lawyers for Coinbase Global <a href="https://cryptopotato.com/xrp-to-the-rescue-coinbase-cites-ripple-ruling-seeks-to-end-sec-lawsuit/" data-wpel-link="internal">asked a</a> U.S. judge Friday to dismiss a suit by the Securities and Exchange Commission. They brought the arguments to back up their request.</p>
+<h2>Coinbase lawyers ask judge to dismiss SEC lawsuit</h2>
+<p>The SEC lawsuit filed June 6, alleges the crypto exchange is an unregistered securities broker and exchange. In <a href="https://assets.ctfassets.net/c5bd0wqjc7v0/7eaTxSOvCLrGR2frvCqS3Q/b98f952657b7bc821b218d1f601b9161/CoinbasevSEC12_c_Motion.pdf" data-wpel-link="external" target="_blank">the motion</a> to dismiss the suit, Coinbase says:</p>
+<blockquote><p>&#8220;The SEC misreads Howey in asserting that a &#8216;scheme&#8217; without a contractual undertaking will suffice.&#8221;</p></blockquote>
+<p>Moreover:</p>
+<blockquote><p>&#8220;Recent crypto cases do not support the SEC’s efforts to use &#8216;scheme&#8217; as an escape hatch from statutory text.&#8221;</p></blockquote>
+<p>And furthermore:</p>
+<blockquote><p>&#8220;The SEC’s effort to portray a simple asset sale as a security is an unprecedented stretch.&#8221;</p></blockquote>
+<p>Then, the motion goes on to absolutely pulverize the SEC&#8217;s allegations with a simple analogy to baseball cards.</p>
+<h2>Why crypto is like baseball cards, not stocks</h2>
+<p>To clearly illustrate what they mean, Coinbase&#8217;s lawyers make the following devastating critique of the Gensler SEC&#8217;s view of cryptocurrencies:</p>
+<blockquote><p>&#8220;So for example: one can invest in a baseball or other trading card company, through an instrument that imposes obligations on the company, and that will be a security. Or one can buy baseball cards on the open market, hoping they appreciate in value, and one will have bought a commodity. That remains true even if the company makes representations about plans to create a premier card trading platform, to drive up the value of the cards it sells. Those representations can’t turn baseball cards into securities. Baseball cards are not &#8216;shares in the [baseball card] enterprise.'&#8221;</p></blockquote>
+<p>The attorneys for Coinbase continued later on in the motion to delineate crypto exchanges from the stock market:</p>
+<blockquote><p>&#8220;There is an asset sale. That’s it. It is akin to the sale of a parcel of land, the value of which may fluctuate after the sale. Or a condo in a new development. Or an American Girl Doll, or a Beanie Baby, or a baseball card.&#8221;</p></blockquote>
+<p>This is not a far-fetched case at all when the first major exchange to sell bitcoin <a href="https://www.wired.com/2014/03/bitcoin-exchange/" data-wpel-link="external" target="_blank">was Mt. Gox</a> (an acronym for Magic: The Gathering Exchange, yes, the collectible card game).</p>
+<p>Coinbase&#8217;s argument here isn&#8217;t any shoe-horned in theorizing. It has a real basis in the historical development of the market for digital assets and tokens.</p>
+<p>The post <a href="https://cryptopotato.com/coinbase-to-judge-crypto-is-baseball-cards-not-stocks/" rel="nofollow">Coinbase to Judge: Crypto is Baseball Cards, not Stocks</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>What&#8217;s the Cost to Mine 1 BTC for Top Bitcoin Miners? Bernstein Clarifies</title>
+		<link>https://cryptopotato.com/whats-the-cost-to-mine-1-btc-for-top-bitcoin-miners-bernstein-clarifies/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 11:15:35 +0000</pubDate>
 				<category><![CDATA[AA News]]></category>
 		<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
@@ -108,90 +237,80 @@
 		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[social]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Joe Biden]]></category>
-		<category><![CDATA[United States]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=263918</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/bitcoin_us_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/bitcoin_us_cover.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Bitcoin Halving]]></category>
+		<category><![CDATA[Bitcoin Mining]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264459</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_Mining.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_Mining.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Robert Kennedy, Ron DeSantis, and Francis Suarez are some of the crypto supporters that could become America's next President.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The approaching presidential vote in the United States in 2024 promises to be intriguing and contested as more and more well-known candidates announce their participation in the election.</span></p>
-<p>Both the Democratic and the Republican parties have amassed serious figures who put the economic welfare of Americans, the improvement of the domestic health sector, the US immigration policies, and other aspects at the center of their campaigns.</p>
-<p><span data-preserver-spaces="true">Some of the candidates have also touched upon cryptocurrencies, promising to let the industry thrive should they become America&#8217;s next political leaders. In the following lines, we will take a closer look at those who have declared their support for the asset class and those who are against it.</span></p>
-<h2><span data-preserver-spaces="true">The Pro-Crypto Team of the Dems</span></h2>
-<p><span data-preserver-spaces="true">The Democrats have an outspoken cryptocurrency advocate in the face of Robert F. Kennedy. The nephew of former President John F. Kennedy, who recently said that Bitcoin captured his attention at the beginning of 2022, vowed to implement several pro-BTC laws should he win next year&#8217;s elections. </span></p>
-<p><span data-preserver-spaces="true">For one, he </span><a class="editor-rtfLink" href="https://cryptopotato.com/presidential-candidate-robert-f-kennedy-pledges-inviolable-right-to-hold-and-use-bitcoin/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">promised</span></a><span data-preserver-spaces="true"> to protect the rights of Americans to hold and use the primary digital asset. He also vowed to introduce legislation that supports the advancement of Bitcoin and enables people to control their passwords, wallets, and nodes. He added that his eventual administration will </span><a class="editor-rtfLink" href="https://cryptopotato.com/robert-f-kennedy-to-enforce-pro-bitcoin-laws-should-he-become-president/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">apply</span></a><span data-preserver-spaces="true"> only necessary control to the sector to prevent money laundering.</span></p>
-<p><span data-preserver-spaces="true">One of Kennedy&#8217;s most groundbreaking promises (who has personally invested some of his wealth in BTC) is to </span><a class="editor-rtfLink" href="https://cryptopotato.com/presidential-candidate-robert-f-kennedy-to-back-the-us-dollar-with-bitcoin-if-elected/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">back</span></a><span data-preserver-spaces="true"> the US dollar with &#8220;real finite assets,&#8221; including gold, silver, platinum, and bitcoin. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;My plan would be to start very, very small: perhaps 1% of issued T-bills would be backed by hard currency: by gold, silver, platinum, or bitcoin, and then depending on the outcome, we would increase that annually,&#8221; the candidate explained.</span></p></blockquote>
-<p><span data-preserver-spaces="true">The American author and speaker &#8211; Marianne Williamson &#8211; is also a nominee running for President as part of the Democratic party. Unlike Kennedy, though, she has not been that vocal regarding cryptocurrencies. However, she raised eyebrows during the infamous strike of Canadian truckers last year when the local authorities froze accounts that facilitated crypto donations to the protestors.</span></p>
-<p><span data-preserver-spaces="true">&#8220;Canada, are you okay&#8230;?&#8221; she </span><a class="editor-rtfLink" href="https://twitter.com/marwilliamson/status/1494531491904335874?lang=bg" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">questioned</span></a><span data-preserver-spaces="true"> at the time.</span></p>
-<h2><span data-preserver-spaces="true">More Examples Among the Republicans</span></h2>
-<p><span data-preserver-spaces="true">The biggest crypto fans within the other big party in the United States include Ron DeSantis (Florida&#8217;s Governor) and Francis Suarez (Miami&#8217;s mayor).</span></p>
-<p><span data-preserver-spaces="true">The former </span><a class="editor-rtfLink" href="https://cryptopotato.com/us-presidential-candidate-ron-desantis-to-end-bidens-war-on-bitcoin-if-elected/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">pledged</span></a><span data-preserver-spaces="true"> that one of his main duties as President (should he get elected) will be to end the war on Bitcoin waged by America&#8217;s current government. He also opposed the possible launch of a central bank digital currency (CBDC), asserting that he would throw that product into the &#8220;trash can&#8221; immediately after becoming USA&#8217;s next political leader. </span></p>
-<p><span data-preserver-spaces="true">Suarez appears to be an even bigger supporter of BTC than Florida&#8217;s Governor. He introduced multiple initiatives surrounding the primary digital asset in Miami and </span><a class="editor-rtfLink" href="https://cryptopotato.com/miamis-mayor-to-become-the-first-us-politician-to-take-his-salary-in-bitcoin/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">became</span></a><span data-preserver-spaces="true"> the first American politician to receive his salary in bitcoin instead of fiat. However, he has not yet given any crypto promises should he emerge victorious next year.</span></p>
-<p><span data-preserver-spaces="true">One interesting fact connected to him is that his campaign was recently stimulated with $500,000 by a mysterious donor. </span><a class="editor-rtfLink" href="https://www.miamiherald.com/news/politics-government/article277836578.html" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">According</span></a><span data-preserver-spaces="true"> to Miami Herald, that person was Ivan Soto-Wrigth &#8211; CEO of the crypto platform MoonPay. The Campaign Legal Center filed a complaint, insisting that the contribution violated federal laws since it was initially masked via a third party. </span></p>
-<p><span data-preserver-spaces="true">The American entrepreneur Vivek Ramaswamy is also a candidate among the Republicans who is a BTC fan. However, he </span><a class="editor-rtfLink" href="https://twitter.com/VivekGRamaswamy/status/1686176232285589505?s=20" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">opposed</span></a><span data-preserver-spaces="true"> Kennedy&#8217;s recent plan to back the greenback with Bitcoin, arguing that precious metals would do a better job at the moment.</span></p>
-<h2><span data-preserver-spaces="true">Trump Leads the Anti-Crypto Club</span></h2>
-<p><span data-preserver-spaces="true">Speaking of presidential candidates who have a hostile stance on the cryptocurrency sector, one can not miss Donald Trump. The billionaire who served as America&#8217;s 45th President has </span><a class="editor-rtfLink" href="https://cryptopotato.com/donald-trump-says-crypto-is-a-potential-disaster-waiting-to-happen/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">opined</span></a><span data-preserver-spaces="true"> over the years that the asset class is &#8220;potentially a disaster waiting to happen&#8221; and could hurt the US dollar. He also hinted that Bitcoin might be a scam, urging people to focus on the greenback instead:</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The currency of this world should be the dollar. And I don&#8217;t think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high. It takes the edge off of the dollar and the importance of the dollar.&#8221;</span></p></blockquote>
-<p><span data-preserver-spaces="true">On another occasion, the business magnate </span><a class="editor-rtfLink" href="https://cryptopotato.com/former-potus-donald-trump-says-crypto-is-dangerous-but-praises-melanias-nft-project/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">raised concerns</span></a><span data-preserver-spaces="true"> that the rapid expansion of the cryptocurrency industry could be &#8220;a very dangerous thing.&#8221; </span></p>
-<p><span data-preserver-spaces="true">Trump may have criticized Bitcoin and the altcoins, but his wife, Melania Trump, hopped on the bandwagon by </span><a class="editor-rtfLink" href="https://cryptopotato.com/melania-trump-launches-an-nft-and-blockchain-venture-based-on-solana/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">releasing</span></a><span data-preserver-spaces="true"> an NFT platform on the Solana blockchain.</span></p>
-<p><span data-preserver-spaces="true">The former President followed his spouse&#8217;s example and </span><a class="editor-rtfLink" href="https://cryptopotato.com/donald-trump-announces-personal-nft-collection/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">launched</span></a><span data-preserver-spaces="true"> a digital collection depicting himself in various outfits, such as wearing a Superman cloak, holding a rifle, being dressed as a pilot, and others. It is worth mentioning that the Donald Trump Digital Trading Card collection </span><a class="editor-rtfLink" href="https://cryptopotato.com/donald-trump-nft-sales-on-the-rise-following-his-arrest/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">saw</span></a><span data-preserver-spaces="true"> an increased interest in the hours after his arrest in April this year. </span></p>
-<p><span data-preserver-spaces="true">While the current President of the United States &#8211; Joe Biden &#8211; has not been as radical as his rival, Trump, he could also find a spot among the crypto naysayers. He </span><a class="editor-rtfLink" href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">included</span></a><span data-preserver-spaces="true"> the asset class in his economic report earlier this year, claiming that digital currencies are &#8220;mostly speculative investment vehicles&#8221; which do not perform all the functions of money.</span></p>
-<p><span data-preserver-spaces="true">Biden&#8217;s administration has also suggested that Bitcoin mining harms the environment and brings no substantial economic benefits to the country. As such, it </span><a class="editor-rtfLink" href="https://cryptopotato.com/biden-administration-pushes-congress-to-pass-30-tax-on-bitcoin-mining/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">pushed</span></a><span data-preserver-spaces="true"> Congress to pass a 30% climate change tax on cryptocurrency miners from the next fiscal year (starting from October 1).</span></p>
-<p>We are yet to see whether, on November 5, 2024, America will have a crypto supporter serving as its 47th President or the place will be taken by someone who will most likely not allow the local industry to flourish.</p>
-<p>The post <a href="https://cryptopotato.com/trump-kennedy-and-more-how-do-2024-presidential-candidates-look-at-crypto/" rel="nofollow">Trump, Kennedy, and More: How Do 2024 Presidential Candidates Look at Crypto?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Should the market experience favorable momentum due to Bitcoin ETF approvals and increased engagement from institutional players, miners would attain sufficient "margin room" for the 2024 halving, Bernstein outlined. ]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin miners have had a rocky start in 2023 after being battered by a severe market downturn the previous year. But as prices recovered over the last several months, they have been at significant capacity, according to Bernstein.</p>
+<p>The brokerage firm&#8217;s latest report weighs in on how large miners are poised to reap substantial benefits from such a growing trend.</p>
+<h2>Where do Miners Stand Ahead of Bitcoin Halving?</h2>
+<p>The report suggests that the 16 largest publicly listed mining firms collectively contributed to 16% of the overall mined BTC. The collective mining capacity of the companies was found to be at 72 exahashes per second (EH/s) and is expected to amplify the capacity by 182% within the upcoming 2-3 years.</p>
+<p>According to Bernstein analyst Gautam Chhugani, the larger miners with low cost of production and low debt are poised to be &#8220;the big beneficiaries of the expansion, with greater capacity,&#8221; to be resilient in the event of high volatility and cost surges resulting from the upcoming Bitcoin halving that is slated for April 2024.</p>
+<p>With Bitcoin currently hovering near $29,000, 15 of the aforementioned Bitcoin miners have production costs below $15,000 per BTC, according to Bernstein&#8217;s estimation.</p>
+<p>The analyst leading the <a href="https://www.bernstein.com/home.html" target="_blank" rel="noopener" data-wpel-link="external">report</a> stated,</p>
+<blockquote><p>&#8220;With the upcoming halving, that would double the cost of production, and would push a few miners to break even, assuming no price increase from here.&#8221;</p></blockquote>
+<h2>Approval of Bitcoin ETFs Could be a Silver Lining</h2>
+<p>On the bright side, the approval of the Bitcoin exchange-traded fund (ETF) could come as a relief for miners. Bernstein&#8217;s report argued that the market could witness a &#8220;positive momentum&#8221; from the subsequent increased institutional participation in case the United States Securities and Exchange Commission (SEC) deviates from its rigid stance.</p>
+<p>In such a case, miners would enjoy enough &#8220;margin room&#8221; for the 2024 halving event since the &#8220;lower the cost of production, better the miner positioning for the<a href="https://cryptopotato.com/breakdown-of-btcs-price-performance-after-previous-halvings-will-history-repeat/" target="_blank" rel="noopener" data-wpel-link="internal"> bitcoin halving</a> impact.&#8221;</p>
+<p>It is also important to note that three of the aforementioned miners have a debt-to-equity ratio of over 1, which reduces their ability to hold the line against depressed Bitcoin prices. Four prominent Bitcoin mining companies &#8211; Riot (RIOT), Marathon Digital (MARA), Hut 8 (HUT), and Hive Digital (HIVE) &#8211; retain the crypto in their financial portfolio. This strategic choice empowers them to wait for more favorable prices before engaging in sales. Such a move ultimately leads to amplified realized profits from the BTC they have extracted, according to the report.</p>
+<p>The post <a href="https://cryptopotato.com/whats-the-cost-to-mine-1-btc-for-top-bitcoin-miners-bernstein-clarifies/" rel="nofollow">What&#8217;s the Cost to Mine 1 BTC for Top Bitcoin Miners? Bernstein Clarifies</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Former Alibaba Exec Foresees NFT Ticketing Benefiting More than Scalpers</title>
-		<link>https://cryptopotato.com/former-alibaba-exec-foresees-nft-ticketing-benefiting-more-than-scalpers/</link>
+		<title>What&#8217;s the Cheapest Day of the Week to Buy Bitcoin? We Asked Google Bard</title>
+		<link>https://cryptopotato.com/whats-the-cheapest-day-of-the-week-to-buy-bitcoin-we-asked-google-bard/</link>
 		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Sat, 05 Aug 2023 11:45:44 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
+		<dc:creator><![CDATA[Wesley Messamore]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 10:00:31 +0000</pubDate>
+				<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
 		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[featured1]]></category>
 		<category><![CDATA[social]]></category>
-		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=263391</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/NFT_Ticketing.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/NFT_Ticketing.jpg" length="840" type="image/jpg"/>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Bitcoin (BTC) Price]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264605</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/07/bitcoin_binary_cover-1.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Former Alibaba executive Toby Rush explains why NFT tickets have an edge over the traditional system.]]></description>
-            																<content:encoded><![CDATA[<p>NFT sales have had a rocky start in 2023 but the underlying technology still holds plenty of utility. Ticketing is an interesting yet underdeveloped facet of the NFT space. It stands out as a promising frontier for NFTs in the ever-evolving world of digital advancements.</p>
-<p>As a noteworthy application of NFTs, NFT tickets play a significant role in signifying ownership and facilitating access to exclusive experiences and events. These digital tickets serve as tangible proofs of entrance, covering a wide spectrum of events, including theme park attractions, sporting events, and live concerts.</p>
-<p>By providing verifiable proof of ownership and authenticity, NFT tickets offer the potential to revolutionize digital authentication and enhance the user experience.</p>
-<h2>NFT Tickets vs Traditional Tickets</h2>
-<p>The rise of NFTs and their applications in ticketing systems has sparked interest and conversations across various industries and stakeholders.</p>
-<p>According to former Alibaba executive Toby Rush, brands and events alike have adopted NFTs into their ticketing processes, reaping rewarding results for both customers and organizations over the past couple of years. The trend is catching fire, captivating a diverse range of stakeholders in what is being touted as an innovative and mutually beneficial landscape.</p>
-<p>While speaking with <em>CryptoPotato</em>, Rush said the traditional ticketing industry is plagued by several problems for decades, from scalpers ripping off honest fans out of thousands of dollars for Super Bowl tickets to scammers selling fraudulent tickets at the recent 2023 NBA finals. The number of physical ticket fraud cases, too, is growing at an alarming rate. Rush believes NFT ticketing can address this.</p>
-<blockquote><p>&#8220;Since NFTs are verifiably unique and their veracity can be easily confirmed on-chain, counterfeiting them is simply impossible in the traditional sense. As for scalping, while profit-seekers can sell NFT tickets on secondary markets at inflated prices, these tokens can also be programmed to incur fees or royalties.</p>
-<p>This means organizers can at least get a cut of every secondary sale, unlike traditional ticketing, where scalpers are the only ones to profit from resales.&#8221;</p></blockquote>
-<h2>NFT Tickets Not Designed as Speculative Asset</h2>
-<p>NFTs are volatile. There&#8217;s always a possibility of a drastic fall in an NFT ticket’s value just before the event. But Rush explains that <span style="font-weight: 400;">NFT-based tickets are not designed to be a speculative asset and are </span>not dictated by the market but by the event organizers themselves.</p>
-<blockquote><p>&#8220;As such, it is important to differentiate between NFTs as a speculative asset &#8211; where an NFT is connected to a speculatively valued piece of art, for example &#8211; and NFTs used as a digital representation of goods.</p>
-<p>When it comes to ticketing, NFTs can be used as proof of provenance for cryptographically verifiable access to certain events, so they do not inherently hold value unless tied to something valuable.&#8221;</p></blockquote>
-<p>The exec further added that the only way NFT tickets’ prices could fluctuate independently is on secondary markets, in which case a seller could set a price ceiling on one, for instance.</p>
-<p>This will let the smart contract prevent that NFT ticket from being resold for a higher amount, thereby discouraging ticket scalping and &#8220;ensuring that the most deserving fans can access affordable tickets, even if they are being resold on the secondary market.&#8221;</p>
-<h2>Addressing Bottlenecks and Steering Clear of Scams</h2>
-<p>NFT tickets are still an underdog but have their fair share of bottlenecks that need addressing. Limited accessibility is a major hindrance to their adoption due to their very technical nature. High gas fees associated with buying and selling are yet another factor. But both of these issues can be solved on the technical level, Rush said in a statement.</p>
-<p>The ex-Alibaba executive added that scams concerning NFT-based tickets are very few. But one such is to create similarly named &#8220;lookalike&#8221; tokens and try to sell them as the &#8220;real thing.&#8221;</p>
-<p>It&#8217;s still quite easy to avoid this type of fraud, Rush added, which can be done by simply verifying who issued the tokens in question. Smaller/suspicious marketplaces should also be avoided as an added security step. He also encouraged individuals to always purchase NFTs tickets directly from the issuer.</p>
-<p>Rush highlighted the need to exercise vigilance in their responsibility to facilitate secure user interactions within this nascent technology. Phishing scams, for one, have been exemplified in the NFT space. The exec added,</p>
-<blockquote><p>&#8220;Issuers can advise users to never click on suspicious links, attachments, or pop-ups and always verify URL domain names, email addresses, and social media handles to ensure authenticity.&#8221;</p></blockquote>
-<h2>No Reason for Regulatory Threat</h2>
-<p>The NFT market may have hit the summer slumber, but the post-pandemic shakeup that spurred an explosion has prompted regulators to point out an array of potential risks that still looms large, encompassing concerns over consumer fraud, money laundering, and the evasion of sanctions.</p>
-<p>Rush, who is currently serving as the CEO and co-founder of Redeem, believes there shouldn&#8217;t be a regulatory pushback.</p>
-<p>He explained that since NFT tickets &#8220;do not hold any intrinsic value by themselves but rather serve as proof of ownership for other physical commodities, such as access rights, they can’t be considered financial assets, so there is no reason for financial regulators to get involved or push against them.&#8221;</p>
-<p>The post <a href="https://cryptopotato.com/former-alibaba-exec-foresees-nft-ticketing-benefiting-more-than-scalpers/" rel="nofollow">Former Alibaba Exec Foresees NFT Ticketing Benefiting More than Scalpers</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[We asked Alphabet's chatbot, Google Bard, the best day of the week to buy Bitcoin. Then we checked the Google AI's answer against Yahoo Finance data to make sure Bard wasn't playing fool the journalist.]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin price has cautiously ratcheted upward since Jan. A rising trend channel from $16,600 to $30,000 almost doubled the spot price of BTC in H1.</p>
+<p>The price changed in three phases, with blistering rallies that happened in January, March, and June.</p>
+<p>Here&#8217;s what large language model chatbot Google Bard has to say about the best day of the week to buy cryptocurrencies like Bitcoin, Ethereum, and Ripple.</p>
+<h2>Cheapest Day of the Week to Buy Crypto?</h2>
+<p>There&#8217;s no telling for sure if markets will cool down for now or soar higher in the short term.</p>
+<p>Investors looking to accumulate crypto in regular small increments for the long term, however, might consider making Saturdays their go-to weekday for <em>stacking sats</em>.</p>
+<p>Buying a set amount of crypto or stocks on a weekly schedule is a classic investing strategy called <a href="https://cryptopotato.com/should-i-buy-bitcoin-now-is-it-now-a-good-price-for-btc/" data-wpel-link="internal">dollar cost averaging</a>.</p>
+<p>Google Bard says Saturdays are the second-best day of the week to buy crypto. But if you&#8217;re looking for the cheapest prices, the best day of all to buy crypto, according to Bard, is Sunday.</p>
+<h2>Here was Google Bard&#8217;s entire answer</h2>
+<p>Question: &#8220;Bard, what is the best day of the week to buy cryptocurrency?&#8221;</p>
+<blockquote><p><em>&#8220;According to historical market data, the best day of the week to buy cryptocurrency is Sunday. The second best day is Saturday. After that, prices rise with Friday being the most expensive day to buy cryptocurrency.</em></p>
+<p>Here are some of the reasons why Sunday is considered the best day to buy cryptocurrency:</p>
+<ul>
+<li>Trading volumes are typically lower on weekends, which can lead to lower prices.</li>
+<li>There is less news and volatility on weekends, which can also lead to lower prices.</li>
+<li>Some investors may be taking profits on Friday, which can drive prices down on Saturday and Sunday.</li>
+</ul>
+<p>Of course, there is no guarantee that the price of cryptocurrency will be lower on Sunday. The market is volatile and prices can go up or down at any time. However, if you are looking to buy cryptocurrency at a relatively low price, Sunday is a good day to start your search.&#8221;</p></blockquote>
+<p>Here&#8217;s a look at what the numbers say to back up Bard&#8217;s answer:</p>
+<h2>Psst: Bitcoin price goes on sale 1% Sundays</h2>
+<p>Bitcoin price averaged lower from Saturdays through Mondays over the last year of trading. An <a href="https://finance.yahoo.com/quote/BTC-USD/history/" data-wpel-link="external" target="_blank">analysis</a> of the historical daily price data suggests Fridays through Mondays are the best days to buy crypto.</p>
+<p>Tuesdays and Wednesdays are the best days to sell, the data suggest.</p>
+<p>The lowest average daily high price for any day of the week for Bitcoin from Aug 5, 2022 &#8211; Aug 3, 2023, was on Sundays. Over this time period, BTC&#8217;s average intraday high price on Sundays was $23,595. On Saturdays, it was $23,480. The highest average was on Wednesdays: $23,850.</p>
+<p>If an investor reaped the entire benefit of these figures, it would mean buying their BTC 1% cheaper each week.</p>
+<p>Not bad, Bard.</p>
+<p>The post <a href="https://cryptopotato.com/whats-the-cheapest-day-of-the-week-to-buy-bitcoin-we-asked-google-bard/" rel="nofollow">What&#8217;s the Cheapest Day of the Week to Buy Bitcoin? We Asked Google Bard</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>Shiba Inu (SHIB) Pumps Another 5% While Bitcoin Stagnates at $29K: Market Watch</title>
-		<link>https://cryptopotato.com/shiba-inu-shib-pumps-another-5-while-bitcoin-stagnates-at-29k-market-watch/</link>
+		<title>Bitcoin Squeezing at $29K as Shiba Inu (SHIB) Weekly Gains Top 12%: Market Watch</title>
+		<link>https://cryptopotato.com/bitcoin-squeezing-at-29k-as-shiba-inu-shib-weekly-gains-top-12-market-watch/</link>
 		
 		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
-		<pubDate>Sat, 05 Aug 2023 08:51:18 +0000</pubDate>
+		<pubDate>Sun, 06 Aug 2023 08:50:52 +0000</pubDate>
 				<category><![CDATA[BTCEUR]]></category>
 		<category><![CDATA[BTCGBP]]></category>
 		<category><![CDATA[BTCUSD]]></category>
@@ -199,188 +318,56 @@
 		<category><![CDATA[Crypto News]]></category>
 		<category><![CDATA[featured1]]></category>
 		<category><![CDATA[Market Updates]]></category>
-		<category><![CDATA[SHIBBTC]]></category>
-		<category><![CDATA[SHIBUSD]]></category>
 		<category><![CDATA[social]]></category>
-		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<category><![CDATA[Shiba Inu (SHIB)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264563</guid>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264631</guid>
 		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/shib_btc_mu_cover.jpg" medium="image"/>
 		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/shib_btc_mu_cover.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[Shiba Inu (SHIB) continues pumping while the rest of the market flatlines on the back of little to no volatily whatsoever. ]]></description>
-            																<content:encoded><![CDATA[<p>Another day &#8211; another failure for Bitcoin to break away from its current range around $29,000. The primary cryptocurrency&#8217;s volatility has fallen to historic lows and the rest of the market doesn&#8217;t seem too exciting either.</p>
-<p>But there&#8217;s one barking exception.</p>
-<h2>Bitcoin Stagnates at $29K</h2>
-<p>They say there&#8217;s never a dull moment in crypto, but if you&#8217;re mostly following the performance of large-cap coins throughout the past week, you can probably see that this can be a bit of an overstatement.</p>
-<p>Bitcoin&#8217;s price has completely flatlined throughout the last few days, and the past 24 hours have made absolutely no exception, as seen in the chart below.</p>
-<figure id="attachment_264564" aria-describedby="caption-attachment-264564" style="width: 1183px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57.png" data-wpel-link="internal"><img class="size-full wp-image-264564" src="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57.png" alt="BTCUSDT_2023-08-05_11-40-57" width="1183" height="485" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57.png 1183w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57-300x123.png 300w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57-1024x420.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57-768x315.png 768w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSDT_2023-08-05_11-40-57-50x20.png 50w" sizes="(max-width: 1183px) 100vw, 1183px" /></a><figcaption id="caption-attachment-264564" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<p>BTC&#8217;s price made an attempt to push above $29,300 but was quickly reminded that it&#8217;s not its place and retraced back to where it&#8217;s trading for the past week &#8211; the $29,000 level.</p>
-<p>The cryptocurrency has become less volatile than gold on a 5-day adjusted basis. That&#8217;s right &#8211; the risky and massively volatile Bitcoin that&#8217;s too unpredictable for traditional portfolios has become less volatile than the most traditional investment of them all.</p>
-<p>Of course, it&#8217;s worth noting that periods like the current one don&#8217;t usually last long and are a precursor to a major move. We just have to see if it will be to the upside or the downside.</p>
-<h2>SHIB Price Pumps Another 5%</h2>
-<p>The altcoin market has also remained largely flat through the day, with the majority of major cryptocurrencies being on the losing end, charting small declines below 1%. You can see that in the heatmap below.</p>
-<figure id="attachment_264565" aria-describedby="caption-attachment-264565" style="width: 1488px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231.jpg" data-wpel-link="internal"><img class="size-full wp-image-264565" src="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231.jpg" alt="cryptocurrency_heatmap_0508231" width="1488" height="778" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231.jpg 1488w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231-300x157.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231-1024x535.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231-768x402.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0508231-50x26.jpg 50w" sizes="(max-width: 1488px) 100vw, 1488px" /></a><figcaption id="caption-attachment-264565" class="wp-caption-text">Source: Quantify Crypto</figcaption></figure>
-<p>You can also see that one of these things is not like the others and is trading well above the established range. Shiba Inu (SHIB) keeps pumping and is up another 5% throughout the past 24 hours.</p>
-<p>The move is an extension of yesterday&#8217;s increase that came on the back of news from Binance. The world&#8217;s largest cryptocurrency exchange revealed that it will now support SHIB as collateral for loans.</p>
-<p>It&#8217;s interesting to see if this rally will continue or if SHIB will calm down and get in line with the rest of the market.</p>
-<p>The post <a href="https://cryptopotato.com/shiba-inu-shib-pumps-another-5-while-bitcoin-stagnates-at-29k-market-watch/" rel="nofollow">Shiba Inu (SHIB) Pumps Another 5% While Bitcoin Stagnates at $29K: Market Watch</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[Will Bitcoin's price escape this narrow range around $29K soon? The market's volatility is currenty non-existent. ]]></description>
+            																<content:encoded><![CDATA[<p>It&#8217;s the weekend, and, let&#8217;s be honest &#8211; nobody is expecting a lot of action. And while there are some weekends that defy this sentiment&#8230; this one is not among them.</p>
+<p>In fact, the vast majority of the major cryptocurrencies have failed to move, charting incredibly insignificant differences in their price compared to 24 hours ago. Let&#8217;s take a look.</p>
+<h2>Bitcoin Getting Squeezed at $29K</h2>
+<p>Bitcoin&#8217;s price has been tremendously calm throughout the past week, and it&#8217;s been trading around $29,000 for a while now. This is a very narrow range for a cryptocurrency that&#8217;s as volatile as BTC.</p>
+<p>But that volatility seems to have disappeared lately and on a 5-day weighted average, BTC has been less volatile compared to even gold.</p>
+<figure id="attachment_264632" aria-describedby="caption-attachment-264632" style="width: 1531px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231.jpg" data-wpel-link="internal"><img class="size-full wp-image-264632" src="https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231.jpg" alt="btc_price_chart_0608231" width="1531" height="860" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231.jpg 1531w, https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231-300x169.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231-1024x575.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231-768x431.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/btc_price_chart_0608231-50x28.jpg 50w" sizes="(max-width: 1531px) 100vw, 1531px" /></a><figcaption id="caption-attachment-264632" class="wp-caption-text">Source: Binance via TradingView</figcaption></figure>
+<p>As you can see in the above 1-hour chart, there&#8217;s literally nothing going on with Bitcoin&#8217;s price, which is completely stuck at the $29K level.</p>
+<p>However, it&#8217;s worth noting that these periods of calmness are not very typical for the cryptocurrency market and tend to be a precursor to a larger move.</p>
+<p>We just have to wait and see which direction BTC will take when it inevitably spikes.</p>
+<h2>Altcoins Also Flatline</h2>
+<p>It&#8217;s not just the Bitcoin price that&#8217;s experiencing a volume draught. It&#8217;s also the altcoin market.</p>
+<p>In fact, the total traded volume across the entire industry for the past 24 hours, according to CoinGecko, sits at $23 billion. The good news is that the market is trending upward today, albeit ever so slightly, as seen in the heatmap below.</p>
+<figure id="attachment_264633" aria-describedby="caption-attachment-264633" style="width: 1495px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231.jpg" data-wpel-link="internal"><img class="size-full wp-image-264633" src="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231.jpg" alt="cryptocurrency_heatmap_0608231" width="1495" height="773" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231.jpg 1495w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231-300x155.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231-1024x529.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231-768x397.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/cryptocurrency_heatmap_0608231-50x26.jpg 50w" sizes="(max-width: 1495px) 100vw, 1495px" /></a><figcaption id="caption-attachment-264633" class="wp-caption-text">Source: Quantify Crypto</figcaption></figure>
+<p>The most impressive thing is that Shiba Inu (SHIB) continues to chart gains of more than 5% and remains the absolute best performer from the major coins by means of total market cap.</p>
+<p>In fact, SHIB&#8217;s weekly gains now top 12%, which, amid a stagnating market like this, is worth noting.</p>
+<p>Elsewhere, FLEX Coin is the best-performer from the top 100 with 14% gains, followed by GALA with 8.7%, and ApeCoin (APE) by 8%.</p>
+<p>The post <a href="https://cryptopotato.com/bitcoin-squeezing-at-29k-as-shiba-inu-shib-weekly-gains-top-12-market-watch/" rel="nofollow">Bitcoin Squeezing at $29K as Shiba Inu (SHIB) Weekly Gains Top 12%: Market Watch</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 		<item>
-		<title>BlockFi&#8217;s Disclosure Statement Receives Conditional Approval By US Bankruptcy Court</title>
-		<link>https://cryptopotato.com/blockfis-disclosure-statement-receives-conditional-approval-by-us-bankruptcy-court/</link>
+		<title>Decentralized Hedge Fund VC Spectra Reports Strong Demand for Its Presale</title>
+		<link>https://cryptopotato.com/decentralized-hedge-fund-vc-spectra-reports-strong-demand-for-its-presale/</link>
 		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 23:45:07 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Alameda Research]]></category>
-		<category><![CDATA[BlockFi]]></category>
-		<category><![CDATA[FTX Exchange]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[Three Arrows Capital]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264230</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/BlockFi.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/BlockFi.jpg" length="840" type="image/jpg"/>
+		<dc:creator><![CDATA[Chainwire]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 08:30:13 +0000</pubDate>
+				<category><![CDATA[Press Release]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=264576</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/png_20230620_224536_0000_1024x603_1691150442Cs2WGZ4mMD.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/png_20230620_224536_0000_1024x603_1691150442Cs2WGZ4mMD.jpg" length="840" type="image/jpg"/>
 					
-			            <description><![CDATA[BlockFi said that the Official Committee of Unsecured Creditors have backed the proposal.]]></description>
-            																<content:encoded><![CDATA[<p>Bankrupt crypto lender, BlockFi revealed that the US Bankruptcy Court for the District of New Jersey has conditionally approved its disclosure statement.</p>
-<p>The development essentially demonstrated that the reorganization process of BlockFi continues to make gradual progress eight months after filing the voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code.</p>
-<ul>
-<li>In an official <a href="https://www.businesswire.com/news/home/20230802310688/en/BlockFi%E2%80%99s-Disclosure-Statement-Conditionally-Approved-by-Court" target="_blank" rel="noopener" data-wpel-link="external">statement</a> on August 2nd, Mark Renzi &#8211; BlockFi’s Chief Restructuring Officer, highlighted the lender&#8217;s aim to maximize recoveries for its creditors.</li>
-<li>Renzi added that the conditional approval of its Disclosure Statement moves BlockFi &#8220;one step closer to accomplishing that goal.&#8221;</li>
-</ul>
-<blockquote><p>&#8220;We are confident that our Plan provides the best path to expeditiously return crypto back to our clients and we strongly urge BlockFi’s clients to vote to accept it.&#8221;</p></blockquote>
-<ul>
-<li>If the bankruptcy plan is approved, BlockFi plans to focus on recovering funds from other defunct firms, including Alameda, FTX, 3AC, Emergent, Marex, and Core Scientific, in a bid to &#8220;maximize recoveries for clients and defending against claims by third parties, which threaten to massively dilute clients.&#8221;</li>
-<li>However, the proposed bankruptcy plans have met with strict <a href="https://cryptopotato.com/blockfis-bankruptcy-plans-faces-stiff-opposition-from-ftx/" target="_blank" rel="noopener" data-wpel-link="internal">opposition</a> from the disgraced crypto exchange FTX, fallen hedge fund Three Arrows Capital (3AC), and the Securities and Exchange Commission (SEC).</li>
-<li>The plan presents clients with the option for releases if they choose not to withdraw from a voluntary third-party release, which absolves them from any claims and causes of action that BlockFi may have against them. This release is applicable for most clients, with the exception of those who withdrew $250,000 or more from BlockFi Interest Accounts (BIA) or BlockFi Private Client (BPC) Accounts on or after November 2, 2022.</li>
-<li>The scheduled date for voting on the proposed reorganization is September 11.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/blockfis-disclosure-statement-receives-conditional-approval-by-us-bankruptcy-court/" rel="nofollow">BlockFi&#8217;s Disclosure Statement Receives Conditional Approval By US Bankruptcy Court</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Matter Labs Refutes Plagiarizing Code Amidst Ongoing Spat With Polygon</title>
-		<link>https://cryptopotato.com/matter-labs-refutes-plagiarizing-code-amidst-ongoing-spat-with-polygon/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 22:05:54 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Polygon (MATIC)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264402</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/matter_labs_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/matter_labs_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Matter Labs said that public accusations of a complete lack of attribution go against the ethos of Open Source movement.]]></description>
-            																<content:encoded><![CDATA[<p>zkSync creator and Matter Labs CEO Alex Gluchowski refuted allegations of plagiarizing code without appropriately crediting zero-knowledge scaling firm Polygon Zero. Gluchowski called the accusations &#8220;unfounded, misleading, and extremely disappointing&#8221; from a team the exec &#8220;highly respects.&#8221;</p>
-<p>The comments are in response to Polygon Zero&#8217;s lengthy blog post accusing the developers of Matter Labs of copy-pasting &#8220;a substantial amount of source code&#8221; from performance-critical components of the Plonky2 library.</p>
-<h2>Matter Labs&#8217; Feud With Polygon Zero</h2>
-<p>Polygon <a href="https://mirror.xyz/0x70DF15b0208eFCeFaA541Da9A0ED6C4A884554Fc/gNi8coqXjd1ybFsQBAG7QARUkPHZECu7ihIRkpiVx2Y" target="_blank" rel="noopener" data-wpel-link="external">claimed</a> that Matter Labs&#8217; recent release, Boojum, integrated certain code from Plonky2, a zero-knowledge technology created by Polygon. While the Plonky2 platform is open-source, Polygon raised concerns about Matter Labs&#8217; failure to include the code in Boojum without original copyrights or clear attribution to the original authors.</p>
-<p>In addition to the &#8220;directly copied code,&#8221; Polygon claimed that Boojum is extremely similar to Plonky2, highlighting the use of the same strategy of parallel repetition to foster soundness in a small field, similar custom gates to efficiently arithmetic recursive verification, as well as the same lookup argument developed by the scaling firm&#8217;s teammate Ulrich Haböck.</p>
-<blockquote><p>&#8220;To add insult to injury, the founder of Matter Labs claimed that Boojum is more than 10x faster than Plonky2. Wondering how this is possible, given that the performance-critical field arithmetic code is directly copied from Plonky2? You should be.&#8221;</p></blockquote>
-<p>Polygon further said that it is &#8220;extremely misleading&#8221; to claim that Boojum is 10x faster than Plonky2.</p>
-<h2>Response</h2>
-<p>Gluchowski <a href="https://twitter.com/gluk64/status/1687263207860166656" target="_blank" rel="noopener" data-wpel-link="external">maintained</a> that the Matter Labs&#8217; team gave credit to Polygon in the first line of the Boojum module and went on to elaborate that nearly 5% of the Boojum code draws inspiration from the Plonky2 codebase. He also emphasized that both Plonky2 and Boojum stem from the RedShift framework, an initiative pioneered by Matter Labs three years before the unveiling of the Plonky2 paper.</p>
-<blockquote><p>&#8220;We could have done it better. The community rightfully pointed out that there is a more standard approach to attributions, which we will wholeheartedly apply from now on.&#8221;</p></blockquote>
-<p>The Matter Labs asserted that if the Polygon Zero team wanted additional credit, they could have submitted a pull request which the former &#8220;would have happily accepted.&#8221;</p>
-<p>The post <a href="https://cryptopotato.com/matter-labs-refutes-plagiarizing-code-amidst-ongoing-spat-with-polygon/" rel="nofollow">Matter Labs Refutes Plagiarizing Code Amidst Ongoing Spat With Polygon</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Curve Finance Offers 10% Bug Bounty to Attackers Behind Vyper $50M+ Exploit</title>
-		<link>https://cryptopotato.com/curve-finance-offers-10-bug-bounty-to-attackers-behind-vyper-50m-exploit/</link>
-		
-		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 20:45:35 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Curve Finance]]></category>
-		<category><![CDATA[Hacking]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264400</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/08/Curve_Hack.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/08/Curve_Hack.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The trio has given the hackers until August 6 to return 90% of the funds, or the bounty would be offered to the public and given to anyone who would identify them.]]></description>
-            																<content:encoded><![CDATA[<p>Decentralized exchange Curve Finance has teamed up with Metronome and Alchemix to offer a 10% bug bounty to the attackers behind the recent exploit that saw more than $50 million siphoned off the platforms’ pools.</p>
-<p>According to an on-chain <a href="https://etherscan.io/tx/0xc45e47f6e7d3e74763032e2fb991fa9a003d8ed55c13c93c6a5368ff322d7742" data-wpel-link="external" target="_blank">message</a> on one hacker’s Ethereum address, the protocols are willing to cease the pursuit of the case if the attackers return 90% of the stolen funds, keeping 10% for themselves.</p>
-<h2>Curve, Metronome, and Alchemix Offer Hacker 10% Bounty</h2>
-<p>Recall that four Curve Finance pools were <a href="https://cryptopotato.com/curve-finance-hacker-returns-5-4-million-but-crv-dumps-15/" data-wpel-link="internal">exploited</a> on July 30. The attackers were able to access the pools using Ethereum Virtual Machine smart contract programming language Vyper through a malfunctioning re-entrancy lock.</p>
-<p>The exploit affected decentralized finance protocols like Metronome, Alchemix, and Ellipsis. While the total amount lost due to the hack remains unclear, the losses are estimated to be above $50 million.</p>
-<p>Curve, Metronome, and Alchemix have taken steps toward recovering the funds by reaching out to attackers on-chain, promising no risk of law enforcement issues if they comply with the offer. The trio has given the hackers until August 6 to return 90% of the funds, or the bounty would be offered to the public and given to anyone who would identify them.</p>
-<blockquote><p>“If you choose not to partake in the voluntary return and complete the process by August 6 at 0800 UTC, we will expand the bounty to the public, and offer the full 10% to the person who is able to identify you in a way that leads to your conviction in the courts. We will pursue you from all angles with the full extent of the law,” the protocols said.</p></blockquote>
-<h2>Roughly $5.4M Returned</h2>
-<p>The platforms proceeded to provide an email address – for the exploiters to contact them for negotiations as soon as possible. They noted that whoever claims to be the exploiter would need to verify their ownership of the addresses holding the stolen funds before any discussions can take place.</p>
-<p>Meanwhile, a white hat hacker named c0ffeebabe.eth already returned 2,879 ETH worth approximately $5.4 million to the protocol deployer address on July 31 after exploiting one of the exchange’s pools to prevent more losses.</p>
-<p>The post <a href="https://cryptopotato.com/curve-finance-offers-10-bug-bounty-to-attackers-behind-vyper-50m-exploit/" rel="nofollow">Curve Finance Offers 10% Bug Bounty to Attackers Behind Vyper $50M+ Exploit</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Ethereum ETF Incoming? Odds of ETH ETFs Skyrocket 75%</title>
-		<link>https://cryptopotato.com/ethereum-etf-incoming-odds-of-eth-etfs-skyrocket-75/</link>
-		
-		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 20:29:40 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Ethereum ETF]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264539</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/05/EthereumETF.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/05/EthereumETF.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[There are now more live Ethereum futures ETF applications than Bitcoin spot ETF ones.]]></description>
-            																<content:encoded><![CDATA[<p>While anticipation over a potential Bitcoin (BTC) spot ETF has gripped investors, an Ethereum (ETH) ETF approval may also be waiting in the wings.</p>
-<p>Bloomberg analysts are now assigning 75% odds of one such product being approved in the United States this year.</p>
-<h2>Ethereum ETF On The Horizon</h2>
-<p>As <a href="https://twitter.com/JSeyff/status/1687437656613924864" data-wpel-link="external" target="_blank">tweeted</a> by Bloomberg ETF analyst James Seyffart on Friday, the organization’s approval odds are the same as those it assigned for a Bitcoin futures ETF in early September 2021.</p>
-<p>The very first U.S.-based fund of the kind – the ProShares Bitcoin Strategy ETF (BITO) launched in late October of that year, pulling in $1 billion within two days of its launch.</p>
-<p>At the time, many companies were vying to list the product after Gary Gensler – Chairman of the Securities and Exchange Commission (SEC) – stated that he was confident in the investor protections that a futures ETF framework could provide.</p>
-<p>Today there are 13 Ethereum ETF applications knocking on the SEC’s door, from 8 different applicants including Bitwise, Proshares, and Grayscale. Based on the SEC’s deadlines, the first in line for approval or denial is Volatility Shares’ Ethereum Strategy ETF, by October 11.</p>
-<blockquote><p>“The SEC appears to be changing its posture towards crypto, based on reports of its back channel messaging to ETF issuers,” wrote the analysts. “We believe the SEC would have a hard time in court defending the denial of Ethereum futures ETFs after approving standard and leveraged Bitcoin futures ETFs. “</p></blockquote>
-<h2>Bitcoin Spot ETF Approval Odds</h2>
-<p>As of August 4, there are 9 active Bitcoin spot ETF applications pending review by the SEC, with the latest applicant being from CBOE on behalf of the Global X Bitcoin Trust.</p>
-<p>Like all other applications, CBOE’s latest filing selects <a href="https://cryptopotato.com/xrp-to-the-rescue-coinbase-cites-ripple-ruling-seeks-to-end-sec-lawsuit/" data-wpel-link="internal">Coinbase</a> as a surveillance-sharing partner for detecting market manipulation – a crucial issue for the SEC for which its denied every major spot ETF application so far.</p>
-<p>Shares for a Bitcoin spot ETF are backed by actual BTC held under custody by the trust and its partners. By contrast, futures ETFs are backed by Bitcoin futures contracts, which may not perfectly track the price of BTC at any particular time.</p>
-<p>Unlike competitors, Grayscale is vying to convert its Bitcoin trust into a spot ETF by battling the SEC in court. The company argues that the regulator’s approval of futures ETFs, but not spot ETFs, demonstrates “arbitrary and capricious” treatment of the latter.</p>
-<p>Recently, Bloomberg analysts <a href="https://cryptopotato.com/bloomberg-boosts-bitcoin-spot-etf-approval-odds-to-65-heres-why/" data-wpel-link="internal">raised</a> their odds of a Bitcoin spot ETF approval this year to 65%, which they expect will come on the back of a Grayscale court victory.</p>
-<p>The post <a href="https://cryptopotato.com/ethereum-etf-incoming-odds-of-eth-etfs-skyrocket-75/" rel="nofollow">Ethereum ETF Incoming? Odds of ETH ETFs Skyrocket 75%</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Recovery in Sight for ETH? 2 Things to Watch in the Short Term (Ethereum Price Analysis)</title>
-		<link>https://cryptopotato.com/recovery-in-sight-for-eth-2-things-to-watch-in-the-short-term-ethereum-price-analysis/</link>
-		
-		<dc:creator><![CDATA[CryptoVizArt]]></dc:creator>
-		<pubDate>Fri, 04 Aug 2023 15:38:44 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[ETH Analysis]]></category>
-		<category><![CDATA[ETHBTC]]></category>
-		<category><![CDATA[ETHUSD]]></category>
-		<category><![CDATA[Ethereum (ETH) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=264499</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-scaled.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-scaled.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum&#8217;s price has gradually declined over the past few weeks after being rejected from the psychological resistance level of $2,000 once more. However, there is a considerable chance to initiate a new bullish leg in the short term. Technical Analysis By: Edris The Daily Chart: On the daily timeframe, the price has recently demonstrated bearish [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Ethereum&#8217;s price has gradually declined over the past few weeks after being rejected from the psychological resistance level of $2,000 once more. However, there is a considerable chance to initiate a new bullish leg in the short term.</p>
-<h2>Technical Analysis</h2>
-<p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
-<h3>The Daily Chart:</h3>
-<p>On the daily timeframe, the price has recently demonstrated bearish price action. The 50-day moving average, located around the $1,900 mark, was broken to the downside after holding the mark for a few weeks.</p>
-<p>The 200-day moving average, trending around the $1,800 area, and the $1,750 support level are likely targets for the market to reach in the coming days. Yet, a rebound from these support elements seems likely, leading to another run toward the $2,000 mark and even higher.</p>
-<figure id="attachment_264503" aria-describedby="caption-attachment-264503" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-264503 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-scaled.jpg" alt="eth_price_chart_0408231" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-Daily-Aug-4-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-264503" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h3>The 4-Hour Chart:</h3>
-<p>Looking at the 4-hour chart, the price has failed to hold above the $1,930 level and is currently testing the $1,830 support zone. If this level holds, the market is likely to rally toward the $2,000 level once more, with a high likelihood of finally breaking through it.</p>
-<p>On the other hand, a breakdown of the $1,830 level would likely result in a further decline toward the $1,750 level in the coming days.</p>
-<figure id="attachment_264504" aria-describedby="caption-attachment-264504" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-264504 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-scaled.jpg" alt="eth_price_chart_0408232" width="2560" height="1464" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-300x172.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-1024x586.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-768x439.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-1536x879.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-2048x1171.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/08/ETHUSDT-4H-Aug-4-2023-50x29.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-264504" class="wp-caption-text">Source: TradingView</figcaption></figure>
-<h2>Sentiment Analysis</h2>
-<p><strong>By: <a href="https://twitter.com/TradingRage" data-wpel-link="external" target="_blank">Edris</a></strong></p>
-<h3>Ethereum Taker Buy Sell Ratio</h3>
-<p>Over the past few weeks, Ethereum&#8217;s price has been oscillating in a very tight range, leaving investors wondering about the direction of the next move. In this situation, analyzing the futures market sentiment might provide valuable insight.</p>
-<p>This chart shows the taker buy-sell ratio, which indicates whether long or short traders are more aggressive. Values above 1 are considered bullish, while values below 1 indicate aggressive selling pressure on aggregate.</p>
-<p>As the chart depicts, this metric has been constantly dropping lower below 1, showing little intent to recover. This selling pressure in the futures market is probably offsetting the spot market demand, leading to range-bound price action.</p>
-<p>Therefore, investors should look forward to the taker buy-sell ratio rising above 1, which could potentially result in a new higher high in the short term.</p>
-<figure id="attachment_264502" aria-describedby="caption-attachment-264502" style="width: 2560px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-scaled.jpg" data-wpel-link="internal"><img class="wp-image-264502 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-scaled.jpg" alt="eth_taker_buy_sell_ratio_chart_0408231" width="2560" height="1611" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-scaled.jpg 2560w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-300x189.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-1024x645.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-768x483.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-1536x967.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-2048x1289.jpg 2048w, https://cryptopotato.com/wp-content/uploads/2023/08/Ethereum-Taker-Buy-Sell-Ratio-Aug-4-2023-50x31.jpg 50w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-264502" class="wp-caption-text">Source: CryptoQuant</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/recovery-in-sight-for-eth-2-things-to-watch-in-the-short-term-ethereum-price-analysis/" rel="nofollow">Recovery in Sight for ETH? 2 Things to Watch in the Short Term (Ethereum Price Analysis)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+			            <description><![CDATA[[Press Release &#8211; London, United Kingdom, August 5th, 2023] Decentralized hedge fund VC Spectra has reported strong demand for its Stage 2 presale. The token sale has drawn considerable interest from early investors and underlined VC Spectra&#8217;s potential to redefine the crypto industry. Priding itself on democratizing access to investment opportunities, VC Spectra has carved [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p><strong>[Press Release &#8211; London, United Kingdom, August 5th, 2023]</strong></p>
+<h1><img src="https://cryptopotato.com/wp-content/uploads/2023/08/td__eRaRvu85SBLZOm5vv3KCdN4fGjAFVrm0f1yYLqNRRlQ53_1691236547uANOPhjXfO.jpeg" /></h1>
+<p>Decentralized hedge fund VC Spectra has reported strong demand for its Stage 2 presale. The token sale has drawn considerable interest from early investors and underlined VC Spectra&#8217;s potential to redefine the crypto industry.</p>
+<p>Priding itself on democratizing access to investment opportunities, <a href="https://vcspectra.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">VC Spectra</a> has carved a distinct niche for itself. The on-chain hedge fund extends the availability of early-stage investments to non-accredited investors, thereby bridging a significant market gap.</p>
+<p>Investors opting for the SPCT token can leverage an array of unique benefits. These perks include quarterly dividends and buybacks, voting rights, and early access to initial coin offerings (ICOs).</p>
+<p>The SPCT token, developed on the Bitcoin blockchain using the BRC-20 standard, provides a robust mechanism for decentralized trading, asset management, and transaction facilitation within the Spectra platform. The Spectra Token (SPCT) is the main currency within the Spectra ecosystem, enabling access to different services on the platform.</p>
+<p>By implementing a deflationary model featuring a burn mechanism for the SPCT token, the decentralized hedge fund aims to decrease token circulation gradually. When coupled with <a href="https://vcspectra.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">VC Spectra&#8217;s</a> unique investment offerings, this novel approach further solidifies SPCT &#8216;s standing in the crypto market.</p>
+<p>The Vc Spectra public presale is currently in Stage 2 and has already seen robust demand. The <a href="https://vcspectra.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">SPCT token</a>, which started at $0.008 during Stage 1, increased to $0.011 in Stage 2. In the upcoming Stage 3, the token price will increase to $0.025. This is an increase of 213% from the initial token price. Currently, <a href="https://vcspectra.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">VC Spectra (SPCT)</a> is offering a 25% bonus for all investor deposits.</p>
+<p><strong>About VC Spectra</strong></p>
+<p>Spectra is a leading firm driving innovation in Fintech and blockchain through strategic investments and ICOs, empowering financial growth by harnessing cutting-edge technologies.</p>
+<p>Spectra VC is a venture capital fund that invests in blockchain and technology-based projects with the goal of generating returns for investors.</p>
+<p>Find out more about the VC Spectra presale here:</p>
+<p><a href="https://invest.vcspectra.io/login" target="_blank" rel="nofollow noopener" data-wpel-link="external">Presale</a> | <a href="https://vcspectra.io/" target="_blank" rel="nofollow noopener" data-wpel-link="external">Website</a>  | <a href="https://t.me/VCSpectra" target="_blank" rel="nofollow noopener" data-wpel-link="external">Telegram</a> | <a href="https://twitter.com/spectravcfund" target="_blank" rel="nofollow noopener" data-wpel-link="external">Twitter</a></p>
+<p>The post <a href="https://cryptopotato.com/decentralized-hedge-fund-vc-spectra-reports-strong-demand-for-its-presale/" rel="nofollow">Decentralized Hedge Fund VC Spectra Reports Strong Demand for Its Presale</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
