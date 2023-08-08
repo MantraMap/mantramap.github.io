@@ -1,0 +1,44 @@
+---
+layout: post
+title: Binance Releases August Report For Proof of Reserves
+canonical_url: https://cryptodaily.co.uk/2023/08/binance-releases-august-report-for-proof-of-reserves
+tag: CryptoDaily
+---
+
+<p class="md-end-block md-p">Binance, the world's largest cryptocurrency exchange, has published its August 2023 reserve report, showcasing a reserve ratio well over 100% for all of its major cryptocurrency holdings.</p>
+<p class="md-end-block md-p md-focus">The disclosure forms a part of Binance's ongoing commitment to maintain a Proof of Reserves (PoR) system, providing evidence that it holds sufficient funds to cover all customer deposits. The report is based on an audit for BTC Block Height 801130 from aggregated data updated to August 1st, 2023.</p>
+<p class="md-end-block md-p">Proof of Reserves (PoR) is a transparency protocol that confirms the solvency of a cryptocurrency exchange. It functions as proof that the exchange possesses enough funds to cover users' assets on a 1:1 ratio. Essentially, when a user deposits a Bitcoin, Binance's reserves increase by at least one Bitcoin, thereby ensuring all client funds are fully backed. These figures don't include Binance's corporate holdings, which are kept separate.</p>
+<p class="md-end-block md-p">Binance's PoR report demonstrates that the exchange's reserves are well above the customer net balance for all the reported cryptocurrencies, including Bitcoin, Ethereum, Binance Coin, Tether, BUSD, and USDC, with reserve rates ranging from 101.62% to 117.99%. This shows that the company has more than enough reserves to meet all potential customer withdrawals.</p>
+<p class="md-end-block md-p">PoR aims to increase transparency, safety, and user protection in the cryptocurrency ecosystem. As such, it discourages exchanges from misusing user funds and promotes trust among users. In line with this, Binance users can verify their account's inclusion in the last PoR verification themselves, further emphasizing the exchange's commitment to transparency and user trust.</p>
+How Proof of Reserves (PoR) Works with Merkle Trees
+<p class="md-end-block md-p">To ensure that it holds all user assets 1:1, Binance has implemented a system that leverages Merkle trees. A Merkle Tree is a cryptographic tool that facilitates the condensation of large volumes of data into a single hash, called a Merkle Root. This root acts as a cryptographic "seal" that summarizes all the input data. Furthermore, Merkle Trees allow users to verify specific contents included within a particular set of sealed data.</p>
+<p class="md-end-block md-p">In the context of PoR, Binance uses the properties of Merkle Trees to verify that individual user accounts are incorporated within the liabilities report inspected by an auditor. Each user can verify their asset holdings using their unique generated Merkle hash/record ID.</p>
+<p class="md-end-block md-p">Here's a step-by-step breakdown of the process:</p>
+<ol class="ol-list" start="">
+<li class="md-list-item">
+<p class="md-end-block md-p">Verify Ownership of Address: Binance first verifies that the ownership of wallets (both cold and hot wallets) used in the PoR process belong to the exchange.</p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p">Snapshot of User Balances: A snapshot of asset holdings within each customer's account is taken at a specific date and time. </p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p">Generation of Merkle Tree: Binance generates an underlying data block by linking the hashed user ID and balance of each user. Based on all users' data, a Merkle tree is then created. If any account ID or balance in the leaf node changes, the Merkle root will also change. Consequently, every user can verify whether their assets are included in the leaf node.</p>
+</li>
+</ol>
+zk-SNARKs in the Verification Process
+<p class="md-end-block md-p">Along with Merkle Trees, Binance also utilizes zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Argument of Knowledge) in the verification process. A zk-SNARK is a proof protocol that allows one to prove that they know a value without revealing what that value is. </p>
+<p class="md-end-block md-p">In the case of Binance, the exchange uses a zk-SNARK to demonstrate that all the leaf nodes' balance sets (i.e., user account balances) contribute to the exchange&rsquo;s claimed total user asset balance. Each user can easily access their leaf node to see that it was included in the process. </p>
+<p class="md-end-block md-p">The use of zk-SNARKs follows a few steps:</p>
+<ol class="ol-list" start="">
+<li class="md-list-item">
+<p class="md-end-block md-p">Verify Ownership of Address: Like in the previous process, Binance verifies the ownership of the wallets (both cold and hot wallets) used in the PoR process. </p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p">Snapshot of User Balances: Again, a snapshot of asset holdings within each customer's account is taken.</p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p">Generate zk-SNARKs Proof: zk-SNARKs proof files are generated for each user. This allows every user to easily access their leaf node and verifies that the total net balance of the user is greater than or equal to zero.</p>
+</li>
+</ol>
+<p class="md-end-block md-p">In addition to these self-verification methods, Binance also uses third-party audits to provide audit reports, further bolstering the security and transparency of the verification process.</p>
+<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>
