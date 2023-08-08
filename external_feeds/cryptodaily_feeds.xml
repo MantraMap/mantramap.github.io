@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Tue, 08 Aug 2023 08:45:50 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 08 Aug 2023 08:54:54 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,64 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[DeFi App Steadefi Grapples With Major Exploit, All Funds At Risk]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/defi-app-steadefi-grapples-with-major-exploit-all-funds-at-risk</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/steadifi-1450.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/steadifi-1450.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/steadifi-1450.jpg" length="528" type="image/jpg" />
+			  <pubDate>Tue, 08 Aug 2023 08:46:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/defi-app-steadefi-grapples-with-major-exploit-all-funds-at-risk</guid>
+			  <description><![CDATA[<p>Steadefi has become the latest DeFi entity to be hit with an exploit, with the company stating in a tweet on X that all the funds it currently holds are at risk of becoming irrecoverable.&nbsp;</p>
+<p>Recent hacks have taken a toll on the space and have put considerable strain on public trust in DeFi apps.</p>
+Details Of The Hack&nbsp;
+<p>News of the attack first became public on the 7th of August, when it emerged that the decentralized finance app was hit by an exploit of at least $334,000. While the attack was ongoing, the protocol&rsquo;s development team put out a message on X, stating that the attack had put all funds held on the platform at risk and they could become irrecoverable. As a result, the app&rsquo;s total value locked (TVL) fell off a cliff, according to data from DefiLlama. The team posted a message stating,&nbsp;</p>
+
+<p>&ldquo;NOTICE: Steadefi has been exploited, and all funds are currently at risk.&rdquo;</p>
+
+<p>The team, while confirming the attack, posted a follow-up message on X and explained how the attack occurred. According to the message, the hacker managed to gain access to the private key of the team&rsquo;s deployer wallet and perform OwnerOnly functions. After gaining access to OwnerOnly functions, the hacker executed several OwnerOnly actions, such as allowing any wallet to borrow funds from lending vaults.&nbsp;</p>
+<p>The team further stated that the attacker managed to drain all loanable funds. However, it assured users that all collateral held in vaults and not lent out was secure. This is because the app does not contain OwnerOnly functions to remove deposits. This means those users who deposited funds to the app&rsquo;s &ldquo;strategy&rdquo; vaults could withdraw some of their funds.&nbsp;</p>
+Farming Contracts Stopped&nbsp;
+<p>Meanwhile, the hacker also stopped farming contracts through an OwnerOnly function. This means all users who deposited svTokens or ibTokens to farms are currently unable to withdraw their funds. The post states that the funds are essentially stuck in the app&rsquo;s contracts, with token holders who deposited into the farms left in the lurch.&nbsp;</p>
+<p>According to details currently available, the tokens transferred to the address in question include 130,429 USD Coin, 3.39 BTC, 6184 Avalanche (AVAX), and 15 Wrapped Ether (WETH). Apart from the Wrapped Ether, all other tokens were immediately swapped for WETH. The attacker then bridged 184 WETH to another network via the Synapse Bridge.&nbsp;</p>
+Steadefi Attempts To Negotiate With Hackers&nbsp;
+<p>The development team also confirmed that it is attempting to negotiate with the hackers and has sent an on-chain message to the hacker&rsquo;s address, 0x9cf71F2ff126B9743319B60d2D873F0E508810dc, on Ethereum. Blockchain data has revealed that the address saw a large number of inflows on the Avalanche Chain. The development team seems to have taken a leaf out of Curve Finance, Metronome, and Alchemix&rsquo;s playbook, offering 10% of the stolen funds as a bounty in return for the remaining 90%. The team also told the hacker that should they return the funds, there would be no involvement of law enforcement agencies or legal actions.&nbsp;</p>
+
+<p>&ldquo;Steadefi would like to discuss a bounty with any parties who were involved in the recent Steadefi exploit. We are offering a 10% bounty of any funds stolen, which are yours to keep if you return the remaining 90%.&rdquo;</p>
+
+<p>However, like Curve, in a stark warning, the team added that should the hackers refuse the offer, Steadefi would offer the 10% as a bounty to anyone in the public who could identify or supply information that leads to a conviction. Clearly, Steadefi hopes to see the funds return without any further complications. However, the platform is more than willing to fight for the funds should it need to. The offer expires on the 10th of August at 0800 UTC.&nbsp;</p>
+
+<p>&ldquo;You will have no risk of us pursuing this further, no risk of law enforcement issues, etc. If you choose not to partake in the voluntary return and complete the process by the 10th of August at 0800 UTC, we will expand the bounty to the public and offer the full 10% to the person who is able to identify you in a way that leads to your conviction in the courts. We will pursue you from all angles with the full extent of the law.&rdquo;</p>
+
+DeFi&rsquo;s Hacker Headache&nbsp;
+<p>Crypto and DeFi remain highly vulnerable to bad actors, even as the space looks for wider acceptance. Last month, Coinspaid fell victim to an attack orchestrated by the dreaded Lazarus Group, a North Korean-backed hacker group. An analysis showed how the breach occurred and found multiple vulnerabilities in Coinspaid&rsquo;s security. At the beginning of August, decentralized exchange LeetSwap suspended trading thanks to fears of a potential exploit. Bankrupt crypto platform Voyager also suffered a breach in the middle of its court-supervised recovery process. Another August heist saw a scammer steal around $20 million worth of USDT through a zero transfer phishing attack. However, Tether was quick to respond, freezing the attacker&rsquo;s address and blacklisting them.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>Steadefi has become the latest DeFi entity to be hit with an exploit, with the company stating in a tweet on X that all the funds it currently holds are at risk of becoming irrecoverable.&nbsp;</p>
+<p>Recent hacks have taken a toll on the space and have put considerable strain on public trust in DeFi apps.</p>
+Details Of The Hack&nbsp;
+<p>News of the attack first became public on the 7th of August, when it emerged that the decentralized finance app was hit by an exploit of at least $334,000. While the attack was ongoing, the protocol&rsquo;s development team put out a message on X, stating that the attack had put all funds held on the platform at risk and they could become irrecoverable. As a result, the app&rsquo;s total value locked (TVL) fell off a cliff, according to data from DefiLlama. The team posted a message stating,&nbsp;</p>
+
+<p>&ldquo;NOTICE: Steadefi has been exploited, and all funds are currently at risk.&rdquo;</p>
+
+<p>The team, while confirming the attack, posted a follow-up message on X and explained how the attack occurred. According to the message, the hacker managed to gain access to the private key of the team&rsquo;s deployer wallet and perform OwnerOnly functions. After gaining access to OwnerOnly functions, the hacker executed several OwnerOnly actions, such as allowing any wallet to borrow funds from lending vaults.&nbsp;</p>
+<p>The team further stated that the attacker managed to drain all loanable funds. However, it assured users that all collateral held in vaults and not lent out was secure. This is because the app does not contain OwnerOnly functions to remove deposits. This means those users who deposited funds to the app&rsquo;s &ldquo;strategy&rdquo; vaults could withdraw some of their funds.&nbsp;</p>
+Farming Contracts Stopped&nbsp;
+<p>Meanwhile, the hacker also stopped farming contracts through an OwnerOnly function. This means all users who deposited svTokens or ibTokens to farms are currently unable to withdraw their funds. The post states that the funds are essentially stuck in the app&rsquo;s contracts, with token holders who deposited into the farms left in the lurch.&nbsp;</p>
+<p>According to details currently available, the tokens transferred to the address in question include 130,429 USD Coin, 3.39 BTC, 6184 Avalanche (AVAX), and 15 Wrapped Ether (WETH). Apart from the Wrapped Ether, all other tokens were immediately swapped for WETH. The attacker then bridged 184 WETH to another network via the Synapse Bridge.&nbsp;</p>
+Steadefi Attempts To Negotiate With Hackers&nbsp;
+<p>The development team also confirmed that it is attempting to negotiate with the hackers and has sent an on-chain message to the hacker&rsquo;s address, 0x9cf71F2ff126B9743319B60d2D873F0E508810dc, on Ethereum. Blockchain data has revealed that the address saw a large number of inflows on the Avalanche Chain. The development team seems to have taken a leaf out of Curve Finance, Metronome, and Alchemix&rsquo;s playbook, offering 10% of the stolen funds as a bounty in return for the remaining 90%. The team also told the hacker that should they return the funds, there would be no involvement of law enforcement agencies or legal actions.&nbsp;</p>
+
+<p>&ldquo;Steadefi would like to discuss a bounty with any parties who were involved in the recent Steadefi exploit. We are offering a 10% bounty of any funds stolen, which are yours to keep if you return the remaining 90%.&rdquo;</p>
+
+<p>However, like Curve, in a stark warning, the team added that should the hackers refuse the offer, Steadefi would offer the 10% as a bounty to anyone in the public who could identify or supply information that leads to a conviction. Clearly, Steadefi hopes to see the funds return without any further complications. However, the platform is more than willing to fight for the funds should it need to. The offer expires on the 10th of August at 0800 UTC.&nbsp;</p>
+
+<p>&ldquo;You will have no risk of us pursuing this further, no risk of law enforcement issues, etc. If you choose not to partake in the voluntary return and complete the process by the 10th of August at 0800 UTC, we will expand the bounty to the public and offer the full 10% to the person who is able to identify you in a way that leads to your conviction in the courts. We will pursue you from all angles with the full extent of the law.&rdquo;</p>
+
+DeFi&rsquo;s Hacker Headache&nbsp;
+<p>Crypto and DeFi remain highly vulnerable to bad actors, even as the space looks for wider acceptance. Last month, Coinspaid fell victim to an attack orchestrated by the dreaded Lazarus Group, a North Korean-backed hacker group. An analysis showed how the breach occurred and found multiple vulnerabilities in Coinspaid&rsquo;s security. At the beginning of August, decentralized exchange LeetSwap suspended trading thanks to fears of a potential exploit. Bankrupt crypto platform Voyager also suffered a breach in the middle of its court-supervised recovery process. Another August heist saw a scammer steal around $20 million worth of USDT through a zero transfer phishing attack. However, Tether was quick to respond, freezing the attacker&rsquo;s address and blacklisting them.</p>
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Solana-based Cypher Protocol Suffers $1M Exploit]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/solana-based-cypher-protocol-suffers-1m-exploit</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/cypher-protocol-exploit-h.jpg" medium="image" />
@@ -809,38 +867,6 @@ zk-SNARKs in the Verification Process
 </li>
 </ol>
 <p class="md-end-block md-p">In addition to these self-verification methods, Binance also uses third-party audits to provide audit reports, further bolstering the security and transparency of the verification process.</p>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Curve Finance Opens $1.85m Bounty To Identify Threat Actor]]></title>
-			  <link>https://cryptodaily.co.uk/2023/08/curve-finance-opens-1-85m-bounty-to-identify-threat-actor</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/curve-finance-exploit-h.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/curve-finance-exploit-h.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/curve-finance-exploit-h.jpg" length="528" type="image/jpg" />
-			  <pubDate>Mon, 07 Aug 2023 07:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Vince Dioquino]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/curve-finance-opens-1-85m-bounty-to-identify-threat-actor</guid>
-			  <description><![CDATA[<p class="md-end-block md-p">Decentralized finance (DeFi) protocol Curve is offering a $1.85 million reward to anyone who can identify the exploiter responsible for draining over $61 million from its pools on July 30. This announcement was made after the deadline for the voluntary return of funds expired.</p>
-<p class="md-end-block md-p">The exploiter used vulnerable versions of the Vyper programming language to launch reentrancy attacks on targeted stable pools, leading to significant losses. Following the attack, Curve and other affected protocols offered a 10% bug bounty to the exploiter, totaling more than $6 million.</p>
-<p class="md-end-block md-p">In response, the hacker returned stolen assets to two projects, Alchemix and JPEGd, but did not refund other affected pools.</p>
-<p>What is a reentrancy attack?A reentrancy attack, the method used by the exploiter in this case, is a common security vulnerability in smart contracts, especially those running on blockchain platforms like Ethereum. In a nutshell, a reentrancy attack allows an attacker to repeatedly call a functiorn in a smart contract while a previous call to that same function has not yet finished executing.</p>
-<p class="md-end-block md-p">The Vyper programming language, which was used to build the targeted stable pools in this case, is a contract-oriented language similar to Solidity, another popular language for writing smart contracts on Ethereum. While Vyper is designed with a stronger emphasis on security and simplicity, it is not immune to reentrancy attacks, which are a pervasive problem in the world of smart contracts.</p>
-<p class="md-end-block md-p">During a reentrancy attack, an exploiter can drain funds from a contract by recursively calling a function that withdraws funds. In this case, the exploiter managed to drain more than $61 million from several of Curve's stable pools, illustrating the severity of the attack and the poterntial impact of these types of vulnerabilities in the DeFi space.</p>
-<p>The incident underscores the importance of proper security practices and rigorous code review in the development of smart contracts. Despite the relative maturity of DeFi, the risk of smart contract vulnerabilities like reentrancy attacks remains, necessitating ongoing vigilance and robust security measures from DeFi projects.What's at stake for Curve Finance?</p>
-<p class="md-end-block md-p">Curve has now extended its bounty to the public, promising a reward equivalent to 10% of the remaining exploited funds (currently $1.85 million) to anyone who can identify the exploiter in a way that results in legal conviction. However, the firm has stated that it will not pursue the issue further if the exploiter chooses to return the stolen funds in full.</p>
-<p class="md-end-block md-p">Prior to returning some of the funds, the exploiter had sent a message to the Alchemix and Curve teams, stating that they were refunding the money not because the teams could find them, but because they didn't want to ruin the projects.</p>
-<p class="md-end-block md-p">The July 30 attack targeted several of Curve&rsquo;s pools, including those of Alchemix, JPEGd, and Metronome, resulting in significant losses. The exploit exposed vulnerabilities across DeFi projects and triggered industry-wide efforts to recover stolen funds.</p>
-<p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p class="md-end-block md-p">Decentralized finance (DeFi) protocol Curve is offering a $1.85 million reward to anyone who can identify the exploiter responsible for draining over $61 million from its pools on July 30. This announcement was made after the deadline for the voluntary return of funds expired.</p>
-<p class="md-end-block md-p">The exploiter used vulnerable versions of the Vyper programming language to launch reentrancy attacks on targeted stable pools, leading to significant losses. Following the attack, Curve and other affected protocols offered a 10% bug bounty to the exploiter, totaling more than $6 million.</p>
-<p class="md-end-block md-p">In response, the hacker returned stolen assets to two projects, Alchemix and JPEGd, but did not refund other affected pools.</p>
-<p>What is a reentrancy attack?A reentrancy attack, the method used by the exploiter in this case, is a common security vulnerability in smart contracts, especially those running on blockchain platforms like Ethereum. In a nutshell, a reentrancy attack allows an attacker to repeatedly call a functiorn in a smart contract while a previous call to that same function has not yet finished executing.</p>
-<p class="md-end-block md-p">The Vyper programming language, which was used to build the targeted stable pools in this case, is a contract-oriented language similar to Solidity, another popular language for writing smart contracts on Ethereum. While Vyper is designed with a stronger emphasis on security and simplicity, it is not immune to reentrancy attacks, which are a pervasive problem in the world of smart contracts.</p>
-<p class="md-end-block md-p">During a reentrancy attack, an exploiter can drain funds from a contract by recursively calling a function that withdraws funds. In this case, the exploiter managed to drain more than $61 million from several of Curve's stable pools, illustrating the severity of the attack and the poterntial impact of these types of vulnerabilities in the DeFi space.</p>
-<p>The incident underscores the importance of proper security practices and rigorous code review in the development of smart contracts. Despite the relative maturity of DeFi, the risk of smart contract vulnerabilities like reentrancy attacks remains, necessitating ongoing vigilance and robust security measures from DeFi projects.What's at stake for Curve Finance?</p>
-<p class="md-end-block md-p">Curve has now extended its bounty to the public, promising a reward equivalent to 10% of the remaining exploited funds (currently $1.85 million) to anyone who can identify the exploiter in a way that results in legal conviction. However, the firm has stated that it will not pursue the issue further if the exploiter chooses to return the stolen funds in full.</p>
-<p class="md-end-block md-p">Prior to returning some of the funds, the exploiter had sent a message to the Alchemix and Curve teams, stating that they were refunding the money not because the teams could find them, but because they didn't want to ruin the projects.</p>
-<p class="md-end-block md-p">The July 30 attack targeted several of Curve&rsquo;s pools, including those of Alchemix, JPEGd, and Metronome, resulting in significant losses. The exploit exposed vulnerabilities across DeFi projects and triggered industry-wide efforts to recover stolen funds.</p>
 <p class="md-end-block md-p md-focus">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
