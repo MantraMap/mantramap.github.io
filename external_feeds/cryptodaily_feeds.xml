@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Fri, 11 Aug 2023 09:59:20 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 11 Aug 2023 10:02:16 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,54 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Aave DAO Begins Voting On Proposals To Limit CRV Exposure]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/aave-dao-begins-voting-on-proposals-to-limit-crv-exposure</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/aave-community-h.jpg" length="528" type="image/jpg" />
+			  <pubDate>Fri, 11 Aug 2023 10:00:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/aave-dao-begins-voting-on-proposals-to-limit-crv-exposure</guid>
+			  <description><![CDATA[<p>The Aave community has started voting on three crucial proposals that could help significantly reduce the protocol&rsquo;s exposure to Curve Finance&rsquo;s CRV token.&nbsp;</p>
+<p>Two out of the three proposals in question opened for voting on the 10th of August.&nbsp;</p>
+Details Of The Proposals
+<p>The move by the Aave community comes as it attempts to limit the risk posed to the protocol by the large borrowing position held by Michael Egorov, the founder of Curve Finance. On-chain risk management platform Chaos Lab put forward the proposals. According to the platform, volatility in Curve markets had considerably increased after the recent exploit suffered by Curve.&nbsp;</p>
+<p>The CRV token is the native token of the decentralized finance (DeFi) protocol Curve Finance. Curve founder Egorov had used as much as 30% of CRV&rsquo;s total market capitalization to take out nearly $60 million in loans on Aave. However, the Curve Finance hack significantly impacted the price of CRV, sending it plummeting. This made Egorov&rsquo;s position vulnerable, potentially exposing Aave to a liquidation risk.&nbsp;</p>
+<p>The voting on the proposals is set to continue until the 12th of August. The first proposal seeks to reduce the liquidation threshold by 6% for CRV on Aave v2. This could lead to user accounts becoming subject to liquidation upon approval. The second proposal disables borrowing of CRV tokens on Polygon v3 and Ethereum. This would make it impossible to short CRV through the Aave protocol.&nbsp;</p>
+<p>The two proposals to limit Aave&rsquo;s exposure have found overwhelming support in the community. So far, over 571,000 votes have been cast, with 100% of the votes in favor of limiting Aave&rsquo;s exposure to CRV.&nbsp;</p>
+The Third Proposal&nbsp;
+<p>With fears surrounding Egorov&rsquo;s loans, Aave&rsquo;s community is also voting on a third proposal, voting for which ends on the 11th of August. The proposal, put forward by Aave Chan founder Marc Zeller, calls on the Aave treasury to purchase $2 million worth of CRV tokens from Curve Finance. Zeller&rsquo;s reasoning for such a move is that it would signal that major DeFi players support Curve and the health of the larger DeFi ecosystem. However, this proposal has not gained as much support in the community, although a majority do support it. Currently, around 62% of votes favor the proposal, while 37% have voted against it.&nbsp;</p>
+The Curve Finance Exploit&nbsp;
+<p>Curve Finance suffered a major exploit at the beginning of the month, with hackers managing to siphon off millions worth of crypto. As a result of the hack, the protocol&rsquo;s CRV token saw a significant price drop, casting a long shadow on the DeFi ecosystem. The decline in CRV&rsquo;s value also put a $168 million lending position taken by Curve founder Michael Egorov at risk. If this position was liquidated, it could have disastrous consequences for the larger DeFi ecosystem, putting major protocols at risk. Following the exploit, crypto exchanges moved to suspend withdrawals, with Upbit among the first to act, suspending deposits and withdrawals of the CRV token.&nbsp;</p>
+
+<p>&ldquo;Today, certain vulnerabilities have been discovered in some of the stablecoin pools associated with Curve (CRV). As a result, CRV is currently experiencing significant volatility. We advise exercising caution when considering any investments related to CRV. To ensure the safety of digital asset transactions, we have temporarily suspended deposits and withdrawals for CRV.&rdquo;</p>
+
+<p>However, Curve and Egorov found support from prominent players in the crypto space. These include Power DeFi user DCF God, Jeffrey Huang, and Tron Foundation CEO Justin Sun. All have since stepped in and purchased CRV from Egorov, resulting in the principal value of Egorov&rsquo;s loans dropping to $54 million. Justin Sun posted a message in support of Curve, stating,&nbsp;</p>
+
+<p>&ldquo;Excited to assist Curve! As steadfast partners, we remain committed to providing support whenever needed. Our joint efforts will introduce an @stusdt pool on Curve, amplifying user benefits. Together, we aim to empower the community and forge a decentralized finance!&rdquo;</p>
+
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
+			  <content:encoded><![CDATA[<p>The Aave community has started voting on three crucial proposals that could help significantly reduce the protocol&rsquo;s exposure to Curve Finance&rsquo;s CRV token.&nbsp;</p>
+<p>Two out of the three proposals in question opened for voting on the 10th of August.&nbsp;</p>
+Details Of The Proposals
+<p>The move by the Aave community comes as it attempts to limit the risk posed to the protocol by the large borrowing position held by Michael Egorov, the founder of Curve Finance. On-chain risk management platform Chaos Lab put forward the proposals. According to the platform, volatility in Curve markets had considerably increased after the recent exploit suffered by Curve.&nbsp;</p>
+<p>The CRV token is the native token of the decentralized finance (DeFi) protocol Curve Finance. Curve founder Egorov had used as much as 30% of CRV&rsquo;s total market capitalization to take out nearly $60 million in loans on Aave. However, the Curve Finance hack significantly impacted the price of CRV, sending it plummeting. This made Egorov&rsquo;s position vulnerable, potentially exposing Aave to a liquidation risk.&nbsp;</p>
+<p>The voting on the proposals is set to continue until the 12th of August. The first proposal seeks to reduce the liquidation threshold by 6% for CRV on Aave v2. This could lead to user accounts becoming subject to liquidation upon approval. The second proposal disables borrowing of CRV tokens on Polygon v3 and Ethereum. This would make it impossible to short CRV through the Aave protocol.&nbsp;</p>
+<p>The two proposals to limit Aave&rsquo;s exposure have found overwhelming support in the community. So far, over 571,000 votes have been cast, with 100% of the votes in favor of limiting Aave&rsquo;s exposure to CRV.&nbsp;</p>
+The Third Proposal&nbsp;
+<p>With fears surrounding Egorov&rsquo;s loans, Aave&rsquo;s community is also voting on a third proposal, voting for which ends on the 11th of August. The proposal, put forward by Aave Chan founder Marc Zeller, calls on the Aave treasury to purchase $2 million worth of CRV tokens from Curve Finance. Zeller&rsquo;s reasoning for such a move is that it would signal that major DeFi players support Curve and the health of the larger DeFi ecosystem. However, this proposal has not gained as much support in the community, although a majority do support it. Currently, around 62% of votes favor the proposal, while 37% have voted against it.&nbsp;</p>
+The Curve Finance Exploit&nbsp;
+<p>Curve Finance suffered a major exploit at the beginning of the month, with hackers managing to siphon off millions worth of crypto. As a result of the hack, the protocol&rsquo;s CRV token saw a significant price drop, casting a long shadow on the DeFi ecosystem. The decline in CRV&rsquo;s value also put a $168 million lending position taken by Curve founder Michael Egorov at risk. If this position was liquidated, it could have disastrous consequences for the larger DeFi ecosystem, putting major protocols at risk. Following the exploit, crypto exchanges moved to suspend withdrawals, with Upbit among the first to act, suspending deposits and withdrawals of the CRV token.&nbsp;</p>
+
+<p>&ldquo;Today, certain vulnerabilities have been discovered in some of the stablecoin pools associated with Curve (CRV). As a result, CRV is currently experiencing significant volatility. We advise exercising caution when considering any investments related to CRV. To ensure the safety of digital asset transactions, we have temporarily suspended deposits and withdrawals for CRV.&rdquo;</p>
+
+<p>However, Curve and Egorov found support from prominent players in the crypto space. These include Power DeFi user DCF God, Jeffrey Huang, and Tron Foundation CEO Justin Sun. All have since stepped in and purchased CRV from Egorov, resulting in the principal value of Egorov&rsquo;s loans dropping to $54 million. Justin Sun posted a message in support of Curve, stating,&nbsp;</p>
+
+<p>&ldquo;Excited to assist Curve! As steadfast partners, we remain committed to providing support whenever needed. Our joint efforts will introduce an @stusdt pool on Curve, amplifying user benefits. Together, we aim to empower the community and forge a decentralized finance!&rdquo;</p>
+
+<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[MakerDAO Announces Airdrop For Spark Protocol Governance Token]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/makerdao-announces-airdrop-for-spark-protocol-governance-token</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/makerdao-privacy-issue-h.jpg" medium="image" />
@@ -822,54 +870,6 @@ Crypto Projects Reject Claims&nbsp;
 SEC Action Against Binance&nbsp;And Coinbase
 <p>The Securities and Exchange Commission&rsquo;s suits against Coinbase and Binance have led to an uncertain future for major listed tokens. The regulatory body&rsquo;s two lawsuits against the crypto exchanges in question have cast a long shadow on the 19 tokens mentioned in both filings. The SEC has accused Binance and Coinbase of offering unregistered securities to the public through their respective platforms. The suit once again brings into focus lingering questions about whether cryptos are a security, commodity, or otherwise.</p>
 <p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Cardano’s MuesliSwap To Refund “High-Slippage” Losses]]></title>
-			  <link>https://cryptodaily.co.uk/2023/08/cardano-muesliswap-to-refund-high-slippage-losses</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/muesliswap-1450.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/muesliswap-1450.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/muesliswap-1450.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 10 Aug 2023 14:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Amara Khatri]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/cardano-muesliswap-to-refund-high-slippage-losses</guid>
-			  <description><![CDATA[<p>MuesliSwap, a prominent decentralized exchange (DEX) on the Cardano blockchain, has taken the decision to refund users who faced unintended losses due to a "misunderstanding" regarding slippage mechanics within its platform.</p>
-Refunding Users Affected by High Slippage
-<p>The team behind MuesliSwap has acknowledged that users have been grappling with substantial slippage issues over the past year. On August 8, they openly admitted that they needed to adequately clarify the intricacies of the slippage feature in their protocol via a statement on X (formerly Twitter).</p>
-
-<p>&ldquo;To make amends, we will be refunding affected users who encountered high slippage on the MuesliSwap pools in the last 12 months from our project funds. Additionally, immediate action has been taken to remedy the slippage issue in the MuesliSwap order book&rdquo;</p>
-
-<p>basically, MuesliSwap has pledged to refund users who have experienced high slippage within the past year. The team also promptly made adjustments to fix the slippage problem within the MuesliSwap order book.</p>
-<p>Affected users can expect the refund process to span up to four weeks. The funds will be automatically distributed based on an analysis of a user's on-chain trading history.</p>
-Understanding Slippage and Its Impact
-<p>Slippage, a concept widely recognized in trading, refers to the difference between the intended trade execution price and the actual price due to factors like market liquidity. DEX users can manually set a slippage threshold according to their comfort level.</p>
-<p>The Cardano-based DeFi, MuesliSwap's unique approach to slippage involved allowing decentralized matchmakers to either return the extra slippage amount or retain the difference, adding an extra layer of complexity. Unfortunately, this approach led to confusion, particularly among new users.The team has promised to remedy the situation so as to prevent similar confusion amongst users, stating,&nbsp;</p>
-
-<p>&ldquo;Going forward, our DEX protocol will provide clear and accurate information on slippage when interacting with our pools. Your trading experience matters, and we're determined to make it seamless!&rdquo;</p>
-
-User Concerns Across Cardano DEXs
-<p>Slippage concerns have been voiced across various DEXs operating on the Cardano network. A trader on August 4 highlighted the challenges of executing large trades due to substantial slippage, impacting overall trading value.&nbsp;</p>
-<p>The team also responded to another trader who enquired about the process, stating that all trade-related information would be fetched from the blockchain automatically and traders would not need to fill out any form to get the refund.&nbsp;</p>
-<p>MuesliSwap's commitment to addressing slippage-related concerns reflects its dedication to refining the user experience and maintaining a transparent ecosystem for the Cardano community.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></description>
-			  <content:encoded><![CDATA[<p>MuesliSwap, a prominent decentralized exchange (DEX) on the Cardano blockchain, has taken the decision to refund users who faced unintended losses due to a "misunderstanding" regarding slippage mechanics within its platform.</p>
-Refunding Users Affected by High Slippage
-<p>The team behind MuesliSwap has acknowledged that users have been grappling with substantial slippage issues over the past year. On August 8, they openly admitted that they needed to adequately clarify the intricacies of the slippage feature in their protocol via a statement on X (formerly Twitter).</p>
-
-<p>&ldquo;To make amends, we will be refunding affected users who encountered high slippage on the MuesliSwap pools in the last 12 months from our project funds. Additionally, immediate action has been taken to remedy the slippage issue in the MuesliSwap order book&rdquo;</p>
-
-<p>basically, MuesliSwap has pledged to refund users who have experienced high slippage within the past year. The team also promptly made adjustments to fix the slippage problem within the MuesliSwap order book.</p>
-<p>Affected users can expect the refund process to span up to four weeks. The funds will be automatically distributed based on an analysis of a user's on-chain trading history.</p>
-Understanding Slippage and Its Impact
-<p>Slippage, a concept widely recognized in trading, refers to the difference between the intended trade execution price and the actual price due to factors like market liquidity. DEX users can manually set a slippage threshold according to their comfort level.</p>
-<p>The Cardano-based DeFi, MuesliSwap's unique approach to slippage involved allowing decentralized matchmakers to either return the extra slippage amount or retain the difference, adding an extra layer of complexity. Unfortunately, this approach led to confusion, particularly among new users.The team has promised to remedy the situation so as to prevent similar confusion amongst users, stating,&nbsp;</p>
-
-<p>&ldquo;Going forward, our DEX protocol will provide clear and accurate information on slippage when interacting with our pools. Your trading experience matters, and we're determined to make it seamless!&rdquo;</p>
-
-User Concerns Across Cardano DEXs
-<p>Slippage concerns have been voiced across various DEXs operating on the Cardano network. A trader on August 4 highlighted the challenges of executing large trades due to substantial slippage, impacting overall trading value.&nbsp;</p>
-<p>The team also responded to another trader who enquired about the process, stating that all trade-related information would be fetched from the blockchain automatically and traders would not need to fill out any form to get the refund.&nbsp;</p>
-<p>MuesliSwap's commitment to addressing slippage-related concerns reflects its dedication to refining the user experience and maintaining a transparent ecosystem for the Cardano community.</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice. </p>]]></content:encoded>
 			</item>
 					
 	</channel>
