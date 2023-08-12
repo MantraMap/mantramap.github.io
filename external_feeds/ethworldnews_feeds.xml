@@ -593,4 +593,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7845 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1972223 metric#prefetches=165 metric#store-reads=23 metric#store-writes=4 metric#store-hits=177 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=232.47 metric#ms-cache=16.46 metric#ms-cache-avg=0.6330 metric#ms-cache-ratio=7.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7690 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1953349 metric#prefetches=13 metric#store-reads=104 metric#store-writes=4 metric#store-hits=174 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=330.53 metric#ms-cache=76.86 metric#ms-cache-avg=0.7183 metric#ms-cache-ratio=23.3 -->
