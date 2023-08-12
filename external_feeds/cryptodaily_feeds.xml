@@ -12,7 +12,7 @@
     <title>Crypto Daily&#8482;</title>
 		<atom:link href="https://cryptodaily.co.uk/tw-feed" rel="self" type="application/rss+xml" />
 		<link>https://cryptodaily.co.uk</link>
-		<lastBuildDate>Sat, 12 Aug 2023 15:41:41 +0100</lastBuildDate>
+		<lastBuildDate>Sat, 12 Aug 2023 16:45:31 +0100</lastBuildDate>
 		<language>en-GB</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,6 +28,102 @@
 		</image>
 
 											<item>
+			  <title><![CDATA[Developers’ Commitment Shines As Uwerx Maintains Launch Momentum By Tackling Hack Challenge]]></title>
+			  <link>https://cryptodaily.co.uk/2023/08/developers-commitment-shines-as-uwerx-maintains-launch-momentum-by-tackling-hack-challenge</link>
+			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/img-6545.jpeg" medium="image" />
+			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/img-6545.jpeg" />
+			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/img-6545.jpeg" length="528" type="image/jpg" />
+			  <pubDate>Sat, 12 Aug 2023 16:15:00 +0100</pubDate>
+			  <dc:creator><![CDATA[Crypto Daily]]></dc:creator>
+			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/developers-commitment-shines-as-uwerx-maintains-launch-momentum-by-tackling-hack-challenge</guid>
+			  <description><![CDATA[<p class="s6">Beyond its ground-breaking features, Uwerx's developers' agile methodology approach has significantly contributed to the project's success. They have been so committed to promoting Uwerx&rsquo;s vision and purpose that investors and users could completely trust them and buy into the project.</p>
+<p class="s6">This was part of why the Uwerx launch was overwhelmingly successful, surpassing expectations and initial forecasts. The developers are back to work and ready to take Uwerx to the next level.</p>
+<p class="s6">However, they witnessed a setback as Uwerx was attacked. The team has yet again shown commitment by quickly and efficiently developing recovery strategies and plans. This article will detail the launch, updates, the hack, and Uwerx&rsquo;s road to recovery.</p>
+Uwerx&rsquo;s Successful Launch: Developers Set To Renounce Smart Contract Ownership
+<p class="s6">After so much anticipation, Uwerx finally launched on August 1, 2023. The launch was successful, as everyone wanted to become a WERX holder. Also, investors and users made tons of profits with all the bonuses that were up.</p>
+<p class="s6">The developers released updates on what to expect next from Uwerx as soon as the launch ended. Uwerx has finally deployed liquidity on Uniswap. The Uwerx Vault, which received positive feedback from 84% of the community, will soon be available as the smart contracts await a thorough audit. </p>
+<p class="s6">To show their commitment to Uwerx&rsquo;s community, the developers immediately began the 25-year liquidity locking they promised to do once Uwerx launched. They are also ready to denounce smart contract ownership when Uwerx goes live on centralized exchanges. The team has submitted their applications to CoinMarketCap and CoinGecko to facilitate this. </p>
+<p class="s6">The team is working to ensure the Uwerx platform is completed immediately. They are working on the core functionality design, focusing on Freelancer, Client, and Agency Dashboards, Project Management, and Additional Settings Pages. </p>
+<p class="s6">Once this is finished, a Minimum Viable Product (MVP) with functions will be released to the community for testing. Based on the feedback obtained, they will proceed with the premium design. </p>
+<p class="s6">There will be a buyback campaign that will scale accordingly to provide support for Uwerx. It will happen weekly, although the dates and times will not be released to avoid anyone taking unfair advantage of the system.</p>
+Uwerx Gets Exploited
+<p class="s6">On August 2, Uwerx reported it got hacked, with the hacker stealing around $327,000. The attacker flash-loaned 20,000 ETH, which he swapped for 5,053,637 WERX. He then sent 4,429,817 WERX to the Uniswap pool. This amount was ten times the prior balance.</p>
+<p class="s6">Afterward, he used the skim() function of Uniswap with the address 0x00...1 as the &ldquo;to&rdquo; address. He also used the transfer function of the Uwerx contract, which first modifies a sender&rsquo;s balance. </p>
+<p class="s6">Since the &ldquo;to&rdquo; address was a UniswapPoolAddress (0x00...1), an extra 1% of the initial amount was burned. As a result, there was an imbalance that the attacker took advantage of to gain 176 ETH ($327,000).</p>
+Uwerx Maintains Momentum As It Sets To Relaunch
+<p class="s6">Despite the hack, Uwerx continues to shine as it devises ways to tackle the hack and maintain its momentum. Once they noticed the hack, they immediately alerted SolidProof and InterFiNetwork, their auditors. Also, the team contacted PeckShieldAlert and SlowMist_Team directly on Twitter. </p>
+<p class="s6">The team began by putting out a white-hat bounty, stating the attacker should return 80% of the exploited funds and keep 20%. </p>
+<p class="s6">A new WERX will be relaunched, and its platform will have more robust security measures. As to the relaunch, there will be a new contract address, which will be released to the community soon. </p>
+<p class="s6">However, the contract address will be audited twice by reputable companies and once by an independent contractor. Due to a change in the contract address, the Uwerx Vault smart contracts are being altered, after which they will be audited before being released to the public.</p>
+<p class="s6">The new WERX will be deployed on the Polygon network instead of Uniswap, on which it is currently deployed. This will enable token holders to easily use WERX on the Uwerxplatform without having to bridge, and it will also lower gas fees. </p>
+<p class="s6">However, those who bought WERX on Uniswap will not be abandoned. The team has decided to airdrop the tokens at the end of the vesting period to ensure they still benefit. They also assure those who bought WERX during the presale that they are safe and will be unaffected by the relaunch.</p>
+<p class="s6">The new WERX will be deployed with more liquidity. To do this, the funds reserved for the buyback campaign will be directed to liquidity. Also, the team is proposing a no-burn tax and a sliding sell tax, of which 100% will be directed to liquidity. </p>
+<p class="s6">A poll is already up on Uwerx&rsquo;s Twitter page and Telegram channel, asking the community if they support a sliding sell tax wholly directed to liquidity. Another poll also asks the community how long the vesting period should be. </p>
+<p class="s6">These polls will end on August 13, after which the development of the new WERX will commence on August 14. The team also welcomes feedback or opinions, which can be sent to feedback@uwerx.network.</p>
+<p class="s6">Also, there will be press releases this week and another major announcement on August 21 to update the community on the new WERX development and plans for the relaunch. &nbsp;</p>
+<p class="s6">The Uwerx platform development is ongoing, and the team has completed certain sections like Settings, Security, Help Center, Login, Privacy Policy, Create Account, and Finished Payments.</p>
+<p class="s6">The WERX allocations will also be changed, and the new allocation is:</p>
+● Presale: 57% (427,500,000)
+● User Performance Incentives: 6% (45,000,000) 
+● Liquidity Reserve: 14% (105,500,000)
+● Marketing: 9% (67,500,000) 
+● Team Tokens: 6% (45,000,000) 
+● Partnership Incentives: 2% (15,000,000)
+● Joining Incentives: 6% ( 45,000,000) 
+<p class="s6">At the end of the presale, 25,499,071 WERX will be burned. The airdrop and vesting schedules were shifted, and the new schedules have been released. Uwerx&rsquo;s whitepaper will also be modified to reflect the ongoing changes. </p>
+<p class="s6">Uwerx is on to big things, and once the polls are concluded on August 13, the team will announce the specific details of the new WERX, as they are committed to launching it as soon as possible. </p>
+<p class="s6">Uwerx&rsquo;s dedication throughout this period has been incredible. Their efforts in tackling this challenge have removed all forms of doubt and fear the community initially had. No wonder its community has continued to gather momentum, growing to over 2,500 Telegram members and 2,000 Twitter followers.</p>
+<p class="s6">Uwerx remains focused on its vision, which is to be a change in freelancing, and no matter what, it is resolved to achieve this purpose. So why not throw in your support? Be a part of this value-driven community by following the links below:</p>
+<p class="s12">Website: https://www.uwerx.network</p>
+<p class="s12">Telegram: https://t.me/uwerx_network</p>
+<p class="s12">Twitter: https://twitter.com/uwerx_network</p>
+<p class="s12">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>
+<p class="s12">&nbsp;</p>]]></description>
+			  <content:encoded><![CDATA[<p class="s6">Beyond its ground-breaking features, Uwerx's developers' agile methodology approach has significantly contributed to the project's success. They have been so committed to promoting Uwerx&rsquo;s vision and purpose that investors and users could completely trust them and buy into the project.</p>
+<p class="s6">This was part of why the Uwerx launch was overwhelmingly successful, surpassing expectations and initial forecasts. The developers are back to work and ready to take Uwerx to the next level.</p>
+<p class="s6">However, they witnessed a setback as Uwerx was attacked. The team has yet again shown commitment by quickly and efficiently developing recovery strategies and plans. This article will detail the launch, updates, the hack, and Uwerx&rsquo;s road to recovery.</p>
+Uwerx&rsquo;s Successful Launch: Developers Set To Renounce Smart Contract Ownership
+<p class="s6">After so much anticipation, Uwerx finally launched on August 1, 2023. The launch was successful, as everyone wanted to become a WERX holder. Also, investors and users made tons of profits with all the bonuses that were up.</p>
+<p class="s6">The developers released updates on what to expect next from Uwerx as soon as the launch ended. Uwerx has finally deployed liquidity on Uniswap. The Uwerx Vault, which received positive feedback from 84% of the community, will soon be available as the smart contracts await a thorough audit. </p>
+<p class="s6">To show their commitment to Uwerx&rsquo;s community, the developers immediately began the 25-year liquidity locking they promised to do once Uwerx launched. They are also ready to denounce smart contract ownership when Uwerx goes live on centralized exchanges. The team has submitted their applications to CoinMarketCap and CoinGecko to facilitate this. </p>
+<p class="s6">The team is working to ensure the Uwerx platform is completed immediately. They are working on the core functionality design, focusing on Freelancer, Client, and Agency Dashboards, Project Management, and Additional Settings Pages. </p>
+<p class="s6">Once this is finished, a Minimum Viable Product (MVP) with functions will be released to the community for testing. Based on the feedback obtained, they will proceed with the premium design. </p>
+<p class="s6">There will be a buyback campaign that will scale accordingly to provide support for Uwerx. It will happen weekly, although the dates and times will not be released to avoid anyone taking unfair advantage of the system.</p>
+Uwerx Gets Exploited
+<p class="s6">On August 2, Uwerx reported it got hacked, with the hacker stealing around $327,000. The attacker flash-loaned 20,000 ETH, which he swapped for 5,053,637 WERX. He then sent 4,429,817 WERX to the Uniswap pool. This amount was ten times the prior balance.</p>
+<p class="s6">Afterward, he used the skim() function of Uniswap with the address 0x00...1 as the &ldquo;to&rdquo; address. He also used the transfer function of the Uwerx contract, which first modifies a sender&rsquo;s balance. </p>
+<p class="s6">Since the &ldquo;to&rdquo; address was a UniswapPoolAddress (0x00...1), an extra 1% of the initial amount was burned. As a result, there was an imbalance that the attacker took advantage of to gain 176 ETH ($327,000).</p>
+Uwerx Maintains Momentum As It Sets To Relaunch
+<p class="s6">Despite the hack, Uwerx continues to shine as it devises ways to tackle the hack and maintain its momentum. Once they noticed the hack, they immediately alerted SolidProof and InterFiNetwork, their auditors. Also, the team contacted PeckShieldAlert and SlowMist_Team directly on Twitter. </p>
+<p class="s6">The team began by putting out a white-hat bounty, stating the attacker should return 80% of the exploited funds and keep 20%. </p>
+<p class="s6">A new WERX will be relaunched, and its platform will have more robust security measures. As to the relaunch, there will be a new contract address, which will be released to the community soon. </p>
+<p class="s6">However, the contract address will be audited twice by reputable companies and once by an independent contractor. Due to a change in the contract address, the Uwerx Vault smart contracts are being altered, after which they will be audited before being released to the public.</p>
+<p class="s6">The new WERX will be deployed on the Polygon network instead of Uniswap, on which it is currently deployed. This will enable token holders to easily use WERX on the Uwerxplatform without having to bridge, and it will also lower gas fees. </p>
+<p class="s6">However, those who bought WERX on Uniswap will not be abandoned. The team has decided to airdrop the tokens at the end of the vesting period to ensure they still benefit. They also assure those who bought WERX during the presale that they are safe and will be unaffected by the relaunch.</p>
+<p class="s6">The new WERX will be deployed with more liquidity. To do this, the funds reserved for the buyback campaign will be directed to liquidity. Also, the team is proposing a no-burn tax and a sliding sell tax, of which 100% will be directed to liquidity. </p>
+<p class="s6">A poll is already up on Uwerx&rsquo;s Twitter page and Telegram channel, asking the community if they support a sliding sell tax wholly directed to liquidity. Another poll also asks the community how long the vesting period should be. </p>
+<p class="s6">These polls will end on August 13, after which the development of the new WERX will commence on August 14. The team also welcomes feedback or opinions, which can be sent to feedback@uwerx.network.</p>
+<p class="s6">Also, there will be press releases this week and another major announcement on August 21 to update the community on the new WERX development and plans for the relaunch. &nbsp;</p>
+<p class="s6">The Uwerx platform development is ongoing, and the team has completed certain sections like Settings, Security, Help Center, Login, Privacy Policy, Create Account, and Finished Payments.</p>
+<p class="s6">The WERX allocations will also be changed, and the new allocation is:</p>
+● Presale: 57% (427,500,000)
+● User Performance Incentives: 6% (45,000,000) 
+● Liquidity Reserve: 14% (105,500,000)
+● Marketing: 9% (67,500,000) 
+● Team Tokens: 6% (45,000,000) 
+● Partnership Incentives: 2% (15,000,000)
+● Joining Incentives: 6% ( 45,000,000) 
+<p class="s6">At the end of the presale, 25,499,071 WERX will be burned. The airdrop and vesting schedules were shifted, and the new schedules have been released. Uwerx&rsquo;s whitepaper will also be modified to reflect the ongoing changes. </p>
+<p class="s6">Uwerx is on to big things, and once the polls are concluded on August 13, the team will announce the specific details of the new WERX, as they are committed to launching it as soon as possible. </p>
+<p class="s6">Uwerx&rsquo;s dedication throughout this period has been incredible. Their efforts in tackling this challenge have removed all forms of doubt and fear the community initially had. No wonder its community has continued to gather momentum, growing to over 2,500 Telegram members and 2,000 Twitter followers.</p>
+<p class="s6">Uwerx remains focused on its vision, which is to be a change in freelancing, and no matter what, it is resolved to achieve this purpose. So why not throw in your support? Be a part of this value-driven community by following the links below:</p>
+<p class="s12">Website: https://www.uwerx.network</p>
+<p class="s12">Telegram: https://t.me/uwerx_network</p>
+<p class="s12">Twitter: https://twitter.com/uwerx_network</p>
+<p class="s12">Disclaimer: This is a sponsored press release and is for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>
+<p class="s12">&nbsp;</p>]]></content:encoded>
+			</item>
+														<item>
 			  <title><![CDATA[Bank of America Predicts PYUSD Won’t Be Easily Adopted]]></title>
 			  <link>https://cryptodaily.co.uk/2023/08/bank-of-america-predicts-pyusd-wont-be-easily-adopted</link>
 			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/paypal-1920-1.jpg" medium="image" />
@@ -834,50 +930,6 @@ Who Can Participate in the Challenge?
 			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/ouroboros-taktikos-topls-improvement-to-cardanos-consensus-protocol-passes-peer-review</guid>
 			  <description><![CDATA[<p>Austin, Texas, August 10th, 2023, Chainwire</p><p>Topl&rsquo;s CTO, Dr. Hans Behrens, was invited to present the peer-reviewed Ouroboros Taktikos research at China&rsquo;s prestigious conference in Haikou, China.</p><p class="ql-align-justify">Topl, an interoperable blockchain protocol focused on a connected, inclusive, and sustainable global economy, today announces the peer-reviewed acceptance of its research on Ouroboros Taktikos. This consensus mechanism, built on the foundation of Cardano&rsquo;s Ouroboros Praos, shows a throughput increase of 2.9 times and a latency reduction of 5.7 times compared to Praos.&nbsp;</p><p class="ql-align-justify">Topl's research indicates that by using a dynamic threshold, throughput and latency can be optimized, resulting in a more responsive network. Whereas Praos derives its name from the Greek term meaning "calm" or &ldquo;gentle&rdquo; and is known for its sparse consensus intervals, Taktikos, a Greek term meaning "arrangement," reflects a more dynamic approach to block ordering.</p><p class="ql-align-justify">The Ouroboros Taktikos research was presented at the International Conference on Blockchain and Trustworthy Systems, known as BlockSys, in Haikou, China, and highlights potential areas of improvement within the Ouroboros consensus model. Topl has already integrated Taktikos into its chain to enhance the security and scalability of its protocol.</p><p class="ql-align-justify">Unlike many advancements in the blockchain space, which are typically posted without any third-party validation, Topl's research underwent a rigorous academic peer-review process. The findings were vetted by leading researchers and will be included in the scientific literature, appearing in Springer CCIS. The manuscript will soon be available via Google Scholar alongside the rest of the Ouroboros family of protocols.</p>&ldquo;Our exploration into Ouroboros Taktikos reflects the dedication and curious spirit of the Topl team,&rdquo; says Dr. Hans Behrens, Topl&rsquo;s Chief Technology Officer. &ldquo;For those interested in the nuances of Nakamoto-style proof-of-stake (PoS) protocols, Taktikos offers an insightful advancement. We see it as a collaborative evolution in blockchain consensus models, and we're proud of what our team has achieved together.&rdquo;"The blockchain ecosystem thrives on both breakthroughs and benchmarks,&rdquo; says Jon Woodard, the CEO at Wolfram Blockchain Labs. &ldquo;Ouroboros Taktikos from Topl offers an insightful blend, advocating for technological advances rooted in academic credibility."<p class="ql-align-justify"></p><p>About Topl</p><p class="ql-align-justify">Topl is a new interoperable blockchain protocol that aims to create a sustainable, inclusive economy. Its mission is to disrupt existing economic systems and empower changemakers worldwide to make a lasting, positive impact. Topl's modular, permissionless proof-of-stake blockchain is transparent, secure, scalable, and energy-efficient. Its technical innovations, including interoperability and eUTxO efficiency, pave the way for economic system innovation by connecting builders across the Topl network. The protocol's transparency, security, and flexibility make it suitable for track and trace applications, carbon and renewable energy credit exchanges, asset tokenization, and other use cases.&nbsp;</p>ContactChief Marketing OfficerClay FainToplc.fain@topl.me]]></description>
 			  <content:encoded><![CDATA[<p>Austin, Texas, August 10th, 2023, Chainwire</p><p>Topl&rsquo;s CTO, Dr. Hans Behrens, was invited to present the peer-reviewed Ouroboros Taktikos research at China&rsquo;s prestigious conference in Haikou, China.</p><p class="ql-align-justify">Topl, an interoperable blockchain protocol focused on a connected, inclusive, and sustainable global economy, today announces the peer-reviewed acceptance of its research on Ouroboros Taktikos. This consensus mechanism, built on the foundation of Cardano&rsquo;s Ouroboros Praos, shows a throughput increase of 2.9 times and a latency reduction of 5.7 times compared to Praos.&nbsp;</p><p class="ql-align-justify">Topl's research indicates that by using a dynamic threshold, throughput and latency can be optimized, resulting in a more responsive network. Whereas Praos derives its name from the Greek term meaning "calm" or &ldquo;gentle&rdquo; and is known for its sparse consensus intervals, Taktikos, a Greek term meaning "arrangement," reflects a more dynamic approach to block ordering.</p><p class="ql-align-justify">The Ouroboros Taktikos research was presented at the International Conference on Blockchain and Trustworthy Systems, known as BlockSys, in Haikou, China, and highlights potential areas of improvement within the Ouroboros consensus model. Topl has already integrated Taktikos into its chain to enhance the security and scalability of its protocol.</p><p class="ql-align-justify">Unlike many advancements in the blockchain space, which are typically posted without any third-party validation, Topl's research underwent a rigorous academic peer-review process. The findings were vetted by leading researchers and will be included in the scientific literature, appearing in Springer CCIS. The manuscript will soon be available via Google Scholar alongside the rest of the Ouroboros family of protocols.</p>&ldquo;Our exploration into Ouroboros Taktikos reflects the dedication and curious spirit of the Topl team,&rdquo; says Dr. Hans Behrens, Topl&rsquo;s Chief Technology Officer. &ldquo;For those interested in the nuances of Nakamoto-style proof-of-stake (PoS) protocols, Taktikos offers an insightful advancement. We see it as a collaborative evolution in blockchain consensus models, and we're proud of what our team has achieved together.&rdquo;"The blockchain ecosystem thrives on both breakthroughs and benchmarks,&rdquo; says Jon Woodard, the CEO at Wolfram Blockchain Labs. &ldquo;Ouroboros Taktikos from Topl offers an insightful blend, advocating for technological advances rooted in academic credibility."<p class="ql-align-justify"></p><p>About Topl</p><p class="ql-align-justify">Topl is a new interoperable blockchain protocol that aims to create a sustainable, inclusive economy. Its mission is to disrupt existing economic systems and empower changemakers worldwide to make a lasting, positive impact. Topl's modular, permissionless proof-of-stake blockchain is transparent, secure, scalable, and energy-efficient. Its technical innovations, including interoperability and eUTxO efficiency, pave the way for economic system innovation by connecting builders across the Topl network. The protocol's transparency, security, and flexibility make it suitable for track and trace applications, carbon and renewable energy credit exchanges, asset tokenization, and other use cases.&nbsp;</p>ContactChief Marketing OfficerClay FainToplc.fain@topl.me]]></content:encoded>
-			</item>
-														<item>
-			  <title><![CDATA[Telegram to Integrate a Crypto Wallet Called TON Space]]></title>
-			  <link>https://cryptodaily.co.uk/2023/08/telegram-to-integrate-a-crypto-wallet-called-ton-space</link>
-			  <media:content url="https://cryptodailycdn.ams3.digitaloceanspaces.com/telegram-1920.jpg" medium="image" />
-			  <media:thumbnail url="https://cryptodailycdn.ams3.digitaloceanspaces.com/telegram-1920.jpg" />
-			  <enclosure url="http://cryptodailycdn.ams3.digitaloceanspaces.com/telegram-1920.jpg" length="528" type="image/jpg" />
-			  <pubDate>Thu, 10 Aug 2023 19:00:00 +0100</pubDate>
-			  <dc:creator><![CDATA[Olga Krasilnikova]]></dc:creator>
-			  <guid isPermaLink="false">https://cryptodaily.co.uk/2023/08/telegram-to-integrate-a-crypto-wallet-called-ton-space</guid>
-			  <description><![CDATA[<p>The waitlist for the integration of a self-custody wallet TON Space within Telegram Messenger is now available for developers.</p>
-Merging Web2 and Web3
-<p>On Wednesday, August 9, the TON, a blockchain system originally created by Telegram, announced the launch of its self-custodial crypto wallet TON Space that would be integrated in the prominent messaging app. The product is now in its beta phase and available for developers only.</p>
-<p>By applying for the beta version of TON Space, developers will have a chance to integrate the wallet into their apps before everyone else.&nbsp;</p>
-<p>TON Space aims at facilitating the Web3 adoption by offering the whole user experience entirely within Telegram Messenger. Developers will be able to build their apps, integrate the blockchain, and unboard their users without leaving the platform.</p>
-
-<p>&ldquo;The developers&rsquo; beta is a critical moment in launching the first self-custodial wallet built into a thriving Web2 platform,&rdquo; said Jordan Dunne, Head of DeFi at Wallet. &ldquo;The introduction of TON Space will allow blockchain developers to build Web3 services that feel like the intuitive mobile app experiences users have every day. Easy-to-use and all without ever leaving Telegram, with 800 million users every month, this opens up a staggering growth opportunity for builders.&rdquo;</p>
-
-Main Features of TON Space
-<p>As a self-custody wallet, TON Space will provide its users with full control over their assets, allowing them to store, trade, and manage crypto within Telegram. One of the unique advantages of TON Space is that it can be seamlessly linked to any app built on Telegram, all integrated within a single ecosystem. According to the press release, TON Space is the most highly anticipated feature among the users who wish to have full access to the TON network within Telegram Messenger.</p>
-<p>The custodial wallet is expected to open for consumer use by the end of Q3 2023. The team also plans to integrate NFT collectables and swapping services into the product by that time.</p>
-
-<p>&ldquo;The launch of TON Space is a significant milestone that establishes a new infrastructure layer for the TON ecosystem,&rdquo; commented Justin Hyun, Director of Growth at TON Foundation. &ldquo;The power to build decentralized applications and bots fully integrated inside of Telegram cannot be underestimated. These services, and their users, will now enjoy the infinite possibilities that come with the power to store, manage, and trade assets within Telegram.&rdquo;</p>
-
-Telegram vs Twitter?
-<p>By integrating the crypto wallet, Telegram, which has always had an unwavering emphasis on privacy and security, is now officially entering the Web3 space. The move makes the global messenger a key player in the industry, which could potentially compete with such giants as X (previously known as Twitter), recently bought and rebranded by Elon Musk.&nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></description>
-			  <content:encoded><![CDATA[<p>The waitlist for the integration of a self-custody wallet TON Space within Telegram Messenger is now available for developers.</p>
-Merging Web2 and Web3
-<p>On Wednesday, August 9, the TON, a blockchain system originally created by Telegram, announced the launch of its self-custodial crypto wallet TON Space that would be integrated in the prominent messaging app. The product is now in its beta phase and available for developers only.</p>
-<p>By applying for the beta version of TON Space, developers will have a chance to integrate the wallet into their apps before everyone else.&nbsp;</p>
-<p>TON Space aims at facilitating the Web3 adoption by offering the whole user experience entirely within Telegram Messenger. Developers will be able to build their apps, integrate the blockchain, and unboard their users without leaving the platform.</p>
-
-<p>&ldquo;The developers&rsquo; beta is a critical moment in launching the first self-custodial wallet built into a thriving Web2 platform,&rdquo; said Jordan Dunne, Head of DeFi at Wallet. &ldquo;The introduction of TON Space will allow blockchain developers to build Web3 services that feel like the intuitive mobile app experiences users have every day. Easy-to-use and all without ever leaving Telegram, with 800 million users every month, this opens up a staggering growth opportunity for builders.&rdquo;</p>
-
-Main Features of TON Space
-<p>As a self-custody wallet, TON Space will provide its users with full control over their assets, allowing them to store, trade, and manage crypto within Telegram. One of the unique advantages of TON Space is that it can be seamlessly linked to any app built on Telegram, all integrated within a single ecosystem. According to the press release, TON Space is the most highly anticipated feature among the users who wish to have full access to the TON network within Telegram Messenger.</p>
-<p>The custodial wallet is expected to open for consumer use by the end of Q3 2023. The team also plans to integrate NFT collectables and swapping services into the product by that time.</p>
-
-<p>&ldquo;The launch of TON Space is a significant milestone that establishes a new infrastructure layer for the TON ecosystem,&rdquo; commented Justin Hyun, Director of Growth at TON Foundation. &ldquo;The power to build decentralized applications and bots fully integrated inside of Telegram cannot be underestimated. These services, and their users, will now enjoy the infinite possibilities that come with the power to store, manage, and trade assets within Telegram.&rdquo;</p>
-
-Telegram vs Twitter?
-<p>By integrating the crypto wallet, Telegram, which has always had an unwavering emphasis on privacy and security, is now officially entering the Web3 space. The move makes the global messenger a key player in the industry, which could potentially compete with such giants as X (previously known as Twitter), recently bought and rebranded by Elon Musk.&nbsp;</p>
-<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>]]></content:encoded>
 			</item>
 					
 	</channel>

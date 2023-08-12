@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Sat, 12 Aug 2023 12:24:55 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Aug 2023 12:30:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Visa Pilots Innovative Approach for Paying On-Chain Gas Fees with Visa Card</title>
+		<link>https://cryptopotato.com/visa-pilots-innovative-approach-for-paying-on-chain-gas-fees-with-visa-card/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2023 14:42:36 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Visa]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=265862</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/12/visa_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/12/visa_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Visa is working on a solution to eliminate the need for users to hold ETH merely for paying gas fees.]]></description>
+            																<content:encoded><![CDATA[<p>American payment goliath Visa is exploring ways to facilitate payment of on-chain gas fees through the use of a Visa card.</p>
+<p>In a recent report, Visa&#8217;s Product Manager Mustafa Bedawala emphasized a challenge associated with cryptocurrency wallets faced by users which requires them to constantly manage their ETH balance to cover gas fees.</p>
+<p>The company is experimenting with an option to enable users to pay their on-chain gas fees directly in fiat money through card payments, thereby simplifying blockchain transactions.</p>
+<h2>Visa&#8217;s Solution for Gas Fees</h2>
+<p>Under Visa&#8217;s scenario, users may no longer need to hold native tokens specific to a blockchain exclusively to cover gas fees. This resolution would leverage Ethereum&#8217;s ERC-4337 standard and a &#8216;Paymaster&#8217; contract, allowing customers to utilize a Visa card for the direct payment of gas fees.</p>
+<p>This approach is not only expected to be a major relief for existing users but is also designed to help streamline the onboarding process for new ones.</p>
+<blockquote><p>&#8220;Our proposed solution liberates users from the need to hold native blockchain tokens or constantly engage in bridging tokens merely to cover gas fees. From a user’s perspective, this solution is appealing in its simplicity and ease of adoption.&#8221;</p></blockquote>
+<p>Visa suggests a solution that involves receiving the user&#8217;s gas fee payment off-chain through a Visa card and subsequently covering the equivalent sum on-chain on their behalf. This process simplifies the gas fee experience, resembling a typical card payment transaction.</p>
+<p>The setup implemented by the payments firm to permit the off-chain gas payment capability is centered around a &#8216;Verifying Paymaster,&#8217; which is essentially a smart contract that delegates all necessary checks and sourcing of information to an off-chain component.</p>
+<p>The on-chain paymaster smart contract can then utilize the information and authorization provided by the off-chain component to validate and execute the payment for the gas fee.</p>
+<p>The payment is processed via Cybersource, and the web service produces a digital signature. Successful verification of the signature indicates that the web service has indeed received the card payment to facilitate the operational expenses. In such a case, the paymaster contract will operate without any errors and will cover the associated gas fee accordingly.</p>
+<h2>Gasless Transactions</h2>
+<p>Visa has <a href="https://cryptopotato.com/visa-deploys-paymaster-contracts-on-ethereum-testnest-for-gasless-transactions/" target="_blank" rel="noopener" data-wpel-link="internal">experimented</a> with this idea on the Ethereum Goerli testnet, making use of accessible open-source tools like Stackup&#8217;s userop.js library. The trial transactions successfully handled fees via the Paymaster, eliminating the need for ETH in the process.</p>
+<p>The post <a href="https://cryptopotato.com/visa-pilots-innovative-approach-for-paying-on-chain-gas-fees-with-visa-card/" rel="nofollow">Visa Pilots Innovative Approach for Paying On-Chain Gas Fees with Visa Card</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>What Are Whales Investing in on Coinbase&#8217;s Base Network? Nansen Investigates</title>
 		<link>https://cryptopotato.com/what-are-whales-investing-in-on-coinbases-base-network-nansen-investigates/</link>
 		
@@ -323,40 +354,6 @@
 <li>The company <a class="editor-rtfLink" href="https://cryptopotato.com/crypto-exchange-bittrex-files-for-us-bankruptcy-protection/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">filed</span></a><span data-preserver-spaces="true"> for Chapter 11 bankruptcy protection in the US approximately three weeks after the SEC&#8217;s attack. According to the filing, it had more than 100,000 creditors, with estimated liabilities and assets both worth between $500 million and $1 billion. </span></li>
 </ul>
 <p>The post <a href="https://cryptopotato.com/embattled-crypto-exchange-to-pay-a-24-million-penalty-to-settle-with-sec-report/" rel="nofollow">Embattled Crypto Exchange to Pay a $24 Million Penalty to Settle With SEC (Report)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Another Country Begins Investigating Sam Altman&#8217;s Worldcoin</title>
-		<link>https://cryptopotato.com/another-country-begins-investigating-sam-altmans-worldcoin/</link>
-		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 21:21:57 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Argentina]]></category>
-		<category><![CDATA[Worldcoin]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=265768</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/Worldcoin_investigation.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/Worldcoin_investigation.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The AAIP will "carefully analyze" how Worldcoin processes personal data and whether it presents any risks for Argentines.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Argentina&#8217;s Agency for Access to Public Information (AAIP) disclosed that it is currently conducting an investigation on Worldcoin to determine whether it complies with security and privacy rules.</span></p>
-<p><span data-preserver-spaces="true">The cryptocurrency project, which saw the light of day in July, sparked huge controversy due to its eye-scanning requirements. Other countries, including Kenya and Germany, have also raised concerns on the matter.</span></p>
-<h2><span data-preserver-spaces="true">Argentina Joining the Club</span></h2>
-<p><span data-preserver-spaces="true">The aforementioned agency </span><a class="editor-rtfLink" href="https://www.argentina.gob.ar/noticias/la-aaip-investiga-el-tratamiento-de-datos-personales-de-worldcoin-en-argentina" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">said</span></a><span data-preserver-spaces="true"> it will investigate how the Worldcoin Foundation in Argentina processes personal data and whether the crypto project hides any risks to the privacy of consumers. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;The investigation will carefully analyze the processes and practices in relation to the collection, storage, and use of personal data to identify possible effects on the rights recognized by Law 25,326.</span></p>
-<p>In addition, appropriate steps will be taken to address any identified issues and ensure that the company complies with security and privacy standards,&#8221; the disclosure reads.</p></blockquote>
-<p><span data-preserver-spaces="true">Worldcoin&#8217;s popularity has recently surged in the South American country due to the procedure of scanning the face and iris of multiple individuals in different regions, such as Buenos Aires, Córdoba, and Mendoza, in exchange for certain economic compensations.</span></p>
-<p><span data-preserver-spaces="true">The AAIP outlined that the entity responsible for obtaining such biometric information should be registered with the relevant regulator. It added that users should also know who collects that sensitive data, where it gets stored, and what is the processing time.</span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;Cases like this make visible the need to strengthen the current legal framework regarding the Protection of Personal Data, as has been raised repeatedly and in various national and international forums by the AAIP,&#8221; the agency concluded.</span></p></blockquote>
-<h2><span data-preserver-spaces="true">Wolrdcoin&#8217;s Birth and the Triggered Controversy</span></h2>
-<p><span data-preserver-spaces="true">After years of trials and fundraisers, Worldcoin finally <a href="https://cryptopotato.com/openai-ceo-sam-altmans-crypto-project-worldcoin-launches-wld-token/" data-wpel-link="internal">launched</a> its native token WLD at the end of July. The project, led by the CEO of OpenAI &#8211; Sam Altman, presents itself as an open-source protocol &#8220;designed to become the world&#8217;s largest human identity and financial network, giving ownership to everyone.&#8221;</span></p>
-<p><span data-preserver-spaces="true">The controversy behind it comes from Worldcoin&#8217;s intention to register new users and distribute certain crypto assets to those who scan their iris through a ball-like device called an &#8220;orb.&#8221;</span></p>
-<p><span data-preserver-spaces="true">Somewhat expectedly, the project&#8217;s idea, which reminds the plot of a sci-fi movie, received a wave of criticism from numerous agencies. The government of Kenya, for example, </span><a class="editor-rtfLink" href="https://cryptopotato.com/kenya-authorities-suspend-worldcoin-activities-over-data-privacy-concerns/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">suspended</span></a><span data-preserver-spaces="true"> all Worldcoin activities and the distribution of WLD due to safety and privacy concerns. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;Appropriate action will be taken on any natural or juristic person who furthers, aids, abets or otherwise engages in or is connected with the activities afore-described,” the Kenyan politician Kithure Kindiki stated.</span></p></blockquote>
-<p><span data-preserver-spaces="true">The regulators of </span><a class="editor-rtfLink" href="https://www.reuters.com/technology/german-regulator-probes-worldcoin-crypto-currency-handelsblatt-2023-08-08/" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">Germany</span></a><span data-preserver-spaces="true">, France, and the United Kingdom have also questioned the legality of Worldcoin&#8217;s biometric data collection.</span></p>
-<p><span data-preserver-spaces="true">Privacy experts have warned that personal data, such as iris identification, is quite sensitive and could be breached by criminals. This, in turn, could lead to identity theft or stalking. </span></p>
-<p>The post <a href="https://cryptopotato.com/another-country-begins-investigating-sam-altmans-worldcoin/" rel="nofollow">Another Country Begins Investigating Sam Altman&#8217;s Worldcoin</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
