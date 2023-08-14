@@ -12,7 +12,7 @@
 	<atom:link href="https://news.bitcoin.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://news.bitcoin.com/</link>
 	<description>Daily Bitcoin News</description>
-	<lastBuildDate>Mon, 14 Aug 2023 15:08:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Aug 2023 15:58:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,57 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Revolutionizing Bitcoin Privacy: Samourai Wallet Unveils BTC to XMR Atomic Swaps</title>
+		<link>https://news.bitcoin.com/revolutionizing-bitcoin-privacy-samourai-wallet-unveils-btc-to-xmr-atomic-swaps/</link>
+		
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 17:30:41 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[anonymity-enhancing tools]]></category>
+		<category><![CDATA[Atomic Swaps]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[blockchain monitoring]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Cashfusion]]></category>
+		<category><![CDATA[Coin Shuffle]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Digital Currencies]]></category>
+		<category><![CDATA[KYC]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[Mysu wallet]]></category>
+		<category><![CDATA[Pokkst]]></category>
+		<category><![CDATA[privacy-oriented]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[samourai wallet]]></category>
+		<category><![CDATA[taint change]]></category>
+		<category><![CDATA[tainted change]]></category>
+		<category><![CDATA[utxos]]></category>
+		<category><![CDATA[Whirlpool Coinjoins]]></category>
+		<category><![CDATA[xmr]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=602485</guid>
+
+					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />In a pioneering move, Samourai, the privacy-focused bitcoin wallet, has revealed a BTC to XMR atomic swap feature aimed at revolutionizing onchain privacy in Bitcoin. Addressing the widespread issue of tainted change, also known as leftover unspent transaction outputs (UTXOs) remaining from Whirlpool Coinjoins, this could represent a monumental advancement in the cryptocurrency landscape. Tackling [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p dir="ltr"><strong>In a pioneering move, Samourai, the privacy-focused bitcoin wallet, has revealed a <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> to <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XMR" target="_blank">XMR</a> atomic swap feature aimed at revolutionizing onchain privacy in Bitcoin. Addressing the widespread issue of tainted change, also known as leftover unspent transaction outputs (UTXOs) remaining from Whirlpool Coinjoins, this could represent a monumental advancement in the cryptocurrency landscape.</strong></p>
+<h2 dir="ltr">Tackling the Tainted Change Problem</h2>
+<p dir="ltr"><a href="https://samouraiwallet.com/">Samourai Wallet</a> has <a href="https://twitter.com/SamouraiWallet/status/1687896997615882241?s=20">unveiled</a> a new capability allowing <a href="https://markets.bitcoin.com/crypto/BTC/">bitcoin (BTC)</a> to <a href="https://markets.bitcoin.com/crypto/XMR/">monero (XMR)</a> atomic swaps, offering a more discreet means of transacting. Atomic swaps enable two parties to exchange different cryptocurrencies without requiring a trustworthy intermediary. Samourai&#x2019;s <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> to <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XMR" target="_blank">XMR</a> atomic swaps enhance this by integrating a privacy-oriented approach.</p>
+<p dir="ltr">Once in place, the system will grant users a more efficient way to handle tainted change, essentially UTXOs leftover from Whirlpool Coinjoins. This change or residual fragments of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> can result in diminished privacy and be detected by blockchain surveillance programs. Samourai has collaborated with the Mysu wallet developer, <a href="https://twitter.com/pokkst">Pokkst</a>, on the atomic swap functionality.</p>
+<p dir="ltr">Tainted or leftover change from Coinjoins has been an acknowledged issue for some time, and major brands supporting the Coinjoin scheme often overlook discussing the problem. Besides Samourai addressing tainted change concerns, the bitcoin cash (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BCH" target="_blank">BCH</a>) Coin Shuffle system was transitioned into <a href="https://news.bitcoin.com/cashfusion-practical-says-data-analyst/">Cashfusion</a> for this specific reason. Some wallets also employ a method called &#x201C;change output inclusion&#x201D; to tackle tainted change.</p>
+<p dir="ltr">Monero (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XMR" target="_blank">XMR</a>), a cryptocurrency with a focus on privacy, made its debut on April 18, 2014. Employing the Cryptonote protocol, Monero&#x2019;s use of ring signatures, stealth addresses, and bulletproofs conceals the particulars of both the sender and recipient, ensuring transaction confidentiality. This makes <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XMR" target="_blank">XMR</a> appealing to those seeking financial privacy.</p>
+<p dir="ltr">The potential to facilitate <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> and <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XMR" target="_blank">XMR</a> through atomic swaps offers the prospect of immediate, trust-free exchanges between the two digital currencies, eliminating the necessity for a middleman.</p>
+<p dir="ltr"></p>
+<p dir="ltr">Although Samourai&#x2019;s feature has received praise from the privacy community, several <a href="https://markets.bitcoin.com/crypto/BTC/">bitcoin (BTC)</a> maximalists have critiqued it for utilizing <a href="https://markets.bitcoin.com/crypto/XMR/">monero (XMR)</a>. An X user going by the name &#x201C;Platelicker&#x201D; <a href="https://twitter.com/PlateLicker_21m/status/1687916641391181824?s=20">asked</a> followers if Samourai should be &#x201C;canceled.&#x201D; Unfazed by the criticism, Samourai continues to develop the feature.</p>
+<p dir="ltr">&#x201C;No one influences our roadmap but us,&#x201D; Samourai <a href="https://twitter.com/SamouraiWallet/status/1687897001877258241?s=20">posted</a> to X. &#x201C;No one will bully us into submission. You&#x2019;re either along for the ride or you aren&#x2019;t. If you want off the ride, you better jump because we&#x2019;re not slowing down for you. It&#x2019;s as simple as that.&#x201D;</p>
+<p>The introduction of Samourai&#x2019;s feature coincides with a period where enthusiasm for privacy features among cryptocurrency advocates has waned in recent years. Increasingly, influencers have compromised privacy to seek state approval or recognition and regulation of digital currencies like bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>). Anonymity-enhancing crypto tools have been relegated, privacy coins delisted from prominent exchanges, and a significant number of today&#x2019;s crypto influencers and businesses <a href="https://twitter.com/CoinMarketCap/status/1690801896448016384?s=20">embrace regulations and KYC</a> as positive aspects.</p>
+<p><em><strong>What do you think about Samourai&#x2019;s upcoming feature? Share your thoughts and opinions about this subject in the comments section below.</strong></em></p>
+
+
+
+]]></content:encoded>
+					
+		
+		
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/ggg-760x428.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Samourai has revealed a BTC to #XMR atomic swap feature aimed at revolutionizing onchain privacy in #Bitcoin.]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[Samourai has revealed a feature that allows users to swap bitcoin for #monero without revealing their identities, which could revolutionize onchain privacy in #Bitcoin.]]></bnmedia:late_barker_title>	</item>
+		<item>
 		<title>Biggest Movers: LINK Ends 4-Day Losing Streak, as DOGE Extends Declines</title>
 		<link>https://news.bitcoin.com/biggest-movers-link-ends-4-day-losing-streak-as-doge-extends-declines/</link>
 		
@@ -42,7 +93,7 @@
 		<category><![CDATA[LiNK]]></category>
 		<guid isPermaLink="false">https://news.bitcoin.com/?p=602502</guid>
 
-					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Biggest Movers: LINK Ends 4-Day Losing Streak, as DOGE Extends Declines" decoding="async" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Chainlink was one of the notable movers on Monday, as the token ended a streak of four consecutive days of declines. The move comes despite the global market cap mostly trading lower to start the week, falling 0.23% as of writing. Dogecoin fell for a second straight session. Chainlink (LINK) Chainlink snapped a four-day losing [&#8230;]]]></description>
+					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Biggest Movers: LINK Ends 4-Day Losing Streak, as DOGE Extends Declines" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Chainlink was one of the notable movers on Monday, as the token ended a streak of four consecutive days of declines. The move comes despite the global market cap mostly trading lower to start the week, falling 0.23% as of writing. Dogecoin fell for a second straight session. Chainlink (LINK) Chainlink snapped a four-day losing [&#8230;]]]></description>
 										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Biggest Movers: LINK Ends 4-Day Losing Streak, as DOGE Extends Declines" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_2130621119-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p><strong>Chainlink was one of the notable movers on Monday, as the token ended a streak of four consecutive days of declines. The move comes despite the global market cap mostly trading lower to start the week, falling 0.23% as of writing. Dogecoin fell for a second straight session.</strong></p>
 <h2>Chainlink (LINK)</h2>
 <p>Chainlink snapped a four-day losing streak on Monday, despite the global market cap mostly tracking lower to start the week.</p>
@@ -491,56 +542,5 @@ Nonetheless, the authors say uncertainties remain regarding timelines and the fe
 		
 		
 		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1827932012-1-1-1.webp</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[In this issue: The #Argentine peso reaches historic lows, #Tether #USDT accounts for more than 80% of the transactions in the #Brazilian market, and #Binance gets fully licensed in El Salvador.]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[This week: The #Argentine peso reaches historic lows, #Tether #USDT accounts for more than 80% of the transactions in the #Brazilian market, and #Binance gets fully licensed in El Salvador.]]></bnmedia:late_barker_title>	</item>
-		<item>
-		<title>Amid Gold&#8217;s Recent Slide, Experts Predict a Shining Future with Potential Highs Beyond $2,500 by 2024</title>
-		<link>https://news.bitcoin.com/amid-golds-recent-slide-experts-predict-a-shining-future-with-potential-highs-beyond-2500-by-2024/</link>
-		
-		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
-		<pubDate>Sun, 13 Aug 2023 21:30:02 +0000</pubDate>
-				<category><![CDATA[Market Updates]]></category>
-		<category><![CDATA[algorithm-driven predictions]]></category>
-		<category><![CDATA[bullish predictions]]></category>
-		<category><![CDATA[central bank acquisitions]]></category>
-		<category><![CDATA[commodities]]></category>
-		<category><![CDATA[downturn]]></category>
-		<category><![CDATA[Economy]]></category>
-		<category><![CDATA[experts]]></category>
-		<category><![CDATA[Financial analysis]]></category>
-		<category><![CDATA[Forecasts]]></category>
-		<category><![CDATA[Global Economy]]></category>
-		<category><![CDATA[gold]]></category>
-		<category><![CDATA[investment]]></category>
-		<category><![CDATA[Livermore Partners]]></category>
-		<category><![CDATA[Market Trends]]></category>
-		<category><![CDATA[Precious Metals]]></category>
-		<category><![CDATA[Prices]]></category>
-		<category><![CDATA[recovery]]></category>
-		<category><![CDATA[resilience]]></category>
-		<category><![CDATA[silver]]></category>
-		<category><![CDATA[TD Securities]]></category>
-		<category><![CDATA[trading]]></category>
-		<category><![CDATA[World Gold Council]]></category>
-		<guid isPermaLink="false">https://news.bitcoin.com/?p=602333</guid>
-
-					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />In recent times, gold and silver have faced a downtrend, with gold losing over 2% of its value in the past month and silver tumbling more than 5% against the U.S. dollar. Even amid gold&#8217;s rather uninspiring performance this last month, David Neuhauser, the founder of the investment company Livermore Partners, forecasts that gold&#8217;s worth [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p><strong>In recent times, gold and silver have faced a downtrend, with gold losing over 2% of its value in the past month and silver tumbling more than 5% against the U.S. dollar. Even amid gold&#8217;s rather uninspiring performance this last month, David Neuhauser, the founder of the investment company Livermore Partners, forecasts that gold&#8217;s worth could rise to $2,500 by the close of 2024.</strong></p>
-<h2>From Slump to Surge: Some Expect Gold to Bounce Back</h2>
-<p>Approximately three years ago, in August 2020, gold soared to an unprecedented peak, hitting $2,074 per ounce, while silver simultaneously reached a high of around $28 per ounce on August 6 of the same year.</p>
-<p>Since then, however, the luster has faded from these precious metals, and prices have slid downward. As of August 12, 2023, gold&#8217;s current trading price stands at <a href="https://www.tradingview.com/symbols/XAUUSD/">$1,913 per ounce</a>, with silver trailing at <a href="https://www.tradingview.com/symbols/SILVER/">$22.67 per ounce</a>.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-602340" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48.png" alt="" width="1996" height="778" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48-300x117.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48-1024x399.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48-768x299.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48-1536x599.png 1536w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/xauusd_2023-08-12_20-45-48.png 1996w" sizes="(max-width: 1996px) 100vw, 1996px" /></p>
-<p>Earlier in the month, on August 1, the World Gold Council (WGC) published the latest <a href="https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2023">Gold Demand Trends report</a>, shedding light on gold&#8217;s performance in the first half of the year, buoyed by a high level of central bank acquisitions.</p>
-<p><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-602341" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11.png" alt="" width="1996" height="778" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11-300x117.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11-1024x399.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11-768x299.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11-1536x599.png 1536w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/silver_2023-08-12_20-46-11.png 1996w" sizes="(max-width: 1996px) 100vw, 1996px" /></p>
-<p>The WGC further elaborated that the half-year success of gold was bolstered by thriving investment markets and a resilient demand for jewelry. However, even amidst these favorable conditions, the report divulged that gold demand (excluding over-the-counter or OTC) experienced a 2% year-over-year dip to 921 tons during the second quarter.</p>
-<p>&#8220;Inclusive of OTC and stock flows, total demand strengthened 7% y/y to 1,255t,&#8221; the WGC&#8217;s Gold Demand Trends Q2 2023 report clarified. Although gold and silver have lost ground in the past month and remain significantly below their 2020 peaks, some industry experts retain an optimistic outlook, foreseeing bullish trends toward the close of 2023 and 2024.</p>
-<p>In an email sent to CNBC, Bart Melek, TD Securities&#8217; managing director and global head of commodity strategy, shared his perspective that gold could rise above $2,100 in the latter part of 2023 or the commencement of 2024. Melek attributed this optimistic projection to the U.S. Federal Reserve&#8217;s <a href="https://news.bitcoin.com/end-of-feds-tightening-cycle-bernanke-majority-of-polled-economists-see-terminal-rate-hike-ahead/">quantitative tightening</a>, pinpointing it as the catalyst for the bullish forecast.</p>
-<p>Additionally, Livermore Partners&#8217; founder, David Neuhauser, <a href="https://www.cnbc.com/2023/08/11/gold-prices-to-breach-all-time-highs-with-some-calling-for-2500.html">conveyed</a> to CNBC&#8217;s Lee Ying Shan that he foresees gold reaching the remarkable milestone of $2,500 by the conclusion of the upcoming year. “2024 is when I see gold breaking out and reaching new highs and beyond,” Neuhauser said.</p>
-<p>“My target is $2,500 by the end of 2024 … Much of this has to do with the fact that recessionary forces may take hold beginning later this year and gain steam in 2024,” the Livermore Partners executive added.</p>
-<p>In a <a href="https://capital.com/gold-price-forecast-next-5-years">report</a> from Capital.com, ANZ research provided a prediction in May 2023, anticipating that gold could be trading at $2,100 by the close of 2023, and near $2,200 by September 2024. Furthermore, the same report reveals that Walletinvestor, an algorithm-driven price prediction platform, explains that the precious metal&#8217;s price will surge to $2,289 by May 2028.</p>
-<p><em><strong>What do you think about the experts who believe gold has a bullish future ahead? Or do you see gold&#8217;s downtrend continuing? Share your thoughts and opinions about this subject in the comments section below.</strong></em></p>
-]]></content:encoded>
-					
-		
-		
-		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/66777golg-760x428.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[“2024 is when I see #gold breaking out and reaching new highs and beyond,” Livermore Partners' founder, David Neuhauser said. #PreciousMetals]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[“My target is $2,500 by the end of 2024 … Much of this has to do with the fact that recessionary forces may take hold," David Neuhauser stated. #Gold]]></bnmedia:late_barker_title>	</item>
 	</channel>
 </rss>
