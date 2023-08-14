@@ -597,4 +597,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7835 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1967239 metric#prefetches=162 metric#store-reads=20 metric#store-writes=4 metric#store-hits=168 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=306.15 metric#ms-cache=17.06 metric#ms-cache-avg=0.7417 metric#ms-cache-ratio=5.6 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7835 metric#misses=8 metric#hit-ratio=99.9 metric#bytes=1967240 metric#prefetches=162 metric#store-reads=20 metric#store-writes=5 metric#store-hits=168 metric#store-misses=4 metric#sql-queries=5 metric#ms-total=284.70 metric#ms-cache=16.46 metric#ms-cache-avg=0.6860 metric#ms-cache-ratio=5.8 sample#redis-hits=268808278 sample#redis-misses=6549279 sample#redis-hit-ratio=97.6 sample#redis-ops-per-sec=18 sample#redis-evicted-keys=0 sample#redis-used-memory=62953016 sample#redis-used-memory-rss=91525120 sample#redis-memory-fragmentation-ratio=1.4 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=41386 -->
