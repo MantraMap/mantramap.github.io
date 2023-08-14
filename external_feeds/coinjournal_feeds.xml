@@ -12,7 +12,7 @@
 	<atom:link href="https://coinjournal.net/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coinjournal.net/</link>
 	<description><![CDATA[Your home of the best & latest crypto news. Most recent news & guidance about Bitcoin, Ethereum, mining, cryptocurrency prices, and more.]]></description>
-	<lastBuildDate>Sun, 13 Aug 2023 10:36:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Aug 2023 12:00:59 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,178 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>A price manipulation hack causes Zunami protocol to lose $2.1M</title>
+		<link>https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/</link>
+					<comments>https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 12:00:58 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/</guid>
+
+					<description><![CDATA[<p>Zunami Protocol has lost $2.1 million due to a flash loan hack that manipulated prices. The hacker used a flash loan to inject liquidity. The attacker made 1,152 ETH in the process. Zunami Protocol, a leading player in the decentralized finance (DeFi) industry, has suffered a serious setback after a security breach resulted in a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/">A price manipulation hack causes Zunami protocol to lose $2.1M</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul class="decimal_type">
+<li>Zunami Protocol has lost $2.1 million due to a flash loan hack that manipulated prices.</li>
+<li>The hacker used a flash loan to inject liquidity.</li>
+<li>The attacker made 1,152 ETH in the process.</li>
+</ul>
+<p>Zunami Protocol, a leading player in the decentralized finance (DeFi) industry, has suffered a serious setback after a security breach resulted in a loss of more than $2.1 million.</p>
+<p>The platform&rsquo;s Curve Finance-hosted liquidity pool was the target of the attack, which was disclosed by blockchain security companies PeckShield and Ironblocks.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Hi <a href="https://twitter.com/ZunamiProtocol?ref_src=twsrc%5Etfw">@zunamiprotocol</a>,  we have detected an ongoing attack. Users are strongly suggested to take necessary actions. </p>
+<p>Here is the encrypted hash: 2638ae2969ce932d61c3ca66f9b8a4a6c01c4d89bb2b34ddcf2c4145960f41c4. Actual hash will be released once the situation is stable.</p>
+<p>&mdash; PeckShield Inc. (@peckshield) <a href="https://twitter.com/peckshield/status/1690857760412610560?ref_src=twsrc%5Etfw">August 13, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>How the Zunami hack was carried out</h2>
+<p>The Zunami Protocol, which mostly operates through the &ldquo;zStables&rdquo; pool on the Curve network, enables decentralized exchange (DEX) services for stablecoins within the <a href="https://coinjournal.net/ethereum/what-is-ethereum/">Ethereum</a> ecosystem. By enabling users to diversify their stablecoin holdings, the protocol attempts to lower the risk associated with the eventual demise of any given stablecoin.</p>
+<p>According to Ironblocks, the attacker initiated the attack by leveraging a flash loan from the &ldquo;balancer.&rdquo;</p>
+<p>This loan allowed the hacker(s) to inject liquidity into the system, allowing them to considerably manipulate the price. The attacker then went ahead to trade on the exchange with the newly created liquidity. Afterwards, they manipulated the price once more and withdrew the funds and returned the flash loan, making a profit of 1,152 ether (ETH) in the process.</p>
+<h2>Effect on Zunami native assets</h2>
+<p>The hack considerably impacted the prices of Zunami&rsquo;s native assets. Firstly, the Zunami USD stablecoin (UZD) declined by over 98%. Secondly, the Zunami Ether (zETH) dropped by over 85%, settling at $278.</p>
+<p>Adding to the complexity of the hack, the stolen funds were channelled through Tornado Cash, a controversial crypto-mixing service platform.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/">A price manipulation hack causes Zunami protocol to lose $2.1M</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/a-price-manipulation-hack-causes-zunami-protocol-to-lose-2-1m/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bald Network developer sends 7,000 ETH to Ethereum, deposits some on Kraken</title>
+		<link>https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/</link>
+					<comments>https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 11:29:03 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/</guid>
+
+					<description><![CDATA[<p>After a spectacular mess up, Bald developer has transferred ether worth $12.9 million back to Ethereum Network. The developer deposited 2,100 ether on Kraken. In most cases, whales transfer cryptocurrencies to exchanges to sell them or trade them for other coins. After weeks of rapid growth, its mysterious creator of bald (BALD) yesterday transferred $12 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/">Bald Network developer sends 7,000 ETH to Ethereum, deposits some on Kraken</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>After a spectacular mess up, Bald developer has transferred ether worth $12.9 million back to Ethereum Network.</li>
+<li>The developer deposited 2,100 ether on Kraken.</li>
+<li>In most cases, whales transfer cryptocurrencies to exchanges to sell them or trade them for other coins.</li>
+</ul>
+<p>After weeks of rapid growth, its mysterious creator of bald (BALD) yesterday transferred $12 million in ether (ETH) back to the <a href="https://coinjournal.net/ethereum/what-is-ethereum/">Ethereum&nbsp;</a>network. Bald had reached a market capitalization of $80 million before some events caused the token price to fall by 90%.</p>
+<p>According to data published by analytics company Lookonchain, The bald token developer transferred 7,000 ether (worth about $12.9M) from the Base network back to Ethereum on Sunday. He then deposited 2,100 ether, worth $3.87 million at current prices, to the crypto exchange Kraken.</p>
+<p>According to a <a href="https://dune.com/queries/2768158/4607762">Dune Analytics query</a>, this is the first time that more funds were sent out of the Base Network than deposited.</p>
+<h2>The catastrophic fall of Bald</h2>
+<p>Bald saw a surprisingly increased popularity in early August, when Base, a blockchain created by <a href="https://coinjournal.net/exchanges/coinbase/">Coinbase</a>, wasn&rsquo;t even formally open to the public. A popular tweet about a trader who turned $500 into hundreds of thousands of dollars caused Bald to <a href="https://coinjournal.net/news/bald-token-records-astounding-40000-upside-after-launch-on-base/">soar 4,000,000% in a matter of days</a>, bringing in almost $66 million in ether (ETH) from investors looking to squeeze out profits from an otherwise stagnant larger crypto market.</p>
+<p>At the time, Bald appeared to have it all: seemingly limitless liquidity, a thriving neighbourhood, an infusion of fresh traders, and, in some quarters, tenuous expectations that it may develop into the next SHIB. This exhilaration, however, did not endure more than a few days. After reaching a high of $0.02795, bald prices dropped by as much as 90% after the <a href="https://coinjournal.net/news/bald-price-nosedives-90-as-deployer-removes-liquidity/">token&rsquo;s deployer removed millions of dollars worth of liquidity</a>, which swiftly affected sentiment as investors moved to remove their funds from the project.</p>
+<p>The deployer had previously contributed up to $35 million worth of ether to a liquidity pool on the Base network-based exchange Leetswap, giving the appearance that the project was well-funded. Along with providing ether in exchange for BALD tokens and selling ether for BALD as prices increased, the deployer may have earned millions of dollars in fees.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/">Bald Network developer sends 7,000 ETH to Ethereum, deposits some on Kraken</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/bald-network-developer-sends-7000-eth-to-ethereum-deposits-some-on-kraken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shiba Memu nears $2M presale milestone – do you buy SHMU?</title>
+		<link>https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/</link>
+					<comments>https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/#respond</comments>
+		
+		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 11:13:23 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[altcoins]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/</guid>
+
+					<description><![CDATA[<p>Shiba Memu presale is closing in on $2 million mark, with nearly $1.9 million already raised. Interest in the AI-powered crypto meme coin has soared in recent weeks. Early investors into the project could benefit from potential long term gains. Few crypto projects currently boost the amount of attention that Shiba Memu, a new meme [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/">Shiba Memu nears $2M presale milestone – do you buy SHMU?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li dir="ltr">Shiba Memu presale is closing in on $2 million mark, with nearly $1.9 million already raised.</li>
+<li dir="ltr">Interest in the AI-powered crypto meme coin has soared in recent weeks.</li>
+<li dir="ltr">Early investors into the project could benefit from potential long term gains.</li>
+</ul>
+<p dir="ltr">Few crypto projects currently boost the amount of attention that <a href="https://shibamemu.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news" rel="noopener noreferrer" target="_blank">Shiba Memu</a>, a new meme coin powered by artificial intelligence, is seeing in the market.&nbsp;</p>
+<p dir="ltr">As <a href="https://coinjournal.net/bitcoin/">Bitcoin</a> and major altcoins continue to stall at key levels, this crypto project&rsquo;s presale is attracting massive interest and is on the verge of clocking the $2 million raised milestone.</p>
+<p dir="ltr">But what&rsquo;s making Shiba Memu a likely gem for early investors? We assess below.</p>
+<h2 dir="ltr">Shiba Memu and the meme coin hype</h2>
+<p dir="ltr">Pepe (PEPE) and Shiba Inu (SHIB) and Floki (FLOKI) have been some of the crypto meme projects to attract huge traction this year. Given how popular these tokens have become, it might be difficult for a new project taking a similar approach to steal some of the fervour and build a community to rival these meme coin leaders.</p>
+<p dir="ltr">Yet Shiba Memu is looking to achieve just that using a self-marketing strategy powered by <a href="https://coinjournal.net/news/tag/ai/">AI</a>. While the likes of PEPE and FLOKI need a significant input of human-driven hype to promote themselves to the community, Shiba Memu will leverage a cutting-edge AI dashboard to reach the global market.</p>
+<p dir="ltr">As such, what top meme coins have been able to achieve with traditional marketing strategies could be improved upon manifold by Shiba Memu&rsquo;s groundbreaking system. Does this mean the project has the capacity to challenge the likes of <a href="https://coinjournal.net/dogecoin/">Dogecoin</a>, Shiba Inu and Pepe?</p>
+<p dir="ltr">Most probably, with all the buzz around the project as seen during the ongoing presale. It all suggests investors see Shiba Memu as having long term investment potential.</p>
+<h2 dir="ltr">How Shiba Memu plans to tap into AI technology</h2>
+<p dir="ltr">Artificial Intelligence is making waves across the tech industry, pulling in billions of dollars&rsquo; worth of investment from global giants Microsoft, Meta, Google and Apple among others. Companies such as Nvidia and Palantir have also bet big on the potential for AI to drive revenues and adoption.</p>
+<p dir="ltr">It&rsquo;s a trend also seen across crypto, with crypto AI a new narrative that&rsquo;s driving applications in trading, decentralised cloud computing, and prediction markets. It&rsquo;s along these lines that Shiba Memu is looking to become the top AI-powered dog meme coin.</p>
+<p dir="ltr">For instance, an automated marketing dashboard will use natural language processing, predictive analytics, sentiment learning and image and video recognition to intelligently target new markets for the native SHMU token.&nbsp;</p>
+<p dir="ltr">Akin to a puppy learning new tricks every day, AI is forecast to polish Shiba Memu into what could become the dominant meme coin.</p>
+<h2 dir="ltr">Is buying Shiba Memu today a good investment move?</h2>
+<p dir="ltr">The Shiba Memu presale currently has SHMU priced at $0.020125. The project has so far raised nearly $1.9 million even as the token&rsquo;s value has increased from $0.011125 when the token sale launched a few weeks ago.</p>
+<p dir="ltr">Notably, and perhaps more appealing to investors is that the token&rsquo;s value is programmed to increase every day at 6 pm GMT. It will eventually hit $0.024400 for a total of 119% upside from that presale debut price. Going past key levels such as $0.1 and $0.5 on market debut could mean gains of between 310% and 1,950%.</p>
+<p dir="ltr">As with every other investment, the key is to acknowledge the risks involved versus the potential reward. This also applies to Shiba Memu, which as noted, is a new crypto project looking to revolutionise an industry that is very nascent.</p>
+<p dir="ltr">However, given the projections for both crypto and AI, the latter from tech giants such as Microsoft, suggests putting some money into Shiba Memu as part of an investment portfolio could be worth it down the road.</p>
+<p dir="ltr">Learn more about Shiba Memu <a href="https://shibamemu.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news" rel="noopener noreferrer" target="_blank">here</a>.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/">Shiba Memu nears $2M presale milestone – do you buy SHMU?</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/shiba-memu-nears-2m-presale-milestone-do-you-buy-shmu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chancer gains momentum as the English Premier League 2023-24 kicks off</title>
+		<link>https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/</link>
+					<comments>https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/#respond</comments>
+		
+		<dc:creator><![CDATA[Charles Thuo]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 10:12:10 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Crypto adoption]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<guid isPermaLink="false">https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/</guid>
+
+					<description><![CDATA[<p>A Majority of EPL clubs played their opening matches over the weekend. The only teams that have not played are Manchester United and Wolves, which is scheduled for today at 22:00 GMT+3. The English Premier League has added some impetuous into the Chancer presale. The English Premier League (EPL) 2023-24, one of the most followed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/">Chancer gains momentum as the English Premier League 2023-24 kicks off</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>A Majority of EPL clubs played their opening matches over the weekend.</li>
+<li>The only teams that have not played are Manchester United and Wolves, which is scheduled for today at 22:00 GMT+3.</li>
+<li>The English Premier League has added some impetuous into the Chancer presale.</li>
+</ul>
+<p>The English Premier League (EPL) 2023-24, one of the most followed and watched games, just kicked off and the <a href="https://chancer.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news">presale of Chancer</a>, the world&rsquo;s first decentralized predictive market-making platform, is gaining momentum. At press time, 30,047,387 CHANCER tokens had been sold raising $1,331,800.21.</p>
+<p>The Chancer presale saw increased activity over the weekend as EPL teams played their first matches over weekend and it is expected to gain momentum as the league progresses until its mainnet launch in Q1 2024.</p>
+<h2>What is Chancer?</h2>
+<p>Chancer is developing a cutting-edge prediction markets platform based on the principles of user empowerment and decentralization. It aims to primarily function as a peer-to-peer (P2P) betting facilitator rather than a typical betting establishment. It will allow individuals to create and control their own betting markets, a strategy that democratizes the betting market.</p>
+<p>The appeal of Chancer, which Adam and Paul Kelbie co-founded, goes far beyond traditional sports betting. Users of the platform will be able to wager on any event they can think of, from the results of football matches including EPL matches and Champions League final to more specialized wagers between friends.</p>
+<p>Chancer&rsquo;s value proposition heavily emphasizes its adaptability, which, along with the company&rsquo;s plans to become a DAO, distinguishes it from other cryptocurrencies and betting platforms and explains why so many investors are interested in finding out how to buy CHANCER.</p>
+<p>At the heart of the Chancer ecosystem is the CHANCER token, which is the primary currency for transactions within the ecosystem.</p>
+<p>The value of the CHANCER token is linked to the success of Chancer&rsquo;s P2P betting concept. As the project grows and widens its user base, the demand for CHANCER tokens is expected to also see an increased uptick leading to a potential price surge. That said, the value of CHANCER has also been rising throughout the presale with each presale stage.</p>
+<p>Chancer also stands the chance of attracting users who are currently not attracted to the traditional online betting platforms which are centralized. One of the greatest Chancer prepositions is the ability for users to create their own wagers on anything including activities between friends.</p>
+<h2>Why is the EPL causing so much excitement around CHANCER presale?</h2>
+<p>A majority of Chancer investors see it as a great platform for creating betting markets and betting for the EPL matches besides other competitions. And it goes without saying that the EPL is the most followed football league in the world courtesy of the many top talents playing in the various teams.</p>
+<p>Although the American Major League Soccer (MLS) has been seeing some traction since Lionel Messi moved to the Inter Miami club, the MLS is still far below the EPL in terms of popularity.</p>
+<p>When Chancer officially launches in the first quarter of 2024, the EPL is likely to be one of the most betted competitions on the platform before the 2024 Olympics games begin later on in the year.</p>
+<h2>Should you invest in Chancer now?</h2>
+<p>Well, the decision to invest in any project is the prerogative of an investor and requires due diligence especially when it comes to cryptocurrency projects because of the volatile nature of cryptocurrencies.</p>
+<p>So, far Chancer has shown its capability to revolutionize the betting industry which was valued at over $2B in 2022. If successful, the project will be a force to reckon with within the betting circles seeing it is introducing an opportunity for CHANCER token holders to create their own wagers on basically anything.</p>
+<p>To purchase your CHANCER token, you can visit Chancer&rsquo;s official website <a href="https://chancer.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news">here</a>.</p>
+
+<p>The post <a rel="nofollow" href="https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/">Chancer gains momentum as the English Premier League 2023-24 kicks off</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coinjournal.net/news/chancer-gains-momentum-as-the-english-premier-league-2023-24-kicks-off/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>2 technical reasons to buy Bitcoin (or sell the US dollar)</title>
 		<link>https://coinjournal.net/news/2-technical-reasons-to-buy-bitcoin-or-sell-the-us-dollar/</link>
 					<comments>https://coinjournal.net/news/2-technical-reasons-to-buy-bitcoin-or-sell-the-us-dollar/#respond</comments>
@@ -254,204 +426,6 @@
 <p>The post <a rel="nofollow" href="https://coinjournal.net/news/sec-delays-decision-on-ark-invest-spot-bitcoin-etf/">SEC delays decision on Ark Invest spot Bitcoin ETF</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Shiba Inu price prediction as Chancer’s presale approaches $1.3M</title>
-		<link>https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/</link>
-					<comments>https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/#respond</comments>
-		
-		<dc:creator><![CDATA[Hassan Maishera]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 15:24:57 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/</guid>
-
-					<description><![CDATA[<p>Key takeaways Shiba Inu is up by more than 30% over the last 30 days, outperforming other major cryptocurrencies. Chancer&#8217;s presale is now closing in on the $1.3 million mark.&#160; Shiba Inu has outperformed the other major cryptocurrencies over the past 30 days and could be set to surge higher ahead of the Shibarium launch. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/">Shiba Inu price prediction as Chancer’s presale approaches $1.3M</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p dir="ltr">Key takeaways</p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Shiba Inu is up by more than 30% over the last 30 days, outperforming other major cryptocurrencies.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Chancer&rsquo;s presale is now closing in on the $1.3 million mark.&nbsp;</p>
-</li>
-</ul>
-<p dir="ltr">Shiba Inu has outperformed the other major cryptocurrencies over the past 30 days and could be set to surge higher ahead of the Shibarium launch.</p>
-<p dir="ltr">Chancer&rsquo;s presale continues to move according to plan, with more than $1.2 million raised so far in the current stage.</p>
-<h2 dir="ltr">SHIB rallies ahead of Shibarium launch</h2>
-<p dir="ltr">SHIB, the native token of the Shiba Inu ecosystem, is up by more than 30% over the last month. The rally makes it the best performer amongst the top 20 cryptocurrencies by market cap during that period.</p>
-<p dir="ltr">At press time, the&nbsp;<a href="https://coinjournal.net/shiba-inu/" rel="noopener noreferrer" target="_blank"><u>price of Shiba Inu</u></a> stands at $0.00001006 per token. The rally can be attributed to the upcoming Shibarium launch. The Shibarium launch is expected to take place over the next few days or weeks.&nbsp;</p>
-<p dir="ltr">Shibarium is Shiba Inu&rsquo;s upcoming layer-2 blockchain network built on Ethereum. The blockchain is expected to transform Shiba Inu, a memecoin, into a complete ecosystem.</p>
-<p dir="ltr">SHIB could rally higher and likely hit a one-year high of $0.00014 once Shibarium launches.&nbsp;</p>
-<h2 dir="ltr">What is Chancer?</h2>
-<p dir="ltr">While Shiba Inu has been rallying, the broader market has been stagnant. However, that hasn&rsquo;t affected Chancer&rsquo;s presale.&nbsp;<a href="https://chancer.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news" rel="noopener noreferrer" target="_blank"><u>Chancer</u></a> is a web3 project designed to decentralise the betting ecosystem.&nbsp;</p>
-<p dir="ltr">Chancer is a web3 peer-to-peer (P2P) custom betting platform that allows users to place bets on a wide range of events, including custom-made ones. The bets can be live-streamed to ensure transparency. Chancer will operate as a completely decentralised online gaming platform.</p>
-<p dir="ltr">Chancer&rsquo;s platform wants to improve the services offered by traditional sports and casino betting platforms. Chancer users can bet on any event, even ones they make up themselves.&nbsp;</p>
-<p dir="ltr">The funds from the presale rounds would be channelled towards building Chancer&rsquo;s decentralised P2P betting platform. The Chancer platform will come with some exciting features, including betting markets in real-time and based on user interests, social media connections, and expertise.&nbsp;</p>
-<p dir="ltr">Users can set up their custom P2P betting markets, allowing other users to bet on their events and games.&nbsp;</p>
-<h2 dir="ltr">Chancer&rsquo;s second presale closes in on $1.3 million</h2>
-<p dir="ltr">Chancer is currently in its second presale stage, and it has raised more than 60% of the required funds. So far, the team is close to generating $1.3 million in the second stage.&nbsp;</p>
-<p dir="ltr">There will be 12 presale events, with a combined target of $15 million. In the second stage, CHANCER, the native token of the ecosystem, is going for $0.011 per token, with the price set to increase to $0.012 in the third presale round.</p>
-<p dir="ltr">CHANCER will power so many activities on the platform. By holding the token, users can create custom P2P betting events on the Chancer platform. Users can also participate in markets launched by others.&nbsp;</p>
-<p dir="ltr">With the CHANCER token, users can create, participate in, and profit from their predictive markets.&nbsp;</p>
-<p dir="ltr">The CHANCER token can be purchased via the official Chancer website. Simply connect any supported wallets to the presale link. Trust Wallet, MetaMask, Coinbase Wallet, and Rainbow are some supported wallets.&nbsp;</p>
-<p dir="ltr">Visit the&nbsp;<a href="https://chancer.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news" rel="noopener noreferrer" target="_blank"><u>Chancer website</u></a> to get more information about the presale.&nbsp;</p>
-<h2 dir="ltr">Should you buy CHANCER tokens now?</h2>
-<p dir="ltr">Presale is perhaps the best time to invest in Web3 projects. During this period, the project is only accessible to a limited number of investors, and prices are usually discounted.&nbsp;</p>
-<p dir="ltr"><a href="https://chancer.com/?utm_source=media&amp;utm_medium=artc&amp;utm_campaign=coinjournal&amp;utm_term=internal&amp;utm_content=current_news" rel="noopener noreferrer" target="_blank"><u>Chancer</u></a> could become a leading Web3 project thanks to its effort of trying to decentralise the betting ecosystem. If it succeeds, Chancer could gain massive adoption over the coming months and years.</p>
-<p dir="ltr">If the adoption level rises, CHANCER&rsquo;s price could experience a massive surge, and early investors could benefit.&nbsp;</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/">Shiba Inu price prediction as Chancer’s presale approaches $1.3M</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/shiba-inu-price-prediction-as-chancers-presale-approaches-1-3m/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hong Kong crypto platform HKVAX receives approval-in-principle from SFC</title>
-		<link>https://coinjournal.net/news/hong-kong-crypto-platform-hkvax-receives-approval-in-principle-from-sfc/</link>
-		
-		<dc:creator><![CDATA[Benson Toti]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 13:54:15 +0000</pubDate>
-				<category><![CDATA[Policy and Regulation]]></category>
-		<category><![CDATA[Crypto regulation]]></category>
-		<category><![CDATA[exchanges]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/hong-kong-crypto-platform-hkvax-receives-approval-in-principle-from-sfc/</guid>
-
-					<description><![CDATA[<p>HKVAX has moved closer to becoming only the third platform to receive a VATP licence in Hong Kong. This is after it obtained an approval-in-principle from the Hong Kong Securities and Futures Commission (SFC) The SFC website lists OSL and Hashkey as only two VATP licensed companies. Hong Kong Virtual Asset Exchange (HKVAX) has received [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/hong-kong-crypto-platform-hkvax-receives-approval-in-principle-from-sfc/">Hong Kong crypto platform HKVAX receives approval-in-principle from SFC</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">HKVAX has moved closer to becoming only the third platform to receive a VATP licence in Hong Kong.</li>
-<li dir="ltr">This is after it obtained an approval-in-principle from the Hong Kong Securities and Futures Commission (SFC)</li>
-<li dir="ltr">The SFC website lists OSL and Hashkey as only two VATP licensed companies.</li>
-</ul>
-<p dir="ltr">Hong Kong Virtual Asset Exchange (HKVAX) has received a notice of approval-in-principle from the Hong Kong Securities and Futures Commission (SFC).</p>
-<p dir="ltr">A <a href="https://www.hkvax.com/news/detail?diffId=1673250247927656448" rel="nofollow noopener noreferrer" target="_blank">press release</a> from HKVAX noted that the approval will see the platform become only the third virtual asset trading platform (VATP) to be licensed by the SFC.</p>
-<p dir="ltr">&ldquo;<em>We are delighted to have received approval-in-principle from the SFC and look forward to creating a safe and trusted environment for investors in one of the world&rsquo;s largest and most dynamic financial centres</em>,&rdquo; said Dr. Anthony Ng, co-founder and CEO of HKVAX.</p>
-<p dir="ltr">According to HKVAX, a final approval from the regulator will allow the company to provide regulated activities identified as Type 1 (securities offerings) and Type 7 (automated trading services) to customers. HKVAX will offer three core products to users once the regulatory process is done &ndash; an OTC brokerage, an institutional-grade exchange platform, and custody solution.</p>
-<h2 dir="ltr">HKVAX to join OSL and Hashkey as third VATP licence</h2>
-<p dir="ltr">&nbsp;HKVAX&rsquo;s approval-in-principle could see it join OSL and Hashkey as the third licensed VATP in Hong Kong. Details on the SFC <a href="https://www.sfc.hk/en/Welcome-to-the-Fintech-Contact-Point/Virtual-assets/Virtual-asset-trading-platforms-operators/Lists-of-virtual-asset-trading-platforms" rel="noopener noreferrer" target="_blank">website</a> show that OSL received the first digital assets broker licence in December 2020, while Hashkey was licensed in November 2022.&nbsp;</p>
-<p dir="ltr">The path to approval for HKVAX comes on the back of the Hong Kong government&rsquo;s push to bring into operation <a href="https://coinjournal.net/news/hong-kong-to-release-crypto-framework-next-month-bloomberg/"><u>a new crypto framework</u></a> for the virtual asset industry.</p>
-<p dir="ltr">Among the changes has been the requirement that registered institutions and banks extend services to SFC-licensed crypto platforms. Firms seeking to offer virtual assets are also obligated to apply for appropriate licences before providing these services.</p>
-<p dir="ltr">Sam Fok, co-founder and COO at HKVAX said they welcome the new changes meant to provide regulatory clarity for the industry in Hong Kong. He added:</p>
-<p dir="ltr">&ldquo;<em>Over the last two years, we have worked very closely with the government and other stakeholders to strengthen regulations. We welcome the changes proposed recently by the SFC that open up virtual assets to a wider community while providing investors of all types with the transparency, reliability and protection they expect. The changes also signal Hong Kong&rsquo;s intent to become a global virtual asset hub</em>.&rdquo;</p>
-<p>On August 7, the SFC <a href="https://coinjournal.net/news/hong-kong-warns-crypto-exchanges-about-improper-practices/"><u>published a warning to VATPs</u></a> that are yet to get properly licensed not to mislead users, particularly through statements published in relation to &ldquo;their intention to apply for licences.&rdquo;&nbsp;</p>
-<p>According to the regulator, such announcements are likely to &ldquo;give the public a false sense of assurance&rdquo; that the VATP is compliant with SFC regulations.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/hong-kong-crypto-platform-hkvax-receives-approval-in-principle-from-sfc/">Hong Kong crypto platform HKVAX receives approval-in-principle from SFC</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Barcelona to host this year’s record-breaking European Blockchain Convention</title>
-		<link>https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/</link>
-					<comments>https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/#respond</comments>
-		
-		<dc:creator><![CDATA[Hassan Maishera]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 12:56:12 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/</guid>
-
-					<description><![CDATA[<p>Key takeaways The city of Barcelona will host this year&#8217;s EBC9, the largest European blockchain convention so far. The event will last for three days, starting from October 24th. Coinjournal is a proud media partner of the convention. Barcelona to host EBC9 Barcelona, the Catalan capital, will host this year&#8217;s European Blockchain Convention 9 (EBC9). [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/">Barcelona to host this year’s record-breaking European Blockchain Convention</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p dir="ltr">Key takeaways</p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">The city of Barcelona will host this year&rsquo;s EBC9, the largest European blockchain convention so far.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">The event will last for three days, starting from October 24th.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Coinjournal is a proud media partner of the convention.</p>
-</li>
-</ul>
-<h2 dir="ltr">Barcelona to host EBC9</h2>
-<p dir="ltr">Barcelona, the Catalan capital, will host this year&rsquo;s European Blockchain Convention 9 (EBC9). This will be the largest European blockchain event so far and will take place from October 24-27.&nbsp;</p>
-<p dir="ltr">According to the organisers, EBC9 will be the largest event of its kind for the second half of the year. The event will have in attendance roughly 5,000 delegates, making it the largest EBC event so far.&nbsp;</p>
-<p dir="ltr">The event coincides with the El Cl&aacute;sico clash between Barcelona and Real Madrid, perhaps the most significant football rivalry in the world.&nbsp;</p>
-<p dir="ltr">The organisers revealed that 300 founders, CEOs, and industry experts will be in attendance to speak at the event. Some of the speakers include C-level execs from Nansen, Fidelity, Fabric Ventures, and Animoca Brands.</p>
-<p dir="ltr">Furthermore, there would be speakers from traditional companies, including Banco Santander and Volkswagen. Senior personnel from Binance Labs and Galaxy Digital will also be in attendance.</p>
-<p dir="ltr">Coinjournal is a proud media partner of the European Blockchain Convention.&nbsp;</p>
-<p dir="ltr">While commenting on this&nbsp;<a href="https://coinjournal.net/news/" rel="noopener noreferrer" target="_blank"><u>latest cryptocurrency news</u></a>, Victoria Gago, co-founder of the European Blockchain Convention, stated that;</p>
-<p dir="ltr"><em>&ldquo;We have seen a significant increase in registrations and interest from exhibitors and sponsors alike after the overwhelmingly positive feedback we got from our previous edition. Building on that momentum, we are moving EBC9 to Fira Barcelona, a much larger venue. As the largest convention centre in Spain, it offers ample space for exhibitors, a greater variety of content, and more engaging experiences.&rdquo;</em></p>
-<h2 dir="ltr">EBC speakers to touch on diverse topics</h2>
-<p dir="ltr">The Co-founder, Daniel Salmeron, said they are excited to bring together the worlds of TradFi, digital assets and web3. He said;</p>
-<p dir="ltr"><em>&ldquo;The participation of so many traditional banks and financial institutions demonstrates their commitment and optimism about the future of crypto and digital assets.&rdquo;</em></p>
-<p dir="ltr">EBC9 will see speakers touch on a wide range of topics, including regulatory challenges, CBDCs, privacy, the institutionalization of crypto, DeFi, sustainability, tokenization, and the ascent of AI.</p>
-<p dir="ltr">The event won&rsquo;t solely be around panel discussions and workshops. The organisers have put in place a 3,000 sqm exhibition area for sponsors and exhibitors. There will also be AMA sessions with speakers, a 1-to-1 meeting area, and five themed networking lounges.&nbsp;</p>
-<p dir="ltr">Other events for attendees to enjoy include an investor meetup, an art gallery, and the second edition of the EBC Start-up Awards.</p>
-<p dir="ltr">Finally, there will be a Hackathon where 200+ hackers, 30+ mentors and 20 teams are expected to participate in a 48 hours hackathon.&nbsp;</p>
-<p dir="ltr">You can learn more about the European Blockchain Convention, including sponsorship, ticketing details and the full list of speakers, via their official website,&nbsp;<a href="http://www.eblockchainconvention.com" rel="nofollow"><u>www.eblockchainconvention.com</u></a></p>
-<p dir="ltr">Launched in 2018, European Blockchain Convention is the most influential blockchain event in Europe, connecting industry professionals, startups, and technology leaders. The event provides a platform for sharing insights, fostering collaborations, and exploring the vast potential of blockchain, crypto, and digital assets.</p>
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/">Barcelona to host this year’s record-breaking European Blockchain Convention</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/barcelona-to-host-this-years-record-breaking-european-blockchain-convention/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Is Cardano a ghost chain? No. Just extremely overvalued</title>
-		<link>https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/</link>
-					<comments>https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/#respond</comments>
-		
-		<dc:creator><![CDATA[Crispus Nyaga]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 12:44:23 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Cardano News]]></category>
-		<category><![CDATA[Cardano Price]]></category>
-		<guid isPermaLink="false">https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/</guid>
-
-					<description><![CDATA[<p>Cardano has been criticized as one of the biggest ghost chains in the industry. But its metrics shows that its network activity is doing well. Cardano, one of the most popular blockchains, is also a highly controversial one as concerns about its ecosystem growth remain. Some crypto watchers believe that it is a highly overvalued [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/">Is Cardano a ghost chain? No. Just extremely overvalued</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<ul>
-<li dir="ltr">
-<p dir="ltr">Cardano has been criticized as one of the biggest ghost chains in the industry.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">But its metrics shows that its network activity is doing well.</p>
-</li>
-</ul>
-<p dir="ltr"><a href="https://coinjournal.net/cardano/"><u>Cardano</u></a>, one of the most popular blockchains, is also a highly controversial one as concerns about its ecosystem growth remain. Some crypto watchers believe that it is a highly overvalued project while others argue it is a ghost chain.&nbsp;</p>
-<h2 dir="ltr">Is Cardano a ghost chain?</h2>
-<p dir="ltr">A ghost chain is defined as a crypto project that has nothing going on in its ecosystem. And there are so many such chains in the crypto industry. Some of the top ghost chains are Kadena, Velas, and XDS Network among others.</p>
-<p dir="ltr">Cardano, on the other hand, cannot be defined as a ghost chain because its ecosystem is growing. For example, its&nbsp;<a href="https://coinjournal.net/learn/what-is-defi/"><u>DeFi</u></a> ecosystem is thriving even as the crypto winter continues. Data compiled by DeFi Llama shows that Cardano&rsquo;s TVL has jumped to $227 million, making it the 14th biggest chain in the world.</p>
-<p dir="ltr">In ADA terms, Cardano&rsquo;s TVL has jumped to an all-time high of over 750 million ADA coins. This growth has been driven by the rising number of DeFi protocols in Cardano and the performance of platforms like MuesliSwap, MinSwap, SundaeSwap, and Indigo.</p>
-<p dir="ltr">Further, Cardano also has many users. As shown below, the network is <a href="https://defillama.com/chain/Cardano?currency=ADA&amp;users=true&amp;tvl=false"><u>averaging</u></a> over 30k daily users. Most ghost chains rarely have any users.</p>
-<p dir="ltr"><img decoding="async" loading="lazy" src="https://media.igms.io/2023/07/11/1691757737443-9c96b1e4-be0d-46bd-811b-9e41809aed49.jpg" style="width: 657px;height: 313.656px" class="fr-fic fr-dib" width="657" height="313.656"></p>
-<p dir="ltr">Cardano is also active in the NFT industry. Data by CryptoSlam shows that the total sales of Cardano NFTs in the past 24 hours totaled $277k, making it the eighth biggest player in the industry after Ethereum, Polygon, Mythos, Immutable X, BNB Chain, and Bitcoin.</p>
-<h2 dir="ltr">Cardano&rsquo;s valuation is stretched</h2>
-<p dir="ltr">Therefore, we can conclude without a doubt that Cardano is not a ghost chain. Instead, I believe that Cardano is just highly overvalued. According to CoinMarketCap, Cardano is valued at over $10 billion. At its peak, it was valued at over $90 billion.&nbsp;</p>
-<p dir="ltr">Despite the drawdown, it is hard to explain this valuation since $10 billion is a lot of money. Its valuation means that Cardano is valued higher than American Airlines, Lazard, and Moelis.&nbsp;</p>
-<p dir="ltr">The biggest challenge is that the ecosystem is getting highly competitive. Most of this competition is coming from layer-2 networks like Arbitrum, Polygon, Base, and Optimism among others.</p>
-<p dir="ltr">Cardano has also failed to attract the biggest players in industries like tokenization, stablecoins, and DeFi. Instead, big players like AAVE, Uniswap, and PancakeSwap have moved to L2 networks.</p>
-<h2 dir="ltr">How to buy Cardano</h2>
-<p dir="ltr">
-        </p><div class="relative">
-
-            
-        </div>
-
-
-
-<p>The post <a rel="nofollow" href="https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/">Is Cardano a ghost chain? No. Just extremely overvalued</a> appeared first on <a rel="nofollow" href="https://coinjournal.net">CoinJournal</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coinjournal.net/news/is-cardano-a-ghost-chain-no-just-extremely-overvalued/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
