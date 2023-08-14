@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Sun, 13 Aug 2023 14:31:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Aug 2023 08:03:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zunami Protocol Exploited for Over $2 Million, Native Stablecoin (UZD) Plunges 99%</title>
+		<link>https://cryptopotato.com/zunami-protocol-exploited-for-over-2-million-native-stablecoin-uzd-plunges-99/</link>
+		
+		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 08:03:34 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Hacking]]></category>
+		<category><![CDATA[Stablecoins]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266143</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/10/Hack.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/10/Hack.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The attack focused on the platform’s lending pools.
+]]></description>
+            																<content:encoded><![CDATA[<p>On the 13th of August, DeFi project Zunami Protocol was attacked by bad actors, resulting in an estimated loss of $2.1 million.</p>
+<p>A decentralized revenue aggregator project allowing users to stake stablecoins for yield, the exploit of Zunami focused on its Curve pools, adding one more victim to the list of protocols affected by the recent <a href="https://cryptopotato.com/here-is-how-much-curve-finance-has-recovered-from-its-70m-hack/" data-wpel-link="internal">attack</a> on Curve Finance.</p>
+<h2>(Un)stablecoins</h2>
+<p>The exploit was first detected by blockchain security firm PeckShield, who immediately notified Zunami.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Hi <a href="https://twitter.com/ZunamiProtocol?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@zunamiprotocol</a>, we have detected an ongoing attack. Users are strongly suggested to take necessary actions.</p>
+<p>Here is the encrypted hash: 2638ae2969ce932d61c3ca66f9b8a4a6c01c4d89bb2b34ddcf2c4145960f41c4. Actual hash will be released once the situation is stable.</p>
+<p>— PeckShield Inc. (@peckshield) <a href="https://twitter.com/peckshield/status/1690857760412610560?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 13, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>According to PeckShield, the attack – which netted the bad actor $2.1 million and counting – was carried out via price manipulation made possible by <a href="https://twitter.com/peckshield/status/1690877589005778945" data-wpel-link="external" target="_blank">donating</a> to the protocol.</p>
+<p>A step-by-step post-mortem was also <a href="https://twitter.com/Ironblocks_/status/1690869728204533760" data-wpel-link="external" target="_blank">made</a> available by fellow blockchain security firm Ironblocks.</p>
+<p>As usual, the attack started with a flash loan provided by Zunami, after which the perpetrator added liquidity and carried out some trades at an inflated price before returning the funds borrowed and cashing out a cool $2 million in profits.</p>
+<p>The exploit drained the protocols’ zStables pools on Curve Finance, manipulating the price of both Zunami Ether (zETH) and Zunami USD (UZD). The price manipulation of the latter knocked the so-called stablecoin far off its peg.</p>
+<p>Currently, 1 UZD is worth $0.0098, <a href="https://www.coingecko.com/en/coins/zunami-usd" data-wpel-link="external" target="_blank">according</a> to CoinGecko.</p>
+<h2>Collateral Secure, Exploit Still Not Fixed</h2>
+<p>Shortly after PeckShield alerted Zunami Protocol of the issue, the latter confirmed the attack. Furthermore, the team instructed platform users to avoid purchasing either of the affected tokens, <a href="https://twitter.com/ZunamiProtocol/status/1690863406079696896" data-wpel-link="external" target="_blank">warning</a> them that the exploit had not yet been fixed.</p>
+<blockquote><p>“It appears that zStables have encountered an attack. The collateral remain secure, we delve into the ongoing investigation. Please do not buy zETH and UZD at the moment, their emission has been attacked.”</p></blockquote>
+<p>The news was immediately lampooned by members of the crypto community, who pointed to the protocol’s claim of a “battle-tested” depeg prevention system.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">well that was a lie<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f923.png" alt="🤣" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f923.png" alt="🤣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/DPLm0P0HtF" data-wpel-link="external" target="_blank">pic.twitter.com/DPLm0P0HtF</a></p>
+<p>— Degem Finder (@DegemFinder) <a href="https://twitter.com/DegemFinder/status/1690892018879500288?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 14, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>However, the collateral backing UZD is allegedly safe, meaning that users should get their funds back. However, according to Zunami’s <a href="https://www.zunami.io/uzd" data-wpel-link="external" target="_blank">website</a>, one of the collateral holders is Curve, raising questions about the viability of those reserves.</p>
+<blockquote><p>“The $UZD is backed by the LP of the Zunami Protocol DAO Strategy, which proxies funds in most major DeFi protocols that have been extensively audited, including Curve, Convex &amp; Stake DAO.”</p></blockquote>
+<p>For now, no further information has been provided by Zunami devs on how user losses can be recouped.</p>
+<p>The post <a href="https://cryptopotato.com/zunami-protocol-exploited-for-over-2-million-native-stablecoin-uzd-plunges-99/" rel="nofollow">Zunami Protocol Exploited for Over $2 Million, Native Stablecoin (UZD) Plunges 99%</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Ripple (XRP) CTO David Schwartz Breaks Down Howey Test Following SEC Appeal</title>
+		<link>https://cryptopotato.com/ripple-xrp-cto-david-schwartz-breaks-down-howey-test-following-sec-appeal/</link>
+		
+		<dc:creator><![CDATA[Wayne Jones]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 08:01:33 +0000</pubDate>
+				<category><![CDATA[Crypto Bits]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[SEC]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266141</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/ripple_david_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/ripple_david_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[David Schwartz, Ripple’s Chief Technology Officer, has explained how the court approached the Howey test in the SEC vs Ripple (XRP) case.]]></description>
+            																<content:encoded><![CDATA[<p>In an Aug. 14 post on X, David Schwartz stated that the determination in the XRP case was based on whether a court is “confined to look at the formal terms of a single contract to determine if it is an investment.”</p>
+<ul>
+<li>In Schwartz’s opinion, the key takeaway from the XRP <a href="https://cryptopotato.com/history-in-the-making-with-ripple-scoring-massive-win-in-court-in-xrp-security-case-this-weeks-recap/" data-wpel-link="internal">ruling</a> is that when applying the Howey test to establish whether an asset is a security, regulators cannot limit themselves to a superficial examination of a contract’s content.</li>
+</ul>
+<blockquote><p>The issue in Howey was whether the court was confined to looking at the formal terms of a single contract to determine if it was an investment contract. The holding is that you can&#8217;t *just* look at the contract, not that there doesn&#8217;t have to be a contract.</p></blockquote>
+<ul>
+<li>In other words, the Howey test doesn’t imply that the requirements for a contract are waived altogether but that a comprehensive analysis beyond just the contract’s formalities is needed to determine whether it is a security.</li>
+<li>Schwartz’s statement comes in the wake of the SEC announcing that it will <a href="https://cryptopotato.com/ripple-xrp-lead-lawyer-slams-secs-appeal-request-reveals-important-date/" data-wpel-link="internal">appeal</a> XRP’s partial victory against it.</li>
+<li>The legal battles have taken their toll on XRP’s price. Investor’s confidence has waned following the SEC’s notice of appeal, which has caused a build-up of selling pressure and a 33% <a href="https://cryptopotato.com/ripple-xrp-price-sinks-25-since-historic-sec-win-as-hype-slows-down/" data-wpel-link="internal">drop</a> in the value of XRP in the last weeks.</li>
+<li>However, the token seems to have shaken off some of the market’s languor, with analysts observing a golden cross on XRP’s three-day chart for the first time since December 2020.</li>
+<li>It is the third time in XRP’s history that the golden cross has appeared on its charts. On the other two occasions, it preceded impressive bull runs, including a 12,437% price hike that saw XRP reach an all-time high of $3.317.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/ripple-xrp-cto-david-schwartz-breaks-down-howey-test-following-sec-appeal/" rel="nofollow">Ripple (XRP) CTO David Schwartz Breaks Down Howey Test Following SEC Appeal</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Will Shiba Inu&#8217;s LEASH Skyrocket This Week? Lead Developer Teases Big Updates, Here&#8217;s When</title>
+		<link>https://cryptopotato.com/will-shiba-inus-leash-skyrocket-this-week-lead-developer-teases-big-updates-heres-when/</link>
+		
+		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 06:53:02 +0000</pubDate>
+				<category><![CDATA[Crypto Bits]]></category>
+		<category><![CDATA[Shiba Inu (SHIB)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266133</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/shibainu_leash_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/shibainu_leash_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Is LEASH in for a treat this week? Here's when a new utility will be revealed.]]></description>
+            																<content:encoded><![CDATA[<p>The Shiba Inu (SHIB) ecosystem is known for its passionate community, explosive nature, as well as meme culture.</p>
+<p>Recently, the lead developer &#8211; Shytoshi Kusama &#8211; teased that there&#8217;s an upcoming announcement for holders of the ecosystem&#8217;s LEASH token.</p>
+<h2>What is LEASH Coin?</h2>
+<p>LEASH is also commonly referred to as the Doge Killer, and it&#8217;s one of the three cryptocurrencies that comprise the ecosystem of <a href="https://cryptopotato.com/what-is-shiba-inu-shib/#:~:text=Source%3A%20ABK-,What%20is%20Shiba%20Inu%20(SHIB)%3F,surpassed%20%240.7%20in%20May%202021." data-wpel-link="internal">Shiba Inu</a> &#8211; the other two being SHIB and BONE.</p>
+<p>The LEASH coin was originally set to be a rebasing cryptocurrency pegged to the price of its verbal nemesis &#8211; Dogecoin. However, later on, a decision has been taken for it not to rebase.</p>
+<p>It has a total maximum cap of a little over 100K tokens, and it has very much the opposite appeal to SHIB. Exclusivity is the name of the game when it comes to LEASH holders. This is perhaps the reason why the cryptocurrency holds a much higher price per token, currently trading at around $567 per CoinGecko.</p>
+<figure id="attachment_266134" aria-describedby="caption-attachment-266134" style="width: 803px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart.jpg" data-wpel-link="internal"><img class="size-full wp-image-266134" src="https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart.jpg" alt="leash_price_chart" width="803" height="525" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart.jpg 803w, https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart-300x196.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart-768x502.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/leash_price_chart-50x33.jpg 50w" sizes="(max-width: 803px) 100vw, 803px" /></a><figcaption id="caption-attachment-266134" class="wp-caption-text">LEASH price chart. Source: CoinGecko</figcaption></figure>
+<h2>Announcement Due This Week: Will Shiba Inu&#8217;s LEASH Explode?</h2>
+<p>Shared recently on Discord was an announcement from the lead developer of the Shiba Inu ecosystem &#8211; Shytoshi Kusama. It reads:</p>
+<blockquote><p>Dear LEASH Holders,</p>
+<p>As you know, EXCLUSIVITY is the key utility of Leash and I have an exclusive exclusive for you all TUESDAY 1 PM EST.</p>
+<p>Then on Wednesday, a new utility for Leash will be unveiled.</p>
+<p>&nbsp;</p>
+<figure id="attachment_266135" aria-describedby="caption-attachment-266135" style="width: 533px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/twitter-Screenshot_shib.jpg" data-wpel-link="internal"><img class="size-full wp-image-266135" src="https://cryptopotato.com/wp-content/uploads/2023/08/twitter-Screenshot_shib.jpg" alt="twitter-Screenshot_shib" width="533" height="377" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/twitter-Screenshot_shib.jpg 533w, https://cryptopotato.com/wp-content/uploads/2023/08/twitter-Screenshot_shib-300x212.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/twitter-Screenshot_shib-50x35.jpg 50w" sizes="(max-width: 533px) 100vw, 533px" /></a><figcaption id="caption-attachment-266135" class="wp-caption-text">Source: <a href="https://twitter.com/LucieSHIB/status/1690770758304161792" data-wpel-link="external" target="_blank">X</a></figcaption></figure></blockquote>
+<p>The overall community&#8217;s response to the announcement has been somewhat mixed. While many users are eager and excited about it, a lot of others have been prompting the lead developer and his team to uphold some of their other roadmap updates, such as the Shibarium layer-2 solution.</p>
+<p>The post <a href="https://cryptopotato.com/will-shiba-inus-leash-skyrocket-this-week-lead-developer-teases-big-updates-heres-when/" rel="nofollow">Will Shiba Inu&#8217;s LEASH Skyrocket This Week? Lead Developer Teases Big Updates, Here&#8217;s When</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Coinbase CEO Admits There Are Problems With Broken UX</title>
+		<link>https://cryptopotato.com/coinbase-ceo-admits-there-are-problems-with-broken-ux/</link>
+		
+		<dc:creator><![CDATA[Martin Young]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 06:24:08 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266123</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/11/Coinbase.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/11/Coinbase.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Coinbase boss Brian Armstrong has acknowledged that there are issues with user experience on the Coinbase app.]]></description>
+            																<content:encoded><![CDATA[<p>On Aug. 14 he commented on the effect of ‘Onchain Summer’ was having on the company’s user interface and experience.</p>
+<blockquote><p>“One thing Onchain Summer is exposing is just how broken our UX is in the main Coinbase app for NFTs, Dapps, and L2s today. Sorry to say, but true.”</p></blockquote>
+<h2>Coinbase Broken UX</h2>
+<p>He said that users need to have “first-class experiences,” adding that Onchain Summer is a “great impetus to have every employee feel that pain ourselves and fix it.”</p>
+<p>Onchain Summer is the company’s celebration of art, culture, gaming, and community to promote its newly launched Base network.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">One thing <a href="https://twitter.com/hashtag/OnchainSummer?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#OnchainSummer</a> is exposing is just how broken our UX is in the main Coinbase app for NFTs, Dapps, and L2s today. Sorry to say, but true.<br />
+If we face truth, we can get motivated to improve it. These need to be first class experiences, and <a href="https://twitter.com/hashtag/OnchainSummer?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#OnchainSummer</a> is a great impetus…</p>
+<p>— Brian Armstrong <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f6e1.png" alt="🛡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@brian_armstrong) <a href="https://twitter.com/brian_armstrong/status/1690790384757321728?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 13, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Armstrong said that the Coinbase Wallet was “farther ahead on this dimension,” but there is still lots of work to do there as well.</p>
+<p>He asked for feedback from those with a “UX pain point,” but Coinbase is notoriously poor at responding to customer complaints.</p>
+<p>Some reported problems with the wallet and Chrome extension, to which Armstrong replied:</p>
+<blockquote><p>“Connecting mobile wallet to the chrome extension is still unreliable for some reason. This bug has been more persistent than I expected.”</p></blockquote>
+<p>On Aug. 9, Coinbase <a href="https://cryptopotato.com/coinbases-base-notches-4th-rank-in-daily-tps-among-layer-2-solutions-data/" data-wpel-link="internal">announced</a> “Base Day One,” launching the layer-2 network to the public. According to the firm, Base mainnet features more than 100 dApps and service providers in the ecosystem.</p>
+<p>On Aug. 12, <em>CryptoPotato</em> <a href="https://cryptopotato.com/what-are-whales-investing-in-on-coinbases-base-network-nansen-investigates/" data-wpel-link="internal">revealed</a> that early whales were already investing in Base by bridging assets to the network.</p>
+<p>According to L2beat, Base total value locked is just under $200 million propelling it to the fifth largest layer-2 network. TVL has more than doubled so far this month but remains a long way behind industry leaders Arbitrum and Optimism.</p>
+<h2>Coca-Cola Launches NFTs on Base</h2>
+<p>The world’s largest soft drinks brand is delving deeper into the realms of nonfungible tokens (NFTs), launching a collection on the Coinbase Base network.</p>
+<p>On Aug. 13, Coinbase announced the new CocaCola collection as part of its “Onchain Summer” event.</p>
+<blockquote><p>“CocaCola is bringing their Global Masterpiece campaign onchain with iconic works from leading artists.”</p></blockquote>
+<p>The Masterpiece collection brings together “iconic artworks” along with new works from emerging talents, “all intertwined with the iconic Coca-Cola bottle,” the firm stated.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">ᴏɴᴄʜᴀɪɴ 🟡 ꜱᴜᴍᴍᴇʀ<a href="https://twitter.com/CocaCola?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">@CocaCola</a> is bringing their Global Masterpiece campaign onchain with iconic works from leading artists.</p>
+<p>Mint now: <a href="https://t.co/xTWyI3O7IW" data-wpel-link="external" target="_blank">https://t.co/xTWyI3O7IW</a> <a href="https://t.co/9wxFgt8qOh" data-wpel-link="external" target="_blank">pic.twitter.com/9wxFgt8qOh</a></p>
+<p>&mdash; Coinbase 🛡️ (@coinbase) <a href="https://twitter.com/coinbase/status/1690763490674503680?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 13, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The post <a href="https://cryptopotato.com/coinbase-ceo-admits-there-are-problems-with-broken-ux/" rel="nofollow">Coinbase CEO Admits There Are Problems With Broken UX</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Here is How Much BTC Riot Platforms Mined in Q2</title>
+		<link>https://cryptopotato.com/here-is-how-much-btc-riot-platforms-mined-in-q2/</link>
+		
+		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 04:41:45 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Bitcoin Mining]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=265673</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/02/RIOT_Bitcoin.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/02/RIOT_Bitcoin.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA["I remain extremely excited about Riot’s leading role in driving the cross-industry transformation of energy and money" via BTC mining, CEO Les stated.]]></description>
+            																<content:encoded><![CDATA[<p>The leading cryptocurrency mining company &#8211; Riot Platforms &#8211; produced 1,775 BTC during the second quarter of 2023, a 27% increase compared to that three-month period in 2022.</p>
+<p>Despite not fully coping with the issues caused by the severe winter storm in Texas in 2022, the company reached an all-time high hash rate capacity of 10.7 EH/s. Seeing those facilities fully operational and signing the long-term purchase agreement with MicroBT Electronics Technology could boost its hash rate capacity to 20.1 EH/s by the end of 2024.</p>
+<h2>Solid Quarter for Riot</h2>
+<p>The firm <a href="https://www.riotplatforms.com/news-media/press-releases/detail/158/riot-platforms-reports-second-quarter-2023-financial" data-wpel-link="external" target="_blank">disclosed</a> a total revenue of $76.7 million in Q2 (compared to $72.9 million in the same period last year). It revealed that the better results are primarily driven by a 27% increase in Bitcoin production.</p>
+<p>Besides mining 1,775 BTC, Riot Platforms decreased the average cost to mine a single bitcoin to $8,389. That expense equaled $11,316 in Q2, 2022.</p>
+<blockquote><p>“Riot’s core business is Bitcoin mining, and the scale of our vertically integrated operations and financial strength allowed us to execute on our power strategy at unmatched scale this quarter, driving our average cost to mine to $8,389 per Bitcoin in the second quarter, compared to an average Bitcoin price of $28,024,&#8221; CEO Jason Les explained.</p></blockquote>
+<p>Mining revenue ($49.7 million) and engineering revenue ($19.3 million) were also higher than the registered figures year-over-year.</p>
+<p>Riot Platforms finished the quarter with $408.4 million in working capital, including $289.2 million in cash on hand and $221.4 million in unencumbered Bitcoin. It means that the entity held 7,264 BTC at the end of June, assuming that the price of the leading digital asset stood at $30,477 at that time.</p>
+<p>While the stash might seem substantial, it is a no match to what its rival &#8211; Marathon Digital &#8211; has amassed over the years. It owns almost 13,000 BTC, making it one of the largest corporate holders of the primary cryptocurrency.</p>
+<h2>RIOT Goes Down</h2>
+<p>Despite the positive Bitcoin mining results and the good overall numbers during Q2, Riot Platforms saw its shares plunging shortly after revealing the figures.</p>
+<p>RIOT dropped by over 8% (on a daily basis earlier this week) and around 15% (for the past month), currently trading at approximately $15.</p>
+<figure id="attachment_265710" aria-describedby="caption-attachment-265710" style="width: 541px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Riot.png" data-wpel-link="internal"><img class="wp-image-265710" src="https://cryptopotato.com/wp-content/uploads/2023/08/Riot.png" alt="RIOT Price" width="541" height="317" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Riot.png 541w, https://cryptopotato.com/wp-content/uploads/2023/08/Riot-300x176.png 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Riot-50x29.png 50w" sizes="(max-width: 541px) 100vw, 541px" /></a><figcaption id="caption-attachment-265710" class="wp-caption-text">RIOT Price, Source: Yahoo Finance</figcaption></figure>
+<p>However, things do not appear that grim when observed from a six-month perspective since one stock was worth a mere $5.50 back then.</p>
+<p>The post <a href="https://cryptopotato.com/here-is-how-much-btc-riot-platforms-mined-in-q2/" rel="nofollow">Here is How Much BTC Riot Platforms Mined in Q2</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Singapore Red Cross Enables Crypto Donations</title>
 		<link>https://cryptopotato.com/singapore-red-cross-enables-crypto-donations/</link>
 		
@@ -42,8 +222,8 @@
 		<category><![CDATA[Singapore]]></category>
 		<category><![CDATA[Tether (USDT)]]></category>
 		<guid isPermaLink="false">https://cryptopotato.com/?p=265718</guid>
-		<media:content url="" medium="image"/>
-		<enclosure url="" length="840" type="image/jpg"/>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/04/Singapore-1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/04/Singapore-1.jpg" length="840" type="image/jpg"/>
 					
 			            <description><![CDATA[The initially supported digital assets by Singapore Red Cross include BTC, ETH, USDT, and USDC.]]></description>
             																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Singapore Red Cross &#8211; a humanitarian aid and community services charity in the Asian city-state &#8211; allowed people to contribute to its cause via donations in digital currencies.</span></p>
@@ -194,185 +374,6 @@
 <p><em>Disclaimer: The above article is sponsored content, it’s written by a third party. CryptoPotato doesn’t endorse or assume responsibility for the content, advertising, products, quality, accuracy, or other materials on this page. Nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully before engaging with any company mentioned and do their own research. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
 <p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer" data-wpel-link="internal">full disclaimer.</a></em></p>
 <p>The post <a href="https://cryptopotato.com/etuktuk-is-helping-the-world-charge-forward-into-an-electric-future-learn-about-the-tuk-presale/" rel="nofollow">eTukTuk is Helping The World Charge Forward into an Electric Future, Learn About The TUK Presale</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Donald Trump Holds Between $250K and $500K Worth of ETH</title>
-		<link>https://cryptopotato.com/donald-trump-holds-between-250k-and-500k-worth-of-eth/</link>
-		
-		<dc:creator><![CDATA[Wayne Jones]]></dc:creator>
-		<pubDate>Sun, 13 Aug 2023 11:26:59 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Non-Fungible Token (NFT)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=266062</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/10/donald_trump_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/10/donald_trump_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[However, the former US President remains a strong opponent of the crypto industry.]]></description>
-            																<content:encoded><![CDATA[<p><span style="font-weight: 400;">Donald Trump’s latest public financial disclosure shows that he holds between $250,000 and $500,000 worth of Ethereum (ETH).</span></p>
-<p><span style="font-weight: 400;">Trump’s 2023 OGE financial disclosure </span><a href="https://www.documentcloud.org/documents/23876912-donald-trump-oge-public-financial-disclosure-report-2023-part-1" data-wpel-link="external" target="_blank"><span style="font-weight: 400;">documents</span></a><span style="font-weight: 400;">, released recently, featured an item described as a “Cryptocurrency Wallet (Ethereum),” whose value the former President placed between $250,000 and $500,000.</span></p>
-<ul>
-<li><span style="font-weight: 400;">The </span><a href="https://twitter.com/BotRalgo/status/1690350249100070914?s=20" data-wpel-link="external" target="_blank"><span style="font-weight: 400;">content</span></a><span style="font-weight: 400;"> of the crypto wallet is likely tied to the sale of non-fungible tokens (NFTs) he </span><a href="https://cryptopotato.com/donald-trump-announces-personal-nft-collection/" data-wpel-link="internal"><span style="font-weight: 400;">launched</span></a><span style="font-weight: 400;"> in December 2022 after exiting the White House. </span></li>
-<li>The limited edition NFT collection <a href="https://cryptopotato.com/donald-trumps-nft-collection-sold-out-in-one-day/" data-wpel-link="internal">sold out</a> within a day and comprised 44,000 digital trading cards featuring the former President in different costumes and poses.</li>
-<li>According to reports, Trump’s NFT adventure netted upwards of $8.9 million in sales, earning him about $298,000 in licensing fees. The crypto wallet through which the earnings were collected is held under the same Trump entity, CIC Digital, that collected these licensing fees.</li>
-<li>Former first lady Melania Trump also briefly dabbled in NFTs, turning several popular images from NASA’s Apollo moon landings into digital pieces that sold for $75 each. However, NASA criticized the venture, stating it violated the space agency’s merchandising regulations.</li>
-<li>It is interesting that Trump now holds crypto, considering his past <a href="https://cryptopotato.com/donald-trump-says-crypto-is-a-potential-disaster-waiting-to-happen/" data-wpel-link="internal">skepticism</a>. In 2019, he stated he was “not a fan” of Bitcoin (BTC), which he described as “not money” and whose value he claimed was “based on thin air.”</li>
-<li>In 2021, at the height of his re-election campaign, Trump reiterated his stance on crypto, calling the asset class “fake.”</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/donald-trump-holds-between-250k-and-500k-worth-of-eth/" rel="nofollow">Donald Trump Holds Between $250K and $500K Worth of ETH</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>THORChain&#8217;s RUNE Explodes 20% in a Day, Bitcoin (BTC) Stalls at $29K (Weekend Watch)</title>
-		<link>https://cryptopotato.com/thorchains-rune-explodes-20-in-a-day-bitcoin-btc-stalls-at-29k-weekend-watch/</link>
-		
-		<dc:creator><![CDATA[Jordan Lyanchev]]></dc:creator>
-		<pubDate>Sun, 13 Aug 2023 08:51:06 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[featured1]]></category>
-		<category><![CDATA[Market Updates]]></category>
-		<category><![CDATA[social]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=266071</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_MW_Cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/Bitcoin_MW_Cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Aside from RUNE, the other top gainer from the larger-cap alts is Toncoin. ]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin continues to trade sideways, and the past 24 hours didn&#8217;t bring any deviation from the tight range between $29,000 and $29,500.</p>
-<p>Most altcoins are also quiet on Sunday, similar to how they performed on Saturday, except for RUNE and TON.</p>
-<h2>BTC Boring at $29K</h2>
-<p>The past few weeks went in a rather uneventful fashion for the typically more volatile crypto asset. This past Monday saw some movements as BTC dipped below $29,000 to mark a weekly low. However, it went on the offensive almost immediately and had surged past $30,000 by the time Wednesday came.</p>
-<p>More volatility was expected on Thursday when the <a href="https://cryptopotato.com/bitcoin-unfazed-as-cpi-for-july-increases-by-0-2-mom/" data-wpel-link="internal">US CPI numbers</a> were set to come out. Yet, that wasn&#8217;t the case, and BTC <a href="https://cryptopotato.com/bitcoin-returns-to-29k-after-failing-at-30k-shiba-inu-pumps-16-in-7-days-this-weeks-crypto-recap/" data-wpel-link="internal">remained</a> at just under $30,000, where it had retraced hours before that.</p>
-<p>The following several days were quite stagnant once again. Bitcoin stood still within the same tight range between $29,000 and $29,500. Expectedly, the weekend didn&#8217;t provide anything different, given the typically lower trading volumes.</p>
-<p>As such, BTC&#8217;s market cap stands still at around $570 billion, and its dominance over the alts is just shy of 49% on CMC.</p>
-<figure id="attachment_266072" aria-describedby="caption-attachment-266072" style="width: 1835px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4.png" data-wpel-link="internal"><img class="size-full wp-image-266072" src="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4.png" alt="BTCUSD. Source: TradingView" width="1835" height="869" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4.png 1835w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4-300x142.png 300w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4-1024x485.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4-768x364.png 768w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4-1536x727.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD-4-50x24.png 50w" sizes="(max-width: 1835px) 100vw, 1835px" /></a><figcaption id="caption-attachment-266072" class="wp-caption-text">BTCUSD. Source: TradingView</figcaption></figure>
-<h2>RUNE Steals the Show</h2>
-<p>Most altcoins have also failed to produce any notable moves in the past 24 hours. ETH, BNB, XRP, DOGE, ADA, TRX, MATIC, and LTC are all slightly in the red.</p>
-<p>Shiba Inu, which was among the <a href="https://cryptopotato.com/shib-ape-pepe-jump-8-daily-bitcoin-maintains-29k-weekend-watch/" data-wpel-link="internal">top performers</a> on a weekly scale, has finally retraced and is down by 4% overnight. Solana and Polkadot, on the other hand, are with minor gains.</p>
-<p>TONCOIN has soared the most from the larger-cap alts. TON is up by 8% and trades at $1.4.</p>
-<p>However, THORChain&#8217;s native token &#8211; RUNE &#8211; has stolen the show with a massive 20% surge today. As a result, the asset has jumped above $1.3.</p>
-<p>The total crypto market cap, though, has remained stuck at around $1.170 trillion.</p>
-<figure id="attachment_266073" aria-describedby="caption-attachment-266073" style="width: 1878px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3.jpg" data-wpel-link="internal"><img class="size-full wp-image-266073" src="https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3.jpg" alt="Cryptocurrency Market Overview. Source: Quantify Crypto" width="1878" height="841" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3.jpg 1878w, https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3-300x134.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3-1024x459.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3-768x344.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3-1536x688.jpg 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/Allcoins-3-50x22.jpg 50w" sizes="(max-width: 1878px) 100vw, 1878px" /></a><figcaption id="caption-attachment-266073" class="wp-caption-text">Cryptocurrency Market Overview. Source: Quantify Crypto</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/thorchains-rune-explodes-20-in-a-day-bitcoin-btc-stalls-at-29k-weekend-watch/" rel="nofollow">THORChain&#8217;s RUNE Explodes 20% in a Day, Bitcoin (BTC) Stalls at $29K (Weekend Watch)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Every Third Russian Sees the Digital Ruble as &#8216;Some Kind of Fraud&#8217; (Survey)</title>
-		<link>https://cryptopotato.com/every-third-russian-sees-the-digital-ruble-as-some-kind-of-fraud-survey/</link>
-		
-		<dc:creator><![CDATA[Dimitar Dzhondzhorov]]></dc:creator>
-		<pubDate>Sat, 12 Aug 2023 23:23:11 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[CBDC]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=265649</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/04/Russia.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/04/Russia.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[One in five survey participants is not interested in Russia’s CBDC at all.]]></description>
-            																<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Research conducted by the information service provider Bankinform estimated that many Russians are interested in the news surrounding the potential launch of a digital ruble. However, 32% are not in favor of such a monetary product, viewing it as some sort of scam.</span></p>
-<p><span data-preserver-spaces="true">The world&#8217;s largest country by landmass has been among the most active on the CBDC scene. The pilot version, which will include testing with banks, businesses, and consumers, is expected to start in mid-August.</span></p>
-<h2><span data-preserver-spaces="true">Russians not so Supportive</span></h2>
-<p><span data-preserver-spaces="true">The study </span><a class="editor-rtfLink" href="https://bankinform.ru/news/129875" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">revealed</span></a><span data-preserver-spaces="true"> that 13% of the respondents closely monitor the development of the digital ruble and intend to use it once it sees the light of day. Those participants also said they see new opportunities presented by the upcoming CBDC.</span></p>
-<p><span data-preserver-spaces="true">Every third questioned person admitted following the news about the new digital form of Russia&#8217;s national currency but has no intention to deal with it. Over 21% are not interested in the topic at all.</span></p>
-<p><span data-preserver-spaces="true">The most interesting answer came from 32% of the respondents, who labeled the Russian CBDC as &#8220;some kind of fraud.&#8221; </span></p>
-<p><span data-preserver-spaces="true">There are different reasons why one might not be in favor of that type of financial product. CBDCs will be issued and controlled by centralized authorities, meaning they could endanger people&#8217;s privacy. According to Bankinform, though, another contributing factor to the distrust in the digital ruble could be the &#8220;ignorance&#8221; and the lack of substantial information on its advancement.</span></p>
-<p><span data-preserver-spaces="true">Scam or not, many nations (including some leading economies) have already started exploring the product. As </span><em><span data-preserver-spaces="true">CryptoPotato</span></em><span data-preserver-spaces="true"> recently </span><a class="editor-rtfLink" href="https://cryptopotato.com/the-global-race-to-cbdcs-130-countries-already-exploring-research/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">reported</span></a><span data-preserver-spaces="true">, Japan, Australia, South Korea, the UK, and many others have introduced some programs to test the pros and cons of a central bank digital currency.</span></p>
-<p><span data-preserver-spaces="true">Somewhat expectedly (considering the political regime there), China is leading the race. The domestic authorities have introduced multiple initiatives to popularize the digital yuan, such as allowing CBDC settlements during the 2022 Winter Olympic Games held in Beijing.</span></p>
-<h2><span data-preserver-spaces="true">How far has Russia Gone?</span></h2>
-<p><span data-preserver-spaces="true">The country&#8217;s officials seem determined to finalize their CBDC project in the near future. Not long ago, President Vladimir Putin </span><a class="editor-rtfLink" href="https://cryptopotato.com/vladimir-putin-approves-russian-cbdc-launches-in-august/" target="_blank" rel="noopener" data-wpel-link="internal"><span data-preserver-spaces="true">signed</span></a><span data-preserver-spaces="true"> a law that enables Russia&#8217;s Civil Code to add the digital ruble as a payment method. At the same time, the central bank was allowed to introduce the product to citizens. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;We really hope that it will be more convenient and cheaper for both people and businesses, and they will start using it. This is a new opportunity,&#8221; Elvira Nabiullina &#8211; Governor of the bank &#8211; stated.</span></p></blockquote>
-<p><span data-preserver-spaces="true">Earlier this week, the financial institution </span><a class="editor-rtfLink" href="https://www.cbr.ru/press/event/?id=16991" target="_blank" rel="noopener" data-wpel-link="external"><span data-preserver-spaces="true">announced</span></a><span data-preserver-spaces="true"> plans to start experiments with the CBDC. First Deputy Governor Olga Skorobogatova said the operation will involve 13 banks and a limited circle of their customers. </span></p>
-<blockquote><p><span data-preserver-spaces="true">&#8220;We plan to introduce the digital ruble into mass circulation based on the results of phased testing and subject to the successful completion of piloting all scenarios for operations with the digital ruble. We expect that starting from 2025, citizens and businesses will be able to actively use the national digital currency, of course, at their own request,&#8221; she added.</span></p></blockquote>
-<p>The post <a href="https://cryptopotato.com/every-third-russian-sees-the-digital-ruble-as-some-kind-of-fraud-survey/" rel="nofollow">Every Third Russian Sees the Digital Ruble as &#8216;Some Kind of Fraud&#8217; (Survey)</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Bakkt Renews Focus on Crypto Custody Solutions as Client Interest Surges</title>
-		<link>https://cryptopotato.com/bakkt-renews-focus-on-crypto-custody-solutions-as-client-interest-surges/</link>
-		
-		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
-		<pubDate>Sat, 12 Aug 2023 20:23:40 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[Bakkt]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=265960</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/bakkt_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/bakkt_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Bakkt revealed it signed new custody clients and is engaged in late-stage negotiations with multiple prospects across broad client verticals.]]></description>
-            																<content:encoded><![CDATA[<p>Digital asset platform Bakkt Holdings is refocusing on its cryptocurrency custody solutions due to recent market events and increased client interest.</p>
-<p>In a Q2 earnings report, Bakkt <a href="https://s201.q4cdn.com/666322591/files/doc_financials/2023/q2/20230810-2Q23-Bakkt-Earnings-Presentation-vFinal-edit.pdf" data-wpel-link="external" target="_blank">touted</a> its “compliant and trusted” custody platform, citing the current need for multi-custodian access and self-custodial functionality due to clients’ difficulty in storing digital assets safely.</p>
-<h2>Bakkt Renews Focus on Crypto Custody</h2>
-<p>Bakkt Custody was a core part of the firm’s business before its <a href="https://cryptopotato.com/bakkt-to-become-public-on-october-18/" data-wpel-link="internal">public listing</a> in October 2021. By May 2020, the company had <a href="https://cryptopotato.com/bakkt-expands-loyalty-program-increases-insurance-coverage-and-onboards-70-new-clients/" data-wpel-link="internal">expanded</a> its institutional custody solution to serve over 70 clients and struck several partnerships with major financial institutions.</p>
-<p>The platform also partnered with insurance broker Marsh to offer customers coverage of more than $500 million in addition to the $125 million already in place at the custody solution.</p>
-<p>However, Bakkt shifted its focus to retail payments following several business and management changes after it went public. The company’s renewed push into custody comes months after it acquired crypto brokerage service provider Apex.</p>
-<p>The digital asset platform has signed new clients to Bakkt Custody and is engaged in late-stage negotiations with multiple prospects across broad client verticals. Bakkt’s qualified sales opportunities have increased by ten times, and the custody platform generates stable recurring fees.</p>
-<p>With time, Bakkt intends to introduce additional features like yield-generating opportunities, including institutional staking. The custody platform would also add new blockchain networks and create a foundation for hot wallets.</p>
-<h2>Bakkt Taps Fireblocks</h2>
-<p>In line with the renewed focus on custody, Bakkt entered a multi-faceted collaboration with institutional digital asset custody firm Fireblocks. Through the partnership, Bakkt’s clients will maintain control of their private keys with the Fireblocks Off-Exchange solution. On the other hand, Fireblocks Off-Exchange customers will gain access to Bakkt’s Disaster Recovery Services.</p>
-<blockquote><p>“We have integrated Fireblocks’ battle-tested custody technology to fortify our custody offerings, leveraging their new-to-market self-hosted keys product that enables us to control and manage all MPC key shares across multiple services in our data centers and cloud. We will continue to work closely with Fireblocks to jointly deliver additional capabilities to the market,” the firm said.</p></blockquote>
-<p>Meanwhile, Bakkt <a href="https://cryptopotato.com/bakkt-q2-revenue-jumped-by-60-yoy-report/" data-wpel-link="internal">generated</a> net revenue of $13.6 million in Q2, indicating a 60% increase year over year, and trimmed its net loss by 13% from the same period last year to $27.6 million.</p>
-<p>The post <a href="https://cryptopotato.com/bakkt-renews-focus-on-crypto-custody-solutions-as-client-interest-surges/" rel="nofollow">Bakkt Renews Focus on Crypto Custody Solutions as Client Interest Surges</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Can These 10 Bullish Fundamentals for Ethereum Move ETH Prices?</title>
-		<link>https://cryptopotato.com/can-these-10-bullish-fundamentals-for-ethereum-move-eth-prices/</link>
-		
-		<dc:creator><![CDATA[Martin Young]]></dc:creator>
-		<pubDate>Sat, 12 Aug 2023 17:35:21 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Ethereum (ETH) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=265933</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/04/ethereum_bull_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/04/ethereum_bull_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ethereum prices have been in a languid state of inactivity for five months, trading sideways with volume and volatility diminishing.]]></description>
-            																<content:encoded><![CDATA[<p>However, fundamentals for the asset and network are as strong as ever.</p>
-<p>On Aug. 11, crypto industry and DeFi analyst Miles Deutscher highlighted some of Ethereum’s bullish fundamentals.</p>
-<blockquote><p>“It&#8217;s hard not to be ridiculously bullish on Ethereum,” he said.</p></blockquote>
-<h2>Ethereum Fundamentals Strong</h2>
-<p>Firstly, some of the world’s largest companies, such as <a href="https://cryptopotato.com/paypal-launches-usd-stablecoin-for-payments-and-transfers/" data-wpel-link="internal">PayPal</a>, have chosen Ethereum to launch their products. Earlier this week, Ethereum advocate Ryan Sean Adams said the network is “becoming the money layer of the internet.”</p>
-<p><a href="https://cryptopotato.com/4-problems-with-sam-altmans-worldcoin-according-to-vitalik/" data-wpel-link="internal">Worldcoin</a> is also using Ethereum and could be a major gas consumer if the digital ID project takes off.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">It&#8217;s hard not to be ridiculously bullish on Ethereum.</p>
-<p>Here are 9 reasons why.</p>
-<p>• The biggest new projects are choosing to launch on ETH (PayPal stable coin, Worldcoin etc.)</p>
-<p>• The ETH L2 thesis only continues to gain traction: Base launch, TVL at highs + strongest funding of…</p>
-<p>— Miles Deutscher (@milesdeutscher) <a href="https://twitter.com/milesdeutscher/status/1689730899624038400?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 10, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The Ethereum layer-2 ecosystem is also growing at an accelerated pace, with networks such as Coinbase’s Base launching on L2. According to <a href="https://l2beat.com/scaling/summary" target="_blank" rel="noopener" data-wpel-link="external">L2beat</a>, total value locked across the ecosystem has surged 150% since the beginning of the year to an all-time high of $10.5 billion.</p>
-<p>Additionally, EIP-4844 is on the horizon, which will substantially reduce fees on layer-2 networks.</p>
-<p>Ethereum staking continues to grow, with almost 20% of the entire supply, or $42.5 billion worth of ETH, now staked and securing the network.</p>
-<p>Furthermore, Ethereum’s total fee revenue is higher than all other protocols combined.</p>
-<p>Ethereum issuance remains deflationary, with the total supply declining by around 303,000 ETH since the Merge in September 2022.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Visa, one of the world&#8217;s largest payment processors, continues to use Ethereum for their crypto research.</p>
-<p>Yesterday they published a proof of concept that allows users to pay gas fees using credit cards by leveraging Account Abstraction (ERC4337).</p>
-<p>Here&#8217;s how it all works <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" />: <a href="https://t.co/rYjTlBkdkW" data-wpel-link="external" target="_blank">pic.twitter.com/rYjTlBkdkW</a></p>
-<p>— cygaar (@0xCygaar) <a href="https://twitter.com/0xCygaar/status/1690043602926530561?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 11, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Deutscher also pointed out that NFT collections were migrating to Ethereum, citing Degods and y00ts as examples.</p>
-<p>Many layer-1 networks are pivoting back towards Ethereum, such as Fantom adding Optimism rollups and Frax launching a layer-2.</p>
-<p>Ethereum has also been labeled as a commodity by the Commodity Futures Trading Commission though Congress has yet to officially classify the asset.</p>
-<p>Finally, a slew of <a href="https://cryptopotato.com/eth-price-unmoved-as-ethereum-futures-etf-race-heats-up/" data-wpel-link="internal">Ethereum-based ETFs</a> have been applied for, so it could be only a matter of time before they get approved.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4c8.png" alt="📈" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/Ethereum?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#Ethereum</a> <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">$ETH</a> Realized Cap just reached a 8-month high of $181,571,901,762.15</p>
-<p>Previous 8-month high of $181,571,219,723.97 was observed on 11 August 2023</p>
-<p>View metric:<a href="https://t.co/JEcbTHEjsD" data-wpel-link="external" target="_blank">https://t.co/JEcbTHEjsD</a> <a href="https://t.co/KslqrJW7a4" data-wpel-link="external" target="_blank">pic.twitter.com/KslqrJW7a4</a></p>
-<p>— glassnode alerts (@glassnodealerts) <a href="https://twitter.com/glassnodealerts/status/1690215339118804992?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 12, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<h2>ETH Price Outlook</h2>
-<p>These ten solid fundamentals should be moving ETH prices, but they’re not at the moment.</p>
-<p>ETH is hovering around the $1,850 level, where it has been for the past seven weeks, aside from a <a href="https://cryptopotato.com/ethereum-eth-tops-2000-for-first-time-in-3-months-on-ripple-victory/" data-wpel-link="internal">brief spike</a> in mid-July.</p>
-<p>The asset has mirrored Bitcoin, trading in a range-bound channel since the middle of March.</p>
-<p>A larger move higher is expected when BTC finally <a href="https://cryptopotato.com/when-will-bitcoins-bull-run-start-analyst-chips-in/" data-wpel-link="internal">breaks out</a> of consolidation, and there are several factors that could catalyze this.</p>
-<p>There are many reasons to be bullish about Ethereum, and a move higher seems an inevitability sooner or later.</p>
-<p>The post <a href="https://cryptopotato.com/can-these-10-bullish-fundamentals-for-ethereum-move-eth-prices/" rel="nofollow">Can These 10 Bullish Fundamentals for Ethereum Move ETH Prices?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
