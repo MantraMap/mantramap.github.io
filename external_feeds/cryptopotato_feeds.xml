@@ -29,6 +29,52 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lelantus Spark: Redefining Blockchain Privacy</title>
+		<link>https://cryptopotato.com/lelantus-spark-redefining-blockchain-privacy/</link>
+		
+		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 20:45:51 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266290</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[The Bitcoin network is designed to foster some level of anonymity, allowing users to perform transactions globally without revealing their true identity. Despite this, the blockchain network is not private, as transactions are publicly open to everyone. Anyone can also identify the total Bitcoin holdings of any wallet address. Like the Bitcoin protocol, most blockchains [&#8230;]]]></description>
+            																<content:encoded><![CDATA[<p>The Bitcoin network is designed to foster some level of anonymity, allowing users to perform transactions globally without revealing their true identity. Despite this, the blockchain network is not private, as transactions are publicly open to everyone. Anyone can also identify the total Bitcoin holdings of any wallet address.</p>
+<p>Like the <a href="https://cryptopotato.com/bitcoin-for-beginners/" data-wpel-link="internal">Bitcoin protoco</a>l, most blockchains today are public. This means that transactions and other on-chain data that should otherwise be private easily become public knowledge.</p>
+<p>Blockchain project Firo introduces a solution to fix this problem. Through its new privacy protocol dubbed Lelantus Spark, the company aims to solve the issue of private on-chain transactions.</p>
+<h2>Introducing Lelantus Spark</h2>
+<p>Lelantus Spark (also called Spark) is a privacy protocol developed by Firo developers. Firo (formerly known as Zcoin) is a blockchain project that uses cryptography to build a private ecosystem for its users.</p>
+<p>The Lelantus Spark project has <a href="https://firo.org/2021/08/24/presenting-lelantus-spark.html" data-wpel-link="external" target="_blank">been in the works</a> since August 2021. It came as part of further development of the project’s Lelantus v1/v2 protocol. Combining existing key features in the former protocol and adding new features to the new protocol, Lelantus Spark is positioned at the forefront of privacy protocols deployed on the blockchain. These privacy-preserving features include:</p>
+<ul>
+<li>Spark addresses</li>
+<li>Multisignature operations</li>
+<li>View keys</li>
+<li>Modular design</li>
+</ul>
+<h3><strong>Spark Addresses</strong></h3>
+<p>The Spark address is a stealth address that masks a user’s public key by using cryptography to generate a one-time wallet address. Anyone can send crypto assets like Firo from transparent addresses to Spark addresses. With the Spark addresses, users can conceal their total holdings in the wallet and details about the transactions they make, such as the amount, time of the transaction, and history of the flow of the transferred asset.</p>
+<p>Most public blockchains have an explorer that allows anyone to view the transferred amount and time of the transaction. In Lelantus v1, users need to manually anonymize any funds received.</p>
+<p>However, Lelantus Spark uses Spark addresses to bolster anonymity with ease. This feature ensures that third parties cannot identify the sender or receiver of a cryptocurrency without using additional external information.</p>
+<p><a href="https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-162868" src="https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1.jpg" alt="firo_cover1" width="1201" height="720" srcset="https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2022/01/firo_cover1-50x30.jpg 50w" sizes="(max-width: 1201px) 100vw, 1201px" /></a></p>
+<h3><strong>Multisignature Operations</strong></h3>
+<p>Multisignature operations enable several trustless entities to cooperatively generate, receive, and sign transactions tied to a multisig address.</p>
+<p>Lelantus Spark supports multi-signature operations through a modified Chaum-Pedersen discrete logarithm zero-knowledge proof. Decentralized exchanges and custodians are beneficiaries of the multi-signature operation. It can also be used in cases where more than one party is needed to approve a transaction.</p>
+<h3><strong>View Keys</strong></h3>
+<p>A view key is a valuable feature that allows wallet owners and creators of stealth addresses to willingly grant third parties access to see incoming and/or outgoing transactions to/from their wallet addresses without the ability to spend those funds</p>
+<p>The feature is useful for accounting, auditing, and benefactor purposes. Offloaded scan services can also be used on online and mobile wallets.</p>
+<h3><strong>Modular Design</strong></h3>
+<p>Lelantus Spark’s dynamic design allows it to use several layers of privacy, relying on well-established cryptographic time-tested building blocks. These include Pedersen commitments, range proofs, zero-knowledge proofs, and discrete logarithm equality proofs that enable straightforward security analysis without needing trusted setup processes.</p>
+<h2>Lelantus Spark Goes Live on Testnet</h2>
+<p>In mid-July 2023, Firo announced its plan to launch the Lelantus Spark testnet after undergoing a series of cryptographic and implementation audits.</p>
+<p>The testnet will allow public users to test the protocol in a safe and controlled ecosystem before it gets deployed on the mainnet. During this period, the developer team will gather data and feedback that will be used to make necessary adjustments to the protocol to make it as secure, private, and user-friendly as possible.</p>
+<p>The Lelantus Spark testnet was <a href="https://firo.org/2023/07/31/lelantus-spark-testnet-launched.html" data-wpel-link="external" target="_blank">launched</a> on July 31st. Participants in the testnet will be offered incentives for engaging in the project’s bug bounty program and mainnet Firo token rewards incentives. There will also be other fun quizzes that will bring the Spark community members together.</p>
+<h2>Final Thoughts</h2>
+<p>Firo’s Lelantus Spark highlights the company’s commitment to bringing its privacy-loving users to more secure and private mediums of funds transfer. The project achieves this by building new tools and modifying existing ones to maintain a private blockchain experience.</p>
+<p>As the protocol progresses from testnet to mainnet, Spark grounds itself as a haven from public blockchain networks that litter the crypto industry.</p>
+<p>The post <a href="https://cryptopotato.com/lelantus-spark-redefining-blockchain-privacy/" rel="nofollow">Lelantus Spark: Redefining Blockchain Privacy</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Fidelity Asked X Follower &#8216;Choose New Bill&#8217; and Half the Replies Were Crypto</title>
 		<link>https://cryptopotato.com/fidelity-asked-x-follower-choose-new-bill-and-half-the-replies-were-crypto/</link>
 		
@@ -376,56 +422,6 @@ We&#8217;ll need a bill worth more than the $1 trillion platinum coin the Treasu
 <p>Worldcoin’s launch has been one of the key highlights of the year. Privacy advocates view the project to be a Black Mirror-esque reality weighing down the financial market. The <a href="https://cryptopotato.com/worldcoins-iris-scanning-approach-deemed-evil-security-expert-predicts-high-probability-of-failure/" target="_blank" rel="noopener" data-wpel-link="internal">reluctance</a> to purchase the WLD token by many experts in the crypto sector is evident.</p>
 <p>Today, the conversation revolves around the potential unprecedented level of oversight and control that Worldcoin creators might get their hands on. Hence, only time will reveal whether the ambitious venture is a cautionary tale or technology to strive for.</p>
 <p>The post <a href="https://cryptopotato.com/what-is-worldcoin/" rel="nofollow">What is Worldcoin (WLD)? The Project That Wants to Scan Your Eyes</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>XRP Price Struggles Amid Investor Uncertainty, But XRP20 Presale Hits $2.7 Million Milestone</title>
-		<link>https://cryptopotato.com/xrp-price-struggles-amid-investor-uncertainty-but-xrp20-presale-hits-2-7-million-milestone/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Mon, 14 Aug 2023 11:42:41 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=266259</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_20_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_20_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[XRP ($XRP) has continued to face selling pressure in the past few days, with the token’s value dropping to $0.627. The token&#8217;s recent struggles have been linked to lingering regulatory uncertainty following the SEC&#8217;s decision to appeal Ripple Labs&#8217; recent court victory. Meanwhile, excitement continues to build around the XRP20 ($XRP20) presale, which has now [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>XRP ($XRP) has continued to face selling pressure in the past few days, with the token’s value dropping to $0.627.</p>
-<p>The token&#8217;s recent struggles have been linked to lingering regulatory uncertainty following the SEC&#8217;s decision to appeal Ripple Labs&#8217; recent court victory.</p>
-<p>Meanwhile, excitement continues to build around the XRP20 ($XRP20) presale, which has now raised over $2.7 million as it trends toward its hard cap.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-17.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-266265" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-17.jpg" alt="Picture1" width="602" height="344" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-17.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-17-300x171.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-17-50x29.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<h2>$XRP Struggles for Momentum as Technicals Turn Bearish</h2>
-<p>XRP&#8217;s value has declined by 6% since Friday, with the token closing in the red for four straight days.</p>
-<p>After a minor pump last Tuesday, the price has returned to a downward trend as the SEC&#8217;s appeal weighed on investor sentiment.</p>
-<p>Price failed to break the critical $0.650 level, which was rejected with a long wick on Wednesday.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-17.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-266264" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-17.jpg" alt="Picture2" width="602" height="284" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-17.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-17-300x142.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-17-50x24.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>This has caused $XRP to create a minor support zone around $0.625, where the price has consolidated in the past 48 hours.</p>
-<p>From a technical standpoint, $XRP is now tapping the 50-day Exponential Moving Average (EMA), often used as a proxy for a token&#8217;s medium-term trend.</p>
-<p>Moreover, the Relative Strength Index (RSI) on the daily time frame stands at 43, signaling the token’s bearish momentum.</p>
-<p>However, trading volumes remain robust, with <a href="https://coinmarketcap.com/currencies/xrp/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">CoinMarketCap data</a> showing that over $881 million in $XRP traded hands in the past day – a 76% increase from the previous day.</p>
-<h2>Lingering Lawsuit Uncertainty Dampens Investors’ Spirits</h2>
-<p>The main driver of XRP’s recent struggles is the lingering regulatory uncertainty after the SEC announced plans to appeal the court’s ruling in Ripple’s favor.</p>
-<p>The threat of a prolonged legal battle has dampened investor enthusiasm, leading some to exit their positions rather than face ongoing price volatility.</p>
-<p>Until the lawsuit&#8217;s outcome is decisively resolved, either through a settlement or a rejection of the SEC&#8217;s appeal, the uncertainty around $XRP will likely persist.</p>
-<p>This will make it difficult for $XRP to recapture the bullish momentum showcased in mid-July.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-19.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-266263" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-19.jpg" alt="Picture3" width="602" height="319" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-19.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-19-300x159.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-19-50x26.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>However, many crypto influencers and analysts continue to be optimistic about $XRP’s prospects.</p>
-<p>Edo Farina, a crypto analyst with over 73,000 Twitter followers, recently <a href="https://twitter.com/edward_farina/status/1690766446890975232?s=20" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">tweeted about $XRP’s historical resistance in the face of uncertainty</a> – speculating that the token will also be able to navigate the current headwinds easily.</p>
-<p>Only time will tell whether this optimistic outlook comes to fruition, but Farina’s tweets highlight that some still see a bright future for $XRP.</p>
-<h2>Investors Flock to Limited-Time XRP20 Presale As Project Hits $2.7 Million Milestone</h2>
-<p>As XRP grapples with familiar regulatory woes, the new <a href="https://bs_b791c467.cryptopotato.care/?referrer=xrp-price-struggles-amid-investor-uncertainty-but-xrp20-presale-hits-2-7-million-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">XRP20 token</a> continues to gain traction by positioning itself as a “second chance” for crypto investors.</p>
-<p>The XRP20 presale has now raised an impressive $2.7 million as it heads closer to its $3.68 million hard cap.</p>
-<p>By leveraging investors’ nostalgia for XRP’s early days, the project has resonated with investors – priming it for a highly-anticipated DEX launch in the coming weeks.</p>
-<p>XRP20 incorporates several valuable features, like staking rewards and a deflationary token burn, which help boost the token&#8217;s inherent value.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-13.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-266262" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-13.jpg" alt="Picture4" width="602" height="277" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-13.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-13-300x138.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-13-50x23.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>Moreover, the low presale price of $0.000092, 30 times cheaper than XRP’s all-time low, has also contributed to the growing buzz around the project.</p>
-<p>This enthusiasm has spread to <a href="https://t.me/XRP20_coin" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">XRP20’s Telegram channel</a>, which has seen remarkable growth in the past few days.</p>
-<p>Early adopters have also highlighted <a href="https://xrp20coin.com/assets/documents/audit.pdf" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">XRP20’s clean smart contract audit</a>, conducted by 0xGuard, as another factor that underscores the project&#8217;s legitimacy.</p>
-<p>With the presale nearly 75% complete, the countdown is on for $XRP20&#8217;s open market debut.</p>
-<p>Thus, as XRP stumbles, investors are flocking to XRP20 – suggesting an exciting few weeks lie ahead for early adopters.</p>
-<p><a href="https://bs_b791c467.cryptopotato.care/?referrer=xrp-price-struggles-amid-investor-uncertainty-but-xrp20-presale-hits-2-7-million-milestone" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit XRP20 Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, it’s written by a third party. CryptoPotato doesn’t endorse or assume responsibility for the content, advertising, products, quality, accuracy, or other materials on this page. Nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully before engaging with any company mentioned and do their own research. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer" data-wpel-link="internal">full disclaimer.</a></em></p>
-<p>The post <a href="https://cryptopotato.com/xrp-price-struggles-amid-investor-uncertainty-but-xrp20-presale-hits-2-7-million-milestone/" rel="nofollow">XRP Price Struggles Amid Investor Uncertainty, But XRP20 Presale Hits $2.7 Million Milestone</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
