@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptopotato.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptopotato.com/</link>
 	<description>Crypto Blog</description>
-	<lastBuildDate>Thu, 17 Aug 2023 14:04:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Aug 2023 23:51:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,289 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bitcoin or Ethereum? DeFi Dev Explains Which Is Better For Building</title>
+		<link>https://cryptopotato.com/bitcoin-or-ethereum-defi-dev-explains-which-is-better-for-building/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 23:50:32 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267213</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2020/06/EthereumBitcoin-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2020/06/EthereumBitcoin-min.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Bitcoin development is sharply focused, whereas Ethereum development is more accessible and better funded, according to Atomic Finance CEO Tony Cai.]]></description>
+            																<content:encoded><![CDATA[<p>Is Bitcoin or Ethereum a better protocol for developers? A closer look reveals the answer may not be so obvious.</p>
+<p>Tony Cai – CEO of Bitcoin-based DeFi platform Atomic Finance and former Ethereum builder – published a Twitter thread on Wednesday explaining the different experiences of building apps on both networks, including the strengths and weaknesses of each.</p>
+<h2>Bitcoin’s Advantage: Security and Focus</h2>
+<p>According to Cai, Bitcoin’s <a href="https://twitter.com/TonyCai_/status/1691919517616689362" data-wpel-link="external" target="_blank">first advantage</a> is the security of its programming language. The original crypto network’s Discrete Log Contracts (DLCs) boast fewer attack services than Ethereum’s smart contracts, which have lost users hundreds of millions of dollars due to <a href="https://cryptopotato.com/the-weaknesses-of-ethereum-vs-modern-blockchains-interview-with-radix/" data-wpel-link="internal">coding mistakes</a> and exploits over the past few years.</p>
+<blockquote><p>“In ETH, one tiny mistake (like 1-2 lines of code being written in the wrong order) can lead to millions lost,” wrote Cai.</p></blockquote>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Having spent time building on ETH first before pivoting to building on BTC, I&#39;ve seen the best and worst parts of both communities.</p>
+<p>I&#39;m probably gonna get some hate for this, but screw it&#8230;</p>
+<p>BTC vs ETH: An Honest Reflection from a Builder. </p>
+<p>Here are 6 things I noticed:<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/3sBZKrZlRn" data-wpel-link="external" target="_blank">pic.twitter.com/3sBZKrZlRn</a></p>
+<p>&mdash; Tony Cai <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/269b.png" alt="⚛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> #SoundFinance (@TonyCai_) <a href="https://twitter.com/TonyCai_/status/1691919517616689362?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 16, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The Bitcoin development experience also benefits from “laser focus” – clarity and emphasis specifically on innovation. According to Cai, the ETH community “moves fast” and ushers in new developments every week, making it easy for builders to get lost with “shiny object syndrome.”</p>
+<blockquote><p>“Bitcoin&#8217;s scripting language and capabilities are intentionally limited to ensure its primary function remains robust,” said Cai to CryptoPotato via DM. “Ethereum, on the other hand, was designed as a platform for decentralized applications, making it more flexible and versatile.”</p></blockquote>
+<p>Ethereum has famously boasted both NFTs and tokenization for years – technologies that have only <a href="https://cryptopotato.com/bitcoin-ordinals-team-launches-non-profit-to-support-bitcoin-nft-developers/" data-wpel-link="internal">begun</a> to emerge on Bitcoin. This limited capability keeps developers focused on securing product-market fit, rather than conjuring complex tokenomics and “rationalizations” as to why their projects need a token at all.</p>
+<h2>Ethereum’s Advantage: Expressiveness and Dev Infrastructure</h2>
+<p>Naturally, Bitcoin’s strict scripting language leaves it with some tradeoffs. Not only is development more technically limited, but more developers naturally <a href="https://cryptopotato.com/bitmex-explains-why-ethereum-has-more-dapps-than-bitcoin/" data-wpel-link="internal">gravitate</a> toward’s Ethereum’s more welcoming programming language – Solidity.</p>
+<p>“Programming on Solidity is simple for anyone who understands the basics of Javascript. Which most programmers do these days,” said Cai. It also has far greater developer infrastructure through tools like Truffle Suite and Infura, and more hackathon events for creating new tools.</p>
+<p>Cai believes the fewer hackathons in Bitcoin may boil down to its relative lack of tokenization, which has led to less funding and sponsorships for the network’s developers. “BTC startups don’t have the luxury of massive treasuries funded by a token drop / ICO,” he explained.</p>
+<p>Though firms like Blockstream and Chaincode Labs have stepped in to help fund the ecosystem, Cai said Ethereum has always had a more “structured” approach to funding thanks to its ICO, and the Ethereum Foundation.</p>
+<p>Developer culture within both camps also widely differs. Whereas Bitcoiners make changes “cautiously” with a focus on “preserving the integrity of the network,” Ethereum development can be more of a “free for all” where devs are constantly “exploring new use cases.”</p>
+<p>The contrast has created a clear rift where Bitcoin’s “podcasters” and “content creators” often take the public spotlight, rather than its developers. It’s also limited the creativity of Bitcoin applications and startups to four basic categories: lightning network micropayments, fiat on-ramps, multisig providers, and bitcoin rewards.</p>
+<blockquote><p>“Bitcoin&#8217;s grassroots, decentralized approach to funding and development has its merits, as does Ethereum&#8217;s more structured approach,” concluded Cai.</p></blockquote>
+<p>The post <a href="https://cryptopotato.com/bitcoin-or-ethereum-defi-dev-explains-which-is-better-for-building/" rel="nofollow">Bitcoin or Ethereum? DeFi Dev Explains Which Is Better For Building</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Crypto Custodian BitGo Raises $100 Million in Series C Funding, Valued at $1.75 Billion</title>
+		<link>https://cryptopotato.com/crypto-custodian-bitgo-raises-100-million-in-series-c-funding-valued-at-1-75-billion/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 22:45:04 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266892</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/BitGo_Funding.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/BitGo_Funding.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Galaxy Digital previously scrapped acquisition of BitGo. ]]></description>
+            																<content:encoded><![CDATA[<p>California-based crypto custodian BitGo announced securing $100 million in a Series C funding round, bringing its valuation to $1.75 billion. The freshly injected funds will be deployed to make strategic acquisitions and expand its regulated custody, wallet, and infrastructure solutions globally.</p>
+<p>Both new and outside strategic investors have participated in the funding round.</p>
+<ul>
+<li>In a <a href="https://www.prweb.com/releases/bitgo-secures-100m-series-c-funding-at-1-75b-valuation-301901731.html" target="_blank" rel="noopener" data-wpel-link="external">statement</a>, BitGo CEO Mike Belshe highlighted the growing demand for regulated custody solutions both in the US as well as across the world.</li>
+</ul>
+<blockquote><p>&#8220;Not only are we seeing growing demand for regulated custody solutions in the US, but we&#8217;re also seeing the demand on a global scale. We are very pleased to announce our $100M Series C for the purpose of meeting this growing need and to provide institutions, brands, coin foundations, and others with secure and seamless participation in the digital asset ecosystem.&#8221;</p></blockquote>
+<ul>
+<li>According to the platform&#8217;s analysis, BitGo witnessed a 60% increase in newly onboarded clients since the beginning of the year, a 20% jump in AUC, a 200% surge in fiat custody, and 40x growth in staked assets.</li>
+<li>Mike Novogratz’s cryptocurrency investment firm Galaxy Digital previously announced plans to purchase BitGo for $1.2 billion.</li>
+<li>The agreement was, however, canceled, with Galaxy blaming the inability of the crypto custody company to provide audited financial statements for 2021 as stipulated in the agreement.</li>
+<li>This prompted the digital asset custodian to <a href="https://cryptopotato.com/bitgo-confirms-filing-lawsuit-against-galaxy-digital-seeks-100m-in-damages/" target="_blank" rel="noopener" data-wpel-link="internal">file</a> a lawsuit against Galaxy seeking damages in excess of $100 million, citing &#8220;improper repudiation and intentional breach of its merger agreement.&#8221;</li>
+<li>Meanwhile, BitGo <a href="https://cryptopotato.com/bitgo-discontinues-acquisition-of-prime-trust/" target="_blank" rel="noopener" data-wpel-link="internal">said</a> it will not be acquiring Prime Trust, which later <a href="https://cryptopotato.com/ftx-linked-crypto-custodian-prime-trust-files-for-bankruptcy-protection/" target="_blank" rel="noopener" data-wpel-link="internal">filed</a> for Chapter 11 bankruptcy protection in Delaware.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/crypto-custodian-bitgo-raises-100-million-in-series-c-funding-valued-at-1-75-billion/" rel="nofollow">Crypto Custodian BitGo Raises $100 Million in Series C Funding, Valued at $1.75 Billion</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Bitcoin Plummets To $25k Triggering $1 Billion In Liquidations</title>
+		<link>https://cryptopotato.com/bitcoin-plummets-to-25k-triggering-1-million-in-liquidations/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 22:10:26 +0000</pubDate>
+				<category><![CDATA[BTCEUR]]></category>
+		<category><![CDATA[BTCGBP]]></category>
+		<category><![CDATA[BTCUSD]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[featured1]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267219</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/05/BitcoinCrash.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/05/BitcoinCrash.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Bitcoin hasn't seen such lows since mid-June, after two of the industry's biggest exchanges were sued by regulators. ]]></description>
+            																<content:encoded><![CDATA[<p>Bitcoin&#8217;s price plummeted on Thursday to $25,300, touching lows the asset has not seen in the past two months.</p>
+<p>The event triggered nearly $1 billion in liquidations across the entire crypto market.</p>
+<ul>
+<li>Bitcoin slightly rebounded after the crash, trading for $26,386 at writing time.</li>
+<li>The last time Bitcoin traded this low was in mid-June, shortly after Binance and Coinbase were sued by the Securities and Exchange Commission (SEC), and shortly before BlackRock announced its bid for a Bitcoin spot ETF.</li>
+<li>According to <a href="https://www.coinglass.com/LiquidationData" data-wpel-link="external" target="_blank">Coinglass</a>, over $788 million in liquidations have occurred in the past 24 hours, including over $812 million in the last hour alone. Roughly half of the liquidations were on Bitcoin trades, with another $245 million on ETH trades.</li>
+<li>The largest single liquidation took place on an ETH-BUSD trade on Binance, clearing out a trader for a whopping $55.92 million. The total number of liquidations surpassed 164,000.</li>
+<li>The news arrives shortly after the Wall Street Journal <a href="https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b" data-wpel-link="external" target="_blank">reported</a> that Elon Musk&#8217;s SpaceX had sold the remainder of its Bitcoin holdings, writing down its value from last year by $373 million.</li>
+</ul>
+<figure id="attachment_267220" aria-describedby="caption-attachment-267220" style="width: 1024px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14.png" data-wpel-link="internal"><img class="wp-image-267220 size-large" src="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-1024x560.png" alt="" width="1024" height="560" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-1024x560.png 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-300x164.png 300w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-768x420.png 768w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-1536x840.png 1536w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14-50x27.png 50w, https://cryptopotato.com/wp-content/uploads/2023/08/BTCUSD_2023-08-17_17-57-14.png 1574w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-267220" class="wp-caption-text">Bitcoin / USD. Source: TradingView</figcaption></figure>
+<p>The post <a href="https://cryptopotato.com/bitcoin-plummets-to-25k-triggering-1-million-in-liquidations/" rel="nofollow">Bitcoin Plummets To $25k Triggering $1 Billion In Liquidations</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Singapore Police Arrest 10 Foreigners for Alleged Money Laundering and Forgery Offenses</title>
+		<link>https://cryptopotato.com/singapore-police-arrest-10-foreigners-for-alleged-money-laundering-and-forgery-offenses/</link>
+		
+		<dc:creator><![CDATA[Anthonia Isichei]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 20:53:36 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Regulations]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=266996</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/01/PoliceArrest-min.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/01/PoliceArrest-min.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Singapore has seized over $736M worth of properties, cash, and assets including crypto, in one of its major money laundering crackdowns.]]></description>
+            																<content:encoded><![CDATA[<p dir="ltr">Singapore authorities have arrested 10 foreign nationals suspected to be involved in money laundering and forgery, among other illicit activities, and have seized or frozen cash, assets, and crypto worth over S$1 billion.</p>
+<p dir="ltr">While eight other suspects are on the run, the case could be considered one of Singapore&#8217;s largest money laundering crackdowns.</p>
+<h2 dir="ltr">Singapore Seizes Over $1B in Cash, Properties, and Assets</h2>
+<p dir="ltr">The Singapore Police Force (SPF), in a <a href="https://m.facebook.com/story.php?story_fbid=680376724131024&amp;id=100064761068356&amp;mibextid=Nif5oz" data-wpel-link="external" target="_blank">Facebook post</a> on August 16, revealed that over 400 law enforcement officers from the Commercial Affairs Department (CAD), the Special Operations Command, the Police Intelligence Department, and the Criminal Investigation Department, simultaneously raided the residence of the suspects, who lived in places such as condominiums and Good Class Bungalows (GCB).</p>
+<p dir="ltr">The raid happened on August 15, with the SPF stating that authorities acted based on information that the arrested individuals allegedly used fake documents to substantiate their source of funds in Singapore bank accounts.</p>
+<p dir="ltr">According to the Police, none of the 10 individuals are citizens of or permanent residents in Singapore. Instead, the suspects, with an age range between 31 and 44 years, are Cypriot, Turkish, Cambodian, Ni-Vanuatu, and Chinese nationals, with seven out of the 10 non-Chinese nationals said to possess other foreign passports issued by China.</p>
+<p dir="ltr">Following the crackdown, authorities seized over 35 bank accounts holding an estimated balance of more than $110 million, S$23 million cash, including foreign currencies, and issued a prohibition of disposal orders against 94 properties and 50 vehicles with an estimated worth of S$815 million.</p>
+<p dir="ltr">Other assets confiscated include over 270 pieces of jewelry, 250 luxury bags and watches, two gold bars, and 11 documents on information on crypto, bringing the total value of cash and assets seized or frozen to over S$1 billion ($736.5 million).</p>
+<p dir="ltr">With further investigations ongoing, eight other people are currently at large and wanted by the police, with the SPF stating that 12 other individuals are helping with the case.</p>
+<h2 dir="ltr">Aiming to Be a Vibrant Crypto Hub in Asia</h2>
+<p dir="ltr">In a <a href="https://www.mas.gov.sg/news/media-releases/2023/mas-will-not-tolerate-the-abuse-of-our-financial-system-for-illicit-activities" data-wpel-link="external" target="_blank">separate announcement</a>, the Monetary Authority of Singapore (MAS) said that local financial institutions filed suspicious transaction reports (STRs) after they noticed red flags such as dubious documentation of source of wealth, notable inconsistencies in information provided, and suspicious fund flows.</p>
+<p dir="ltr">According to a statement by the Deputy Managing Director (Financial Supervision), MAS, Ho Hern Shin:</p>
+<blockquote>
+<p dir="ltr">&#8220;This case has highlighted that vigilance and prompt filing of STRs by our FIs have helped law enforcement authorities to identify those suspected of carrying out illicit activities. But it has also highlighted that as a global  financial hub, Singapore remains vulnerable to transnational ML/TF risks and that MAS and FIs need to continue to work together to strengthen our defenses against these risks.&#8221;</p>
+</blockquote>
+<p dir="ltr">Singapore, striving to be Asia&#8217;s financial hub, has seen an influx of foreign businesses due to its advanced infrastructure and stable regulatory framework. The city-state is also positioning itself as a major center for digital currencies, with crypto firms such as Gemini, <a href="https://cryptopotato.com/ripple-receives-in-principle-singapore-payments-license-us-crypto-exodus-continues/" data-wpel-link="internal">Ripple</a>, Coinbase, <a href="https://cryptopotato.com/blockchain-com-obtains-regulatory-approval-in-singapore/" data-wpel-link="internal">Blockchain.com</a>, and Circle securing regulatory licenses in Singapore.</p>
+<p dir="ltr">Recently, MAS <a href="https://cryptopotato.com/singapores-central-bank-unveils-stablecoin-regulation-as-global-trailblazer/" data-wpel-link="internal">unveiled</a> a new regulation for single-currency stablecoins (SCS) pegged to the Singapore dollar or any G10 currency issued in the city-state.</p>
+<p>The post <a href="https://cryptopotato.com/singapore-police-arrest-10-foreigners-for-alleged-money-laundering-and-forgery-offenses/" rel="nofollow">Singapore Police Arrest 10 Foreigners for Alleged Money Laundering and Forgery Offenses</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Tether Just Axed USDT Support For These 3 Blockchains</title>
+		<link>https://cryptopotato.com/tether-just-axed-usdt-support-for-these-3-blockchains/</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 19:07:58 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Tether (USDT)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267204</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/07/Tether.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/07/Tether.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Tether will no longer mint USDT on Omni – the first protocol ever to support USDT.]]></description>
+            																<content:encoded><![CDATA[<p>Stablecoin giant Tether announced on Thursday that it has discontinued USDT support for three blockchains, on which the token “lacks significant traction.”</p>
+<p>Those chains include Bitcoin’s Omni Layer, Bitcoin Cash’s Simple Ledger Protocol (SLP), and Kusama.</p>
+<h2>No Signs Of Omni Adoption</h2>
+<p>As <a href="https://tether.to/en/tether-makes-strategic-transition-to-meet-community-demands-and-foster-innovation/" data-wpel-link="external" target="_blank">explained</a> on Tether’s website on Thursday, community interest is a “key factor” in deciding whether or not the company will bring USDT to a particular network.</p>
+<p>“If a blockchain lacks significant traction over an extended period and shows no signs of recovery in usage indicators, maintaining support becomes inefficient and may jeopardize security and oversight,” wrote Tether.</p>
+<p>To the firm’s dismay, this appears to be the case with Omni – a smart contract layer built on top of Bitcoin to enable smart contracts and tokenization on the network roughly a decade ago. In 2014, Omni became the “first transport layer” for Tether, playing a “crucial role” in the company’s early journey.</p>
+<p>“Over the years, the Omni Layer faced challenges due to the lack of popular tokens and the availability of USD₮ on other blockchains,” Tether wrote. Crypto exchanges, for example, have favored other layers such as Ethereum and Tron, making USDT transfers even less popular on Omni.</p>
+<p>Tether said it would reconsider launching USDT on Omni if there was “increased utilization” of its decentralized exchange and token issuance protocol in the future.</p>
+<h2>Bitcoin’s Future With Stablecoins</h2>
+<p>Tether hasn’t given up on Bitcoin, however: it now plans to issue USDT on RGB, an alternative smart contracts system that leverages Bitcoin’s base layer and lightning network for “unparalleled scalability.”</p>
+<p>“We firmly believe that RGB will usher in a new era for digital assets, smart contracts, and digital rights, garnering comprehensive support from major players in our industry,” said Tether.</p>
+<p>While USDT mints end as of today, holders of USDT on these chains will still be able to redeem their tokens for the next 12 months. They may also trade their tokens on exchanges, like Bitfiniex, for assets on other chains.</p>
+<p>Though Omni has failed to gain adoption, numerous other initiatives for Bitcoin-based stablecoins have been launched in recent years. In May, Stably <a href="https://cryptopotato.com/stably-launches-bitcoins-first-brc-20-stablecoin/" data-wpel-link="internal">launched</a> the first stablecoin on Bitcoin’s base layer using the BRC-20 token standard, which was developed using Ordinals technology.</p>
+<p>The creator of BRC-20 has himself promoted <a href="https://cryptopotato.com/lightning-labs-aims-to-bitcoinize-the-dollar-with-taros-alpha-release/" data-wpel-link="internal">Taro</a> – a developing protocol for issuing assets on Bitcoin’s lightning network.</p>
+<p>The post <a href="https://cryptopotato.com/tether-just-axed-usdt-support-for-these-3-blockchains/" rel="nofollow">Tether Just Axed USDT Support For These 3 Blockchains</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>These Meme Coins Are Trending Today But Not For the Good Reasons</title>
+		<link>https://cryptopotato.com/these-meme-coins-are-trending-today-but-not-for-the-good-reasons/</link>
+		
+		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 18:47:48 +0000</pubDate>
+				<category><![CDATA[Crypto Bits]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[PEPE]]></category>
+		<category><![CDATA[Shiba Inu (SHIB)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267197</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/memecoins_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/memecoins_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[These meme coins are in the trending section but not for the right reason. ]]></description>
+            																<content:encoded><![CDATA[<p>Shiba Inu (SHIB), Pepe (PEPE), and Bone Shibaswap (BONE) are among the top five trending coins in the market today. Interestingly, none of them is making the headlines for a good reason.</p>
+<ul>
+<li>Data from CoinMarketCap indicates the three meme coins are currently all <a href="https://cryptopotato.com/why-is-shiba-inu-shib-crashing-despite-shibarium-launch-2-possible-reasons/" data-wpel-link="internal">in the red</a>. BONE is down 12.83% in the last 24 hours, and more than 20% over the last seven days.</li>
+<li>On its part, Shiba Inu is currently 8.16% below its price from the previous day and 10.5% over the week. At 2.15%, PEPE has lost the least value among the three in the last 24 hours. However, it has fared worse than SHIB and BONE over 30 days, dropping as much as 19% from its price over that period.</li>
+<li>Market watchers believe the bad performances of SHIB and BONE could be down to <a href="https://cryptopotato.com/shiba-inus-shibarium-experiences-major-issues-on-day-1-details/" data-wpel-link="internal">controversy</a> surrounding Shiba Inu’s new layer-2 network, Shibarium.</li>
+<li>The blockchain went live on Aug. 16 after months of anticipation. Shortly after, reports started surfacing regarding issues with the network, with on-chain data apparently showing transactions had stalled for as long as five hours.</li>
+<li>Some analysts also claimed there was something wrong with Shibarium’s <a href="https://www.shibrpc.com/" data-wpel-link="external" target="_blank">remote procedure call</a> (RCP), with crypto sleuth ZachXBT referring to it as “dead.”</li>
+<li>Worse yet, purported screenshots of an internal Telegram conversation between Shibarium developers are doing the rounds on social media, with one showing lead developer Shytoshi saying the team was unable to recover assets connected to the Shibarium network.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/these-meme-coins-are-trending-today-but-not-for-the-good-reasons/" rel="nofollow">These Meme Coins Are Trending Today But Not For the Good Reasons</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Growing Short Positions Lead to Bullish Opportunities for Crypto Investors: Santiment</title>
+		<link>https://cryptopotato.com/growing-short-positions-lead-to-bullish-opportunities-for-crypto-investors-santiment/</link>
+		
+		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 17:23:33 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Bitcoin (BTC) Price]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267089</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/06/BearVsBullBitcoin.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/06/BearVsBullBitcoin.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Santiment said traders have doubled down on their short positions due to the market's current downturn.]]></description>
+            																<content:encoded><![CDATA[<p>Blockchain analytics platform Santiment revealed that the increased short positions in the crypto market provide an opportunity for bullish investors to position themselves for an uptick in prices.</p>
+<p>In a recent tweet, Santiment said traders have doubled down on their short positions due to the market&#8217;s current downturn.</p>
+<h2>Traders Bet Against Crypto Markets</h2>
+<p>With many traders <a href="https://cryptopotato.com/big-shorts-michael-burry-bets-big-on-stock-crash-will-bitcoin-follow/" data-wpel-link="internal">betting against</a> the market, the likelihood of liquidation increases and, possibly, the prices of assets too. The platform disclosed that the current signal is one that many bullish investors have been waiting for as they prepare for a rise in prices.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9d0.png" alt="🧐" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Traders are shorting now as <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#crypto</a> market caps continue their downturn. When the crowd begins to bet against markets, it increases the likelihood of <a href="https://twitter.com/hashtag/liquidations?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#liquidations</a>, causing prices to rise. For many <a href="https://twitter.com/hashtag/bullish?src=hash&amp;ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">#bullish</a> investors out there, this is the signal that many are waiting for. <a href="https://t.co/JiKqUBruMn" data-wpel-link="external" target="_blank">pic.twitter.com/JiKqUBruMn</a></p>
+<p>— Santiment (@santimentfeed) <a href="https://twitter.com/santimentfeed/status/1691919694062862531?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 16, 2023</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The market downturn is evident in the total crypto market cap, which has plunged by more than 1.8% to $1.13 trillion in the past 24 hours, per data from CoinMarketCap. The prices of bitcoin and ether (ETH) have also <a href="https://coinmarketcap.com/currencies/bitcoin/" data-wpel-link="external" target="_blank">declined</a> by over 2% within the same time frame to levels around the $28,500 and $1,700 regions, respectively.</p>
+<p>The altcoins have suffered even more, with losses of up to 10% on a daily scale.</p>
+<h2>The Right Time to Buy?</h2>
+<p>Santiment&#8217;s analysis aligns with that of another from on-chain intelligence firm CryptoQuant, which <a href="https://cryptoquant.com/insights/quicktake/64db830782e8484d4172bd67-Recent-open-interest-in-the-Ethereum-futures-market-shows-the-same-pattern" data-wpel-link="external" target="_blank">noted</a> a rapid spike in Ethereum&#8217;s open interest in the past couple of days. Open interest is a metric that counts short and long contracts in futures markets currently open on all derivative exchanges.</p>
+<p>While the open interest indicator keeps track of both short and long contracts, previous occurrences have shown that the metric rises when the prices of crypto assets are down. As it surged in the same period that ETH declined, it is a strong suggestion that the new positions on the futures market are from short traders.</p>
+<p>Different patterns over the past month have shown that the spike in open interest is usually followed by a bounce that shoots the crypto asset&#8217;s price upward and, in turn, the open interest downward. As Santiment stated, bullish investors see such signals as positive as they believe the current plunge is the right time to buy.</p>
+<p>The post <a href="https://cryptopotato.com/growing-short-positions-lead-to-bullish-opportunities-for-crypto-investors-santiment/" rel="nofollow">Growing Short Positions Lead to Bullish Opportunities for Crypto Investors: Santiment</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Bankrupt Crypto Entities Genesis and FTX Reach Agreement on $175 Million Claim</title>
+		<link>https://cryptopotato.com/bankrupt-crypto-entities-genesis-and-ftx-reach-agreement-on-175-million-claim/</link>
+		
+		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 15:51:58 +0000</pubDate>
+				<category><![CDATA[AA News]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Digital Currency Group]]></category>
+		<category><![CDATA[FTX Exchange]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267103</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/01/Genesis_Resolve.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/01/Genesis_Resolve.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[This settlement marks a notable decrease from FTX's initial demand of nearly $4 billion.]]></description>
+            																<content:encoded><![CDATA[<p>FTX&#8217;s sister trading firm, Alameda Research, will be allowed a general unsecured claim of $175 million against Genesis. The disgraced crypto exchange led by Sam Bankman-Fried previously sought to claw back $4 billion from DCG-owned lender Genesis which also filed for Chapter 11 bankruptcy.</p>
+<p>However, the latest court filing suggests that FTX and Genesis have reached an agreement, with the former having to settle for $3.825 billion less than originally demanded. The deal also entails waiving Genesis&#8217; corresponding claims against FTX.</p>
+<ul>
+<li>Genesis lawyers <a href="https://restructuring.ra.kroll.com/genesis/Home-DocketInfo" target="_blank" rel="noopener" data-wpel-link="external">highlighted</a> that the settlement will greatly streamline the process of confirming the Chapter 11 reorganization plan without incurring the expenses associated with prolonged litigation.</li>
+</ul>
+<blockquote><p>&#8220;The agreement will, among various outcomes, notably facilitate the approval process for the Genesis Debtors&#8217; chapter 11 reorganization plan (referred to as the &#8220;Genesis Plan&#8221;). Additionally, it will eliminate the potential drawbacks, costs, and unpredictability linked to extended legal disputes involving the FTX Debtors, Genesis Debtors, and GGCI.&#8221;</p></blockquote>
+<ul>
+<li>In a corresponding submission to the court, FTX&#8217;s chief restructuring officer, John J. Ray III, maintained that the deal is &#8220;fair&#8221; and in the &#8220;best interest&#8221; of all the parties engaged.</li>
+<li>The intention behind this <a href="https://restructuring.ra.kroll.com/FTX/Home-DocketInfo" target="_blank" rel="noopener" data-wpel-link="external">arrangement</a>, as stated by legal representatives, is to facilitate the orderly resolution of matters for both companies and the reimbursement of funds to customers.</li>
+<li>Meanwhile, the FTX 2.0 Coalition <a href="https://twitter.com/AFTXcreditor/status/1692092064027086890" target="_blank" rel="noopener" data-wpel-link="external">expressed</a> its dissatisfaction, arguing that the agreement is notably unfavorable, especially given the ongoing Department of Justice (DOJ) investigation into DCG and Genesis.</li>
+<li>The group anticipates that the Unsecured Creditors&#8217; Committee (UCC) will raise objections to this settlement, citing that Genesis had been reimbursed by Alameda using substantial amounts from FTX customer funds in 2022.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/bankrupt-crypto-entities-genesis-and-ftx-reach-agreement-on-175-million-claim/" rel="nofollow">Bankrupt Crypto Entities Genesis and FTX Reach Agreement on $175 Million Claim</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
+		<title>Analyst Forecasts Over 44% Rally for Shiba Inu (SHIB): Find Out the Targets</title>
+		<link>https://cryptopotato.com/analyst-forecasts-over-44-rally-for-shiba-inu-shib-find-out-the-targets/</link>
+		
+		<dc:creator><![CDATA[Wayne Jones]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 15:35:31 +0000</pubDate>
+				<category><![CDATA[Crypto Bits]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[Shiba Inu (SHIB)]]></category>
+		<guid isPermaLink="false">https://cryptopotato.com/?p=267137</guid>
+		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/shiba_up_cover.jpg" medium="image"/>
+		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/shiba_up_cover.jpg" length="840" type="image/jpg"/>
+					
+			            <description><![CDATA[Despite the ongoing hiccups around Shibarium, leading analyst believes there's still a room for major SHIB rally.]]></description>
+            																<content:encoded><![CDATA[<p>Well-known cryptocurrency market analyst, Michael van de Poppe, anticipated a strong surge in Shiba Inu (SHIB) price, exceeding 44% in the coming weeks.</p>
+<p>This bullish outlook relies on SHIB holding on to three key support levels long enough to reestablish an upward trajectory.</p>
+<p>In stark contrast to the current crypto market demeanor, which remains predominantly devoid of action, SHIB, currently ranked 15th by market cap, has been on-and-off with its price action recently.</p>
+<figure id="attachment_267138" aria-describedby="caption-attachment-267138" style="width: 468px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24.jpg" data-wpel-link="internal"><img class="wp-image-267138 size-full" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24.jpg" alt="Picture1" width="468" height="458" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24.jpg 468w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24-300x294.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24-50x50.jpg 50w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-24-45x45.jpg 45w" sizes="(max-width: 468px) 100vw, 468px" /></a><figcaption id="caption-attachment-267138" class="wp-caption-text">SHIB 90-day price chart. Source: Coingecko</figcaption></figure>
+<p>&nbsp;</p>
+<ul>
+<li>An analysis of the past 30 days indicates that <a href="https://cryptopotato.com/shiba-inu-lead-dev-all-is-well-no-bridge-issue-this-caused-the-shibarium-issues/" data-wpel-link="internal">SHIB</a> rallied by about 16%, moving from a low of $0.0000077 to the current $0.000009. 90-day charts paint a similar picture of gains, with SHIB rallying 12.5% from a low of $0.000008.</li>
+<li>Both these mid-term charts imply that SHIB has been on an upward trajectory.</li>
+<li>However, 24-hour and 7-day charts show 10% and 7.9% price declines, respectively.</li>
+<li>This change in direction prompted new analysis, with an expert <a href="https://twitter.com/CryptoMichNL/status/1691431293341384704" data-wpel-link="external" target="_blank">noting</a> that if SHIB holds onto support levels at $0.00000941$, $0.00000870, and $0.00000808, the coin could change direction and record a surge to $0.000013.</li>
+<li>Considering the prevailing price, such a move means a gain of over 44%.</li>
+</ul>
+<figure id="attachment_267139" aria-describedby="caption-attachment-267139" style="width: 443px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/1-3.jpg" data-wpel-link="internal"><img class="size-full wp-image-267139" src="https://cryptopotato.com/wp-content/uploads/2023/08/1-3.jpg" alt="1" width="443" height="339" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/1-3.jpg 443w, https://cryptopotato.com/wp-content/uploads/2023/08/1-3-300x230.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/1-3-50x38.jpg 50w" sizes="(max-width: 443px) 100vw, 443px" /></a><figcaption id="caption-attachment-267139" class="wp-caption-text">Source: X</figcaption></figure>
+<p>&nbsp;</p>
+<ul>
+<li>With the coin trading below the first support level, the next pivot price target remains at $0.000087, which could lead to a new bull session for <a href="https://cryptopotato.com/shiba-inus-shibarium-experiences-major-issues-on-day-1-details/" data-wpel-link="internal">SHIB</a>.</li>
+<li>Barchart’s analytics suggest that the most critical resistance levels for SHIB are at $0.00001, $0.0000105, and $0.0000108. However, these resistance levels might not be extremely hard to beat since less than 48 hours ago, SHIB was trading at $0.000011 before it took a nose dive to current levels.</li>
+</ul>
+<p>The post <a href="https://cryptopotato.com/analyst-forecasts-over-44-rally-for-shiba-inu-shib-find-out-the-targets/" rel="nofollow">Analyst Forecasts Over 44% Rally for Shiba Inu (SHIB): Find Out the Targets</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
+																</item>
+		<item>
 		<title>Are Bitcoin ETFs Sell-The-News Events? BTC Down $1.5K Since Europe&#8217;s First Spot One</title>
 		<link>https://cryptopotato.com/are-bitcoin-etfs-sell-the-news-events-btc-down-1-5k-since-europes-first-spot-one/</link>
 		
@@ -62,325 +345,6 @@
 <p>So maybe the BTC ETFs are not so good for the industry after all? Or maybe their negative impact is just momentary.</p>
 <p>Nevertheless, it would be interesting to follow what would or could happen to BTC and the entire market if the SEC finally decides to greenlight a spot Bitcoin ETF in the States. According to the agency&#8217;s latest on the matter, though, that would be in 2024, the earliest, as it delayed making a final decision on the recent filings.</p>
 <p>The post <a href="https://cryptopotato.com/are-bitcoin-etfs-sell-the-news-events-btc-down-1-5k-since-europes-first-spot-one/" rel="nofollow">Are Bitcoin ETFs Sell-The-News Events? BTC Down $1.5K Since Europe&#8217;s First Spot One</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>XRP Price Dips Below $0.6 As Investors Lose Hope in Ripple &#8211; Could $LPX Token Be An Alternative?</title>
-		<link>https://cryptopotato.com/xrp-price-dips-below-0-6-as-investors-lose-hope-in-ripple-could-lpx-token-be-an-alternative/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 13:56:42 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267144</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/launchpad_xrp_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/launchpad_xrp_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Major cryptocurrencies are registering steep losses as a perfect storm led by worsening inflation levels, SEC’s hawkish stance and struggling equities has turned the market sentiment distinctly bearish. The global crypto market cap plummeted by 2% over the past day, with even Bitcoin showing strong volatility as it fell to the $28,600 price level. XRP [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>Major cryptocurrencies are registering steep losses as a perfect storm led by worsening inflation levels, SEC’s hawkish stance and struggling equities has turned the market sentiment distinctly bearish.</p>
-<p>The global crypto market cap plummeted by 2% over the past day, with even Bitcoin showing strong volatility as it fell to the $28,600 price level.</p>
-<p>XRP is also seeing a major sell-off as the token has fallen below the $0.6 price mark. Investors believe that the token will continue to retrace its post-win bull rally, especially with the SEC seeking to appeal Ripple’s landmark victory.</p>
-<p>On the other hand, the demand for high-utility presale tokens is on the rise. The Launchpad XYZ ($LPX) token is emerging as an alternative investment to XRP, having already raised $1.3 million in its presale.</p>
-<h2><strong>XRP Plummets Despite Ripple’s Strong Opposition Against An SEC Appeal</strong></h2>
-<p>The XRP market capitalization has fallen below the $31 billion mark after the token corrected over 2% in the daily time frame, bringing its cumulative loss to over 6% over the past week.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-26.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267147" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-26.jpg" alt="Picture2" width="602" height="309" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-26.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-26-300x154.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-26-50x26.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a>XRP saw a remarkable, bullish surge after it was granted a non-security status in Ripple’s watershed victory against the SEC. District Judge Analisa Torres ruled that the programmatic and individual sales of XRP tokens did not meet the Howey criteria and thus did not violate the Securities Act.</p>
-<p>Following the historic win, the token traded as high as $0.85, with a market capitalization of over $43 billion.</p>
-<p>However, with the ruling now in danger of an SEC appeal, the token has plunged over 21% in the past month to trade at just $0.58.</p>
-<p>Last week, the SEC requested an interlocutory appeal against Torres’ ruling and asked for a stay on all court proceedings. In response, <a href="https://twitter.com/FilanLaw/status/1691912544976515511?s=20" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Ripple lawyers have filed a strong opposition</a> to any such appeal, stating that the SEC has no substantial ground for such a request.</p>
-<p>Ripple CEO Brad Garlinghouse and co-founder Chris Larsen, who are individual defendants in the case, have also separately <a href="https://twitter.com/FilanLaw/status/1691921878137401705?s=20" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">filed their opposition</a>.</p>
-<p>Nevertheless, investor confidence in XRP appears to have shaken, especially since another District Judge Jed Rakoff sided with the SEC and rejected Torres’ Howey analysis in regards to XRP.</p>
-<p><a href="https://in.tradingview.com/symbols/XRPUSD/technicals/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">TradingView</a> reflects this pessimistic view of investors, giving it a Sell signal in the daily time frame. The token is underperforming most of the important moving average indicators and is at risk of falling below its 100-day Exponential Moving Average at $0.577.</p>
-<p>XRP is also bearing the brunt of the worsening macroeconomic outlook. The FOMC minutes released by the US Fed on Wednesday highlighted the need for more interest rate hikes, a scenario that could be extremely bearish for the crypto market.</p>
-<p>In response to this news, equities like S&amp;P 500 and NASDAQ-100 turned red, which led to further selling pressure on the crypto market and altcoins like XRP.</p>
-<p>However, while XRP and other major altcoins struggle, some new tokens continue to grow despite the bearish market conditions. One example is the Launchpad XYZ project, which is currently offering its $LPX token on presale and has gained a lot of attention from investors.</p>
-<h2><strong>Launchpad XYZ Sees Surging Demand Despite Bear Market &#8211; $LPX Token Presale Nears $1.5 Million</strong></h2>
-<p><a href="https://shrt.care/11df4205?referrer=xrp-price-dips-below-0-6-as-investors-lose-hope-in-ripple-could-lpx-token-be-an-alternative" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Launchpad XYZ</a> is a comprehensive all-in-one platform designed to meet the diverse needs of crypto traders and investors, empowering them for resounding success within the Web3 landscape.</p>
-<p>The platform is offering a suite of powerful products that will help its users navigate the complexities of the market.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-25.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267146" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-25.jpg" alt="Picture3" width="602" height="387" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-25.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-25-300x193.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-25-50x32.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>For example, investors are often unaware of high-potential gems like Pepe and FLOKI until it&#8217;s too late. To help solve this issue, the Launchpad Quotient ranks a diverse set of crypto assets across 400 data points, ensuring that investors do not miss out on the next big coin.</p>
-<p>Traders can also gain a competitive advantage through Launchpad’s Trading Edge platform. Similar to leading investment analysis platforms like <a href="https://altindex.com/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">AltIndex</a>, it helps traders make real-time informed decisions with the help of sentiment analysis, the latest news and important market insights.</p>
-<p>However, unlike other platforms, Launchpad XYZ also offers its own Terminal trading engine, so pro traders can execute their trades at a blazing-fast speed.</p>
-<p>This all-in-one portal claims to bring “all of Web3 in one place”, offering its own Web3 wallet, a decentralized exchange, an NFT marketplace, fractionalized assets, etc.</p>
-<p>Investors have been quick to recognize the potential of this project, as its native $LPX token has already raised over $1.3 million in the presale. There’s now just $200,000 to go before the next stage price increase.</p>
-<p><a href="https://shrt.care/11df4205?referrer=xrp-price-dips-below-0-6-as-investors-lose-hope-in-ripple-could-lpx-token-be-an-alternative" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Launchpad XYZ Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, it’s written by a third party. CryptoPotato doesn’t endorse or assume responsibility for the content, advertising, products, quality, accuracy, or other materials on this page. Nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully before engaging with any company mentioned and do their own research. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer" data-wpel-link="internal">full disclaimer.</a></em></p>
-<p>The post <a href="https://cryptopotato.com/xrp-price-dips-below-0-6-as-investors-lose-hope-in-ripple-could-lpx-token-be-an-alternative/" rel="nofollow">XRP Price Dips Below $0.6 As Investors Lose Hope in Ripple &#8211; Could $LPX Token Be An Alternative?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Peter Brandt Warns of Bitcoin Bear Trap as BTC Dumps $1K Daily</title>
-		<link>https://cryptopotato.com/peter-brandt-warns-of-bitcoin-bear-trap-as-btc-dumps-1k-daily/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 12:49:27 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[BTCEUR]]></category>
-		<category><![CDATA[BTCGBP]]></category>
-		<category><![CDATA[BTCUSD]]></category>
-		<category><![CDATA[BTCUSDT]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Bitcoin (BTC) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267061</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/07/bears_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/07/bears_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Bitcoin bulls are currently struggling to regain momentum. ]]></description>
-            																<content:encoded><![CDATA[<p>Bitcoin is currently undergoing a period of record low volatility. However, the asset appears to be a &#8220;challenging multi-contact point trendline&#8221; that can be traced to its lowest point in 2023.</p>
-<p>This could offer insights into the future direction of the leading crypto-asset, according to renowned veteran trader Peter Brandt, who said the largest cryptocurrency by market capitalization could drop further.</p>
-<p>The prediction comes as BTC finally broke off from its narrow range and dived to a two-month low of $28.3k.</p>
-<ul>
-<li>In his latest <a href="https://twitter.com/PeterLBrandt/status/1691853244677644560" target="_blank" rel="noopener" data-wpel-link="external">tweet</a>, Brandt speculated that if bitcoin moves south of the trendline that is located below $28,000, it would indicate the continuation of a bearish trend or a bear trap.</li>
-<li>The founder and CEO of proprietary trading firm Factor LLC further added that the trendline violation negates the bullish narrative.</li>
-</ul>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">As a swing trader I would respect the violation of the trendline. So, my positions would be either short or flat. Only if a bear trap is actually &#8220;sprung&#8221; would I consider it a bullish development. I strongly prefer horizontal chart construction.</p>
-<p>— Peter Brandt (@PeterLBrandt) <a href="https://twitter.com/PeterLBrandt/status/1691853244677644560?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 16, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<ul>
-<li>Bitcoin&#8217;s price action has been dull for the most part, especially after declining slowly since its July peak.</li>
-<li>The latest downward price action extended its monthly losses to nearly 6%.</li>
-<li>However, Fundstrat <a href="https://cryptopotato.com/fundstrat-predicts-150k-bitcoin-price-but-btc-drops-to-8-week-low/" target="_blank" rel="noopener" data-wpel-link="internal">analyst</a> Tom Lee remains a major Bitcoin bull. He recently predicted an influx in demand for bitcoin if a spot BTC ETF gets approved in the US.</li>
-<li>The company&#8217;s crypto strategists even forecasted a price range of $150,000 to $180,000, but only if such a product sees the light of day.</li>
-</ul>
-<p>The post <a href="https://cryptopotato.com/peter-brandt-warns-of-bitcoin-bear-trap-as-btc-dumps-1k-daily/" rel="nofollow">Peter Brandt Warns of Bitcoin Bear Trap as BTC Dumps $1K Daily</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Shiba Inu Lead Dev: All is Well, No Bridge Issue, This Caused the Shibarium Problems</title>
-		<link>https://cryptopotato.com/shiba-inu-lead-dev-all-is-well-no-bridge-issue-this-caused-the-shibarium-issues/</link>
-		
-		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 12:28:44 +0000</pubDate>
-				<category><![CDATA[Crypto Bits]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Shiba Inu (SHIB)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267109</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/shiba_inu_lead_dev_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/shiba_inu_lead_dev_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Shiba Inu lead developer Shytoshi Kusama addresses the recent turmoil.]]></description>
-            																<content:encoded><![CDATA[<p>Shiba Inu&#8217;s lead developer Shytoshi Kusama addressed the recent turmoil within the cryptocurrency community regarding the issues that Shibarium&#8217;s launch faced.</p>
-<ul>
-<li>As <em>CryptoPotato </em><a href="https://cryptopotato.com/shiba-inus-shibarium-experiences-major-issues-on-day-1-details/" data-wpel-link="internal">reported</a> earlier, the Shibarium launch was faced with some issues, including stuck transactions.</li>
-<li>Reports started circling around that Shytoshi Kusama acknowledged the problems, also saying that there&#8217;s a huge number of ETH stuck in the Shibarium bridge that can&#8217;t be recovered.</li>
-<li>In a blog post published just now, Kusama <a href="https://blog.shib.io/shibarium-insane-influx/" data-wpel-link="external" target="_blank">addressed</a> the above, saying that all is well.</li>
-</ul>
-<blockquote><p>Let&#8217;s deal with the fud. There is no bridge issue, any screenshot you see of me saying any issue is false and your funds are safu.</p></blockquote>
-<ul>
-<li>The post goes on to explain the issues that caused delays in processing transactions.</li>
-<li>Kusama revealed that they saw an &#8220;insane level of traffic,&#8221; providing the following visualization to exemplify the difference of the normal load as opposed to what the network faced in reality.</li>
-</ul>
-<figure id="attachment_267120" aria-describedby="caption-attachment-267120" style="width: 1280px" class="wp-caption aligncenter"><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units.jpg" data-wpel-link="internal"><img class="size-full wp-image-267120" src="https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units.jpg" alt="Compute Units" width="1280" height="817" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units.jpg 1280w, https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units-300x191.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units-1024x654.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units-768x490.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/Compute-Units-50x32.jpg 50w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-267120" class="wp-caption-text">Source: shib.io</figcaption></figure>
-<p>The post <a href="https://cryptopotato.com/shiba-inu-lead-dev-all-is-well-no-bridge-issue-this-caused-the-shibarium-issues/" rel="nofollow">Shiba Inu Lead Dev: All is Well, No Bridge Issue, This Caused the Shibarium Problems</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Huge Wave of Money to Flow Into XRP Under These Circumstances: Wall Street Veteran</title>
-		<link>https://cryptopotato.com/huge-wave-of-money-to-flow-into-xrp-under-these-circumstances-wall-street-veteran/</link>
-		
-		<dc:creator><![CDATA[George Georgiev]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 12:21:03 +0000</pubDate>
-				<category><![CDATA[Crypto Bits]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ripple (XRP) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267099</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_wave_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_wave_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[A well-known Wall Street veteran believes that there's a huge wave of money waiting to flow in XRP. But when?]]></description>
-            																<content:encoded><![CDATA[<p>Ripple&#8217;s XRP has been at the forefront of experts&#8217; discussions for quite a while now, especially in 2023.</p>
-<p>The main reason for this seems to be the ongoing <a href="https://cryptopotato.com/ripple-opposes-secs-request-for-interlocutory-appeal-in-ongoing-legal-spat/" data-wpel-link="internal">spat</a> between Ripple Labs and the US Securities and Exchange Commission.</p>
-<ul>
-<li>According to many analysts and XRP proponents, the price of the token has been heavily suppressed by the ongoing legal feud between the US SEC and Ripple.</li>
-<li>After all, the top financial watchdog of the world&#8217;s strongest economy is alleging that sales of XRP, be it primary or secondary, constitute an investment contract, essentially claiming that XRP is a security.</li>
-<li>If that&#8217;s found to be the case, Ripple would have conducted an unregistered securities offering worth over $1 billion.</li>
-<li>More importantly, though, it would legitimize the claim that XRP is a security, which would put the asset under the scrutiny and purview of the Securities and Exchange Commission.</li>
-<li>That said, Wall Street veteran Linda Jones thinks that the XRP price will eventually be pushed higher by none other but institutions.</li>
-<li>She thinks that they need more legal clarity.</li>
-<li>More recently, Judge Analisa Torres, who&#8217;s presiding over the Ripple case, ruled partially in favor of the company, concluding that secondary sales of XRP do not constitute an investment contract.</li>
-<li>Yet, the case still has a long way to go.</li>
-<li>Jones also <a href="https://twitter.com/LindaPJones/status/1691810186736922776" data-wpel-link="external" target="_blank">believes</a> that congressional lawmaking is also needed for XRP&#8217;s price to increase.</li>
-</ul>
-<blockquote><p>It&#8217;s institutional money that will drive XRP&#8217;s price higher, imo. Institutions need legal clarity and framework. The lawsuit was one important piece of that. More Congressional lawmaking is needed, but it will happen. After that, the money will flow in a huge wave. They are preparing.</p></blockquote>
-<p>The post <a href="https://cryptopotato.com/huge-wave-of-money-to-flow-into-xrp-under-these-circumstances-wall-street-veteran/" rel="nofollow">Huge Wave of Money to Flow Into XRP Under These Circumstances: Wall Street Veteran</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>How This Early Pepe Trader Became a Millionaire – Which New Meme Coins Are Investors Backing Now?</title>
-		<link>https://cryptopotato.com/how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now/</link>
-		
-		<dc:creator><![CDATA[Felix Mollen]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 11:51:28 +0000</pubDate>
-				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267078</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/wsm_sonik_pepe_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/wsm_sonik_pepe_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[The massive gains scored by early investors in meme coins like Pepe ($PEPE) have shown the sector’s explosive potential. One anonymous trader became an overnight millionaire after purchasing trillions of $PEPE tokens right after launch, setting themselves up for life-changing wealth. With new meme coins constantly emerging, investors are keen to identify the next potential [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p>The massive gains scored by early investors in meme coins like Pepe ($PEPE) have shown the sector’s explosive potential.</p>
-<p>One anonymous trader became an overnight millionaire after purchasing trillions of $PEPE tokens right after launch, setting themselves up for life-changing wealth.</p>
-<p>With new meme coins constantly emerging, investors are keen to identify the next potential winners in the space – hoping to become the next &#8220;crypto millionaires.&#8221;</p>
-<h2>$PEPE’s Rollercoaster Ride Highlights Meme Coin Potential</h2>
-<p>$PEPE has dominated crypto conversations in recent months following its incredible launch and price rise.</p>
-<p>The token debuted on Uniswap in mid-April when meme coin momentum was exceedingly low.</p>
-<p>However, through viral social media marketing and enthusiastic community support, $PEPE gained traction and saw its price explode in May.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-23.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267088" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-23.jpg" alt="Picture1" width="602" height="249" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-23.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-23-300x124.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture1-23-50x21.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>According to <a href="https://coinmarketcap.com/currencies/pepe/" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">data from CoinMarketCap</a>, $PEPE hit an all-time high of $0.000001265 on May 5 – over 3,500% higher than its launch price.</p>
-<p>Unfortunately for $PEPE bulls, this peak was fleeting, and the price has gradually fallen in recent months, now trading 72% below May&#8217;s high.</p>
-<h2>How One Trader Scored Millions Off a $27 Pepe Coin Investment</h2>
-<p>One trader turned a negligible $27 investment into nearly $4 million thanks to their timely $PEPE entry.</p>
-<p>As highlighted in a <a href="https://twitter.com/DexGemsReal/status/1648575669641543681?s=20" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Twitter post from lyx.eth</a> back in April, a wallet beginning with 0xaf23 had purchased 2.5 trillion $PEPE tokens right after launch for a total of $27.</p>
-<p>As the hype around the new meme coin took off, the value of those tokens exploded.</p>
-<p>Within weeks, the wallet’s holdings were worth close to $1 million as the buying frenzy around $PEPE reached fever pitch.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-25.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267087" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-25.jpg" alt="Picture2" width="602" height="253" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-25.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-25-300x126.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture2-25-50x21.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>At the peak of Pepe mania in early May, when the project&#8217;s market cap hit $1.8 billion, these tokens would have been worth close to $10 million.</p>
-<p>Though $PEPE subsequently declined from its highs, the trader continues holding their tokens, according to <a href="https://etherscan.io/address/0xaf2358e98683265cbd3a48509123d390ddf54534#tokentxns" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">data from Etherscan.io</a>.</p>
-<p>The trader’s holdings are now worth just over $3 million, and while they missed the chance to cash out at $PEPE’s peak, they remain a multimillionaire off of a tiny $27 investment on an unknown meme coin.</p>
-<p>Stories like this have fueled the meme coin craze, with investors hoping to replicate this success through early identification and support of new meme coins.</p>
-<h2>Which Other Meme Coins Are Investors Backing?</h2>
-<p>With new meme coins constantly launching, investors are always searching for the next breakout stars.</p>
-<p>Two projects that have quickly gained backing are Sonik Coin and Wall Street Memes, thanks to their strong branding and unique tokenomics structures.</p>
-<h2>Sonik Coin Presale Surges Past $50k Thanks to Early Investor Buzz &#8211; Could it 10x?</h2>
-<p>One new meme coin gaining significant traction is <a href="https://cryptopotato.care/box_3bb03a9e65107f306e2760608ad07313?referrer=how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Sonik Coin ($SONIK)</a>, which has built momentum through its limited-time presale phase.</p>
-<p>Tapping into the popularity of Sonic the Hedgehog, $SONIK has raised over $57,000 so far in its presale, with investors able to participate for only $0.000014 per token.</p>
-<p>The project&#8217;s staking functionality is a major draw, which allocates 40% of the total token supply to rewards for $SONIK holders.</p>
-<p>By locking up their tokens, stakers can earn yields as high as 1,027% annually, according to the <a href="https://www.sonikcoin.com/en/dashboard" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Sonik Coin dashboard</a>.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-24.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267086" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-24.jpg" alt="Picture3" width="602" height="292" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-24.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-24-300x146.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture3-24-50x24.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>$SONIK&#8217;s presale has a hard cap of just $2 million, and due to the strength of the early investor demand, there&#8217;s a growing belief it could be hit soon.</p>
-<p>This could prime the token for subsequent growth once $SONIK lists on Uniswap shortly after.</p>
-<p>The combination of an accessible presale, strong meme appeal, and staking rewards has caught the attention of several influencers, with <a href="https://www.youtube.com/watch?v=9doZ8g7S8bA&amp;pp=ygURamFjb2IgY3J5cHRvIGJ1cnk%3D" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">YouTuber Jacob Bury</a> stating it’s one of his top five cryptocurrencies to buy in August.</p>
-<p>While meme coins are undoubtedly risky, Sonik Coin’s clever formula could make it one to monitor in the coming weeks.</p>
-<p><a href="https://cryptopotato.care/box_3bb03a9e65107f306e2760608ad07313?referrer=how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Sonik Coin Presale</strong></a></p>
-<h2>Wall Street Memes Presale Crosses $24m Ahead of Major Exchange Listings</h2>
-<p>Another meme coin grabbing attention is <a href="https://bs_54c27399.cryptopotato.care/?referrer=how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Wall Street Memes ($WSM)</a>, which taps into the viral retail trading movement popularized on Reddit.</p>
-<p>The $WSM presale is now nearing its conclusion, raising an incredible $24.5 million across 29 stages, each with its own price point.</p>
-<p>With the presale now in its second-last stage, the window is closing for investors to purchase $WSM tokens at the discounted price of $0.0334.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-18.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267085" src="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-18.jpg" alt="Picture4" width="602" height="297" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-18.jpg 602w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-18-300x148.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/Picture4-18-50x25.jpg 50w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
-<p>The token’s creators have hinted at plans to launch $WSM on major exchanges immediately after the presale ends, so anticipation is rapidly building.</p>
-<p>Wall Street Memes&#8217; huge social media presence has driven presale demand, with the brand boasting over 1.1 million followers worldwide.</p>
-<p>Several influencers have also endorsed the project, including <a href="https://www.youtube.com/watch?v=skW4VvqOUa4&amp;pp=ygUYd2FsbCBzdHJlZXQgbWVtZXMgY3J5cHRv" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer">Joe Parys Crypto</a>, who has over 380,000 subscribers on YouTube.</p>
-<p>As the final stage of the presale approaches, Wall Street Memes looks poised to transition to an exchange listing with massive momentum behind it – priming it to potentially become the next breakout star in the meme coin space.</p>
-<p><a href="https://bs_54c27399.cryptopotato.care/?referrer=how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now" data-wpel-link="exclude" target="_blank" rel="nofollow noopener noreferrer"><strong>Visit Wall Street Memes Presale</strong></a></p>
-<p><em>Disclaimer: The above article is sponsored content, it’s written by a third party. CryptoPotato doesn’t endorse or assume responsibility for the content, advertising, products, quality, accuracy, or other materials on this page. Nothing in it should be construed as financial advice. Readers are strongly advised to verify the information independently and carefully before engaging with any company mentioned and do their own research. Investing in cryptocurrencies carries a risk of capital loss, and readers are also advised to consult a professional before making any decisions that may or may not be based on the above-sponsored content.</em></p>
-<p><em>Readers are also advised to read CryptoPotato’s <a href="https://cryptopotato.com/disclaimer" data-wpel-link="internal">full disclaimer.</a></em></p>
-<p>The post <a href="https://cryptopotato.com/how-this-early-pepe-trader-became-a-millionaire-which-new-meme-coins-are-investors-backing-now/" rel="nofollow">How This Early Pepe Trader Became a Millionaire – Which New Meme Coins Are Investors Backing Now?</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>XRP Price During Next Bull Market: 3 Things to Keep an Eye Out For</title>
-		<link>https://cryptopotato.com/xrp-price-during-next-bull-market-3-things-to-keep-an-eye-out-for/</link>
-		
-		<dc:creator><![CDATA[Wayne Jones]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 10:49:02 +0000</pubDate>
-				<category><![CDATA[Crypto Bits]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ripple (XRP) Price]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267063</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Here are three important considerations that might shape XRP's price during the next bull market. ]]></description>
-            																<content:encoded><![CDATA[<p>As the crypto market continues evolving, investors eagerly anticipate the next bull market. Among the coins poised to make a significant impact is XRP, the digital asset associated with Ripple Labs.</p>
-<p>Given its distinctive attributes and significant potential for widespread adoption, it is crucial to monitor three key factors when assessing XRP&#8217;s price trajectory in the upcoming bull market.</p>
-<h2>Regulatory Developments</h2>
-<p>Having regulatory clarity regarding crypto, especially XRP could greatly impact its price. Ripple Labs is currently engaged in a legal battle with the U.S. Securities and Exchange Commission (SEC) regarding the classification of XRP as a security.</p>
-<p>A favorable resolution to this dispute could propel XRP&#8217;s value upward. Conversely, an adverse ruling could <a href="https://cryptopotato.com/xrp-price-tumbles-in-anticipation-of-major-development-in-ripple-v-sec-case/" data-wpel-link="internal">dampen</a> investor sentiment and potential price gains. In a recent statement, John Reed Stark, a former SEC official, <a href="https://twitter.com/JohnReedStark/status/1690707913789112320?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1690707913789112320%7Ctwgr%5E5d408781b80e3b6af5e2f930bb02eefd55e035f3%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fcryptopotato.com%2Fhow-high-can-ripple-xrp-go-during-the-next-bull-market%2F" data-wpel-link="external" target="_blank">hinted</a> at the possibility of more crypto-friendly policies and increased regulatory clarity in the event of a Republican victory in the upcoming U.S. presidential elections.</p>
-<p><a href="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover.jpg" data-wpel-link="internal"><img class="aligncenter size-full wp-image-267071" src="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover.jpg" alt="xrp_bull_rocket_cover" width="1201" height="720" srcset="https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover.jpg 1201w, https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover-300x180.jpg 300w, https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover-1024x614.jpg 1024w, https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover-768x460.jpg 768w, https://cryptopotato.com/wp-content/uploads/2023/08/xrp_bull_rocket_cover-50x30.jpg 50w" sizes="(max-width: 1201px) 100vw, 1201px" /></a></p>
-<h2>Technological Advancements</h2>
-<p>Technological advancements within the Ripple ecosystem will also shape XRP&#8217;s <a href="https://cryptopotato.com/how-high-can-ripple-xrp-go-during-the-next-bull-market/" data-wpel-link="internal">price</a> during the next bull market.</p>
-<p>The integration of new features, such as the implementation of the Flare Network for smart contracts and interoperability with other blockchains, could significantly enhance XRP&#8217;s utility and demand.</p>
-<p>These improvements could position XRP as more than just a cryptocurrency, appealing to a broader user base and contributing to price growth.</p>
-<h2>Market Sentiment and Adoption</h2>
-<p>The sentiment surrounding the broader cryptocurrency market and XRP&#8217;s adoption rate will be pivotal in determining its price trajectory during the next bull market.</p>
-<p>Positive sentiment and increasing adoption by financial institutions can drive demand for XRP. Furthermore, partnerships and collaborations with established players in the financial sector can instill confidence in XRP&#8217;s use case and potential, positively impacting its price.</p>
-<p>Monitoring these key factors will provide investors with valuable insights into the potential direction of XRP&#8217;s price.</p>
-<p>None of the above should be considered as financial advice, and readers are strongly advised to carry out their own research or consult a professional before making any investments.</p>
-<p>The post <a href="https://cryptopotato.com/xrp-price-during-next-bull-market-3-things-to-keep-an-eye-out-for/" rel="nofollow">XRP Price During Next Bull Market: 3 Things to Keep an Eye Out For</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Ripple Opposes SEC’s Request for Interlocutory Appeal in Ongoing Legal Spat</title>
-		<link>https://cryptopotato.com/ripple-opposes-secs-request-for-interlocutory-appeal-in-ongoing-legal-spat/</link>
-		
-		<dc:creator><![CDATA[Mandy Williams]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 10:45:23 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Ripple]]></category>
-		<category><![CDATA[SEC]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267060</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2022/10/Ripple_SEC.png" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2022/10/Ripple_SEC.png" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Ripple argued that there is no extraordinary circumstance justifying a departure from the rule that requires all issues to be resolved before an appeal.]]></description>
-            																<content:encoded><![CDATA[<p>Ripple Labs has opposed the U.S. Securities and Exchange Commission’s (SEC) request for an interlocutory appeal against Judge Analisa Torres’ decision on the sale of XRP constituting securities.</p>
-<p>According to a <a href="https://twitter.com/s_alderoty/status/1691917112019960288?s=20" data-wpel-link="external" target="_blank">tweet</a> by Ripple Labs chief legal officer Stuart Alderoty, the court should reject the SEC’s request because there is no extraordinary circumstance justifying a departure from the rule that requires all issues to be resolved before an appeal.</p>
-<h2>Ripple Opposes SEC’s Appeal Request</h2>
-<p>In mid-July, Judge Torres <a href="https://cryptopotato.com/history-in-the-making-with-ripple-scoring-massive-win-in-court-in-xrp-security-case-this-weeks-recap/" data-wpel-link="internal">passed</a> a landmark decision in the legal case between the SEC and Ripple. She ruled that the sale of XRP to retail investors on exchanges did not qualify as securities because they followed a blind bid process. In contrast, the opposite is the case when the same assets are sold to institutional investors.</p>
-<p>The judge’s ruling dealt a massive blow to the SEC because its lawsuit against Ripple was based on accusations that the company conducted an unregistered sale of securities even in secondary markets.</p>
-<p>Subsequently, the SEC signaled its intent to appeal the ruling and, on August 9, <a href="https://cryptopotato.com/xrp-institutional-interest-skyrockets-despite-secs-intention-to-appeal-judges-decision-in-ripple-case/" data-wpel-link="internal">filed</a> an interlocutory brief to that effect. The agency cited a recent incident where a presiding judge in its case against Terraform Labs and its founder, Do Kwon, <a href="https://cryptopotato.com/judge-rejects-terraforms-attempt-to-capitalize-on-ripple-precedent-report/" data-wpel-link="internal">dismissed</a> the XRP ruling.</p>
-<p>An interlocutory appeal occurs when a decision by a trial court is challenged while other aspects of the case are still proceeding. Such requests are usually allowed under rare or specific circumstances.</p>
-<p>In Ripple’s <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.889.0.pdf" data-wpel-link="external" target="_blank">opposition</a>, the company insisted that the SEC be allowed to appeal Judge Torres’ decision in the normal course after a final judgment is passed.</p>
-<h2>Ripple Will Prove SEC Wrong Again: Garlinghouse</h2>
-<p>Ripple’s opposition to the SEC’s motion was based on three reasons, with the first being that the judge’s ruling was not a “pure question of law.” The company also argued that the Commission’s disagreement with the decision did not show a substantial ground for a difference of opinion.</p>
-<p>Lastly, an immediate appeal of the ruling would not lead to the termination of the legal case, according to Ripple.</p>
-<p>Commenting on Ripple’s opposition, the company’s CEO, Brad Garlinghouse, <a href="https://twitter.com/bgarlinghouse/status/1691927226009235666?s=20" data-wpel-link="external" target="_blank">said</a> that even if the appeal is granted, it will not change the fact that XRP is not a security.</p>
-<p>The Ripple chief added that the SEC’s claims that he and his partner Chris Larsen acted recklessly in believing the crypto asset is not a security is “utter nonsense,” stating that they look forward to proving the agency wrong again.</p>
-<p>The post <a href="https://cryptopotato.com/ripple-opposes-secs-request-for-interlocutory-appeal-in-ongoing-legal-spat/" rel="nofollow">Ripple Opposes SEC’s Request for Interlocutory Appeal in Ongoing Legal Spat</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>TRON DAO Ventures Invests $2 Million in CRV and Curve to Launch on TRON and BTTC</title>
-		<link>https://cryptopotato.com/tron-dao-ventures-invests-2-million-in-crv-and-curve-to-launch-on-tron-and-bttc/</link>
-		
-		<dc:creator><![CDATA[Chainwire]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 09:37:49 +0000</pubDate>
-				<category><![CDATA[Press Release]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267028</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2023/08/46c45ae6-5a58-4053-9878-db127a03acb5_1692259989D7hFvsQULj.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2023/08/46c45ae6-5a58-4053-9878-db127a03acb5_1692259989D7hFvsQULj.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[[PRESS RELEASE &#8211; Geneva, Switzerland, August 17th, 2023] TRON DAO Ventures, the investment arm of TRON DAO, has recently bought $2 million worth of CRV tokens. As part of this strategic partnership, Curve will launch on both the TRON and the BTTC networks. Curve is a decentralized exchange acclaimed for its automated market makers (AMMs) [&#8230;]]]></description>
-            																<content:encoded><![CDATA[<p><strong>[PRESS RELEASE &#8211; Geneva, Switzerland, August 17th, 2023]</strong></p>
-<p>TRON DAO Ventures, the investment arm of <a href="http://trondao.org" target="_blank" rel="nofollow noopener" data-wpel-link="external">TRON DAO</a>, has recently bought $2 million worth of CRV tokens. As part of this strategic partnership, Curve will launch on both the TRON and the BTTC networks.</p>
-<p>Curve is a decentralized exchange acclaimed for its automated market makers (AMMs) tailored for stablecoin trading. Having experienced an exponential surge in the latter half of 2020, it once established itself as the epitome of DeFi platforms. Currently, Curve ranks as the world&#8217;s second-largest decentralized exchange (DEX) and the largest DEX for stablecoin trading.</p>
-<p>The recent hack targeting the platform has led to a chain reaction in the DeFi space. TRON founder Justin Sun promptly expressed his support for Curve after the incident, stating, &#8220;Curve is an essential DeFi infrastructure for the blockchain industry. Our thoughts are with the team and the users affected. As a community, let&#8217;s support and strengthen the security measures to protect our decentralized ecosystem.&#8221;</p>
-<p>Amidst the volatile market on August 1, TRON forged a partnership with Curve, introducing a stUSDT pool on the platform. stUSDT, the world&#8217;s first rebase real-world asset (RWA) protocol on the TRON blockchain, is hailed as the Web3 world&#8217;s version of Yu&#8217;E Bao (once China’s largest money market fund). According to <a href="https://defillama.com/protocol/stusdt" target="_blank" rel="nofollow noopener" data-wpel-link="external">Defillama</a>, the TVL on stUSDT has already exceeded $700 million.</p>
-<p>Following that, TRON DAO Ventures announced its investment in Curve, underscoring TRON&#8217;s ecosystem support not only through collaboration but also through financial backing. Meanwhile, Curve will integrate with the TRON and the BTTC networks as part of the partnership.</p>
-<p>The collaboration among TRON, BTTC, and Curve is set to generate crucial synergies for the industry. Curve, a foundation infrastructure in the DeFi domain, offers significant advantages in terms of reduced financial costs and time inefficiencies while also supporting prominent public blockchains like Ethereum, Arbitrum, and Avalanche. This collaboration is poised to help further develop TRON&#8217;s DeFi ecosystem. Meanwhile, as a major driver of DeFi innovation, TRON will share its most secure and cutting-edge products with Curve.</p>
-<p>The integration between Curve and BTTC will also fuel the growth of DeFi ecosystems, especially DEX platforms. As the industry&#8217;s first heterogeneous cross-chain interoperability protocol, BTTC has supported cross-chain functionality between TRON, Ethereum, and BNB Chain upon its release. It will also introduce zero-knowledge (ZK) proof technology later this year, which enables users to build dApps seamlessly across different blockchains, promoting an inclusive ecosystem open to everyone.</p>
-<p>With the backing of TRON and BTTC, Curve anticipates a rapid rebound, and users are bound to witness a more vibrant DeFi ecosystem in the crypto industry.</p>
-<h2>About TRON DAO</h2>
-<p>TRON DAO is a community-governed DAO dedicated to accelerating the decentralization of the internet via blockchain technology and dApps.</p>
-<p>Founded in September 2017 by H.E. Justin Sun, the TRON network has continued to deliver impressive achievements since MainNet launch in May 2018. July 2018 also marked the ecosystem integration of BitTorrent, a pioneer in decentralized Web3 services boasting over 100 million monthly active users. The TRON network has gained incredible traction in recent years. As of August 2023, it has over 179.07 million total user accounts on the blockchain, more than 6.26 billion total transactions, and over $13.01 billion in total value locked (TVL), as reported on TRONSCAN.</p>
-<p>In addition, TRON hosts the largest circulating supply of USD Tether (USDT) stablecoin across the globe, overtaking USDT on Ethereum since April 2021. The TRON network completed full decentralization in December 2021 and is now a community-governed DAO. Most recently in October 2022, TRON was designated as the national blockchain for the Commonwealth of Dominica, which marks the first time a major public blockchain partnered with a sovereign nation to develop its national blockchain infrastructure. On top of the government’s endorsement to issue Dominica Coin (“DMC”), a blockchain-based fan token to help promote Dominica’s global fanfare, seven existing TRON-based tokens &#8211; TRX, BTT, NFT, JST, USDD, USDT, TUSD, have been granted statutory status as authorized digital currency and medium of exchange in the country.</p>
-<h2>About Curve</h2>
-<p>Founded by Michael Egorov and launched in January 2020, Curve Finance positions itself as a DEX built on an AMM model. It focuses on the trading of stablecoins (USDT, USDC, DAI), synthetic assets/derivatives/staking assets (wBTC, renBTC, stETH), etc. In addition to its stronghold Ethereum, Curve also extended its presence across other chains such as Fantom, Polygon, Avalanche, Arbitrum, and Optimism.</p>
-<p>The post <a href="https://cryptopotato.com/tron-dao-ventures-invests-2-million-in-crv-and-curve-to-launch-on-tron-and-bttc/" rel="nofollow">TRON DAO Ventures Invests $2 Million in CRV and Curve to Launch on TRON and BTTC</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
-																</item>
-		<item>
-		<title>Shiba Inu&#8217;s Shibarium Experiences Major Issues on Day 1: Details</title>
-		<link>https://cryptopotato.com/shiba-inus-shibarium-experiences-major-issues-on-day-1-details/</link>
-		
-		<dc:creator><![CDATA[Chayanika Deka]]></dc:creator>
-		<pubDate>Thu, 17 Aug 2023 09:30:33 +0000</pubDate>
-				<category><![CDATA[AA News]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[Shiba Inu (SHIB)]]></category>
-		<guid isPermaLink="false">https://cryptopotato.com/?p=267015</guid>
-		<media:content url="https://cryptopotato.com/wp-content/uploads/2021/05/shiba_inu_cover.jpg" medium="image"/>
-		<enclosure url="https://cryptopotato.com/wp-content/uploads/2021/05/shiba_inu_cover.jpg" length="840" type="image/jpg"/>
-					
-			            <description><![CDATA[Shibarium's launch causes stir as community slams "non-functional" RPC, "awful" blockchain explorer, and an overall "sloppy" experience.]]></description>
-            																<content:encoded><![CDATA[<p>The highly awaited Shibarium finally made its debut this week. The spotlight was firmly fixed at layer-2 primarily because it aimed to elevate the meme coin&#8217;s status in the industry into a more substantial contender. The launch, however, did not meet the expectation as SHIB, BONE, LEASH, and TREAT are experiencing declines in the aftermath.</p>
-<p>Transactions stuck on the Shibarium in a pending state is to blame. The community has also pointed to issues plaguing the remote procedure call system, also known as the RPC.</p>
-<h2>Shibarium&#8217;s &#8216;Sloppy&#8217; Start</h2>
-<p>According to the blockchain security platform Beosin, there are currently $1.7 million in funds <a href="https://twitter.com/BeosinAlert/status/1692003409602445743" target="_blank" rel="noopener" data-wpel-link="external">locked</a> in Shibarium. It advised users to temporarily stop using the blockchain. The figure was further confirmed by another blockchain security expert, PeckShied, which revealed that 956 ETH was stuck on the Shibarium bridge.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">In case yall were wondering how Shibarium is going <a href="https://t.co/S5vjTxoMDk" data-wpel-link="external" target="_blank">pic.twitter.com/S5vjTxoMDk</a></p>
-<p>— ʎppɐꓷ ɯooɹɥS (@shroom_daddy) <a href="https://twitter.com/shroom_daddy/status/1691953231289528683?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank">August 16, 2023</a></p></blockquote>
-<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>Shibarium is a layer-2 solution for the Shiba Inu blockchain that was designed to reduce gas fees and ramp up transactions.</p>
-<p>However, a screenshot allegedly depicting an internal conversation on Telegram between Shiba Inu’s lead developer, who goes by the pseudonym Shytoshi Kusama, and other members of the team indicates the failure to retrieve assets bridged to the Shibarium network.</p>
-<p>An additional <a href="https://twitter.com/shroom_daddy/status/1691953687994757292" target="_blank" rel="noopener" data-wpel-link="external">screenshot</a> has been going around that purportedly displayed a Shibarium user encountering a technical issue with the block scanner. They mentioned being unable to retrieve their bridged balance through the RPC query. Meanwhile, the Shibarium RPC website remains inaccessible as well.</p>
-<p>Prominent crypto sleuth ZachXBT <a href="https://twitter.com/zachxbt/status/1691962886585815081" target="_blank" rel="noopener" data-wpel-link="external">described</a> the launch as a &#8220;sloppy&#8221; one. Shibarium&#8217;s blockchain explorer, which has faced <a href="https://twitter.com/Boo_Koo_Bucks/status/1691963193147674918" target="_blank" rel="noopener" data-wpel-link="external">criticism</a> for being subpar, <a href="https://www.shibariumscan.io/" target="_blank" rel="noopener" data-wpel-link="external">indicates</a> that the most recent block was added three hours ago.</p>
-<h2>Shib Inu Tokens Suffer Losses</h2>
-<p>The botched launch has had a negative impact on the price of all the tokens associated with the ecosystem.</p>
-<p>The SHIB meme coin, for one, lost almost 10% in the last 24 hours. However, it is the Shibarium’s governance tokens &#8211; BONE and LEASH &#8211; that suffered the most, recording approximately 15% and 24% drawdowns during the same period. Meanwhile, TREAT was also down by more than 22%.</p>
-<p>The post <a href="https://cryptopotato.com/shiba-inus-shibarium-experiences-major-issues-on-day-1-details/" rel="nofollow">Shiba Inu&#8217;s Shibarium Experiences Major Issues on Day 1: Details</a> appeared first on <a href="https://cryptopotato.com/" rel="nofollow">CryptoPotato</a>.</p>]]></content:encoded>
 																</item>
 	</channel>
 </rss>
