@@ -28,6 +28,55 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ethereum Gears Up for &#8216;Holesky&#8217; Testnet Launch With 1.6 Billion Testnet Ether</title>
+		<link>https://news.bitcoin.com/ethereum-gears-up-for-holesky-testnet-launch-with-1-6-billion-testnet-ether/</link>
+		
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2023 20:30:40 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Besu]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[devnet-8]]></category>
+		<category><![CDATA[Erigon]]></category>
+		<category><![CDATA[ETH Devs]]></category>
+		<category><![CDATA[ETH testnet]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Ethereum Development]]></category>
+		<category><![CDATA[Ethereum JS]]></category>
+		<category><![CDATA[forkChoiceUpdated]]></category>
+		<category><![CDATA[Geth]]></category>
+		<category><![CDATA[Goerli]]></category>
+		<category><![CDATA[Holesky]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[Kurtosis Tech]]></category>
+		<category><![CDATA[launch]]></category>
+		<category><![CDATA[lighthouse]]></category>
+		<category><![CDATA[Nethermind]]></category>
+		<category><![CDATA[nplex]]></category>
+		<category><![CDATA[Parithosh Jayanthi]]></category>
+		<category><![CDATA[staking]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[testnet]]></category>
+		<category><![CDATA[Tim Beiko]]></category>
+		<category><![CDATA[Validators]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=603258</guid>
+
+					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ethereum Gears Up for &#039;Holesky&#039; Testnet Launch With 1.6 Billion Testnet Ether" decoding="async" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Ethereum developers plan to roll out a new testnet named Holesky, intending to bring 1.6 billion Holesky testnet ether to the network. The core devs of Ethereum highlighted that 1.4 million validators were evaluated for Holesky, with the aim of enhancing the blockchain&#8217;s comprehensive development. Ethereum&#8217;s Holesky Set to Replace Goerli Testnet in 2023 As [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ethereum Gears Up for &#039;Holesky&#039; Testnet Launch With 1.6 Billion Testnet Ether" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p><strong>Ethereum developers plan to roll out a new testnet named Holesky, intending to bring 1.6 billion Holesky testnet ether to the network. The core devs of Ethereum highlighted that 1.4 million validators were evaluated for Holesky, with the aim of enhancing the blockchain&#8217;s comprehensive development.</strong></p>
+<h2>Ethereum&#8217;s Holesky Set to Replace Goerli Testnet in 2023</h2>
+<p>As <a href="https://twitter.com/TimBeiko/status/1692283671481573538?s=20">reported</a> by Tim Beiko, a core developer, during the Ethereum <a href="https://www.youtube.com/live/DyAtbK2MQG4?feature=share">Execution Layer Meeting 168</a>, <a href="https://twitter.com/parithosh_j">Parithosh Jayanthi</a> shared an update on the recently launched devnet-8. Beiko mentioned that while some clients faced challenges, most have been addressed or are being fixed. Notably, Lighthouse encountered a problem due to nplex support removal – an issue they plan to resolve.</p>
+<p>Furthermore, Beiko <a href="https://twitter.com/TimBeiko/status/1692284398312538144?s=20">revealed</a> that Ethereum JS rectified a bug related to multiple &#8220;forkChoiceUpdated calls&#8221; during block production. Pre-launch glitches in Geth and Nethermind were identified and corrected. The Ethereum developer also stated that the Ethereum Foundation&#8217;s Devops team joined forces with <a href="https://twitter.com/KurtosisTech">Kurtosis Tech</a> for pre-launch testing and anticipates utilizing it in augmenting test scenarios.</p>
+<p>The developer also emphasized that Besu and Erigon have not yet participated in the devnet but plan to once their respective implementations are finalized. Alongside these discussions, Ethereum developers aim to unveil a new testnest called <a href="https://github.com/eth-clients/holesky">Holesky</a> in mid-September. Intended to foster development, an abundance of testnet coins will be introduced to the testing layer.</p>
+
+<p>Core developers agreed to incorporate 1.6 billion Holesky testnet ether. Holesky is set to be a public testnet and will &#8220;replace <a href="https://github.com/eth-clients/goerli">Goerli</a> as a staking, infrastructure, and protocol-developer testnet in 2023,&#8221; according to Holesky documentation. As of now, Holesky is scheduled for launch on September 15, 2023, at 14:00 UTC. This upcoming testnet will be employed for testing purposes in line with future Ethereum upgrades. The next Ethereum core developer Execution Layer Meeting is set for August 31, 2023.</p>
+<p><em><strong>What do you think about the latest Ethereum core devs meeting and the upcoming Holesky testnet? Share your thoughts and opinions about this subject in the comments section below.</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/deveth-760x428.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[#Ethereum developers plan to roll out a new testnet named Holesky, intending to bring 1.6 billion Holesky testnet ether to the network.]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[#Ethereum developers are set to launch a new testnet called Holesky, which will bring 1.6 billion Holesky testnet ether to the network.]]></bnmedia:late_barker_title>	</item>
+		<item>
 		<title>US Court Classifies Tornado Cash as &#8216;Person&#8217; in Verdict Echoing Ooki DAO Designation</title>
 		<link>https://news.bitcoin.com/us-court-classifies-tornado-cash-as-person-in-verdict-echoing-ooki-dao-designation/</link>
 		
@@ -58,7 +107,7 @@
 		<category><![CDATA[U.S. court]]></category>
 		<guid isPermaLink="false">https://news.bitcoin.com/?p=603174</guid>
 
-					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="US Court Classifies Tornado Cash as &#039;Person&#039; in Verdict Echoing Ooki DAO Designation" decoding="async" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />A recent ruling by a U.S. judge declared that Tornado Cash holds the legal status of a “person.&#8221; This development came on the heels of a previous verdict in June, which recognized the decentralized autonomous organization Ooki DAO in a similar manner. U.S. Judiciary Designates Tornado Cash as &#8216;Person&#8217; in OFAC Case In a legal [&#8230;]]]></description>
+					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="US Court Classifies Tornado Cash as &#039;Person&#039; in Verdict Echoing Ooki DAO Designation" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />A recent ruling by a U.S. judge declared that Tornado Cash holds the legal status of a “person.&#8221; This development came on the heels of a previous verdict in June, which recognized the decentralized autonomous organization Ooki DAO in a similar manner. U.S. Judiciary Designates Tornado Cash as &#8216;Person&#8217; in OFAC Case In a legal [&#8230;]]]></description>
 										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="US Court Classifies Tornado Cash as &#039;Person&#039; in Verdict Echoing Ooki DAO Designation" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/tcash.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p><strong>A recent ruling by a U.S. judge declared that Tornado Cash holds the legal status of a “person.&#8221; This development came on the heels of a previous verdict in June, which recognized the decentralized autonomous organization Ooki DAO in a similar manner.</strong></p>
 <h2>U.S. Judiciary Designates Tornado Cash as &#8216;Person&#8217; in OFAC Case</h2>
 <p>In a legal face-off with the U.S. government, specifically the OFAC, the plaintiffs posited that Tornado Cash is simply decentralized software. On the contrary, the government viewed it as an organization facilitating cryptocurrency mixing. Central to the dispute was whether the OFAC held the power to impose sanctions on <a href="https://news.bitcoin.com/us-government-bans-ethereum-mixer-tornado-cash-platform-added-to-ofacs-sdn-list/">Tornado Cash</a>, and if such an action infringes on the plaintiffs&#8217; freedom of speech.</p>
@@ -407,51 +456,5 @@ Microbt&#x2019;s newest unit <a href="https://news.bitcoin.com/microbt-unveils-n
 		
 		
 		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1604674354-760x428.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[According to the cybercrime unit, gaming apps are luring victims with promises of "huge #financial rewards directly proportional to #investments to potential targets." #cryptocurrency #regulation]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[The cybercrime unit added that hackers usually get away with such crimes because "cryptocurrency is relatively new and not well-regulated." #digitalassets #p2e]]></bnmedia:late_barker_title>	</item>
-		<item>
-		<title>Elon Musk&#8217;s Spacex Writes Down Bitcoin Worth $373 Million</title>
-		<link>https://news.bitcoin.com/elon-musks-spacex-writes-down-bitcoin-worth-373-million/</link>
-		
-		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
-		<pubDate>Sat, 19 Aug 2023 02:00:43 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Elon Musk Spacex bitcoin]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[spacex bitcoin]]></category>
-		<category><![CDATA[Spacex bitcoin holdings]]></category>
-		<category><![CDATA[Spacex BTC holdings]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[tesla bitcoin]]></category>
-		<guid isPermaLink="false">https://news.bitcoin.com/?p=603156&#038;preview=true&#038;preview_id=603156</guid>
-
-					<description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Spacex Writes Down Bitcoin Worth $373 Million" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Spacex reportedly wrote down the value of its bitcoin holdings by $373 million over the past two years and sold an undisclosed amount of the cryptocurrency. According to reports, Tesla, another company run by billionaire Elon Musk, has taken a similar approach with its bitcoin holdings.&#13; Spacex Writes Down $373M in Bitcoin Value &#13; On [&#8230;]]]></description>
-										<content:encoded><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Spacex Writes Down Bitcoin Worth $373 Million" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><p><strong>Spacex reportedly wrote down the value of its bitcoin holdings by $373 million over the past two years and sold an undisclosed amount of the cryptocurrency. </strong><strong>According to reports, Tesla, another company run by billionaire Elon Musk, has taken a similar approach with its bitcoin holdings.</strong>&#13;</p>
-<h2>Spacex Writes Down $373M in Bitcoin Value</h2>
-<p>&#13;<br />
-On Thursday, the Wall Street Journal reported that Elon Musk&#x2019;s Spacex has written down its bitcoin investments, citing documents it has seen. The news outlet wrote:&#13;</p>
-<blockquote><p>Spacex wrote down the value of bitcoin it owns by a total of $373 million last year and in 2021 and has sold the cryptocurrency. Tesla has taken a similar approach with its bitcoin holdings. Musk has posted about cryptocurrencies frequently over the years.</p></blockquote>
-<p>&#13;<br />
-This led to numerous headlines claiming that Spacex had liquidated its entire bitcoin holdings, sending the price of bitcoin tumbling.&#13;<br />
-&#13;<br />
-However, many people took to social media to point out that writing down investments is a standard accounting practice for businesses and does not imply that the investments have been sold or liquidated. For example, a company might write down the value of its inventory if its market value has declined, yet retain the inventory until it is no longer needed.&#13;</p>
-<h2>Tesla and Spacex Adopt Similar Bitcoin Approach</h2>
-<p>&#13;<br />
-Although Elon Musk <a href="https://news.bitcoin.com/elon-musk-spacex-owns-bitcoin-personally-owns-btc-ethereum-dogecoin-pump-dont-dump/">revealed</a> in July 2021 that Spacex owned bitcoin, the details of the company&#x2019;s <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> holdings remain largely undisclosed. In contrast, there is greater transparency regarding Tesla&#x2019;s bitcoin position. According to the Wall Street Journal, both companies have adopted a similar approach to their bitcoin holdings.&#13;<br />
-&#13;<br />
-&#13;<br />
-&#13;<br />
-During the first quarter of 2021, Tesla purchased bitcoin valued at $1.5 billion. The company subsequently trimmed its <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> stash twice: once also in Q1 2021 and the other instance in July last year &#x2014; the same years Spacex reportedly wrote down its bitcoin holdings.&#13;<br />
-&#13;<br />
-In Q1 2021, Tesla <a href="https://news.bitcoin.com/elon-musk-owns-bitcoin-has-not-sold-any-tesla-hold-btc-long-term-sold-to-prove-liquidity/">sold</a> $272 million in <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>. Musk clarified that the sale was &#x201C;to prove liquidity of bitcoin as an alternative to holding cash on balance sheet.&#x201D; In July last year, the company <a href="https://news.bitcoin.com/tesla-sold-75-of-its-bitcoin-elon-musk-says-we-have-not-sold-any-of-our-dogecoin/">sold</a> approximately 75% of its bitcoin, which added $936 million in cash to its balance sheet. Musk explained that the company needed to &#x201C;maximize&#x201D; its cash position due to &#x201C;the uncertainty of the Covid lockdowns in China.&#x201D; The billionaire stressed:&#13;</p>
-<blockquote><p>We are certainly open to increasing our bitcoin holdings in the future, so this should not be taken as some verdict on bitcoin.</p></blockquote>
-<p>&#13;<br />
-Despite the two <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> sales, Tesla still owns bitcoin valued at <a href="https://news.bitcoin.com/teslas-bitcoin-portfolio-remains-unchanged-at-184m-for-third-straight-quarter-q2-2023-report/">$184 million</a>, as disclosed in the company&#x2019;s Q2 financials.&#13;<br />
-&#13;<br />
-<em><strong>What do you think about Spacex writing down its bitcoin investments? Let us know in the comments section below.</strong></em></p>
-]]></content:encoded>
-					
-		
-		
-		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2023/08/spacex-bitcoin-760x428.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[#ElonMusk's #Spacex has reportedly written down the value of its #bitcoin by $373 million. #Tesla has reportedly made a similar move. $BTC]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA["#Spacex wrote down the value of #bitcoin it owns by a total of $373 million last year and in 2021," according to reports. $BTC #crypto #Tesla]]></bnmedia:late_barker_title>	</item>
 	</channel>
 </rss>
